@@ -1,30 +1,31 @@
-# Game Modding & Reverse Engineering Knowledge Base
+# Modding Knowledge Base
+Welcome to my personal modding knowledge base. This repository is categorized into Engine-specific research and General Modding Techniques.
 
-คลังความรู้นี้ถูกสร้างขึ้นเพื่อรวบรวม **เทคนิคการเจาะไฟล์ (Reverse Engineering)** และ **สถาปัตยกรรมการทำ Mod ภาษาไทย** โดยเน้นไปที่เทคนิคขั้นสูงที่ไม่ต้องดัดแปลงไฟล์เกมดั้งเดิม (Non-destructive modding)
+## Directory Structure
 
-โปรเจกต์นี้จะถูกอัปเดตและเพิ่มกรณีศึกษา (Case Studies) ใหม่อย่างต่อเนื่อง เมื่อเราได้ทำการแกะและวิเคราะห์ Mod หรือระบบของเกมอื่นๆ อย่างละเอียดในอนาคต
+### 🎮 Engines (Engine-Specific Knowledge)
 
-## 🛠️ หมวดหมู่ความรู้และเทคนิคปัจจุบัน
+#### Frostbite Engine
+- **[Mass Effect: Andromeda](Engines/Frostbite/MassEffectAndromeda/)**
+  - [Thai Localization Guide](Engines/Frostbite/MassEffectAndromeda/MEA_Thai_Localization_Guide.md) - Comprehensive guide on Glyph Swapping, ZWSP Word-Wrap, and Binary `.res` encoding to bypass engine limitations.
+  - [Localization Scripts](Engines/Frostbite/MassEffectAndromeda/Scripts/) - Python tools for encoding/decoding `.res` files, TTF font swapping, and modifying glyph Y-axis.
 
-### 1. Proxy DLL Architecture
-เทคนิคการสร้างไฟล์ DLL ปลอม (เช่น `dxgi.dll`, `dinput8.dll`, `version.dll`) เพื่อให้เกมโหลดแทน DLL ของระบบปฏิบัติการ และใช้เป็นประตูหลัง (Backdoor) สำหรับฉีดโค้ดเข้าไปในเกม
-
-### 2. Inline Hooking (MinHook)
-การใช้เทคนิค Hook เพื่อดักจับฟังก์ชันในหน่วยความจำ โดยจะมีการแช่แข็ง (Suspend) Thread ชั่วคราว สแกนหาที่อยู่ของฟังก์ชันเป้าหมาย และเปลี่ยนทาง (Detour) การทำงานมาที่โค้ดของเรา
-
-### 3. กรณีศึกษา (Case Studies)
-
-#### 📝 [Case Study: In-Memory Font Replacement (Dead Space)](6_Font_Replacement_Strategy.md)
-* **เป้าหมาย:** ไฟล์สินทรัพย์ไบนารี (Binary Assets)
-* **เทคนิค:** การค้นหาตำแหน่งของฟอนต์ใน RAM แล้วทำการแทนที่ (Copy-paste memory) ข้อมูลฟอนต์เดิมด้วยฟอนต์ที่รองรับภาษาไทยดื้อๆ
-* **ลักษณะเฉพาะ:** แก้ปัญหาสระลอยไม่ได้ด้วยตัวมันเอง แต่เป็นวิธีบังคับใส่ฟอนต์เมื่อแก้ไฟล์เกมไม่ได้
-
-#### 📝 [Case Study: Translation Hooking (Guardians of the Galaxy)]
-*(โครงสร้างกำลังถูกรวบรวม)*
-* **เป้าหมาย:** โค้ดเรนเดอร์ หรือฟังก์ชันโหลดข้อความ
-* **เทคนิค:** AOB Pattern Scanning เพื่อหาฟังก์ชันวาดข้อความ แล้วทำการดักตัวแปร String เพื่อเปลี่ยนจากภาษาอังกฤษเป็นภาษาไทยก่อนส่งขึ้นจอ
-* **ลักษณะเฉพาะ:** สามารถจัดการโครงสร้างข้อความและปัญหา Text Shaping ได้อย่างสมบูรณ์แบบ
+- **[Dead Space Remake](Engines/Frostbite/DeadSpaceRemake/)**
+  - [Font Replacement Strategy](Engines/Frostbite/DeadSpaceRemake/Font_Replacement_Strategy.md) - Techniques for replacing and injecting custom fonts.
 
 ---
 
-> *"คลังความรู้นี้มีชีวิต เราจะขยายฐานข้อมูลและเพิ่มเทคนิคใหม่ๆ เข้ามาเรื่อยๆ ทุกครั้งที่ทะลวงระบบเกมใหม่ๆ สำเร็จ"*
+### 🛠️ Techniques (General Modding Techniques)
+
+#### [Hooking and Proxy](Techniques/Hooking_and_Proxy/)
+- **Proxy DLL Template**: Boilerplate code for creating proxy DLLs (like `dxgi.dll` or `dinput8.dll`) to load custom code into a game process.
+- **MinHook Blueprint**: Implementations and best practices for using MinHook to intercept and modify game functions.
+
+#### [Memory Scanning](Techniques/Memory_Scanning/)
+- **Pattern Scanner**: Tools and techniques for finding dynamic memory addresses using byte pattern scanning (AOB scanning).
+
+#### [Data Parsing](Techniques/Data_Parsing/)
+- **Lightweight JSON Parser**: A minimal C++ JSON parser designed for reading mod configuration files without heavy dependencies.
+
+#### [Build and Deployment](Techniques/Build_and_Deployment/)
+- **Deployment Script**: Automated scripts for compiling mods, copying them to the game directory, and launching the game for testing.
