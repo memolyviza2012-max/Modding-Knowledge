@@ -24,7 +24,7 @@ warnings.filterwarnings("ignore")
 # ==============================================================================
 # [ส่วนที่ 1: ตั้งค่าระบบ - บอสปรับแต่งตรงนี้ได้เลย]
 # ==============================================================================
-API_KEY      = "sk-fe9baa228b014ecfb26adacf0fa27309"  # <-- บอสเอา API Key ของ DeepSeek มาใส่ตรงนี้ครับ
+API_KEY      = "YOUR_DEEPSEEK_API_KEY"  # <-- ใส่ API Key ของคุณที่นี่้ครับ
 DEEPSEEK_URL = "https://api.deepseek.com/chat/completions"
 MODEL        = "deepseek-chat"
 TEMPERATURE  = 0.3
