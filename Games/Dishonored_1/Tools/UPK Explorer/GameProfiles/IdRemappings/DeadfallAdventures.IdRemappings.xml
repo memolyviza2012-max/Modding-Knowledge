@@ -1,0 +1,1135 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="advgame\cookedpcconsole\advgame_p.upk" />
+    <Package path="advgame\cookedpcconsole\advgame.upk" />
+    <Package path="advgame\cookedpcconsole\core.upk" />
+    <Package path="advgame\cookedpcconsole\engine.upk" />
+    <Package path="advgame\cookedpcconsole\envyentry.upk" />
+    <Package path="advgame\cookedpcconsole\evilgame.upk" />
+    <Package path="advgame\cookedpcconsole\gameframework.upk" />
+    <Package path="advgame\cookedpcconsole\gfxui.upk" />
+    <Package path="advgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="advgame\cookedpcconsole\guidcache.upk" />
+    <Package path="advgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="advgame\cookedpcconsole\mp-anubis_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-anubis_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-anubis_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-forbidden_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-forbidden_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-forbidden_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moonlight_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moonlight_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moonlight_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moutains_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moutains_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-moutains_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-oasis_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-oasis_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-oasis_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-outpost_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-outpost_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-outpost_01.upk" />
+    <Package path="advgame\cookedpcconsole\mp-storm_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\mp-storm_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\mp-storm_01.upk" />
+    <Package path="advgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="advgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="advgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="advgame\cookedpcconsole\refshadercache-pc-opengl.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02_saharaoutdoor_introcs_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02_saharaoutdoor_introcs_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02_saharaoutdoor_introcs.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_01_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_01_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_04_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_06_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_06_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_08_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_08_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_08_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_08_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_09_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_09_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_09_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_09_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_10_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_10_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_10_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_10_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_11_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_11_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_11_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_12_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_12_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_12_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_12_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_12_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_13_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_13_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_13_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_13_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_a_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_a_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_14_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs3_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs3_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_cs3.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_ics1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_ics1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_ics1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_landscape.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_sky.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaindoor-bp.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_01_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_01_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_03_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_04_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_04_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_04_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_car_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_car_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_car.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-02-saharaoutdoor_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_001_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_001_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_001_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_003_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_004_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_005_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_006_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_007_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_008_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_009_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_010_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_010_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_011_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_011_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_011_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_011_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_012_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_013_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_014_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_014_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_015_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_016_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_016_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_017_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_02_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_02_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_022_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_023_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_024_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_032_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_17_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_17_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_17_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_17_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_fog.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_02_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_02_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_minecart_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-05-petramines_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_510" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1833" suffix="1" />
+        <Object id="Texture2D_1837" suffix="1" />
+        <Object id="Texture2D_1839" suffix="1" />
+        <Object id="Texture2D_1841" suffix="1" />
+        <Object id="Texture2D_1843" suffix="1" />
+        <Object id="Texture2D_1845" suffix="1" />
+        <Object id="Texture2D_1863" suffix="1" />
+        <Object id="Texture2D_1865" suffix="1" />
+        <Object id="Texture2D_1869" suffix="1" />
+        <Object id="Texture2D_1871" suffix="1" />
+        <Object id="Texture2D_1873" suffix="1" />
+        <Object id="Texture2D_1875" suffix="1" />
+        <Object id="Texture2D_1877" suffix="1" />
+        <Object id="Texture2D_1879" suffix="1" />
+        <Object id="Texture2D_1895" suffix="1" />
+        <Object id="Texture2D_1897" suffix="1" />
+        <Object id="Texture2D_1899" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_ga.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_gp.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_ib.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_01_s.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1901" suffix="1" />
+        <Object id="Texture2D_1903" suffix="1" />
+        <Object id="Texture2D_1905" suffix="1" />
+        <Object id="Texture2D_1907" suffix="1" />
+        <Object id="Texture2D_1929" suffix="1" />
+        <Object id="Texture2D_1931" suffix="1" />
+        <Object id="Texture2D_1933" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_s1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_02_s2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1935" suffix="1" />
+        <Object id="Texture2D_1937" suffix="1" />
+        <Object id="Texture2D_1939" suffix="1" />
+        <Object id="Texture2D_1941" suffix="1" />
+        <Object id="Texture2D_1943" suffix="1" />
+        <Object id="Texture2D_1959" suffix="1" />
+        <Object id="Texture2D_1960" suffix="1" />
+        <Object id="Texture2D_1961" suffix="1" />
+        <Object id="Texture2D_1962" suffix="1" />
+        <Object id="Texture2D_1963" suffix="1" />
+        <Object id="Texture2D_1964" suffix="1" />
+        <Object id="Texture2D_1965" suffix="1" />
+        <Object id="Texture2D_1966" suffix="1" />
+        <Object id="Texture2D_1967" suffix="1" />
+        <Object id="Texture2D_1975" suffix="1" />
+        <Object id="Texture2D_1976" suffix="1" />
+        <Object id="Texture2D_1977" suffix="1" />
+        <Object id="Texture2D_1978" suffix="1" />
+        <Object id="Texture2D_1979" suffix="1" />
+        <Object id="Texture2D_1980" suffix="1" />
+        <Object id="Texture2D_1981" suffix="1" />
+        <Object id="Texture2D_1982" suffix="1" />
+        <Object id="Texture2D_1983" suffix="1" />
+        <Object id="Texture2D_1991" suffix="1" />
+        <Object id="Texture2D_1992" suffix="1" />
+        <Object id="Texture2D_1993" suffix="1" />
+        <Object id="Texture2D_1994" suffix="1" />
+        <Object id="Texture2D_1995" suffix="1" />
+        <Object id="Texture2D_1996" suffix="1" />
+        <Object id="Texture2D_1997" suffix="1" />
+        <Object id="Texture2D_1998" suffix="1" />
+        <Object id="Texture2D_1999" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_s1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_03_s2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_04_s.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_cp.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_06_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_06_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_07_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_07_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_07_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_barracks_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_barracks_03.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_barracks_04.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cs2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut02_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut02_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut03_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut03_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_cut03.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_landscape.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_tripwire_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_tripwire_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase_tripwire_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_011_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_011_k_b_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_011_k_b_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_011_k_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_05_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_g_b.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_181" suffix="1" />
+        <Object id="Texture2D_182" suffix="1" />
+        <Object id="Texture2D_183" suffix="1" />
+        <Object id="Texture2D_184" suffix="1" />
+        <Object id="Texture2D_185" suffix="1" />
+        <Object id="Texture2D_186" suffix="1" />
+        <Object id="Texture2D_191" suffix="1" />
+        <Object id="Texture2D_192" suffix="1" />
+        <Object id="Texture2D_193" suffix="1" />
+        <Object id="Texture2D_194" suffix="1" />
+        <Object id="Texture2D_195" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_104" suffix="1" />
+        <Object id="Texture2D_105" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_k_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_07_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_112" suffix="1" />
+        <Object id="Texture2D_113" suffix="1" />
+        <Object id="Texture2D_114" suffix="1" />
+        <Object id="Texture2D_115" suffix="1" />
+        <Object id="Texture2D_120" suffix="1" />
+        <Object id="Texture2D_121" suffix="1" />
+        <Object id="Texture2D_122" suffix="1" />
+        <Object id="Texture2D_123" suffix="1" />
+        <Object id="Texture2D_124" suffix="1" />
+        <Object id="Texture2D_129" suffix="1" />
+        <Object id="Texture2D_130" suffix="1" />
+        <Object id="Texture2D_131" suffix="1" />
+        <Object id="Texture2D_132" suffix="1" />
+        <Object id="Texture2D_133" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_08_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_134" suffix="1" />
+        <Object id="Texture2D_135" suffix="1" />
+        <Object id="Texture2D_136" suffix="1" />
+        <Object id="Texture2D_137" suffix="1" />
+        <Object id="Texture2D_143" suffix="1" />
+        <Object id="Texture2D_144" suffix="1" />
+        <Object id="Texture2D_145" suffix="1" />
+        <Object id="Texture2D_146" suffix="1" />
+        <Object id="Texture2D_147" suffix="1" />
+        <Object id="Texture2D_148" suffix="1" />
+        <Object id="Texture2D_149" suffix="1" />
+        <Object id="Texture2D_150" suffix="1" />
+        <Object id="Texture2D_157" suffix="1" />
+        <Object id="Texture2D_158" suffix="1" />
+        <Object id="Texture2D_159" suffix="1" />
+        <Object id="Texture2D_160" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_08_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_08_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_09_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_161" suffix="1" />
+        <Object id="Texture2D_162" suffix="1" />
+        <Object id="Texture2D_168" suffix="1" />
+        <Object id="Texture2D_169" suffix="1" />
+        <Object id="Texture2D_170" suffix="1" />
+        <Object id="Texture2D_171" suffix="1" />
+        <Object id="Texture2D_172" suffix="1" />
+        <Object id="Texture2D_173" suffix="1" />
+        <Object id="Texture2D_174" suffix="1" />
+        <Object id="Texture2D_179" suffix="1" />
+        <Object id="Texture2D_180" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_09_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_09_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_09_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_10_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_10_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_10_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_10_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_11_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_11_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_11_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_barracks_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_barracks_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_barracks_03.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_barracks_04.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_barrels.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_cutscene_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_cutscene_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_cutscene_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_global2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_ics_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_ics_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_ics_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_lader_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_lader_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_lader.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_tr_1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_tunnel_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_106" suffix="1" />
+        <Object id="Texture2D_107" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_tunnel_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_tunnel_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_tunnel_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_uboot_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_uboot_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-06-arcticbase2_uboot.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_011a_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_011a_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_011a_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_04a_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_06_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_07_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_08_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_08_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_08_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_09_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_09_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_10_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_10_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_10_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_10_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_10_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_11_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_11_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_11_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_12_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_12_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_12_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_12_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_14_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_14_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_14_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_14_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_02_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_02_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_03_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_03_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_cutscene_03.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_ics_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_ics_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_ics_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-07-arctictemple_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_02_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_02_g_a1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_02_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_03_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_06_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_07_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_07_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_07_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_08_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_09_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_09_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_09_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_09_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_10_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_10_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_10_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_10_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_11_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_11_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_11_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_11_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_13_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_13_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs3_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs3_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs3.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs4.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs6_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs6_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_cs6.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_ics_01_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_ics_01_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_ics_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_101" suffix="1" />
+        <Object id="Texture2D_102" suffix="1" />
+        <Object id="Texture2D_103" suffix="1" />
+        <Object id="Texture2D_104" suffix="2" />
+        <Object id="Texture2D_105" suffix="2" />
+        <Object id="Texture2D_106" suffix="2" />
+        <Object id="Texture2D_109" suffix="1" />
+        <Object id="Texture2D_110" suffix="1" />
+        <Object id="Texture2D_111" suffix="1" />
+        <Object id="Texture2D_112" suffix="2" />
+        <Object id="Texture2D_117" suffix="1" />
+        <Object id="Texture2D_118" suffix="1" />
+        <Object id="Texture2D_188" suffix="1" />
+        <Object id="Texture2D_203" suffix="1" />
+        <Object id="Texture2D_204" suffix="1" />
+        <Object id="Texture2D_205" suffix="1" />
+        <Object id="Texture2D_221" suffix="1" />
+        <Object id="Texture2D_233" suffix="1" />
+        <Object id="Texture2D_234" suffix="1" />
+        <Object id="Texture2D_235" suffix="1" />
+        <Object id="Texture2D_236" suffix="1" />
+        <Object id="Texture2D_248" suffix="1" />
+        <Object id="Texture2D_249" suffix="1" />
+        <Object id="Texture2D_250" suffix="1" />
+        <Object id="Texture2D_251" suffix="1" />
+        <Object id="Texture2D_264" suffix="1" />
+        <Object id="Texture2D_265" suffix="1" />
+        <Object id="Texture2D_266" suffix="1" />
+        <Object id="Texture2D_267" suffix="1" />
+        <Object id="Texture2D_268" suffix="1" />
+        <Object id="Texture2D_279" suffix="1" />
+        <Object id="Texture2D_280" suffix="1" />
+        <Object id="Texture2D_281" suffix="1" />
+        <Object id="Texture2D_282" suffix="1" />
+        <Object id="Texture2D_283" suffix="1" />
+        <Object id="Texture2D_284" suffix="1" />
+        <Object id="Texture2D_294" suffix="1" />
+        <Object id="Texture2D_295" suffix="1" />
+        <Object id="Texture2D_296" suffix="1" />
+        <Object id="Texture2D_297" suffix="1" />
+        <Object id="Texture2D_298" suffix="1" />
+        <Object id="Texture2D_299" suffix="1" />
+        <Object id="Texture2D_310" suffix="1" />
+        <Object id="Texture2D_311" suffix="1" />
+        <Object id="Texture2D_312" suffix="1" />
+        <Object id="Texture2D_313" suffix="1" />
+        <Object id="Texture2D_314" suffix="1" />
+        <Object id="Texture2D_315" suffix="1" />
+        <Object id="Texture2D_326" suffix="1" />
+        <Object id="Texture2D_327" suffix="1" />
+        <Object id="Texture2D_328" suffix="1" />
+        <Object id="Texture2D_329" suffix="1" />
+        <Object id="Texture2D_330" suffix="1" />
+        <Object id="Texture2D_331" suffix="1" />
+        <Object id="Texture2D_342" suffix="1" />
+        <Object id="Texture2D_343" suffix="1" />
+        <Object id="Texture2D_344" suffix="1" />
+        <Object id="Texture2D_345" suffix="1" />
+        <Object id="Texture2D_346" suffix="1" />
+        <Object id="Texture2D_347" suffix="1" />
+        <Object id="Texture2D_358" suffix="1" />
+        <Object id="Texture2D_359" suffix="1" />
+        <Object id="Texture2D_360" suffix="1" />
+        <Object id="Texture2D_361" suffix="1" />
+        <Object id="Texture2D_362" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_512" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_58" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_64" suffix="2" />
+        <Object id="Texture2D_65" suffix="2" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_88" suffix="1" />
+        <Object id="Texture2D_96" suffix="1" />
+        <Object id="Texture2D_98" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_sky.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_trap_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_trap_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungle_trap_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungleintro_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_65" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungleintro_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungleintro_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungleintro_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-08-mayanjungleintro_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_g_c.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_g_d.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_02_g_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="6" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_3" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_02_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g_d.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g_e.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g_d.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g_e.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_002_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_002_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_002.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_003_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_003_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_cutscene_003.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_global.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_landscape.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayancity_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k_a_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k_a_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_06_g_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="8" />
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_2" suffix="8" />
+        <Object id="Texture2D_3" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_06_g_b.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_18" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_06_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_06_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="7" />
+        <Object id="Texture2D_1" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_07_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_07_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_24" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_08_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_08_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_09_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_ba_g_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_ba_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_ba_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_ba_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_ba_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs3_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs3_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_cs3.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_landscape.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-09-mayantemple_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-mayanjungle_zipline_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-mayanjungle_zipline_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-mayanjungle_zipline_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_k_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01t_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_01t_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_b_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_b_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_03_g_b.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_03_g_c.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_03_w.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_04_g_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs1_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs1_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs2.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs3_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs3_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_cs3.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_elevator_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_elevator_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_ics_02_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_ics_02_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_ics_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_puzzle_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_puzzle_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_puzzle.upk" />
+    <Package path="advgame\cookedpcconsole\sp-10-xibalba_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_02_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_02_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_02_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_02_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_02_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_03_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_03_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_03_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_03_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_fd.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_04_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_05_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_05_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_05_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_05_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_06_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_06_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_06_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_06_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_07_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_07_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_07_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_07_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_08_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_09_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_09_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_09_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_09_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_10_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_10_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_10_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_10_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_10_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_11_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_11_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_11_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_11_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_11_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_12_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_12_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_13_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_13_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_13_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_13_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_14_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_14_k_a.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_14_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_14_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_14_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_15_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_16_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_16_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_bb_01.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_bb_02.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_bb_03.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_fd_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_fd_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_fd.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_liv.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_p_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_p_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-11-mayanunderground_sounds.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs01_sahara_intro_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_g.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_g1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs02-arabic_room_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs06-sfrancisco_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs06-sfrancisco_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs06-sfrancisco_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs06-sfrancisco.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs22-sfrancisco_office_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs22-sfrancisco_office_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs22-sfrancisco_office_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs22-sfrancisco_office_p.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_g.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="9" />
+        <Object id="Texture2D_1" suffix="8" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_2" suffix="9" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_3" suffix="8" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_8" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_g1.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_k_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_k_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_k.upk" />
+    <Package path="advgame\cookedpcconsole\sp-cs23-arabic_room_p.upk" />
+    <Package path="advgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\startup.upk" />
+    <Package path="advgame\cookedpcconsole\sv-arctictemple_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sv-arctictemple_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sv-arctictemple.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayanjungle_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayanjungle_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayanjungle.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple2_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple2_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sv-mayantemple2.upk" />
+    <Package path="advgame\cookedpcconsole\sv-saharaindoor_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\sv-saharaindoor_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\sv-saharaindoor.upk" />
+    <Package path="advgame\cookedpcconsole\udkbase_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\udkbase_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\udkbase.upk" />
+    <Package path="advgame\cookedpcconsole\ui_advfontsubtitles_sf_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\ui_advfontsubtitles_sf.upk" />
+    <Package path="advgame\cookedpcconsole\ui_advfsm_loc_deu.upk" />
+    <Package path="advgame\cookedpcconsole\ui_advfsm_loc_int.upk" />
+    <Package path="advgame\cookedpcconsole\ui_advfsm.upk" />
+    <Package path="advgame\cookedpcconsole\ui-startmap_g.upk" />
+    <Package path="advgame\cookedpcconsole\ui-startmap.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_106" suffix="3" />
+        <Object id="Texture2D_115" suffix="2" />
+        <Object id="Texture2D_116" suffix="1" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_125" suffix="1" />
+        <Object id="Texture2D_17" suffix="4" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_3" suffix="9" />
+        <Object id="Texture2D_7" suffix="5" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_96" suffix="2" />
+        <Object id="Texture2D_97" suffix="1" />
+        <Object id="Texture2D_98" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="advgame\cookedpcconsole\windrv.upk" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,167 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\content\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\content\guidcache.upk" />
+    <Package path="udkgame\content\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\content\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\content\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\content\rookskeep\characters\a_ch_beasts.upk" />
+    <Package path="udkgame\content\rookskeep\characters\a_ch_knights.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_beasts_tex.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_beasts.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_common.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_gore.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_knights_tex.upk" />
+    <Package path="udkgame\content\rookskeep\characters\ch_knights.upk" />
+    <Package path="udkgame\content\rookskeep\characters\fx_ch_beasts.upk" />
+    <Package path="udkgame\content\rookskeep\characters\fx_ch_knights.upk" />
+    <Package path="udkgame\content\rookskeep\characters\tempgore.upk" />
+    <Package path="udkgame\content\rookskeep\debugutils.upk" />
+    <Package path="udkgame\content\rookskeep\effects\fx_rceffects.upk" />
+    <Package path="udkgame\content\rookskeep\effects\rc_postprocess.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_all.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_audio.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_backdrop.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_boneyard.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_chess.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_courtyard_tex.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_courtyard.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_courtyard2.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_fx.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_liquid.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_mines.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_temple.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_terrain_tex.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_terrain.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_trees_tex.upk" />
+    <Package path="udkgame\content\rookskeep\environments\env_trees.upk" />
+    <Package path="udkgame\content\rookskeep\gp_all.upk" />
+    <Package path="udkgame\content\rookskeep\gp_pickups.upk" />
+    <Package path="udkgame\content\rookskeep\gp_rc_misc.upk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-barren01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-crypt01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-darkhaven01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-forest01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-green01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-magewright01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-red01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\cch-silver01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\ch-courtyard01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-alpine01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-aquiferb.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-arena01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-aztec01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-barrens.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-church.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-deathbowl01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_4" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-dm1.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-east01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-fetid01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-field01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-keep01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-magewright01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-malachite01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\dm-mines01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\rookskeep\maps\dm-sands01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\rkentry.udk" />
+    <Package path="udkgame\content\rookskeep\maps\rkfrontend01.udk" />
+    <Package path="udkgame\content\rookskeep\maps\tut_test1.udk" />
+    <Package path="udkgame\content\rookskeep\music\mu_music01.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_help.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_main.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_mapimages.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_rc_testuistuff.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_rk_fonts.upk" />
+    <Package path="udkgame\content\rookskeep\ui\ui_rk_hud.upk" />
+    <Package path="udkgame\content\shared\blobshadow.upk" />
+    <Package path="udkgame\content\shared\envyeditorresources.upk" />
+    <Package path="udkgame\content\shared\gameplaceholders.upk" />
+    <Package path="udkgame\content\shared\interactive_meshes.upk" />
+    <Package path="udkgame\content\shared\soundclassesandmodes.upk" />
+    <Package path="udkgame\content\shared\speechrecognition.upk" />
+    <Package path="udkgame\content\shared\testanimphys.upk" />
+    <Package path="udkgame\content\shared\udk_apexdamagemap.upk" />
+    <Package path="udkgame\content\shared\udkfonts.upk" />
+    <Package path="udkgame\content\shared\udkgfxunittests.upk" />
+    <Package path="udkgame\content\shared\ui_fonts_final.upk" />
+    <Package path="udkgame\content\shared\utexamplecrowd.upk" />
+    <Package path="udkgame\script\core.u" />
+    <Package path="udkgame\script\engine.u" />
+    <Package path="udkgame\script\gameframework.u" />
+    <Package path="udkgame\script\gfxui.u" />
+    <Package path="udkgame\script\gfxuieditor.u" />
+    <Package path="udkgame\script\ipdrv.u" />
+    <Package path="udkgame\script\onlinesubsystemgamecenter.u" />
+    <Package path="udkgame\script\onlinesubsystempc.u" />
+    <Package path="udkgame\script\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\script\rcchess.u" />
+    <Package path="udkgame\script\rcgame.u" />
+    <Package path="udkgame\script\rcucibot.u" />
+    <Package path="udkgame\script\rcui.u" />
+    <Package path="udkgame\script\rcxinput.u" />
+    <Package path="udkgame\script\rkutils.u" />
+    <Package path="udkgame\script\rscore.u" />
+    <Package path="udkgame\script\rssteamworkshop.u" />
+    <Package path="udkgame\script\udkbase.u" />
+    <Package path="udkgame\script\unrealed.u" />
+    <Package path="udkgame\script\windrv.u" />
+  </Packages>
+</IdRemapping>

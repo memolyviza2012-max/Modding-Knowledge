@@ -1,0 +1,705 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="data\animations\411_cocoleaf.ukx" />
+    <Package path="data\animations\411_cocoleaf02.ukx" />
+    <Package path="data\animations\411_cocoleaf03.ukx" />
+    <Package path="data\animations\411_cocoleaf04.ukx" />
+    <Package path="data\animations\ebarel.ukx" />
+    <Package path="data\animations\ebird.ukx" />
+    <Package path="data\animations\ebirda.ukx" />
+    <Package path="data\animations\ecamera.ukx" />
+    <Package path="data\animations\ecase.ukx" />
+    <Package path="data\animations\edog.ukx" />
+    <Package path="data\animations\educk.ukx" />
+    <Package path="data\animations\ef15.ukx" />
+    <Package path="data\animations\efemale.ukx" />
+    <Package path="data\animations\eflybird.ukx" />
+    <Package path="data\animations\egate.ukx" />
+    <Package path="data\animations\ehammock.ukx" />
+    <Package path="data\animations\ehandcuffpick.ukx" />
+    <Package path="data\animations\ehelicopa.ukx" />
+    <Package path="data\animations\ehelicopb.ukx" />
+    <Package path="data\animations\eintro.ukx" />
+    <Package path="data\animations\elada.ukx" />
+    <Package path="data\animations\elaxtrk.ukx" />
+    <Package path="data\animations\elaxtrkbdoor.ukx" />
+    <Package path="data\animations\eleaf.ukx" />
+    <Package path="data\animations\eleaf08.ukx" />
+    <Package path="data\animations\elimo.ukx" />
+    <Package path="data\animations\eminiv.ukx" />
+    <Package path="data\animations\enpc.ukx" />
+    <Package path="data\animations\eosp.ukx" />
+    <Package path="data\animations\ep900.ukx" />
+    <Package path="data\animations\epara.ukx" />
+    <Package path="data\animations\eparb.ukx" />
+    <Package path="data\animations\epump.ukx" />
+    <Package path="data\animations\erat.ukx" />
+    <Package path="data\animations\erope.ukx" />
+    <Package path="data\animations\esam.ukx" />
+    <Package path="data\animations\ese.ukx" />
+    <Package path="data\animations\eskelingredients.ukx" />
+    <Package path="data\animations\estrap.ukx" />
+    <Package path="data\animations\etrk.ukx" />
+    <Package path="data\animations\eunimog.ukx" />
+    <Package path="data\animations\eups.ukx" />
+    <Package path="data\animations\ewindow.ukx" />
+    <Package path="data\animations\ewinglass.ukx" />
+    <Package path="data\animations\ezodiac.ukx" />
+    <Package path="data\animations\traindoor.ukx" />
+    <Package path="data\maps\0_0_0_menu.scl" />
+    <Package path="data\maps\0_0_1_handcuff.scl" />
+    <Package path="data\maps\1_1_1_embassy.scl" />
+    <Package path="data\maps\1_1_2_embassy.scl" />
+    <Package path="data\maps\2_1_1_lab.scl" />
+    <Package path="data\maps\2_1_2_lab.scl" />
+    <Package path="data\maps\2_2_1_train.scl" />
+    <Package path="data\maps\3_1_1_market.scl" />
+    <Package path="data\maps\3_1_2_market.scl" />
+    <Package path="data\maps\3_1_3_market.scl" />
+    <Package path="data\maps\4_1_1_village.scl" />
+    <Package path="data\maps\4_1_2_village.scl" />
+    <Package path="data\maps\4_1_3_village.scl" />
+    <Package path="data\maps\4_2_1_dock.scl" />
+    <Package path="data\maps\4_2_2_dock.scl" />
+    <Package path="data\maps\4_3_1_tv.scl" />
+    <Package path="data\maps\4_3_2_tv.scl" />
+    <Package path="data\maps\5_1_1_lax.scl" />
+    <Package path="data\maps\5_1_2_lax.scl" />
+    <Package path="data\maps\anim_test.scl" />
+    <Package path="data\maps\auto9.scl" />
+    <Package path="data\maps\autoplay.scl" />
+    <Package path="data\sounds\1_1_1ambiance.uax" />
+    <Package path="data\sounds\1_1_2ambiance.uax" />
+    <Package path="data\sounds\2_1_1ambiance.uax" />
+    <Package path="data\sounds\2_1_2ambiance.uax" />
+    <Package path="data\sounds\2_2_1ambiance.uax" />
+    <Package path="data\sounds\2_2_2ambiance.uax" />
+    <Package path="data\sounds\221trainmusic.uax" />
+    <Package path="data\sounds\3_1_1ambiance.uax" />
+    <Package path="data\sounds\3_1_2ambiance.uax" />
+    <Package path="data\sounds\3_1_3ambiance.uax" />
+    <Package path="data\sounds\4_1_1ambiance.uax" />
+    <Package path="data\sounds\4_1_2ambiance.uax" />
+    <Package path="data\sounds\4_1_3ambiance.uax" />
+    <Package path="data\sounds\4_2_1ambiance.uax" />
+    <Package path="data\sounds\4_2_2ambiance.uax" />
+    <Package path="data\sounds\4_3_1ambiance.uax" />
+    <Package path="data\sounds\4_3_2ambiance.uax" />
+    <Package path="data\sounds\5_1_1ambiance.uax" />
+    <Package path="data\sounds\5_1_2ambiance.uax" />
+    <Package path="data\sounds\b_civfemalefrench.uax" />
+    <Package path="data\sounds\b_civfemalehostage.uax" />
+    <Package path="data\sounds\b_civfemalelax.uax" />
+    <Package path="data\sounds\b_civmalefrench.uax" />
+    <Package path="data\sounds\b_civmalehostage.uax" />
+    <Package path="data\sounds\b_civmaleoldfrench.uax" />
+    <Package path="data\sounds\b_civmaleoldhostage.uax" />
+    <Package path="data\sounds\b_indoboy.uax" />
+    <Package path="data\sounds\b_indocivhost.uax" />
+    <Package path="data\sounds\b_indocivrefiner.uax" />
+    <Package path="data\sounds\b_indomilitia1.uax" />
+    <Package path="data\sounds\b_indomilitia2.uax" />
+    <Package path="data\sounds\b_indorefiner.uax" />
+    <Package path="data\sounds\b_indotechnician.uax" />
+    <Package path="data\sounds\b_indotimohostage.uax" />
+    <Package path="data\sounds\b_israelipolice1.uax" />
+    <Package path="data\sounds\b_israelipolice2.uax" />
+    <Package path="data\sounds\b_jerusalembadboy1.uax" />
+    <Package path="data\sounds\b_jerusalembadboy2.uax" />
+    <Package path="data\sounds\b_kundangguard1.uax" />
+    <Package path="data\sounds\b_kundangguard2.uax" />
+    <Package path="data\sounds\b_laxemployee2.uax" />
+    <Package path="data\sounds\b_laxemployee3.uax" />
+    <Package path="data\sounds\b_laxmercfrench.uax" />
+    <Package path="data\sounds\b_laxmercsyrian.uax" />
+    <Package path="data\sounds\b_laxsecurity1.uax" />
+    <Package path="data\sounds\b_laxsecurity3.uax" />
+    <Package path="data\sounds\b_mercfrench1.uax" />
+    <Package path="data\sounds\b_mercfrench2.uax" />
+    <Package path="data\sounds\b_mercsyrian1.uax" />
+    <Package path="data\sounds\b_mercsyrian2.uax" />
+    <Package path="data\sounds\b_sadonodddlieut2.uax" />
+    <Package path="data\sounds\b_sadonodddlieut3.uax" />
+    <Package path="data\sounds\b_sadonoelite2.uax" />
+    <Package path="data\sounds\b_sadonoelite3.uax" />
+    <Package path="data\sounds\b_tgvguard2.uax" />
+    <Package path="data\sounds\barktestciv.uax" />
+    <Package path="data\sounds\barktestmil.uax" />
+    <Package path="data\sounds\camera.uax" />
+    <Package path="data\sounds\clock.uax" />
+    <Package path="data\sounds\commonexp.uax" />
+    <Package path="data\sounds\commonmusic.uax" />
+    <Package path="data\sounds\destroyableobjet.uax" />
+    <Package path="data\sounds\dog.uax" />
+    <Package path="data\sounds\door.uax" />
+    <Package path="data\sounds\electronic.uax" />
+    <Package path="data\sounds\firesound.uax" />
+    <Package path="data\sounds\fisherequipement.uax" />
+    <Package path="data\sounds\fisherfoley.uax" />
+    <Package path="data\sounds\fishervoice.uax" />
+    <Package path="data\sounds\gearcommon.uax" />
+    <Package path="data\sounds\genericlife.uax" />
+    <Package path="data\sounds\gun.uax" />
+    <Package path="data\sounds\guncommon.uax" />
+    <Package path="data\sounds\interface.uax" />
+    <Package path="data\sounds\lambert.uax" />
+    <Package path="data\sounds\machine.uax" />
+    <Package path="data\sounds\menuloc.uax" />
+    <Package path="data\sounds\menuson.uax" />
+    <Package path="data\sounds\metal.uax" />
+    <Package path="data\sounds\nature.uax" />
+    <Package path="data\sounds\radio.uax" />
+    <Package path="data\sounds\s1_1_voice.uax" />
+    <Package path="data\sounds\s2_1_voice.uax" />
+    <Package path="data\sounds\s2_2_voice.uax" />
+    <Package path="data\sounds\s3_1_voice.uax" />
+    <Package path="data\sounds\s4_1_voice.uax" />
+    <Package path="data\sounds\s4_2_voice.uax" />
+    <Package path="data\sounds\s4_3_voice.uax" />
+    <Package path="data\sounds\s5_1_voice.uax" />
+    <Package path="data\sounds\shetland.uax" />
+    <Package path="data\sounds\soundevent.uax" />
+    <Package path="data\sounds\special.uax" />
+    <Package path="data\sounds\throwobject.uax" />
+    <Package path="data\sounds\trainnoise.uax" />
+    <Package path="data\sounds\vehicules.uax" />
+    <Package path="data\sounds\walkietallkie.uax" />
+    <Package path="data\sounds\water.uax" />
+    <Package path="data\staticmeshes\1-1_tbilisi_obj.usx" />
+    <Package path="data\staticmeshes\111_embassys.usx" />
+    <Package path="data\staticmeshes\112_embassys.usx" />
+    <Package path="data\staticmeshes\2_2_kalinatek_obj.usx" />
+    <Package path="data\staticmeshes\2_2_trains.usx" />
+    <Package path="data\staticmeshes\2-1_cia_obj.usx" />
+    <Package path="data\staticmeshes\211_labs.usx" />
+    <Package path="data\staticmeshes\3_1_2_shipyard_obj.usx" />
+    <Package path="data\staticmeshes\3_1shipyard_obj.usx" />
+    <Package path="data\staticmeshes\3_2powerplant_obj.usx" />
+    <Package path="data\staticmeshes\3_4severo_obj.usx" />
+    <Package path="data\staticmeshes\311_1markets.usx" />
+    <Package path="data\staticmeshes\311_2markets.usx" />
+    <Package path="data\staticmeshes\311_3markets.usx" />
+    <Package path="data\staticmeshes\411_villages.usx" />
+    <Package path="data\staticmeshes\412_villagesm.usx" />
+    <Package path="data\staticmeshes\413_villagesm.usx" />
+    <Package path="data\staticmeshes\422shipyard_obj.usx" />
+    <Package path="data\staticmeshes\431_tvs.usx" />
+    <Package path="data\staticmeshes\432_tvs.usx" />
+    <Package path="data\staticmeshes\4zjsm.usx" />
+    <Package path="data\staticmeshes\511_laxs.usx" />
+    <Package path="data\staticmeshes\demo_s.usx" />
+    <Package path="data\staticmeshes\ego_obj.usx" />
+    <Package path="data\staticmeshes\emeshaccessories.usx" />
+    <Package path="data\staticmeshes\emeshcharacter.usx" />
+    <Package path="data\staticmeshes\emeshingredient.usx" />
+    <Package path="data\staticmeshes\emeshsfx.usx" />
+    <Package path="data\staticmeshes\generic_mesh.usx" />
+    <Package path="data\staticmeshes\handcuffsm.usx" />
+    <Package path="data\staticmeshes\lambert_office_obj.usx" />
+    <Package path="data\staticmeshes\leafsm.usx" />
+    <Package path="data\staticmeshes\lightgenobj.usx" />
+    <Package path="data\staticmeshes\prog\collexamples.usx" />
+    <Package path="data\staticmeshes\prog\generic_obj.usx" />
+    <Package path="data\staticmeshes\prog\jobjjunk.usx" />
+    <Package path="data\staticmeshes\sissixs_obj.usx" />
+    <Package path="data\staticmeshes\statictrain.usx" />
+    <Package path="data\textures\0_0_training_tex.utx" />
+    <Package path="data\textures\1_2_def_ministry_tex.utx" />
+    <Package path="data\textures\1_3_caspianoilrefinery_tex.utx" />
+    <Package path="data\textures\1-1_tbilisi_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Plants\BushesA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\111_embassyt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sky\Sun02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\112_embassyt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Office\waterdis_water_kal" suffix="1" />
+        <Object id="Other\TOLE" suffix="1" />
+        <Object id="pavilion\Bamboo" suffix="1" />
+        <Object id="plant\112_tree01A" suffix="1" />
+        <Object id="plant\DE_treebk2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\2_2_1_kalinatek_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Office\waterdis_main_kal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\2_2_kalinatek_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Breaker_Room\etagere_kal" suffix="1" />
+        <Object id="Construction\Echaff_KAL" suffix="1" />
+        <Object id="Construction\gyproc01_kal" suffix="1" />
+        <Object id="Construction\styrostack_kal" suffix="1" />
+        <Object id="Construction\styrowall01_kal" suffix="1" />
+        <Object id="Construction\toilet_cabinet_kal" suffix="1" />
+        <Object id="Construction\woodplaque" suffix="1" />
+        <Object id="Construction\Woodplaque02_KAL" suffix="1" />
+        <Object id="Construction\woodrack_main_kal" suffix="1" />
+        <Object id="Elevator\elevator03_kal" suffix="1" />
+        <Object id="Fumoire\cendrier_kal" suffix="1" />
+        <Object id="Fumoire\Cigarette" suffix="1" />
+        <Object id="Office\classeur_kal" suffix="1" />
+        <Object id="Parking\calendar01_kal" suffix="1" />
+        <Object id="Parking\calendar02_kal" suffix="1" />
+        <Object id="Parking\ElecBox_KAL" suffix="1" />
+        <Object id="Parking\pipes_kal" suffix="1" />
+        <Object id="Street\buspub01_kal" suffix="1" />
+        <Object id="Street\Noparking_kal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\2_2_traint.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Doors\door01" suffix="1" />
+        <Object id="skybox\1-2_skyboxc" suffix="1" />
+        <Object id="skybox\2-2_skyboxB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\2-1_cia_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\KIT_table_cia" suffix="1" />
+        <Object id="Screening\CIA_floorlight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\211_labt.utx" />
+    <Package path="data\textures\3_1_2_shipyard_txt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="3_1_skibox_tex\Reflect" suffix="1" />
+        <Object id="3_1_skibox_tex\skybox_sea" suffix="1" />
+        <Object id="ControlRoom\pipe2_ship" suffix="1" />
+        <Object id="Exterior\metal02_ship" suffix="1" />
+        <Object id="Exterior\metal03_ship" suffix="2" />
+        <Object id="Exterior\shaft_ship" suffix="1" />
+        <Object id="new_Z\bed_frame_O" suffix="1" />
+        <Object id="new_Z\dockstone" suffix="1" />
+        <Object id="new_Z\SUB_floor01" suffix="1" />
+        <Object id="new_Z\tunneldoor_in" suffix="1" />
+        <Object id="new_Z1\subpanel_screen2" suffix="1" />
+        <Object id="Sub\sub941" suffix="2" />
+        <Object id="subHangar\walkway01_Ship" suffix="3" />
+        <Object id="wall\redbrick01_ship" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\3_1shipyard_txt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="3_1_2\01" suffix="1" />
+        <Object id="3_1_2\dockstone" suffix="1" />
+        <Object id="3_1_2\dockstone_top" suffix="1" />
+        <Object id="3_1_2\Eau2_ship" suffix="1" />
+        <Object id="3_1_skibox_tex\sky0211" suffix="1" />
+        <Object id="Accessory\bobine_ship" suffix="1" />
+        <Object id="Accessory\boite_ship" suffix="1" />
+        <Object id="Accessory\ceillingfan_ship" suffix="1" />
+        <Object id="Accessory\LOCKERS_ship" suffix="1" />
+        <Object id="Console\PWP_Consolewall_e" suffix="1" />
+        <Object id="Console\PWP_Consolewall_e_alp" suffix="1" />
+        <Object id="Console\PWP_Consolewall_g" suffix="1" />
+        <Object id="Console\PWP_Consolewall_g_alp" suffix="1" />
+        <Object id="Console\PWP_Consolewall_h" suffix="1" />
+        <Object id="Console\PWP_Consolewall_h_alpha" suffix="1" />
+        <Object id="Console\PWP_monitor" suffix="1" />
+        <Object id="Console\subpanel_screen6A" suffix="1" />
+        <Object id="ControlRoom\console_dirty_SHIP" suffix="1" />
+        <Object id="ControlRoom\consolelight_SHIP" suffix="1" />
+        <Object id="ControlRoom\lift_control_a" suffix="1" />
+        <Object id="ControlRoom\lift_control_a_alp1" suffix="1" />
+        <Object id="ControlRoom\Pow_WastePump" suffix="1" />
+        <Object id="Doors\door02_ship" suffix="1" />
+        <Object id="Doors\elevatorDoor_ship" suffix="1" />
+        <Object id="Doors\Framedoor1_Ship" suffix="2" />
+        <Object id="Doors\sy_door02_ship" suffix="1" />
+        <Object id="Exterior\Ventillation03_ship" suffix="1" />
+        <Object id="Exterior\Wagon3_ship" suffix="1" />
+        <Object id="Floor\concrete02_ship" suffix="1" />
+        <Object id="Floor\Concretefloor01_ship" suffix="1" />
+        <Object id="Kitchen\board" suffix="1" />
+        <Object id="Kitchen\Horloge01_ship" suffix="1" />
+        <Object id="Kitchen\wheeled_car02_ship" suffix="1" />
+        <Object id="new_Z\lamp_inside" suffix="2" />
+        <Object id="New\sy_WAL_wires" suffix="1" />
+        <Object id="Office\Binder_ship" suffix="1" />
+        <Object id="Office\blackdesk_ship" suffix="1" />
+        <Object id="Office\bulletinboard_pow" suffix="1" />
+        <Object id="Office\classeur_ship" suffix="1" />
+        <Object id="Office\LargePrinter_pwp" suffix="1" />
+        <Object id="Office\Paper_Ship" suffix="1" />
+        <Object id="Office\pow_blackmetal01" suffix="1" />
+        <Object id="Office\russianguy_ship" suffix="1" />
+        <Object id="Office\Shaft2_Ship" suffix="2" />
+        <Object id="Other\airvent_ship01" suffix="1" />
+        <Object id="Other\Box_MYA" suffix="2" />
+        <Object id="Other\Breaker_CAS" suffix="1" />
+        <Object id="Other\Container_MYA" suffix="1" />
+        <Object id="Other\flag2" suffix="1" />
+        <Object id="Other\Parquet_MYA" suffix="2" />
+        <Object id="Other\POW_fusebox01" suffix="1" />
+        <Object id="Sub\metal03b" suffix="1" />
+        <Object id="Sub\sub941" suffix="1" />
+        <Object id="Sub\sub941aile" suffix="1" />
+        <Object id="Sub\sub941front" suffix="1" />
+        <Object id="Sub\sub941top" suffix="1" />
+        <Object id="Sub\sub94metal001" suffix="1" />
+        <Object id="subHangar\beam03_ship" suffix="1" />
+        <Object id="subHangar\Cable_ship" suffix="1" />
+        <Object id="subHangar\crane_ship" suffix="2" />
+        <Object id="subHangar\crete_Ship" suffix="1" />
+        <Object id="subHangar\Ramp_01_ship" suffix="1" />
+        <Object id="subHangar\stair01_ship" suffix="1" />
+        <Object id="subHangar\struct2_ship" suffix="2" />
+        <Object id="subHangar\walkway01_Ship" suffix="2" />
+        <Object id="wall\cembrick_ship" suffix="1" />
+        <Object id="wall\cembrick02_ship" suffix="1" />
+        <Object id="wall\cembrick2_ship" suffix="1" />
+        <Object id="wall\cement03d_ship" suffix="2" />
+        <Object id="wall\kcement_ship" suffix="1" />
+        <Object id="wall\metal02_ship" suffix="1" />
+        <Object id="wall\POW_BasementConcrete01" suffix="1" />
+        <Object id="windows\framewindow_ship" suffix="1" />
+        <Object id="windows\GlassCR_ship" suffix="1" />
+        <Object id="yzhang\fan_02" suffix="1" />
+        <Object id="yzhang\fan_06" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\3_2powerplant_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Console\PWP_Consolewall" suffix="1" />
+        <Object id="Console\PWP_monitor" suffix="2" />
+        <Object id="Misc\pow_securitysign01" suffix="1" />
+        <Object id="Office\blackdesk_ship" suffix="2" />
+        <Object id="Office\LargePrinter_pwp" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\3_4_severo_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Accessories\dust_SEV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\311_1markett.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LightGen\yellow_glow" suffix="1" />
+        <Object id="Plants\plantb" suffix="1" />
+        <Object id="Plants\plantd" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\311_2markett.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="door_windows\STR_elevwires01_O" suffix="1" />
+        <Object id="fx\311_background02" suffix="1" />
+        <Object id="Package0\gunnysack01" suffix="1" />
+        <Object id="Plants\plantb" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\311_3markett.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="beton01" suffix="1" />
+        <Object id="door_windows\Yellow" suffix="1" />
+        <Object id="metal01" suffix="1" />
+        <Object id="Package0\produits" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\4_1myanmar_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Embassy\Alluminium_CHI" suffix="1" />
+        <Object id="Embassy\books_cover01_chi" suffix="1" />
+        <Object id="Embassy\books_cover02_chi" suffix="1" />
+        <Object id="Embassy\ChairOFF01_chi" suffix="1" />
+        <Object id="Embassy\Classeur02_CHI" suffix="1" />
+        <Object id="Embassy\ElecBox_CHI" suffix="1" />
+        <Object id="Embassy\embassy_wall02_chi" suffix="1" />
+        <Object id="Embassy\ferong_desk2b_chi" suffix="1" />
+        <Object id="Embassy\ferong_window_chi" suffix="1" />
+        <Object id="Embassy\filliere01_CHI" suffix="1" />
+        <Object id="Embassy\hall_woodfloor_chi" suffix="1" />
+        <Object id="Embassy\Hardwood01_CHI" suffix="1" />
+        <Object id="Embassy\wall_reception_chi" suffix="1" />
+        <Object id="Lights\yellow_glow" suffix="3" />
+        <Object id="Restaurant\chinese_painting02" suffix="1" />
+        <Object id="Restaurant\chinese_painting03" suffix="1" />
+        <Object id="Restaurant\chinese_painting04" suffix="1" />
+        <Object id="Restaurant\doorframe01_chi" suffix="1" />
+        <Object id="Restaurant\floor_restaurant02" suffix="1" />
+        <Object id="WallFloorRoof\Concrete01_MYA" suffix="1" />
+        <Object id="WallFloorRoof\Floorstone02_MYA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\4_3_0_chinese_embassy_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Embassy\Alluminium_CHI" suffix="2" />
+        <Object id="Embassy\ChairOFF01_chi" suffix="2" />
+        <Object id="Embassy\Classeur02_CHI" suffix="2" />
+        <Object id="Embassy\embassy_wall02_chi" suffix="2" />
+        <Object id="Embassy\embassy_wall04_chi" suffix="1" />
+        <Object id="Embassy\ferong_pannels03_chi" suffix="1" />
+        <Object id="Embassy\filliere01_CHI" suffix="2" />
+        <Object id="Embassy\Fire_CHI" suffix="1" />
+        <Object id="Embassy\winframe_lader_chi" suffix="1" />
+        <Object id="Exterior\Airvent_MYA" suffix="1" />
+        <Object id="Exterior\Fire_MYA" suffix="1" />
+        <Object id="Janitor\broom01_chi" suffix="1" />
+        <Object id="Janitor\broom02_chi" suffix="1" />
+        <Object id="Janitor\moppe_chi" suffix="1" />
+        <Object id="Restaurant\chinese_painting01_chi" suffix="1" />
+        <Object id="Restaurant\doorframe01_chi" suffix="2" />
+        <Object id="WallFloorRoof\Floorstone02_MYA" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\4_3_2_chinese_embassy_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="43skybox\4-3_skyboxA" suffix="1" />
+        <Object id="Appartment\chinese_calendar_chi" suffix="1" />
+        <Object id="Embassy\books_side01_chi" suffix="1" />
+        <Object id="Embassy\books_side02_chi" suffix="1" />
+        <Object id="Embassy\ceilling_reception_chi" suffix="1" />
+        <Object id="Embassy\Flag01_CHI" suffix="1" />
+        <Object id="Embassy\Flag02_CHI" suffix="1" />
+        <Object id="Embassy\hall_mao_chi" suffix="1" />
+        <Object id="Embassy\winframe_lader_chi" suffix="1" />
+        <Object id="Exterior\Trash_MYA" suffix="1" />
+        <Object id="Metal\Ventillation03_MYA" suffix="1" />
+        <Object id="Restaurant\bac_chi" suffix="1" />
+        <Object id="Wood\Tresse_MYA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\4_3_chinese_embassy_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Embassy\books_side01_chi" suffix="2" />
+        <Object id="Embassy\books_side02_chi" suffix="2" />
+        <Object id="Embassy\ceilling_reception_chi" suffix="2" />
+        <Object id="Embassy\hall_mao_chi" suffix="2" />
+        <Object id="Embassy\Marble01_CHI" suffix="1" />
+        <Object id="Embassy\Stair2_CHI" suffix="1" />
+        <Object id="Janitor\wetfloor_sign_chi" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\411_villaget.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sky\skybackgrund" suffix="1" />
+        <Object id="wall\ALPHA_MASK" suffix="1" />
+        <Object id="wall\moss02_cq" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\412_villagetx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Col\Generic" suffix="1" />
+        <Object id="Lights\yellow_glow" suffix="1" />
+        <Object id="sky\sky01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\413_villagetx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="adornment\412_shitu02" suffix="1" />
+        <Object id="Door\DOORred" suffix="1" />
+        <Object id="Door\glass01" suffix="1" />
+        <Object id="Door\TBI_wooddoorA" suffix="1" />
+        <Object id="hall\Emb_pillar" suffix="1" />
+        <Object id="LightGen\blue_glow" suffix="1" />
+        <Object id="Lights\Poteau_ele01" suffix="1" />
+        <Object id="Lights\yellow_glow" suffix="2" />
+        <Object id="Other\Box_MYA" suffix="1" />
+        <Object id="Other\Parquet_MYA" suffix="1" />
+        <Object id="Parking\Mat" suffix="1" />
+        <Object id="Parking\Sacking02" suffix="1" />
+        <Object id="pavilion\caoqiang01" suffix="1" />
+        <Object id="pavilion\floor01" suffix="1" />
+        <Object id="pavilion\liba01" suffix="1" />
+        <Object id="pavilion\Rim01" suffix="1" />
+        <Object id="pavilion\Warning" suffix="1" />
+        <Object id="pavilion\window_planks" suffix="1" />
+        <Object id="pavilion\woodwall02" suffix="1" />
+        <Object id="Plants\BushesA_cq" suffix="1" />
+        <Object id="Plants\plantj" suffix="1" />
+        <Object id="Plants\stone01" suffix="1" />
+        <Object id="sky\sky01" suffix="2" />
+        <Object id="sky\TRskybox04A" suffix="1" />
+        <Object id="wall\Wal_brick03_cq" suffix="1" />
+        <Object id="wall\WAL_stonerock01" suffix="1" />
+        <Object id="Weapons\M16A2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\422shipyard_txt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Exterior\metal03_ship" suffix="1" />
+        <Object id="Icons\panels_base" suffix="1" />
+        <Object id="Icons\panels01" suffix="1" />
+        <Object id="Icons\panels02" suffix="1" />
+        <Object id="Icons\panels03" suffix="1" />
+        <Object id="Light\subpanel_light01a" suffix="1" />
+        <Object id="Light\subpanel_light01b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\431_tvt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LightCubebeam\LightCubebeam" suffix="1" />
+        <Object id="Obj_MiningTown\Breaker_box_Mine" suffix="1" />
+        <Object id="water\WaterGicleur4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\432_tvt.utx" />
+    <Package path="data\textures\4zj.utx" />
+    <Package path="data\textures\5_1_presidentialpalace_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Exterior\corrodedcopper_PAL" suffix="1" />
+        <Object id="Exterior\ironbench_PAL" suffix="1" />
+        <Object id="Exterior\parkbench_PAL" suffix="1" />
+        <Object id="skybox\1-2_skyboxA" suffix="1" />
+        <Object id="skybox\1-2_skyboxB" suffix="1" />
+        <Object id="skybox\1-2_skyboxc" suffix="2" />
+        <Object id="skybox\1-2_sun" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\511_laxt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Parking\asphalte_parking_kal" suffix="1" />
+        <Object id="Parking\kalibase01_kal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\coronas.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flare1" suffix="1" />
+        <Object id="flare2" suffix="1" />
+        <Object id="flare3" suffix="1" />
+        <Object id="flare4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\demo_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CHI_TexGO\GO_plate_Dirt_CHI00B" suffix="1" />
+        <Object id="Console\PWP_console" suffix="1" />
+        <Object id="Console\PWP_console01" suffix="1" />
+        <Object id="Console\PWP_console02" suffix="1" />
+        <Object id="Console\pwp_monitorimage" suffix="1" />
+        <Object id="Console\pwp_monitorimage3" suffix="1" />
+        <Object id="ControlRoom\consolelight_SHIP" suffix="1" />
+        <Object id="Doors\door02_ship" suffix="1" />
+        <Object id="Doors\Framedoor1_Ship" suffix="1" />
+        <Object id="Icons\SUB_chart" suffix="2" />
+        <Object id="LightGen\Mili_lantern01_chi00B" suffix="1" />
+        <Object id="LightGen\Mili_lantern02_chi01B" suffix="1" />
+        <Object id="Misc\Spot_PWP" suffix="1" />
+        <Object id="new_Z\lamp_inside" suffix="1" />
+        <Object id="new_Z\pipe_box" suffix="1" />
+        <Object id="new_Z\sub05" suffix="1" />
+        <Object id="new_Z1\flash_off" suffix="1" />
+        <Object id="new_Z1\flash_red" suffix="1" />
+        <Object id="new_Z1\flash_yellow" suffix="1" />
+        <Object id="Office\Shaft2_Ship" suffix="1" />
+        <Object id="Other\411_Elebox" suffix="1" />
+        <Object id="Other\411_Tent" suffix="1" />
+        <Object id="Other\chaire01_ship" suffix="1" />
+        <Object id="pavilion\Rim01" suffix="2" />
+        <Object id="Roof03" suffix="1" />
+        <Object id="Sub\metal03b" suffix="1" />
+        <Object id="subHangar\Cable_ship" suffix="1" />
+        <Object id="subHangar\crane_ship" suffix="1" />
+        <Object id="subHangar\Ramp_01_ship" suffix="1" />
+        <Object id="subHangar\struct2_ship" suffix="1" />
+        <Object id="subHangar\walkway01_Ship" suffix="1" />
+        <Object id="TOLE" suffix="1" />
+        <Object id="wall\cembrick02_ship" suffix="1" />
+        <Object id="wall\cement03d_ship" suffix="1" />
+        <Object id="water\GradiantWater2PAL_2" suffix="1" />
+        <Object id="windows\framewindow_ship" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\ech_generic.utx" />
+    <Package path="data\textures\ego_tex.utx" />
+    <Package path="data\textures\eintrotex.utx" />
+    <Package path="data\textures\etexaccessories.utx" />
+    <Package path="data\textures\etexcharacter.utx" />
+    <Package path="data\textures\etexingredient.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Object\Rope" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\etexrenderer.utx" />
+    <Package path="data\textures\etexrenderer2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Dev\atten1D_debug" suffix="1" />
+        <Object id="Dev\atten2D_debug" suffix="1" />
+        <Object id="Dev\bwpattern" suffix="1" />
+        <Object id="Dev\distance_attenuation_8" suffix="1" />
+        <Object id="Dev\distance_attenuation_8_reverse" suffix="1" />
+        <Object id="Dev\heat_and_attenuation_2d" suffix="1" />
+        <Object id="Dev\heat_shade_blue_8" suffix="1" />
+        <Object id="Dev\Omni_Atten_1D" suffix="1" />
+        <Object id="Dev\Omni_Atten_2D" suffix="1" />
+        <Object id="Dev\ProjTest" suffix="1" />
+        <Object id="Dev\spot_bw" suffix="1" />
+        <Object id="Dev\spot_bw_border" suffix="1" />
+        <Object id="Dev\White" suffix="1" />
+        <Object id="Dev\white_blackborder" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\etexsfx.utx" />
+    <Package path="data\textures\etree_plant.utx" />
+    <Package path="data\textures\generic_shaders.utx" />
+    <Package path="data\textures\generic.utx" />
+    <Package path="data\textures\guicontent.utx" />
+    <Package path="data\textures\guicontentadd.utx" />
+    <Package path="data\textures\hud.utx" />
+    <Package path="data\textures\hudpc.utx" />
+    <Package path="data\textures\hudps2.utx" />
+    <Package path="data\textures\lambert_office_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="wall_floors\aluminumpanel_NSA" suffix="1" />
+        <Object id="wall_floors\woodpanel_NSA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\lftx.utx" />
+    <Package path="data\textures\lightgentex.utx" />
+    <Package path="data\textures\maps.utx" />
+    <Package path="data\textures\miningtown_tex.utx" />
+    <Package path="data\textures\nucroom2.utx" />
+    <Package path="data\textures\prog\generic_staticmesh_tex.utx" />
+    <Package path="data\textures\prog\generic_tex.utx" />
+    <Package path="data\textures\prog\jtexjunk.utx" />
+    <Package path="data\textures\prog\sub.utx" />
+    <Package path="data\textures\prog\uwindowfonts.utx" />
+    <Package path="data\textures\sissix_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Icons\SUB_chart" suffix="1" />
+        <Object id="Icons\SUB_door01" suffix="1" />
+        <Object id="Icons\SUB_floor01" suffix="1" />
+        <Object id="Icons\SUB_wires02" suffix="1" />
+        <Object id="Light\subpanel_light01a" suffix="1" />
+        <Object id="Light\subpanel_light01b" suffix="1" />
+        <Object id="Light\subpanel_light01c" suffix="1" />
+        <Object id="Light\subpanel_light01d" suffix="1" />
+        <Object id="Light\subpanel_screen2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="data\textures\terran_texture.utx" />
+    <Package path="data\textures\texttrain.utx" />
+    <Package path="data\textures\warehousead.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Accessories\Pipe" suffix="1" />
+        <Object id="Accessories\pipe2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="system\core.u" />
+    <Package path="system\echelon.u" />
+    <Package path="system\echeloncharacter.u" />
+    <Package path="system\echeloneffect.u" />
+    <Package path="system\echelongameobject.u" />
+    <Package path="system\echelonhud.u" />
+    <Package path="system\echeloningredient.u" />
+    <Package path="system\echelonpattern.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\enginechn.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Border" suffix="1" />
+        <Object id="ETextFont\Texture1" suffix="1" />
+        <Object id="SmallFont\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="system\gui.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\uwindow.u" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,421 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="rottgame\cookedpc\backups\startup.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineDebugMaterials\HeatmapGradient" suffix="1" />
+        <Object id="Lo_Wang\Textures\Gold_Insignia_N" suffix="1" />
+        <Object id="ROTT_Legacy_01\Meshes\Explosive_Barrel_D_Dup" suffix="1" />
+        <Object id="ROTT_World_Objects\Textures\barrel_exp_diffuse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\community\maps\rott_angelsonefive.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_ctf-aiyrus_xl.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_ctf-templus.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Image" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\community\maps\rott_dm-aiyrus.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Image" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\community\maps\rott_dm-odio.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Image" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\community\maps\rott_dm-tepidus.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Image" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\community\maps\rott_dm-virgus.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_dmdangercanyon.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_dmthecorpseyard.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_tremo.rott" />
+    <Package path="rottgame\cookedpc\community\maps\rott_triadarena.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Image" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\core.u" />
+    <Package path="rottgame\cookedpc\engine.u" />
+    <Package path="rottgame\cookedpc\gameframework.u" />
+    <Package path="rottgame\cookedpc\gfxui.u" />
+    <Package path="rottgame\cookedpc\gfxuieditor.u" />
+    <Package path="rottgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="rottgame\cookedpc\guidcache.upk" />
+    <Package path="rottgame\cookedpc\ipdrv.u" />
+    <Package path="rottgame\cookedpc\maps\menus\beta_menu.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\menus\entry.rott" />
+    <Package path="rottgame\cookedpc\maps\multiplayer\classicdm.rott" />
+    <Package path="rottgame\cookedpc\maps\multiplayer\ctf1.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\ctf2.rott" />
+    <Package path="rottgame\cookedpc\maps\multiplayer\ctf3.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm1.rott" />
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm2.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_101" suffix="1" />
+        <Object id="Texture2D_103" suffix="1" />
+        <Object id="Texture2D_104" suffix="1" />
+        <Object id="Texture2D_105" suffix="1" />
+        <Object id="Texture2D_106" suffix="1" />
+        <Object id="Texture2D_107" suffix="1" />
+        <Object id="Texture2D_111" suffix="1" />
+        <Object id="Texture2D_112" suffix="1" />
+        <Object id="Texture2D_113" suffix="1" />
+        <Object id="Texture2D_117" suffix="1" />
+        <Object id="Texture2D_120" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_74" suffix="1" />
+        <Object id="Texture2D_77" suffix="1" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_91" suffix="1" />
+        <Object id="Texture2D_92" suffix="1" />
+        <Object id="Texture2D_93" suffix="1" />
+        <Object id="Texture2D_95" suffix="1" />
+        <Object id="Texture2D_96" suffix="1" />
+        <Object id="Texture2D_97" suffix="1" />
+        <Object id="Texture2D_98" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm3.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_6" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm4.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm6.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_4" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\multiplayer\dm7.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l1\e1l1.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_4" suffix="5" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_s5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2_w5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l2\e1l2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l3\e1l3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l4\e1l4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l5\e1l5_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l5\e1l5_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l5\e1l5_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l5\e1l5_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e1l5\e1l5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l1\e2l1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w1.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_65" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_73" suffix="1" />
+        <Object id="Texture2D_74" suffix="2" />
+        <Object id="Texture2D_75" suffix="1" />
+        <Object id="Texture2D_76" suffix="1" />
+        <Object id="Texture2D_77" suffix="2" />
+        <Object id="Texture2D_78" suffix="2" />
+        <Object id="Texture2D_79" suffix="1" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w6.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2_w7.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l2\e2l2.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_11" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l3\e2l3_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l3\e2l3_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l3\e2l3_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l3\e2l3_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l3\e2l3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l4\e2l4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e2l5\e2l5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l1\e3l1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l2\e3l2.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_s5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w5.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3_w6.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l3\e3l3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_s4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4_w4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l4\e3l4.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_4" suffix="6" />
+        <Object id="Texture2D_5" suffix="5" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e3l5\e3l5.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="4" />
+        <Object id="Texture2D_11" suffix="4" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_4" suffix="7" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_8" suffix="4" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l1\e4l1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l2\e4l2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l3\e4l3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_s3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4_w3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l4\e4l4.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l5\e4l5_s1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l5\e4l5_s2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l5\e4l5_w1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l5\e4l5_w2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\e4l5\e4l5.rott">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_10" suffix="5" />
+        <Object id="Texture2D_11" suffix="5" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_14" suffix="4" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_25" suffix="2" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="2" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_30" suffix="2" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="2" />
+        <Object id="Texture2D_33" suffix="2" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_4" suffix="8" />
+        <Object id="Texture2D_5" suffix="6" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="rottgame\cookedpc\maps\singleplayer\secret1\secret1.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\secret2\secret2.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\secret3\secret3.rott" />
+    <Package path="rottgame\cookedpc\maps\singleplayer\secret4\secret4.rott" />
+    <Package path="rottgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="rottgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="rottgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="rottgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="rottgame\cookedpc\rottgame.u" />
+    <Package path="rottgame\cookedpc\rottgamenative.u" />
+    <Package path="rottgame\cookedpc\startup_loc_int.upk" />
+    <Package path="rottgame\cookedpc\startup.upk" />
+    <Package path="rottgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="rottgame\cookedpc\udkbase.u" />
+    <Package path="rottgame\cookedpc\unrealed.u" />
+    <Package path="rottgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

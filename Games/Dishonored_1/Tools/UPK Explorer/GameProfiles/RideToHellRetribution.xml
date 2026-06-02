@@ -1,0 +1,12 @@
+﻿<Game packageFileVersion="852" packageLicenseeVersion="1" TFCMappingFileName="Ride To Hell Retribution" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="RTHGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Cook's Mad Recipe" TFCMappingFileName="CooksMadRecipe">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="RTHGame\DLC\PC\COOKDLC\CookedPCConsole" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

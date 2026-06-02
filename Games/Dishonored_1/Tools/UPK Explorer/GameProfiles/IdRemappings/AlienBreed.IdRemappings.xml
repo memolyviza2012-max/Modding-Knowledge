@@ -1,0 +1,359 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="alienbreedep1game\cookedpc\common\ab_music.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_common.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_dlccomic.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_endofgame.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_font_jpn.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_font_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TechMono_40\Texture2D_68" suffix="1" />
+        <Object id="TechMono_40\Texture2D_69" suffix="1" />
+        <Object id="TechMono_40\Texture2D_70" suffix="1" />
+        <Object id="TechMono_40\Texture2D_71" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_font_polish.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_font.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_controls.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_credits.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_hints.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_howtoplay.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_leaderboards.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_saveload.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_score.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend_settings.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_frontend.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_hud.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_livemultiplayer.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_livepopups.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_loading.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_pausemenu.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_pda_inventory.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_pda_logs.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_pda_map.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_pda_shop.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_startup.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_trial.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\ab_ui_upsell.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abaudio_common.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abaudio_env.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abaudio_frontend.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abaudio_frontendcredits_sf.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abaudio_frontendcredits.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abcommonenv.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\abprefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\aln.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\char.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\deb.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\e1_env_prefab_002.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\e2_e3_aligrowth.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\efft.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Angletest" suffix="1" />
+        <Object id="BloosMask" suffix="1" />
+        <Object id="HeroShipDefaultCubeMap_001" suffix="1" />
+        <Object id="MaulerRangeSpike_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\common\env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="smoke01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\common\frac.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\gameplaymusic.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\hulk_mainframe_prefab.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\hulk_mainframe.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\ab_tempui.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_aliens.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_explosions.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_footsteps.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_hud.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_impactsounds.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abaudio_weapons.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abenginematerials.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abengineresources.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\abparticles_aliens_temp.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\aln_bug.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\dyn.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\npc.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\walltool.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\internal\watercubemaptargets.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\logo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Noise" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\common\misc.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\pickups.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\redroute.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\soundmodes.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\spawner.upk" />
+    <Package path="alienbreedep1game\cookedpc\common\weap.upk" />
+    <Package path="alienbreedep1game\cookedpc\core.u" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l0_introcomic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_comic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_envt17.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_gameplay_multiplayer.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_objects.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1_system.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapRender" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l1.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_comic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_gameplay_boss.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_gameplay_multiplayer.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2_system.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapRender" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l2.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_comic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_gameplay_multiplayer.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3_system.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapRender" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l3a_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_comic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_gameplay_multiplayer.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_gameplaysub_a.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_gameplaysub_c.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_system.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapRender" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4_working.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l4.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_comic.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_gameplaysub_a.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_gameplaysub_boss.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5_system.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapRender" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1_l5.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_audio.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_env.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_gameplay_multiplayer.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_gameplay.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_gameplayintros.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_lights.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_mission_consistency.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_paths.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial_system.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\maps\e1trial.umap" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\ab_ui_e1_loading.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E1_map_L1_L2" suffix="1" />
+        <Object id="E1_map_L3_L4" suffix="1" />
+        <Object id="E1_map_L5_trial" suffix="1" />
+        <Object id="LoadBackgroundSpace" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_aln.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_audio.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_com.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_env_hydroponics_prefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_env_mainframe_prefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_env_mdc_prefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AllSeeingEye" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\packages\e1_special.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\internal\e1_dres.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E1_Lvl5_Dres_Container_001_N" suffix="1" />
+        <Object id="E1_Lvl5_Dres_Container_002_D" suffix="1" />
+        <Object id="E1_Lvl5_Dres_Container_002_N" suffix="1" />
+        <Object id="E1_Lvl5_Dres_FoodContainer_001_D" suffix="1" />
+        <Object id="E1_Lvl5_Dres_FoodContainer_001_N" suffix="1" />
+        <Object id="E1_Lvl5_Dres_Pallet_001_N" suffix="1" />
+        <Object id="E1_Lvl5_Dres_WeaponRack_001_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e1\packages\internal\e1_lvl3.upk" />
+    <Package path="alienbreedep1game\cookedpc\e1\packages\internal\e1_lvl5.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\ab_ui_hulkbackground.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_e3_hulk_barracks.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E2_E3_Env_Flor_Mid_Barracks_001_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_e3_hulk_cargo_prefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_e3_hulk_cargohold.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CargoHulk_Floor_Base_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_e3_special.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_hulk_coolingpools.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E2_Env_Flor_Mid_Cooling_002_D" suffix="1" />
+        <Object id="E2_Env_Flor_Mid_Cooling_002_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_prefabs.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\e2_special.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2_e3\packages\monorail.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2\packages\ab_ui_endofe2game.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2\packages\e2_ab_ui_loading.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LoadBackgroundSpace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e2\packages\e2_aln.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2\packages\e2_audio.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2\packages\e2_com.upk" />
+    <Package path="alienbreedep1game\cookedpc\e2\packages\e2_misc.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E2_Misc_Floor_001" suffix="1" />
+        <Object id="E2_Misc_Floor_001_Normal" suffix="1" />
+        <Object id="E2_Misc_Floor_002" suffix="1" />
+        <Object id="E2_Misc_Floor_002_normal" suffix="1" />
+        <Object id="E2_Misc_Floor_003" suffix="1" />
+        <Object id="E2_Misc_Floor_003_normal" suffix="1" />
+        <Object id="E2_Misc_Floor_004" suffix="1" />
+        <Object id="E2_Misc_Floor_004_normal" suffix="1" />
+        <Object id="E2_Misc_Floor_006" suffix="1" />
+        <Object id="E2_Misc_Floor_006_normal" suffix="1" />
+        <Object id="E2_Misc_Floor_007" suffix="1" />
+        <Object id="E2_Misc_Floor_007_normal" suffix="1" />
+        <Object id="E2_Misc_Floor_008" suffix="1" />
+        <Object id="E2_Misc_Generator_001" suffix="1" />
+        <Object id="E2_Misc_Generator_001_normal" suffix="1" />
+        <Object id="E2_Misc_Pipe_001" suffix="1" />
+        <Object id="E2_Misc_Pipe_001_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e2\packages\internal\e2_dres.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="E2_M_Dres_CommandScreen_001_D" suffix="1" />
+        <Object id="E2_M_Dres_CommandScreen_001_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e3\packages\alien_queen.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\companionboss.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_ab_ui_loading.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LoadBackgroundSpace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_aln.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_audio.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_com.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_hero_cargohold.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_hulk_researchlab.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\e3_special.upk" />
+    <Package path="alienbreedep1game\cookedpc\e3\packages\rob_test.upk" />
+    <Package path="alienbreedep1game\cookedpc\editor.u" />
+    <Package path="alienbreedep1game\cookedpc\editormaterials.upk" />
+    <Package path="alienbreedep1game\cookedpc\editormeshes.upk" />
+    <Package path="alienbreedep1game\cookedpc\editorresources.upk" />
+    <Package path="alienbreedep1game\cookedpc\engine_mi_shaders.upk" />
+    <Package path="alienbreedep1game\cookedpc\engine.u" />
+    <Package path="alienbreedep1game\cookedpc\enginefonts.upk" />
+    <Package path="alienbreedep1game\cookedpc\enginematerials.upk" />
+    <Package path="alienbreedep1game\cookedpc\enginemeshes.upk" />
+    <Package path="alienbreedep1game\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\enginescenes.upk" />
+    <Package path="alienbreedep1game\cookedpc\enginesounds.upk" />
+    <Package path="alienbreedep1game\cookedpc\enginevolumetrics.upk" />
+    <Package path="alienbreedep1game\cookedpc\entrymap.umap" />
+    <Package path="alienbreedep1game\cookedpc\exampleeditor.u" />
+    <Package path="alienbreedep1game\cookedpc\examplegame_loc_int.upk" />
+    <Package path="alienbreedep1game\cookedpc\examplegame_loc_jpn.upk" />
+    <Package path="alienbreedep1game\cookedpc\examplegame_loc_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_68" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_69" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_70" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_71" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\examplegame.u" />
+    <Package path="alienbreedep1game\cookedpc\gameframework.u" />
+    <Package path="alienbreedep1game\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="alienbreedep1game\cookedpc\guidcache.upk" />
+    <Package path="alienbreedep1game\cookedpc\initialmap.umap" />
+    <Package path="alienbreedep1game\cookedpc\ipdrv.u" />
+    <Package path="alienbreedep1game\cookedpc\localcontenttagsindex.upk" />
+    <Package path="alienbreedep1game\cookedpc\mastermap.umap" />
+    <Package path="alienbreedep1game\cookedpc\nodebuddies.upk" />
+    <Package path="alienbreedep1game\cookedpc\onlinesubsystemlive.u" />
+    <Package path="alienbreedep1game\cookedpc\onlinesubsystempsn.u" />
+    <Package path="alienbreedep1game\cookedpc\onlinesubsystemsteam.u" />
+    <Package path="alienbreedep1game\cookedpc\refcontenttagsindex.upk" />
+    <Package path="alienbreedep1game\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="alienbreedep1game\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="alienbreedep1game\cookedpc\startup_int.upk" />
+    <Package path="alienbreedep1game\cookedpc\startup_jpn.upk" />
+    <Package path="alienbreedep1game\cookedpc\startup_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_68" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_69" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_70" suffix="1" />
+        <Object id="AB_UI_Font\TechMono_40\Texture2D_71" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="alienbreedep1game\cookedpc\steamcontent\ab_ui_pcgraphicsoptions.upk" />
+    <Package path="alienbreedep1game\cookedpc\steamcontent\ab_ui_pcleaderboardscenes.upk" />
+    <Package path="alienbreedep1game\cookedpc\steamcontent\ab_ui_pcloading.upk" />
+    <Package path="alienbreedep1game\cookedpc\steamcontent\ab_ui_pcoptions.upk" />
+    <Package path="alienbreedep1game\cookedpc\steamcontent\pccontrolconfig.upk" />
+    <Package path="alienbreedep1game\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="alienbreedep1game\cookedpc\ui\testuiscenes.upk" />
+    <Package path="alienbreedep1game\cookedpc\ui\uiarcpackage.upk" />
+    <Package path="alienbreedep1game\cookedpc\unrealed.u" />
+    <Package path="alienbreedep1game\script\core.u" />
+    <Package path="alienbreedep1game\script\editor.u" />
+    <Package path="alienbreedep1game\script\engine.u" />
+    <Package path="alienbreedep1game\script\exampleeditor.u" />
+    <Package path="alienbreedep1game\script\examplegame.u" />
+    <Package path="alienbreedep1game\script\gameframework.u" />
+    <Package path="alienbreedep1game\script\ipdrv.u" />
+    <Package path="alienbreedep1game\script\onlinesubsystemlive.u" />
+    <Package path="alienbreedep1game\script\onlinesubsystempsn.u" />
+    <Package path="alienbreedep1game\script\onlinesubsystemsteam.u" />
+    <Package path="alienbreedep1game\script\unrealed.u" />
+  </Packages>
+</IdRemapping>

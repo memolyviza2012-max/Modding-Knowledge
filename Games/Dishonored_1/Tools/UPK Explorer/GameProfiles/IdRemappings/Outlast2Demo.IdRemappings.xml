@@ -1,0 +1,813 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="olgame\cookedpcconsole\akaudio.upk" />
+    <Package path="olgame\cookedpcconsole\core.upk" />
+    <Package path="olgame\cookedpcconsole\crash_bg-01_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash_bg-02_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash_bg-03_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash_bg-04_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash_lscape-00.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_lscape-01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="5" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_1061" suffix="1" />
+        <Object id="Texture2D_1062" suffix="1" />
+        <Object id="Texture2D_1063" suffix="1" />
+        <Object id="Texture2D_1064" suffix="1" />
+        <Object id="Texture2D_1065" suffix="1" />
+        <Object id="Texture2D_1067" suffix="1" />
+        <Object id="Texture2D_1068" suffix="1" />
+        <Object id="Texture2D_1069" suffix="1" />
+        <Object id="Texture2D_1070" suffix="1" />
+        <Object id="Texture2D_1071" suffix="1" />
+        <Object id="Texture2D_1072" suffix="1" />
+        <Object id="Texture2D_1073" suffix="1" />
+        <Object id="Texture2D_1074" suffix="1" />
+        <Object id="Texture2D_1075" suffix="1" />
+        <Object id="Texture2D_1076" suffix="1" />
+        <Object id="Texture2D_1077" suffix="1" />
+        <Object id="Texture2D_1079" suffix="1" />
+        <Object id="Texture2D_1080" suffix="1" />
+        <Object id="Texture2D_1081" suffix="1" />
+        <Object id="Texture2D_1083" suffix="1" />
+        <Object id="Texture2D_1084" suffix="1" />
+        <Object id="Texture2D_1085" suffix="1" />
+        <Object id="Texture2D_1086" suffix="1" />
+        <Object id="Texture2D_1087" suffix="1" />
+        <Object id="Texture2D_1088" suffix="1" />
+        <Object id="Texture2D_1091" suffix="1" />
+        <Object id="Texture2D_1092" suffix="1" />
+        <Object id="Texture2D_1093" suffix="1" />
+        <Object id="Texture2D_1094" suffix="1" />
+        <Object id="Texture2D_1095" suffix="1" />
+        <Object id="Texture2D_1096" suffix="1" />
+        <Object id="Texture2D_1097" suffix="1" />
+        <Object id="Texture2D_1098" suffix="1" />
+        <Object id="Texture2D_1099" suffix="1" />
+        <Object id="Texture2D_1100" suffix="1" />
+        <Object id="Texture2D_1101" suffix="1" />
+        <Object id="Texture2D_1102" suffix="1" />
+        <Object id="Texture2D_1103" suffix="1" />
+        <Object id="Texture2D_1104" suffix="1" />
+        <Object id="Texture2D_1107" suffix="1" />
+        <Object id="Texture2D_1108" suffix="1" />
+        <Object id="Texture2D_166" suffix="1" />
+        <Object id="Texture2D_171" suffix="1" />
+        <Object id="Texture2D_172" suffix="1" />
+        <Object id="Texture2D_173" suffix="1" />
+        <Object id="Texture2D_174" suffix="1" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_27" suffix="2" />
+        <Object id="Texture2D_28" suffix="2" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_77" suffix="1" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_79" suffix="1" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+        <Object id="Texture2D_82" suffix="1" />
+        <Object id="Texture2D_83" suffix="1" />
+        <Object id="Texture2D_84" suffix="1" />
+        <Object id="Texture2D_86" suffix="1" />
+        <Object id="Texture2D_87" suffix="1" />
+        <Object id="Texture2D_88" suffix="1" />
+        <Object id="Texture2D_91" suffix="1" />
+        <Object id="Texture2D_92" suffix="1" />
+        <Object id="Texture2D_96" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_lscape-01a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="7" />
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_123" suffix="2" />
+        <Object id="Texture2D_124" suffix="2" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="3" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_22" suffix="3" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_25" suffix="2" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_27" suffix="3" />
+        <Object id="Texture2D_28" suffix="3" />
+        <Object id="Texture2D_29" suffix="3" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_30" suffix="2" />
+        <Object id="Texture2D_31" suffix="2" />
+        <Object id="Texture2D_32" suffix="2" />
+        <Object id="Texture2D_33" suffix="2" />
+        <Object id="Texture2D_34" suffix="2" />
+        <Object id="Texture2D_35" suffix="2" />
+        <Object id="Texture2D_36" suffix="2" />
+        <Object id="Texture2D_37" suffix="2" />
+        <Object id="Texture2D_38" suffix="2" />
+        <Object id="Texture2D_39" suffix="2" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_40" suffix="2" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_46" suffix="2" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="2" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_58" suffix="1" />
+        <Object id="Texture2D_59" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_65" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_70" suffix="1" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_lscape-01b.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="9" />
+        <Object id="Texture2D_100" suffix="2" />
+        <Object id="Texture2D_101" suffix="1" />
+        <Object id="Texture2D_102" suffix="2" />
+        <Object id="Texture2D_103" suffix="2" />
+        <Object id="Texture2D_104" suffix="2" />
+        <Object id="Texture2D_105" suffix="2" />
+        <Object id="Texture2D_106" suffix="2" />
+        <Object id="Texture2D_107" suffix="2" />
+        <Object id="Texture2D_108" suffix="2" />
+        <Object id="Texture2D_109" suffix="2" />
+        <Object id="Texture2D_110" suffix="3" />
+        <Object id="Texture2D_111" suffix="3" />
+        <Object id="Texture2D_112" suffix="3" />
+        <Object id="Texture2D_122" suffix="3" />
+        <Object id="Texture2D_65" suffix="2" />
+        <Object id="Texture2D_66" suffix="2" />
+        <Object id="Texture2D_67" suffix="2" />
+        <Object id="Texture2D_68" suffix="2" />
+        <Object id="Texture2D_69" suffix="2" />
+        <Object id="Texture2D_70" suffix="2" />
+        <Object id="Texture2D_71" suffix="2" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_73" suffix="1" />
+        <Object id="Texture2D_74" suffix="1" />
+        <Object id="Texture2D_75" suffix="1" />
+        <Object id="Texture2D_76" suffix="1" />
+        <Object id="Texture2D_77" suffix="2" />
+        <Object id="Texture2D_78" suffix="2" />
+        <Object id="Texture2D_79" suffix="2" />
+        <Object id="Texture2D_80" suffix="2" />
+        <Object id="Texture2D_81" suffix="2" />
+        <Object id="Texture2D_82" suffix="2" />
+        <Object id="Texture2D_83" suffix="2" />
+        <Object id="Texture2D_84" suffix="2" />
+        <Object id="Texture2D_85" suffix="1" />
+        <Object id="Texture2D_86" suffix="2" />
+        <Object id="Texture2D_87" suffix="2" />
+        <Object id="Texture2D_88" suffix="2" />
+        <Object id="Texture2D_89" suffix="1" />
+        <Object id="Texture2D_90" suffix="1" />
+        <Object id="Texture2D_91" suffix="2" />
+        <Object id="Texture2D_92" suffix="2" />
+        <Object id="Texture2D_93" suffix="1" />
+        <Object id="Texture2D_94" suffix="1" />
+        <Object id="Texture2D_96" suffix="2" />
+        <Object id="Texture2D_97" suffix="1" />
+        <Object id="Texture2D_99" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_lscape-01c.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_lscape-02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="3" />
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_110" suffix="1" />
+        <Object id="Texture2D_111" suffix="1" />
+        <Object id="Texture2D_112" suffix="1" />
+        <Object id="Texture2D_113" suffix="1" />
+        <Object id="Texture2D_114" suffix="1" />
+        <Object id="Texture2D_115" suffix="1" />
+        <Object id="Texture2D_116" suffix="1" />
+        <Object id="Texture2D_117" suffix="1" />
+        <Object id="Texture2D_118" suffix="1" />
+        <Object id="Texture2D_119" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_120" suffix="1" />
+        <Object id="Texture2D_121" suffix="1" />
+        <Object id="Texture2D_122" suffix="1" />
+        <Object id="Texture2D_123" suffix="1" />
+        <Object id="Texture2D_124" suffix="1" />
+        <Object id="Texture2D_125" suffix="1" />
+        <Object id="Texture2D_126" suffix="1" />
+        <Object id="Texture2D_127" suffix="1" />
+        <Object id="Texture2D_128" suffix="1" />
+        <Object id="Texture2D_129" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_135" suffix="1" />
+        <Object id="Texture2D_136" suffix="1" />
+        <Object id="Texture2D_137" suffix="1" />
+        <Object id="Texture2D_138" suffix="1" />
+        <Object id="Texture2D_139" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_141" suffix="1" />
+        <Object id="Texture2D_142" suffix="1" />
+        <Object id="Texture2D_143" suffix="1" />
+        <Object id="Texture2D_145" suffix="1" />
+        <Object id="Texture2D_146" suffix="1" />
+        <Object id="Texture2D_147" suffix="1" />
+        <Object id="Texture2D_148" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_286" suffix="1" />
+        <Object id="Texture2D_287" suffix="1" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash_persistent.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_0" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_1" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_10" suffix="2" />
+        <Object id="EnvironmentReflectionCubeMapFace_11" suffix="2" />
+        <Object id="EnvironmentReflectionCubeMapFace_2" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_3" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_4" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_5" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_6" suffix="2" />
+        <Object id="EnvironmentReflectionCubeMapFace_7" suffix="2" />
+        <Object id="EnvironmentReflectionCubeMapFace_8" suffix="2" />
+        <Object id="EnvironmentReflectionCubeMapFace_9" suffix="2" />
+        <Object id="LandscapeProxyBaseColor" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash-01_ld.upk" />
+    <Package path="olgame\cookedpcconsole\crash-01_se.upk" />
+    <Package path="olgame\cookedpcconsole\crash-01_snd.upk" />
+    <Package path="olgame\cookedpcconsole\crash-01c_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02_ld.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02_se.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02_snd.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02a_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02b_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02c_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02d_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_18" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_19" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_20" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_21" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_22" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_23" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash-02e_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_24" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_25" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_26" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_27" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_28" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_29" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\crash-02f_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-02g_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03_ld.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03_se.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03_snd.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03a_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03b_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03c_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03d_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-03e_art.upk" />
+    <Package path="olgame\cookedpcconsole\crash-04_snd.upk" />
+    <Package path="olgame\cookedpcconsole\crash-05_snd.upk" />
+    <Package path="olgame\cookedpcconsole\engine.upk" />
+    <Package path="olgame\cookedpcconsole\gameframework.upk" />
+    <Package path="olgame\cookedpcconsole\gfxui.upk" />
+    <Package path="olgame\cookedpcconsole\guidcache.upk" />
+    <Package path="olgame\cookedpcconsole\intro_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="olgame\cookedpcconsole\mainmenubackground.upk" />
+    <Package path="olgame\cookedpcconsole\olfrontend_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\olfrontend.upk" />
+    <Package path="olgame\cookedpcconsole\olgame.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="menuassets\LineNote-01" suffix="1" />
+        <Object id="menuassets\LogoAudiokinetic" suffix="1" />
+        <Object id="menuassets\LogoCEIM" suffix="1" />
+        <Object id="menuassets\LogoCMF" suffix="1" />
+        <Object id="menuassets\LogoEnzyme" suffix="1" />
+        <Object id="menuassets\LogoGameON" suffix="1" />
+        <Object id="menuassets\LogoThwacke" suffix="1" />
+        <Object id="menuassets\mousecursor" suffix="1" />
+        <Object id="menuassets\Notes" suffix="1" />
+        <Object id="menuassets\Outlast_II" suffix="1" />
+        <Object id="menuassets\PaperBack" suffix="1" />
+        <Object id="menuassets\SquareShadow" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\onlinesubsystempc.upk" />
+    <Package path="olgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="olgame\cookedpcconsole\paxverticalslice_lscape-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="8" />
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_100" suffix="1" />
+        <Object id="Texture2D_102" suffix="1" />
+        <Object id="Texture2D_103" suffix="1" />
+        <Object id="Texture2D_104" suffix="1" />
+        <Object id="Texture2D_105" suffix="1" />
+        <Object id="Texture2D_106" suffix="1" />
+        <Object id="Texture2D_107" suffix="1" />
+        <Object id="Texture2D_108" suffix="1" />
+        <Object id="Texture2D_109" suffix="1" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_110" suffix="2" />
+        <Object id="Texture2D_111" suffix="2" />
+        <Object id="Texture2D_112" suffix="2" />
+        <Object id="Texture2D_113" suffix="2" />
+        <Object id="Texture2D_114" suffix="2" />
+        <Object id="Texture2D_115" suffix="2" />
+        <Object id="Texture2D_116" suffix="2" />
+        <Object id="Texture2D_117" suffix="2" />
+        <Object id="Texture2D_118" suffix="2" />
+        <Object id="Texture2D_119" suffix="2" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_120" suffix="2" />
+        <Object id="Texture2D_121" suffix="2" />
+        <Object id="Texture2D_122" suffix="2" />
+        <Object id="Texture2D_123" suffix="3" />
+        <Object id="Texture2D_124" suffix="3" />
+        <Object id="Texture2D_125" suffix="2" />
+        <Object id="Texture2D_126" suffix="2" />
+        <Object id="Texture2D_127" suffix="2" />
+        <Object id="Texture2D_128" suffix="2" />
+        <Object id="Texture2D_129" suffix="2" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_130" suffix="1" />
+        <Object id="Texture2D_131" suffix="1" />
+        <Object id="Texture2D_132" suffix="1" />
+        <Object id="Texture2D_133" suffix="1" />
+        <Object id="Texture2D_134" suffix="1" />
+        <Object id="Texture2D_135" suffix="2" />
+        <Object id="Texture2D_136" suffix="2" />
+        <Object id="Texture2D_137" suffix="2" />
+        <Object id="Texture2D_138" suffix="2" />
+        <Object id="Texture2D_139" suffix="2" />
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_140" suffix="1" />
+        <Object id="Texture2D_141" suffix="2" />
+        <Object id="Texture2D_142" suffix="2" />
+        <Object id="Texture2D_143" suffix="2" />
+        <Object id="Texture2D_144" suffix="1" />
+        <Object id="Texture2D_145" suffix="2" />
+        <Object id="Texture2D_146" suffix="2" />
+        <Object id="Texture2D_147" suffix="2" />
+        <Object id="Texture2D_148" suffix="2" />
+        <Object id="Texture2D_149" suffix="1" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_150" suffix="1" />
+        <Object id="Texture2D_151" suffix="1" />
+        <Object id="Texture2D_152" suffix="1" />
+        <Object id="Texture2D_153" suffix="1" />
+        <Object id="Texture2D_154" suffix="1" />
+        <Object id="Texture2D_155" suffix="1" />
+        <Object id="Texture2D_156" suffix="1" />
+        <Object id="Texture2D_157" suffix="1" />
+        <Object id="Texture2D_158" suffix="1" />
+        <Object id="Texture2D_159" suffix="1" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_160" suffix="1" />
+        <Object id="Texture2D_161" suffix="1" />
+        <Object id="Texture2D_162" suffix="1" />
+        <Object id="Texture2D_163" suffix="1" />
+        <Object id="Texture2D_164" suffix="1" />
+        <Object id="Texture2D_165" suffix="1" />
+        <Object id="Texture2D_166" suffix="2" />
+        <Object id="Texture2D_167" suffix="1" />
+        <Object id="Texture2D_168" suffix="1" />
+        <Object id="Texture2D_169" suffix="1" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_170" suffix="1" />
+        <Object id="Texture2D_171" suffix="2" />
+        <Object id="Texture2D_172" suffix="2" />
+        <Object id="Texture2D_173" suffix="2" />
+        <Object id="Texture2D_174" suffix="2" />
+        <Object id="Texture2D_175" suffix="1" />
+        <Object id="Texture2D_176" suffix="1" />
+        <Object id="Texture2D_177" suffix="1" />
+        <Object id="Texture2D_178" suffix="1" />
+        <Object id="Texture2D_179" suffix="1" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_180" suffix="1" />
+        <Object id="Texture2D_181" suffix="1" />
+        <Object id="Texture2D_182" suffix="1" />
+        <Object id="Texture2D_183" suffix="1" />
+        <Object id="Texture2D_184" suffix="1" />
+        <Object id="Texture2D_185" suffix="1" />
+        <Object id="Texture2D_186" suffix="1" />
+        <Object id="Texture2D_187" suffix="1" />
+        <Object id="Texture2D_188" suffix="1" />
+        <Object id="Texture2D_189" suffix="1" />
+        <Object id="Texture2D_19" suffix="4" />
+        <Object id="Texture2D_190" suffix="1" />
+        <Object id="Texture2D_191" suffix="1" />
+        <Object id="Texture2D_192" suffix="1" />
+        <Object id="Texture2D_193" suffix="1" />
+        <Object id="Texture2D_194" suffix="1" />
+        <Object id="Texture2D_195" suffix="1" />
+        <Object id="Texture2D_196" suffix="1" />
+        <Object id="Texture2D_197" suffix="1" />
+        <Object id="Texture2D_198" suffix="1" />
+        <Object id="Texture2D_199" suffix="1" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_20" suffix="3" />
+        <Object id="Texture2D_200" suffix="1" />
+        <Object id="Texture2D_201" suffix="1" />
+        <Object id="Texture2D_202" suffix="1" />
+        <Object id="Texture2D_203" suffix="1" />
+        <Object id="Texture2D_204" suffix="1" />
+        <Object id="Texture2D_205" suffix="1" />
+        <Object id="Texture2D_206" suffix="1" />
+        <Object id="Texture2D_207" suffix="1" />
+        <Object id="Texture2D_208" suffix="1" />
+        <Object id="Texture2D_209" suffix="1" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_210" suffix="1" />
+        <Object id="Texture2D_211" suffix="1" />
+        <Object id="Texture2D_212" suffix="1" />
+        <Object id="Texture2D_213" suffix="1" />
+        <Object id="Texture2D_214" suffix="1" />
+        <Object id="Texture2D_215" suffix="1" />
+        <Object id="Texture2D_216" suffix="1" />
+        <Object id="Texture2D_217" suffix="1" />
+        <Object id="Texture2D_218" suffix="1" />
+        <Object id="Texture2D_219" suffix="1" />
+        <Object id="Texture2D_22" suffix="4" />
+        <Object id="Texture2D_220" suffix="1" />
+        <Object id="Texture2D_221" suffix="1" />
+        <Object id="Texture2D_222" suffix="1" />
+        <Object id="Texture2D_223" suffix="1" />
+        <Object id="Texture2D_225" suffix="1" />
+        <Object id="Texture2D_226" suffix="1" />
+        <Object id="Texture2D_227" suffix="1" />
+        <Object id="Texture2D_228" suffix="1" />
+        <Object id="Texture2D_229" suffix="1" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_230" suffix="1" />
+        <Object id="Texture2D_231" suffix="1" />
+        <Object id="Texture2D_232" suffix="1" />
+        <Object id="Texture2D_233" suffix="1" />
+        <Object id="Texture2D_234" suffix="1" />
+        <Object id="Texture2D_239" suffix="1" />
+        <Object id="Texture2D_24" suffix="3" />
+        <Object id="Texture2D_240" suffix="1" />
+        <Object id="Texture2D_241" suffix="1" />
+        <Object id="Texture2D_242" suffix="1" />
+        <Object id="Texture2D_243" suffix="1" />
+        <Object id="Texture2D_244" suffix="1" />
+        <Object id="Texture2D_245" suffix="1" />
+        <Object id="Texture2D_246" suffix="1" />
+        <Object id="Texture2D_247" suffix="1" />
+        <Object id="Texture2D_25" suffix="3" />
+        <Object id="Texture2D_253" suffix="1" />
+        <Object id="Texture2D_254" suffix="1" />
+        <Object id="Texture2D_255" suffix="1" />
+        <Object id="Texture2D_256" suffix="1" />
+        <Object id="Texture2D_257" suffix="1" />
+        <Object id="Texture2D_258" suffix="1" />
+        <Object id="Texture2D_259" suffix="1" />
+        <Object id="Texture2D_26" suffix="3" />
+        <Object id="Texture2D_260" suffix="1" />
+        <Object id="Texture2D_268" suffix="1" />
+        <Object id="Texture2D_269" suffix="1" />
+        <Object id="Texture2D_27" suffix="4" />
+        <Object id="Texture2D_270" suffix="1" />
+        <Object id="Texture2D_271" suffix="1" />
+        <Object id="Texture2D_272" suffix="1" />
+        <Object id="Texture2D_273" suffix="1" />
+        <Object id="Texture2D_274" suffix="1" />
+        <Object id="Texture2D_28" suffix="4" />
+        <Object id="Texture2D_29" suffix="4" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_30" suffix="3" />
+        <Object id="Texture2D_31" suffix="3" />
+        <Object id="Texture2D_318" suffix="1" />
+        <Object id="Texture2D_319" suffix="1" />
+        <Object id="Texture2D_32" suffix="3" />
+        <Object id="Texture2D_320" suffix="1" />
+        <Object id="Texture2D_322" suffix="1" />
+        <Object id="Texture2D_33" suffix="3" />
+        <Object id="Texture2D_34" suffix="3" />
+        <Object id="Texture2D_35" suffix="3" />
+        <Object id="Texture2D_36" suffix="3" />
+        <Object id="Texture2D_37" suffix="3" />
+        <Object id="Texture2D_38" suffix="3" />
+        <Object id="Texture2D_39" suffix="3" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_40" suffix="3" />
+        <Object id="Texture2D_41" suffix="2" />
+        <Object id="Texture2D_42" suffix="2" />
+        <Object id="Texture2D_43" suffix="2" />
+        <Object id="Texture2D_44" suffix="2" />
+        <Object id="Texture2D_45" suffix="2" />
+        <Object id="Texture2D_454" suffix="1" />
+        <Object id="Texture2D_455" suffix="1" />
+        <Object id="Texture2D_46" suffix="3" />
+        <Object id="Texture2D_47" suffix="2" />
+        <Object id="Texture2D_48" suffix="3" />
+        <Object id="Texture2D_49" suffix="2" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_50" suffix="2" />
+        <Object id="Texture2D_51" suffix="2" />
+        <Object id="Texture2D_52" suffix="2" />
+        <Object id="Texture2D_53" suffix="2" />
+        <Object id="Texture2D_54" suffix="2" />
+        <Object id="Texture2D_55" suffix="2" />
+        <Object id="Texture2D_56" suffix="2" />
+        <Object id="Texture2D_57" suffix="2" />
+        <Object id="Texture2D_58" suffix="2" />
+        <Object id="Texture2D_59" suffix="2" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_60" suffix="2" />
+        <Object id="Texture2D_61" suffix="2" />
+        <Object id="Texture2D_62" suffix="2" />
+        <Object id="Texture2D_63" suffix="2" />
+        <Object id="Texture2D_64" suffix="2" />
+        <Object id="Texture2D_647" suffix="1" />
+        <Object id="Texture2D_648" suffix="1" />
+        <Object id="Texture2D_649" suffix="1" />
+        <Object id="Texture2D_65" suffix="3" />
+        <Object id="Texture2D_650" suffix="1" />
+        <Object id="Texture2D_651" suffix="1" />
+        <Object id="Texture2D_652" suffix="1" />
+        <Object id="Texture2D_653" suffix="1" />
+        <Object id="Texture2D_654" suffix="1" />
+        <Object id="Texture2D_655" suffix="1" />
+        <Object id="Texture2D_656" suffix="1" />
+        <Object id="Texture2D_657" suffix="1" />
+        <Object id="Texture2D_658" suffix="1" />
+        <Object id="Texture2D_659" suffix="1" />
+        <Object id="Texture2D_66" suffix="3" />
+        <Object id="Texture2D_660" suffix="1" />
+        <Object id="Texture2D_661" suffix="1" />
+        <Object id="Texture2D_67" suffix="3" />
+        <Object id="Texture2D_679" suffix="1" />
+        <Object id="Texture2D_68" suffix="3" />
+        <Object id="Texture2D_680" suffix="1" />
+        <Object id="Texture2D_681" suffix="1" />
+        <Object id="Texture2D_682" suffix="1" />
+        <Object id="Texture2D_685" suffix="1" />
+        <Object id="Texture2D_686" suffix="1" />
+        <Object id="Texture2D_687" suffix="1" />
+        <Object id="Texture2D_688" suffix="1" />
+        <Object id="Texture2D_69" suffix="3" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_70" suffix="3" />
+        <Object id="Texture2D_71" suffix="3" />
+        <Object id="Texture2D_72" suffix="2" />
+        <Object id="Texture2D_73" suffix="2" />
+        <Object id="Texture2D_74" suffix="2" />
+        <Object id="Texture2D_75" suffix="2" />
+        <Object id="Texture2D_76" suffix="2" />
+        <Object id="Texture2D_77" suffix="3" />
+        <Object id="Texture2D_78" suffix="3" />
+        <Object id="Texture2D_79" suffix="3" />
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_80" suffix="3" />
+        <Object id="Texture2D_81" suffix="3" />
+        <Object id="Texture2D_819" suffix="1" />
+        <Object id="Texture2D_82" suffix="3" />
+        <Object id="Texture2D_820" suffix="1" />
+        <Object id="Texture2D_821" suffix="1" />
+        <Object id="Texture2D_822" suffix="1" />
+        <Object id="Texture2D_823" suffix="1" />
+        <Object id="Texture2D_824" suffix="1" />
+        <Object id="Texture2D_825" suffix="1" />
+        <Object id="Texture2D_826" suffix="1" />
+        <Object id="Texture2D_827" suffix="1" />
+        <Object id="Texture2D_828" suffix="1" />
+        <Object id="Texture2D_829" suffix="1" />
+        <Object id="Texture2D_83" suffix="3" />
+        <Object id="Texture2D_830" suffix="1" />
+        <Object id="Texture2D_831" suffix="1" />
+        <Object id="Texture2D_832" suffix="1" />
+        <Object id="Texture2D_833" suffix="1" />
+        <Object id="Texture2D_834" suffix="1" />
+        <Object id="Texture2D_835" suffix="1" />
+        <Object id="Texture2D_836" suffix="1" />
+        <Object id="Texture2D_837" suffix="1" />
+        <Object id="Texture2D_838" suffix="1" />
+        <Object id="Texture2D_839" suffix="1" />
+        <Object id="Texture2D_84" suffix="3" />
+        <Object id="Texture2D_840" suffix="1" />
+        <Object id="Texture2D_841" suffix="1" />
+        <Object id="Texture2D_842" suffix="1" />
+        <Object id="Texture2D_843" suffix="1" />
+        <Object id="Texture2D_844" suffix="1" />
+        <Object id="Texture2D_845" suffix="1" />
+        <Object id="Texture2D_846" suffix="1" />
+        <Object id="Texture2D_847" suffix="1" />
+        <Object id="Texture2D_848" suffix="1" />
+        <Object id="Texture2D_849" suffix="1" />
+        <Object id="Texture2D_85" suffix="2" />
+        <Object id="Texture2D_850" suffix="1" />
+        <Object id="Texture2D_851" suffix="1" />
+        <Object id="Texture2D_852" suffix="1" />
+        <Object id="Texture2D_853" suffix="1" />
+        <Object id="Texture2D_854" suffix="1" />
+        <Object id="Texture2D_855" suffix="1" />
+        <Object id="Texture2D_856" suffix="1" />
+        <Object id="Texture2D_857" suffix="1" />
+        <Object id="Texture2D_858" suffix="1" />
+        <Object id="Texture2D_859" suffix="1" />
+        <Object id="Texture2D_86" suffix="3" />
+        <Object id="Texture2D_860" suffix="1" />
+        <Object id="Texture2D_861" suffix="1" />
+        <Object id="Texture2D_862" suffix="1" />
+        <Object id="Texture2D_865" suffix="1" />
+        <Object id="Texture2D_866" suffix="1" />
+        <Object id="Texture2D_87" suffix="3" />
+        <Object id="Texture2D_88" suffix="3" />
+        <Object id="Texture2D_89" suffix="2" />
+        <Object id="Texture2D_9" suffix="3" />
+        <Object id="Texture2D_90" suffix="2" />
+        <Object id="Texture2D_91" suffix="3" />
+        <Object id="Texture2D_92" suffix="3" />
+        <Object id="Texture2D_93" suffix="2" />
+        <Object id="Texture2D_94" suffix="2" />
+        <Object id="Texture2D_95" suffix="1" />
+        <Object id="Texture2D_96" suffix="3" />
+        <Object id="Texture2D_97" suffix="2" />
+        <Object id="Texture2D_98" suffix="1" />
+        <Object id="Texture2D_99" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\paxvslice_snd.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1_bg-01_art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1_bg-02_art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1_lwater-01_art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01_art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01_ld.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01_se.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01_snd.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01a-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-01c-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_12" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_13" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_14" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_15" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_16" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_17" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\paxvslice1-02_ld.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02_se.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02_snd.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02a-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02b-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\paxvslice1-02c-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-02d-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-03_ld.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-03_se.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-03_snd.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice1-03a-art.upk" />
+    <Package path="olgame\cookedpcconsole\paxvslice2_bg-05_art.upk" />
+    <Package path="olgame\cookedpcconsole\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="olgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="olgame\cookedpcconsole\school_part13.upk" />
+    <Package path="olgame\cookedpcconsole\school-09_art.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_art.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_fake.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_fog.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_in.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_30" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_31" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_32" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_33" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_34" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_35" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\school-13_ld.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_lightmask.upk" />
+    <Package path="olgame\cookedpcconsole\school-13_out.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EnvironmentReflectionCubeMapFace_10" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_11" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_6" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_7" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_8" suffix="1" />
+        <Object id="EnvironmentReflectionCubeMapFace_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\school-13_snd.upk" />
+    <Package path="olgame\cookedpcconsole\school-13b_art.upk" />
+    <Package path="olgame\cookedpcconsole\school-courtyard.upk" />
+    <Package path="olgame\cookedpcconsole\school-snd_vol.upk" />
+    <Package path="olgame\cookedpcconsole\schoolstage-01.upk" />
+    <Package path="olgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\startup.upk" />
+    <Package path="olgame\cookedpcconsole\udkbase_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\udkbase.upk" />
+    <Package path="olgame\cookedpcconsole\vslicepax_persistent.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LandscapeProxyBaseColor" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\windrv.upk" />
+    <Package path="olgame\cookedpcconsole\x_checkpoints.upk" />
+  </Packages>
+</IdRemapping>

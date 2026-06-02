@@ -1,0 +1,21 @@
+﻿<Game packageFileVersion="129" packageLicenseeVersion="3" TFCMappingFileName="Lemony Snicket" displayName="Lemony Snicket's A Series of Unfortunate Events" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="99" licenseeVersion="0"/>
+		<PackageVersion fileVersion="120" licenseeVersion="0"/>
+		<PackageVersion fileVersion="120" licenseeVersion="28"/>
+		<PackageVersion fileVersion="121" licenseeVersion="28"/>
+		<PackageVersion fileVersion="128" licenseeVersion="0"/>
+		<PackageVersion fileVersion="129" licenseeVersion="0"/>
+		<PackageVersion fileVersion="129" licenseeVersion="2"/>
+		<PackageVersion fileVersion="129" licenseeVersion="3"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="System" customTFCStartIndex="0" />
+		<PackageFolder path="Animations" customTFCStartIndex="100" />
+		<PackageFolder path="Maps" customTFCStartIndex="200" />
+		<PackageFolder path="Sounds" customTFCStartIndex="300" />
+		<PackageFolder path="Music" customTFCStartIndex="400" />
+		<PackageFolder path="StaticMeshes" customTFCStartIndex="500" />
+		<PackageFolder path="Textures" customTFCStartIndex="600" />
+	</PackageFolders>
+</Game>

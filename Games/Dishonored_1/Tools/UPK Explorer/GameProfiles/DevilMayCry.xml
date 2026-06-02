@@ -1,0 +1,37 @@
+﻿<Game packageFileVersion="845" packageLicenseeVersion="4" TFCMappingFileName="Devil May Cry" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="DevilGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Bloody Palace" TFCMappingFileName="DLCBloodyPalace">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCBloodyPalace" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Original Dante" TFCMappingFileName="DLCOriginalDante">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCDanteOriginal" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Bone Weapon Pack" TFCMappingFileName="DLCBoneWeapons">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCWeaponsBone" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Gold Weapon Pack" TFCMappingFileName="DLCGoldWeapons">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCWeaponsGold" customTFCStartIndex="8000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Samurai Weapon Pack" TFCMappingFileName="DLCSamuraiWeapons">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCWeaponsSamurai" customTFCStartIndex="9000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Virgil's Downfall" TFCMappingFileName="DLCVirgil">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DevilGame\Published\Content\DLCVergilsDownfall" customTFCStartIndex="10000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

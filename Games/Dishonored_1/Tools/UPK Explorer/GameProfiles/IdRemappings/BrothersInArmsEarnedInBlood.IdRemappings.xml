@@ -1,0 +1,1130 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animation\a_cin_d0_screaming_eagles_intro.ukx" />
+    <Package path="animation\a_cin_d0_screaming_eagles.ukx" />
+    <Package path="animation\a_cin_d00_action_at_stmartin.ukx" />
+    <Package path="animation\a_cin_d00_roses_all_the_way.ukx" />
+    <Package path="animation\a_cin_d00_three_patrol_action.ukx" />
+    <Package path="animation\a_cin_d01_hells_corner.ukx" />
+    <Package path="animation\a_cin_d02_chateau.ukx" />
+    <Package path="animation\a_cin_d07_bloodygulch.ukx" />
+    <Package path="animation\a_cin_d08_close_quarters.ukx" />
+    <Package path="animation\a_cin_d08_eviction_notice.ukx" />
+    <Package path="animation\a_cin_d09_baupte.ukx" />
+    <Package path="animation\a_cin_d09_hedge_row_hell.ukx" />
+    <Package path="animation\a_cin_d10_run_of_the_mill.ukx" />
+    <Package path="animation\a_cin_d10_the_all_americans.ukx" />
+    <Package path="animation\a_cin_d15_bookends_1.ukx" />
+    <Package path="animation\a_cin_d15_bookends_2.ukx" />
+    <Package path="animation\a_cin_d15_bookends_3.ukx" />
+    <Package path="animation\a_cin_d15_bookends_4.ukx" />
+    <Package path="animation\a_cin_d15_prologue_plane.ukx" />
+    <Package path="animation\a_cin_d15_prologue.ukx" />
+    <Package path="animation\a_cin_d5_coles_charge.ukx" />
+    <Package path="animation\a_corner_city.ukx" />
+    <Package path="animation\a_corner_standard.ukx" />
+    <Package path="animation\a_ev_all.ukx" />
+    <Package path="animation\a_ev_corrion.ukx" />
+    <Package path="animation\a_generic_poses.ukx" />
+    <Package path="animation\a_hold_misc.ukx" />
+    <Package path="animation\a_hold_pistol.ukx" />
+    <Package path="animation\a_hold_rifle.ukx" />
+    <Package path="animation\generic_poses.ukx" />
+    <Package path="animation\k_animal.ukx" />
+    <Package path="animation\k_character_de.ukx" />
+    <Package path="animation\k_character_us_helmet.ukx" />
+    <Package path="animation\k_character_us_hill30.ukx" />
+    <Package path="animation\k_character_us.ukx" />
+    <Package path="animation\k_mp_char_test.ukx" />
+    <Package path="animation\k_prop.ukx" />
+    <Package path="animation\k_surface_test.ukx" />
+    <Package path="animation\k_vehicle_de.ukx" />
+    <Package path="animation\k_vehicle_us.ukx" />
+    <Package path="animation\k_view_weapons.ukx" />
+    <Package path="animation\mp_k_character_de.ukx" />
+    <Package path="animation\mp_k_character_us.ukx" />
+    <Package path="cues\everything.ucx" />
+    <Package path="maps\d00_0230_rosesalltheway.gbxmap" />
+    <Package path="maps\d00_0600_actionatstmartin.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\d0_0230_base" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\d00_1630_threepatrolaction.gbxmap" />
+    <Package path="maps\d01_1200_hellscorners.gbxmap" />
+    <Package path="maps\d02_2300_chateau.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Dirt" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\d07_1500_bloodygulch.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer02" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer03" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer05" suffix="1" />
+        <Object id="Alphamaps\DecoLayer01" suffix="1" />
+        <Object id="Alphamaps\DecoLayer02" suffix="2" />
+        <Object id="Alphamaps\DecoLayer03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\d08_1000_evictionnotice.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\d08_1030_closequarters.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayerBaseDirt2" suffix="1" />
+        <Object id="Alphamaps\AlphaLayerBaseDirt3" suffix="1" />
+        <Object id="Alphamaps\AlphaLayerBaseGrass" suffix="1" />
+        <Object id="Alphamaps\AlphaLayerBaseRubble" suffix="1" />
+        <Object id="Alphamaps\CobbleDirty" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\d09_0800_baupte.gbxmap" />
+    <Package path="maps\d09_1500_hedgerowhell.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decal\d_blast_mark" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="maps\d10_0600_runofthemill.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="grain_feed_bags\grain_bags" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\d10_0800_theallamericans1.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\D8_1000_Base" suffix="1" />
+        <Object id="Alphamaps\D8_1000_Patchy" suffix="1" />
+        <Object id="Alphamaps\D8_1000_Road" suffix="1" />
+        <Object id="Alphamaps\D8_1000_Rubble" suffix="1" />
+        <Object id="Alphamaps\Deco_Rubble_a" suffix="1" />
+        <Object id="Alphamaps\DecoGrassOne" suffix="1" />
+        <Object id="Alphamaps\GrassNew" suffix="1" />
+        <Object id="Heightmaps\D8_1000_Heightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\d10_0800_theallamericans2.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\BurntDirt" suffix="1" />
+        <Object id="Alphamaps\D8_1000_Base" suffix="2" />
+        <Object id="Alphamaps\D8_1000_Patchy" suffix="2" />
+        <Object id="Alphamaps\D8_1000_Road" suffix="2" />
+        <Object id="Alphamaps\D8_1000_Rubble" suffix="2" />
+        <Object id="Alphamaps\Deco_Rubble_a" suffix="2" />
+        <Object id="Alphamaps\DecoGrassOne" suffix="2" />
+        <Object id="Heightmaps\D8_1000_Heightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\d15_1130_bookends.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DecoGrass" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\d15_1230_bookends2.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer01" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer02" suffix="2" />
+        <Object id="Alphamaps\AlphaLayer03" suffix="2" />
+        <Object id="Alphamaps\DecoLayer02" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\d15_1300_bookends4.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DecoLayer01" suffix="2" />
+        <Object id="Alphamaps\DecoLayer02" suffix="4" />
+        <Object id="Alphamaps\farm_grass_q" suffix="2" />
+        <Object id="Alphamaps\farm_patchy_q" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\d15_1330_bookends3.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\0D15_1130_Grass" suffix="1" />
+        <Object id="Alphamaps\0D15_1130_Patchy" suffix="1" />
+        <Object id="Alphamaps\DecoGrass" suffix="4" />
+        <Object id="Heightmaps\0D15_1130_Heightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\entry.gbxmap" />
+    <Package path="maps\legal.gbxmap" />
+    <Package path="maps\menu_map.gbxmap" />
+    <Package path="maps\mp_abandonedstreets.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DecoGrass" suffix="5" />
+        <Object id="Alphamaps\Dirt" suffix="2" />
+        <Object id="Alphamaps\Grass" suffix="1" />
+        <Object id="Alphamaps\Road" suffix="4" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_aidstation.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_ambush.gbxmap" />
+    <Package path="maps\mp_ammo_depot.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossGrass64" suffix="2" />
+        <Object id="Alphamaps\Mudd" suffix="2" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_asparagus.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="8" />
+        <Object id="Alphamaps\CrossDirt64" suffix="7" />
+        <Object id="Alphamaps\CrossGrass64" suffix="1" />
+        <Object id="Alphamaps\Road" suffix="3" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_battery.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="2" />
+        <Object id="Alphamaps\CrossDirt64" suffix="1" />
+        <Object id="Alphamaps\CrossPlowed64" suffix="1" />
+        <Object id="Alphamaps\DirtBurn" suffix="1" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_bunkers.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="9" />
+        <Object id="Alphamaps\CrossDirt64" suffix="8" />
+        <Object id="Alphamaps\CrossGrass64" suffix="1" />
+        <Object id="Alphamaps\Dirtblend" suffix="1" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_causeway.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="3" />
+        <Object id="Alphamaps\CrossDirt64" suffix="2" />
+        <Object id="Alphamaps\CrossSplotchy64" suffix="1" />
+        <Object id="Alphamaps\Mudd" suffix="1" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_chateau.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\5" suffix="1" />
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="10" />
+        <Object id="Alphamaps\CrossGrass64" suffix="3" />
+        <Object id="Alphamaps\Grass" suffix="2" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_codebook.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="4" />
+        <Object id="Alphamaps\CrossDirt64" suffix="3" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_crossroads.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="5" />
+        <Object id="Alphamaps\CrossDirt64" suffix="4" />
+        <Object id="Alphamaps\CrossPlowed64" suffix="2" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_darkness.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="6" />
+        <Object id="Alphamaps\CrossDirt64" suffix="5" />
+        <Object id="Alphamaps\DirtBurn" suffix="2" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_destroyedtown.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayerDirt" suffix="1" />
+        <Object id="Alphamaps\AlphaLayerGrass" suffix="1" />
+        <Object id="Alphamaps\DecoLayerGrass" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_farm.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayerDirt" suffix="2" />
+        <Object id="Alphamaps\AlphaLayerGrass" suffix="2" />
+        <Object id="Alphamaps\AlphaLayerPatchy" suffix="1" />
+        <Object id="Alphamaps\DecoLayerGrass" suffix="2" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_forest.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DECO_Grass" suffix="2" />
+        <Object id="Alphamaps\Grass" suffix="3" />
+        <Object id="Alphamaps\Road" suffix="5" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_locks.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDirt64" suffix="6" />
+        <Object id="Alphamaps\CrossPlowed64" suffix="3" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_mill.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="4" />
+        <Object id="Alphamaps\AlphaLayerDirt" suffix="3" />
+        <Object id="Alphamaps\AlphaLayerGrass" suffix="3" />
+        <Object id="Alphamaps\AlphaLayerPatchy" suffix="2" />
+        <Object id="Alphamaps\DecoLayerGrass" suffix="3" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_tankhill.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="11" />
+        <Object id="Alphamaps\CrossSplotchy64" suffix="3" />
+        <Object id="Alphamaps\Roadtemp" suffix="1" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_trainyard.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayerDirt" suffix="4" />
+        <Object id="Alphamaps\AlphaLayerMud" suffix="1" />
+        <Object id="Alphamaps\AlphaLayerPatchy" suffix="3" />
+        <Object id="Alphamaps\AlphaLayerRoad" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_warehouse.gbxmap" />
+    <Package path="maps\skr_de_cityfighting.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayerBaseDirt2" suffix="2" />
+        <Object id="Alphamaps\AlphaLayerBaseDirt3" suffix="2" />
+        <Object id="Alphamaps\AlphaLayerBaseGrass" suffix="2" />
+        <Object id="Alphamaps\AlphaLayerBaseRubble" suffix="2" />
+        <Object id="Alphamaps\decolayer" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_de_ddaydrop.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\BurntDirt" suffix="2" />
+        <Object id="Alphamaps\s01_grass_q" suffix="1" />
+        <Object id="Alphamaps\sd01_grass_q" suffix="1" />
+        <Object id="Alphamaps\t2_grass" suffix="1" />
+        <Object id="Alphamaps\t2_patchy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_de_hamlet.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="12" />
+        <Object id="Alphamaps\mp_ground" suffix="1" />
+        <Object id="Alphamaps\mp_RiverBed" suffix="1" />
+        <Object id="Heightmaps\mp_terrain01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_de_holdingtheline.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="13" />
+        <Object id="Alphamaps\CrossDirt64" suffix="9" />
+        <Object id="Alphamaps\CrossGrass64" suffix="4" />
+        <Object id="Alphamaps\CrossSplotchy64" suffix="4" />
+        <Object id="Alphamaps\DirtBurn" suffix="3" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_de_warehouse.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Base" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_menu_map.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\3" suffix="1" />
+        <Object id="Alphamaps\menu01_grass" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_us_brokentanks.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DecoLayerGrass" suffix="4" />
+        <Object id="Alphamaps\Dirt1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_us_bunker.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\decolayer" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_us_railyard.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="5" />
+        <Object id="Alphamaps\AlphaLayerDirt" suffix="5" />
+        <Object id="Alphamaps\AlphaLayerGrass" suffix="4" />
+        <Object id="Alphamaps\AlphaLayerPatchy" suffix="4" />
+        <Object id="Alphamaps\DecoLayerGrass" suffix="5" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_us_sniperhill.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CrossDecoGrass64" suffix="14" />
+        <Object id="Alphamaps\CrossGrass64" suffix="5" />
+        <Object id="Alphamaps\CrossSplotchy64" suffix="5" />
+        <Object id="Alphamaps\Roadtemp" suffix="2" />
+        <Object id="Heightmaps\CrossHeightmap64" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="maps\skr_us_takingthehill.gbxmap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DECO_Grass_low" suffix="1" />
+        <Object id="Alphamaps\grass1_low" suffix="1" />
+        <Object id="Alphamaps\groundsand1_low" suffix="1" />
+        <Object id="Alphamaps\patchygrass1_low" suffix="1" />
+        <Object id="Alphamaps\road1_low" suffix="1" />
+        <Object id="Heightmaps\dmc1_low" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\startup.gbxmap" />
+    <Package path="sound\bd_allen.uax" />
+    <Package path="sound\bd_baker.uax" />
+    <Package path="sound\bd_campbell.uax" />
+    <Package path="sound\bd_cmd_ger_a.uax" />
+    <Package path="sound\bd_cmd_ger_b.uax" />
+    <Package path="sound\bd_corrion.uax" />
+    <Package path="sound\bd_desola.uax" />
+    <Package path="sound\bd_doyle.uax" />
+    <Package path="sound\bd_friar.uax" />
+    <Package path="sound\bd_garnett.uax" />
+    <Package path="sound\bd_hartsock.uax" />
+    <Package path="sound\bd_marsh.uax" />
+    <Package path="sound\bd_mcconnel.uax" />
+    <Package path="sound\bd_paddock.uax" />
+    <Package path="sound\bd_paige.uax" />
+    <Package path="sound\bd_sp_ger_a.uax" />
+    <Package path="sound\bd_sp_ger_b.uax" />
+    <Package path="sound\bd_sp_ger_c.uax" />
+    <Package path="sound\bd_sp_ger_d.uax" />
+    <Package path="sound\bd_sp_ger_e.uax" />
+    <Package path="sound\bd_sp_ger_f.uax" />
+    <Package path="sound\d00_0230_loadin.uax" />
+    <Package path="sound\d00_0230_sounds.uax" />
+    <Package path="sound\d00_0230.uax" />
+    <Package path="sound\d00_0600_loadin.uax" />
+    <Package path="sound\d00_0600_sounds.uax" />
+    <Package path="sound\d00_0600.uax" />
+    <Package path="sound\d00_1630_loadin.uax" />
+    <Package path="sound\d00_1630_sounds.uax" />
+    <Package path="sound\d00_1630.uax" />
+    <Package path="sound\d00130_sounds.uax" />
+    <Package path="sound\d01_1200_loadin.uax" />
+    <Package path="sound\d01_1200_sounds.uax" />
+    <Package path="sound\d01_1200.uax" />
+    <Package path="sound\d02_2300_loadin.uax" />
+    <Package path="sound\d02_2300_sounds.uax" />
+    <Package path="sound\d02_2300.uax" />
+    <Package path="sound\d07_1500_loadin.uax" />
+    <Package path="sound\d07_1500_sounds.uax" />
+    <Package path="sound\d07_1500.uax" />
+    <Package path="sound\d08_1000_loadin.uax" />
+    <Package path="sound\d08_1000_sounds.uax" />
+    <Package path="sound\d08_1000.uax" />
+    <Package path="sound\d08_1030_e3demo.uax" />
+    <Package path="sound\d08_1030_loadin.uax" />
+    <Package path="sound\d08_1030_sounds.uax" />
+    <Package path="sound\d08_1030.uax" />
+    <Package path="sound\d09_0800_loadin.uax" />
+    <Package path="sound\d09_0800_sounds.uax" />
+    <Package path="sound\d09_0800.uax" />
+    <Package path="sound\d09_1500_loadin.uax" />
+    <Package path="sound\d09_1500_sounds.uax" />
+    <Package path="sound\d09_1500.uax" />
+    <Package path="sound\d10_0500_loadin.uax" />
+    <Package path="sound\d10_0500_sounds.uax" />
+    <Package path="sound\d10_0500.uax" />
+    <Package path="sound\d10_0800_loadin.uax" />
+    <Package path="sound\d10_0800_sounds.uax" />
+    <Package path="sound\d10_0800.uax" />
+    <Package path="sound\d15_1130_loadin.uax" />
+    <Package path="sound\d15_1130_sounds.uax" />
+    <Package path="sound\d15_1130.uax" />
+    <Package path="sound\d71400_sounds.uax" />
+    <Package path="sound\explosions.uax" />
+    <Package path="sound\extras.uax" />
+    <Package path="sound\fires.uax" />
+    <Package path="sound\gear.uax" />
+    <Package path="sound\impacts.uax" />
+    <Package path="sound\m_aachen.uax" />
+    <Package path="sound\m_aidstation.uax" />
+    <Package path="sound\m_ambush.uax" />
+    <Package path="sound\m_ammodepot.uax" />
+    <Package path="sound\m_asparagus.uax" />
+    <Package path="sound\m_battery.uax" />
+    <Package path="sound\m_bunker.uax" />
+    <Package path="sound\m_causeway.uax" />
+    <Package path="sound\m_chateau.uax" />
+    <Package path="sound\m_codebook.uax" />
+    <Package path="sound\m_crossroads.uax" />
+    <Package path="sound\m_darkness.uax" />
+    <Package path="sound\m_destroyedtow.uax" />
+    <Package path="sound\m_farm.uax" />
+    <Package path="sound\m_forest.uax" />
+    <Package path="sound\m_gauntlet.uax" />
+    <Package path="sound\m_locks.uax" />
+    <Package path="sound\m_mill.uax" />
+    <Package path="sound\m_music.uax" />
+    <Package path="sound\m_tankhill.uax" />
+    <Package path="sound\m_trainyard.uax" />
+    <Package path="sound\m_warehouse.uax" />
+    <Package path="sound\mp_misc.uax" />
+    <Package path="sound\mp_pawn_eng_a.uax" />
+    <Package path="sound\mp_pawn_eng_b.uax" />
+    <Package path="sound\mp_pawn_eng_c.uax" />
+    <Package path="sound\mp_pawn_ger_a.uax" />
+    <Package path="sound\mp_pawn_ger_b.uax" />
+    <Package path="sound\mp_pawn_ger_c.uax" />
+    <Package path="sound\music.uax" />
+    <Package path="sound\player.uax" />
+    <Package path="sound\rain.uax" />
+    <Package path="sound\sk_de_cityfight.uax" />
+    <Package path="sound\sk_de_ddaydrop.uax" />
+    <Package path="sound\sk_de_holdingth.uax" />
+    <Package path="sound\sk_de_seizetheh.uax" />
+    <Package path="sound\sk_de_warehouse.uax" />
+    <Package path="sound\sk_us_brokentan.uax" />
+    <Package path="sound\sk_us_bunker.uax" />
+    <Package path="sound\sk_us_railyard.uax" />
+    <Package path="sound\sk_us_sniperhil.uax" />
+    <Package path="sound\sk_us_takingthe.uax" />
+    <Package path="sound\ui_music.uax" />
+    <Package path="sound\ui.uax" />
+    <Package path="sound\v_jeep.uax" />
+    <Package path="sound\v_plane.uax" />
+    <Package path="sound\v_tank_mark_iv.uax" />
+    <Package path="sound\v_tank_sherman.uax" />
+    <Package path="sound\v_tank_stuart.uax" />
+    <Package path="sound\v_tank_stug.uax" />
+    <Package path="sound\v_truck.uax" />
+    <Package path="sound\w_30cal.uax" />
+    <Package path="sound\w_88gun.uax" />
+    <Package path="sound\w_antiair.uax" />
+    <Package path="sound\w_antitankgun.uax" />
+    <Package path="sound\w_bar.uax" />
+    <Package path="sound\w_colt.uax" />
+    <Package path="sound\w_fg42.uax" />
+    <Package path="sound\w_gammon.uax" />
+    <Package path="sound\w_grenade.uax" />
+    <Package path="sound\w_k98mauser.uax" />
+    <Package path="sound\w_m1carbine.uax" />
+    <Package path="sound\w_m1garand.uax" />
+    <Package path="sound\w_m3a1.uax" />
+    <Package path="sound\w_mg42a.uax" />
+    <Package path="sound\w_mortar.uax" />
+    <Package path="sound\w_mp40d.uax" />
+    <Package path="sound\w_p38d.uax" />
+    <Package path="sound\w_panzerfaust.uax" />
+    <Package path="sound\w_springfield.uax" />
+    <Package path="sound\w_stg44d.uax" />
+    <Package path="sound\w_thompson.uax" />
+    <Package path="sound\w_usbazooka.uax" />
+    <Package path="staticmesh\s_0d15_1130_bookends.usx" />
+    <Package path="staticmesh\s_animal.usx" />
+    <Package path="staticmesh\s_building_temp.usx" />
+    <Package path="staticmesh\s_corpse.usx" />
+    <Package path="staticmesh\s_cover_destroyed.usx" />
+    <Package path="staticmesh\s_coverwall_palette.usx" />
+    <Package path="staticmesh\s_credits.usx" />
+    <Package path="staticmesh\s_d00_0230_rosesalltheway.usx" />
+    <Package path="staticmesh\s_d00_0600_actionatstmartin.usx" />
+    <Package path="staticmesh\s_d00_1630_threepatrolaction.usx" />
+    <Package path="staticmesh\s_d01_1200_hellscorners.usx" />
+    <Package path="staticmesh\s_d02_2300_chateaucolombieres.usx" />
+    <Package path="staticmesh\s_d07_1500_bloodygulch.usx" />
+    <Package path="staticmesh\s_d08_1000_evictionnotice.usx" />
+    <Package path="staticmesh\s_d08_1030_closequarters.usx" />
+    <Package path="staticmesh\s_d09_0800_baupte.usx" />
+    <Package path="staticmesh\s_d09_1500_hedgerowhell.usx" />
+    <Package path="staticmesh\s_d10_0600_runofthemill.usx" />
+    <Package path="staticmesh\s_d10_0800_theallamericans.usx" />
+    <Package path="staticmesh\s_d15_1300_bookends4.usx" />
+    <Package path="staticmesh\s_debug.usx" />
+    <Package path="staticmesh\s_deco_temp.usx" />
+    <Package path="staticmesh\s_deco.usx" />
+    <Package path="staticmesh\s_effect.usx" />
+    <Package path="staticmesh\s_ext_bunker.usx" />
+    <Package path="staticmesh\s_ext_city.usx" />
+    <Package path="staticmesh\s_ext_rural_low.usx" />
+    <Package path="staticmesh\s_ext_rural.usx" />
+    <Package path="staticmesh\s_ext_town.usx" />
+    <Package path="staticmesh\s_ext_vehicle.usx" />
+    <Package path="staticmesh\s_gib.usx" />
+    <Package path="staticmesh\s_int_bunker.usx" />
+    <Package path="staticmesh\s_int_city_bath.usx" />
+    <Package path="staticmesh\s_int_city_bed.usx" />
+    <Package path="staticmesh\s_int_city_kitchen.usx" />
+    <Package path="staticmesh\s_int_city_living.usx" />
+    <Package path="staticmesh\s_int_rural_bath.usx" />
+    <Package path="staticmesh\s_int_rural_bed.usx" />
+    <Package path="staticmesh\s_int_rural_kitchen.usx" />
+    <Package path="staticmesh\s_int_rural_living.usx" />
+    <Package path="staticmesh\s_int_town_bath.usx" />
+    <Package path="staticmesh\s_int_town_bed.usx" />
+    <Package path="staticmesh\s_int_town_kitchen.usx" />
+    <Package path="staticmesh\s_int_town_living.usx" />
+    <Package path="staticmesh\s_interface_mb.usx" />
+    <Package path="staticmesh\s_map_d0_0130_eagles.usx" />
+    <Package path="staticmesh\s_map_menu.usx" />
+    <Package path="staticmesh\s_map_mp_abandonedstreets.usx" />
+    <Package path="staticmesh\s_map_mp_aidstation.usx" />
+    <Package path="staticmesh\s_map_mp_ambush.usx" />
+    <Package path="staticmesh\s_map_mp_ammo_depot.usx" />
+    <Package path="staticmesh\s_map_mp_asparagus.usx" />
+    <Package path="staticmesh\s_map_mp_battery.usx" />
+    <Package path="staticmesh\s_map_mp_bunkers.usx" />
+    <Package path="staticmesh\s_map_mp_causeway.usx" />
+    <Package path="staticmesh\s_map_mp_chateau.usx" />
+    <Package path="staticmesh\s_map_mp_codebook.usx" />
+    <Package path="staticmesh\s_map_mp_crossroads.usx" />
+    <Package path="staticmesh\s_map_mp_darkness.usx" />
+    <Package path="staticmesh\s_map_mp_destroyedtown.usx" />
+    <Package path="staticmesh\s_map_mp_farm.usx" />
+    <Package path="staticmesh\s_map_mp_forrest.usx" />
+    <Package path="staticmesh\s_map_mp_locks.usx" />
+    <Package path="staticmesh\s_map_mp_mill.usx" />
+    <Package path="staticmesh\s_map_mp_tankhill.usx" />
+    <Package path="staticmesh\s_map_mp_trainyard.usx" />
+    <Package path="staticmesh\s_map_mp_warehouse.usx" />
+    <Package path="staticmesh\s_map_skr_brokentanks.usx" />
+    <Package path="staticmesh\s_map_skr_bunker.usx" />
+    <Package path="staticmesh\s_map_skr_church.usx" />
+    <Package path="staticmesh\s_map_skr_cityfighting.usx" />
+    <Package path="staticmesh\s_map_skr_dday_drop.usx" />
+    <Package path="staticmesh\s_map_skr_hamlet.usx" />
+    <Package path="staticmesh\s_map_skr_holdingtheline.usx" />
+    <Package path="staticmesh\s_map_skr_marsh.usx" />
+    <Package path="staticmesh\s_map_skr_railyard.usx" />
+    <Package path="staticmesh\s_map_skr_sniperhill.usx" />
+    <Package path="staticmesh\s_map_skr_takingthehill.usx" />
+    <Package path="staticmesh\s_map_skr_warehouse.usx" />
+    <Package path="staticmesh\s_menu_map.usx" />
+    <Package path="staticmesh\s_military_de.usx" />
+    <Package path="staticmesh\s_military_us.usx" />
+    <Package path="staticmesh\s_mp_misc.usx" />
+    <Package path="staticmesh\s_npc_item_de.usx" />
+    <Package path="staticmesh\s_npc_item_us.usx" />
+    <Package path="staticmesh\s_npc_weapon_de.usx" />
+    <Package path="staticmesh\s_npc_weapon_us.usx" />
+    <Package path="staticmesh\s_placeholder.usx" />
+    <Package path="staticmesh\s_skr_menu_map.usx" />
+    <Package path="staticmesh\s_sky.usx" />
+    <Package path="staticmesh\s_temp_skybox.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="S_CharacterSpawnerGerman" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="system\gameplay.u" />
+    <Package path="system\gameservice.u" />
+    <Package path="system\gbxai.u" />
+    <Package path="system\gbxbase.u" />
+    <Package path="system\gbxcharacters.u" />
+    <Package path="system\gbxeffects.u" />
+    <Package path="system\gbxenvironment.u" />
+    <Package path="system\gbxgameplay.u" />
+    <Package path="system\gbxhud.u" />
+    <Package path="system\gbxinventory.u" />
+    <Package path="system\gbxmp.u" />
+    <Package path="system\gbxscripted.u" />
+    <Package path="system\gbxui.u" />
+    <Package path="system\gbxvehicles.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\setup.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\upreview.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="texture\t_0d15_1130_bookends.utx" />
+    <Package path="texture\t_animal.utx" />
+    <Package path="texture\t_character_civ.utx" />
+    <Package path="texture\t_character_de.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="grids\para_sturm_leftside" suffix="1" />
+        <Object id="grids\para_sturm_rightside" suffix="1" />
+        <Object id="Infantry\de_inf_mp" suffix="1" />
+        <Object id="Infantry\de_tanker_body" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_character_us.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="grids\baker_base" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_baker" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_baker_battle1" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_baker_battle2" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_baker_intro" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_corrion" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_corrion_battle1" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_corrion_battle2" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_corrion_intro" suffix="1" />
+        <Object id="paratrooper_head_shaders\us_para_hartsock" suffix="1" />
+        <Object id="paratrooper\us_para_body_mp" suffix="1" />
+        <Object id="paratrooper\us_para_parachute" suffix="1" />
+        <Object id="paratrooper\us_para_patches" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_corpse.utx" />
+    <Package path="texture\t_coverwall_palette.utx" />
+    <Package path="texture\t_d00_0230_rosesalltheway.utx" />
+    <Package path="texture\t_d00_0600_actionatstmartin.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d00_1630_threepatrolaction.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d01_1200_hellscorners.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap" suffix="3" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d02_2300_chateaucolombieres.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d07_1500_bloodygulch.utx" />
+    <Package path="texture\t_d08_1000_evictionnotice.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\detail_terrain" suffix="1" />
+        <Object id="skybox\terrain_lmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d08_1030_closequarters.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d09_0800_baupte.utx" />
+    <Package path="texture\t_d09_1500_hedgerowhell.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap" suffix="3" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d10_0600_runofthemill.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap" suffix="4" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d10_0800_theallamericans.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap" suffix="3" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_d15_1300_bookends4.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\crossfade_lm" suffix="4" />
+        <Object id="skybox\dist_house_glass" suffix="1" />
+        <Object id="skybox\dist_house_wall" suffix="1" />
+        <Object id="uber\uber_wood_colescharge" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_debug.utx" />
+    <Package path="texture\t_deco_temp.utx" />
+    <Package path="texture\t_deco.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="deco\DECO_Grass" suffix="1" />
+        <Object id="deco\deco_patchy" suffix="1" />
+        <Object id="deco\deco_patchy_dark" suffix="1" />
+        <Object id="deco\marsh_a" suffix="1" />
+        <Object id="deco\marsh_b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_effect.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Particle\fire_b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_eib_credits.utx" />
+    <Package path="texture\t_ext_bunker.utx" />
+    <Package path="texture\t_ext_city.utx" />
+    <Package path="texture\t_ext_rural_low.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="foliage_low\foliage_low" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_ext_rural.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="crop\crop_corn_dead" suffix="1" />
+        <Object id="farm_scenery\chicken_coop" suffix="1" />
+        <Object id="farm_scenery\milk_can" suffix="1" />
+        <Object id="fence\Wood_fence" suffix="1" />
+        <Object id="foliage\branch_apple" suffix="1" />
+        <Object id="foliage\Cabbage" suffix="1" />
+        <Object id="foliage\hedge_dirt" suffix="1" />
+        <Object id="Hay\hay_circle" suffix="1" />
+        <Object id="lumber\ripe_wood" suffix="1" />
+        <Object id="rock\field_rock" suffix="1" />
+        <Object id="stump\tree_trunk" suffix="1" />
+        <Object id="telephone_pole\telephone_pole_wooden" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_ext_town.utx" />
+    <Package path="texture\t_ext_vehicle.utx" />
+    <Package path="texture\t_extras.utx" />
+    <Package path="texture\t_gbxfonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WargameFontNumbers\WargameFontNumbers_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_gbxshader.utx" />
+    <Package path="texture\t_gib.utx" />
+    <Package path="texture\t_housetemp.utx" />
+    <Package path="texture\t_int_bunker.utx" />
+    <Package path="texture\t_int_city_bath.utx" />
+    <Package path="texture\t_int_city_bed.utx" />
+    <Package path="texture\t_int_city_kitchen.utx" />
+    <Package path="texture\t_int_city_living.utx" />
+    <Package path="texture\t_int_rural_bath.utx" />
+    <Package path="texture\t_int_rural_bed.utx" />
+    <Package path="texture\t_int_rural_kitchen.utx" />
+    <Package path="texture\t_int_rural_living.utx" />
+    <Package path="texture\t_int_town_bath.utx" />
+    <Package path="texture\t_int_town_bed.utx" />
+    <Package path="texture\t_int_town_kitchen.utx" />
+    <Package path="texture\t_int_town_living.utx" />
+    <Package path="texture\t_interface_mb.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GUI\biarh30_logo" suffix="1" />
+        <Object id="head_shots\baker_side" suffix="1" />
+        <Object id="head_shots\hartsock_side" suffix="1" />
+        <Object id="head_shots\tank_panzer" suffix="1" />
+        <Object id="head_shots\tank_stug" suffix="1" />
+        <Object id="HUD\chapters_comp" suffix="1" />
+        <Object id="HUD\controller_bg" suffix="1" />
+        <Object id="HUD\interface_comp" suffix="1" />
+        <Object id="HUD\training_art" suffix="1" />
+        <Object id="HUD\xbox_controller_b" suffix="1" />
+        <Object id="mp_briefing\mp_ambush" suffix="1" />
+        <Object id="mp_briefing\mp_asparagus" suffix="1" />
+        <Object id="mp_briefing\mp_battery" suffix="1" />
+        <Object id="mp_briefing\mp_causeway" suffix="1" />
+        <Object id="mp_briefing\mp_codebook" suffix="1" />
+        <Object id="mp_briefing\mp_crossroads" suffix="1" />
+        <Object id="mp_briefing\mp_darkness" suffix="1" />
+        <Object id="mp_briefing\mp_locks" suffix="1" />
+        <Object id="mp_briefing\mp_tankhill" suffix="1" />
+        <Object id="mp_briefing\mp_warehouse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_d0_0130_eagles.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_terrain_eagles" suffix="1" />
+        <Object id="skybox\lightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_aidstation.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="distant\terrain_detail" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_ambush.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_ammo_depot.utx" />
+    <Package path="texture\t_map_mp_asparagus.utx" />
+    <Package path="texture\t_map_mp_battery.utx" />
+    <Package path="texture\t_map_mp_bunkers.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cube_maps\ocean0" suffix="1" />
+        <Object id="cube_maps\ocean1" suffix="1" />
+        <Object id="cube_maps\ocean2" suffix="1" />
+        <Object id="cube_maps\ocean3" suffix="1" />
+        <Object id="cube_maps\ocean4" suffix="1" />
+        <Object id="cube_maps\ocean5" suffix="1" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+        <Object id="uber\uber_wood" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_causeway.utx" />
+    <Package path="texture\t_map_mp_chateau.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\uber_wall" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_codebook.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_crossroads.utx" />
+    <Package path="texture\t_map_mp_destroyedtown.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\uber_glass" suffix="1" />
+        <Object id="uber\uber_metal" suffix="1" />
+        <Object id="uber\uber_stone" suffix="1" />
+        <Object id="uber\uber_wall" suffix="2" />
+        <Object id="uber\uber_wood" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_farm.utx" />
+    <Package path="texture\t_map_mp_forrest.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_locks.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_mill.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="crossfade\RM_crossfademap_01a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_tankhill.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\dist_lmap_deadmanscorner" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_trainyard.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="crossfade\EN_crossfademap_01a" suffix="1" />
+        <Object id="skybox\terrian_detail" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_mp_warehouse.utx" />
+    <Package path="texture\t_map_skr_brokentanks.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\uber_stone" suffix="2" />
+        <Object id="uber\uber_wall" suffix="3" />
+        <Object id="uber\uber_wood" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_bunker.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrian_lmap" suffix="1" />
+        <Object id="uber\uber_trench_battery" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_cityfighting.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\uber_glass" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_dday_drop.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\detail_terrain" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_hamlet.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\Detail" suffix="1" />
+        <Object id="skybox\skybox_house_lmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_holdingtheline.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\foliage_lightmap" suffix="1" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+        <Object id="uber\uber_glass" suffix="3" />
+        <Object id="uber\uber_metal" suffix="2" />
+        <Object id="uber\uber_stone" suffix="3" />
+        <Object id="uber\uber_wall" suffix="4" />
+        <Object id="uber\uber_wood" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_map_skr_railyard.utx" />
+    <Package path="texture\t_map_skr_sniperhill.utx" />
+    <Package path="texture\t_map_skr_takingthehill.utx" />
+    <Package path="texture\t_map_skr_warehouse.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skybox\terrain_detail" suffix="3" />
+        <Object id="uber\uber_metal_warehouse" suffix="1" />
+        <Object id="uber\uber_stone_warehouse" suffix="1" />
+        <Object id="uber\uber_wood_warehouse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_menu_map.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="photo_layout\blanket_texture" suffix="1" />
+        <Object id="photo_layout\blanketLightingMap" suffix="1" />
+        <Object id="photo_layout\paper" suffix="1" />
+        <Object id="photo_layout\paperLightingMap" suffix="1" />
+        <Object id="photo_layout\photos_all_low" suffix="1" />
+        <Object id="photo_layout\photosLightingMap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_military_de.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="equipment\Barrel_skin_256" suffix="1" />
+        <Object id="equipment\Canister_skin_256" suffix="1" />
+        <Object id="equipment\CargoBox_1_skin" suffix="1" />
+        <Object id="equipment\Cargobox_10_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_2_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_3_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_4_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_5_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_6_256_skin" suffix="1" />
+        <Object id="equipment\CargoBox_7_256_skin" suffix="1" />
+        <Object id="equipment\Cargobox_8_256_skin" suffix="1" />
+        <Object id="equipment\CargoDrum_256_skin" suffix="1" />
+        <Object id="equipment\Jerry_can_skin_256" suffix="1" />
+        <Object id="equipment\Medbox_256_skin" suffix="1" />
+        <Object id="equipment\Panzerbox_256_skin" suffix="1" />
+        <Object id="sandbag\gun_crate_a" suffix="1" />
+        <Object id="Vehicle\de_halftrack" suffix="1" />
+        <Object id="Vehicle\de_halftrack_alpha" suffix="1" />
+        <Object id="Vehicle\de_opel-blitz" suffix="1" />
+        <Object id="Vehicle\de_panzer_IV" suffix="1" />
+        <Object id="Vehicle\de_panzer_IV_alpha" suffix="1" />
+        <Object id="Vehicle\de_stug_III" suffix="1" />
+        <Object id="Vehicle\de_stug_III_alpha" suffix="1" />
+        <Object id="Vehicle\de_stug_III_gun" suffix="1" />
+        <Object id="Vehicle\kubelwagon" suffix="1" />
+        <Object id="Vehicle\mp_opel_blitz_lightmap" suffix="1" />
+        <Object id="Vehicle\mp_opel_blitz_lightmap_destroyed" suffix="1" />
+        <Object id="Vehicle\opel_blitz_lightmap" suffix="1" />
+        <Object id="Vehicle\opel_blitz_topdown_lightmap" suffix="1" />
+        <Object id="Weapon\flakv" suffix="1" />
+        <Object id="Weapon\Mg42" suffix="1" />
+        <Object id="Weapon\pak36" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_military_us.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="equipment\Canvas" suffix="1" />
+        <Object id="Vehicle\us_c47_propeller" suffix="1" />
+        <Object id="Vehicle\us_stuart_f" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_mp_abandonedstreets.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="building\CQ_house01f_lm" suffix="1" />
+        <Object id="building\CQ_house01g_lm" suffix="1" />
+        <Object id="building\CQ_house03c00_lm" suffix="1" />
+        <Object id="building\CQ_house03c01_lm" suffix="1" />
+        <Object id="building\CQ_house04d_lm" suffix="1" />
+        <Object id="building\CQ_house04e_lm" suffix="1" />
+        <Object id="building\CQ_house04f_lm" suffix="1" />
+        <Object id="building\CQ_house04g_lm" suffix="1" />
+        <Object id="building\CQ_house04i_lm" suffix="1" />
+        <Object id="building\CQ_house04j_lm" suffix="1" />
+        <Object id="building\CQ_house04m_lm" suffix="1" />
+        <Object id="building\CQ_house04n_lm" suffix="1" />
+        <Object id="building\CQ_house05a_lm" suffix="1" />
+        <Object id="building\CQ_house05b_lm" suffix="1" />
+        <Object id="building\CQ_house05c_lm" suffix="1" />
+        <Object id="building\CQ_house05d_lm" suffix="1" />
+        <Object id="building\CQ_house05e_lm" suffix="1" />
+        <Object id="building\CQ_house11b_lm" suffix="1" />
+        <Object id="building\CQ_house11c_lm" suffix="1" />
+        <Object id="skybox\dist_alpha_closequaters" suffix="1" />
+        <Object id="skybox\skybox_houses" suffix="1" />
+        <Object id="skybox\terrain_detail" suffix="3" />
+        <Object id="skybox\terrain_lmap" suffix="2" />
+        <Object id="skybox\terrian_lmap_houses" suffix="1" />
+        <Object id="uber\glass_closequarters" suffix="1" />
+        <Object id="uber\uber_boulanger_closequarters" suffix="1" />
+        <Object id="uber\ubermetal_closequarters" suffix="1" />
+        <Object id="uber\uberstone_closequarters" suffix="1" />
+        <Object id="uber\uberwood_closequarters" suffix="1" />
+        <Object id="uber\wall_closequarters" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_mp_crossroads.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\uber_glass_crossroads" suffix="1" />
+        <Object id="uber\uber_metal_crossroads" suffix="1" />
+        <Object id="uber\uber_wall_crossroads" suffix="1" />
+        <Object id="uber\uber_wood_crossroads" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_mp_map_darkness.utx" />
+    <Package path="texture\t_mp_misc.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="uber\house_light_1a" suffix="1" />
+        <Object id="uber\mp_uber_wood" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_mp_sky.utx" />
+    <Package path="texture\t_multiplayer_temp.utx" />
+    <Package path="texture\t_no_draw.utx" />
+    <Package path="texture\t_npc_item_de.utx" />
+    <Package path="texture\t_npc_item_us.utx" />
+    <Package path="texture\t_npc_weapon_de.utx" />
+    <Package path="texture\t_npc_weapon_us.utx" />
+    <Package path="texture\t_placeholder.utx" />
+    <Package path="texture\t_skr_menu_map.utx" />
+    <Package path="texture\t_skr_misc.utx" />
+    <Package path="texture\t_sky.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="afternoon_cloudy\afternoon_cloudy" suffix="1" />
+        <Object id="afternoon_cloudy\afternoon_cloudy_fog" suffix="1" />
+        <Object id="afternoon_cloudy\afternoon_cloudy_grey" suffix="1" />
+        <Object id="afternoon_cloudy\afternoon_cloudy_top" suffix="1" />
+        <Object id="afternoon_storm\afternoon_storm_side" suffix="1" />
+        <Object id="afternoon\afternoon_side" suffix="1" />
+        <Object id="afternoon\afternoon_top" suffix="1" />
+        <Object id="before_rainstorm\before_rainstorm_side" suffix="1" />
+        <Object id="before_rainstorm\before_rainstorm_top" suffix="1" />
+        <Object id="crackofdawn\crack_of_dawn_side" suffix="1" />
+        <Object id="crackofdawn\crack_of_dawn_top" suffix="1" />
+        <Object id="dusk_aftersunset\dusk_aftersunset_side" suffix="1" />
+        <Object id="dusk_aftersunset\dusk_aftersunset_top" suffix="1" />
+        <Object id="evening\evening_cloudy_side" suffix="1" />
+        <Object id="evening\evening_cloudy_top" suffix="1" />
+        <Object id="night\night_clouds_side" suffix="1" />
+        <Object id="night\night_clouds_top" suffix="1" />
+        <Object id="overcast_afternoon\overcast_afternoon_a_side" suffix="1" />
+        <Object id="overcast_afternoon\overcast_afternoon_side" suffix="1" />
+        <Object id="overcast_afternoon\overcast_afternoon_top" suffix="1" />
+        <Object id="sunrise\sunrise_cloudy_side" suffix="1" />
+        <Object id="sunrise\sunrise_cloudy_top" suffix="1" />
+        <Object id="sunset\sunset_cloudy_side" suffix="1" />
+        <Object id="sunset\sunset_cloudy_top" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_sprite_soldier.utx" />
+    <Package path="texture\t_standard.utx" />
+    <Package path="texture\t_temp_skybox.utx" />
+    <Package path="texture\t_terrain_eib.utx" />
+    <Package path="texture\t_terrain.utx" />
+    <Package path="texture\t_uber_mb.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="foliage\hedge_a" suffix="1" />
+        <Object id="foliage\hedge_b" suffix="1" />
+        <Object id="foliage\hedge_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_view_model_de.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="View_weapons\view_fg42_sight_post" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texture\t_view_model_us.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="View_weapons\hand" suffix="2" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

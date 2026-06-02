@@ -1,0 +1,13 @@
+﻿<Game packageFileVersion="832" packageLicenseeVersion="46" TFCMappingFileName="Borderlands Pre Sequel" platform="PS4" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="Arbutus\WillowGame\CookedOrbis" customTFCStartIndex="0" />
+	</PackageFolders>
+	<ExcludedFile>Arbutus\WillowGame\CookedOrbis\RefShaderCache-Orbis.upk</ExcludedFile>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Claptastic Voyage" TFCMappingFileName="ClaptasticVoyage">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Arbutus\DLC\Orbis\Marigold\*" TFCpath="Arbutus\DLC\Orbis\Marigold\Compat\Textures" customTFCStartIndex="8000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

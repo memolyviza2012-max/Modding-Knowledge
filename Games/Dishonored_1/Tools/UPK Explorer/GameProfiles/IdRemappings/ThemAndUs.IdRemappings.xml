@@ -1,0 +1,581 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\localshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_01_b_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_01_b_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_01_b.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_02_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_02_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_02.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_18" suffix="4" />
+        <Object id="Texture2D_5" suffix="5" />
+        <Object id="Texture2D_8" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_03_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_03_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_03.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_59" suffix="1" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_69" suffix="2" />
+        <Object id="Texture2D_70" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_73" suffix="1" />
+        <Object id="Texture2D_74" suffix="1" />
+        <Object id="Texture2D_77" suffix="1" />
+        <Object id="Texture2D_78" suffix="2" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+        <Object id="Texture2D_82" suffix="1" />
+        <Object id="Texture2D_83" suffix="1" />
+        <Object id="Texture2D_84" suffix="1" />
+        <Object id="Texture2D_85" suffix="1" />
+        <Object id="Texture2D_86" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_04_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_04_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_arrestmemoryentry_04.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_grandhall.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_1mainhall_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_1mainhall_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_1mainhall.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_2mainhall.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_3cells.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_4hallbedrooms.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_5room1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_5room2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_6dinner.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_int_7winecellar.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_p.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_roof_aftercredits.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_roof_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_roof_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\cathedral\tu_cathedral_roof.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_catacombs_cine.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_catacombs.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_cemetery.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_cemetery2_tomb01.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_cemetery2_tomb02.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_cemetery2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="11" />
+        <Object id="Texture2D_10" suffix="4" />
+        <Object id="Texture2D_11" suffix="5" />
+        <Object id="Texture2D_12" suffix="9" />
+        <Object id="Texture2D_13" suffix="8" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_6" suffix="7" />
+        <Object id="Texture2D_62" suffix="3" />
+        <Object id="Texture2D_63" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_church_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_church.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_fogisland_sewers.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_forest.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_100" suffix="1" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_58" suffix="2" />
+        <Object id="Texture2D_62" suffix="2" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_76" suffix="3" />
+        <Object id="Texture2D_77" suffix="3" />
+        <Object id="Texture2D_93" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_gardener_home.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_gatekeeper_room1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_gatekeeper_roomb.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_b_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_b_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_b.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="12" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="2" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_34" suffix="2" />
+        <Object id="Texture2D_35" suffix="2" />
+        <Object id="Texture2D_36" suffix="2" />
+        <Object id="Texture2D_41" suffix="2" />
+        <Object id="Texture2D_42" suffix="2" />
+        <Object id="Texture2D_43" suffix="2" />
+        <Object id="Texture2D_44" suffix="2" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_82" suffix="2" />
+        <Object id="Texture2D_84" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_c.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="5" />
+        <Object id="Texture2D_11" suffix="6" />
+        <Object id="Texture2D_12" suffix="10" />
+        <Object id="Texture2D_13" suffix="9" />
+        <Object id="Texture2D_15" suffix="8" />
+        <Object id="Texture2D_19" suffix="5" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_20" suffix="4" />
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_38" suffix="3" />
+        <Object id="Texture2D_4" suffix="10" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="8" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="6" />
+        <Object id="Texture2D_9" suffix="1" />
+        <Object id="Texture2D_96" suffix="2" />
+        <Object id="Texture2D_97" suffix="2" />
+        <Object id="Texture2D_98" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard_p.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_courtyard.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="7" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="6" />
+        <Object id="Texture2D_13" suffix="5" />
+        <Object id="Texture2D_15" suffix="5" />
+        <Object id="Texture2D_16" suffix="5" />
+        <Object id="Texture2D_18" suffix="6" />
+        <Object id="Texture2D_19" suffix="4" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_20" suffix="3" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_4" suffix="7" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="1" />
+        <Object id="Texture2D_96" suffix="1" />
+        <Object id="Texture2D_97" suffix="1" />
+        <Object id="Texture2D_99" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_garden_b.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_70" suffix="3" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_73" suffix="2" />
+        <Object id="Texture2D_74" suffix="3" />
+        <Object id="Texture2D_75" suffix="2" />
+        <Object id="Texture2D_76" suffix="4" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_88" suffix="2" />
+        <Object id="Texture2D_89" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mansion_garden.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_70" suffix="2" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_74" suffix="2" />
+        <Object id="Texture2D_75" suffix="1" />
+        <Object id="Texture2D_76" suffix="2" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_79" suffix="1" />
+        <Object id="Texture2D_88" suffix="1" />
+        <Object id="Texture2D_89" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_mausoleum.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp_cabin_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp_cabin_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp_cabin.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_4" suffix="5" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp2_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="9" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_12" suffix="7" />
+        <Object id="Texture2D_13" suffix="6" />
+        <Object id="Texture2D_14" suffix="6" />
+        <Object id="Texture2D_15" suffix="6" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_4" suffix="8" />
+        <Object id="Texture2D_5" suffix="8" />
+        <Object id="Texture2D_6" suffix="5" />
+        <Object id="Texture2D_7" suffix="6" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_swamp2a.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="10" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="4" />
+        <Object id="Texture2D_12" suffix="8" />
+        <Object id="Texture2D_13" suffix="7" />
+        <Object id="Texture2D_14" suffix="7" />
+        <Object id="Texture2D_15" suffix="7" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_4" suffix="9" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="6" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_undergroundpassage.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\fogisland\tu_undergroundpassage2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_ascendentoneroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_balcony.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bar.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bathroom2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bathroom3.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bedroom3.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bedroom4.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bedroom5.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_bedroom6.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_closetroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_darkroom1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_darkroom2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_galleryroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_grandgallery.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall10.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall4.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall5.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall6.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall7.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall8.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_hall9.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_meetingroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_office_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_office_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_office.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_restingroom2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_storageroom1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_storageroom2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\mansionb\tu_mansion_warroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_guestroom1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_backyard.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_basement.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bathroom1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom1.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom2_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom2_normal.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom2_xmas.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_bedroom2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_dinner.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_hall1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_4" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_hall2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_hall2_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_hall2.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_hall3.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_kitchen.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_library.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_mainhall.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_p.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\mansion\tu_mansion_readingroom.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_asylumroom_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_asylumroom_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_asylumroom.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_darkworld_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_darkworld_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_darkworld.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_entry.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_halloween.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_landingpoint_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_landingpoint_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_landingpoint.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="6" />
+        <Object id="Texture2D_1" suffix="8" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="5" />
+        <Object id="Texture2D_13" suffix="4" />
+        <Object id="Texture2D_14" suffix="5" />
+        <Object id="Texture2D_15" suffix="4" />
+        <Object id="Texture2D_16" suffix="4" />
+        <Object id="Texture2D_17" suffix="4" />
+        <Object id="Texture2D_18" suffix="5" />
+        <Object id="Texture2D_19" suffix="3" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_38" suffix="2" />
+        <Object id="Texture2D_39" suffix="2" />
+        <Object id="Texture2D_4" suffix="6" />
+        <Object id="Texture2D_40" suffix="2" />
+        <Object id="Texture2D_5" suffix="7" />
+        <Object id="Texture2D_58" suffix="3" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_office_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_office_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_office.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_paulhouse.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_rankentry.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_skull_island.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_18" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_street_lvl.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_58" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_76" suffix="1" />
+        <Object id="Texture2D_77" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_street.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_swamp.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_unknownchamber_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_unknownchamber_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_unknownchamber.udk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_village_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_village_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\maps\tumaps\tu_village.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_12" suffix="4" />
+        <Object id="Texture2D_14" suffix="4" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_5" suffix="6" />
+        <Object id="Texture2D_8" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_chn.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_deu.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_esn.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_fra.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_hun.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_ita.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_jpn.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_kor.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_ptb.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_rom.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_tur.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\tu\archetypes\tu_archetypepkg_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume10_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume11_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume12_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume7_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume8_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\alicia_costume9_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\tu_characterexample_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\characters\tu_mastershaders_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\dlc\alicia_costume1_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\dlc\alicia_costume6_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\dlc\alicia_costume7_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\dlc\alicia_costume8_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\dlc\sooyuncostume_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\effects\tu_arhitect_efx_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\bobthebutcher_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\boss_arhitect_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\boss_butcher_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\boss_fat_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\boss_gatekeeper_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\creatures\creature_gravewalker_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\creatures\creature_lurkers_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\creatures\creature_poisonseed_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\creatures\creature_slug_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\enemies\creatures\creatures_stalkers_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\fps\fps_characters_dlc_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_chn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_deu_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_esn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_fra_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_hun_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_ita_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_jpn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_kor_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_ptb_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_rom_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_rus_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_epilogue_tur_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_chn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_deu_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_esn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_fra_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_hun_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_ita_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_jpn_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_kor_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_ptb_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_rom_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_rus_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_ft_tur_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_hudfps_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_invretro_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\gfx\tugfx_map_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\music\bgm\bgm_classic_sf.upk" />
+    <Package path="udkgame\cookedpc\tu\music\bgm\bgm_classic2_sf.upk" />
+    <Package path="udkgame\cookedpc\tufps.u" />
+    <Package path="udkgame\cookedpc\tuworkshopcc.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase_loc_rus.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

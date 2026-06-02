@@ -1,0 +1,44 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\coldgame.u" />
+    <Package path="udkgame\cookedpc\coldloadingscreen.upk" />
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldintrologos_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldintrologos.udk" />
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldmap1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldmap1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldmenumap_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\coldmaps\coldmenumap.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

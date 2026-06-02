@@ -1,0 +1,479 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\ice\ice_base_menu_eng.udk" />
+    <Package path="udkgame\cookedpc\maps\ice\ice_menu_language_selector.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\01_fornells_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\01_fornells.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\02_abstraction_ballscene.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\02_abstraction_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\02_abstraction.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part1_puzleb.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part1_puzlec.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part1.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\03_sea_part2.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\04_beach_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\04_beach.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\05_cave_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\05_cave.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\06_cave_part2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\06_cave_part2.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\07_lake_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\07_lake.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\08_lake_fog_cave_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\08_lake_fog_cave.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\09_badlands.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_30" suffix="2" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_33" suffix="2" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_35" suffix="2" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="2" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_41" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\10_badlands2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\10_badlands2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_19" suffix="3" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_25" suffix="2" />
+        <Object id="Texture2D_26" suffix="3" />
+        <Object id="Texture2D_27" suffix="2" />
+        <Object id="Texture2D_28" suffix="2" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_30" suffix="3" />
+        <Object id="Texture2D_31" suffix="2" />
+        <Object id="Texture2D_32" suffix="2" />
+        <Object id="Texture2D_33" suffix="3" />
+        <Object id="Texture2D_34" suffix="2" />
+        <Object id="Texture2D_35" suffix="3" />
+        <Object id="Texture2D_36" suffix="2" />
+        <Object id="Texture2D_37" suffix="3" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\11_flying_rocks_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\11_flying_rocks.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\12_forest_frontier.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_22" suffix="3" />
+        <Object id="Texture2D_23" suffix="3" />
+        <Object id="Texture2D_24" suffix="3" />
+        <Object id="Texture2D_25" suffix="3" />
+        <Object id="Texture2D_26" suffix="4" />
+        <Object id="Texture2D_27" suffix="3" />
+        <Object id="Texture2D_28" suffix="3" />
+        <Object id="Texture2D_29" suffix="3" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_30" suffix="4" />
+        <Object id="Texture2D_31" suffix="3" />
+        <Object id="Texture2D_32" suffix="3" />
+        <Object id="Texture2D_33" suffix="4" />
+        <Object id="Texture2D_34" suffix="3" />
+        <Object id="Texture2D_36" suffix="3" />
+        <Object id="Texture2D_38" suffix="2" />
+        <Object id="Texture2D_39" suffix="2" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\13_forest_main1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\13_forest_main1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_10" suffix="4" />
+        <Object id="Texture2D_11" suffix="4" />
+        <Object id="Texture2D_12" suffix="4" />
+        <Object id="Texture2D_13" suffix="4" />
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_15" suffix="4" />
+        <Object id="Texture2D_16" suffix="4" />
+        <Object id="Texture2D_17" suffix="4" />
+        <Object id="Texture2D_18" suffix="4" />
+        <Object id="Texture2D_19" suffix="4" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_20" suffix="3" />
+        <Object id="Texture2D_22" suffix="4" />
+        <Object id="Texture2D_23" suffix="4" />
+        <Object id="Texture2D_24" suffix="4" />
+        <Object id="Texture2D_25" suffix="4" />
+        <Object id="Texture2D_26" suffix="5" />
+        <Object id="Texture2D_27" suffix="4" />
+        <Object id="Texture2D_28" suffix="4" />
+        <Object id="Texture2D_29" suffix="4" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_31" suffix="4" />
+        <Object id="Texture2D_32" suffix="4" />
+        <Object id="Texture2D_34" suffix="4" />
+        <Object id="Texture2D_35" suffix="4" />
+        <Object id="Texture2D_36" suffix="4" />
+        <Object id="Texture2D_37" suffix="4" />
+        <Object id="Texture2D_38" suffix="3" />
+        <Object id="Texture2D_39" suffix="3" />
+        <Object id="Texture2D_4" suffix="5" />
+        <Object id="Texture2D_40" suffix="2" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_5" suffix="5" />
+        <Object id="Texture2D_6" suffix="5" />
+        <Object id="Texture2D_7" suffix="5" />
+        <Object id="Texture2D_8" suffix="4" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\14_forest_ending.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_22" suffix="5" />
+        <Object id="Texture2D_23" suffix="5" />
+        <Object id="Texture2D_24" suffix="5" />
+        <Object id="Texture2D_25" suffix="5" />
+        <Object id="Texture2D_27" suffix="5" />
+        <Object id="Texture2D_28" suffix="5" />
+        <Object id="Texture2D_29" suffix="5" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_31" suffix="5" />
+        <Object id="Texture2D_32" suffix="5" />
+        <Object id="Texture2D_34" suffix="5" />
+        <Object id="Texture2D_36" suffix="5" />
+        <Object id="Texture2D_38" suffix="4" />
+        <Object id="Texture2D_39" suffix="4" />
+        <Object id="Texture2D_4" suffix="6" />
+        <Object id="Texture2D_40" suffix="3" />
+        <Object id="Texture2D_5" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\15_cristal_intro_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\15_cristal_intro.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\16_cristal_cave_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\16_cristal_cave.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\17_giant_01.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\18_giant_02.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\19_giant_aftermath_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\19_giant_aftermath.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_10" suffix="5" />
+        <Object id="Texture2D_11" suffix="5" />
+        <Object id="Texture2D_13" suffix="5" />
+        <Object id="Texture2D_14" suffix="4" />
+        <Object id="Texture2D_15" suffix="5" />
+        <Object id="Texture2D_16" suffix="5" />
+        <Object id="Texture2D_17" suffix="5" />
+        <Object id="Texture2D_18" suffix="5" />
+        <Object id="Texture2D_19" suffix="5" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_20" suffix="4" />
+        <Object id="Texture2D_21" suffix="4" />
+        <Object id="Texture2D_22" suffix="6" />
+        <Object id="Texture2D_23" suffix="6" />
+        <Object id="Texture2D_24" suffix="6" />
+        <Object id="Texture2D_25" suffix="6" />
+        <Object id="Texture2D_26" suffix="6" />
+        <Object id="Texture2D_27" suffix="6" />
+        <Object id="Texture2D_28" suffix="6" />
+        <Object id="Texture2D_29" suffix="6" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_30" suffix="5" />
+        <Object id="Texture2D_31" suffix="6" />
+        <Object id="Texture2D_32" suffix="6" />
+        <Object id="Texture2D_33" suffix="5" />
+        <Object id="Texture2D_34" suffix="6" />
+        <Object id="Texture2D_35" suffix="5" />
+        <Object id="Texture2D_36" suffix="6" />
+        <Object id="Texture2D_37" suffix="5" />
+        <Object id="Texture2D_38" suffix="5" />
+        <Object id="Texture2D_4" suffix="7" />
+        <Object id="Texture2D_5" suffix="7" />
+        <Object id="Texture2D_6" suffix="6" />
+        <Object id="Texture2D_7" suffix="6" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\20_farm.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_12" suffix="5" />
+        <Object id="Texture2D_14" suffix="5" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_20" suffix="5" />
+        <Object id="Texture2D_22" suffix="7" />
+        <Object id="Texture2D_3" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\21_city_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\21_city.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="6" />
+        <Object id="Texture2D_1" suffix="8" />
+        <Object id="Texture2D_10" suffix="6" />
+        <Object id="Texture2D_12" suffix="6" />
+        <Object id="Texture2D_13" suffix="6" />
+        <Object id="Texture2D_14" suffix="6" />
+        <Object id="Texture2D_15" suffix="6" />
+        <Object id="Texture2D_17" suffix="6" />
+        <Object id="Texture2D_18" suffix="6" />
+        <Object id="Texture2D_19" suffix="6" />
+        <Object id="Texture2D_2" suffix="8" />
+        <Object id="Texture2D_20" suffix="6" />
+        <Object id="Texture2D_21" suffix="5" />
+        <Object id="Texture2D_22" suffix="8" />
+        <Object id="Texture2D_23" suffix="7" />
+        <Object id="Texture2D_24" suffix="7" />
+        <Object id="Texture2D_25" suffix="7" />
+        <Object id="Texture2D_27" suffix="7" />
+        <Object id="Texture2D_28" suffix="7" />
+        <Object id="Texture2D_29" suffix="7" />
+        <Object id="Texture2D_3" suffix="8" />
+        <Object id="Texture2D_30" suffix="6" />
+        <Object id="Texture2D_31" suffix="7" />
+        <Object id="Texture2D_32" suffix="7" />
+        <Object id="Texture2D_33" suffix="6" />
+        <Object id="Texture2D_34" suffix="7" />
+        <Object id="Texture2D_35" suffix="6" />
+        <Object id="Texture2D_36" suffix="7" />
+        <Object id="Texture2D_37" suffix="6" />
+        <Object id="Texture2D_38" suffix="6" />
+        <Object id="Texture2D_39" suffix="5" />
+        <Object id="Texture2D_4" suffix="8" />
+        <Object id="Texture2D_41" suffix="3" />
+        <Object id="Texture2D_42" suffix="2" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="2" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_5" suffix="8" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_7" suffix="7" />
+        <Object id="Texture2D_8" suffix="6" />
+        <Object id="Texture2D_9" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\23_tornado_clouds_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\23_tornado_clouds.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\24_multiple_choices_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\24_multiple_choices.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="7" />
+        <Object id="Texture2D_1" suffix="9" />
+        <Object id="Texture2D_11" suffix="6" />
+        <Object id="Texture2D_12" suffix="7" />
+        <Object id="Texture2D_13" suffix="7" />
+        <Object id="Texture2D_14" suffix="7" />
+        <Object id="Texture2D_15" suffix="7" />
+        <Object id="Texture2D_16" suffix="6" />
+        <Object id="Texture2D_17" suffix="7" />
+        <Object id="Texture2D_18" suffix="7" />
+        <Object id="Texture2D_19" suffix="7" />
+        <Object id="Texture2D_2" suffix="9" />
+        <Object id="Texture2D_20" suffix="7" />
+        <Object id="Texture2D_23" suffix="8" />
+        <Object id="Texture2D_24" suffix="8" />
+        <Object id="Texture2D_25" suffix="8" />
+        <Object id="Texture2D_26" suffix="7" />
+        <Object id="Texture2D_27" suffix="8" />
+        <Object id="Texture2D_28" suffix="8" />
+        <Object id="Texture2D_29" suffix="8" />
+        <Object id="Texture2D_3" suffix="9" />
+        <Object id="Texture2D_30" suffix="7" />
+        <Object id="Texture2D_31" suffix="8" />
+        <Object id="Texture2D_32" suffix="8" />
+        <Object id="Texture2D_33" suffix="7" />
+        <Object id="Texture2D_34" suffix="8" />
+        <Object id="Texture2D_36" suffix="8" />
+        <Object id="Texture2D_37" suffix="7" />
+        <Object id="Texture2D_38" suffix="7" />
+        <Object id="Texture2D_39" suffix="6" />
+        <Object id="Texture2D_4" suffix="9" />
+        <Object id="Texture2D_40" suffix="4" />
+        <Object id="Texture2D_41" suffix="4" />
+        <Object id="Texture2D_42" suffix="3" />
+        <Object id="Texture2D_43" suffix="2" />
+        <Object id="Texture2D_44" suffix="3" />
+        <Object id="Texture2D_45" suffix="2" />
+        <Object id="Texture2D_46" suffix="2" />
+        <Object id="Texture2D_47" suffix="2" />
+        <Object id="Texture2D_48" suffix="2" />
+        <Object id="Texture2D_49" suffix="2" />
+        <Object id="Texture2D_5" suffix="9" />
+        <Object id="Texture2D_50" suffix="2" />
+        <Object id="Texture2D_51" suffix="2" />
+        <Object id="Texture2D_52" suffix="2" />
+        <Object id="Texture2D_53" suffix="2" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_58" suffix="1" />
+        <Object id="Texture2D_59" suffix="1" />
+        <Object id="Texture2D_6" suffix="7" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_65" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_7" suffix="8" />
+        <Object id="Texture2D_70" suffix="1" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_73" suffix="1" />
+        <Object id="Texture2D_74" suffix="1" />
+        <Object id="Texture2D_75" suffix="1" />
+        <Object id="Texture2D_76" suffix="1" />
+        <Object id="Texture2D_77" suffix="1" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_79" suffix="1" />
+        <Object id="Texture2D_8" suffix="7" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+        <Object id="Texture2D_82" suffix="1" />
+        <Object id="Texture2D_83" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\24_preending_scene_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\24_preending_scene.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\25_ending_boss_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\25_ending_boss.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\26_ending_vid_and_credits_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\26_ending_vid_and_credits.udk" />
+    <Package path="udkgame\cookedpc\maps\mind\dark_towerii.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="8" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="10" />
+        <Object id="Texture2D_20" suffix="8" />
+        <Object id="Texture2D_3" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\mind\the_joke_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\mind\the_joke.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

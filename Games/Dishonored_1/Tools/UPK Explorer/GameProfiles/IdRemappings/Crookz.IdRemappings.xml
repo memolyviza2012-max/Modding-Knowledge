@@ -1,0 +1,596 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="heistgame\cookedpc\core.u" />
+    <Package path="heistgame\cookedpc\engine.u" />
+    <Package path="heistgame\cookedpc\gameframework.u" />
+    <Package path="heistgame\cookedpc\gfxui.u" />
+    <Package path="heistgame\cookedpc\gfxuieditor.u" />
+    <Package path="heistgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="heistgame\cookedpc\guidcache.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_int.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\heistgame_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\heistgame.u" />
+    <Package path="heistgame\cookedpc\ipdrv.u" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_cm_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_00a\venicemuseum_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_01\clubownershouse_pers.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_3" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_03\bankvault_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01_walls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_04\mobstershouse_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_03.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_05\policeheadquarter_walls_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_6" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_1.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_06\containerharbor_pers.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_08\sfmuseum_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_cm_map01_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map01_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_map02_walls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_09\sanquentin_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map01_gp.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map02_gp.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_map03_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_10\murrayshideout_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_11\securityfirm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_cm_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map01_walls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_3" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_map02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_13\nuclearpowerplant_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_3" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03_walls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_03.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_14\federalbank_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_cm_walls_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_walls_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_15\casino_walls_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="10" />
+        <Object id="Texture2D_2" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_03.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_17\spacelab_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_cm.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_4" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_4" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_cm_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_18\pornproducershouse_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_19\nightclub_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_03.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04_gp.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_04.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_cm01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_cm02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_20\fortmason_pers.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_cm.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_01.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_02.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_03.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04_walls.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_04.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_allcontent.umap" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_cm_pers.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_int.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\maps\heist_21\supervillainsbase_pers.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="heistgame\cookedpc\maps\heistentry.umap" />
+    <Package path="heistgame\cookedpc\maps\menu_map.umap" />
+    <Package path="heistgame\cookedpc\maps\stagedanimations.umap" />
+    <Package path="heistgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="heistgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="heistgame\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="heistgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="heistgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_deu.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_esn.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_fra.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_int.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_ita.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_pol.upk" />
+    <Package path="heistgame\cookedpc\startup_loc_rus.upk" />
+    <Package path="heistgame\cookedpc\startup.upk" />
+    <Package path="heistgame\cookedpc\ui\heist_fonts_kor.upk" />
+    <Package path="heistgame\cookedpc\ui\heist_fonts.upk" />
+    <Package path="heistgame\cookedpc\ui\heist_game_ui.upk" />
+    <Package path="heistgame\cookedpc\unrealed.u" />
+    <Package path="heistgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

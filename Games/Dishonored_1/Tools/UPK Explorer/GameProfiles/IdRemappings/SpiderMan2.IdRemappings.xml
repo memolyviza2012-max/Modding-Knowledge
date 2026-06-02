@@ -1,0 +1,299 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\auntmayanimations.ukx" />
+    <Package path="animations\characterpropsanimations.ukx" />
+    <Package path="animations\cop01animations.ukx" />
+    <Package path="animations\cspropsanimations.ukx" />
+    <Package path="animations\dococanimations.ukx" />
+    <Package path="animations\femalescientistanimations.ukx" />
+    <Package path="animations\genericfemaleanimations.ukx" />
+    <Package path="animations\genericmaleanimations.ukx" />
+    <Package path="animations\gnpropsanimations.ukx" />
+    <Package path="animations\idenvanimations.ukx" />
+    <Package path="animations\maryjaneanimations.ukx" />
+    <Package path="animations\minichallengeanimations.ukx" />
+    <Package path="animations\mysterioanimations.ukx" />
+    <Package path="animations\mysteriobotanimations.ukx" />
+    <Package path="animations\olpropsanimations.ukx" />
+    <Package path="animations\peterparkeranimations_copy.ukx" />
+    <Package path="animations\peterparkeranimations.ukx" />
+    <Package path="animations\pidgeonanimations.ukx" />
+    <Package path="animations\pumaanimations.ukx" />
+    <Package path="animations\rhinoanimations.ukx" />
+    <Package path="animations\scientistanimations.ukx" />
+    <Package path="animations\spideyanimations.ukx" />
+    <Package path="animations\superthuganimations.ukx" />
+    <Package path="animations\thug01animations.ukx" />
+    <Package path="animations\tspropsanimations.ukx" />
+    <Package path="animations\vehicleanimations.ukx" />
+    <Package path="animations\webshootanimations.ukx" />
+    <Package path="maps\cb3_citystreet.whr" />
+    <Package path="maps\entry.whr" />
+    <Package path="maps\hud-adrenometer.whr" />
+    <Package path="maps\parkave_citystreet.whr" />
+    <Package path="maps\parkave_constructionsite.whr" />
+    <Package path="maps\prestartup.whr" />
+    <Package path="maps\startup.whr" />
+    <Package path="maps\twistedcity_part01.whr" />
+    <Package path="maps\twistedcity_part02.whr" />
+    <Package path="maps\twistedcity_part03.whr" />
+    <Package path="maps\wallstreet_bank.whr" />
+    <Package path="maps\wallstreet_citystreet.whr" />
+    <Package path="maps\wallstreet_oscorplab.whr" />
+    <Package path="maps\wharf_docks.whr" />
+    <Package path="maps\wharf_train.whr" />
+    <Package path="maps\wharf_trainstation.whr" />
+    <Package path="maps\wharf_warehouse.whr" />
+    <Package path="sounds\ambient.uax" />
+    <Package path="sounds\combat.uax" />
+    <Package path="sounds\doorsaudio.uax" />
+    <Package path="sounds\empty.uax" />
+    <Package path="sounds\events.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\hitechsounds.uax" />
+    <Package path="sounds\impacts.uax" />
+    <Package path="sounds\musicfx.uax" />
+    <Package path="sounds\people.uax" />
+    <Package path="sounds\robotaudio.uax" />
+    <Package path="sounds\spidey.uax" />
+    <Package path="sounds\uisounds.uax" />
+    <Package path="sounds\vehicle.uax" />
+    <Package path="sounds\voaudio.uax" />
+    <Package path="sounds\walla.uax" />
+    <Package path="staticmeshes\bkpropsmeshes.usx" />
+    <Package path="staticmeshes\combatmeshes.usx" />
+    <Package path="staticmeshes\cspropsmeshes.usx" />
+    <Package path="staticmeshes\effectsmeshes_test.usx" />
+    <Package path="staticmeshes\effectsmeshes.usx" />
+    <Package path="staticmeshes\gameplaymeshes.usx" />
+    <Package path="staticmeshes\gengun_effects.usx" />
+    <Package path="staticmeshes\gnbldgornmeshes.usx" />
+    <Package path="staticmeshes\gnpropsmeshes.usx" />
+    <Package path="staticmeshes\idpropsmeshes.usx" />
+    <Package path="staticmeshes\industrialmeshes.usx" />
+    <Package path="staticmeshes\loadingscreenmeshes.usx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LoadingScreenBacking" suffix="1" />
+        <Object id="LoadingScreenOverlayA_A" suffix="1" />
+        <Object id="LoadingScreenOverlayB_A" suffix="1" />
+        <Object id="LoadingScreenOverlayC_A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="staticmeshes\mysterioeffectsmeshes.usx" />
+    <Package path="staticmeshes\nvpropsmeshes.usx" />
+    <Package path="staticmeshes\olpropsmeshes.usx" />
+    <Package path="staticmeshes\optestmeshes.usx" />
+    <Package path="staticmeshes\papropsmeshes.usx" />
+    <Package path="staticmeshes\parkavenueexteriormeshes.usx" />
+    <Package path="staticmeshes\particlemeshes.usx" />
+    <Package path="staticmeshes\shockwave_mesh.usx" />
+    <Package path="staticmeshes\tcpropsmeshes.usx" />
+    <Package path="staticmeshes\testmeshes.usx" />
+    <Package path="staticmeshes\thugdisappear_mesh.usx" />
+    <Package path="staticmeshes\traintestmeshes.usx" />
+    <Package path="staticmeshes\trashmeshes.usx" />
+    <Package path="staticmeshes\tspropsmeshes.usx" />
+    <Package path="staticmeshes\twistedsky.usx" />
+    <Package path="staticmeshes\verminmeshes.usx" />
+    <Package path="staticmeshes\wallstreetexteriormeshes.usx" />
+    <Package path="staticmeshes\wdpropsmeshes.usx" />
+    <Package path="staticmeshes\webheadmeshes.usx" />
+    <Package path="staticmeshes\wwpropsmeshes.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\fxwebhead.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\upreview.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="system\webhead.u" />
+    <Package path="textures\adrenalmtrtextures.utx" />
+    <Package path="textures\auntmaytextures.utx" />
+    <Package path="textures\bkinttextures.utx" />
+    <Package path="textures\bkscriptedtextures.utx" />
+    <Package path="textures\botseffects_test.utx" />
+    <Package path="textures\characterpropstextures.utx" />
+    <Package path="textures\cinematics.utx" />
+    <Package path="textures\citysky.utx" />
+    <Package path="textures\combattextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HeadWeb\HeadWeb01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\const_effects.utx" />
+    <Package path="textures\cop01textures.utx" />
+    <Package path="textures\csenvtextures.utx" />
+    <Package path="textures\cspropstextures.utx" />
+    <Package path="textures\diagrams_cb3.utx" />
+    <Package path="textures\diagrams_pacityst.utx" />
+    <Package path="textures\diagrams_train.utx" />
+    <Package path="textures\diagrams_twistedcity2.utx" />
+    <Package path="textures\diagrams_twistedcity3.utx" />
+    <Package path="textures\diagrams_wallstbank.utx" />
+    <Package path="textures\diagrams_wallstoscorp.utx" />
+    <Package path="textures\diagrams_wharffactory.utx" />
+    <Package path="textures\diagrams_wscityst.utx" />
+    <Package path="textures\dococtextures.utx" />
+    <Package path="textures\earth.utx" />
+    <Package path="textures\energyball.utx" />
+    <Package path="textures\fizzfonts.utx" />
+    <Package path="textures\flameeffect.utx" />
+    <Package path="textures\gameplaytextures.utx" />
+    <Package path="textures\genericenviroobjects.utx" />
+    <Package path="textures\genericexterior.utx" />
+    <Package path="textures\genericfemaletextures.utx" />
+    <Package path="textures\genericmaletextures.utx" />
+    <Package path="textures\gnbldgorntextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Stone\T_Gn_E_FriezeRenn" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\gninttextures.utx" />
+    <Package path="textures\gnpropstextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StreetLights\T_Gn_E_LightsPosts" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\heropoints.utx" />
+    <Package path="textures\hudtest.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_Gn_B_HUDHlthMtr20_A" suffix="1" />
+        <Object id="T_Gn_B_HUDmain_A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\idenvtextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Signs\Sign_PirateCorp" suffix="1" />
+        <Object id="Signs\T_In_E_ProjFizz" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\idpropstextures.utx" />
+    <Package path="textures\lab_effects.utx" />
+    <Package path="textures\loadingscreens.utx" />
+    <Package path="textures\maryjanetextures.utx" />
+    <Package path="textures\minichallengetextures.utx" />
+    <Package path="textures\moviepicsoverlay.utx" />
+    <Package path="textures\movietextures.utx" />
+    <Package path="textures\mysterio_attacks.utx" />
+    <Package path="textures\mysteriobottextures.utx" />
+    <Package path="textures\mysteriotextures.utx" />
+    <Package path="textures\nvpropstextures.utx" />
+    <Package path="textures\olinttextures.utx" />
+    <Package path="textures\olpropstextures.utx" />
+    <Package path="textures\olscriptedtextures.utx" />
+    <Package path="textures\optesttextures.utx" />
+    <Package path="textures\paenvtextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Signs\Banner_Rodeo" suffix="1" />
+        <Object id="Signs\Banner_WakeUp" suffix="1" />
+        <Object id="Signs\Sign_Gupton" suffix="1" />
+        <Object id="Signs\Sign_KungFoos" suffix="1" />
+        <Object id="Signs\Sign_Neon_Jewelers" suffix="1" />
+        <Object id="Signs\Sign_Neon_Tophat" suffix="1" />
+        <Object id="Signs\T_Gn_E_BailBonds" suffix="1" />
+        <Object id="Signs\T_Gn_E_Sorlotrons" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\papropstextures.utx" />
+    <Package path="textures\particle.utx" />
+    <Package path="textures\peterparkertextures.utx" />
+    <Package path="textures\pidgeontextures.utx" />
+    <Package path="textures\pumatextures.utx" />
+    <Package path="textures\reticuletextures.utx" />
+    <Package path="textures\rhinotextures.utx" />
+    <Package path="textures\rhinotrans_textures.utx" />
+    <Package path="textures\s_thugshockwave.utx" />
+    <Package path="textures\scientisttextures.utx" />
+    <Package path="textures\specialfx.utx" />
+    <Package path="textures\spidey_power.utx" />
+    <Package path="textures\spideyhud.utx" />
+    <Package path="textures\spideyhud2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HudBackgroundBlack" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce01_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce02_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce03_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce04_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce05_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce06_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce07_A" suffix="1" />
+        <Object id="T_Gn_B_HUDSpideyFce08_A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\spideytextures.utx" />
+    <Package path="textures\subway.utx" />
+    <Package path="textures\superthugtextures.utx" />
+    <Package path="textures\tcenvtextures.utx" />
+    <Package path="textures\tcpropstextures.utx" />
+    <Package path="textures\testtextures.utx" />
+    <Package path="textures\thug01textures.utx" />
+    <Package path="textures\thugdisappear.utx" />
+    <Package path="textures\traintesttextures.utx" />
+    <Package path="textures\tsenvtextures.utx" />
+    <Package path="textures\tspropstextures.utx" />
+    <Package path="textures\udn_buildtex.utx" />
+    <Package path="textures\udn_terrain_t.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\variedeffectstextures.utx" />
+    <Package path="textures\vermintextures.utx" />
+    <Package path="textures\wallstreetexterior.utx" />
+    <Package path="textures\watertest.utx" />
+    <Package path="textures\wdenvtextures.utx" />
+    <Package path="textures\wdpropstextures.utx" />
+    <Package path="textures\web_effects.utx" />
+    <Package path="textures\webheadeditortextures.utx" />
+    <Package path="textures\webheadfonts.utx" />
+    <Package path="textures\webheadtextures.utx" />
+    <Package path="textures\webshoottexture.utx" />
+    <Package path="textures\wsenvtextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bank\T_Gn_E_GryBricks" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryBrkBank" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryBrkBldgWin" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryClmnIconic" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryCmtBldgArcWin" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryCmtBldgDoor" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryCmtBldgGrnd" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryStnBldgWin" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryStnColumn" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryStnTrim" suffix="1" />
+        <Object id="Bank\T_Gn_E_GryStone" suffix="1" />
+        <Object id="Bank\T_Ws_E_BankPed" suffix="1" />
+        <Object id="Bank\T_Ws_E_SignBank" suffix="1" />
+        <Object id="Bank\T_Ws_E_TickerSign" suffix="1" />
+        <Object id="BldgOne\T_Ws_E_BuildingONEbrick" suffix="1" />
+        <Object id="BldgOne\T_Ws_E_BuildingONEbrickAlt" suffix="1" />
+        <Object id="BldgOne\T_Ws_E_BuildingONEwin" suffix="1" />
+        <Object id="BldgOne\T_Ws_E_SignBldgOne" suffix="1" />
+        <Object id="BldgTwo\T_Ws_E_BuildingTWOwin" suffix="1" />
+        <Object id="BldgTwo\T_Ws_E_SignBldgTwo" suffix="1" />
+        <Object id="Buildings\T_Ws_E_GlsBldgGrenWin" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_BugleILLUM" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_BugleSign" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronBayWin" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronBrick" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronGrnd" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronLtBrick" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronWideWin" suffix="1" />
+        <Object id="FlatIron\T_Ws_E_FltIronWin" suffix="1" />
+        <Object id="Signs\T_Ws_E_4BldgSigns" suffix="1" />
+        <Object id="SubwaySign\T_Ws_E_Subwaysign" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\wwenvtextures.utx" />
+    <Package path="textures\wwpropstextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Windows\T_WW_O_Win01" suffix="1" />
+        <Object id="Windows\T_WW_O_WinBroke01" suffix="1" />
+        <Object id="Windows\T_WW_O_WinBroke02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\wwscriptedtextures.utx" />
+  </Packages>
+</IdRemapping>

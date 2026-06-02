@@ -1,0 +1,184 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\hpcharacters_16.ukx" />
+    <Package path="animations\hpcharacters_32.ukx" />
+    <Package path="animations\hpcharacters.ukx" />
+    <Package path="animations\hprops.ukx" />
+    <Package path="animations\joint.ukx" />
+    <Package path="maps\entry.unr" />
+    <Package path="maps\hp_preamble.unr" />
+    <Package path="maps\hp3_adv1express.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_adv2exppatronum.unr" />
+    <Package path="maps\hp3_adv3library.unr" />
+    <Package path="maps\hp3_adv5shack.unr" />
+    <Package path="maps\hp3_adv6paddock.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\SkyboxHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_beanbonus.unr" />
+    <Package path="maps\hp3_buckyexecuted.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Rocklayer" suffix="1" />
+        <Object id="Heightmaps\SkyboxHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_ch1carperetractum.unr" />
+    <Package path="maps\hp3_ch1carperetractumb.unr" />
+    <Package path="maps\hp3_ch2draconifors.unr" />
+    <Package path="maps\hp3_ch2draconiforsb.unr" />
+    <Package path="maps\hp3_ch3glacius.unr" />
+    <Package path="maps\hp3_ch3glaciusb.unr" />
+    <Package path="maps\hp3_comc.unr" />
+    <Package path="maps\hp3_darktower.unr" />
+    <Package path="maps\hp3_dementorbattle.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="envmap\LakeSkyNightBK4" suffix="1" />
+        <Object id="envmap\LakeSkyNightFR2" suffix="1" />
+        <Object id="envmap\LakeSkyNightLT1" suffix="1" />
+        <Object id="envmap\LakeSkyNightRT0" suffix="1" />
+        <Object id="envmap\LakeSkyNightUP3" suffix="1" />
+        <Object id="Heightmaps\LakeshoreHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_dungeonhub.unr" />
+    <Package path="maps\hp3_fa1ron.unr" />
+    <Package path="maps\hp3_fa2hermione.unr" />
+    <Package path="maps\hp3_fa3harry.unr" />
+    <Package path="maps\hp3_final.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+        <Object id="SkyBox\IntroSunsetUp4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_groundsdada.unr" />
+    <Package path="maps\hp3_groundshub.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\ForestBase" suffix="1" />
+        <Object id="Alphamaps\ForestDirt" suffix="1" />
+        <Object id="Heightmaps\ForestHieghtMap" suffix="1" />
+        <Object id="Heightmaps\SkyboxHeightmap" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\hp3_infirmary.unr" />
+    <Package path="maps\hp3_insidehub.unr" />
+    <Package path="maps\hp3_portraitpassword_b.unr" />
+    <Package path="maps\hp3_portraitpassword_c.unr" />
+    <Package path="maps\hp3_portraitpassword_d.unr" />
+    <Package path="maps\hp3_portraitpassword_e.unr" />
+    <Package path="maps\hp3_portraitpassword_f.unr" />
+    <Package path="maps\hp3_quidditch.unr" />
+    <Package path="maps\hp3_whompingwillow.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="Alphamaps\Rocklayer" suffix="1" />
+        <Object id="Alphamaps\SurroundingMountainsRocky" suffix="1" />
+        <Object id="Alphamaps\SurroundingMountainsRockyRotated" suffix="1" />
+        <Object id="Heightmaps\LakeshoreHeightmap" suffix="2" />
+        <Object id="Heightmaps\SkyboxHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="sounds\alldialog.uax" />
+    <Package path="sounds\execdemo.uax" />
+    <Package path="sounds\soundeffects.uax" />
+    <Package path="staticmeshes\hp3_cutscenes_sm.usx" />
+    <Package path="staticmeshes\hp3_exteriorarch_sm.usx" />
+    <Package path="staticmeshes\hp3_furniture_sm.usx" />
+    <Package path="staticmeshes\hp3_gameplay_sm.usx" />
+    <Package path="staticmeshes\hp3_glacius_placeholder.usx" />
+    <Package path="staticmeshes\hp3_hogwartsexpress_sm.usx" />
+    <Package path="staticmeshes\hp3_interarch_sm.usx" />
+    <Package path="staticmeshes\hp3_interioraccents_sm.usx" />
+    <Package path="staticmeshes\hp3_movers_sm.usx" />
+    <Package path="staticmeshes\hp3_natural_sm.usx" />
+    <Package path="staticmeshes\hp3_particles_sm.usx" />
+    <Package path="staticmeshes\hp3_placeholder_sm.usx" />
+    <Package path="staticmeshes\hp3_skyboxes.usx" />
+    <Package path="staticmeshes\hp3_tester.usx" />
+    <Package path="system\ambientcreatures.u" />
+    <Package path="system\core.u" />
+    <Package path="system\decorations.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\hgame.u" />
+    <Package path="system\kwgame.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\cubemaps.utx" />
+    <Package path="textures\em_cubemaps_t.utx" />
+    <Package path="textures\emittertextures.utx" />
+    <Package path="textures\emittertextures2.utx" />
+    <Package path="textures\epicparticles.utx" />
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\hp_fx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Particles\Smoke1" suffix="1" />
+        <Object id="Particles\Sparkle_2" suffix="1" />
+        <Object id="Particles\Sparkle_8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\hp3_archiexterior.utx" />
+    <Package path="textures\hp3_ceilings.utx" />
+    <Package path="textures\hp3_deleted2.utx" />
+    <Package path="textures\hp3_floors.utx" />
+    <Package path="textures\hp3_furniture.utx" />
+    <Package path="textures\hp3_fx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MultiFrame\LargeFlames" suffix="1" />
+        <Object id="MultiFrame\LargeFlamesBW" suffix="1" />
+        <Object id="Projected\CloudTransition5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\hp3_gameplay.utx" />
+    <Package path="textures\hp3_hogwartsexpress.utx" />
+    <Package path="textures\hp3_interarch.utx" />
+    <Package path="textures\hp3_interioraccents.utx" />
+    <Package path="textures\hp3_loadlevel.utx" />
+    <Package path="textures\hp3_materialswitch_hw.utx" />
+    <Package path="textures\hp3_materialswitch_sw.utx" />
+    <Package path="textures\hp3_materialswitch_tx.utx" />
+    <Package path="textures\hp3_menu.utx" />
+    <Package path="textures\hp3_movers.utx" />
+    <Package path="textures\hp3_natural.utx" />
+    <Package path="textures\hp3_placeholder.utx" />
+    <Package path="textures\hp3_skybox.utx" />
+    <Package path="textures\hp3_systemicons.utx" />
+    <Package path="textures\hp3_walls.utx" />
+    <Package path="textures\hpchartextures.utx" />
+    <Package path="textures\hpskybox.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GroundHub\DustFlat03_bk" suffix="1" />
+        <Object id="GroundHub\DustFlat03_Ft" suffix="1" />
+        <Object id="GroundHub\DustFlat03_Lt" suffix="1" />
+        <Object id="GroundHub\DustFlat03_Rt" suffix="1" />
+        <Object id="GroundHub\DustFlat03_Up" suffix="1" />
+        <Object id="GroundHub\SkyDropBlue" suffix="1" />
+        <Object id="GroundHub\SkyDropStorm" suffix="1" />
+        <Object id="HogwartsExpress\WaningGibMoon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ice2.utx" />
+    <Package path="textures\jointtextures.utx" />
+    <Package path="textures\kwmenu.utx" />
+    <Package path="textures\legotextures.utx" />
+    <Package path="textures\palettes.utx" />
+    <Package path="textures\quidditchterrain.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\SurroundingHills" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\spellshapes.utx" />
+    <Package path="textures\udnlevelloadingtex.utx" />
+    <Package path="textures\ut2003fonts.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\warfarefonts.utx" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,30 @@
+If your game supports it, it is possible to upscale textures either for a texture pack or injecting textures directly into a new package.
+You should keep your uspcaled textures the same aspect/ratio as the original tetures and make the upscale multiples of 2x, 4x, 8x etc...
+
+The following notes are from my original mod from Dishonored, and might be relevant to your game:
+
+I made this tool because the Dishonored textures are quite low resolution by today's standard, and I wanted to make a HD texture pack.
+The max resolution used for textures in Dishonored is 2048 pixels. Unreal Engine 3 should support up to 4096.
+
+The problem is some textures will not show up at the full 4096 pixel resolution if you do not modify your DishonoredEngine.ini accordingly.
+
+For me the file is located in My Documents\My Games\Dishonored\DishonoredGame\Config\DishonoredEngine.ini
+
+You want to look for these entries (there are several):
+TEXTUREGROUP_World=(MinLODSize=256,MaxLODSize=2048,LODBias=0)
+and change them to:
+TEXTUREGROUP_World=(MinLODSize=256,MaxLODSize=4096,LODBias=0)
+
+Do not do this for all entries as this seems to mess up the rendering of skies, shadows and so on. In the example above, the "World" texture groups consisted in the following entries:
+TEXTUREGROUP_World=(MinLODSize=256,MaxLODSize=2048,LODBias=0)
+TEXTUREGROUP_WorldNormalMap=(MinLODSize=256,MaxLODSize=2048,LODBias=0)
+TEXTUREGROUP_WorldSpecular=(MinLODSize=256,MaxLODSize=2048,LODBias=0)
+
+So I only modified the first one (didn't touch normal maps and specular) and had no rendering issues. I did changes to all occurrences of the following groups:
+TEXTUREGROUP_World
+TEXTUREGROUP_Character
+TEXTUREGROUP_Weapon
+TEXTUREGROUP_Vehicle
+TEXTUREGROUP_UI
+
+Once you are done you probably want to set the file to read-only so the game does not restore the original values

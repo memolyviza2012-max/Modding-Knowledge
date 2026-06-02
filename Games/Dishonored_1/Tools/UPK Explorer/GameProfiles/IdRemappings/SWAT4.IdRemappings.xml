@@ -1,0 +1,455 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="content\animations\abombstagelights.ukx" />
+    <Package path="content\animations\armsshrub.ukx" />
+    <Package path="content\animations\barpullbarber.ukx" />
+    <Package path="content\animations\breachingsg_thirdperson.ukx" />
+    <Package path="content\animations\colt1911_thirdperson.ukx" />
+    <Package path="content\animations\colt1911fl_thirdperson.ukx" />
+    <Package path="content\animations\cooparrow.ukx" />
+    <Package path="content\animations\femaleanimation.ukx" />
+    <Package path="content\animations\fp_9mmpistol.ukx" />
+    <Package path="content\animations\fp_ak47.ukx" />
+    <Package path="content\animations\fp_breachingsg.ukx" />
+    <Package path="content\animations\fp_c2charge.ukx" />
+    <Package path="content\animations\fp_c2detonator.ukx" />
+    <Package path="content\animations\fp_colthg.ukx" />
+    <Package path="content\animations\fp_csgasgrenade.ukx" />
+    <Package path="content\animations\fp_doorwedge.ukx" />
+    <Package path="content\animations\fp_flashbanggrenade.ukx" />
+    <Package path="content\animations\fp_fraggrenade.ukx" />
+    <Package path="content\animations\fp_g36k.ukx" />
+    <Package path="content\animations\fp_hand.ukx" />
+    <Package path="content\animations\fp_handcuffs.ukx" />
+    <Package path="content\animations\fp_m1super90.ukx" />
+    <Package path="content\animations\fp_m4a1mg.ukx" />
+    <Package path="content\animations\fp_m4super90sg.ukx" />
+    <Package path="content\animations\fp_mp5smg.ukx" />
+    <Package path="content\animations\fp_mp5smgsilenced.ukx" />
+    <Package path="content\animations\fp_novapumpshotgun.ukx" />
+    <Package path="content\animations\fp_optiwand.ukx" />
+    <Package path="content\animations\fp_paintball.ukx" />
+    <Package path="content\animations\fp_pepperspray.ukx" />
+    <Package path="content\animations\fp_revolver.ukx" />
+    <Package path="content\animations\fp_stinggrenade.ukx" />
+    <Package path="content\animations\fp_taser.ukx" />
+    <Package path="content\animations\fp_toolkit.ukx" />
+    <Package path="content\animations\fp_umpsmg.ukx" />
+    <Package path="content\animations\fp_uzi.ukx" />
+    <Package path="content\animations\hotelanimatedmeshes.ukx" />
+    <Package path="content\animations\jewelryanimatedmeshes.ukx" />
+    <Package path="content\animations\mpbomb.ukx" />
+    <Package path="content\animations\ninemmpistol_thirdperson.ukx" />
+    <Package path="content\animations\novapump_thirdperson.ukx" />
+    <Package path="content\animations\optiwand_thirdperson.ukx" />
+    <Package path="content\animations\perimeteranimatedmeshes.ukx" />
+    <Package path="content\animations\pythonrevolver_thirdperson.ukx" />
+    <Package path="content\animations\ragdollobjects.ukx" />
+    <Package path="content\animations\redlibraryanimatedmeshes.ukx" />
+    <Package path="content\animations\repohelicopter.ukx" />
+    <Package path="content\animations\silenceshrub.ukx" />
+    <Package path="content\animations\swatdooranimation.ukx" />
+    <Package path="content\animations\swatdoubledooranimations.ukx" />
+    <Package path="content\animations\swatmaleanimation.ukx" />
+    <Package path="content\animations\taserwire.ukx" />
+    <Package path="content\animations\traininganimatedmeshes.ukx" />
+    <Package path="content\animations\treeleaves.ukx" />
+    <Package path="content\animations\vipanimatedmeshes.ukx" />
+    <Package path="content\art\editor_res.pkg" />
+    <Package path="content\art\engine_res.pkg" />
+    <Package path="content\art\igeffectssystem_editortextures.pkg" />
+    <Package path="content\art\udebugmenu_res.pkg" />
+    <Package path="content\art\uwindow_res.pkg" />
+    <Package path="content\art\uwindowfonts.pkg" />
+    <Package path="content\classes\animateddecormeshes.u" />
+    <Package path="content\classes\guianimations.u" />
+    <Package path="content\classes\mass_classes.u" />
+    <Package path="content\classes\swatammo.u" />
+    <Package path="content\classes\swatcameraeffects.u" />
+    <Package path="content\classes\swatdesignerclasses.u" />
+    <Package path="content\classes\swatdesignerequipment.u" />
+    <Package path="content\classes\swateffects.u" />
+    <Package path="content\classes\swatequipmentmodels.u" />
+    <Package path="content\classes\swatprogrammersampleclasses.u" />
+    <Package path="content\classes\swatprotectiveequipment.u" />
+    <Package path="content\classes\swatsimpleequipment.u" />
+    <Package path="content\maps\cleartest.s4m" />
+    <Package path="content\maps\entry.s4m" />
+    <Package path="content\maps\mp-abomb.s4m" />
+    <Package path="content\maps\mp-armsdeal.s4m" />
+    <Package path="content\maps\mp-autogarage.s4m" />
+    <Package path="content\maps\mp-casino.s4m" />
+    <Package path="content\maps\mp-conveniencestore.s4m" />
+    <Package path="content\maps\mp-courthouse.s4m" />
+    <Package path="content\maps\mp-dna.s4m" />
+    <Package path="content\maps\mp-fairfaxresidence.s4m" />
+    <Package path="content\maps\mp-foodwall.s4m" />
+    <Package path="content\maps\mp-hospital.s4m" />
+    <Package path="content\maps\mp-hotel.s4m" />
+    <Package path="content\maps\mp-jewelryheist.s4m" />
+    <Package path="content\maps\mp-meatbarn.s4m" />
+    <Package path="content\maps\mp-powerplant.s4m" />
+    <Package path="content\maps\mp-redlibrary.s4m" />
+    <Package path="content\maps\mp-tenement.s4m" />
+    <Package path="content\maps\mp-training.s4m" />
+    <Package path="content\maps\sniperandmirrortest.s4m" />
+    <Package path="content\maps\sp-abomb.s4m" />
+    <Package path="content\maps\sp-armsdeal.s4m" />
+    <Package path="content\maps\sp-autogarage.s4m" />
+    <Package path="content\maps\sp-casino.s4m" />
+    <Package path="content\maps\sp-conveniencestore.s4m" />
+    <Package path="content\maps\sp-dna.s4m" />
+    <Package path="content\maps\sp-fairfaxresidence.s4m" />
+    <Package path="content\maps\sp-foodwall.s4m" />
+    <Package path="content\maps\sp-hospital.s4m" />
+    <Package path="content\maps\sp-hotel.s4m" />
+    <Package path="content\maps\sp-jewelryheist.s4m" />
+    <Package path="content\maps\sp-redlibrary.s4m" />
+    <Package path="content\maps\sp-tenement.s4m" />
+    <Package path="content\maps\sp-training.s4m" />
+    <Package path="content\maps\swat_splashscene.s4m" />
+    <Package path="content\sounds\sw_ambients.uax" />
+    <Package path="content\sounds\sw_bounce.uax" />
+    <Package path="content\sounds\sw_bullets.uax" />
+    <Package path="content\sounds\sw_feet.uax" />
+    <Package path="content\sounds\sw_hits.uax" />
+    <Package path="content\sounds\sw_meta.uax" />
+    <Package path="content\sounds\sw_objects.uax" />
+    <Package path="content\sounds\sw_vo.uax" />
+    <Package path="content\sounds\sw_weapons.uax" />
+    <Package path="content\staticmeshes\amc_sm.usx" />
+    <Package path="content\staticmeshes\arms_sm.usx" />
+    <Package path="content\staticmeshes\bar_sm.usx" />
+    <Package path="content\staticmeshes\barbershop_sm.usx" />
+    <Package path="content\staticmeshes\bath_sm.usx" />
+    <Package path="content\staticmeshes\bullseye_sm.usx" />
+    <Package path="content\staticmeshes\cars_sm.usx" />
+    <Package path="content\staticmeshes\collisiontest_sm.usx" />
+    <Package path="content\staticmeshes\con_sm.usx" />
+    <Package path="content\staticmeshes\cylinderman.usx" />
+    <Package path="content\staticmeshes\deadpeople_sm.usx" />
+    <Package path="content\staticmeshes\dna_sm.usx" />
+    <Package path="content\staticmeshes\doors_sm.usx" />
+    <Package path="content\staticmeshes\furniture_sm.usx" />
+    <Package path="content\staticmeshes\hosp_sm.usx" />
+    <Package path="content\staticmeshes\hotel_sm.usx" />
+    <Package path="content\staticmeshes\jewel_sm.usx" />
+    <Package path="content\staticmeshes\junk_sm.usx" />
+    <Package path="content\staticmeshes\mac_sm.usx" />
+    <Package path="content\staticmeshes\mass_objects.usx" />
+    <Package path="content\staticmeshes\off_sm.usx" />
+    <Package path="content\staticmeshes\outdoors_sm.usx" />
+    <Package path="content\staticmeshes\paradise_sm.usx" />
+    <Package path="content\staticmeshes\pier_sm.usx" />
+    <Package path="content\staticmeshes\power_sm.usx" />
+    <Package path="content\staticmeshes\redlibrary_sm.usx" />
+    <Package path="content\staticmeshes\repo_sm.usx" />
+    <Package path="content\staticmeshes\signs_sm.usx" />
+    <Package path="content\staticmeshes\silence_sm.usx" />
+    <Package path="content\staticmeshes\skybox.usx" />
+    <Package path="content\staticmeshes\swat1stpersonsm.usx" />
+    <Package path="content\staticmeshes\swatciviliangear_sm.usx" />
+    <Package path="content\staticmeshes\swatgear_sm.usx" />
+    <Package path="content\staticmeshes\swatmeshfx_sm.usx" />
+    <Package path="content\staticmeshes\tenement_sm.usx" />
+    <Package path="content\staticmeshes\train_sm.usx" />
+    <Package path="content\staticmeshes\utility_sm.usx" />
+    <Package path="content\staticmeshes\vip_sm.usx" />
+    <Package path="content\staticmeshes\wall_sm.usx" />
+    <Package path="content\system\aicommon.u" />
+    <Package path="content\system\core.u" />
+    <Package path="content\system\editor.u" />
+    <Package path="content\system\engine.u" />
+    <Package path="content\system\gameplay.u" />
+    <Package path="content\system\gui.u" />
+    <Package path="content\system\igeffectssystem.u" />
+    <Package path="content\system\igsoundeffectssubsystem.u" />
+    <Package path="content\system\igvisualeffectssubsystem.u" />
+    <Package path="content\system\ipdrv.u" />
+    <Package path="content\system\rwosupport.u" />
+    <Package path="content\system\scripting.u" />
+    <Package path="content\system\soundeffectsconfig.u" />
+    <Package path="content\system\swataiawareness.u" />
+    <Package path="content\system\swataicommon.u" />
+    <Package path="content\system\swated.u" />
+    <Package path="content\system\swatequipment.u" />
+    <Package path="content\system\swatgame.u" />
+    <Package path="content\system\swatgui.u" />
+    <Package path="content\system\swatobjectives.u" />
+    <Package path="content\system\swatprocedures.u" />
+    <Package path="content\system\tyrion.u" />
+    <Package path="content\system\uwindow.u" />
+    <Package path="content\system\visualeffectsconfig.u" />
+    <Package path="content\textures\amc_tex.utx" />
+    <Package path="content\textures\arms_tex.utx" />
+    <Package path="content\textures\aw-cubes.utx" />
+    <Package path="content\textures\bar_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bar_recycle" suffix="1" />
+        <Object id="Black" suffix="2" />
+        <Object id="spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\barbershop_tex.utx" />
+    <Package path="content\textures\bath_tex.utx" />
+    <Package path="content\textures\bink_textures.utx" />
+    <Package path="content\textures\bullseye_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bull_vinyl" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\cameraeffectstex.utx" />
+    <Package path="content\textures\cars.utx" />
+    <Package path="content\textures\con_tex.utx" />
+    <Package path="content\textures\coronas.utx" />
+    <Package path="content\textures\cultleadertextureset.utx" />
+    <Package path="content\textures\dna_tex.utx" />
+    <Package path="content\textures\doors_tex.utx" />
+    <Package path="content\textures\editorsprites.utx" />
+    <Package path="content\textures\femalecasual1tex.utx" />
+    <Package path="content\textures\femalecasual2tex.utx" />
+    <Package path="content\textures\femalecasual3tex.utx" />
+    <Package path="content\textures\femaleheavytex.utx" />
+    <Package path="content\textures\femalenursetex.utx" />
+    <Package path="content\textures\femaleofficetex.utx" />
+    <Package path="content\textures\furniture_tex.utx" />
+    <Package path="content\textures\gui_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Border" suffix="1" />
+        <Object id="intro_legal" suffix="1" />
+        <Object id="intro_sierra" suffix="1" />
+        <Object id="Intro_SWAT" suffix="1" />
+        <Object id="swatlogo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\hosp.utx" />
+    <Package path="content\textures\hotel.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="hot_venttube" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\hotelfxtex.utx" />
+    <Package path="content\textures\hud.utx" />
+    <Package path="content\textures\igfonts.utx" />
+    <Package path="content\textures\jewel_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="jewel_posters" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\junk_tex.utx" />
+    <Package path="content\textures\leomeltextureset.utx" />
+    <Package path="content\textures\levelloadingtex.utx" />
+    <Package path="content\textures\localizedtextures.utx" />
+    <Package path="content\textures\mac_tex.utx" />
+    <Package path="content\textures\malebarbertex.utx" />
+    <Package path="content\textures\malecasual1tex.utx" />
+    <Package path="content\textures\malecasual2tex.utx" />
+    <Package path="content\textures\malecasual3tex.utx" />
+    <Package path="content\textures\malecasual4tex.utx" />
+    <Package path="content\textures\malecasualarmortex.utx" />
+    <Package path="content\textures\malechubbytex.utx" />
+    <Package path="content\textures\maledoctortex.utx" />
+    <Package path="content\textures\malegang1tex.utx" />
+    <Package path="content\textures\malejanitortextureset.utx" />
+    <Package path="content\textures\malesuittex.utx" />
+    <Package path="content\textures\mass_textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="par_post01" suffix="1" />
+        <Object id="par_post03" suffix="1" />
+        <Object id="par_post04" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\metalshaders.utx" />
+    <Package path="content\textures\mp_officertex.utx" />
+    <Package path="content\textures\office_tex.utx" />
+    <Package path="content\textures\outdoors_tex.utx" />
+    <Package path="content\textures\paradise_tex.utx" />
+    <Package path="content\textures\power_tex.utx" />
+    <Package path="content\textures\programmertestobjectstex.utx" />
+    <Package path="content\textures\projector_tex.utx" />
+    <Package path="content\textures\redlibrary_tex.utx" />
+    <Package path="content\textures\repo_tex.utx" />
+    <Package path="content\textures\scripted_tex.utx" />
+    <Package path="content\textures\silence_tex.utx" />
+    <Package path="content\textures\sky.utx" />
+    <Package path="content\textures\swat1stpersontex.utx" />
+    <Package path="content\textures\swat4editortex.utx" />
+    <Package path="content\textures\swatbadguytex.utx" />
+    <Package path="content\textures\swatfonts.utx" />
+    <Package path="content\textures\swatfxtex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Black" suffix="1" />
+        <Object id="Red" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\swatgeartex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MonitorOff" suffix="1" />
+        <Object id="Rifle_ak74" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\swatheavytex.utx" />
+    <Package path="content\textures\swatinstructortex.utx" />
+    <Package path="content\textures\swatofficertex.utx" />
+    <Package path="content\textures\tenement_tex.utx" />
+    <Package path="content\textures\train.utx" />
+    <Package path="content\textures\utility_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="content\textures\vip_tex.utx" />
+    <Package path="content\textures\wall_tex.utx" />
+    <Package path="contentexpansion\animations\3rd_saw.ukx" />
+    <Package path="contentexpansion\animations\femaleanimation2.ukx" />
+    <Package path="contentexpansion\animations\fp_ar_15sd.ukx" />
+    <Package path="contentexpansion\animations\fp_deserteagle.ukx" />
+    <Package path="contentexpansion\animations\fp_fnp90.ukx" />
+    <Package path="contentexpansion\animations\fp_glowstick.ukx" />
+    <Package path="contentexpansion\animations\fp_hand2.ukx" />
+    <Package path="contentexpansion\animations\fp_hk69.ukx" />
+    <Package path="contentexpansion\animations\fp_saw.ukx" />
+    <Package path="contentexpansion\animations\fp_stinger.ukx" />
+    <Package path="contentexpansion\animations\fp_tec9.ukx" />
+    <Package path="contentexpansion\animations\halfway_house.ukx" />
+    <Package path="contentexpansion\animations\swatmaleanimation2.ukx" />
+    <Package path="contentexpansion\classes\mass_classes2.u" />
+    <Package path="contentexpansion\classes\swatammo.u" />
+    <Package path="contentexpansion\classes\swatammo2.u" />
+    <Package path="contentexpansion\classes\swatcameraeffects2.u" />
+    <Package path="contentexpansion\classes\swatdesignerclasses2.u" />
+    <Package path="contentexpansion\classes\swateffects2.u" />
+    <Package path="contentexpansion\classes\swatequipmentmodels2.u" />
+    <Package path="contentexpansion\classes\swatexphavokclasses.u" />
+    <Package path="contentexpansion\classes\swatprojectile.u" />
+    <Package path="contentexpansion\classes\swatprotectiveequipment2.u" />
+    <Package path="contentexpansion\maps\coopqmmlobby.s4m" />
+    <Package path="contentexpansion\maps\mp-arcade.s4m" />
+    <Package path="contentexpansion\maps\mp-backstage.s4m" />
+    <Package path="contentexpansion\maps\mp-druglab.s4m" />
+    <Package path="contentexpansion\maps\mp-halfwayhouse.s4m" />
+    <Package path="contentexpansion\maps\mp-office.s4m" />
+    <Package path="contentexpansion\maps\mp-subway.s4m" />
+    <Package path="contentexpansion\maps\mp-warehouse.s4m" />
+    <Package path="contentexpansion\maps\sp-arcade.s4m" />
+    <Package path="contentexpansion\maps\sp-backstage.s4m" />
+    <Package path="contentexpansion\maps\sp-druglab.s4m" />
+    <Package path="contentexpansion\maps\sp-halfwayhouse.s4m" />
+    <Package path="contentexpansion\maps\sp-office.s4m" />
+    <Package path="contentexpansion\maps\sp-subway.s4m" />
+    <Package path="contentexpansion\maps\sp-warehouse.s4m" />
+    <Package path="contentexpansion\maps\swat_splashscene.s4m" />
+    <Package path="contentexpansion\sounds\swexp_ambience.uax" />
+    <Package path="contentexpansion\sounds\swexp_weapons.uax" />
+    <Package path="contentexpansion\staticmeshes\arcade_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\bs_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\desoff_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\druglab_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\halfwayhouse_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\mass_objects2.usx" />
+    <Package path="contentexpansion\staticmeshes\office_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\subway_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\swatgear2_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\swatmeshfx2_sm.usx" />
+    <Package path="contentexpansion\staticmeshes\warehouse_sm.usx" />
+    <Package path="contentexpansion\system\aicommon.u" />
+    <Package path="contentexpansion\system\core.u" />
+    <Package path="contentexpansion\system\editor.u" />
+    <Package path="contentexpansion\system\engine.u" />
+    <Package path="contentexpansion\system\gameplay.u" />
+    <Package path="contentexpansion\system\gui.u" />
+    <Package path="contentexpansion\system\igeffectssystem.u" />
+    <Package path="contentexpansion\system\igsoundeffectssubsystem.u" />
+    <Package path="contentexpansion\system\igvisualeffectssubsystem.u" />
+    <Package path="contentexpansion\system\ipdrv.u" />
+    <Package path="contentexpansion\system\rwosupport.u" />
+    <Package path="contentexpansion\system\scripting.u" />
+    <Package path="contentexpansion\system\soundeffectsconfig.u" />
+    <Package path="contentexpansion\system\swataiawareness.u" />
+    <Package path="contentexpansion\system\swataicommon.u" />
+    <Package path="contentexpansion\system\swated.u" />
+    <Package path="contentexpansion\system\swatequipment.u" />
+    <Package path="contentexpansion\system\swatgame.u" />
+    <Package path="contentexpansion\system\swatgui.u" />
+    <Package path="contentexpansion\system\swatobjectives.u" />
+    <Package path="contentexpansion\system\swatprocedures.u" />
+    <Package path="contentexpansion\system\tyrion.u" />
+    <Package path="contentexpansion\system\uwindow.u" />
+    <Package path="contentexpansion\system\voting.u" />
+    <Package path="contentexpansion\textures\arcade_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="carpet_normalmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\bs_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="para_curtain" suffix="1" />
+        <Object id="para_curtain_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\casmtex.utx" />
+    <Package path="contentexpansion\textures\desoff_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="carpet" suffix="1" />
+        <Object id="Door" suffix="1" />
+        <Object id="door_damaged" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\druglab.utx" />
+    <Package path="contentexpansion\textures\gign_officertex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="mp_nameTag" suffix="1" />
+        <Object id="mpSWAT_bdu_black" suffix="2" />
+        <Object id="mpSWAT_bdu_camo" suffix="2" />
+        <Object id="mpSWAT_bdu_Norm" suffix="2" />
+        <Object id="mpSWAT_vest_default" suffix="2" />
+        <Object id="mpSWAT_vest_defaultNorm" suffix="2" />
+        <Object id="mpSWATelementLead" suffix="2" />
+        <Object id="mpSWATface_Norm" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\gui_tex2.utx" />
+    <Package path="contentexpansion\textures\halfway_tex.utx" />
+    <Package path="contentexpansion\textures\malehomelesstex.utx" />
+    <Package path="contentexpansion\textures\malemafiatex.utx" />
+    <Package path="contentexpansion\textures\subway_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cars_subway" suffix="1" />
+        <Object id="cars_subway_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\suspect1_officertex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="mpBad_BDU_grey" suffix="1" />
+        <Object id="mpBad_FaceA" suffix="1" />
+        <Object id="mpBad_vest_default" suffix="1" />
+        <Object id="mpBadHeavy_BDU_grey" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\suspect2_officertex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="mpBad_BDU_grey" suffix="2" />
+        <Object id="mpBad_FaceB" suffix="1" />
+        <Object id="mpBad_vest_default" suffix="2" />
+        <Object id="mpBadHeavy_BDU_grey" suffix="2" />
+        <Object id="SWAT_noarmour_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\swat1stpersontex2.utx" />
+    <Package path="contentexpansion\textures\swatfx2tex.utx" />
+    <Package path="contentexpansion\textures\swatgear2tex.utx" />
+    <Package path="contentexpansion\textures\swatnoarmourtex.utx" />
+    <Package path="contentexpansion\textures\taiwan_officertex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="mpSWAT_bdu_black" suffix="1" />
+        <Object id="mpSWAT_bdu_camo" suffix="1" />
+        <Object id="mpSWAT_bdu_Norm" suffix="1" />
+        <Object id="mpSWAT_vest_default" suffix="1" />
+        <Object id="mpSWAT_vest_defaultNorm" suffix="1" />
+        <Object id="mpSWATelementLead" suffix="1" />
+        <Object id="mpSWATface_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="contentexpansion\textures\warehouse_tex.utx" />
+  </Packages>
+</IdRemapping>

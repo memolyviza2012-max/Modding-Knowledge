@@ -1,0 +1,150 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\dotza3rdpersonweapons.ukx" />
+    <Package path="animations\dotzacharacters.ukx" />
+    <Package path="animations\dotzacinematicscharacters.ukx" />
+    <Package path="animations\dotzacinematicsprops.ukx" />
+    <Package path="animations\dotzacinematicszombies.ukx" />
+    <Package path="animations\dotzacorpses.ukx" />
+    <Package path="animations\dotzagibs.ukx" />
+    <Package path="animations\dotzahumans.ukx" />
+    <Package path="animations\dotzaprops.ukx" />
+    <Package path="animations\dotzasearchable.ukx" />
+    <Package path="animations\dotzaspawn.ukx" />
+    <Package path="animations\dotzaweapons.ukx" />
+    <Package path="animations\dotzazombies.ukx" />
+    <Package path="audio\soundfx\dotzxactionobjects.uax" />
+    <Package path="audio\soundfx\dotzxannouncer.uax" />
+    <Package path="audio\soundfx\dotzxcharacters.uax" />
+    <Package path="audio\soundfx\dotzxdestruction.uax" />
+    <Package path="audio\soundfx\dotzxenvironment.uax" />
+    <Package path="audio\soundfx\dotzxinterface.uax" />
+    <Package path="audio\soundfx\dotzxscaryambience.uax" />
+    <Package path="audio\soundfx\dotzxweapons.uax" />
+    <Package path="audio\soundfx\playersounds.uax" />
+    <Package path="levels\ch01.dz" />
+    <Package path="levels\ch02a.dz">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DecoCornA" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="levels\ch02b.dz" />
+    <Package path="levels\ch03a.dz" />
+    <Package path="levels\ch03b.dz" />
+    <Package path="levels\ch03c.dz" />
+    <Package path="levels\ch04a.dz" />
+    <Package path="levels\ch04b.dz" />
+    <Package path="levels\ch05a.dz" />
+    <Package path="levels\ch05b.dz" />
+    <Package path="levels\ch06a.dz" />
+    <Package path="levels\ch06b.dz" />
+    <Package path="levels\ch07a.dz" />
+    <Package path="levels\ch07b.dz" />
+    <Package path="levels\ch08.dz" />
+    <Package path="levels\ch09a.dz" />
+    <Package path="levels\ch09b.dz" />
+    <Package path="levels\ch10.dz" />
+    <Package path="levels\ch11a.dz" />
+    <Package path="levels\ch11b.dz" />
+    <Package path="levels\ch12a.dz" />
+    <Package path="levels\ch12b.dz" />
+    <Package path="levels\ch13a.dz" />
+    <Package path="levels\ch13b.dz" />
+    <Package path="levels\ch13c.dz" />
+    <Package path="levels\ch13d.dz" />
+    <Package path="levels\ctfrooftops.dz" />
+    <Package path="levels\ctfsewers.dz" />
+    <Package path="levels\ctfstation.dz" />
+    <Package path="levels\dmdowntown.dz" />
+    <Package path="levels\dmhospital.dz" />
+    <Package path="levels\dmtheater.dz" />
+    <Package path="levels\dmwarehouse.dz" />
+    <Package path="levels\entry.dz" />
+    <Package path="levels\incemeterypc.dz">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="levels\infarm.dz">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="levels\ingarage.dz" />
+    <Package path="levels\inhouse.dz" />
+    <Package path="levels\inringbigpc.dz" />
+    <Package path="levels\instation.dz" />
+    <Package path="levels\mainmenu.dz" />
+    <Package path="levels\splash.dz" />
+    <Package path="meshes\dotzsbuildings.usx" />
+    <Package path="meshes\dotzscorpses.usx" />
+    <Package path="meshes\dotzsindustrial.usx" />
+    <Package path="meshes\dotzslandscape.usx" />
+    <Package path="meshes\dotzsobjects.usx" />
+    <Package path="meshes\dotzsspecial.usx" />
+    <Package path="meshes\dotzsvehicles.usx" />
+    <Package path="meshes\dotzsweapons.usx" />
+    <Package path="system\advancedengine.u" />
+    <Package path="system\bbgui.u" />
+    <Package path="system\bbparticles.u" />
+    <Package path="system\core.u" />
+    <Package path="system\debait.u" />
+    <Package path="system\debaitadapters.u" />
+    <Package path="system\dotzai.u" />
+    <Package path="system\dotzcharacters.u" />
+    <Package path="system\dotzengine.u" />
+    <Package path="system\dotzgame.u" />
+    <Package path="system\dotzitems.u" />
+    <Package path="system\dotzmenu.u" />
+    <Package path="system\dotzweapons.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\engineex.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\upreview.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="system\xdotzcharacters.u" />
+    <Package path="textures\bbhudfonts.utx" />
+    <Package path="textures\bbtfonts.utx" />
+    <Package path="textures\bbtfx.utx" />
+    <Package path="textures\bbtguicontent.utx" />
+    <Package path="textures\bbtxfonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BigGuiBelow800\BigGuiBelow800_PageA" suffix="1" />
+        <Object id="BigGuiBelow800\BigGuiBelow800_PageB" suffix="1" />
+        <Object id="PlainGuiBelow800\PlainGuiBelow800_PageA" suffix="1" />
+        <Object id="PlainMedGuiBelow800\PlainMedGuiBelow800_PageA" suffix="1" />
+        <Object id="PlainSmGuiBelow800\PlainSmGuiBelow800_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\dotztbuildings.utx" />
+    <Package path="textures\dotztcubemaps.utx" />
+    <Package path="textures\dotztdetailmaps.utx" />
+    <Package path="textures\dotzthumans.utx" />
+    <Package path="textures\dotztindustrial.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Walls\Wall4" suffix="1" />
+        <Object id="Walls\Wall7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\dotztinterface.utx" />
+    <Package path="textures\dotztlandscape.utx" />
+    <Package path="textures\dotztlocalized.utx" />
+    <Package path="textures\dotztobjects.utx" />
+    <Package path="textures\dotztspecial.utx" />
+    <Package path="textures\dotztstory.utx" />
+    <Package path="textures\dotztvehicles.utx" />
+    <Package path="textures\dotztweapons.utx" />
+    <Package path="textures\dotztzombies.utx" />
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\specialfx.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+  </Packages>
+</IdRemapping>

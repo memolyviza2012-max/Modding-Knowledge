@@ -1,0 +1,1753 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="xgame\cookedpcconsole_fr\achievements.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\adaptivetraining_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\adaptivetraining_lighthouse.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\aivo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\arc_automatedtest_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\boardwalkloadout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\coalesceditems.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\core.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\debuglevel.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_awareness_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_awareness.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_base_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_base.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_bw1_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_bw1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_bw2bw3_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_bw2bw3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_fink_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_fink.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\elizabeth_youngliz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\engine.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\finktonloadout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\gfxfonts_int_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\gfxmockupfonts_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\gfxui.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\globalxitemdatabase_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\guidcache.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\hub state a_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\hub state b_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\ipdrv.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\kynapseengine.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\loading_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\master_p.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\museum exterior state 2_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\onlinesubsystemsteamworks.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_beachbg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_beachcity_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_beachcity_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_beachcityb_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_beachcityb_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bedford_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bedford_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bedford_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bookstore_a_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bookstore_b_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bookstore_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_bookstore_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_darkhub_sl_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_elizabeth_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_arcadeentrance_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_game_01_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_game_01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_1st_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_1st.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_lower_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_lower.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_store_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo_store.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_11\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_11\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_11\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_11\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_11\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_11\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_awakenonbeach_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_awakenonbeach.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_lizdancing_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_lizdancing.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_lutecescene_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_lutecescene.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_upper_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar_upper.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_shop_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_shop_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_shop_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_shop_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_enter_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_finktransition.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_firstlady_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_15\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_firstlady_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_firstlady_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_firstlady_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_funicularbg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hohbg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_airlock_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_blockingvolumes.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_br_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_br_wing_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_beancounter.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_center_tearturret1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_courtyard_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_exit_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_9\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_9\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_9\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_9\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_9\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_9\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo2_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo3_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo4_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo5_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_geo5.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_firstlady_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_game_global_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_game_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_game_tears.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_in_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_in_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_in_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_in_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_out_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="5" />
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_out_loot_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_out_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_shop_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_13\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_13\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_13\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_13\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_13\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_13\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_shop_geo2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_shop_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_shop_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_shop_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_slate_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_slate_barge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_slatefinal_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_slatefinal_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_slatehallways_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_14\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_br_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_br_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_wk_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_wk_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wing_wk_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hotel_wk_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hub_prime_streaming.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hub_stateb_stream.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_hubbg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_icecreamshop_a_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_icecreamshop_b_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_icecreamshop_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_icecreamshop_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_lincoln_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_lincoln_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_lincoln_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_lincoln_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_lincoln_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_a_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_a_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_a_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_a_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_b_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_b_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_b_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_balloon.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_barge.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_detail_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_detail.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_11\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_11\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_11\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_11\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_11\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_11\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_madison_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middleton_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_a_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_a_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_a_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_a_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_a_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_aggro.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_barge1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_barge2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_floatingctrl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_game2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_game2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_b_sign.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_carousel.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_center_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_center_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_geo_fl01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_snd_floating.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_middletown_turretstage2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0_F0" suffix="3" />
+        <Object id="ProbeTexture_0_F1" suffix="3" />
+        <Object id="ProbeTexture_0_F2" suffix="3" />
+        <Object id="ProbeTexture_0_F3" suffix="3" />
+        <Object id="ProbeTexture_0_F4" suffix="3" />
+        <Object id="ProbeTexture_0_F5" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="8" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="8" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="8" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="8" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="8" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_pprm_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al2_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al2_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al2_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_al3_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="6" />
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_office_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_12\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_12\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_12\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_12\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_12\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_12\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_al_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_al_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_al_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="7" />
+        <Object id="ProbeTexture_9\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_9\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_9\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_9\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_9\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_9\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_out_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_skybridge_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_fl1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_fl2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_fl3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_geoext_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_geoext.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_sl_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_snd_floating.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_stairwell_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_stairwell_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_turnstiles_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sherman_turnstiles.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sky_dusk.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sky_golden.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skybar_cellar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skybar_cellar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skybar_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_16\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_16\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_16\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_16\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_16\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_16\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_br.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_gam_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_gam.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_airlock.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_game_a_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_game_a.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_game_b_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_game_b.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_12\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_lift_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_lift_manager.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_lift.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_statueleft.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_statueright_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_statueright.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_17\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_17\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_17\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_17\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_17\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_17\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyhook_tearturret1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyline_float_ctrl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyline_game_a.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyline_training_barge.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyline_training_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyline_training_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_skyroadwaiting_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_slate_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_slate_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_sound_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_steeplechasebg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_stplchase_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_stplchase_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_stplchase_vista.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_front_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_front_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_front_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_office_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_office_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_toyshop_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_transition.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_upperpier_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_upperpier_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_upperpier_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_aerodrome_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_aerodrome.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_beach_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_beach.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_funicular_arcade_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_funicular_arcade.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_funicular_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_funicular.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_alamo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_alamo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_slate_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_slate.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_wings_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes_wings.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hallofheroes.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hub_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hub_posthoh_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hub_posthoh.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_hub.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_steeplechase_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_steeplechase.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_welcomecenter_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo_welcomecenter.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_vo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_bottom_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_elevator_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_facade_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_front_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_front_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_front_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_13\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_13\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_13\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_13\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_13\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_13\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonder_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw_wonderbg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_pprm_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw2_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_p.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_bw3_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_chaingang_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_chaingang_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_01_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_02_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_02b_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_amb_barge_1_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_amb_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_amb_barge_2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_amb_barge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_amb_barge_4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_civ_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_civ.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_float.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_gunballoon1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_gunballoon2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_gunballoon3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_int_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_b_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_barge2_js.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_civ_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_civ.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_int_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_c_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_d_entry_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_d_entry_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_9\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_9\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_9\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_9\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_9\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_9\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_d_int_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_d_int_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_escape_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_float.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="9" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="9" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="9" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="9" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="9" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02a_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02a.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02b_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02b.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02c.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_02v.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_geo_cf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_hut_ext_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_hut_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_hut_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_kyn_02.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_lift.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_lift02_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_lift02_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_lift02.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_nar1_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_nar1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_nar2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_nar2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_shed_ext_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_shed_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_docks_stowawaybarge.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_elizabeth_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_elizabeth_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_end_firtslady_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_factory_tower_docks.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_firstlady_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_13\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_13\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_13\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_13\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_13\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_13\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_firstlady_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_firstlady_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_firstladyshop_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_firstladyshop_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_fink_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_sky_bg_01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_sound_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_ext_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_ext_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_liz_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_liz.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_out_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_terr_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_transitions.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_vo_docks_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_vo_docks.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_fink_vo_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_landingbuilding_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_landingbuilding_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_landingbuilding_3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_boat_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_boat.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_capsule.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="8" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="8" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="8" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="8" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="8" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="6" />
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_light_herobuildinga.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_midgroundcity.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="2" />
+        <Object id="Variation_0_Diffuse" suffix="1" />
+        <Object id="Variation_0_Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_light_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_tc_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_terrain.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_titlecard_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_light_vo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_liz_elevator_shaft_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_archives_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_boardwalktransition_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_diningscene_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_15\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_15\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_15\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_15\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_15\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_15\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_elevatorout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_entry_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_entry_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_entry_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_escape_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_escapeelevator_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_firstelevator_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="6" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_island_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_island_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_island_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_13\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_13\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_13\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_13\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_13\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_13\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_metliz_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_metliz_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_ousidetrans_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_ousidewalk_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1_F0" suffix="1" />
+        <Object id="ProbeTexture_1_F1" suffix="1" />
+        <Object id="ProbeTexture_1_F2" suffix="1" />
+        <Object id="ProbeTexture_1_F3" suffix="1" />
+        <Object id="ProbeTexture_1_F4" suffix="1" />
+        <Object id="ProbeTexture_1_F5" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="8" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="8" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="8" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="8" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="8" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_paris_tear_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_paris_tear.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_14\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_14\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_14\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_14\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_14\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_14\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_runningpreescape_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_skylineescape_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_skylineescape_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_skylineescape.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_statueescape_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_streamcontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_up_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_vo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_lizt_vo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_moveproc_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_moveproc_3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_moveproc_4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_moverproc_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_emp_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_16\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_16\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_16\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_16\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_16\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_16\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_p.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_tobw_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_twn_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_vo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_ofb_vo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_bridge_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_bridge_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_bridge_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_c_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_c_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_floatinggate.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_floatinggate2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_floatingintro.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="10" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="10" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="10" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="10" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="10" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="9" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="9" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="9" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="9" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="9" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_slowfloat.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_slowfloat2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_alley_vista.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_aviary_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_aviary_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_aviary_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_aviary_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="10" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="10" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="10" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="10" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="10" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_aviary_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_a1_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_a2_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_sl_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_b_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_elev.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_int_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_int_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_int_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_c_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_d_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_fallaway_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_blockade_floatcontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_comzep_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_comzep.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_geo3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_geo4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_geo5.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroof_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroofbarge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroofbarge_5.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_crowroofbarge_fwrks.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_dogfight_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_dogfight_barge_3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_dogfight_barge_4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_a_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_a_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_c_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_c_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_d_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_booth_d_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_drop_barge_1_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_drop_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_intro_vista.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_lutece_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fair_lutece.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c1_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c1_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_14\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_14\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_14\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_14\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_14\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_14\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c1_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c2_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c2_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="11" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="11" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="11" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="11" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="11" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c3_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c3_sl_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_c3_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_drop_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_exit_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_19\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_11\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_11\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_11\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_11\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_11\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_11\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fairstreet_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fakebarge01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_fakebargecontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_a_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_ext_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_int_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_int_geo2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_int_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_float_b_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gonbarge03_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gonbarge05_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gonbarge06_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_bridge1a.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_bridge1b.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_float.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_gondola_vista.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_elevator.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_elevatorshaft.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_ext_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_9\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_9\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_9\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_9\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_9\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_9\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_11\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_geo2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_13\CubemapFace0" suffix="5" />
+        <Object id="ProbeTexture_13\CubemapFace1" suffix="5" />
+        <Object id="ProbeTexture_13\CubemapFace2" suffix="5" />
+        <Object id="ProbeTexture_13\CubemapFace3" suffix="5" />
+        <Object id="ProbeTexture_13\CubemapFace4" suffix="5" />
+        <Object id="ProbeTexture_13\CubemapFace5" suffix="5" />
+        <Object id="ProbeTexture_14\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_14\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_14\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_14\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_14\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_14\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_15\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_15\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_15\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_15\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_15\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_15\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_int_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upflr_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upflr_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upper_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upper_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upper_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upperfloor_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upperfloor_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lodge_upperfloor.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_17\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_17\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_17\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_17\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_17\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_17\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_barge_01_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_barge_01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_crowd_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_crowd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_game2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_game2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_lottery_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0_F0" suffix="1" />
+        <Object id="ProbeTexture_0_F1" suffix="1" />
+        <Object id="ProbeTexture_0_F2" suffix="1" />
+        <Object id="ProbeTexture_0_F3" suffix="1" />
+        <Object id="ProbeTexture_0_F4" suffix="1" />
+        <Object id="ProbeTexture_0_F5" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_parade_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_parade_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_b_2_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_b_2_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_b_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="7" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_vista1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_vista2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_park_vista3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_port_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_port_geoa_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_port_geoa.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="8" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_port_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_port_sl.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_poslot_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_poslot_barge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_poslot_barge_4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_postcard_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_postcard.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_pprm_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_roof_civbarge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_roof_civbarge_2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_roof_civbarge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_1_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_4.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_5.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_6.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_7.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_8.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_9_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftop_barge_9.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_rooftopbarge_control.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_sky.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_fl02_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_fl02.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo_fl01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_geo3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_loot_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_skywalk_vista.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_sound_global.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_station_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stationent_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stationexit_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stationexit_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stationint_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_statue_view.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_storea_int_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_storea_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stream_lodgelower.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stream_lodgeupper.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_stream_streete.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_nar2_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_nar2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streeta_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetb_geo2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_exit_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetc_snd.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_fl01_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_fl01_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_fl01_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_fl02_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_geo_lod.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_loot_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_vista1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_vista2.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_vista3.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete_vista5.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete2_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streete2_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_geo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_int_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_roof_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_side_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetf_vista1.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetg_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetg_geo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_streetg_loot.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_transition01.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_transition02.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_transition03.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_fair_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_fair.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_intro_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_intro.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_lottery_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_lottery.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_outro_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo_outro.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_vo.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_ext_game_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_ext_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_ext_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="9" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="9" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="9" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="9" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="9" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_bsp.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_elevatorshaft_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_15\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_15\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_15\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_15\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_15\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_15\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_game.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="4" />
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="6" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="6" />
+        <Object id="ProbeTexture_9\CubemapFace0" suffix="4" />
+        <Object id="ProbeTexture_9\CubemapFace1" suffix="4" />
+        <Object id="ProbeTexture_9\CubemapFace2" suffix="4" />
+        <Object id="ProbeTexture_9\CubemapFace3" suffix="4" />
+        <Object id="ProbeTexture_9\CubemapFace4" suffix="4" />
+        <Object id="ProbeTexture_9\CubemapFace5" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_nar_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_int_nar.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_kyn.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn_wc_sound.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0_F0" suffix="2" />
+        <Object id="ProbeTexture_0_F1" suffix="2" />
+        <Object id="ProbeTexture_0_F2" suffix="2" />
+        <Object id="ProbeTexture_0_F3" suffix="2" />
+        <Object id="ProbeTexture_0_F4" suffix="2" />
+        <Object id="ProbeTexture_0_F5" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="7" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="7" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="7" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="7" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="7" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_rooftopbarge_control.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn2_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_p_fwit_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_p_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1_F0" suffix="2" />
+        <Object id="ProbeTexture_1_F1" suffix="2" />
+        <Object id="ProbeTexture_1_F2" suffix="2" />
+        <Object id="ProbeTexture_1_F3" suffix="2" />
+        <Object id="ProbeTexture_1_F4" suffix="2" />
+        <Object id="ProbeTexture_1_F5" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="11" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="11" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="11" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="11" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="11" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_quests.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_soundprop.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\s_twn3_streammaster.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\skyline game state 2_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\startup_loc_int.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\startup.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\steeplechase state 1_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\steeplechase state 2_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\towncenter2loadout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\towncenter3loadout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\towncenterloadout.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\xcore.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\xentry_p_plv_sf.xxx" />
+    <Package path="xgame\cookedpcconsole_fr\xentry_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="10" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="10" />
+        <Object id="ProbeTexture_3\CubemapFace0" suffix="9" />
+        <Object id="ProbeTexture_3\CubemapFace1" suffix="9" />
+        <Object id="ProbeTexture_3\CubemapFace2" suffix="9" />
+        <Object id="ProbeTexture_3\CubemapFace3" suffix="9" />
+        <Object id="ProbeTexture_3\CubemapFace4" suffix="9" />
+        <Object id="ProbeTexture_3\CubemapFace5" suffix="9" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

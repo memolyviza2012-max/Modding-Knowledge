@@ -1,0 +1,20 @@
+﻿<Game packageFileVersion="575" packageLicenseeVersion="0" TFCMappingFileName="Fable Anniversary" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="678" licenseeVersion="26985"/>
+		<PackageVersion fileVersion="828" licenseeVersion="0"/>
+		<PackageVersion fileVersion="831" licenseeVersion="0"/>
+		<PackageVersion fileVersion="831" licenseeVersion="0"/>
+		<PackageVersion fileVersion="833" licenseeVersion="26985"/>
+		<PackageVersion fileVersion="841" licenseeVersion="0"/>
+		<PackageVersion fileVersion="845" licenseeVersion="0"/>
+		<PackageVersion fileVersion="852" licenseeVersion="0"/>
+		<PackageVersion fileVersion="853" licenseeVersion="0"/>
+		<PackageVersion fileVersion="859" licenseeVersion="0"/>
+		<PackageVersion fileVersion="860" licenseeVersion="0"/>
+		<PackageVersion fileVersion="860" licenseeVersion="26985"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="WellingtonGame\CookedPC\*" TFCpath="WellingtonGame\CookedPC" customTFCStartIndex="0" />
+		<PackageFolder path="WellingtonGame\Content\*" TFCpath="WellingtonGame\Content" customTFCStartIndex="1000" />
+	</PackageFolders>
+</Game>

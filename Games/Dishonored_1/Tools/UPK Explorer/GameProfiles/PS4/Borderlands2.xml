@@ -1,0 +1,107 @@
+﻿<Game packageFileVersion="832" packageLicenseeVersion="46" TFCMappingFileName="Borderlands 2" platform="PS4" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="Magnolia\WillowGame\CookedOrbis" customTFCStartIndex="0" />
+	</PackageFolders>
+	  <DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Assault on Dragon Keep" TFCMappingFileName="Aster">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Aster\*" TFCpath="Magnolia\DLC\Orbis\Aster\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Aster\Compat\Textures" customTFCStartIndex="10000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Big Game Hunt" TFCMappingFileName="Sage">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Sage\*" TFCpath="Magnolia\DLC\Orbis\Sage\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Sage\Compat\Textures" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Bloody Harvest" TFCMappingFileName="Flax">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Flax\*" TFCpath="Magnolia\DLC\Orbis\Flax\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Flax\Compat\Textures" customTFCStartIndex="13000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Campaign of Carnage" TFCMappingFileName="Iris">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Iris\*" TFCpath="Magnolia\DLC\Orbis\Iris\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Iris\Compat\Textures" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Community Day 2013" TFCMappingFileName="CommDay2013">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\CommDay2013\*" TFCpath="Magnolia\DLC\Orbis\CommDay2013\Compat\Textures" customTFCStartIndex="19000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Fight For Sanctuary" TFCMappingFileName="Anemone">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Anemone\*" TFCpath="Magnolia\DLC\Orbis\Anemone\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Anemone\Compat\Textures" customTFCStartIndex="8000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Goliath Heads" TFCMappingFileName="LootChest2">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\LootChest2\*" TFCpath="Magnolia\DLC\Orbis\LootChest2\Compat\Textures" customTFCStartIndex="21000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Mechromancer Pack" TFCMappingFileName="Tulip">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Tulip\*" TFCpath="Magnolia\DLC\Orbis\Tulip\Compat\Textures" customTFCStartIndex="15000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Mercenary Day" TFCMappingFileName="Allium">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Allium\*" TFCpath="Magnolia\DLC\Orbis\Allium\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Allium\Compat\Textures" customTFCStartIndex="12000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Pirate's Booty" TFCMappingFileName="Orchid ">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Orchid\*" TFCpath="Magnolia\DLC\Orbis\Orchid\Compat\Textures" customTFCStartIndex="9000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Poker Night 2 Skins" TFCMappingFileName="PN2">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\PN2\*" TFCpath="Magnolia\DLC\Orbis\PN2\Compat\Textures" customTFCStartIndex="23000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Psycho Pack" TFCMappingFileName="Lilac">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Lilac\*" TFCpath="Magnolia\DLC\Orbis\Lilac\Compat\Textures" customTFCStartIndex="20000" />
+			</PackageFolders>
+		</DLC>
+				<DLC displayName="Pre-Sequel Heads" TFCMappingFileName="Peony">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Peony\*" TFCpath="Magnolia\DLC\Orbis\Peony\Compat\Textures" customTFCStartIndex="22000" />
+			</PackageFolders>
+		</DLC>
+				<DLC displayName="Skin Pack 1" TFCMappingFileName="Gardenia01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Gardenia01\*" TFCpath="Magnolia\DLC\Orbis\Gardenia01\Compat\Textures" customTFCStartIndex="16000" />
+			</PackageFolders>
+		</DLC>
+				<DLC displayName="Skin Pack 2" TFCMappingFileName="Gardenia04">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Gardenia04\*" TFCpath="Magnolia\DLC\Orbis\Gardenia04\Compat\Textures" customTFCStartIndex="17000" />
+			</PackageFolders>
+		</DLC>
+				<DLC displayName="Skin Pack 3" TFCMappingFileName="Gardenia05">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Gardenia05\*" TFCpath="Magnolia\DLC\Orbis\Gardenia05\Compat\Textures" customTFCStartIndex="18000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="UHD Texture Pack" TFCMappingFileName="Mancana">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Mancana\*" TFCpath="Magnolia\DLC\Orbis\Mancana\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Mancana\Compat\Content\Patch" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Ultimate Vault Hunter Upgrade Pack 1" TFCMappingFileName="Gladiolus">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Gladiolus\*" TFCpath="Magnolia\DLC\Orbis\Gladiolus\Compat\Textures" customTFCStartIndex="13500" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Ultimate Vault Hunter Upgrade Pack 2" TFCMappingFileName="Lobelia">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Lobelia\*" TFCpath="Magnolia\DLC\Orbis\Lobelia\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Lobelia\Compat\Textures" customTFCStartIndex="14000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Valentine's Day Massacre/Son of Crawmerax" TFCMappingFileName="Nasturtium">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="Magnolia\DLC\Orbis\Nasturtium\*" TFCpath="Magnolia\DLC\Orbis\Nasturtium\Lic\Textures" TFCpath2="Magnolia\DLC\Orbis\Nasturtium\Compat\Textures" customTFCStartIndex="11000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

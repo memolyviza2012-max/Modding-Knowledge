@@ -1,0 +1,341 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\dcharacters.ukx" />
+    <Package path="animations\ddecoskelmesh.ukx" />
+    <Package path="animations\dskelweapons.ukx" />
+    <Package path="animations\skanimtest.ukx" />
+    <Package path="animations\xdskelweapons.ukx" />
+    <Package path="maps\autoentry.dvs" />
+    <Package path="maps\ctf-chozo.dvs" />
+    <Package path="maps\ctf-union.dvs" />
+    <Package path="maps\ddm-carnytown.dvs" />
+    <Package path="maps\ddm-embarcaderodepot.dvs" />
+    <Package path="maps\ddm-mental.dvs" />
+    <Package path="maps\ddm-parking.dvs" />
+    <Package path="maps\ddm-parkingxl.dvs" />
+    <Package path="maps\ddm-riversofwaste.dvs" />
+    <Package path="maps\ddm-sniper.dvs" />
+    <Package path="maps\dtt-downtownchozo.dvs" />
+    <Package path="maps\dtt-riversofwaste.dvs" />
+    <Package path="maps\dtt-topothetower.dvs" />
+    <Package path="maps\dtt-transit.dvs" />
+    <Package path="maps\dtt-union.dvs" />
+    <Package path="maps\entry.dvs" />
+    <Package path="maps\sp-intro.dvs" />
+    <Package path="maps\sp-outro.dvs" />
+    <Package path="maps\sp0m0-thelab.dvs" />
+    <Package path="maps\sp0m0-thelab2.dvs">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LabTerr" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\sp0m1-somasunset.dvs" />
+    <Package path="maps\sp0m2-chinatown.dvs" />
+    <Package path="maps\sp0m3-topothetower.dvs" />
+    <Package path="maps\sp0m4-therock.dvs" />
+    <Package path="maps\sp0m5-embarcadero.dvs" />
+    <Package path="maps\sp1m1-urbiasouth.dvs" />
+    <Package path="maps\sp1m2-urbiaasylum.dvs" />
+    <Package path="maps\sp1m3-urbianorth.dvs" />
+    <Package path="maps\sp1m4-docks.dvs" />
+    <Package path="maps\sp2m0.dvs" />
+    <Package path="maps\sp2m1-marketmadness.dvs" />
+    <Package path="maps\sp2m2-cardboardcounty.dvs" />
+    <Package path="maps\sp2m3-theaquifers.dvs" />
+    <Package path="maps\sp2m4-ichthyasouth.dvs" />
+    <Package path="maps\sp2m5-ichthyanorth.dvs" />
+    <Package path="maps\sp3m1-chozo.dvs" />
+    <Package path="maps\sp3m2-riversofwaste.dvs" />
+    <Package path="maps\sp3m3-zangai.dvs" />
+    <Package path="maps\sp3m4-transit.dvs" />
+    <Package path="maps\sp3m5-bukko.dvs" />
+    <Package path="maps\sp3m6-bukkoroof.dvs" />
+    <Package path="sounds\dsentrygun.uax" />
+    <Package path="sounds\dv1female.uax" />
+    <Package path="sounds\dv1male.uax" />
+    <Package path="sounds\dv2female.uax" />
+    <Package path="sounds\dv2male.uax" />
+    <Package path="sounds\dv3male.uax" />
+    <Package path="sounds\dv4male.uax" />
+    <Package path="sounds\dweapsounds.uax" />
+    <Package path="sounds\femalehits.uax" />
+    <Package path="sounds\malegroans.uax" />
+    <Package path="sounds\malehits.uax" />
+    <Package path="sounds\sp-introvox.uax" />
+    <Package path="sounds\sp-outrovox.uax" />
+    <Package path="sounds\sp0m0vox.uax" />
+    <Package path="sounds\sp0m1vox.uax" />
+    <Package path="sounds\sp0m2vox.uax" />
+    <Package path="sounds\sp0m3vox.uax" />
+    <Package path="sounds\sp0m4vox.uax" />
+    <Package path="sounds\sp0m5vox.uax" />
+    <Package path="sounds\sp1m1vox.uax" />
+    <Package path="sounds\sp1m2vox.uax" />
+    <Package path="sounds\sp1m3vox.uax" />
+    <Package path="sounds\sp1m4vox.uax" />
+    <Package path="sounds\sp2m1vox.uax" />
+    <Package path="sounds\sp2m2vox.uax" />
+    <Package path="sounds\sp2m4vox.uax" />
+    <Package path="sounds\sp2m5vox.uax" />
+    <Package path="sounds\sp3m1vox.uax" />
+    <Package path="sounds\sp3m3vox.uax" />
+    <Package path="sounds\sp3m4vox.uax" />
+    <Package path="sounds\spconvvoxa.uax" />
+    <Package path="sounds\spenemyvox.uax" />
+    <Package path="sounds\sphintvoxeve.uax" />
+    <Package path="sounds\sphintvoxeve2.uax" />
+    <Package path="sounds\sphintvoxeve3.uax" />
+    <Package path="sounds\sphintvoxeve4.uax" />
+    <Package path="sounds\sphintvoxtara.uax" />
+    <Package path="sounds\sphintvoxtara2.uax" />
+    <Package path="sounds\sphintvoxtara3.uax" />
+    <Package path="sounds\sphintvoxtara4.uax" />
+    <Package path="sounds\spmiscvox.uax" />
+    <Package path="sounds\stimulusresponse.uax" />
+    <Package path="sounds\udambient.uax" />
+    <Package path="sounds\udbrain.uax" />
+    <Package path="sounds\udchar.uax" />
+    <Package path="sounds\uddecorations.uax" />
+    <Package path="sounds\udhitsandgibs.uax" />
+    <Package path="sounds\udinterface.uax" />
+    <Package path="sounds\udinventory.uax" />
+    <Package path="sounds\udmapcomps.uax" />
+    <Package path="sounds\udmisc.uax" />
+    <Package path="sounds\udtriggered.uax" />
+    <Package path="sounds\utajohn.uax" />
+    <Package path="sounds\utamachines.uax" />
+    <Package path="staticmeshes\aquifers.usx" />
+    <Package path="staticmeshes\bballsm.usx" />
+    <Package path="staticmeshes\bukkoroofsm.usx" />
+    <Package path="staticmeshes\bukkosm.usx" />
+    <Package path="staticmeshes\cardboardcounty.usx" />
+    <Package path="staticmeshes\carnysm.usx" />
+    <Package path="staticmeshes\chinatown.usx" />
+    <Package path="staticmeshes\dattachsm.usx" />
+    <Package path="staticmeshes\ddbunnysm.usx" />
+    <Package path="staticmeshes\ddecosm.usx" />
+    <Package path="staticmeshes\ddecosmb.usx" />
+    <Package path="staticmeshes\ddecosmd.usx" />
+    <Package path="staticmeshes\ddecosme.usx" />
+    <Package path="staticmeshes\deffectsm.usx" />
+    <Package path="staticmeshes\docks.usx" />
+    <Package path="staticmeshes\downtown.usx" />
+    <Package path="staticmeshes\dskysm.usx" />
+    <Package path="staticmeshes\dspawnsm.usx" />
+    <Package path="staticmeshes\dtreessm.usx" />
+    <Package path="staticmeshes\dutilsm.usx" />
+    <Package path="staticmeshes\dweaponmesh.usx" />
+    <Package path="staticmeshes\embarcadero.usx" />
+    <Package path="staticmeshes\gibssm.usx" />
+    <Package path="staticmeshes\ichthya.usx" />
+    <Package path="staticmeshes\karmacylinder.usx" />
+    <Package path="staticmeshes\labs.usx" />
+    <Package path="staticmeshes\marketm.usx" />
+    <Package path="staticmeshes\mentalsm.usx" />
+    <Package path="staticmeshes\nakonakism.usx" />
+    <Package path="staticmeshes\parkingsm.usx" />
+    <Package path="staticmeshes\riversowaste.usx" />
+    <Package path="staticmeshes\riverssm.usx" />
+    <Package path="staticmeshes\somasunset.usx" />
+    <Package path="staticmeshes\tempkarmasm.usx" />
+    <Package path="staticmeshes\therock.usx" />
+    <Package path="staticmeshes\topotower.usx" />
+    <Package path="staticmeshes\transitsm.usx" />
+    <Package path="staticmeshes\uasylum.usx" />
+    <Package path="staticmeshes\unionsm.usx" />
+    <Package path="staticmeshes\urbia.usx" />
+    <Package path="staticmeshes\zangaism.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\dbrain.u" />
+    <Package path="system\dcanims.u" />
+    <Package path="system\dcharactions.u" />
+    <Package path="system\dchars.u" />
+    <Package path="system\dcore.u" />
+    <Package path="system\ddebug.u" />
+    <Package path="system\ddeceffectmeshes.u" />
+    <Package path="system\ddecorations.u" />
+    <Package path="system\ddecorationsb.u" />
+    <Package path="system\ddecorationsc.u" />
+    <Package path="system\deffects.u" />
+    <Package path="system\deved.u" />
+    <Package path="system\dgameplay.u" />
+    <Package path="system\dgibmeshes.u" />
+    <Package path="system\dhudwindows.u" />
+    <Package path="system\dinterface.u" />
+    <Package path="system\dinventory.u" />
+    <Package path="system\dmapcomps.u" />
+    <Package path="system\dmessages.u" />
+    <Package path="system\dserveradmin.u" />
+    <Package path="system\dskeleton.u" />
+    <Package path="system\dterritories.u" />
+    <Package path="system\dvoice.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\abitt.utx" />
+    <Package path="textures\bbcourt.utx" />
+    <Package path="textures\bruncar.utx" />
+    <Package path="textures\buildhelptex.utx" />
+    <Package path="textures\dbrowsertex.utx" />
+    <Package path="textures\dcharicons.utx" />
+    <Package path="textures\dcreaturetextures.utx" />
+    <Package path="textures\dcrosshairs.utx" />
+    <Package path="textures\ddbunnysmtex.utx" />
+    <Package path="textures\ddecoskelmeshtex.utx" />
+    <Package path="textures\ddecosmtex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="jplantern01" suffix="1" />
+        <Object id="jplantern02" suffix="1" />
+        <Object id="jplantern03" suffix="1" />
+        <Object id="jplantern04" suffix="1" />
+        <Object id="jplantern05" suffix="1" />
+        <Object id="jplantern06" suffix="1" />
+        <Object id="jplantern07" suffix="1" />
+        <Object id="jplantern08" suffix="1" />
+        <Object id="jplantern09" suffix="1" />
+        <Object id="jplantern10" suffix="1" />
+        <Object id="jplantern11" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ddecosmtexb.utx" />
+    <Package path="textures\ddecosmtexc.utx" />
+    <Package path="textures\ddecosmtexd.utx" />
+    <Package path="textures\ddecosmtexe.utx" />
+    <Package path="textures\ddecskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="chlantern1" suffix="1" />
+        <Object id="cone01" suffix="1" />
+        <Object id="cone02" suffix="1" />
+        <Object id="cone03" suffix="1" />
+        <Object id="cone04" suffix="1" />
+        <Object id="Fender1" suffix="1" />
+        <Object id="Fender2" suffix="1" />
+        <Object id="p2crate2" suffix="1" />
+        <Object id="p2crate3" suffix="1" />
+        <Object id="p2crate4" suffix="1" />
+        <Object id="p2crate5" suffix="1" />
+        <Object id="sm1_5a" suffix="1" />
+        <Object id="sm1_6a" suffix="1" />
+        <Object id="sm2_5a" suffix="1" />
+        <Object id="sm2_6a" suffix="1" />
+        <Object id="UTAcraq1" suffix="1" />
+        <Object id="UTAcraq12" suffix="1" />
+        <Object id="UTAcraq13" suffix="1" />
+        <Object id="UTAcraq2" suffix="1" />
+        <Object id="UTAcraq3" suffix="1" />
+        <Object id="UTAcraq4" suffix="1" />
+        <Object id="UTAcraq5" suffix="1" />
+        <Object id="UTAMttr1" suffix="1" />
+        <Object id="UTAMttr2" suffix="1" />
+        <Object id="UTASb0z1" suffix="1" />
+        <Object id="UTASb0z2" suffix="1" />
+        <Object id="UTASc0z" suffix="1" />
+        <Object id="UTASc1z" suffix="1" />
+        <Object id="UTASc2z" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ddecsmokefx.utx" />
+    <Package path="textures\deffecttex.utx" />
+    <Package path="textures\deletesmtex.utx" />
+    <Package path="textures\denviro.utx" />
+    <Package path="textures\dequipicons.utx" />
+    <Package path="textures\dfonts.utx" />
+    <Package path="textures\dgibskins.utx" />
+    <Package path="textures\dhudsplats.utx" />
+    <Package path="textures\dinterfacetex.utx" />
+    <Package path="textures\dintrotex.utx" />
+    <Package path="textures\dmapicons.utx" />
+    <Package path="textures\dmapshots.utx" />
+    <Package path="textures\dmenutex.utx" />
+    <Package path="textures\dmorefonts.utx" />
+    <Package path="textures\dmovies.utx" />
+    <Package path="textures\dodge.utx" />
+    <Package path="textures\doutrotex.utx" />
+    <Package path="textures\dpedtex.utx" />
+    <Package path="textures\dscriptedtex.utx" />
+    <Package path="textures\dsky.utx" />
+    <Package path="textures\dsmokegray.utx" />
+    <Package path="textures\dspawnsmtex.utx" />
+    <Package path="textures\dspraypaint.utx" />
+    <Package path="textures\dtreessmtex.utx" />
+    <Package path="textures\dweapskins.utx" />
+    <Package path="textures\dweaptex.utx" />
+    <Package path="textures\femaleskins.utx" />
+    <Package path="textures\jcuda.utx" />
+    <Package path="textures\labtex.utx" />
+    <Package path="textures\maleskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="visor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mxcar.utx" />
+    <Package path="textures\tbird.utx" />
+    <Package path="textures\uasylumtex.utx" />
+    <Package path="textures\ude3.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FishingBoat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\udparticles.utx" />
+    <Package path="textures\utaarchi.utx" />
+    <Package path="textures\utaarchi2.utx" />
+    <Package path="textures\utabglass.utx" />
+    <Package path="textures\utacamnet.utx" />
+    <Package path="textures\utacarn.utx" />
+    <Package path="textures\utacarn2.utx" />
+    <Package path="textures\utacode.utx" />
+    <Package path="textures\utacyba.utx" />
+    <Package path="textures\utadbunny.utx" />
+    <Package path="textures\utadowntown.utx" />
+    <Package path="textures\utaeditor.utx" />
+    <Package path="textures\utafence.utx" />
+    <Package path="textures\utagrandrock.utx" />
+    <Package path="textures\utagrathius.utx" />
+    <Package path="textures\utaichthyarow.utx" />
+    <Package path="textures\utajbike.utx" />
+    <Package path="textures\utajohn1.utx" />
+    <Package path="textures\utajohn2.utx" />
+    <Package path="textures\utajohn3.utx" />
+    <Package path="textures\utalabs.utx" />
+    <Package path="textures\utamped.utx" />
+    <Package path="textures\utanycity.utx" />
+    <Package path="textures\utanysub.utx" />
+    <Package path="textures\utanyvehics.utx" />
+    <Package path="textures\utaplutonic.utx" />
+    <Package path="textures\utaport.utx" />
+    <Package path="textures\utaprops.utx" />
+    <Package path="textures\utaprops2.utx" />
+    <Package path="textures\utapropskins.utx" />
+    <Package path="textures\utasfx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="shellused01" suffix="1" />
+        <Object id="shellused02" suffix="1" />
+        <Object id="shellused03" suffix="1" />
+        <Object id="shellused05" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\utashadows.utx" />
+    <Package path="textures\utasigns.utx" />
+    <Package path="textures\utaskytex.utx" />
+    <Package path="textures\utaspawner.utx" />
+    <Package path="textures\utatex.utx" />
+    <Package path="textures\utatex2.utx" />
+    <Package path="textures\utatex3.utx" />
+    <Package path="textures\utatobbe.utx" />
+    <Package path="textures\utatobbe2.utx" />
+    <Package path="textures\utatobbe3.utx" />
+    <Package path="textures\utatower.utx" />
+    <Package path="textures\utatreestex.utx" />
+    <Package path="textures\utatskyz.utx" />
+    <Package path="textures\utatut1.utx" />
+    <Package path="textures\utawall.utx" />
+    <Package path="textures\utawall2.utx" />
+    <Package path="textures\utawillhaven.utx" />
+    <Package path="textures\utawoods.utx" />
+    <Package path="textures\utazangai.utx" />
+    <Package path="textures\utparticles.utx" />
+  </Packages>
+</IdRemapping>

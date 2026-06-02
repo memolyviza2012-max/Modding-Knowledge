@@ -1,0 +1,1254 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="sumacgame\cookedpc\centraleditor.upk" />
+    <Package path="sumacgame\cookedpc\centralmaterials.upk" />
+    <Package path="sumacgame\cookedpc\centralmissingartredirects.upk" />
+    <Package path="sumacgame\cookedpc\core.u" />
+    <Package path="sumacgame\cookedpc\editor.u" />
+    <Package path="sumacgame\cookedpc\editormaterials.upk" />
+    <Package path="sumacgame\cookedpc\editormeshes.upk" />
+    <Package path="sumacgame\cookedpc\editorresources.upk" />
+    <Package path="sumacgame\cookedpc\engine.u" />
+    <Package path="sumacgame\cookedpc\enginefonts.upk" />
+    <Package path="sumacgame\cookedpc\enginematerials.upk" />
+    <Package path="sumacgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\gameframework.u" />
+    <Package path="sumacgame\cookedpc\gearboxframework.u" />
+    <Package path="sumacgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="sumacgame\cookedpc\guidcache.upk" />
+    <Package path="sumacgame\cookedpc\ipdrv.u" />
+    <Package path="sumacgame\cookedpc\maps\entry.upk" />
+    <Package path="sumacgame\cookedpc\maps\game\mainmenu.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\moments\matinee_bromos.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\p_main.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\p_weapongroups.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_br_bren.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_br_sten.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_g43.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_g432.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_k98.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_mg42.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_mp40.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_panzershrek.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_stg44.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_de_walther.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_bar.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m12.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1911.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m19112.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1919a4.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1928.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1a1.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m1c.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m3.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_m9a1.gbxmap" />
+    <Package path="sumacgame\cookedpc\maps\game\weaponmaps\wm_us_springfield.gbxmap" />
+    <Package path="sumacgame\cookedpc\nodebuddies.upk" />
+    <Package path="sumacgame\cookedpc\offlinesubsystempc.u" />
+    <Package path="sumacgame\cookedpc\onlinesubsystemgamespy.u" />
+    <Package path="sumacgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="sumacgame\cookedpc\onlinesubsystempc.u" />
+    <Package path="sumacgame\cookedpc\packages\ai\ai_battledialogue.upk" />
+    <Package path="sumacgame\cookedpc\packages\ai\ai_fireteam.upk" />
+    <Package path="sumacgame\cookedpc\packages\ai\ai_moment.upk" />
+    <Package path="sumacgame\cookedpc\packages\ai\ai_pawn.upk" />
+    <Package path="sumacgame\cookedpc\packages\ai\ai_player.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_02_prologue.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_bromos.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_char_baker_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_char_baker.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d00_1300.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d00_1500_kevin.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d00_1500.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d00_thestorysofar.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d01_1100_fbn.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d01_1300.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d01_1830_operationgarden.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d01_1830_reunions.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d02_1800_formathew.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d02_2300.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d02_2330.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d05_1100.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d05_1102_letterstolovedones.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d06_1500_twl.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d06_1500.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d08_1000.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d09_0830.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_d09_1325_fig.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_lost.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_trans_om.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\a_wehappyfewer.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\amb_battle.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\amb_fire.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_baker_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_campbell_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_campbell_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_campbell_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_campbell_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_connor_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_corrion_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_courtland_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_dawson_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_franky_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_88.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_a_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_88.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_b_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_88.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_german_sl_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_hartsock_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_holden_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_jasper_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_mccreary_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_paddock_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_paddock_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_paddock_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_paddock_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_roselli_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_roselli_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_roselli_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_roselli_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_combat_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_combat.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_patrol_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_patrol.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_shared_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_shared.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_stealth_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\bd_sp_zanovich_stealth.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_animals.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_explosions.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_gear.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_impacts.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_player.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\fx_ui.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\m_music.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\mp_dialog_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\mp_dialog.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\p_audio_cube.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_1304_om_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_1304_operationmarket.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_1500_fiveosink.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_1500_fos_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_kevin_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_kevin.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_prologue_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_prologue.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_ssf_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d00_thestorysofar.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_0847_coleshonor_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_0847_coleshonor.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1113_fbn_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1113_thefirstbadnews.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1302_wis_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1302_writteninstone.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1829_og_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1829_operationgarden.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1925_reunions_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_1925_reunions.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_formatthew_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d01_formatthew.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d02_2300_lost_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d02_2300_lost.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d02_2305_baptismoffire.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d02_2305_bof_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d03_1804_wehappyfewer.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d03_1804_whf_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d05_1057_bf_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d05_1057_blackfriday.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d05_1102_letterstolovedones.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d05_1102_ltlo_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d06_1500_hellshighway.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d06_1500_hh_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d07_thosewelost.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d07_twl_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d08_roadblocks_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d08_roadblocks.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d09_0808_tan_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d09_0808_toothandnail.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d09_1325_farewellisgoodbye.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\sd_d09_1325_fig_wav.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\v_plane.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\v_tank_panzer.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\v_tank_sherman.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\v_truck.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_30cal.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_88gun.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_bar.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_colt_m1911.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_g43.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_grenade.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_k98mauser.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_m1c_garand.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_m1carbine.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_m1garand.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_m3greasegun.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_mg42a.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_mp40d.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_p38.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_stg44.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_thompson.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_tommygun_1928.upk" />
+    <Package path="sumacgame\cookedpc\packages\audio\w_usbazooka.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_all_infantry_trees.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_all_infantry.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_all.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_allen.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_archetype.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_baker_young.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_baker.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_br_soldier.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_br_tanker.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_camera.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_campbell.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_civ_all.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_civilian_all.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_cole.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_connor.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_cooke.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_corrion.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_courtland.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_crew.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_dawson.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_de_88_e3.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_de_all_infantry.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_de_all_panzergrenadier.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_de_all_paratrooper.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_de_commander.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_doe.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_doran.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_franky.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_friar.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_garnett.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_german_1.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_german_2.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_german_3.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_german_4.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_gideon.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_greenshirt.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_hartsock.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_holden.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_jasper.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_kathrine.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_leggett.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_mac.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_marsh.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_mccreary.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_nicolaas.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_old_stuff.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_oneal.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_paddock.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_pieter.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_player_all.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_priest.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_redshirt_1.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_redshirt_2.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_redshirt_3.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_risner.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_roseli.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_sink.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_us_all_paratrooper.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\char_zanovich.upk" />
+    <Package path="sumacgame\cookedpc\packages\character\test_digin.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_aifireteam.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_aimoment.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_allegiances.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_attributes.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_awareness.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_camerafx.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_classifications.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_commandring.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_commands.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_contextuse.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_coverpriorities.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_deadlock.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_destructiblecover.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_dialoguelists.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_difficulty.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_firingbehavior.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_gametimeline.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_goreinfo.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_hitregions.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_items.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_lod.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_navmesh.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_player.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_projectiles.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_screenspace.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_skilllevels.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_stance.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_stanceanimals.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_suppression.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_vehicles.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_waterwading.upk" />
+    <Package path="sumacgame\cookedpc\packages\definitions\d_weapons.upk" />
+    <Package path="sumacgame\cookedpc\packages\localized\int\sensitive_assets.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_bf.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_bf2.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_bf3.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_bof.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_credits.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_fbn.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_fig.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_fm.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_fos.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_hh.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_hh2.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_hospital.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_kevin.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_lost.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="5" />
+        <Object id="Menu\UI_Training_Invert\UI_Training_Invert_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_ltlo.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_menu.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_og.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\CheckpointMenu\CheckpointMenu_Preview" suffix="6" />
+        <Object id="workshop\tex_sign_fall_sale" suffix="1" />
+        <Object id="workshop\tex_sign_money_01" suffix="1" />
+        <Object id="workshop\tex_sign_money_02" suffix="1" />
+        <Object id="workshop\tex_sign_money_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_om.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\UI_Training_Training\UI_Training_Training_Preview" suffix="1" />
+        <Object id="Menu\UI_Training\UI_Training_Preview" suffix="1" />
+        <Object id="Menu\UI_TrainingP2\UI_TrainingP2_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_pro.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_reunions.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_roadblocks.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_ssf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_death_gun_dif" suffix="1" />
+        <Object id="Textures\tex_death_gun_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_tan.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\SpawnMenu\SpawnMenu_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_tan2.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_twl.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_whf.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_wis.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\SpawnMenu\SpawnMenu_Preview" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\mappackages\custom_wis2.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_bf.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_bof.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_fos.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_hh.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_og.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_om.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_tan.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_trh.upk" />
+    <Package path="sumacgame\cookedpc\packages\mappackages\extras_wis.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\amb_mp_all.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\char_archetype_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_frontend_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_lighthouse.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_destroyedtown.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_factory.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_industrial.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_lighthouse.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_staticmeshes.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_towncenter.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_mp_underground.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_multiplayerassets.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_multiplayericons.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_multiplayermaps.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_scoreboard_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_tacticalmapportraits_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_tacticalmaps_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_ui_mp.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GamespyOnly\GamespyLoginUI\GamespyLoginUI_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_ui_mpskin.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_vehicle_archetype_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\multiplayer\p_vehicle_mp.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_animals.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_buildings_field.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_buildings_industrial.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_buildings_rural.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_buildings_urban.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_church.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_decals.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_deco.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_effect_impact.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_effect_levels.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_effect_screen.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_effect.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_fence.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_foliage.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_font_gbx.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_frontend_art.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_frontend_skin.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_frontend.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_hospital_02.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_hospital.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_hud.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_interface_hud.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_light_functions.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_field.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_foliage_vine02" suffix="1" />
+        <Object id="Textures\tex_foliage_vine02_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_mat_hospital_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_hospital_tile_floor_checker_01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_mat_hospital.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_industrial.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_interior.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_rural.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_urban_2.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_mat_urban.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Path_01_N" suffix="1" />
+        <Object id="Textures\tex_uber_metal" suffix="1" />
+        <Object id="Textures\tex_uber_metal_nrm" suffix="1" />
+        <Object id="Textures\tex_wall01_dif" suffix="1" />
+        <Object id="Textures\tex_Wall01_nrm" suffix="1" />
+        <Object id="Textures\tex_wall02_dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_military_de.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_military_us.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_normandy.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_objectives.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_physical_material.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_post_process.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_props_carl.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_props_civilian.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_props_field.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_carblocker_dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_industrial_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_cabinets_cover_dif" suffix="1" />
+        <Object id="Textures\tex_cabinets_cover_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_industrial.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_barrel_nrm" suffix="1" />
+        <Object id="Textures\tex_shadows_dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_interior.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_staircase_dif" suffix="1" />
+        <Object id="Textures\tex_staircase_nrm" suffix="1" />
+        <Object id="Textures\tex_Work_Bench_b_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_rural.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_bottle_br_01a_nrm" suffix="1" />
+        <Object id="Textures\tex_hedge_dugout_diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_urban_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_iron_fence_01_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_props_urban.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_bench_dif" suffix="1" />
+        <Object id="Textures\tex_bench_nrm" suffix="1" />
+        <Object id="Textures\tex_trash_dif" suffix="1" />
+        <Object id="Textures\tex_trash_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_road_crater.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_cobble_debris" suffix="1" />
+        <Object id="Textures\tex_cobble_debris_nrm" suffix="1" />
+        <Object id="Textures\tex_dirt_crater_dif" suffix="1" />
+        <Object id="Textures\tex_dirt_crater_nrm" suffix="1" />
+        <Object id="Textures\tex_herringbone_dif" suffix="1" />
+        <Object id="Textures\tex_herringbone_nrm" suffix="1" />
+        <Object id="Textures\tex_sidewalkbikepath_dif" suffix="1" />
+        <Object id="Textures\tex_sidewalkbikepath_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_roads.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_sandbags.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_sky.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_skybox.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_speedtree.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_tactical_map.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_terrain.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_train.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_ui_gearboxframework.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_ui.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Scenes\ChapterSelect\ChapterSelect_Preview" suffix="1" />
+        <Object id="Scenes\StandardLoading\StandardLoading_Preview" suffix="1" />
+        <Object id="Settings\BindKeys_PC\BindKeys_PC_Preview" suffix="1" />
+        <Object id="Settings\HUDSettings\HUDSettings_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_vehicle_archetype.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_vehicle_de.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_dutch_bus_Dif" suffix="1" />
+        <Object id="Textures\tex_dutch_bus_Nrm" suffix="1" />
+        <Object id="Textures\tex_dutch_truck_01_A_Dif" suffix="1" />
+        <Object id="Textures\tex_dutch_truck_01_B_Dif" suffix="1" />
+        <Object id="Textures\tex_dutch_truck_01_glass_Nrm" suffix="1" />
+        <Object id="Textures\tex_dutch_truck_02_B_Dif" suffix="1" />
+        <Object id="Textures\tex_four_wheel_cart_Dif" suffix="1" />
+        <Object id="Textures\tex_four_wheeled_cart_Nrm" suffix="1" />
+        <Object id="Textures\tex_truck_02_A_Dif" suffix="1" />
+        <Object id="Textures\tex_two_wheeled_cart_diff" suffix="1" />
+        <Object id="Textures\tex_two_wheeled_cart_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_vehicle_debris.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_vehicle_us.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_jeepwillys_Diff" suffix="1" />
+        <Object id="Textures\tex_jeepwillys_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_vehicle.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_bike_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_view_model_de.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_view_model_us.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_US_M1919a4_bipod_diff" suffix="1" />
+        <Object id="Textures\tex_US_M1919a4_bipod_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_volumetric_lighting.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_walls.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tex_concrete_dif" suffix="1" />
+        <Object id="Textures\tex_concrete_nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sumacgame\cookedpc\packages\p_weapons.upk" />
+    <Package path="sumacgame\cookedpc\packages\p_wiretech.upk" />
+    <Package path="sumacgame\cookedpc\packages\sumaceditor.upk" />
+    <Package path="sumacgame\cookedpc\packages\vehicles\p_us_c47.upk" />
+    <Package path="sumacgame\cookedpc\packages\vehicles\p_us_jeeps.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_destroyedtown_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_destroyedtown.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_factory_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_factory.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_industrial_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_industrial.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_lighthouse_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_lighthouse.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_towncenter_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_towncenter.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_underground_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\multiplayer\mp_underground.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\05_s_ssf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\05_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\10_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\20_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\30_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\40_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\50_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\60_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\70_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\80_s_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\00_storysofar\p_ssf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\02_prologue\10_s_prologue.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\02_prologue\l_pro.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\02_prologue\master_prologue.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\02_prologue\seq_prologue_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\02_prologue\seq_prologue.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\10_s_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\15_s_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\20_s_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\5_s_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\seq_d00_1200_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\seq_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1200\trans_d00_1200.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\00_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\00_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\10_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\10_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\10_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\20_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\20_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\20_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\30_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\30_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\30_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\35_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\35_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\35_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\40_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\40_lod_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\40_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\50_c_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\50_c_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\50_s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\a_01_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\a_02_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\a_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\l_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\p_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\s_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_dropzone_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_dropzone_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_flak_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_glidercrash_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_glidercrash_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_intro_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_intro_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_nicolaas_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_nicolaas_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_outro_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_outro_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\seq_windmillrecon_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\transition\10_c_trans_om_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\transition\10_c_trans_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\transition\trans_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1300\w_om.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\05_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\10_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\10_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\10_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\15_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\20_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\20_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\21_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\21_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\22_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\30_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\30_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\30_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\31_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\32_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\40_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\40_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\41_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\42_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\43_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\44_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\45_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\46_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\49_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\50_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\50_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\50_river_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\50_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\51_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\52_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\53_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\55_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\55_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\60_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\60_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\60_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\70_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\70_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\70_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\80_c_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\80_lod_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\80_s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_88area_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_backyard_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_barn_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_manor_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\a_street_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\p_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\s_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_10_hartsock_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_bridgeex_fos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_bridgeex_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_jeepride_fos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_jeepride_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_manorscare_fos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_manorscare_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_outro_fos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_outro_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_priest_fos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\seq_priest_fos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\transition\10_c_kevin_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\transition\10_c_kevin.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\transition\20_s_kevin.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d00_1500\transition\p_kevin.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1100\10_c_fbn_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1100\10_c_fbn.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1100\20_s_fbn.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1100\p_fbn.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\00_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\00_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\11_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\11_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\11_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\12_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\13_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\13_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\14_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\14_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\15_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\16_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\19_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\19_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\20_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\20_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\20_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\25_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\25_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\28_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\29_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\29_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\30_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\30_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\30_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\31_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\35_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\35_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\35_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\36_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\40_c_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\41_s_lod_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\41_s_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\a_church_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\a_graveyard_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\a_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\l_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\light_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\p_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_churchentry_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_churchentry_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_churchoutro_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_churchoutro_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_churchstairs_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_intro_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_intro_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_leggett_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_leggett_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_outro_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\seq_outro_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\transition\10_c_transition_wis_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\transition\10_c_transition_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\transition\transition_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1300\w_wis.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\10_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\10_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\10_s_reunions.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\20_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\20_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\20_s_reunions.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\25_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\30_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\30_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\31_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\35_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\35_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\40_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\40_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\5_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\50_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\50_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\51_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\52_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\53_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\54_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\55_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\56_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\57_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\60_c_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\60_c_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\60_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\61_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\65_s_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\a_10_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\a_20_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\a_30_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\a_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\master_reunions.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\p_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_flat_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_flat_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_intro_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_intro_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_lift_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_lift_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_outro_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_outro_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_planes_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_reunions_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_reunions.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_roof_og_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_roof_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_sniper_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\seq_sniperplanes_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\w_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\z_00_town_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\z_01_town_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\z_02_town_terrain_og.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\z_sw_map_01_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d01_1830\z_sw_map_01.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_1800\10_s_formatt.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_1800\20_s_formatt.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_1800\master_formatt.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_1800\seq_formatt_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_1800\seq_formatt.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\10_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\10_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\12_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\15_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\20_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\21_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\25_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\25_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\30_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\35_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\40_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\40_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\41_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\43_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\44_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\44_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\45_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\45_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\45_w_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\46_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\47_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\48_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\49_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\50_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\50_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\51_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\52_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\53_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\54_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\55_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\55_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\56_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\60_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\60_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\61_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\62_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\63_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\65_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\66_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\69_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\70_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\70_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\71_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\72_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\74_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\75_c_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\75_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\77_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\78_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\79_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\80_s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_25s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_40s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_60s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_70s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_75s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\a_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\p_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\s_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_fireescape_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_hartsocksquad_bof_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_hartsocksquad_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_introscene_bof_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_introscene_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_planescene_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_trans_apartment_bof_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\seq_trans_apartment_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\05_c_whf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\05_c_whf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\05_s_whf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\05_s_whf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\10_s_whf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\20_s_whf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\transition\p_whf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2300\w_bof.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\00_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\05_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\05_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\05_s_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\10_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\10_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\10_s_lightfix.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\10_s_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\12_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\15_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\15_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\18_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\20_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\20_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\20_s_lightfix.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\29_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\30_c_2_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\30_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\30_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\31_c_hospital_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\31_c_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\31_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\31_s_lightfix.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\32_s_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\40_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\50_c_2_hospital_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\50_c_2_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\50_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\51_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\52_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_05_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_10_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_20_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_30_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_50_s_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\a_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\p_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\p_m_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_frankyscene_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_frankyscene.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_intro_hos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_intro_lost_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_intro_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_outro_hos_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_outro_hos.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\seq_outro_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\skybox_lost_50s.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\skybox_lost.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d02_2330\w_hospital.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\10_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\10_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\10_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\12_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\12_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\15_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\15_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\15_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\17_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\20_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\20_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\20_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\20_s_road_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\21_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\22_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\23_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\25_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\25_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\30_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\30_road_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\30_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\30_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\31_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\32_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\33_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\34_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\35_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\35_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\35_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\36_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\40_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\40_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\40_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\45_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\45_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\50_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\50_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\50_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\52_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\53_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\53_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\54_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\54_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\55_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\55_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\60_c_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\60_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\60_s_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\65_s_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\a_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\a_bf2.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\a_bf3.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\church_lod_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\light_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\p_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_intro_bf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_intro_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_midtro_bf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_midtro_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_outro_bf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_outro_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_outro2_bf_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_outro2_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\seq_outro3_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\transition\10_c_ltlo_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\transition\10_c_ltlo.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\transition\10_s_ltlo.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\transition\p_ltlo.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d05_1100\w_bf.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\00_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\10_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\10_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\10_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\15_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\15_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\15_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\18_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\20_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\20_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\20_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\22_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\30_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\30_s_detail_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\30_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\30_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\35_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\40_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\40_c_navmesh_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\40_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\40_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\42_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\42_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\45_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\46_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\46_s_detail_2_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\46_s_detail_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\46_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\46_s_interior_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\48_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\50_c_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\50_s_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\50_s_lod_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_88mmgunassault_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_againstallodds_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_ontheprowl_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_takingthefarm_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_trainstation_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\a_waterunderthebridge_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\p_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\pathcutter_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_intro_hh_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_intro_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_midtro_hh_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_midtro_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_outro_hh_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\seq_outro_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\10_s_medic_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\10_s_medic.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\10_s_twl_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\10_s_twl.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\20_s_twl.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\p_medic.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\transition\p_twl.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d06_1500\w_hh.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\05_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\05_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\10_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\10_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\10_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\15_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\20_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\20_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\20_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\30_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\30_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\30_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\31_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\32_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\40_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\41_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\41-42_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\42_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\43_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\43_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\44_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\44_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\45_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\45_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\50_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\50_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\50_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\60_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\60_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\60_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\61_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\62_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\70_c_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\70_s_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\70_tan_lod.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan_10.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan_20.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan_40.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan_intro.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan_tank.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\a_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\l_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\p_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_macscene_tan_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_macscene_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_openingscene_tan_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_openingscene_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_outro_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_windmill_tan_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\seq_windmill_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\skybox1_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\skybox2_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\skybox3_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\skybox4_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\transition\seq_trans_tan_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\transition\seq_trans_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\transition\trans_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_0830\w_tan.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\00_deu_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\00_esn_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\00_fra_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\00_int_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\00_ita_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\05_s_fig_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\05_s_fig.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\10_s_fig.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\20_s_fig.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\30_s_fig.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\p_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\p_fig.gbxmap" />
+    <Package path="sumacgame\cookedpc\published_maps\game\singleplayer\d09_1325\seq_credits.gbxmap" />
+    <Package path="sumacgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="sumacgame\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="sumacgame\cookedpc\startup_int.upk" />
+    <Package path="sumacgame\cookedpc\sumacgame_loc_int.upk" />
+    <Package path="sumacgame\cookedpc\sumacgame.u" />
+    <Package path="sumacgame\cookedpc\sumacgamemp.u" />
+    <Package path="sumacgame\cookedpc\sumacgamempnative.u" />
+    <Package path="sumacgame\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="sumacgame\cookedpc\unrealed.u" />
+  </Packages>
+</IdRemapping>

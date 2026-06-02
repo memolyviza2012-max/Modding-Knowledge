@@ -1,0 +1,353 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\ambcreatureanims.ukx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skins\Jfish21" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="animations\envanims.ukx" />
+    <Package path="animations\shrekcharacters.ukx" />
+    <Package path="animations\storybook_anims.ukx" />
+    <Package path="maps\1_shreks_swamp.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\10_castle_siege.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\11_fgm_battle.unr" />
+    <Package path="maps\2_carriage_hijack.unr" />
+    <Package path="maps\3_the_hunt_part1.unr" />
+    <Package path="maps\3_the_hunt_part2.unr" />
+    <Package path="maps\3_the_hunt_part3.unr" />
+    <Package path="maps\3_the_hunt_part4.unr" />
+    <Package path="maps\4_fgm_office.unr" />
+    <Package path="maps\4_fgm_pib.unr" />
+    <Package path="maps\5_fgm_donkey.unr" />
+    <Package path="maps\6_hamlet_end.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\hamletGrass" suffix="1" />
+        <Object id="Alphamaps\hamletPath" suffix="1" />
+        <Object id="Alphamaps\hamletRock" suffix="1" />
+        <Object id="Heightmaps\Hamlet" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\6_hamlet_mine.unr" />
+    <Package path="maps\6_hamlet.unr" />
+    <Package path="maps\7_prison_donkey.unr" />
+    <Package path="maps\8_prison_pib.unr" />
+    <Package path="maps\9_prison_shrek.unr" />
+    <Package path="maps\beanstalk_bonus_dawn.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\beanstalk_bonus_knight.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\beanstalk_bonus.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\book_frontend.unr" />
+    <Package path="maps\book_story_1.unr" />
+    <Package path="maps\book_story_2.unr" />
+    <Package path="maps\book_story_3.unr" />
+    <Package path="maps\book_story_4.unr" />
+    <Package path="maps\book_storybook.unr" />
+    <Package path="maps\credits.unr" />
+    <Package path="maps\entry.unr" />
+    <Package path="maps\sh2_preamble.unr" />
+    <Package path="sounds\alldialog.uax" />
+    <Package path="sounds\beanstalk_sfx.uax" />
+    <Package path="sounds\blank.uax" />
+    <Package path="sounds\donkey.uax" />
+    <Package path="sounds\elves.uax" />
+    <Package path="sounds\enviroment.uax" />
+    <Package path="sounds\execdemo.uax" />
+    <Package path="sounds\fgm_battle.uax" />
+    <Package path="sounds\fgm_laboratory.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\hamlet.uax" />
+    <Package path="sounds\items.uax" />
+    <Package path="sounds\knights.uax" />
+    <Package path="sounds\mongo.uax" />
+    <Package path="sounds\peasants.uax" />
+    <Package path="sounds\potions.uax" />
+    <Package path="sounds\prisondonkey.uax" />
+    <Package path="sounds\pussinboots.uax" />
+    <Package path="sounds\rats.uax" />
+    <Package path="sounds\shrek.uax" />
+    <Package path="sounds\soundeffects.uax" />
+    <Package path="sounds\steed.uax" />
+    <Package path="sounds\swamp.uax" />
+    <Package path="sounds\the_hunt.uax" />
+    <Package path="sounds\the_seige.uax" />
+    <Package path="sounds\ui.uax" />
+    <Package path="staticmeshes\1_shreks_swamp_sm.usx" />
+    <Package path="staticmeshes\10_castle_siege_sm.usx" />
+    <Package path="staticmeshes\11_fgm_battle_sm.usx" />
+    <Package path="staticmeshes\2_carriage_hijack_sm.usx" />
+    <Package path="staticmeshes\3_the_hunt_sm.usx" />
+    <Package path="staticmeshes\4_fgm_office_sm.usx" />
+    <Package path="staticmeshes\4_fgm_pib_sm.usx" />
+    <Package path="staticmeshes\5_fgm_donkey_sm.usx" />
+    <Package path="staticmeshes\6_hamlet_sm.usx" />
+    <Package path="staticmeshes\7_prison_donkey_sm.usx" />
+    <Package path="staticmeshes\8_prison_pib_sm.usx" />
+    <Package path="staticmeshes\9_prison_shrek_sm.usx" />
+    <Package path="staticmeshes\ambush_sm.usx" />
+    <Package path="staticmeshes\beanstalk_sm.usx" />
+    <Package path="staticmeshes\character_props.usx" />
+    <Package path="staticmeshes\pete_emitter_sm.usx" />
+    <Package path="staticmeshes\poisnap_sm.usx" />
+    <Package path="staticmeshes\prison_movers_ar.usx" />
+    <Package path="staticmeshes\shk2_techobjects.usx" />
+    <Package path="staticmeshes\shrek_skydomes.usx" />
+    <Package path="staticmeshes\shrek2_efx_sm.usx" />
+    <Package path="staticmeshes\shrek2_karma_sm.usx" />
+    <Package path="staticmeshes\shrek2_signs_sm.usx" />
+    <Package path="staticmeshes\shrek2_univ_sm.usx" />
+    <Package path="staticmeshes\storybook_sm.usx" />
+    <Package path="staticmeshes\swamp_sm.usx" />
+    <Package path="system\ambientcreatures.u" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\kwgame.u" />
+    <Package path="system\shgame.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\1_shreks_swamp_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="grass_tall" suffix="1" />
+        <Object id="grnd_grass" suffix="1" />
+        <Object id="tree_5" suffix="1" />
+        <Object id="vine_deco_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\10_castle_siege_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bridge" suffix="1" />
+        <Object id="TreePineQuad1_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\11_fgm_battle_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="castle_fence" suffix="1" />
+        <Object id="skybox_night_blue" suffix="1" />
+        <Object id="Stonelite_Castle" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\2_carriage_hijack_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cart" suffix="1" />
+        <Object id="dirt" suffix="1" />
+        <Object id="fern_2" suffix="1" />
+        <Object id="plant_aloe" suffix="1" />
+        <Object id="redwood_tree" suffix="1" />
+        <Object id="TreePineQuad1_SM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\3_the_hunt_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bush_red" suffix="1" />
+        <Object id="fern_2" suffix="2" />
+        <Object id="grass_leaves" suffix="1" />
+        <Object id="grass_tall" suffix="2" />
+        <Object id="Log" suffix="1" />
+        <Object id="tree_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\4_fgm_office_tx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="curtain" suffix="1" />
+        <Object id="floor_1" suffix="1" />
+        <Object id="Wall" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\4_fgm_pib_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="hallway_ceiling" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\5_fgm_donkey_tex.utx" />
+    <Package path="textures\6_hamlet_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bench" suffix="1" />
+        <Object id="fern_2" suffix="3" />
+        <Object id="Log" suffix="1" />
+        <Object id="log_end" suffix="1" />
+        <Object id="moon" suffix="1" />
+        <Object id="outhouse" suffix="1" />
+        <Object id="Peasant_tx" suffix="1" />
+        <Object id="red_bush" suffix="1" />
+        <Object id="rock_moss" suffix="1" />
+        <Object id="sky" suffix="1" />
+        <Object id="sky_clouds" suffix="1" />
+        <Object id="skybox_clouds" suffix="1" />
+        <Object id="tree_1_leaves" suffix="1" />
+        <Object id="Tree_redwood" suffix="1" />
+        <Object id="tree_swamp_willow_leaves" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\7_prison_donkey_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Beam" suffix="1" />
+        <Object id="bucket_water" suffix="1" />
+        <Object id="Grate" suffix="1" />
+        <Object id="LanternB" suffix="1" />
+        <Object id="moon" suffix="2" />
+        <Object id="skybox_clouds" suffix="2" />
+        <Object id="vent_inside" suffix="1" />
+        <Object id="vent_spray" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\8_prison_pib_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="water_sewer_clean" suffix="1" />
+        <Object id="water_sewer_clean_alpha" suffix="1" />
+        <Object id="water_sewer_death_aplha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\9_prison_shrek_tex.utx" />
+    <Package path="textures\ambcreaturestx.utx" />
+    <Package path="textures\ambush_tx.utx" />
+    <Package path="textures\beanstalk.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Environment\Beans" suffix="1" />
+        <Object id="Environment\beans_hay" suffix="1" />
+        <Object id="Environment\Beanstalk" suffix="1" />
+        <Object id="Environment\bridge" suffix="1" />
+        <Object id="Environment\Cart" suffix="1" />
+        <Object id="Environment\clouds" suffix="1" />
+        <Object id="Environment\clouds2" suffix="1" />
+        <Object id="Environment\farm_house_2" suffix="1" />
+        <Object id="Environment\grass_1" suffix="1" />
+        <Object id="Environment\grass_2" suffix="1" />
+        <Object id="Environment\grass_patch" suffix="1" />
+        <Object id="Environment\light_green_bush" suffix="1" />
+        <Object id="Environment\red_bush" suffix="1" />
+        <Object id="Environment\Rock" suffix="1" />
+        <Object id="Environment\water" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\character_props_tx.utx" />
+    <Package path="textures\envanimstx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="laser_base" suffix="1" />
+        <Object id="PaddyWagon_Tpage_tx" suffix="1" />
+        <Object id="platform_junk" suffix="1" />
+        <Object id="Switch" suffix="1" />
+        <Object id="Switch_Shrek_Prison" suffix="1" />
+        <Object id="tree_1" suffix="1" />
+        <Object id="tree_2" suffix="2" />
+        <Object id="vent_spray" suffix="2" />
+        <Object id="Yelcab_LoPoly_TPage_tx" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\fgm_potion_menu.utx" />
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\kwmenu.utx" />
+    <Package path="textures\palettes.utx" />
+    <Package path="textures\pete_emitter.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\pib_2danims.utx" />
+    <Package path="textures\poisnap_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="barrell1" suffix="1" />
+        <Object id="Beam" suffix="2" />
+        <Object id="bench" suffix="2" />
+        <Object id="bottle_1" suffix="1" />
+        <Object id="bottle_2" suffix="1" />
+        <Object id="bottle_3" suffix="1" />
+        <Object id="cauldron" suffix="1" />
+        <Object id="ceiling" suffix="1" />
+        <Object id="floor_1" suffix="2" />
+        <Object id="piano" suffix="1" />
+        <Object id="table_rectangular" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sh_fonts.utx" />
+    <Package path="textures\sh_hud.utx" />
+    <Package path="textures\sh_menu.utx" />
+    <Package path="textures\shcharacters.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Frog_tx" suffix="1" />
+        <Object id="handsome_tx" suffix="1" />
+        <Object id="knight1" suffix="1" />
+        <Object id="knight2" suffix="1" />
+        <Object id="Rope" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\shrek2_efx.utx" />
+    <Package path="textures\shrek2_karma_tx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="gate_2_base" suffix="1" />
+        <Object id="tower_flat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\shrek2_signs_tx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Large_Arrow" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\shrek2_techdemo.utx" />
+    <Package path="textures\shrek2_univ_tex.utx" />
+    <Package path="textures\storybook_tx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="book_cover" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\storybookanimtx.utx" />
+    <Package path="textures\swamp_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ground_dark" suffix="1" />
+        <Object id="Ground_medium" suffix="1" />
+        <Object id="Ground_Mud" suffix="1" />
+        <Object id="Home_combined" suffix="1" />
+        <Object id="Home_tree2" suffix="1" />
+        <Object id="water_base" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\terrain_hunt1.utx" />
+    <Package path="textures\terrain_hunt2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\justleaves" suffix="1" />
+        <Object id="Alphamaps\quicksand" suffix="1" />
+        <Object id="Heightmaps3\dTest01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\terrain_hunt3.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\justleaves" suffix="2" />
+        <Object id="Alphamaps\quicksand" suffix="2" />
+        <Object id="Heightmaps3\dTest01" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\terrain_hunt4.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\justleaves" suffix="3" />
+        <Object id="Alphamaps\quicksand" suffix="3" />
+        <Object id="Alphamaps\water" suffix="1" />
+        <Object id="Heightmaps3\dTest01" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="textures\ut2003fonts.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\warfarefonts.utx" />
+  </Packages>
+</IdRemapping>

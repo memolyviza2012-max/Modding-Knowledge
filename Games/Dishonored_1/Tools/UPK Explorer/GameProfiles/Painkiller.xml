@@ -1,0 +1,47 @@
+﻿<Game packageFileVersion="860" packageLicenseeVersion="0" TFCMappingFileName="Painkiller" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="PKHDGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="DLC 1" TFCMappingFileName="DLC01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC1\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="DLC 2" TFCMappingFileName="DLC02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+			<PackageFolder path="DLC\PKHDGameDLC2\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="2000" />
+		</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 3" TFCMappingFileName="DLC03">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC3\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="3000" />
+			</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 4" TFCMappingFileName="DLC04">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC4\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="4000" />
+			</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 5" TFCMappingFileName="DLC05">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC5\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="5000" />
+			</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 6" TFCMappingFileName="DLC06">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC6\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="6000" />
+			</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 7" TFCMappingFileName="DLC07">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLC7\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="7000" />
+			</PackageFolders>
+	</DLC>
+		<DLC displayName="DLC 8" TFCMappingFileName="DLC08">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\PKHDGameDLCLABCITY\Content\PKHDGame\CookedPCConsole" customTFCStartIndex="8000" />
+			</PackageFolders>
+	</DLC>
+	</DLCs>	
+</Game>

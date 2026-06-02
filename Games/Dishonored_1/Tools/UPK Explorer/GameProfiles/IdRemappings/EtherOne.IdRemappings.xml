@@ -1,0 +1,180 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\ether\levels\alternate_ending\carehome_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\alternate_ending\carehome.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\carehome_audio.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_audio_harbour.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_demo_audio.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_industrialarea_audio_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_industrialarea_audio.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_village_audio_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\loss_village_audio.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\prologue_audio_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\audio\prologue_audio.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_01_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_01.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_02_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_02.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_03_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_03.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04_jeansroom.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04_lighthouse.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04_orphanage_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04_orphanage.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04_snowylandscape.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\corememories\corememory_04.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\chair_unwravel.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\endsequence_part1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\endsequence_part1.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\endsequence_part2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\endsequence_part2.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\endsequence_part3.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\lighthouse_endsequence_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\endsequence\lighthouse_endsequence.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\demo_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\demo_master.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\loss_demomine_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\loss_demomine.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\loss_demopinwheel.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\loss_extraction_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\demo\loss_extraction.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\harbour\harbour_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\harbour\harbour_master.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\loss\harbour\loss_harbour_background.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\industrial\industrial_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\industrial\industrial_master.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_19" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\loss\industrial\loss_industrial_background.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\industrial\loss_industrialarea_bighouse.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\industrial\loss_industrialarea_lower.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\loss_case_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\loss_case.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\loss_smokingroom.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_deadminers_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_deadminers.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_piston_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_piston.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_restorer_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\loss_mines_restorer.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\mine_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\mines\mine_master.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\village\loss_village_background.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\village\village_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\loss\village\village_master.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\jeanshouse_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\jeanshouse_master.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\prologuemidpoint_extraction.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\prologuemidpoint_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\prologuemidpoint_master.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\midpoint\prologuemidpoint_mine.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\misc\etherentry.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\misc\etherlauncher.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\prologue\prologue_master_loc_int.upk" />
+    <Package path="udkgame\cookedpc\ether\levels\prologue\prologue_master.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_blank.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_corememory.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_devlin.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_endsequence.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_harbour.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_industrial.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_mine.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_prologue.udk" />
+    <Package path="udkgame\cookedpc\ether\levels\titlemaps\title_village.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_3" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\shared\udkfonts.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

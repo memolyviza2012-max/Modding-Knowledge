@@ -1,0 +1,2509 @@
+UPK Explorer Version 2.5.2.0
+- Release version
+
+UPK Explorer Version 2.5.1.19
+- Added support for Star Wars First Assault (X360)
+
+UPK Explorer Version 2.5.1.18
+- Implemented profile option to delete .uncompressed_size files (Alien Colonial Marines)
+
+UPK Explorer Version 2.5.1.17
+- Fixed bytecode script validation being included in class/state/struct/function parser validation
+
+UPK Explorer Version 2.5.1.16
+- Implemented native properties for Class class
+- Implemented native properties for State class
+- Implemented native properties for ScriptStruct class
+- Implemented native properties for Struct class
+- Implemented native properties for Function class
+- Implemented native properties for Property classes
+- Implemented native properties for Enum class
+- Implemented native properties for Const class
+- Implemented native properties for Field class
+
+UPK Explorer Version 2.5.1.15
+- Implemented native properties for UE3 skeletal meshes
+- Implemented native properties for UE2 skeletal meshes
+- Implemented native properties tab for static meshes
+
+UPK Explorer Version 2.5.1.14
+- Property collections are now invalidated if all properties have validation errors
+- Added name and reference validation to object property parser
+
+UPK Explorer Version 2.5.1.13
+- Fixed regression in end offset parser validation
+
+UPK Explorer Version 2.5.1.12
+- Fixed incorrect end offset used in property parser validation
+- Fixed broken formating in property parser logs
+
+UPK Explorer Version 2.5.1.11
+- Object editor: added property collection parser logs for unmanaged objects in dedicated tab (development mode)
+- Object editor: added parser logs to properties that fail to parse and revert to binary data (development mode)
+- Fixed an unhandled error in the atomic struct property parser that could cause the entire object property collection to fail
+
+UPK Explorer Version 2.5.1.10
+- Texture import: fixed empty first mip when texture size is smaller than pixel format block size
+- Texture import: fixed incorrect mip count validation for non UI textures with only 1 mip
+
+UPK Explorer Version 2.5.1.9
+- Added support for TextureFlipBook
+- Object editor: Fixed missing DDS export button for textures with empty mips
+
+UPK Explorer Version 2.5.1.8
+- Added Class support for Arkham Origins Online (PC)
+- Added Class support for Batman Gangland (PC)
+
+UPK Explorer Version 2.5.1.7
+- Added Class support for Arkham City (PC)
+
+UPK Explorer Version 2.5.1.5
+- Package patch: Added support for imports table entry updates
+
+UPK Explorer Version 2.5.1.4
+- Added support for LightmapTexture2D
+- Added support for ShadowmapTexture2D
+
+UPK Explorer Version 2.5.1.3
+- Object editor: Added dds export for Texture2D objects
+
+UPK Explorer Version 2.5.1.2
+- Object editor: Added dds import over new Texture2D objects
+- Added support for Sound (UE2) on PS4 and Swith platforms
+
+UPK Explorer Version 2.5.1.1
+- Object editor: Added support for editing Materials Id native property
+- Object editor: Added support for MwyUIMovieData as .swf
+
+UPK Explorer Version 2.5.1.0
+- Release version
+
+UPK Explorer Version 2.5.0.6
+- Added support for PF_FloatRGBA pixel format
+
+UPK Explorer Version 2.5.0.5
+- Added support for custom tfc file extension
+
+UPK Explorer Version 2.5.0.4
+- Fixed bug where new blocks would not be taken into account when writing updated tables
+
+UPK Explorer Version 2.5.0.2
+- Fixed broken class parser for Monday Night Combat v638.0
+
+UPK Explorer Version 2.5.0.1
+- Optimized package save: fixed bug where truncating the package would not properly remove compressed blocks
+- Fixed bug where legacy save package method would allow expand tables for UE2 games
+- Updated BCnEncoder.Net to v2.2.1
+- Updated BCnEncoder.Net.ImageSharp to v1.1.2
+- Updated SixLabors.ImageSharp to v3.1.12
+
+UPK Explorer Version 2.5.0.0
+- Release version
+
+UPK Explorer Version 2.4.14.20
+- Added support for Army of Two - The 40th Day (X360)
+- Optimized package space option is now disabled by default in mod's game profile for UE2 games
+
+UPK Explorer Version 2.4.14.19
+- Fixed error where zlib compressed chunk would not decompress to its full size if it ends with empty data (Bioshock)
+- Optimized package save: fixed bug where export table could be cleared in games with compact indices (UE2)
+
+UPK Explorer Version 2.4.14.18
+- Added support for Rush'N Attack: Ex-Patriot (X360/PS3)
+- Added support for Sudden Attack 2 (PC)
+
+UPK Explorer Version 2.4.14.17
+- Open game: Added button to load changes from a modified version of the package (experimental)
+- Package patch recovery: fixed bug where import/export references would not be properly registered
+
+UPK Explorer Version 2.4.14.16
+- Included "Object export binary file format" in Documents folder
+- Added scrollbar to descriptor's class hierarchy
+
+UPK Explorer Version 2.4.14.15
+- Packaged updater: fixed bug with moved object offsets would not be updated properly in optimized save algorithm
+
+UPK Explorer Version 2.4.14.14
+- Enabled experimental package size optimization option for games with compact indices (UE2)
+- Packaged updater: fixed bug with deleted objects in optimized save algorithm
+
+UPK Explorer Version 2.4.14.13
+- Fixed regression where the object exports table would not be properly updated for games with compact indices (UE2)
+- Implemented package size optimization option (experimental)
+- Package updater: refactored clearing of unused table ranges
+
+UPK Explorer Version 2.4.14.12
+- Fixed error when shifting a new object during package save
+
+UPK Explorer Version 2.4.14.11
+- Package updater: refactored clearing of unused data ranges
+
+UPK Explorer Version 2.4.14.10
+- Fixed package corruption due to moved table clearing their original data range at the incorrect package offset
+
+UPK Explorer Version 2.4.14.9
+- Data blocks tab: excluded objects with size = 0
+- Fixed error due to new objects trying to clear their original data range
+
+UPK Explorer Version 2.4.14.8
+- Fixed table offsets not being incremented properly when tables are expanded
+
+UPK Explorer Version 2.4.14.7
+- Package updater refactoring
+
+UPK Explorer Version 2.4.14.6
+- Package updater refactoring
+
+UPK Explorer Version 2.4.14.5
+- Package updater refactoring
+- Table updater: Fixed bug with UE2 object export size
+
+UPK Explorer Version 2.4.14.4
+- Table updater refactoring
+
+UPK Explorer Version 2.4.14.2
+- Added custom bytecode support for Arkham Origins (PC)
+
+UPK Explorer Version 2.4.14.1
+- Added Class support for Arkham Origins (PC)
+- Added support for Delegate tagged properties
+
+UPK Explorer Version 2.4.14.0
+- Release version
+
+UPK Explorer Version 2.4.13.13
+- Added support for Let It Die v861.19 (PC)
+
+UPK Explorer Version 2.4.13.12
+- Added partial support for Paladins v893.0 (PC)
+- Added partial support for SMITE v893.0 (PC)
+- Added support for SafeObjectProperty (Paladins)
+- Fixed incorrect file extension for MSF audtio files
+
+UPK Explorer Version 2.4.13.11
+- Fixed incorrect item size and weight count in vertex arrays for Gears of War Reloaded v835.76 (PC)
+- Added support for SoundNodeWave on all consoles
+
+UPK Explorer Version 2.4.13.10
+- Added support for SoundNodeWave on PS3/PS4/Switch
+- Added support for StaticMeshes from UDK
+
+UPK Explorer Version 2.4.13.9
+- Added SkeletalMesh support for Gears of War Reloaded v835.76 (PC)
+
+UPK Explorer Version 2.4.13.8
+- Improved texture support for Star Wars: Republic Commando (UE2, PC)
+
+UPK Explorer Version 2.4.13.7
+- Added support for BinaryBlobJPEG (Mortal Kombat/Injustice)
+
+UPK Explorer Version 2.4.13.6
+- Added support for TextureMovie
+
+UPK Explorer Version 2.4.13.5
+- Added support for DecalMaterial
+- Improved class support for Alien Breed 1/2/3 (PC)
+- Improved class support for Global Ops Commando Libya (PC)
+- Improved class support for The Scourge Project (PC)
+- Improved class support for Section 8 (PC)
+
+UPK Explorer Version 2.4.13.4
+- Image preview: Fixed bug where the alpha channel checkbox would not update mips that were already loaded
+- Object editor: Fixed bug where editing a mesh section material would not update the preview
+- Added StaticMesh, Material and MIC support for Gears of War Reloaded v835.76 (PC)
+
+UPK Explorer Version 2.4.13.3
+- Improved ShaderCache compatibility for games with package version < 796
+- Added SkeletalMesh support for Legendary v567.39 (PC)
+- Added StaticMesh support for Destroy All Humans: Path of the Furon v455.90 (X360)
+
+UPK Explorer Version 2.4.13.2
+- FBX import: implemented error handling when triangle index count exceed max value for edges in older meshes
+- Implemented ShaderCache parser for Arkham City (PC)
+- Implemented ShaderCache parser for Arkham Origins Online (PC)
+
+UPK Explorer Version 2.4.13.1
+- Fixed broken generic struct property data size validation
+- Improved ShaderCache generic parser
+
+UPK Explorer Version 2.4.13.0
+- Release version
+
+UPK Explorer Version 2.4.12.13
+- Added support for SafeIntProperty (Dungeon Defenders)
+
+UPK Explorer Version 2.4.12.12
+- Bioshock 1/2/Remastered: Added support for package object creation
+- Fixed regression in material parser
+
+UPK Explorer Version 2.4.12.11
+- Development mode: DataBlocks tab now show different color coded data types
+- Development mode: DataBlocks tab now splits data by compressed chunk blocks
+- Development mode: DataBlocks tab now shows empty spaces in the package
+
+UPK Explorer Version 2.4.12.10
+- Fixed parser validation regression introduced in 2.4.12.1
+
+UPK Explorer Version 2.4.12.9
+- Improved Bioshock 1/2/Remastered property support
+
+UPK Explorer Version 2.4.12.8
+- Object import: Disabled material expression texture validation to prevent bug during import
+- Added support for Outlast 2 demo (v882.51)
+
+UPK Explorer Version 2.4.12.7
+- Added support for ShaderCache (standard parser)
+- Object editor: Fixed not implemented error with array of linear color
+
+UPK Explorer Version 2.4.12.6
+- Object editor: added native properties tab to Material
+- Object editor: added native properties tab to MaterialInstanceConstant
+
+UPK Explorer Version 2.4.12.5
+- Object export/import: fixed FString null ref
+
+UPK Explorer Version 2.4.12.4
+- Game patch: fixed error for games with unicode FString as default (Bioshock 1/2)
+
+UPK Explorer Version 2.4.12.3
+- Disabled property creation during texture injection for Arkham City (WiiU)
+
+UPK Explorer Version 2.4.12.2
+- Game patch: fixed error for games that use compact indices (UE2/UE2.5)
+
+UPK Explorer Version 2.4.12.1
+- Fixed performance issue where and invalid object parser could keep reading beyond the object end offset
+
+UPK Explorer Version 2.4.12.0
+- Release version
+
+UPK Explorer Version 2.4.11.6
+- Added support for non atomic structures within atomic structures
+
+UPK Explorer Version 2.4.11.5
+- Added Skeletal mesh support for Homefront v576.100 (PC)
+- Added support for DynLoadObjectProperty (Might and Magic Heroes VII)
+
+UPK Explorer Version 2.4.11.4
+- Added support for Outlast 2 TFC files
+- Added support for Might and Magic Heroes VII (PC)
+- Monster Madness: added support for StaticMesh from the editor
+
+UPK Explorer Version 2.4.11.3
+- Object editor: Fixed null ref when trying to add a property containing an FMatrix or FBox
+- Mesh preview: Removed MIC resolving using StaticMeshComponent or SkeletalMeshComponent (performance issues)
+
+UPK Explorer Version 2.4.11.2
+- Mesh preview: improved MIC resolving performance when using StaticMeshComponent or SkeletalMeshComponent objects
+- Mesh preview: disabled MIC resolving using StaticMeshComponent or SkeletalMeshComponent objects for Arkham games
+- Roboblitz: added support for StaticMesh from the editor
+
+UPK Explorer Version 2.4.11.1
+- Mesh preview: Null MICs are now resolved using matching StaticMeshComponent or SkeletalMeshComponent objects
+- Mesh preview: If a diffuse texture cannot be resolved using other criteria, any texture found in TextureParameterValues/TextureSetParameterValues is used instead.
+
+UPK Explorer Version 2.4.11.0
+- Release version
+
+UPK Explorer Version 2.4.10.5
+- Added support for The Bourne Conspiracy v511.39 (X360/PS3)
+
+UPK Explorer Version 2.4.10.4
+- Added support for interface property as object reference
+- Added support for interface property as GUID (Arkham games)
+- Object editor: fixed bug with importing a child texture with a remapped Id
+
+UPK Explorer Version 2.4.10.3
+- Object editor: Added support for JsonRef properties (Gigantic: Rampage Edition)
+- Object editor: Added support for arrays of JsonRef properties (Gigantic: Rampage Edition)
+- Added support for PF_DXN pixel format (Gears of War Reloaded)
+
+UPK Explorer Version 2.4.10.2
+- Added support for Gigantic: Rampage Edition (PC)
+- Added support for Gears of War Reloaded (PC)
+- Fixed bug with adding objects in Arkham City (WiiU)
+
+UPK Explorer Version 2.4.10.1
+- Package patch recovery: implemented recovery when loading patch into a package with a lower name or reference count
+- Fixed bug where loading a package patch with new objects could cause new references to be detected as incorrect references to be remapped
+- Fixed bug where loading a package patch with new objects could cause a null reference error
+
+UPK Explorer Version 2.4.10.0
+- Release version
+
+UPK Explorer Version 2.4.9.7
+- Advanced mode: Implemented custom tfc file names
+
+UPK Explorer Version 2.4.9.6
+- Package patch: implemented remapping when loading a patch that was made with a different version of the package file (experimental)
+- Implemented package patch v2
+
+UPK Explorer Version 2.4.9.5
+- Implemented profile option to save fully compressed packages as uncompressed
+
+UPK Explorer Version 2.4.9.4
+- Implemented profile option to always save packages as uncompressed
+
+UPK Explorer Version 2.4.9.3
+- Fixed incorrect Int32/UInt32 write size for Int64/UInt64 values
+- DDS Export: Implemented all mips export for games that use external package storage for top mips only
+
+UPK Explorer Version 2.4.9.2
+- Added support for big endian unicode FString
+- DDS Export: export all mips is now optional and persisted
+
+UPK Explorer Version 2.4.9.1
+- DDS Export: all mips are now exported
+
+UPK Explorer Version 2.4.9.0
+- Release version
+
+UPK Explorer Version 2.4.8.6
+- Added support for ANSI strings
+
+UPK Explorer Version 2.4.8.5
+- Improved skeletal mesh weights support for X360, PS3 and WiiU
+
+UPK Explorer Version 2.4.8.4
+- FBX import: Added support for ByVertice/IndexToDirect mapping
+- Improved property porting with target descriptor (partial)
+- Development mode: Implemented update descriptor from scanning package files
+
+UPK Explorer Version 2.4.8.3
+- Implemented add item for array properties with code
+- Implemented add property for properties with code
+- Home page: Updated Basic/Advanced/Development mode description
+
+UPK Explorer Version 2.4.8.2
+- Implemented object descriptor v7 with optional property code
+- Added property code to xml descriptors
+- Added support for xml descriptors
+
+UPK Explorer Version 2.4.8.1
+- Object editor: objects can now be expanded while filters are active
+
+UPK Explorer Version 2.4.8.0
+- Release version
+
+UPK Explorer Version 2.4.7.11
+- Added support for SWAT 4's G16 pixel format
+- Added support for SWAT 4's DXT5N pixel format
+
+UPK Explorer Version 2.4.7.10
+- Fixed bug with LZX recompression profile option where the package would not be recompressed properly
+
+UPK Explorer Version 2.4.7.9
+- Added skeletal mesh support for Gears of War Judgement v846.0 (X360)
+- Added static mesh support for Gears of War Judgement v846.0 (X360)
+
+UPK Explorer Version 2.4.7.8
+- Fixed bug where arrays of object references could not be read (UE2 with compact indices)
+- Added support for SWAT 4 (UE2, PC)
+- Added support for Shadow Ops: Red Mercury (UE2, PC)
+
+UPK Explorer Version 2.4.7.7
+- Development mode: Removed all recompression settings except None and Zlib for Bioshock 1/2
+- Development mode: Added option to uncompress package in compression settings dialog
+
+UPK Explorer Version 2.4.7.6
+- Texture injection: Only the NeverStream property can be created if the name is missing from the name table
+
+UPK Explorer Version 2.4.7.5
+- Texture injection: Implemented missing name creation for adding new properties during
+- Added local texture injection support for Mass Effect 3 v684.194 (PC)
+- Added local texture injection support for Mass Effect LE v684.171 (PC)
+- Added local texture injection support for Mass Effect 2 LE v684.168 (PC)
+- Added local texture injection support for Mass Effect 3 LE v685.205 (PC) 
+- Added skeletal mesh support for Mass Effect 3 v684.194 (PC)
+- Added skeletal mesh support for Mass Effect LE v684.171 (PC)
+- Added skeletal mesh support for Mass Effect 2 LE v684.168 (PC)
+- Added skeletal mesh support for Mass Effect 3 LE v685.205 (PC)
+- Added static mesh support for Mass Effect v491.1008 (PC)
+- Added static mesh support for Mass Effect LE v684.171 (PC)
+- Added static mesh support for Mass Effect 2 LE v684.168 (PC)
+- Added static mesh support for Mass Effect 3 LE v685.205 (PC)
+
+UPK Explorer Version 2.4.7.4
+- Development mode: Added recompression settings dialog
+- Fixed compression bug with LZO/LZ4/Zstd
+
+UPK Explorer Version 2.4.7.3
+- Added support for Oodle v8 re-compression
+- Improved Texture2D support for XCOM: Chimera Squad v884.131 (PC)
+
+UPK Explorer Version 2.4.7.2
+- Fixed broken Texture2D parser
+
+UPK Explorer Version 2.4.7.1
+- Added TFC texture support for Singularity v584.126 (PC)
+- Added support for XCOM: Chimera Squad v884.131 (PC)
+
+UPK Explorer Version 2.4.7.0
+- Release version
+
+UPK Explorer Version 2.4.6.5
+- Bioshock 1 & 2: Improved struct/array of struct property parser
+
+UPK Explorer Version 2.4.6.4
+- Added support for Bioshock Infinite v727.69
+- Added support for Bioshock Infinite v727.73
+
+UPK Explorer Version 2.4.6.3
+- Added hardcoded "IsAtomic" flag for the generation of UE2 object descriptors
+- UE2: Fixed inproperly updated property info flags
+- Added support for RangedIntProperty (Bioshock 1 & 2)
+
+UPK Explorer Version 2.4.6.2
+- Enabled Property class parser for console games
+- Package scan: added dedicated status for partial class support
+- Object editor: Improved properties tabs for Class/Function/Struct/ScriptStruct/State (added missing properties)
+- Added minimal class support for games without full class/func/struct support (parse as fields)
+
+UPK Explorer Version 2.4.6.1
+- Object descriptors: Fixed missing parent struct properties
+- Object descriptors: added support for Struct (UE2)
+- Object editor: Fixed bug where a newly added string property would be initialized with the wrong data size if it was left empty
+
+UPK Explorer Version 2.4.6.0
+- Release version
+
+UPK Explorer Version 2.4.5.5
+- Generic object adapters: Fixed missing "unsupported data" message in case of parsing errors
+- Generic object adapters: Improved parse false positive detection with name and object reference validation
+- Object import: Fixed bug where unchecking child object would break imported object references whose original index was superior to the package export count
+- Object import: Fixed bug where TransArray owner would not get remapped
+
+UPK Explorer Version 2.4.5.4
+- Object editor: Fixed missing "unknown data" view for arrays of unsuported structures.
+- Object import dialog: fixed issue with automatic creation of references of type import with a root owner that is also a package name (requires object export v12)
+- Added support for Model (standard parser)
+- Added support for World (standard parser)
+- Added support for StaticMeshComponent (standard parser)
+- Generic object adapters: added support for unknown extra data before properties
+
+UPK Explorer Version 2.4.5.3
+- Implemented porting function for MIC component string array
+- Object editor: added properties tabs to Class/Function/Struct/ScriptStruct/State (development mode)
+- Object editor: reworked UX for generic object adapters (tab and native property names)
+
+UPK Explorer Version 2.4.5.2
+- Added support for FaceFXAnimSet (standard parser)
+- Added support for AnimSequence (standard parser)
+- Updated save as copy message box with less confusing message
+- Added support for PhysicsAssetInstance (standard parser)
+
+UPK Explorer Version 2.4.5.1
+- Added support for FaceFXAsset (standard parser)
+- Added import/export of binary data for generic object adapters
+- Added support for ApexClothingAsset (standard parser)
+
+UPK Explorer Version 2.4.5.0
+- Release version
+
+UPK Explorer Version 2.4.4.6
+- Fixed bug with importing over objects with generic parser
+
+UPK Explorer Version 2.4.4.5
+- Added support for Level (standard parser)
+- Implemented Generic structures
+- Generic object adapters keep the successfuly parsed data when parser fails
+- Fixed bug where modified enum class values would not be reloaded from game patch
+
+UPK Explorer Version 2.4.4.4
+- Generic object adapters revert to unsupported when they cannot be parsed
+
+UPK Explorer Version 2.4.4.3
+- Added support for Font objects (UE3)
+- Object editor: improved performance by collapsing atomic structures with more than 3 rows
+- Object editor: Added partial support for Level objects (UE3)
+- Added skeletal mesh support for Frontlines: Fuel of War v433.52 (PC)
+
+UPK Explorer Version 2.4.4.2
+- Object editor: improved performance by collapsing structures with more than 3 rows
+
+UPK Explorer Version 2.4.4.1
+- Mesh preview texture resolver: added support for ExpressionTree property
+- Mesh preview texture resolver: added support for the "Texture" texture parameter
+- Mesh preview texture resolver: added support for the "Difuse" texture parameter
+- Object editor: Fixed bug where adding a property to a structure would corrupt the object data
+- Class tab: Added ScriptText tab to class objects with a child ScriptText object
+- Object editor: Added ScriptText tab to class objects with a child ScriptText object
+- Added export .cpp file to TextBuffer
+- Improved scrolling performance for large TextBuffer objects
+- Fixed bug where default object for a supported class could not be imported
+- Added support for objects of type TextBuffer (provides documentation on classes)
+
+UPK Explorer Version 2.4.4.0
+- Release version
+
+UPK Explorer Version 2.4.3.7
+- Object editor: Fixed bug in scripts where native functions with UInt16 code would not be written properly
+
+UPK Explorer Version 2.4.3.6
+- Create import parent mode is now persisted
+- Object import dialog: add option to select import reference parent creation mode
+- Imports table: add option to select parent creation mode
+- Object import dialog: references of type import are now automatically created in the imports table (requires object export v11)
+- Object editor: Implemented object export v11 with inclusion of class package name for references of type import
+- Imports table: copy/pasted entry's missing parent is now automatically created when they are of type package
+
+UPK Explorer Version 2.4.3.5
+- Harmonized UX and naming convention between Imports and Exports table
+- Imports table: copy/pasted entries are now sorted so parent refs are imported before children
+- Development mode: added GameId display in select game dialog
+- Implemented custom SkeletalMesh parser for Them and Us (PC)
+- Implemented gameId for Them and Us (PC)
+- Open game: fixed bug where opening a game with a gameId would cause an error due to multithreading
+- Open single package: fixed issue where object imports group path would be resolved correctly using package names
+
+UPK Explorer Version 2.4.3.4
+- Object editor: fixed threading issue that could cause audio to not be refreshed properly when loading game patch
+- Bioshock/Bioshock2: Fixed bug where adding new data chunk to a package would cause error if the last data chunk was modified
+
+UPK Explorer Version 2.4.3.3
+- Object editor: Script byte code size can be manually edited
+- Object editor: Script byte code size is no longer updated by importing a script that cannot be parsed
+- Fixed undo not working correctly after importing a script and generating a game patch
+
+UPK Explorer Version 2.4.3.2
+- Object editor: objets with empty scripts can now have their script imported
+- Object editor: added import button for script binary data
+- Scripts tab is now shown in advanced mode (no more development only)
+- Object editor: changed script detail button to script preview
+- Object editor: added export button for script binary data
+- Fixed bug where objects with scripts containing a context expression would not be written properly
+- Implemented compact view for scripts
+
+UPK Explorer Version 2.4.3.1
+- Supported script object and name references are now remapped during object import
+- Fixed bug where object type quick filters were missing from select object reference dialog
+- Development mode: added scripts tab
+- Object editor: added script tab for objects with a script (development mode)
+
+UPK Explorer Version 2.4.3.0
+- Release version
+
+UPK Explorer Version 2.4.2.6
+- Fixed null ref when trying to remap imports when importing an object without its children
+
+UPK Explorer Version 2.4.2.5
+- Fixed bug where all fully compressed packages were incorrectly detected as ZStd compression method
+
+UPK Explorer Version 2.4.2.4
+- Added support for Raw, X360 and PS3 sound data (UE3 SoundNodeWave)
+- Open recent: fixed bug where the incorrect items would be removed during cleanup past the max 50 items limit
+
+UPK Explorer Version 2.4.2.3
+- Fixed null ref in group path when importing new object
+
+UPK Explorer Version 2.4.2.2
+- Added class support for Shadows of the Damned: Hella Remastered v707.28 (PC)
+- Added support for Shadows of the Damned: Hella Remastered v707.28 (PC)
+
+UPK Explorer Version 2.4.2.1
+- Open game: object filters are automatically loaded only for PCs with more than 16gb or RAM
+- Open game: improved object filter memory consumption
+- Improved name table memory consumption
+
+UPK Explorer Version 2.4.2.0
+- Release version
+
+UPK Explorer Version 2.4.1.12
+- Fixed remove item button incorrectly displayed in MIC static parameter tab
+
+UPK Explorer Version 2.4.1.11
+- Fixed bug where new properties could not be removed after generating a game patch
+
+UPK Explorer Version 2.4.1.10
+- enableTFCNamePropertyCleanup game profile option is now true by default
+- Object editor: Array of structs are no longer shown as flat view
+- Object editor: Implemented add/remove property for struct array items (requires object descriptor support)
+- Object editor: Implemented add/remove property for struct properties (requires object descriptor support)
+- Object editor: Add property dialog now shows used properties according to current edits rather than original properties
+
+UPK Explorer Version 2.4.1.9
+- Reduced row count threshold to switch from array shown as flat list to list+detail views (performance issues)
+- Fixed case sensitive value filter in property list
+
+UPK Explorer Version 2.4.1.8
+- Object editor: Added property value filter to properties list
+- Object editor: Added value filter to array properties
+- Fixed statck overflow error when creating new property (introduced in 2.4.1.7)
+
+UPK Explorer Version 2.4.1.7
+- Improved string property validation to reduce false positive when trying to detect object properties
+- Fixed data size bug when reading string properties in UE2
+
+UPK Explorer Version 2.4.1.6
+- Object editor: fixed bug with add button visibility condition
+
+UPK Explorer Version 2.4.1.5
+- Implemented object descriptor v6 with deprecated property flag
+- Classes tab: show properties as deprecated
+- Descriptor tab: show properties as deprecated
+- Add property of type struct no longer instanciate with deprecated properties
+- Add struct array item no longer instanciate with deprecated properties
+- Object editor: add property dialog shows deprecated properties
+- Object editor: Added filter to add property dialog for deprecated properties
+- Descriptor tab: Added descriptor binary file version and isPartial flag (xml version)
+- Object editor: Added property name filter to properties list
+
+UPK Explorer Version 2.4.1.4
+- Fixed bug where add/remove array item could corrupt object data
+- Fixed add property button visible under array detail view
+
+UPK Explorer Version 2.4.1.3
+- Fixed bug with struct arrays where added items would be empty
+
+UPK Explorer Version 2.4.1.2
+- Fixed string index bugs with Thai culture (th-TH)
+
+UPK Explorer Version 2.4.1.1
+- Object editor: Implemented add/remove class default property (requires object descriptor support)
+- Object editor: Implemented add/remove object property (requires object descriptor support)
+
+UPK Explorer Version 2.4.1.0
+- Release version
+
+UPK Explorer Version 2.4.0.11
+- Fixed null ref error in materials tab
+
+UPK Explorer Version 2.4.0.10
+- Added support for UInt32 name suffixes for Mortal Kombat 11 v769.157
+- Added static mesh support for Borderlands: The Pre-Sequel
+
+UPK Explorer Version 2.4.0.9
+- Disabled Add struct array items for games with Int16 property tags (Arkham games with the exception of Asylum)
+- Disabled Add struct and atomic struct array items for games using object descriptor xml
+- Added error handling to array add/remove item
+
+UPK Explorer Version 2.4.0.8
+- Removed additem button from struct array properties using incomplete object descriptors (unsupported games with xml version)
+
+UPK Explorer Version 2.4.0.7
+- Object descriptor: added text to differentiate structures vs atomic structures
+- Implemented add item for supported array properties of structures with tagged properties
+
+UPK Explorer Version 2.4.0.6
+- Fixed OperationCanceledException error when cancelling multi threaded loading task
+- Implemented add item for supported array properties of atomic structures
+
+UPK Explorer Version 2.4.0.5
+- Fixed double popup bug with object refs and names edited from array detail view
+- Fixed display bug on home screen when working folder no longer exists
+- Object editor: Changed clickable array names font style to underlined deep blue
+
+UPK Explorer Version 2.4.0.4
+- Implemented add item for supported array properties of simple types
+- Implemented remove item for supported array properties
+- Added error handling to object filter initialization
+
+UPK Explorer Version 2.4.0.3
+- Open game: added progress bar for object filter initialization
+- Open game: Implemented multi threading for loading textures
+- Open game: Implemented multi threading for loading packages
+- Implemented multi threading for object filter initialization
+
+UPK Explorer Version 2.4.0.2
+- Fixed bug when opening a game without a profile would cause a null ref error
+- Improved search filter performance while typing (prevent unecessary refresh)
+- Search filters no longer lock up the UI while searching
+- Open game: added object name and classname search filter to package list
+
+UPK Explorer Version 2.4.0.1
+- enableTFCNamePropertyCleanup game profile option is now false by default
+- Home page: Implemented 'Open recent' list with the last 50 opened games or packages
+
+UPK Explorer Version 2.4.0.0
+- Release version
+
+UPK Explorer Version 2.3.12.8
+- Replaced system folders list dialog with mod folder structure
+
+UPK Explorer Version 2.3.12.5
+- Added restrictions to System folders list
+
+UPK Explorer Version 2.3.12.4
+- Fixed error with MyMod directory not found when opening a game for the first time
+
+UPK Explorer Version 2.3.12.2
+- Texture packs are now generated in MyMod\TexturePack
+- Game patches are now generated and loaded from MyMod\Game\...\
+- Advanced mode: added "System folders" dialog to show the list of the operating system's folder path and names
+
+UPK Explorer Version 2.3.12.1
+- MyMod folder is now initialized when a game is loaded, to make it easier to create mods with only extra files
+
+UPK Explorer Version 2.3.12.0
+- Release version
+
+UPK Explorer Version 2.3.11.5
+- FBX import: improved compatibility with older games (Rainbow Six: Vegas 1/2)
+- Object export: fixed null ref bug with games without gameId
+
+UPK Explorer Version 2.3.11.4
+- Added custom SkeletalMesh parser for Tom Clancy's Rainbow Six: Vegas v241.66
+- Added custom SkeletalMesh parser for Tom Clancy's Rainbow Six: Vegas 2 v241.71
+- Added support for BetterFBX blender plugin
+
+UPK Explorer Version 2.3.11.3
+- Package scan: added parser selection (gameId based parser)
+- Added support for Men of Valor (UE2)
+- Bioshock: Fixed incorrect offset bug with direct texture injection
+
+UPK Explorer Version 2.3.11.2
+- Disabled MaterialInstanceConstant parser for The Deadly Tower of Monsters v870.0
+- Disabled Material parser for The Deadly Tower of Monsters v870.0
+- Disabled MaterialInstanceConstant parser for Sherlock Holmes: Crimes and Punishments v868.0
+- Enabled Material parser for Magrunner v861.0
+- Enabled Material parser for King's Quest v861.0
+- Disabled MaterialInstanceConstant parser for Abyss Odyssey v861.0
+- Disabled StaticMesh parser for Borderlands: The Pre-Sequel
+
+UPK Explorer Version 2.3.11.1
+- Implemented standard SkeletalMesh parser for UE2
+- Improved read performance for SkeletalMesh TArray (UE2)
+- Improved read performance for TLazyArray (UE2)
+
+UPK Explorer Version 2.3.11.0
+- Release version
+
+UPK Explorer Version 2.3.10.5
+- Fixed bug where object imports table with would not be properly updated (UE2 games with compact indices)
+- Added FateCompositeSkeletalMesh parser (same as SkeletalMesh parser)
+
+UPK Explorer Version 2.3.10.4
+- Added support for Tom Clancy's EndWar v329.0
+
+UPK Explorer Version 2.3.10.3
+- Added custom SkeletalMesh parser for Lost Planet 3 v860.97
+- Added custom SkeletalMesh parser for Yaiba: Ninja Gaiden Z v860.98
+- Added custom SkeletalMesh parser for Murdered: Soul Suspect v860.93
+
+UPK Explorer Version 2.3.10.2
+- Game profiles: added support for multiple package file/licensee versions
+- Mesh preview: Fixed crash when switching from a mesh with lods to a mesh with no lods
+- Added support for Aliens: Colonial Marines v787.44
+- Added support for Aliens: Colonial Marines v787.46
+
+UPK Explorer Version 2.3.10.1
+- Added game profile option to enable/disable package update stats (MP game fix)
+- Added custom SkeletalMesh parser for Aliens: Colonial Marines v689.43
+- Added texture support for Blade and Soul v573.1 (decrypted packages only)
+
+UPK Explorer Version 2.3.10.0
+- Release version
+
+UPK Explorer Version 2.3.9.2
+- Disabled MIC parser for Bioshock 2 v141.57 + v143.59 (UE2, PC)
+- Disabled MIC parser for Bioshock 2 Remastered v143.59 (UE2, PC)
+
+UPK Explorer Version 2.3.9.1
+- Fixed grayed out import/export buttons for Sound/SoundNodeWave
+- Save package copy: fixed bug with imported Sound/SoundNodeWave
+
+UPK Explorer Version 2.3.9.0
+- Release version
+
+UPK Explorer Version 2.3.8.13
+- Fixed SoundNodeWave import issue for Transformers/Deadpool with unused bulk data storage
+
+UPK Explorer Version 2.3.8.12
+- Object import dialog: Fixed bug when cancelling an import over an existing object at step 2/2 would result in invalid name indices/object references
+
+UPK Explorer Version 2.3.8.11
+- Improved SoundNodeWave support for Deadpool v846.181
+- Improved SoundNodeWave support for Transformers: Rise of the Dark Spark v846.181
+- Improved SoundNodeWave support for Transformers: Fall of Cybertron v846.181
+- Improved SoundNodeWave support for Transformers: War for Cybertron v511.145
+
+UPK Explorer Version 2.3.8.10
+- Disabled SoundNodeWave parser for Tom Clancy's Rainbow Six: Vegas v241.66
+- Disabled SoundNodeWave parser for Tom Clancy's Rainbow Six: Vegas 2 v241.71
+- Disabled SoundNodeWave parser for Rise of the Argonauts v539.43
+- Added detection of inner audio type for FSB SoundNodeWave (enables audio preview)
+
+UPK Explorer Version 2.3.8.9
+- Fixed bug where imported class object would be loaded as default object
+
+UPK Explorer Version 2.3.8.8
+- Added FSB audio detection for Sound/SoundNodeWave
+- Added SoundNodeWave support for Deadpool v846.181
+- Added SoundNodeWave support for Transformers: Rise of the Dark Spark v846.181
+- Added SoundNodeWave support for Transformers: Fall of Cybertron v846.181
+- Added SoundNodeWave support for Transformers: War for Cybertron v511.145
+
+UPK Explorer Version 2.3.8.7
+- Fixed issue where game patch for sound would not be loaded properly
+- Object editor: Fixed bug where bulk data offsets would not be shifted when object property size would change
+- Fixed stability issues with sound preview
+- Fixed issue with sounds tab attempting to load sounds from unsupported package versions
+
+UPK Explorer Version 2.3.8.6
+- Added support for SoundNodeWave (UE3, PC only)
+
+UPK Explorer Version 2.3.8.5
+- Added support for Sound (UE2)
+
+UPK Explorer Version 2.3.8.4
+- Added static mesh support for Life is Strange v893.21
+- Added static mesh support for Remember Me v832.21
+- Fixed reset item selection with multiple MaterialInstanceConstant static parameters tab
+
+UPK Explorer Version 2.3.8.3
+- Fixed root package missing from import object Ids
+
+UPK Explorer Version 2.3.8.2
+- Advanced mode: Added Materials tab
+- Mesh preview: improved detection of the correct diffuse texture
+
+UPK Explorer Version 2.3.8.1
+- Object editor: Added support for editing MaterialInstanceConstant static parameters
+- Disabled StaticMesh parser for The Last Remnant v507.11
+
+UPK Explorer Version 2.3.8.0
+- Release version
+
+UPK Explorer Version 2.3.7.3
+- Object editor: added filter to show only modified objects
+
+UPK Explorer Version 2.3.7.2
+- Added support for Bioshock 2 v141.57 + v143.59 (UE2, PC)
+- Added support for Bioshock 2 Remastered v143.59 (UE2, PC)
+
+UPK Explorer Version 2.3.7.1
+- Fixed bug where object offsets would not be written properly when export table data chunk is expanded with new data
+
+UPK Explorer Version 2.3.7.0
+- Release version
+
+UPK Explorer Version 2.3.6.4
+- Fixed issue with static mesh parser for Chivalry, Fable: Anniversary and The Battle of Sol
+
+UPK Explorer Version 2.3.6.3
+- Fixed issue with static mesh parser for Fable: Anniversary v860.26985
+- Added class support and object descriptor for Bioshock v141.56 (UE2, PC)
+- Added class support and object descriptor for Bioshock Remastered v142.56 (UE2, PC)
+
+UPK Explorer Version 2.3.6.2
+- Class and ScriptStruct default properties now load the correct object descriptor
+- Object editor: Fixed size change issue for object reference properties with compact indices
+- Object editor: Fixed size change issue for name properties with compact indices
+- Added static mesh support for Fable: Anniversary v860.26985
+- Added support for array properties of object references with compact indices
+- Added support for array properties of names with compact indices
+- Improved StrProperty support for UE2 games with compact indices
+- Improved ArrayProperty support for UE2 games with compact indices
+
+UPK Explorer Version 2.3.6.1
+- Fixed incorrectly decoded mesh normals for WiiU platform
+- Added static mesh support for Medal of Honor: Airborne v421.11
+
+UPK Explorer Version 2.3.6.0
+- Release version
+
+UPK Explorer Version 2.3.5.3
+- Fixed issue with import as copy where it could not generate a unique name if the imported object name already existed.
+
+UPK Explorer Version 2.3.5.2
+- Improved performance when all objects need to be shifted in a package (save copy)
+- Fixed TArray performance issue introduced in 2.3.5.1
+- Fixed issue with updating Bioshock uncompressed packages
+
+UPK Explorer Version 2.3.5.1
+- Added support for Bioshock v141.56 (UE2, PC)
+- Added support for Bioshock Remastered v142.56 (UE2, PC)
+- Added support for adding new name table entries (UE2)
+- Texture pack tab: Improved pixel format error handling
+- Fixed incorrect write data size for array properties with compact indices (UE2)
+- Added support for PF_DXT5N pixel format (DXT5 normal map)
+
+UPK Explorer Version 2.3.5.0
+- Release version
+
+UPK Explorer Version 2.3.4.7
+- Object editor: fixed null ref when saving array of floats
+
+UPK Explorer Version 2.3.4.6
+- Added support for Star Wars: Republic Commando (UE2)
+
+UPK Explorer Version 2.3.4.5
+- Added support for Killing Floor custom package signature (UE2)
+
+UPK Explorer Version 2.3.4.4
+- Added limited (textures only) support for UE2 games with compact indices
+
+UPK Explorer Version 2.3.4.3
+- Object import dialog: removing a property now removes all properties with the same name.
+- Fixed object descriptor issue where parent object could not be resolved using full object id
+
+UPK Explorer Version 2.3.4.2
+- Fixed issue when exporting object then reimporting the same object would corrupt the package header
+- Added binary FBX file signature validation.
+
+UPK Explorer Version 2.3.4.1
+- Fixed issue with proxy texture injection when main texture has only one used mip (Transformers/Deadpool)
+- Fixed issue with Mirror's Edge custom static meshes in uncooked packages
+- Added support for PF_P8. Texture gets converted to PF_B8G8R8A8 (UE2)
+- Added support for Palette objects (UE2)
+- Added support for object reference properties with compact indices
+
+UPK Explorer Version 2.3.4.0
+- Generate texture pack: fixed error handling for textures used in more than one package
+- Added support for Brothers in Arms: Road to Hill 30 (UE2, PC)
+- Added support for Brothers in Arms: Earned in Blood (UE2, PC)
+
+UPK Explorer Version 2.3.3.3
+- Object import: fixed import/preserve/remove property options
+- Object editor: added error handling for invalid object references
+- Object export: fixed error for Function objects without "friendly name"
+- Added support for Struct objects
+
+UPK Explorer Version 2.3.3.2
+- Added support for Blender 4.1 FBX files
+- Object editor: fixed missing content in advanced mode for objects with only one tab
+- Added support for PF_A8 pixel format (8 bits alpha map)
+- Added support for PF_G16 pixel format (16 bits grayscale converted to 8 bits)
+- Added support for PF_DXT1a pixel format (DXT1 with 1bit alpha channel)
+- Development mode: Unsupported data preview: added support for games with 4 bytes sized name indices
+
+UPK Explorer Version 2.3.3.1
+- Added support for Tom Clancy's Rainbow Six: Vegas v241.66
+- Improved property support for Tom Clancy's Rainbow Six: Vegas 2 v241.71
+
+UPK Explorer Version 2.3.3.0
+- Release version
+
+UPK Explorer Version 2.3.2.13
+- Copy/Paste clipboard functions now use native functions instead of .net functions
+- Imports table: owner is now set to null in the input panel when starting to type in the other fields
+- Fixed bug in select object reference dialog where set null button would be disabled if no reference was set
+- Fixed typo in object imports table input instructions
+
+UPK Explorer Version 2.3.2.12
+- Object reference edit: fixed bug where updating a mesh material via typing or using the drop down list would not update the material in the mesh preview
+
+UPK Explorer Version 2.3.2.11
+- Object import: fixed bug where child objec's parent index would not be re-indexed when objects before the parent object were excluded from the import
+
+UPK Explorer Version 2.3.2.10
+- Fixed import table input notification showing "0 entries already exist"
+- Fixed regression in object property collection detection
+- Object reference editor: fixed bug where cancel button would no longer work if the reference text was edited after the drop down list was opened
+
+UPK Explorer Version 2.3.2.9
+- Added support for empty objects
+
+UPK Explorer Version 2.3.2.8
+- Object Editor: Redesigned object reference edit control to allow copy/paste, typing object id and selection from dropdown list
+
+UPK Explorer Version 2.3.2.7
+- Object Editor: Importing over existing object now expands it if it contains imported children
+- Object Editor: Fixed bug where importing new objects would not expand the child objects propery
+- Object Editor: Deleting a new object now also delete the new child objects, with user confirmation
+
+UPK Explorer Version 2.3.2.6
+- Fixed bug where excluding child objects during import would not re-compute the child object's indexes properly, resulting in invalid references
+- Fixed minor bug in object import dialog where unchecking the root object would display it as excluded from the import
+- Fixed object reference edit no longer showing index and reference type
+- Fixed clipboard compatibility issues causing the app to close without errors
+
+UPK Explorer Version 2.3.2.5
+- Fixed issue with cancelling an import over a new object would cause errors
+- Fixed issue where deleting an object import or export would not re-index object references
+- Fixed issue where deleting a name would not re-index name references
+- Fixed performance issue when exporting objects with children
+
+UPK Explorer Version 2.3.2.4
+- Fixed bug where deleting one of several imported objects would cause an error if re-importing over the previously imported objects
+- Fixed bug in object import when the parent object preview would be broken if it referenced new child objects
+
+UPK Explorer Version 2.3.2.3
+- Import table: multiple entries can be pasted into the input panel
+- Import table: multiple entries can be copied to cliboard using the context menu
+- Import table: import entry data can be copied to clipboard and pasted into input panel
+- Import table: replaced create import entry dialog with input panel at the bottom of the screen
+
+UPK Explorer Version 2.3.2.2
+- Object import: Added warning about import objects with unsupported data
+- Object import: New export file format v9 includes unsupported data size
+- Object export: added detailed warning when exporting child objects with loading errors or unsupported data
+- Object export: implemented custom warning dialog when exporting object with unsupported data
+- Object editor: added warning message about unsupported data
+- Object editor: added copy name/classname/id context menu to object name textbox
+
+UPK Explorer Version 2.3.2.1
+- Mesh preview: removed Tangent.W and Normal.W info (no longer needed)
+- Object import: New export file format v8 fixes missing platform (read as PC since v5)
+- Object editor: Fixed incorrect icon for load package patch button
+- Object import: redesigned select properties dialog to check/uncheck child objects
+- Object import: New export file format v7 includes child objects
+- Enabled static mesh parser for v815.0, v828.0, v859.0 and v868.0
+
+UPK Explorer Version 2.3.2.0
+- Release version
+
+UPK Explorer Version 2.3.1.7
+- Object editor: fixed a bug preventing the creation of a package object if the Core\Package import was missing
+
+UPK Explorer Version 2.3.1.6
+- Object editor: Import object at root now uses the import file name for the object path, and can be used to import new objects or override existing objects
+
+UPK Explorer Version 2.3.1.5
+- Object editor: Added create package at root and create child package buttons
+- Fixed bug where FontCharacter edits would not be saved
+
+UPK Explorer Version 2.3.1.4
+- Reworked UX with icons
+- Added support for package objects.
+- Added "empty object" text to objects without properties
+
+UPK Explorer Version 2.3.1.3
+- Fixed bug where deleting the last imported child of an object where all children are imported would cause indexing error
+- Fixed bug where objects with error would prevent saving the package after adding a table entry
+
+UPK Explorer Version 2.3.1.2
+- Object import: Added import to package root button in objet list
+- Object import: Added import as child button in object list
+- Object import: New export file format v6 includes ObjectExport data
+
+UPK Explorer Version 2.3.1.1
+- Object editor: redesigned object refecence edit
+- Object import: redesigned import reference resolving dialog to accomodate longer object ids
+- Object import: Improved auto resolving of object references using full object id (new object export file format v5)
+- Development mode: added dedicated filter for local mip only textures with a tfc name property
+
+UPK Explorer Version 2.3.0.2
+- Fixed bug where mipmap generation for G8 and V8U8 textures would produce empty mips
+
+UPK Explorer Version 2.3.0.1
+- Added removeLODGroup and removeLODBias profile options (disabled by default)
+- Development mode: added "LOD Groups" filter to texture collection
+
+UPK Explorer Version 2.3.0.0
+- Release version
+
+UPK Explorer Version 2.2.12.22
+- Development mode: added "empty mips" filter to texture collection
+
+UPK Explorer Version 2.2.12.21
+- Fixed bug where "atomic" structures could not be read properly
+
+UPK Explorer Version 2.2.12.20
+- Added support for BitStreamProperty (Blacksite: Area 51)
+- Fixed property resolving issue with descriptor generation where imported property's root path is a package file name
+- Fixed property resolving issue with descriptor generation where imported property's next property would be resolving using the class/scriptstruct package
+
+UPK Explorer Version 2.2.12.19
+- Added support for WeakPointerProperty (XCom Declassified)
+- Fixed issue with descriptor generation progress bar
+- Load States as Field for descriptor generation (Descriptor support for Monday Night Combat v638.0)
+
+UPK Explorer Version 2.2.12.17
+- Added support for dedicated custom TFC paths (Bioshock Infinite DLC support)
+
+UPK Explorer Version 2.2.12.16
+- Fixed error when saving descriptor as xml
+- Fixed bug in enum encoding in binary descriptor generation
+
+UPK Explorer Version 2.2.12.15
+- New descriptors format v5: Better compression ratio, optimized string collection sizes
+- Binary descriptors are kept in memory and no longer reloaded every time a package is opened
+
+UPK Explorer Version 2.2.12.14
+- Fixed bug where generating texture pack or game patch would not cleanup the existing ObjectDescriptors.descriptor from the MyMod folder
+- New descriptors format v4: includes transient properties and better compression
+
+UPK Explorer Version 2.2.12.13
+- Added instances tab to classes/descriptors tab to list packages that contain object instances of the matching class
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant support for Moonbase Alpha v587.0
+- Added Class/ScriptStruct/Function/Property/Enum/Constant support for Monday Night Combat v638.0
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant support for Injustice v573.49
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant support for Transformers: Fall of Cybertron v846.181
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant support for Transformers: Rise of the Dark Spark v846.181
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant support for Transformers: Deadpool v846.181
+
+UPK Explorer Version 2.2.12.12
+- Object editor: added support for arrays of String
+- Object editor: added support for arrays of Class
+
+UPK Explorer Version 2.2.12.11
+- Object editor: added support for arrays of "atomic" structures (for games with descriptors)
+- Object editor: added support for "atomic" structures for (games with descriptors)
+- Object editor: added support for arrays of IntPoint
+- Object editor: added support for arrays of Vector2D
+- Object editor: added support for arrays of Rotator
+- Object editor: added support for arrays of Box
+- Object editor: added support for arrays of Matrix
+
+UPK Explorer Version 2.2.12.10
+- New descriptors format to fix issues with byte properties being listed as enum
+- Classes/Descriptors tab: Structure/Enum detail title bar now shows nested path
+- Classes/Descriptors tab: Structure/Enum detail "back" button now goes back to parent structure instead of root class
+- Object editor: added support for arrays of FLinearColor
+- Object editor: added support for arrays of LinearColor
+- Object editor: added support for arrays of Color
+- Object editor: added support for arrays of Quat
+- Object editor: added support for arrays of Plane
+- Object editor: added support for arrays of Vector
+- Object editor: added support for arrays of Float
+
+UPK Explorer Version 2.2.12.9
+- Fixed FBX import no longer updating the mesh object
+- Object editor: added support for arrays of Boolean
+- Object editor: added support for arrays of Int32
+
+UPK Explorer Version 2.2.12.8
+- Fixed issue with Arkham property code int16 not being read properly
+- Implemented new object id structure for object descriptors
+
+UPK Explorer Version 2.2.12.7
+- Development mode: Added descriptor tab to object details in object editor
+- Development mode: Added save as button to descriptors tab
+- Development mode: Added dedicated descriptors tab
+
+UPK Explorer Version 2.2.12.6
+- Object editor: added support for arrays of classes
+- Generating object descriptors no longer loads the current object descriptor
+- Object editor: added support for arrays of enums
+- Object editor: added support for arrays of components and other object reference types
+- New descriptors format with support for references to custom property
+
+UPK Explorer Version 2.2.12.5
+- Added support for MKItemProperty (Mortal Kombat)
+- Added support for NativeTypeProperty (Mortal Kombat)
+- Added support for RessourceProperty (Mortal Kombat)
+- Added support for MKItemNoDestroyProperty (Mortal Kombat)
+
+UPK Explorer Version 2.2.12.4
+- Descriptor generator: Class properties are now resolved using import references also
+- Added support for ScriptMapProperty (Transformers)
+- Fixed Struct profile for Bioshock Infinite v727.75 and v727.78
+- Descriptor generator: Added warnings about no classes or structs having a parent
+- Descriptor generator: Added error report for unsupported property types
+- Descriptor generator: implemented error report per class/struct/enum
+
+UPK Explorer Version 2.2.12.3
+- Binary object descriptors are now copied to the MyMods folder when generating texture packs or game patches
+- Object descriptors are now loaded from \Descriptors\xxx.descriptor if found.
+- Object editor: Added support for FLinearColor
+
+UPK Explorer Version 2.2.12.2
+- Object descriptor is now loaded from the same structure as the class descriptors
+- Save descriptor file dialog directory is now persisted
+- Added support for FloatAttributeProperty (Borderlands)
+- Added support for IntAttributeProperty (Borderlands)
+- Added support for ByteAttributeProperty (Borderlands)
+- Development mode: add new button generate class/struct/enum descriptor from game folder
+- classes tab: added export descriptor file function
+
+UPK Explorer Version 2.2.12.1
+- Removed root package from import object id
+- classes tab: references now show object Id instead of reference name
+
+UPK Explorer Version 2.2.12.0
+- Release version
+
+UPK Explorer Version 2.2.11.3
+- Fixed minor bug where object references would not be re-resolved after being updated
+- Fixed major bug where objects would not be index properly
+- Classes tab: added dedicated tab for atomic structures
+
+UPK Explorer Version 2.2.11.2
+- Added parent class support for object descriptor
+
+UPK Explorer Version 2.2.11.1
+- Added support for FontCharacter structure
+
+UPK Explorer Version 2.2.11.0
+- Release version
+
+UPK Explorer Version 2.2.10.5
+- Fixed minor issue in object import dialog where an object without object references would have an empty tab
+
+UPK Explorer Version 2.2.10.4
+- Fixed issue where moving more than one table could lead to the package being corrupted
+- Fixed null ref issues with class type objects
+- Fixed longed texture names making export dds button inaccessible in extract textures tab
+
+UPK Explorer Version 2.2.10.3
+- Added Class/State/ScriptStruct/Function/Property/Enum/Constant objects support for ~135 PC games
+- Added support for BioMask4Property (Mass Effect 3, Mass Effect LE)
+- Added support for WordProperty (Thief v721.148)
+- Added support for ShortProperty (XCom Declassified v849.32795)
+- Added support for CppCopyStructProperty (Bulletstorm Full Clip Edition v887.41)
+- Added support for XWeakReferenceProperty (Bioshock Infinite v727.75)
+- Added support for QwordProperty (Bioshock Infinite v727.75)
+- Classes tab: Added structures tab
+- Classes tab: import references can now be resolved
+- Implemented navigation in class hierarchy
+- Implemented struct and enum detail in classes tab (export ref only)
+- Implemented basic classes tab in development mode
+- Package scan: Added scan for objects of type State
+- Added support for objects of type State
+- Object editor: full path is now shown for object import references
+- Added custom class/property/struct parser for Bioshock Infinite v727.75
+- Improved generic parser for objects inherited from UProperty
+- Improved generic UFunction parser
+- Improved generic parser for objects inherited from UScript
+- Improved generic parser for objects inherited from UState
+- Object editor; added default properties tab for objects of type class (older versions)
+- Improved generic parser for objects of type class
+- Object editor: Added decoded flags for objects of type class
+- Package scan: Added platform name in title bar
+- Package scan: Added ScriptStructs, Functions, Properties, Enums and Consts
+- Package scan: Class/Func/Prop etc... names and object refs are now used to validate the parser
+
+UPK Explorer Version 2.2.10.2
+- Package scan: Added option to show/hide ignored or excluded files (hidden by default)
+- Package scan: Added option to show/hide packages without any of the scanned object types (hidden by default)
+- Package scan: Added "all supported objects" option with one column per object type
+- Package scan: Redesigned with status color and separate columns for package header and scanned object status
+- Object editor: Fixed bug where two textures or materials with the same indices in different table (export vs import) could be grouped together
+- Added package scan for "class" objects
+- Added support for objects of type Class for Dishonored v801.30 (PC)
+- Added package flags tab in development mode
+- Object editor: Fixed Class/Const/Enum/Property/Function objects modifications not being saved
+- Re-enabled read/write size check
+- Added support for objects of type xxxProperty, Struct, Function, Enum, Constant for Dishonored v801.30 (PC)
+- Fixed Credits.txt accidently reverted back to previous version in 2.2.1.0
+
+UPK Explorer Version 2.2.10.1
+- Implemented MaterialInstanceConstant parser with legacy material expressions
+- Development mode: added modification stats to package scans
+- Minor performance improvements (optimized FString read method, disabled read/write size check)
+- Fixed minor issue with package modification stats encoding
+
+UPK Explorer Version 2.2.10.0
+- Release version
+
+UPK Explorer Version 2.2.9.13
+- Fixed modded package notifications showing with open package
+- Fixed minor issue with package modification stats detection
+- Fixed issue with long names in import object dialog
+
+UPK Explorer Version 2.2.9.12
+- Open game: added warnings about using modded packages for creating game patches (works only with packages modified with version 2.2.9.7 and above)
+- Object Editor: Name edits can be done directly in textboxes, and validated via dedicated popup
+
+UPK Explorer Version 2.2.9.11
+- FBX import/export: fixed normalization issues for vectors with very small values
+- FBX import/export: fixed normalization error for null vectors
+
+UPK Explorer Version 2.2.9.10
+- Object import dialog: "None" and names that are property types can no longer be edited
+
+UPK Explorer Version 2.2.9.9
+- Object editor: Added "Select 'None'" button to edit name dialog for properties
+- Names created automatically in dialogs are now automatically created as unicode if needed.
+- Object editor: Edit property or object name is now done via a dialog that automatically creates new names if needed.
+- Object import dialog: Names are automatically filled and created as needed.
+
+UPK Explorer Version 2.2.9.8
+- FBX import/export: fixed overflow error in computed binormals due to not perfectly normalized normals/tangents
+- FBX import/export: fixed regression in computed binormals / normal.W introduced in 2.2.9.3
+- Fixed packed normal/binormal/tangent encoding/decoding accross all platforms
+- Package editor: Objects tab has been moved to the first position
+- Open package: fixed missing "Loading package..." busy notification
+- Mesh preview: Increased font size for Normal.W and Tangent.W min/max values
+
+UPK Explorer Version 2.2.9.7
+- Package stats are shown under the "Modification stats" tab in development mode
+- Package modification stats are now recorded into the package when it is saved
+
+UPK Explorer Version 2.2.9.6
+- Redesigned Material\Textures tab with texture preview
+- Redesigned MaterialInstanceConstant\Textures tab with texture preview
+- Mesh preview: Added Normal.W and Tangent.W min/max values
+- Object editor: Group path is now shown in import object reference description
+- Fixed issue in Material\Textures tab where not all instances of an edited texture reference would be updated
+- Fixed issue in MaterialInstanceConstant\Textures tab where not all instances of an edited texture reference would be updated
+- Fixed issue in Mesh\Materials tab where not all instances of an edited material reference would be updated
+
+UPK Explorer Version 2.2.9.5
+- Implemented standard MaterialInstanceConstant parser
+
+UPK Explorer Version 2.2.9.4
+- Added support for Leisure Suit Larry: Box Office Bust v531.0
+
+UPK Explorer Version 2.2.9.3
+- FBX import: Fixed incorrect encoding for W component of packed normals (used by the game to generate Binormals)
+- FBX import: Fixed encoding issue with some vertex and normal types
+- Fixed FBX Export error for meshes without normals/tangents
+- Fixed SkeletalMesh write error for Remember Me v832.21
+- Fixed SkeletalMesh write error for Life is Strange v893.21
+- Disabled StaticMesh parser for Lollipop Chainsaw v813.8 (XBOX360)
+
+UPK Explorer Version 2.2.9.2
+- Disabled StaticMesh parser for all versions for Turok (PC)
+- Package scan folder is now persisted
+
+UPK Explorer Version 2.2.9.1
+- Added StaticMesh parser for WWE All Stars v398.37 (PS3/XBOX360)
+- Added StaticMesh parser TNA Impact v380.35 (XBOX360)
+- Added StaticMesh parser Hour of Victory v462.0 (PC)
+- Added StaticMesh parser Monster Madness v429.0 (PC)
+- Added StaticMesh parser Roboblitz v369.6 (PC)
+
+UPK Explorer Version 2.2.9.0
+- Release version
+
+UPK Explorer Version 2.2.8.8
+- FBX import: improved StaticMesh support for MK games
+- Object editor: Added GFxMovieInfo quick filter
+- Object editor: GFxMovieInfo RawData property can now be exported/imported as .swf file
+- FBX export: Added cancellable progress bar for merging vertices
+
+UPK Explorer Version 2.2.8.7
+- FBX import: Skeletal mesh triangle indices array now change automatically between Int16 and Int32 for games with version > 806 (except Transformers, and all Arkham games but Knight)
+
+UPK Explorer Version 2.2.8.6
+- Object editor: Redesigned select object reference dialog
+- Object editor: Added default Material and MIC classname filter to edit mesh section dialog
+- Object editor: Added default Material and MIC classname filter to edit mesh material dialog
+
+UPK Explorer Version 2.2.8.5
+- FBX import: improved edges generation performances and added cancellable progress bar
+- FBX import: fixed overflow error caused by vertices with sum of weights close to zero
+
+UPK Explorer Version 2.2.8.4
+- Object editor: Added SwfMovie quick filter
+- Object editor: SwfMovie RawData property can now be exported/imported as .swf file
+- Object editor: RawData property can now be exported/imported as binary file
+
+UPK Explorer Version 2.2.8.3
+- Added SkeletalMesh parser for DarkVoid v576.66
+- Added SkeletalMesh parser for Remember Me v832.21
+- Added SkeletalMesh parser for Life is Strange v893.21
+
+UPK Explorer Version 2.2.8.2
+- Added support for SkeletalMesh objects using the same face and vertices accross multiple mesh sections (Thief)
+- Object editor: type search now supports multiple types separated by comma
+- Object editor: added quick filters for meshes, materials and textures
+
+UPK Explorer Version 2.2.8.1
+- Added SkeletalMesh parser for Batman: Return to Arkham City v884.101 (PS4)
+- Added custom parser for Batman: Return to Arkham City v884.101 (PS4)
+- Added custom parser for Batman Origins Online v806.103 (XBOX360)
+- Disabled StaticMesh parser for The Battle of Sol v868.0
+- Disabled StaticMesh parser for Scourge Outbreak v745.6
+- Disabled Material parser for The Deadly Tower of Monsters v870.0
+
+UPK Explorer Version 2.2.8.0
+- Release version
+
+UPK Explorer Version 2.2.7.8
+- FBX import: added some clarification to the bone position mismatch dialog as it needs to rely on specific compatible fbx settings.
+- FBX import: implemented vertex weight normalization options
+- FBX export: vertex weights are now unique per bone/weight (blender issue with some Arkham Knight meshes listing the same bone twice)
+- FBX import: fixed rounding issues with imported vertex weights
+- FBX import: improved compatibility with 3ds max files
+
+UPK Explorer Version 2.2.7.7
+- Static mesh data: Bounds can now be edited
+- Skeletal mesh data: Radius can now be edited
+- Skeletal mesh data: Offset can now be edited
+- Skeletal mesh data: Bounds can now be edited
+
+UPK Explorer Version 2.2.7.6
+- Added custom parser for Outlast 2 V882.66 (PC)
+
+UPK Explorer Version 2.2.7.5
+- Object editor: String property encoding can now be switched between ASCII and Unicode.
+
+UPK Explorer Version 2.2.7.4
+- FBX import: Fixed scale issue with Bioshock Infinite's static meshes
+
+UPK Explorer Version 2.2.7.3
+- Fixed issue with skeletal mesh soft vertex type
+
+UPK Explorer Version 2.2.7.2
+- Added custom StaticMesh parser for Bioshock Infinite v727.75
+- Added custom StaticMesh parser for Bioshock Infinite v727.78 (Nintendo Switch)
+
+UPK Explorer Version 2.2.7.1
+- Added FBX validation to prevent importing geometry data that exceeds the max triangle index value
+- Fixed unknown games being part of the alphabetical order in the select game dialog
+- Import as copy: fixed select properties dialog width to prevent long names from being cut off
+
+UPK Explorer Version 2.2.7.0
+- Release version
+
+UPK Explorer Version 2.2.6.8
+- Import as copy: fixed bug where objects without parent package had an empty name
+
+UPK Explorer Version 2.2.6.7
+- FBX Import for static meshes: Preserved original mesh having vertex colors or not
+- FBX Import for static meshes: UV set count is now preserved
+- FBX Import for static meshes: Fixed incorrectly updated vertex color count
+
+UPK Explorer Version 2.2.6.6
+- Mesh preview: fixed performance issue with per vertex bone weights info
+
+UPK Explorer Version 2.2.6.5
+- FBX import/export: added support for Batman Arkham Knight extra vertex weights
+
+UPK Explorer Version 2.2.6.4
+- Mesh preview: Fixed bug where static meshes would show vertex weight error
+- Mesh preview: Added delayed loading for per vertex bone weights info
+
+UPK Explorer Version 2.2.6.3
+- Added per vertex bone weights info to mesh preview (min/max count and sum)
+
+UPK Explorer Version 2.2.6.2
+- Fixed null ref with FBX export for MK games
+
+UPK Explorer Version 2.2.6.1
+- Fixed Tangent/Binormal/Normal issues with fbx export/import
+
+UPK Explorer Version 2.2.6.0
+- Release version
+
+UPK Explorer Version 2.2.5.8
+- FBX import: removed bone hierarchy validation to allow different but compatible bone hierarchies
+
+UPK Explorer Version 2.2.5.7
+- Fixed crash when reopening a folder from a previous session that no longer exists (ex: removable drive, changed drive letters etc...)
+- FBX import: fixed missing bone weights with blende FBX files (armature used as root node)
+
+UPK Explorer Version 2.2.5.6
+- FBX import: fixed incorrect comparison between skeletal mesh and fbx file bone position/translation
+- FBX import: added bone hierarchy validation
+- Import as copy: fixed bug where deleting the copy would prevent importing new objects (duplicate key error)
+- Import as copy: new object name is now copied from imported filename
+- Import as copy: new object name can be edited directly in the dialog
+- Improved shared column width in object editor
+
+UPK Explorer Version 2.2.5.5
+- Fixed LOD bulk data offsets not being updated with mesh modifications (fbx import, adding/removing materials etc...)
+
+UPK Explorer Version 2.2.5.4
+- Fixed bug where object size would not be properly updated when addding materials to skeletal mesh via mesh section edits
+
+UPK Explorer Version 2.2.5.3
+- FBX export now merge vertices with the same position and bone weights
+- Added LOD index to fbx export when mesh has more than one LOD
+- Added select mesh dialog when importing FBX with more than one mesh
+- Unsupported FBX import messages are now displayed in a dedicated message box
+
+UPK Explorer Version 2.2.5.2
+- Object imports table: added group path for owner refs of type export
+- Object imports table: create/update: names can now be type directly in the text boxes
+
+UPK Explorer Version 2.2.5.1
+- Added Load game patch notification to package view in object editor
+- FBX import: fixed issue where fbx uv set count would not match the SkeletalMesh UV set count
+
+UPK Explorer Version 2.2.5.0
+- Release version
+
+UPK Explorer Version 2.2.4.15
+- FBX import: fixed issues with FBX containing less used bones than original mesh
+- FBX import: fixed issue mesh section update for games without bEnableShadowCasting property
+
+UPK Explorer Version 2.2.4.14
+- FBX import: fixed issue with incorrect UV set count for Skeletal meshes
+- FBX import: fixed issue with bone weights > 1
+
+UPK Explorer Version 2.2.4.13
+- FBX import: Added morph geometry data option in case of bone position/rotation mismatch
+
+UPK Explorer Version 2.2.4.12
+- Added show bones option to mesh preview
+- FBX import: Added update skeletal mesh bone position/orientation option in case of mismatch
+
+UPK Explorer Version 2.2.4.11
+- Fixed mesh section material edits not reloading properly when loading game patch
+
+UPK Explorer Version 2.2.4.10
+- Fix crash when editing invalid material in some skeletal meshes (MK games)
+
+UPK Explorer Version 2.2.4.9
+- FBX Import: fixed encoding issue with HalfPos32 vertex types
+
+UPK Explorer Version 2.2.4.8
+- FBX Import: fixed encoding issue with PackedHalf and HalfPos32 vertex types
+
+UPK Explorer Version 2.2.4.7
+- FBX import: Skeletal mesh origin and extension are updated only for vertex types that use it for compression
+
+UPK Explorer Version 2.2.4.6
+- Fixed modified package count not updating when modified package filter was unchecked
+- FBX import/export folder is now persisted
+- FBX export button disability condition is now properly refreshed after the materials are loaded
+
+UPK Explorer Version 2.2.4.5
+- Fixed null ref in mesh preview for static meshes without normals
+- FBX import: Updated skeletal mesh origin and extension values used for vertex storage
+
+UPK Explorer Version 2.2.4.4
+- Object editor: shadow can be enabled/disabled per mesh section for both static and skeletal meshes
+- FBX import for skeletal meshes updates the LODInfo/bEnableShadowCasting property size to match the new mesh section count
+
+UPK Explorer Version 2.2.4.3
+- Materials can now be edited per mesh section for skeletal meshes
+- FBX import for skeletal meshes now supports new skeletal mesh sections and chunks - but cast shadows properties are not updated
+- Fixed performance issues with mesh preview
+
+UPK Explorer Version 2.2.4.2
+- FBX import for Skeletal meshes (WIP)
+- Fixed bug with skeletal mesh preview for meshes that use Int32 triangle indices
+
+UPK Explorer Version 2.2.4.1
+- Fixed error when editing object references in object editor
+
+UPK Explorer Version 2.2.4.0
+- Release version
+
+UPK Explorer Version 2.2.3.6
+- fixed invisible package count in package list
+
+UPK Explorer Version 2.2.3.5
+- select game dialog is now sorted by platform
+- added modified package filter to package list
+
+UPK Explorer Version 2.2.3.4
+- Fixed missing show null materials in mesh preview
+
+UPK Explorer Version 2.2.3.3
+- FBX import: Layer 0 colors, material and normals are now used instead of first found in FBX file
+- FBX import: Vertex colors are no longer mandatory for static meshes with vertex colors (neutral gray is set)
+- Fixed missing vertex colors in FBX export for older static meshes
+- Fixed incorrect vertex color count with older static meshes in mesh preview (development mode)
+- Fixed application crash in the object editor's mesh preview after loading a gamepatch with a modified static mesh
+
+UPK Explorer Version 2.2.3.2
+- Mesh preview now shows vertex color set count in development mode
+- Fixed null ref issue when importing fbx over a StaticMesh with a second set of vertex colors
+- StaticMesh section materials and materials tab edits are now synchronized and update the preview
+- StaticMesh materials can be edited by mesh section in object editor
+
+UPK Explorer Version 2.2.3.1
+- Implemented basic static mehs import (wip)
+- Implemented mesh preview per section with mesh section information tooltip
+
+UPK Explorer Version 2.2.3.0
+- Release version
+
+UPK Explorer Version 2.2.2.4
+- Fixed missing references in material export
+- Fixed error due to texture validation during material import
+
+UPK Explorer Version 2.2.2.3
+- Added package file name to load game progress bar in development mode
+- Added package file name to package scan progress bar
+- Object editor: Texture references can now be edited in Material and MaterialInstanceConstant's texture tab
+
+UPK Explorer Version 2.2.2.2
+- Disabled skeletal mesh parser for WWE All Stars V398.37 (PS3)
+- Added "tables" package scan option
+- Fixed material parser for MK vs DC Universe V402.30 (PS3)
+- Added support for change in endianness between package header and compression meta data for fully compressed packages (ex: with WWE and TNA)
+
+UPK Explorer Version 2.2.2.1
+- Added custom compression flag for Batman Arkham Knight V863.32995 (PS4)
+- Added support for ThiefSkeletalMesh
+- Added MaterialInstancePlatformConstant.Materials property to material resolver for mesh preview/fbx export
+- Added custom parser for WWE All Stars V398.37
+- Implemented Material parser for most games
+
+UPK Explorer Version 2.2.2.0
+- Release version
+
+UPK Explorer Version 2.2.1.21
+- Added custom SkeletalMesh parser for Alpha Protocol V539.91
+- Added custom StaticMesh parser for Alpha Protocol V539.91
+
+UPK Explorer Version 2.2.1.20
+- Enabled StaticMesh parser for Injustice V573.49
+- Enabled StaticMesh parser for Mortal Kombat Komplete Edition V472.46
+- Enabled StaticMesh parser for Mortal Kombat X V677.157
+
+UPK Explorer Version 2.2.1.19
+- Disabled StaticMesh parser for Injustice V573.49
+- Fixed bug where mesh would disappear after zooming and changing up axis in mesh preview
+
+UPK Explorer Version 2.2.1.18
+- Fixed null ref when recompressing fully compressed Oodle package
+- Added Z up vs Y up toggle buttons in mesh preview
+- Show texture alpha is now disabled by default in mesh preview
+- Added show axes option to mesh preview (disabled by default)
+
+UPK Explorer Version 2.2.1.17
+- Added show null materials option to mesh preview (disabled by default)
+- mesh sections with invalid material indices now show red default texture in mesh preview, in development mode (ex:Mortal Kombat Komplete Edition character meshes)
+- Fixed circular reference issue when resolving diffuse textures for mesh preview
+
+UPK Explorer Version 2.2.1.16
+- Disabled StaticMesh parser for Mortal Kombat Komplete Edition v472.46
+- Fixed light in mesh preview
+
+UPK Explorer Version 2.2.1.15
+- Fixed Up and front axis in mesh preview and FBX export
+- Fixed issue in mesh preview when trying to cast non texture objects as Texture2D
+
+UPK Explorer Version 2.2.1.14
+- Disabled SkeletalMesh parser for Yaiba: Ninja gaiden Z V860.97 and V860.98
+- Fixed issue with object import where properties could not be converted to nameless properties
+- Fixed issue with fully compressed package detection for Batman Arkham City v805.102 (WiiU)
+- Fixed issue with incorrectly calculated bone yaw pitch roll in FBX export
+
+UPK Explorer Version 2.2.1.13
+- Added custom parser for Batman Arkham City v805.102 (WiiU)
+- Improved diffuse texture resolving for mesh preview
+
+UPK Explorer Version 2.2.1.12
+- Fixed tfc compression flag for XCom2 V848.108 (Nintendo Switch)
+- Fixed FBX export issue with multiple materials
+- Added UV indices to FBX export
+
+UPK Explorer Version 2.2.1.11
+- Added custom parser for Outlast2 V882.200 (Nintendo Switch)
+- Added custom parser for Mass Effect V684.153 (PS3)
+- Fixed tfc compression flags for Outlast V868.3 (Nintendo Switch)
+- Improved compression method detection for fully compressed packages
+
+UPK Explorer Version 2.2.1.10
+- Fixed FBX Export for Maya
+- Added oodle compression flag for: Borderlands v595.58 (Nintendo Switch)
+- Fixed FByteBulkData offset for incorrectly modded package files
+
+UPK Explorer Version 2.2.1.9
+- Added custom parsers for all Batman Arkham Origins Xbox360 versions
+- Added MaterialInstanceConstant parser for Batman Arkham Origins Online v807.104
+- Added MaterialInstanceConstant parser for Batman Arkham Origins Online v807.103 (PS3)
+
+UPK Explorer Version 2.2.1.8
+- FBX materials are now split by mesh section instead of material ref
+- Fixed null ref in UV maps tab when skeletal mesh section material index cannot be resolved
+
+UPK Explorer Version 2.2.1.7
+- Added WiiU platform
+- Fixed custom oodle compression flag for: XCom 2 v846.108
+
+UPK Explorer Version 2.2.1.6
+- Added custom parser for Mortal Kombat 11 v769.157 (Nintendo Switch)
+- Added export FBX to mesh lods
+- Rotator's yaw, pitch and roll are now edited in degrees in object editor and mesh data
+
+UPK Explorer Version 2.2.1.5
+- Added custom parser for: Borderlands v595.58 (Nintendo Switch)
+
+UPK Explorer Version 2.2.1.4
+- Changed default oodle version from 8 to 7
+- Set Oodle 7 for Mass Effect LE PC (instead of 8)
+- Set Oodle 4 for Borderlands - The Pre-Sequel v832.46 (Nintendo Switch)
+- Set Oodle 6 for Borderlands 2 v884.46 (Nintendo Switch)
+- Set Oodle 4 for XCom 2 v846.108
+
+UPK Explorer Version 2.2.1.3
+- Implemented LZ4 compression method
+- Added custom LZ4 compression flag for: Bioshock Infinite v727.78 (Nintendo Switch)
+- Added custom oodle tfc compression flag for: Borderlands - The Pre-Sequel v832.46 (Nintendo Switch)
+- Added custom oodle tfc compression flag for: Borderlands 2 v884.46 (Nintendo Switch)
+- Added custom oodle compression flag for: XCom 2 v846.108
+- Added oodle and LZ4 compression for texture packs with custom tfc
+
+UPK Explorer Version 2.2.1.2
+- Added UV map to mesh preview in meshes tab and object editor mesh preview
+- Added tfc support for: XCom2 War of the Chosen v845.120
+- Added custom parser for: Bioshock Infinite v727.78 (Nintendo Switch)
+- Added custom compression flag for oodle on Nintendo switch
+- Added custom oodle compression flag for: Borderlands - The Pre-Sequel v832.46 (Nintendo Switch)
+- Added custom oodle compression flag for: Borderlands 2 v884.46 (Nintendo Switch)
+
+UPK Explorer Version 2.2.1.1:
+- Added diffuse, UV, normals in mesh preview (wip)
+- Added custom parser for: XCom2 War of the Chosen v845.120
+
+UPK Explorer Version 2.2.1.0:
+- Release version
+
+UPK Explorer Version 2.2.0.20:
+- Fixed issue with high memory consumption when loading textures
+
+UPK Explorer Version 2.2.0.19:
+- Fixed issue with StaticMesh parser for: A Hat in Time v888.5
+
+UPK Explorer Version 2.2.0.18:
+- Fixed issue with game patch marking object updates as deleted instead of updated (introduced delete object implementation in 2.2.0.2)
+
+UPK Explorer Version 2.2.0.17:
+- Fixed issue with append data to package with new data chunks (introduced with data chunk group implementation in 2.2.0.8)
+
+UPK Explorer Version 2.2.0.16:
+- Added custom SkeletalMesh parser for: A Hat in Time v881.5
+- Added custom SkeletalMesh parser for: A Hat in Time v882.5
+- Added custom SkeletalMesh parser for: A Hat in Time v888.5
+
+UPK Explorer Version 2.2.0.15:
+- Fixed custom StaticMesh parser issue for A Hat in Time v893.5
+- Local storage FByteBulkData with offset errors are now ignored to support packages modded with 3rd party tools
+
+UPK Explorer Version 2.2.0.14:
+- Texture pack creation for packages with bulk data table: added validation rule for dds file with different resolution than package texture
+- Texture properties are no longer updated during injection for packages with a bulk data table
+- Added PSF file support for direct texture injection in open package mode
+- Added texture pack support for psf files
+
+UPK Explorer Version 2.2.0.13:
+- Added custom SkeletalMesh parser for: A Hat in Time v893.5
+- Added custom StaticMesh parser for: A Hat in Time v893.5
+
+UPK Explorer Version 2.2.0.12:
+- Fixed local separate data texture injection issue with empty mips
+
+UPK Explorer Version 2.2.0.11:
+- Implemented Oodle compression (version 4 and 5)
+
+UPK Explorer Version 2.2.0.10:
+- Implemented append data for packages with compressed chunk groups (larger size edits)
+- Fixed dds lower mip preview in texture pack creation tab
+- Implemented local separate data texture injection
+
+UPK Explorer Version 2.2.0.9:
+- Packages that use the Oodle compression method are now re-compressed using ZLib instead of LZO
+- added alpha channel checkbox to mip preview
+
+UPK Explorer Version 2.2.0.8:
+- Fixed typp in skeletal mesh bones tab
+- Fixed detail button not working for unsupported struct properties in object editor
+- Implemented package save for packages with compressed chunk groups (same size edits only)
+- Implemented custom texture parser for Mortal Kombat 11 v769.157 (injection not supported yet)
+- Implemented PSF storage method for Texture2D
+
+UPK Explorer Version 2.2.0.7:
+- Implemented custom package parser for Mortal Kombat 11 v769.157 (recompression not supported yet)
+
+UPK Explorer Version 2.2.0.6:
+- Implemented FByteBulkData custom Oodle compression flag for MassEffect 1 LE v684.171
+- Implemented FByteBulkData custom Oodle compression flag for MassEffect 2 LE v684.168
+- Implemented FByteBulkData custom Oodle compression flag for MassEffect 3 LE v685.205
+- Implemented FByteBulkData custom Oodle compression flag for Injustice 2 v732.157
+
+UPK Explorer Version 2.2.0.5:
+- Fixed issue with "empty array" no longer showing in properties editor
+- Array's dedicated pages now show the data types in the navigation bar's tooltips
+- Implemented custom parser for Injustice 2 v732.157
+- Implemented Oodle decompression method. Recompression is done with LZO
+
+UPK Explorer Version 2.2.0.4:
+- Object property editor performance: fixed performance issue with large objects (row count based display conditions)
+
+UPK Explorer Version 2.2.0.3:
+- Object property editor performance: large arrays are now displayed in a dedicated page instead of the property page.
+- Object property editor performance: large binary data is now displayed in a dedicated page instead of an expander in the property page
+
+UPK Explorer Version 2.2.0.2:
+- Added custom SkeletalMesh parser for Blacksite: Area 51 v377.25
+- Added custom SkeletalMesh parser for Mortal Kombat Vs DC Universe v402.30 for XBOX360
+- Implemented delete object function in object editor in open package mode
+
+UPK Explorer Version 2.2.0.1:
+- Custom parser added for Blacksite: Area 51 v377.25
+
+UPK Explorer Version 2.2.0.0:
+- Release version
+
+UPK Explorer Version 2.1.0.37
+- Fixed preview for skeletal meshes with PackedHalf vertex type
+
+UPK Explorer Version 2.1.0.36
+- Added custom SkeletalMesh parser for Transformers: Dark of the Moon v537.174
+- Added custom StaticMesh parser for Transformers: Dark of the Moon v537.174
+
+UPK Explorer Version 2.1.0.35
+- Fixed crash when editing invalid object reference
+- Fixed issue with name arrays showing invalid name index after object import
+
+UPK Explorer Version 2.1.0.34
+- Added "updateUITextureSizeProperties" game profile option for upscaled UI textures (Batman Arkham Knight fix)
+- Added "enableNewCompressedChunks" game profile option to enable/disable new compressed data chunks when objects are moved to the end of the package (Batman Arkham Knight fix)
+
+UPK Explorer Version 2.1.0.33
+- Added custom parser for Borderlands the handsome collection PS4
+
+UPK Explorer Version 2.1.0.32
+- Fixed issue where LZXrecompression profile option would not be taken into account for single package edits
+- LZXrecompression default value is now LZX
+
+UPK Explorer Version 2.1.0.31:
+- Fixed compressed chunk signature being written as little endian instead of big endian for XBox360 and PS3
+
+UPK Explorer Version 2.1.0.30:
+- Added LZXrecompression profile option
+- LZX packages, mips and tfcs are recompressed to the method defined in the game profile
+
+UPK Explorer Version 2.1.0.28:
+- Fixed incorrect MipTailInfo/MipTailBaseIdx for XBox360
+- Fixed incorrect mipmap generation for rectangular texture with pixel format G8, V8U8 and A8R8G8B8
+
+UPK Explorer Version 2.1.0.26:
+- Implement TOC file path profile option
+
+UPK Explorer Version 2.1.0.25:
+- Fixed issue with compression method detection with LZX fully compressed packages
+
+UPK Explorer Version 2.1.0.24:
+- Implemented last storage mip max size used in various XBox360 games (4096b limit instead of full 128x128 tile)
+
+UPK Explorer Version 2.1.0.23:
+- Fixed issue where an empty mip following another empty mip would be mis-identified as a sub-mip on XBox360
+
+UPK Explorer Version 2.1.0.22:
+- Implemented texture encoding and injection for XBox360
+
+UPK Explorer Version 2.1.0.21:
+- Added platform in titlebar (for both game and packages)
+- Added grey background to texture preview with scale to fit and antialiasing option
+- In development mode, added image storage data preview for XBox360 textures
+- Implemented decoding of sub mips for XBox360 textures
+
+UPK Explorer Version 2.1.0.20:
+- Fixed PS4 G8, V8U8 and A8R8G8B8 encoding/decoding
+- Added custom parser for Dishonored v804.42 PS4
+- Fixed bug in meshes tab where detail would try to load incorrect object with same id as the mesh
+
+UPK Explorer Version 2.1.0.19:
+- Implemented PS4 texture encoding/decoding
+
+UPK Explorer Version 2.1.0.18:
+- Fixed issue with inserting new objects in packages that have objects with offset or size = 0, resulting in HeaderSize not being updated
+
+UPK Explorer Version 2.1.0.17:
+- Added compression method detection for LZX fully compressed packages
+
+UPK Explorer Version 2.1.0.16:
+- Added support for LZX compression/decompression
+
+UPK Explorer Version 2.1.0.15:
+- Fixed bug where importing object from a different platform with same package version would not port the object to the target package/platform
+- Added append data support for fully compressed packages with uncompressed data at the end of the package
+
+UPK Explorer Version 2.1.0.14:
+- Added custom parser for Batman Arkham Origins v806.137 PS3/XBox360
+- Added custom parser for Batman Arkham Origins Online v807.103 PS3
+
+UPK Explorer Version 2.1.0.13:
+- Disabled texture encoding for Rainbow Six Vegas 2	v241.71 PS3
+- Added support for TailMipInfo property for Batman games
+- Open package: Added close package notification after textures are injected
+
+UPK Explorer Version 2.1.0.12:
+- Disabled SkeletalMesh parser for Destroy All Humans - Path of the Furon v539.90 PS3
+- Disabled StaticMesh parser for Destroy All Humans - Path of the Furon v539.90 PS3
+- Disabled SkeletalMesh parser for Mortal Kombat v472.46 PS3
+- Disabled texture encoding for Mortal Kombat v472.46 PS3
+- Disabled SkeletalMesh parser for Mortal Kombat Vs DC Universe v402.30 PS3
+
+UPK Explorer Version 2.1.0.11:
+- Disabled unsupported StaticMesh parser for 50 Cent: Blood on the Sand v538 PS3
+- Disabled unsupported SkeletalMesh parser for Army of Two v445.79 PS3
+- Enabled SkeletalMesh packed vertices for PS3 and XBox360 platforms
+- Added custom parser for Destroy All Humans - Path of the Furon v539.90 PS3
+- Skeletal mesh preview in dev mode now show vertex storage type
+- Disabled texture encoding for Injustice v573.49 PS3
+
+UPK Explorer Version 2.1.0.10:
+- Added support for PS3 G8, V8U8 and A8R8G8B8 encoding
+- Fixed bug where local texture injection would create compressed mips if the original texture was using TFCs
+
+UPK Explorer Version 2.1.0.9:
+- Improved PS4 texture decoder (fixed issues with odd resolutions)
+- Implemented PS3 G8, V8U8 and A8R8G8B8 decoders
+
+UPK Explorer Version 2.1.0.8:
+- Implemented decoder for XBox360 textures
+- Fixed texture extract not using PS4 decoder
+- Removed texture pack and texture injection tabs for XBox360 and PS4 platforms
+
+UPK Explorer Version 2.1.0.7:
+- Implemented decoder for PS4 textures
+
+UPK Explorer Version 2.1.0.6:
+- Console platform subfoder in workspaces are now between brackets to so they appear on top of the folders list
+- Fixed incorrect package name in save copy notification
+- Closing a game with DLCs now shows select main game or DLC dialog again instead of closing
+- Prevented main window from being clicked with some option selection dialogs
+
+UPK Explorer Version 2.1.0.5:
+- fixed object export file version and platform read/write
+- added sub folder in workspace folder for platforms other than PC
+
+UPK Explorer Version 2.1.0.4:
+- Added game platform support in game profiles
+- Added game platform support in object descriptor's nameless properties
+- Added game platform selection for package scan
+- Open game now shows generic profiles selection option only in development mode
+- Open package now shows generic profiles selection option in development mode
+- game profile selection now shows game platform
+- game profile selection filters out platforms that don't match the package's endianness
+- game profiles can now be stored in subfolders
+
+UPK Explorer Version 2.1.0.3:
+- Fixed bug in property parser where some arrays could be misidentified as arrays of objects
+- Added group by id option in meshes tab, checked by default
+
+UPK Explorer Version 2.1.0.2:
+- Fixed issue with mipmap generation in rectangular textures
+- Objet import: Object references are now automatically completed if there's only one match
+- Mesh collection now groups meshes by Id (packages are visible in the package tab)
+
+UPK Explorer Version 2.1.0.0:
+- Release version
+
+UPK Explorer Version 2.0.5.14:
+- Fixed bug when exporting object without properties (ex: packages)
+- Import object ref remapping dialog is now larger
+- select name dialog is now larger
+- Fixed invalid name bug when importing object from another package
+
+UPK Explorer Version 2.0.5.13:
+- Select object reference dialog now shows the updated name when an object is renamed
+
+UPK Explorer Version 2.0.5.11:
+- TexturePacks folder has been changed to MyMod folder. Existing folder is renamed automatically.
+
+UPK Explorer Version 2.0.5.10:
+- Optimized UX for small screen with single package editing
+- Moved progress bar to overlay to save screen space
+- Fixed bug with object import update in game patch not being taken into account
+
+UPK Explorer Version 2.0.5.9:
+- Create game patch tab now instanciates only the selected package to avoid loading all packages
+- Textures are now loaded only when the texture tab or texture pack creation/inject tab is clicked
+- Meshes tab loading bar now shows loading package count progress
+- Tab order has been changed so edit package / create game patch tab will be the default tab
+- Package editor: objects are now loaded only when clicked or when object's package patch is reloaded
+- Save copy notification now has a close package button
+
+UPK Explorer Version 2.0.5.8:
+- Meshes tab is now hidden in standard mode
+- Save copy message box has been replaced by blocking notification
+- Fixed dialog width for display on smaller screens
+- Moved package dialogs display to main content to optimize screen space
+
+UPK Explorer Version 2.0.5.7:
+- Package patches can now be re-loaded via the load patch button on the package detail view
+
+UPK Explorer Version 2.0.5.6:
+- Basic patch patch implementation
+
+UPK Explorer Version 2.0.5.5:
+- Fixed bug where TextureCacheFileName was not removed when original mips used TFC for storage
+- Fixed bug preventing the renaming of objects without properties 
+
+UPK Explorer Version 2.0.5.4:
+- TextureCacheFileName property is once again removed when no tfc is used in the texture, unless specified in the game profile (ex: Tron)
+
+UPK Explorer Version 2.0.5.3:
+- Fixed big endian support for fully compressed packages
+
+UPK Explorer Version 2.0.5.2:
+- Fixed texture pack support for Batman games
+
+UPK Explorer Version 2.0.5.1:
+- Added basic read/write support for big endian (used by PS3 and XBOX360)
+
+UPK Explorer Version 2.0.5.0:
+- Release version
+
+UPK Explorer Version 2.0.4.8:
+- Fixed bug in Texture2D parser for Injustice v573.49
+- Fixed bug in object reference dialog where the wrong reference was selected
+- Fixed bug in SkeletalMesh parser for Mortal Kombat Komplete v472.46
+- Fixed bug in SkeletalMesh parser for Injustice v573.49
+- Fixed bug in SkeletalMesh parser for DmC: Devil May Cry v845.4
+- Fixed Material, MaterialInstanceConstant, SkeletalMesh and StaticMesh parsers issue when extra data size = 0
+
+UPK Explorer Version 2.0.4.7:
+- Added custom StaticMesh parser for Mass Effect 2 v512.130
+- Added custom SkeletalMesh parser for Mirror's Edge v536.43
+- Added custom SkeletalMesh parser for XCom Declassified v849.32795
+- Added custom StaticMesh parser for XCom Declassified v849.32795
+- Added custom SkeletalMesh parser for Aliens: Colonial Marines v787.47
+- Added custom SkeletalMesh parser for DmC: Devil May Cry v845.4
+- Disabled custom SkeletalMesh parser for Stranglehold v375.25 (not working)
+
+UPK Explorer Version 2.0.4.6:
+- Added custom SkeletalMesh parser for Gears of War v490.9
+- Added custom SkeletalMesh parser for Hunted: The Demon's Forge v709.0
+
+UPK Explorer Version 2.0.4.5:
+- Added custom SkeletalMesh parser for Hour of Victory	v462.0
+- Added custom SkeletalMesh parser for Mass Effect 1 v491.1008
+- Added custom SkeletalMesh parser for Medal of Honor Airborne v421.11
+- Added custom SkeletalMesh parser for Monster Madness	 v429.0
+- Added custom SkeletalMesh parser for Roboblitz v369.6
+- Added custom SkeletalMesh parser for Stranglehold v375.25
+- Added custom SkeletalMesh parser for Turok v393.58
+- Added custom SkeletalMesh parser for Injustice v573.49
+- Added custom SkeletalMesh parser for Mortal Kombat Komplete v472.46
+- Added custom StaticMesh parser for Injustice v573.49
+- Added custom StaticMesh parser for Mortal Kombat Komplete v472.46
+- Added custom StaticMesh parser for Mortal Kombat X v677.157
+
+UPK Explorer Version 2.0.4.4:
+- TextureCacheFileName property is no longer removed when no tfc is used in the main mips. This prevents crashes with some textures/games
+
+UPK Explorer Version 2.0.4.3:
+- Larger tables (names/import/exports) are now moved to the end of the package if a shaderCache object is found
+- Larger tables (names/import/exports) are now moved to the end of the package if "enableExpandTables" is disabled in the game profile
+
+UPK Explorer Version 2.0.4.2:
+- Fixed bug where object imported as copy would not show in the list when no filters were active
+
+UPK Explorer Version 2.0.4.1:
+- Added import as copy option to object editor
+
+UPK Explorer Version 2.0.4.0:
+- Release version
+
+UPK Explorer Version 2.0.3.15:
+- Fixed bug where import dialog would not show the original object properties
+
+UPK Explorer Version 2.0.3.14:
+- Fixed regression introduce with previous bugfix for Texture2D properties editing
+- Fixed bug where optional headersize was not updated with size changes in name or import table
+- Fixed bug where AppendData function would not refresh datablocks in reader/writer, causing errors when moved object needed further read/writes
+
+UPK Explorer Version 2.0.3.13:
+- Added support for Batman Gangland v806.102
+
+UPK Explorer Version 2.0.3.12:
+- Fixed bug in object editor where importing Texture2D would not clear the original Texture2D data properly
+- Fixed bug in object editor where saving Texture2D properties due to object being partially loaded
+
+UPK Explorer Version 2.0.3.11:
+- Fixed bug where property size was not properly calculated after object import
+
+UPK Explorer Version 2.0.3.10:
+- Fixed bug where some property edits resulting in larger size would not be take the new size into account
+- Added properties import/preserve/remove options during object import
+
+UPK Explorer Version 2.0.3.9:
+- Fixed object import bug where the object was trying and failing to convert nameless properties within the same package version
+- Added custom SkeletalMesh parser for Batman: Arkham Knight v863.32995
+- Added custom StaticMesh parser for Batman: Arkham Knight v863.32995
+
+UPK Explorer Version 2.0.3.8:
+- Fixed bug where nested arrays would not have their names collapsed in object editor
+- Implemented basic conversion for importing properties between different package version (most are incompatible)
+- Added create and resolve missing names function in object import dialog
+- Added support for nested object descriptor (so nested object properties can be mapped)
+
+UPK Explorer Version 2.0.3.7:
+- Added support for arrays of name in ObjectDescriptors.xml
+
+UPK Explorer Version 2.0.3.6:
+- Name table replace all now supports replacing with a string of different lenght than the original
+- Added name preview for unknown arrays with fixed item size = 8B
+- Moved nameless properties code to name mapping to ObjectDescriptor.xml (used by some batman games)
+- Added "Set all unresolved references to null" function in object import reference remapping dialog
+
+UPK Explorer Version 2.0.3.5:
+- Added custom SkeletalMesh parser for Bioshock Infinite v727.75
+
+UPK Explorer Version 2.0.3.4:
+- Object editor now has an exact match option for type search
+- Package editor now shows the package version
+- Added custom MaterialInstanceConstant parser for Batman: Arkham City v805.101
+- Added custom MaterialInstanceConstant parser for Batman: Arkham Origins v807.138
+- Added custom Material parser for Batman: Arkham Origins v807.138
+
+UPK Explorer Version 2.0.3.3:
+- Added custom StaticMesh parser for Batman: Arkham Asylum v576.21
+- Added custom StaticMesh parser for Batman: Arkham City v805.101
+- Added custom StaticMesh parser for Batman: Arkham Origins v807.138
+- Added custom StaticMesh parser for Batman: Arkham Origins Online v807.104
+- Object editor now features a preview of the reference scan if object contains unsupported data (development mode only)
+
+UPK Explorer Version 2.0.3.2:
+- Added custom SkeletalMesh parser for Batman: Arkham Asylum v576.21
+- Added custom SkeletalMesh parser for Batman: Arkham City v805.101
+- Added custom SkeletalMesh parser for Batman: Arkham Origins v807.138
+- Added custom SkeletalMesh parser for Batman: Arkham Origins Online v807.104
+
+UPK Explorer Version 2.0.3.1:
+- Added custom SkeletalMesh parser for Transformers: War for Cybertron v511.144
+- Added custom SkeletalMesh parser for Transformers: War for Cybertron v511.145
+- Added custom StaticMesh parser for Transformers: War for Cybertron v511.144
+- Added custom StaticMesh parser for Transformers: War for Cybertron v511.145
+
+UPK Explorer Version 2.0.3.0:
+- Release version
+
+UPK Explorer Version 2.0.2.25:
+- Fixed bug where objects moved to the end of the package where not properly shifted when also adding name or import entry
+- added Mesh origin and rotation edit for SkeletalMesh objects
+- added Materials edit for StaticMesh and SkeletalMesh objects
+
+UPK Explorer Version 2.0.2.24:
+- Added grid splitter between package list and package detail in Edit package tab
+- Fixed issue with Id remappings generation where excluded files and folders would be included in the scan
+- Objects with parsing error no longer cause object shifting to crash (insert name entry, import table entry or "enableObjectDataShift" option)
+- Objects with parsing error can no longer be imported/exported
+- Objects with parsing error can be renamed
+- Objects with parsing error in the serialized data will still show properties as readonly
+
+UPK Explorer Version 2.0.2.23:
+- Fixed issue with adding name or object import entries with some package types
+- Fixed missing static and skeletal mesh count in meshes tab
+
+UPK Explorer Version 2.0.2.22:
+- Added package to mesh group path in the meshes tab when a game is opened
+- Fixed bug with "enableObjectDataShift" option when texture with new mipmaps is inserted into the package
+
+UPK Explorer Version 2.0.2.21:
+- Implemented "enableObjectDataShift" game profile option to keep modified objects that have become larger in place instead of moving them to the end of the package
+- Implemented "enableObjectDataShift" game profile option to keep modified textures that have become larger in place instead of moving them to the end of the package
+
+UPK Explorer Version 2.0.2.20:
+- Fixed bug when importing Texture2D with locally compressed mipmaps
+
+UPK Explorer Version 2.0.2.19:
+- Fixed bug when inserting data in Borderland's uncompressed "compressed data chunks"
+
+UPK Explorer Version 2.0.2.18:
+- Fixed issue preventing saving a package copy due validation not being initialized/reset when undoing changes in object editor
+
+UPK Explorer Version 2.0.2.17:
+- Added custom Material parser for Borderlands 2 v832.46
+- Added custom Material parser for Tiny Tina's Assault on Dragon Keep v832.46
+- Added custom Material parser for Borderlands - The Pre-Sequel v832.46
+- Added custom Material parser for Borderlands 2 VR v895.46
+- Added custom MaterialInstanceConstant parser for Borderlands 2 v832.46
+- Added custom MaterialInstanceConstant parser for Tiny Tina's Assault on Dragon Keep v832.46
+- Added custom MaterialInstanceConstant parser for Borderlands - The Pre-Sequel v832.46
+- Added custom MaterialInstanceConstant parser for Borderlands 2 VR v895.46
+
+UPK Explorer Version 2.0.2.16:
+- Added custom StaticMesh parser for Borderlands v584.57
+- Added custom StaticMesh parser for Borderlands v584.58
+- Added custom StaticMesh parser for Borderlands v594.58
+- Added custom StaticMesh parser for Borderlands 2 v832.46
+- Added custom StaticMesh parser for Tiny Tina's Assault on Dragon Keep v832.46
+- Added custom StaticMesh parser for Borderlands - The Pre-Sequel v832.46 (Does not work. Parsing error)
+- Added custom StaticMesh parser for Borderlands 2 VR v895.46
+
+UPK Explorer Version 2.0.2.15:
+- Unuspported static or skeletal meshes are no longer shown under the Meshes tab
+- Added custom SkeletalMesh parser for Borderlands v584.57
+- Added custom SkeletalMesh parser for Borderlands v584.58
+- Added custom SkeletalMesh parser for Borderlands v594.58
+- Added custom SkeletalMesh parser for Borderlands 2 v832.46
+- Added custom SkeletalMesh parser for Tiny Tina's Assault on Dragon Keep v832.46
+- Added custom SkeletalMesh parser for Borderlands - The Pre-Sequel v832.46
+- Added custom SkeletalMesh parser for Borderlands 2 VR v895.46
+
+UPK Explorer Version 2.0.2.14:
+- Disabled saving with larger name table when ShaderCache objects are found within the package
+- Disabled saving with larger import table when ShaderCache objects are found within the package
+- Disabled saving with larger object when SharedCache objects are located after it within the package
+
+UPK Explorer Version 2.0.2.13:
+- Fixed bug while writing StaticMesh for Deadpool v846.181
+- Fixed bug while writing StaticMesh for Transformers: Fall of Cybertron v846.181
+- Fixed bug while writing StaticMesh for Transformers: Rise of the Dark Spark v846.181
+
+UPK Explorer Version 2.0.2.12:
+- Fixed issue where remapped object reference was not properly selected during object import
+- Fixed issue where editing object reference property would not select the correct object in the select object reference dialog
+- Fixed missing names in the MaterialInstanceConstance names tab
+
+UPK Explorer Version 2.0.2.11:
+- Added custom StaticMesh parser for Deadpool v846.181
+- Added custom StaticMesh parser for Transformers: Fall of Cybertron v846.181
+- Added custom StaticMesh parser for Transformers: Rise of the Dark Spark v846.181
+
+UPK Explorer Version 2.0.2.10:
+- Added SkeletalMeshSkeleton parser (same as SkeletalMesh parser)
+
+UPK Explorer Version 2.0.2.9:
+- Implemented basic parser for MaterialInstanceConstant
+- Added MaterialInstanceConstant in scan package function
+- Added custom SkeletalMesh parser for Deadpool v846.181
+- Added custom SkeletalMesh parser for Transformers: Fall of Cybertron v846.181
+- Added custom SkeletalMesh parser for Transformers: Rise of the Dark Spark v846.181
+
+UPK Explorer Version 2.0.2.8:
+- Fixed bug where package scan for materials would scan for textures instead
+- Added custom material parser for Borderlands 2 VR v895.46
+- Added custom material parser for Life is Strange v893.21
+- Added material parser exclusion for unsupported version numbers
+
+UPK Explorer Version 2.0.2.7:
+- Fixed a bug where Static or Skeletal meshes where loaded with unsupported parser
+
+UPK Explorer Version 2.0.2.6:
+- Fixed null ref in materials without optional expressions or materials
+- Fixed issue in import object dialog that prevented from setting a null reference
+- Prevented setting or remapping "None" as a name when remapping names in import object dialog
+
+UPK Explorer Version 2.0.2.5:
+- Fixed import bug for Material objects where only properties were imported
+- Fixed refresh issue when importing Materials
+- Fixed refresh issue when importing Static Meshes
+
+UPK Explorer Version 2.0.2.4:
+- Added standard parser for Material objects
+
+UPK Explorer Version 2.0.2.3:
+- Fixed issues with inserting data in compressed packages (using object import larger than original)
+
+UPK Explorer Version 2.0.2.2:
+- Removed missing default tfc error check as it caused issues when opening a single package
+
+UPK Explorer Version 2.0.2.1:
+- Open game folder / open package folder are now persisted separately
+- Package Editor: Added the ability to import/export objects data. If Object parser is supported, an reference remap dialog is shown when importing
+- Package Editor: Added preview for objects with supported parser (Texture2D, StaticMesh, SkeletalMesh)
+- Package Editor: edit object reference now shows the object group path instead of name only
+- Added Meshes tab with preview for games with supported Static/SkeletalMesh parsers
+- Added standard parser for StaticMesh objects
+- Added standard parser for SkeletalMesh objects
+- Added custom StaticMesh parser for Dishonored v801.30
+- Added custom SkeletalMesh parser for Dishonored v801.30
+
+UPK Explorer Version 2.0.2.0:
+- Release version
+
+UPK Explorer Version 2.0.1.11:
+- Added the possibility to add new names in the name table in "Edit packages"
+- Added the possibility to add new objects in the object imports table in "Edit packages"
+- Fixed bug when inserting data several times in the middle of a package (used in package editor)
+
+UPK Explorer Version 2.0.1.9:
+- Objects in "Edit Packages" are now grouped
+
+UPK Explorer Version 2.0.1.8:
+- Fixed UI freeze in object properties editor due to large byte array property
+
+UPK Explorer Version 2.0.1.7:
+- Fixed disabled custom parser for Tom Clancy's Rainbox Six - Vegas 2 v241.71
+
+UPK Explorer Version 2.0.1.6:
+- Added custom parser for Tom Clancy's Rainbox Six - Vegas 2 v241.71 (limited mipmap storage support)
+
+UPK Explorer Version 2.0.1.5:
+- It is now possible to rename an object in "Edit Package\Objects\", as well as change the name suffix
+
+UPK Explorer Version 2.0.1.4:
+- Fixed null ref when no excluded folders are defined in the profile
+
+UPK Explorer Version 2.0.1.3:
+- Added support for excluded subfolders in the game profiles's package folders (see sample profile)
+
+UPK Explorer Version 2.0.1.2:
+- Added mipmap FByteBulkData debug info
+
+UPK Explorer Version 2.0.1.1:
+- Added error handling on "Extract textures" tab initialization
+
+UPK Explorer Version 2.0.1.0:
+- Fixed modded packages with modified offsets causing a blocking error
+- Release version
+
+UPK Explorer Version 2.0.0.9:
+- Enabled parser for Transformers: Fall of Cybertron v511.145
+
+UPK Explorer Version 2.0.0.8:
+- Added support for DarkVoid's X360GammaData structure
+- Added support for Mortal Kombat X v677.157's tfc names stored as string instead of name property
+
+UPK Explorer Version 2.0.0.7:
+- Open package: Added the ability to inject textures directly into a package without tfc
+
+UPK Explorer Version 2.0.0.6:
+- Fixed bug in custom Texture2D parser for Deadpool v846.181
+- Fixed bug in custom Texture2D parser for Transformers: Fall of Cybertron v846.181
+- Fixed bug in custom Texture2D parser for Transformers: Rise of the Dark Spark v846.181
+- Fixed bug in custom Texture2D parser for Transformers: War for Cybertron v846.181
+
+UPK Explorer Version 2.0.0.5:
+- Fixed disabled custom parser for Mortal Kombat Komplete Edition v472.46
+- Fixed disabled custom parser for Mortal Kombat X v677.157
+- Fixed null ref due to null package profile in fully compressed packages
+
+UPK Explorer Version 2.0.0.4:
+- Added support for PF_B8G8R8A8 pixel format
+- Added custom parser for Deadpool v846.181
+- Added custom parser for Transformers: Fall of Cybertron v846.181
+- Added custom parser for Transformers: Rise of the Dark Spark v846.181
+- Added custom parser for Transformers: War for Cybertron v846.181
+- Added custom parser for Injustice v573.49
+- Added custom parser for Mortal Kombat Komplete Edition v472.46
+- Added custom parser for Mortal Kombat X v677.157
+
+UPK Explorer Version 2.0.0.3:
+- added TFCpath2 to game profiles to revolve TFC files from Borderlands 2's "Big Game Hunt" DLCs
+- added TFCpath2 to SampleProfile.xml
+
+UPK Explorer Version 2.0.0.2:
+- Fixed missing textures tab in development mode
+- Fixed incorrect checksum mipmap comparison for vertical rectangular textures
+
+UPK Explorer Version 2.0.0.1:
+- fixed bug where textures without properties would report error instead of being ignored
+
+UPK Explorer Version 2.0.0.0:
+- Release version
+
+UPK Explorer Version 1.4.3.2:
+- Added standard/advanved/development mode (persisted)
+
+UPK Explorer Version 1.4.3.1:
+- Fixed conflict between longer names in properties vs name table
+- Fixed incorrectly calculated datasize for nameless properties of type string
+
+UPK Explorer Version 1.4.3.0:
+- Added support for longer names in names table
+- Added support for longer or shorter strings in object properties
+
+UPK Explorer Version 1.4.2.9:
+- Added support for Object reference array properties
+
+UPK Explorer Version 1.4.2.8:
+- Struct properties of type object are now automatically detected
+- Array properties of item type object are now automatically detected
+- Added support for Quat struct properties
+- Added support for Plane struct properties
+- Added support for IntPoint struct properties
+- Array properties with unknown fixed size items show one property per item
+- Array properties with unknown fixed size 4 bytes items show int value
+- Array properties with unknown fixed size 4 bytes items show object reference if it is a valid one
+
+UPK Explorer Version 1.4.2.7:
+- Added editing for Byte properties
+- Added editing for Byte as Name properties
+- Added editing for Byte as Enum with Name properties
+- Added editing for Byte as Enum with Byte properties
+- Added editing for Object reference properties
+- Fixed incorrect object reference resolving
+
+UPK Explorer Version 1.4.2.6:
+- Added editing for Name properties
+
+UPK Explorer Version 1.4.2.5:
+- property scan now validates that property data size >= 0
+- property scan now validates that array property data size >= 4
+- property scan now validates that str property data size >= 4
+- Added support for FString with lenght = 0
+- Simple objects types (int, float, etc...) are no longer scanned for properties
+
+UPK Explorer Version 1.4.2.4:
+- Added support for Vector2D struct properties
+- Added support for Matrix struct properties
+- Added support for Box struct properties
+- Added Int32 Value editing for Bool as Int32 properties
+- Added Byte Value editing for Bool as Byte properties
+- Only modified properties are updated when editing properties
+- Fixed potential bug when writing nameless properties's end tag stored as name with value "None"
+
+UPK Explorer Version 1.4.2.2:
+- Fixed incorrect object reference for object properties
+- Added property scan to support objects with unknown data before property list
+
+UPK Explorer Version 1.4.2.1:
+- Added support for Object struct properties
+- Added Struct objects list to ObjectDescriptors
+- Added support for Color struct properties
+- Added support for Vector struct properties
+- Added support for Rotator struct properties
+- Added support for single byte property for games that use byte as enum
+- Fixed Inverted Blue and Red channels for FLinearColor
+
+UPK Explorer Version 1.4.2.0:
+- Added ObjectDescriptors.xml to support arrays and struct properties without stored type
+- Added support for Linear Color property in MaterialInstanceConstant's VectorParameterValues property
+
+UPK Explorer Version 1.4.1.2:
+- Added support for PF_BC4 pixel format
+
+UPK Explorer Version 1.4.1.0:
+- Added support for PF_BC5 pixel format
+- Added support for PF_BC7 pixel format
+
+UPK Explorer Version 1.4.0.0:
+- Added support for PF_A8R8G8B8 pixel format
+- Added support for PF_G8 pixel format
+- Added support for PF_V8U8 pixel format
+
+UPK Explorer Version 1.3.9.9:
+- Added Preview for PF_A8R8G8B8 pixel format
+- Added Preview for PF_G8 pixel format
+- Added Preview for PF_V8U8 pixel format
+
+UPK Explorer Version 1.3.9.8:
+- Fixed incorrectly read nameless object property for Batman Arkham City v805.101
+- Fixed incorrectly read nameless object property for Batman Arkham Origins Online v807.104
+- Fixed incorrectly read nameless object property for Batman Arkham Knight v863.32995
+- Fixed undetected end properties tag for named properties in Batman Arkham City v805.101
+- Fixed undetected end properties tag for named properties in Batman Arkham Origins Online v807.104
+- Fixed undetected end properties tag for named properties in Batman Arkham Knight v863.32995
+
+UPK Explorer Version 1.3.9.7:
+- Added replace all function in Packages\Names table
+
+UPK Explorer Version 1.3.9.6:
+- Packages tab: improved loading thread management
+- Packages\object tab: unsupported properties now show data hex values
+- Added detection for incorrect object property data size (prevents hanging of packages\objects tab
+
+UPK Explorer Version 1.3.9.5:
+- Removed "compressed size = uncompressed size means data is not stored as compressed" for Batman Arkham Origins v807.138
+- Added "compressed size = uncompressed size means data is not stored as compressed" for Batman Arkham Origins Online v807.104
+
+UPK Explorer Version 1.3.9.3:
+- Removed compression method vs detected method validation
+
+UPK Explorer Version 1.3.9.2:
+- Added editing for Int properties
+- Added editing for Bool properties (stored as byte)
+- Added editing for Bool properties (stored as int32)
+- Added editing for float properties
+- Added reading for Vector properties
+- Added parsing for nameless Vector properties
+- Added editing for Vector properties
+- Added reading for Rotator properties
+- Added parsing for nameless Rotator properties
+- Added editing for Rotator properties
+- Added reading for Object properties
+- Added reading for StructProperty Structure name
+
+UPK Explorer Version 1.3.9.1:
+- Added support for nameless str properties
+
+UPK Explorer Version 1.3.9.0:
+- Reverted Swapped Size and OriginalSize nameless property codes Batman Arkham Knight v863.32995
+- Added objects tab under package tab
+- Added edit on string properties (nameless str properties not supported yet)
+
+TFC Installer Version 1.3.8.8:
+- Swapped Size and OriginalSize nameless property codes Batman Arkham Knight v863.32995
+
+TFC Installer Version 1.3.8.5:
+- Fixed swapped sizeX/Y, originalSizeX/Y properties for Batman Arkham Origins Online v807.104
+
+TFC Installer Version 1.3.8.4:
+- Added MipTailBaseIdx & FirstResourceMemMip properties support for Batman Arkham City v805.101
+- Added TextureFileCacheName, MipTailBaseIdx & FirstResourceMemMip properties support for Batman Arkham Origins Online v807.104
+- Added support for Batman Arkham Knight v863.32995 bool properties
+
+TFC Installer Version 1.3.8.3:
+- Added custom parser for Batman Arkham City v805.101
+- Added custom parser for Batman Arkham Origins v807.138
+- Added custom parser for Batman Arkham Origins Online v807.104
+- Added custom parser for Batman Arkham Knight v863.32995 (partial support: BoolProperty not supported)
+
+TFC Installer Version 1.3.8.2:
+- Added suport for .uncompressed_size files (update, backup and restore)
+
+TFC Installer Version 1.3.8.1:
+- Fixed nullref when installing a game with empty gameExeFilePath 
+
+TFC Installer Version 1.3.8.0:
+- Added "hasHashCheck" and "gameExeFilePath" profile options
+- When installing a texture pack: If "hasHashCheck" is enabled: Package names found in game exe are replaced by non existing package names
+- When installing a texture pack: If "hasHashCheck" is enabled: original exe is backed up to xxx.exeTFCInstallerBackup if modified
+- When uninstalling all: original exe is restored from backup, if a ".exeTFCInstallerBackup" is file is found

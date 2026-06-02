@@ -1,0 +1,309 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\editorlandscaperesources.upk" />
+    <Package path="udkgame\cookedpc\editormaterials.upk" />
+    <Package path="udkgame\cookedpc\editormeshes.upk" />
+    <Package path="udkgame\cookedpc\editorresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ammo" suffix="1" />
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\editorshellmaterials.upk" />
+    <Package path="udkgame\cookedpc\engine_lights.upk" />
+    <Package path="udkgame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\engineapexresources.upk" />
+    <Package path="udkgame\cookedpc\enginebuildings.upk" />
+    <Package path="udkgame\cookedpc\enginedebugmaterials.upk" />
+    <Package path="udkgame\cookedpc\enginefonts.upk" />
+    <Package path="udkgame\cookedpc\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\enginemeshes.upk" />
+    <Package path="udkgame\cookedpc\engineproduction.upk" />
+    <Package path="udkgame\cookedpc\engineresources.upk" />
+    <Package path="udkgame\cookedpc\enginesounds.upk" />
+    <Package path="udkgame\cookedpc\enginevolumetrics.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions01.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions02.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions03.upk" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\characters\th_characterprops.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\generic_level_mat\th_cds_decals.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\generic_level_mat\th_cds_envmaterials1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\generic_level_mat\th_cds_terrainmaterials.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\levels\th_cds_foliage1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\levels\th_cds_mapeffects1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\prop_sets\th_cds_museumprops.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\prop_sets\th_cds_prop_set1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Branches" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\prop_sets\th_cds_prop_set2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\weapons\th_wp_gatling.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\weapons\th_wp_mace.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_cds\weapons\th_wp_spikegrenade.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\bosses\th_boss_abaddon.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_acidzombie.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_beast.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_char_basemat.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_char_bentham.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Body" suffix="1" />
+        <Object id="Materials\body_normal" suffix="1" />
+        <Object id="Materials\body_spec" suffix="1" />
+        <Object id="Materials\head" suffix="1" />
+        <Object id="Materials\head_normal" suffix="1" />
+        <Object id="Materials\head_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_char_haunted.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Body" suffix="2" />
+        <Object id="Materials\body_normal" suffix="2" />
+        <Object id="Materials\body_spec" suffix="2" />
+        <Object id="Materials\head" suffix="2" />
+        <Object id="Materials\head_normal" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_char_oswardo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Body" suffix="3" />
+        <Object id="Materials\body_normal" suffix="3" />
+        <Object id="Materials\body_spec" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_char_priest.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Body" suffix="4" />
+        <Object id="Materials\body_normal" suffix="4" />
+        <Object id="Materials\body_spec" suffix="4" />
+        <Object id="Materials\head1" suffix="1" />
+        <Object id="Materials\head1_normal" suffix="1" />
+        <Object id="Materials\head1_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_hangman.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_harvester.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_hellionbat.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_heretic.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_ironjack.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_kamikazeorb.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_maninblack.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_minion.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_warlock.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\characters\th_zombie.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\destructables\th_destructables1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\effects\th_cameffects.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\effects\th_impacteffects.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\effects\th_othereffects1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gameobjects\th_artifacts.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gameobjects\th_shrine.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gameobjects\th_skullgrenades.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gameobjects\th_soulstone.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_basematerials.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_decals1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_envmaterials1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_envmaterials2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_envmaterials3.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_envmaterials4.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\generic_level_mat\th_envmaterials5.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\fonts_en.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\gfxui_inventory.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\gfxuthud.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\th_fonts.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\th_gfx_ui.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\thgfxfonts.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\gfx\thgfxui.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\he_tests\he_lightfunctest.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\he_tests\he_mattest5.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\he_tests\he_othermats.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_graveyardmesh.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_mapeffects1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_rocks1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_skies.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_terrains1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels\th_terrains2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels2\th_foliage1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels2\th_graveyardmesh2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels2\th_liquids.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels3\th_barrens1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels3\th_ghosttown.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels4\th_excavation.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels4\th_swamp.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels4\th_temple.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels5\th_luttextures.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels5\th_mine.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels5\th_steeltown.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\levels6\th_hell.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\prop_sets\th_prop_set1.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\prop_sets\th_prop_set2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\prop_sets\th_prop_set3.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\prop_sets\th_prop_set4.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\prop_sets\th_prop_set5.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\humans\int\th_voice_bruce_int.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\humans\int\th_voice_caleb_int.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\humans\int\th_voice_hector_int.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\humans\int\th_voice_jacob_int.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\humans\th_sounds_humans.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\soundclassesandmodes.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sound_genericgame.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sound_interface.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sound_traps.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sound_weapons.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sounds_ambient.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sounds_footsteps.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\sounds\th_sounds_zombie.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\th_hud.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\th_ui_art.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\th_ui_fonts.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\thfonts.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_pickups.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_weaponeffects.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_alchemybomb.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_ar.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_arnieshotgun.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_arsonator.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_axe.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_bow.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_burstmp.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_chainsaw.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_clusterbomb.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_dynamite.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_flamer.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_freezer.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_glaive.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_glock.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_handcannon.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_heavyar.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_ironwhip.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_knife.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_landmine.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_m79.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_machinegun.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_magnum.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_mk23.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_revolver.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_rifle.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_rpg.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_scythe.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_shotgun.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_shrapnelgrenade.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_smallshotgun.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_smg.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_striker.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_witchhammer.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_hegi\weapons\th_wp_wreckinggun.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_markus\gamearchetypes.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_plasma\levels\th_castle.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_plasma\levels\th_forest.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_plasma\levels\th_plas_dlc.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_plasma\levels\th_wwest.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_plasma\weapons\th_wp_cm1911.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_sbear\th_tempmuseum.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\content_snake\th_extrahud.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_eze\santatown\santatowncontent.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_eze\santatown\th-santatown.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_hegi\th-bosslevel.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_hegi\thentry.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_hegi\thnewfrontendgfx.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_plasma\th-forest.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\canyon\th-canyon.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\castle\th-castle.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\excavation\th-excavation.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\mine\th-mine.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\museum\th-museum.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\steeltown\th-steeltown.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\stronghold\th-stronghold.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\temple\th-temple.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_schlauchi\wildwest\th-wildwest.udk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_tom\vonmike.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\maps_tom\vonmike2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\music_jackmenhorn\th_jackfoley.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\music_jackmenhorn\th_music2.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\music_jackmenhorn\th_music3.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\music_jackmenhorn\th_sfx_ambient.upk" />
+    <Package path="udkgame\cookedpc\hauntedcontent\th-hellsedge\th_castlerenewal.upk" />
+    <Package path="udkgame\cookedpc\hauntedgame.u" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\templates\template_afternoon.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_midday.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_morning.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_night.umap" />
+    <Package path="udkgame\cookedpc\maptemplateindex.upk" />
+    <Package path="udkgame\cookedpc\maptemplates.upk" />
+    <Package path="udkgame\cookedpc\materialtemplates.upk" />
+    <Package path="udkgame\cookedpc\mobileresources.upk" />
+    <Package path="udkgame\cookedpc\nodebuddies.upk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\shared\effects\udk_lut.upk" />
+    <Package path="udkgame\cookedpc\shared\udkfonts.upk" />
+    <Package path="udkgame\cookedpc\shared\ui_fonts_final.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\effects\fx_hiteffects.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\un_lenstypes.upk" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkhud.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ammo" suffix="2" />
+        <Object id="crosshair" suffix="1" />
+        <Object id="directional_hit" suffix="1" />
+        <Object id="flag_box_blue" suffix="1" />
+        <Object id="flag_box_red" suffix="1" />
+        <Object id="Health" suffix="1" />
+        <Object id="health_vehicle" suffix="1" />
+        <Object id="player_brown" suffix="1" />
+        <Object id="player_green" suffix="1" />
+        <Object id="player_red" suffix="1" />
+        <Object id="popup_bg" suffix="1" />
+        <Object id="reload" suffix="1" />
+        <Object id="skull" suffix="1" />
+        <Object id="team_blue" suffix="1" />
+        <Object id="team_red" suffix="1" />
+        <Object id="teambox_blue" suffix="1" />
+        <Object id="teambox_red" suffix="1" />
+        <Object id="Time" suffix="1" />
+        <Object id="ut3_minimap_compass" suffix="1" />
+        <Object id="ut3_minimap_enemy" suffix="1" />
+        <Object id="ut3_minimap_friendly" suffix="1" />
+        <Object id="ut3_minimap_mapicon_flag_flag1" suffix="1" />
+        <Object id="ut3_minimap_objective1" suffix="1" />
+        <Object id="ut3_minimap_objective1_enemy" suffix="1" />
+        <Object id="ut3_minimap_objective1_friendly" suffix="1" />
+        <Object id="ut3_minimap_player" suffix="1" />
+        <Object id="ut3_weapon1" suffix="1" />
+        <Object id="ut3_weapon1_color" suffix="1" />
+        <Object id="ut3_weapon10" suffix="1" />
+        <Object id="ut3_weapon11" suffix="1" />
+        <Object id="ut3_weapon2" suffix="1" />
+        <Object id="ut3_weapon2_color" suffix="1" />
+        <Object id="ut3_weapon3" suffix="1" />
+        <Object id="ut3_weapon3_color" suffix="1" />
+        <Object id="ut3_weapon4" suffix="1" />
+        <Object id="ut3_weapon4_color" suffix="1" />
+        <Object id="ut3_weapon5" suffix="1" />
+        <Object id="ut3_weapon6" suffix="1" />
+        <Object id="ut3_weapon7" suffix="1" />
+        <Object id="ut3_weapon8" suffix="1" />
+        <Object id="ut3_weapon9" suffix="1" />
+        <Object id="ut3_weapon9_color" suffix="1" />
+        <Object id="vehiclebox" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\ut3\sounds\a_ambient_loops.upk" />
+    <Package path="udkgame\cookedpc\ut3\ui\ui_fonts.upk" />
+  </Packages>
+</IdRemapping>

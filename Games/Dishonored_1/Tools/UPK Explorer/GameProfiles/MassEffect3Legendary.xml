@@ -1,0 +1,78 @@
+﻿<Game packageFileVersion="685" packageLicenseeVersion="205" TFCMappingFileName="Mass Effect 3 Legendary Edition" enableCustomTFCs="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<ExcludedFile>BioGame\CookedPCConsole\RefShaderCache-PC-D3D-SM3.upk</ExcludedFile>
+	<ExcludedFile>BioGame\CookedPCConsole\GuidCache.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_APP01\CookedPCConsole\GuidCache_DLC_CON_APP01.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_END\CookedPCConsole\GuidCache_DLC_CON_END.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_GUN01\CookedPCConsole\GuidCache_DLC_CON_GUN01.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_GUN02\CookedPCConsole\GuidCache_DLC_CON_GUN02.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_UPD_Patch02\CookedPCConsole\GuidCache_DLC_UPD_Patch02.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_CON_DH1\CookedPCConsole\GuidCache_DLC_CON_DH1.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\CookedPCConsole\RefShaderCache-PC-D3D-SM5.upk</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_METR_Patch01\CookedPCConsole\GuidCache_DLC_METR_Patch01.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_EXP_Pack001\CookedPCConsole\GuidCache_DLC_EXP_Pack001.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_HEN_PR\CookedPCConsole\GuidCache_DLC_HEN_PR.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_EXP_Pack003\CookedPCConsole\GuidCache_DLC_EXP_Pack003.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_EXP_Pack002\CookedPCConsole\GuidCache_DLC_EXP_Pack002.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_EXP_Pack003_Base\CookedPCConsole\GuidCache_DLC_EXP_Pack003_Base.pcc</ExcludedFile>
+	<ExcludedFile>BioGame\DLC\DLC_OnlinePassHidCE\CookedPCConsole\GuidCache_DLC_OnlinePassHidCE.pcc</ExcludedFile>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="BioGame\CookedPCConsole" customTFCStartIndex="0" />
+		<PackageFolder path="BioGame\DLC\DLC_METR_Patch01\CookedPCConsole" TFCpath="BioGame\CookedPCConsole" TFCpath2="BioGame\DLC\DLC_METR_Patch01\CookedPCConsole" customTFCStartIndex="0" />
+		<PackageFolder path="BioGame\DLC\DLC_UPD_Patch01\CookedPCConsole" TFCpath="BioGame\CookedPCConsole" TFCpath2="BioGame\DLC\DLC_UPD_Patch01\CookedPCConsole" customTFCStartIndex="0" />
+		<PackageFolder path="BioGame\DLC\DLC_UPD_Patch02\CookedPCConsole" TFCpath="BioGame\CookedPCConsole" TFCpath2="BioGame\DLC\DLC_UPD_Patch02\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Alternate Appearance Pack 1" TFCMappingFileName="DLC_CON_APP01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_APP01\*" TFCpath="BioGame\DLC\DLC_CON_APP01\CookedPCConsole" customTFCStartIndex="100" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Citadel" TFCMappingFileName="DLC_EXP_Pack003">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Pack003\*" TFCpath="BioGame\DLC\DLC_EXP_Pack003\CookedPCConsole" customTFCStartIndex="200" />
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Pack003_Base\*" TFCpath="BioGame\DLC\DLC_EXP_Pack003_Base\CookedPCConsole" customTFCStartIndex="300" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Collector's Edition Bonus Content" TFCMappingFileName="DLC_OnlinePassHidCE">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_OnlinePassHidCE\*" TFCpath="BioGame\DLC\DLC_OnlinePassHidCE\CookedPCConsole" customTFCStartIndex="400" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Extended Cut" TFCMappingFileName="DLC_CON_END">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_END\*" TFCpath="BioGame\DLC\DLC_CON_END\CookedPCConsole" customTFCStartIndex="500" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Firefight Pack" TFCMappingFileName="DLC_CON_GUN01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_GUN01\*" TFCpath="BioGame\DLC\DLC_CON_GUN01\CookedPCConsole" customTFCStartIndex="600" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="From Ashes" TFCMappingFileName="DLC_HEN_PR">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_HEN_PR\*" TFCpath="BioGame\DLC\DLC_HEN_PR\CookedPCConsole" customTFCStartIndex="700" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Genesis 2" TFCMappingFileName="DLC_CON_DH1">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_DH1\*" TFCpath="BioGame\DLC\DLC_CON_DH1\CookedPCConsole" customTFCStartIndex="800" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Groundside Resistance Pack" TFCMappingFileName="DLC_CON_GUN02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_GUN02\*" TFCpath="BioGame\DLC\DLC_CON_GUN02\CookedPCConsole" customTFCStartIndex="900" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Leviathan" TFCMappingFileName="DLC_EXP_Pack001">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Pack001\*" TFCpath="BioGame\DLC\DLC_EXP_Pack001\CookedPCConsole" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+
+		<DLC displayName="Omega" TFCMappingFileName="DLC_EXP_Pack002">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Pack002\*" TFCpath="BioGame\DLC\DLC_EXP_Pack002\CookedPCConsole" customTFCStartIndex="1100" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

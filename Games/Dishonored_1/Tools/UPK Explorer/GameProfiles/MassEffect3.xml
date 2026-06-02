@@ -1,0 +1,11 @@
+﻿<Game packageFileVersion="684" packageLicenseeVersion="194" TFCMappingFileName="Mass Effect 3" enableCustomTFCs="False" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<ExcludedFile>BioGame\CookedPCConsole\RefShaderCache-PC-D3D-SM3.upk</ExcludedFile>
+	<ExcludedFile>BioGame\CookedPCConsole\GuidCache.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_APP01\CookedPCConsole\GuidCache_DLC_CON_APP01.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_END\CookedPCConsole\GuidCache_DLC_CON_END.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_GUN01\CookedPCConsole\GuidCache_DLC_CON_GUN01.pcc</ExcludedFile>
+	<ExcludedFile>BIOGame\DLC\DLC_CON_GUN02\CookedPCConsole\GuidCache_DLC_CON_GUN02.pcc</ExcludedFile>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="BioGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

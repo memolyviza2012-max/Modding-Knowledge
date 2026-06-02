@@ -1,0 +1,1754 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="dlc\ailanthus\compat\content\ailanthus_startup_sf.upk" />
+    <Package path="dlc\ailanthus\compat\content\guidcache_ailanthus.upk" />
+    <Package path="dlc\ailanthus\lic\content\remaster\ailanthus_startupremaster.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron001_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron002_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron003_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron004_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron005_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron006_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron007_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron008_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron009_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron010_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baron011_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_baronpet_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_head_default_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bandita_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_banditb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_banditc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_baronpet_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bl1_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Char_Co_SharedDecals\Pattern_BL1Stripe" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_blacka_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bluea_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_blueb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bluec_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_blued_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bluee_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_bluef_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_blueg_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_blueh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cricket_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyana_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyanb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyanc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyand_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyane_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyanf_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyang_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_cyanh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_dahla_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_dahlb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_dahlc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_default_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_digitaled_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_gearbox_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_graya_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greena_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greenb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greenc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greend_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greene_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greenf_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greeng_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_greenh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_hyperiona_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_hyperionb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_hyperionc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_jakobsa_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_jakobsb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_jakobsc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_maliwana_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_maliwanb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_maliwanc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangea_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangeb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangec_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_oranged_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangee_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangef_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangeg_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_orangeh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_pinka_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_pinkb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_pinkc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_pinkd_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_purplea_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Char_Co_SharedDecals\BodyDoubleStripe" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_purpleb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_purplec_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_purpled_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_reda_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redd_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_rede_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redf_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redg_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_redh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_tediorea_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_tedioreb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_tediorec_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_torguea_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_torgueb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_torguec_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_vladofa_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_vladofb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_vladofc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_whitea_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowa_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowb_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowc_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowd_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowe_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowf_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowg_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_baroness_skin_yellowh_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_doppel_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_doppel_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_doppel_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_doppel_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_enforcer_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_enforcer_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_enforcer_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_enforcer_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_gladiator_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_gladiator_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_gladiator_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_gladiator_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_lawbringer_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_lawbringer_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_lawbringer_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_lawbringer_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_prototype_skin_bharvest_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_prototype_skin_mercday_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_prototype_skin_mfrunity_sf.upk" />
+    <Package path="dlc\crocus\compat\content\cd_prototype_skin_pcorn_sf.upk" />
+    <Package path="dlc\crocus\compat\content\crocus_baroness_streaming_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Prototype\Textures\T_FX_RainbowNova_E" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\crocus\compat\content\crocus_startup_sf.upk" />
+    <Package path="dlc\crocus\compat\content\gd_crocus_dialog_sf.upk" />
+    <Package path="dlc\crocus\compat\content\guidcache_crocus.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_head_ma_bar08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_baroness_skin_ma_bar20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_head_ma_jack08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_doppel_skin_ma_jack20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_head_ma_enf08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_enforcer_skin_ma_enf20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_head_ma_glad08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_gladiator_skin_ma_glad20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_head_ma_law08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_lawbringer_skin_ma_law20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot01_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot02_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot03_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_head_ma_prot08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot04_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot05_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot06_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot07_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot08_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot09_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot10_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot11_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot12_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot13_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot15_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot16_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot17_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot18_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot19_sf.upk" />
+    <Package path="dlc\marigold\compat\content\cd_prototype_skin_ma_prot20_sf.upk" />
+    <Package path="dlc\marigold\compat\content\guidcache_marigold.upk" />
+    <Package path="dlc\marigold\compat\content\marigold_startup_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_head_ma_bar08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_baroness_skin_ma_bar20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_head_ma_jack08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_doppel_skin_ma_jack20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_head_ma_enf08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_enforcer_skin_ma_enf20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_head_ma_glad08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_gladiator_skin_ma_glad20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_head_ma_law08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_lawbringer_skin_ma_law20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot01_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot02_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot03_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_head_ma_prot08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot04_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot05_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot06_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot07_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot08_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot09_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot10_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot11_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot12_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot13_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot15_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot16_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot17_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot18_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot19_sf.upk" />
+    <Package path="dlc\marigold\lic\content\cd_prototype_skin_ma_prot20_sf.upk" />
+    <Package path="dlc\marigold\lic\content\es_claptrapforces.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Ma_UI_HUD_Echoportaits\EchoPortrait_TheSponx_I1" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\es_shadowtraptest.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\es_softwareenemies.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\lt_ma_deck13_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_finalboss_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_leftcluster_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_motherboard_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_nexus_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_rightcluster_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_subboss_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_subconscious_fp_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\lt_ma_subconscious_p_sf.upk" />
+    <Package path="dlc\marigold\lic\content\ma_deck13_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_deck13_game.upk" />
+    <Package path="dlc\marigold\lic\content\ma_deck13_intro_ss.upk" />
+    <Package path="dlc\marigold\lic\content\ma_deck13_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Env_Co_DahlFactory\Textures\FacWarningStripe" suffix="1" />
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionRoad_Dif" suffix="1" />
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02_E" suffix="1" />
+        <Object id="Prop_Co_VendingMachine\VendFaceplate_NurseNina_Dif" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_deck13_targetrange.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Gradients\Textures\Tex_FX_ShimmerNec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_finalboss_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_finalboss_game.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_finalboss_geo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionWall02_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_finalboss_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_JumpPads\JumpPad_FX_Mask" suffix="1" />
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_finalboss_throneroom.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionRoad_Dif" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionWall02_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_dynamic.upk" />
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_pc_fx.upk" />
+    <Package path="dlc\marigold\lic\content\ma_leftcluster_sidemissions.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_motherboard_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_motherboard_gply.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_motherboard_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Env_Co_DahlFactory\Textures\FacWarningStripe" suffix="1" />
+        <Object id="FX_CO_JumpPads\JumpPad_FX_Mask" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionRoad_Dif" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_motherboard_side.upk" />
+    <Package path="dlc\marigold\lic\content\ma_nexus_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionRoad_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_nexus_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_nexus_cinematics.upk" />
+    <Package path="dlc\marigold\lic\content\ma_nexus_gply.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_nexus_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_JumpPads\JumpPad_FX_Mask" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_nexus_pcfx.upk" />
+    <Package path="dlc\marigold\lic\content\ma_nexus_side.upk" />
+    <Package path="dlc\marigold\lic\content\ma_nexus_sky.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionRoad_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_rightcluster_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_rightcluster_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="FX_Shared_Smoke\Textures\Tex_Smoke_Column_Gpac" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_rightcluster_corruption.upk" />
+    <Package path="dlc\marigold\lic\content\ma_rightcluster_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_rightcluster_sidemission.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CREA_EXPLoader\Textures\Wrench_Diff" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subboss_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_subboss_drill.upk" />
+    <Package path="dlc\marigold\lic\content\ma_subboss_game.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_CO_JumpPads\JumpPad_FX_Mask" suffix="1" />
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subboss_geo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionWall02_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subboss_mutator.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Gradients\Textures\Tex_FX_ShimmerNec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subboss_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subconscious_audio.upk" />
+    <Package path="dlc\marigold\lic\content\ma_subconscious_game.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CO_Gladiator\Textures\T_SuperConductorGradient" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subconscious_notstreamed.upk" />
+    <Package path="dlc\marigold\lic\content\ma_subconscious_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Co_VendingMachine\VendFaceplate_NurseNina_Dif" suffix="1" />
+        <Object id="Prop_Ladders\Textures\ModularLadder_Dif" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\ma_subconscious_sidemissions.upk" />
+    <Package path="dlc\marigold\lic\content\ma_subconscious_sky.upk" />
+    <Package path="dlc\marigold\lic\content\mutatorprototype.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Gradients\Textures\Tex_FX_ShimmerNec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\rw_testmap.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Supports\RackBandit_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\marigold\lic\content\smj_glitchweapon_testmap.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Dif" suffix="1" />
+        <Object id="Prop_Weapons\Textures\Melee_Nrm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\petunia\compat\content\cd_doppel_head_jackpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_doppel_skin_jackpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_enforcer_head_enfpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_enforcer_skin_enfpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_gladiator_head_gladpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_gladiator_skin_gladpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_lawbringer_head_lawpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_lawbringer_skin_lawpet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_prototype_head_protopet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\cd_prototype_skin_protopet_sf.upk" />
+    <Package path="dlc\petunia\compat\content\guidcache_petunia.upk" />
+    <Package path="dlc\petunia\compat\content\petunia_startup_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_doppel_head_jackpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_doppel_skin_jackpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_enforcer_head_enfpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_enforcer_skin_enfpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_gladiator_head_gladpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_gladiator_skin_gladpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_lawbringer_head_lawpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_lawbringer_skin_lawpet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_prototype_head_protopet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\cd_prototype_skin_protopet_sf.upk" />
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_art.upk" />
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_audio.upk" />
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_audio2.upk" />
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CREA_EXPLoader\Textures\Wrench_Diff" suffix="1" />
+        <Object id="FX_GOR_Textures\Textures\Blood_Splatter_PsychoScreen" suffix="1" />
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_lighting.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="prop_2x_backdrop\Tex_PlanetWhisps" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Co_AirDome\Textures\MagicGradient" suffix="1" />
+        <Object id="FX_CO_JumpPads\JumpPad_FX_Mask" suffix="1" />
+        <Object id="FX_Fast_Travel\Textures\FastTravel" suffix="1" />
+        <Object id="fx_shared_items\Textures\UseMe_AnimGrad" suffix="1" />
+        <Object id="Prop_Co_VendingMachine\VendFaceplate_NurseNina_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\petunia\lic\content\eridian_slaughter_scripting.upk" />
+    <Package path="dlc\petunia\lic\content\lt_eridian_slaughter_p_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_default_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack001_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack002_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack003_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack004_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack005_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack006_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack007_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack008_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack009_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack011_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_head_jack012_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bandita_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_banditb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_banditc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bl1_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Char_Co_SharedDecals\Pattern_BL1Stripe" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_blacka_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bluea_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_blueb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bluec_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_blued_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bluee_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_bluef_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_blueg_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_blueh_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cricket_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyana_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyanb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyanc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyand_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyane_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyanf_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyang_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_cyanh_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_dahla_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_dahlb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_dahlc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_default_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_digitaled_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_gearbox_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_graya_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greena_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greenb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greenc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greend_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greene_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greenf_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greeng_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_greenh_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_hyperiona_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_hyperionb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_hyperionc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_jakobsa_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_jakobsb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_jakobsc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_maliwana_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_maliwanb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_maliwanc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangea_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangeb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangec_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_oranged_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangee_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangef_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangeg_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_orangeh_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_pinka_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_pinkb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_pinkc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_pinkd_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_purplea_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Char_Co_SharedDecals\BodyDoubleStripe" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_purpleb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_purplec_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_purpled_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_reda_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redd_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_rede_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redf_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redg_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_redh_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_tediorea_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_tedioreb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_tediorec_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_torguea_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_torgueb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_torguec_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_vladofa_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_vladofb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_vladofc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_whitea_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowa_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowb_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowc_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowd_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowe_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowf_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowg_sf.upk" />
+    <Package path="dlc\quince\compat\content\cd_doppel_skin_yellowh_sf.upk" />
+    <Package path="dlc\quince\compat\content\gd_quince_dialog_sf.upk" />
+    <Package path="dlc\quince\compat\content\guidcache_quince.upk" />
+    <Package path="dlc\quince\compat\content\quince_doppel_streaming_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Gradients\Textures\Grad_Y_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="dlc\quince\compat\content\quince_startup_sf.upk" />
+    <Package path="engine\content\akresources.upk" />
+    <Package path="engine\content\centraleditor.upk" />
+    <Package path="engine\content\centralmaterials.upk" />
+    <Package path="engine\content\centralmissingartredirects.upk" />
+    <Package path="engine\content\editorlandscaperesources.upk" />
+    <Package path="engine\content\editormaterials.upk" />
+    <Package path="engine\content\editormeshes.upk" />
+    <Package path="engine\content\editorresources_gfx.upk" />
+    <Package path="engine\content\editorresources.upk" />
+    <Package path="engine\content\editorshellmaterials.upk" />
+    <Package path="engine\content\engine_lights.upk" />
+    <Package path="engine\content\engine_mi_shaders.upk" />
+    <Package path="engine\content\engineapexresources.upk" />
+    <Package path="engine\content\enginebuildings.upk" />
+    <Package path="engine\content\enginedebugmaterials.upk" />
+    <Package path="engine\content\enginefonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SmallFont\Texture2D_28" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="engine\content\enginefonts.upk" />
+    <Package path="engine\content\enginematerials.upk" />
+    <Package path="engine\content\enginemeshes.upk" />
+    <Package path="engine\content\engineproduction.upk" />
+    <Package path="engine\content\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="engine\content\enginesounds.upk" />
+    <Package path="engine\content\enginevolumetrics.upk" />
+    <Package path="engine\content\maps\entry.upk" />
+    <Package path="engine\content\maps\templates\template_afternoon.umap" />
+    <Package path="engine\content\maps\templates\template_midday.umap" />
+    <Package path="engine\content\maps\templates\template_morning.umap" />
+    <Package path="engine\content\maps\templates\template_night.umap" />
+    <Package path="engine\content\maptemplateindex.upk" />
+    <Package path="engine\content\maptemplates.upk" />
+    <Package path="engine\content\materialtemplates.upk" />
+    <Package path="engine\content\mobileemulation.upk" />
+    <Package path="engine\content\mobileresources.upk" />
+    <Package path="engine\content\nodebuddies.upk" />
+    <Package path="engine\content\particleaudiosprites.upk" />
+    <Package path="engine\content\ui\defaultuiskin.upk" />
+    <Package path="engine\content\ui\uiarcpackage.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_altarroom.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_catacombs.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_eridiantowers.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_organic.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_shieldarea.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_startroom.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art_z8ntrp.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_art.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_challenges.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_game.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_moonsurface_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_secret.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_access_startroom_vig.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_elevator_light.upk" />
+    <Package path="willowgame\cookedpcconsole\11b_facility_a_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\access_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\access_loota.upk" />
+    <Package path="willowgame\cookedpcconsole\access_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GD_11BElevator\Textures\Shield_GradientLine_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\akaudio.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf001_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf002_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf003_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf004_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf005_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf006_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf007_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf008_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf009_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf011_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_head_enf012_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bandita_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_banditb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_banditc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bl1_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_blacka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bluea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_blueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bluec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_blued_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bluee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_bluef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_blueg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_blueh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cricket_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyand_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyane_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyanf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyang_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_cyanh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_dahla_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_dahlb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_dahlc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_digitaled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_gearbox_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_graya_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greena_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greenb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greenc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greend_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greene_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greenf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greeng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_greenh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_hyperiona_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_hyperionb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_hyperionc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_jakobsa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_jakobsb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_jakobsc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_maliwana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_maliwanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_maliwanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangeb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_oranged_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangeg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_orangeh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_pinka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_pinkb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_pinkc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_pinkd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_purplea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_purpleb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_purplec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_purpled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_reda_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_rede_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_redh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_tediorea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_tedioreb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_tediorec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_torguea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_torgueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_torguec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_vladofa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_vladofb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_vladofc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_whitea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowe_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_enforcer_skin_yellowh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad001_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad003_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad004_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad005_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad006_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad007_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad008_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad009_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad010_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad011_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_head_glad012_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bandita_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_banditb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_banditc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bl1_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_blacka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bluea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_blueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bluec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_blued_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bluee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_bluef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_blueg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_blueh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cricket_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyand_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyane_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyanf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyang_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_cyanh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_dahla_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_dahlb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_dahlc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_digitaled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_gearbox_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_graya_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greena_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greenb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greenc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greend_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greene_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greenf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greeng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_greenh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_hyperiona_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_hyperionb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_hyperionc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_jakobsa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_jakobsb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_jakobsc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_maliwana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_maliwanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_maliwanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangeb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_oranged_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangeg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_orangeh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_pinka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_pinkb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_pinkc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_pinkd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_purplea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_purpleb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_purplec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_purpled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_reda_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_rede_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_redh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_tediorea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_tedioreb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_tediorec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_torguea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_torgueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_torguec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_vladofa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_vladofb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_vladofc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_whitea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowe_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_gladiator_skin_yellowh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law001_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law002_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law003_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law004_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law005_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law006_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law007_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law008_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law009_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law011_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_head_law012_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bandita_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_banditb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_banditc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bl1_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_blacka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bluea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_blueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bluec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_blued_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bluee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_bluef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_blueg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_blueh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cricket_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyand_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyane_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyanf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyang_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_cyanh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_dahla_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_dahlb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_dahlc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_diged_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_gearbox_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_graya_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greena_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greenb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greenc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greend_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greene_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greenf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greeng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_greenh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_hypa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_hypb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_hypc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_jakobsa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_jakobsb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_jakobsc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_maliwana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_maliwanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_maliwanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangeb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_oranged_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangeg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_orangeh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_pinka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_pinkb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_pinkc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_pinkd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_purplea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_purpleb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_purplec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_purpled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_reda_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_rede_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_redh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_tediorea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_tedioreb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_tediorec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_torguea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_torgueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_torguec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_vladofa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_vladofb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_vladofc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_whitea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowe_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_lawbringer_skin_yellowh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_blood_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_blue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_bluedk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_bluelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_bluescrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_burst_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_camoblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_camodef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_camogrey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_camogrn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_camotan_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_char_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_dirtgrey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_dirtgrng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_dirtspl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_dirtst_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_f_infern_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_graffiti_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_green_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greendk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greenlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greenscrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_grey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greyblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greydark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greylt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_greywht_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_hexblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_hexgrn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_hexorng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_hexprpl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_orange_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_orangedk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_orangelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_paint_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_pink_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_pinkdark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_pinklt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_propan_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_purple_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_purpledk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_purplelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_red_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_reddark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_redlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_redscrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_ringblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_ringorng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_ringprpl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_ringred_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_rust_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_s_blublk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_s_grnblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_s_redblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_s_yelblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_terq_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_terqdark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_terqlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_white_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_woodbrl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_woodepic_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_woodoak_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_woodold_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_yellow_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_yellowdk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_yellowlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_moonbuggy_skin_yellowscp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot001_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot002_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot003_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot004_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot005_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot006_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot007_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot008_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot009_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot011_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_head_prot012_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bandita_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_banditb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_banditc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bl1_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_blacka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bluea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_blueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bluec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_blued_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bluee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_bluef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_blueg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_blueh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cricket_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyand_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyane_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyanf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyang_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_cyanh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_dahla_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_dahlb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_dahlc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_digitaled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_gearbox_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_graya_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greena_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greenb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greenc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greend_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greene_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greenf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greeng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_greenh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_hyperiona_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_hyperionb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_hyperionc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_jakobsa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_jakobsb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_jakobsc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_maliwana_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_maliwanb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_maliwanc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangeb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_oranged_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangee_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangeg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_orangeh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_pinka_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_pinkb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_pinkc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_pinkd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_purplea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_purpleb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_purplec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_purpled_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_reda_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_rede_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_redh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_tediorea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_tedioreb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_tediorec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_torguea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_torgueb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_torguec_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_vladofa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_vladofb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_vladofc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_whitea_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowa_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowb_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowc_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowd_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowe_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowf_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowg_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_prototype_skin_yellowh_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_blood_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_blue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_bluedk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_bluelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_bluescrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_camoblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_camodef_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_camogrey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_camogrn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_camotan_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_default_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_dirtgrey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_dirtgrng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_dirtspl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_f_burst_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_f_char_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_f_infern_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_f_propan_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_graffiti_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_green_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greendk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greenlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greenscrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greyblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greydark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greylt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_greywht_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_hexblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_hexgrn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_hexorng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_hexprpl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_m_blue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_m_grey_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_m_purple_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_m_white_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_orange_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_orangedk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_orangelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_paint_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_pink_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_pinkdark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_pinklt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_purple_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_purpledk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_purplelt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_red_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_reddark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_redlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_redscrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_ringblue_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_ringorng_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_ringprpl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_ringred_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_rust_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_s_blublk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_s_grnblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_s_redblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_s_yelblk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_terq_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_terqdark_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_terqlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_woodbrl_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_woodepic_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_woodoak_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_woodold_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_yellow_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_yellowdk_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_yellowlt_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\cd_stingray_skin_yellowscrp_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_lights.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_missions.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionRoad_Dif" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionWall02_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\centralterminal_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\centralterminal_tacmapvol.upk" />
+    <Package path="willowgame\cookedpcconsole\comfacility_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\comfacility_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\comfacility_dynamic.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\comfacility_p.upk" />
+    <Package path="willowgame\cookedpcconsole\comfacility_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\comfacility_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\core.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_boss_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_boss.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_bosscombat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_CREA_Constructor\Texture\Lightning_Thick" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\dahlfactory_bossdynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_botf.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_p.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_stingrayf.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_tstation.upk" />
+    <Package path="willowgame\cookedpcconsole\dahlfactory_vista.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_light.upk" />
+    <Package path="willowgame\cookedpcconsole\deadsurface_p.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_lighting.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_moonsurface_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_p.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_art.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_lighting.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_p.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_terrain.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5arena_vista.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_rk5battle.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_two_art.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_two_terrain.upk" />
+    <Package path="willowgame\cookedpcconsole\digsite_vista.upk" />
+    <Package path="willowgame\cookedpcconsole\engine.upk" />
+    <Package path="willowgame\cookedpcconsole\exampleentry.upk" />
+    <Package path="willowgame\cookedpcconsole\fakeentry.upk" />
+    <Package path="willowgame\cookedpcconsole\gameframework.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_co_stingray_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_enforcer_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_fasttravelstations_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_gladiator_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_lawbringer_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_leveltravelstations_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_moonbuggy_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gd_prototype_streaming_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\gearboxframework.upk" />
+    <Package path="willowgame\cookedpcconsole\gfxui.upk" />
+    <Package path="willowgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="willowgame\cookedpcconsole\guidcache_maingamerefs.upk" />
+    <Package path="willowgame\cookedpcconsole\guidcache.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_art.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_challenges.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_combat00.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_geo_01.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_geo_02.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_lighting.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_loot00.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_ophatitlecard.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_p.upk" />
+    <Package path="willowgame\cookedpcconsole\innercore_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_light.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_mission.upk" />
+    <Package path="willowgame\cookedpcconsole\innerhull_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\innerhull_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_light.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_mission.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_p.upk" />
+    <Package path="willowgame\cookedpcconsole\jacksoffice_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\laser_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\laser_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\laser_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\laser_mission.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\laser_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionRoad_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\laserboss_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_boss.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_light.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_mission.upk" />
+    <Package path="willowgame\cookedpcconsole\laserboss_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\laserboss_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\loader.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_access_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_centralterminal_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_comfacility_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_dahlfactory_boss_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_dahlfactory_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_deadsurface_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_digsite_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_digsite_rk5arena_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_generic_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_innercore_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_innerhull_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_jacksoffice_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_laser_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_laserboss_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_meriff_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_moon_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_moonshotintro_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_moonslaughter_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_moonsurface_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_outlands_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_outlands_p2_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_randdfacility_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_spaceport_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_stantonsliver_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_sublevel13_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\lt_wreck_p_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\maingamerefs_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\menu_art.upk" />
+    <Package path="willowgame\cookedpcconsole\menumap_antics.upk" />
+    <Package path="willowgame\cookedpcconsole\menumap_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\menumap_light.upk" />
+    <Package path="willowgame\cookedpcconsole\menumap.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_lights.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_m_chp4.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_p.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\meriff_town.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_p.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\moon_skydynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_light.upk" />
+    <Package path="willowgame\cookedpcconsole\moonshotintro_p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CO_HeliosArchitecture\Textures\HyperionWall02" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionRoad_Dif" suffix="1" />
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionWall02_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\moonshotintro_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\moonslaughter_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\moonslaughter_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\moonslaughter_p.upk" />
+    <Package path="willowgame\cookedpcconsole\moonslaughter_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_light.upk" />
+    <Package path="willowgame\cookedpcconsole\moonsurface_p.upk" />
+    <Package path="willowgame\cookedpcconsole\newmainshaft.upk" />
+    <Package path="willowgame\cookedpcconsole\onlinesubsystemepicstore.upk" />
+    <Package path="willowgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_audio2.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_combat2.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_p.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_p2.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_px.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_sidemissions2.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\outlands_sky2.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_fx.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_light.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_mission.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_HyperionArchitecture03\Textures\HyperionRoad_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\randdfacility_p.upk" />
+    <Package path="willowgame\cookedpcconsole\randdfacility_skybox.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_CustomizationMachine\CM_HeadsScroll" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\spaceport_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_lights.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_m_chp3.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_m_chp4.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_p.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_sky.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_town.upk" />
+    <Package path="willowgame\cookedpcconsole\spaceport_vista.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_p.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\stantonsliver_skydynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_deu.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_esn.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_fra.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_ita.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_jpn.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_kor.upk" />
+    <Package path="willowgame\cookedpcconsole\startup_loc_rus.upk" />
+    <Package path="willowgame\cookedpcconsole\startup.upk" />
+    <Package path="willowgame\cookedpcconsole\sublevel13_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\sublevel13_combat.upk" />
+    <Package path="willowgame\cookedpcconsole\sublevel13_dynamic.upk" />
+    <Package path="willowgame\cookedpcconsole\sublevel13_geometry.upk" />
+    <Package path="willowgame\cookedpcconsole\sublevel13_p.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_bank_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_credits_epilogue_images_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_credits_new_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_deu_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_esn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_fra_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_int_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_ita_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_jpn_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_kor_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_frontend_upsell_texture_rus_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_hud_echoversion_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\ui_stash_sf.upk" />
+    <Package path="willowgame\cookedpcconsole\vault_boss.upk" />
+    <Package path="willowgame\cookedpcconsole\vault_cinematic.upk" />
+    <Package path="willowgame\cookedpcconsole\vault_mission.upk" />
+    <Package path="willowgame\cookedpcconsole\vault_worldgeo.upk" />
+    <Package path="willowgame\cookedpcconsole\willowgame.upk" />
+    <Package path="willowgame\cookedpcconsole\wreck_audio.upk" />
+    <Package path="willowgame\cookedpcconsole\wreck_combat.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\wreck_combat2.upk" />
+    <Package path="willowgame\cookedpcconsole\wreck_dynamic.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Smoke\Materials\Tex_Smoke_Column_Underlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\wreck_int1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prop_Co_MoonShipCommon\Textures\BenchMetal_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="willowgame\cookedpcconsole\wreck_p.upk" />
+    <Package path="willowgame\cookedpcconsole\wreck_sidemissions.upk" />
+    <Package path="willowgame\cookedpcconsole\wreck_sky.upk" />
+  </Packages>
+</IdRemapping>

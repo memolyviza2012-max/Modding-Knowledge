@@ -1,0 +1,9 @@
+﻿<Game packageFileVersion="482" packageLicenseeVersion="222" displayName="Army Of Two: The 40th Day - Multiplayer" TFCMappingFileName="Army Of Two 40th Day MP" platform="Xbox360" packageRecompression="Partial" TOCFilePath="AO3MPGame\Xbox360TOC.txt" LZXrecompression="LZO" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="483" licenseeVersion="4317"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="AO3MPGame\CookedXenon" customTFCStartIndex="0" />
+		<ExcludedFolder>AO3Game\*</ExcludedFolder>
+	</PackageFolders>
+</Game>

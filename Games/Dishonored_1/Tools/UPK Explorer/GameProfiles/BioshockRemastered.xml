@@ -1,0 +1,6 @@
+﻿<Game packageFileVersion="142" packageLicenseeVersion="56" displayName="Bioshock Remastered" TFCMappingFileName="BioshockRemastered" enableCustomTFCs="True" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="Build\*" TFCpath="ContentBaked\pc\BulkContent" customTFCStartIndex="0" />
+		<PackageFolder path="ContentBaked\pc\Maps" TFCpath="ContentBaked\pc\BulkContent" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

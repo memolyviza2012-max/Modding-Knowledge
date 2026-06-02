@@ -1,0 +1,32 @@
+﻿<Game packageFileVersion="813" packageLicenseeVersion="0" TFCMappingFileName="Choplifter HD" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="ChopGame\CookedPCConsole\*" TFCpath="ChopGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Albatross Chopper" TFCMappingFileName="Albatross">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Albatross\*" TFCpath="DLC\Albatross" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Arrowhead Chopper" TFCMappingFileName="Arrowhead">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Arrowhead\*" TFCpath="DLC\Arrowhead" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Night Avenger Chopper" TFCMappingFileName="NightAvenger">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\NightAvenger\*" TFCpath="DLC\NightAvenger" customTFCStartIndex="3000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Ostrich Chopper" TFCMappingFileName="Ostrich">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Ostrich\*" TFCpath="DLC\Ostrich" customTFCStartIndex="4000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Zombie Zombie Zombie" TFCMappingFileName="LP1">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\LP1\*" TFCpath="DLC\LP1" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

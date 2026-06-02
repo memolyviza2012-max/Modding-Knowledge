@@ -1,0 +1,367 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="gamedata\animations\ambient.ukx" />
+    <Package path="gamedata\animations\bactadispensers.ukx" />
+    <Package path="gamedata\animations\beast.ukx" />
+    <Package path="gamedata\animations\briefinganimprops.ukx" />
+    <Package path="gamedata\animations\clone.ukx" />
+    <Package path="gamedata\animations\dispensers.ukx" />
+    <Package path="gamedata\animations\droid.ukx" />
+    <Package path="gamedata\animations\geoanimprops.ukx" />
+    <Package path="gamedata\animations\geonosian.ukx" />
+    <Package path="gamedata\animations\hudarms.ukx" />
+    <Package path="gamedata\animations\kaminoan.ukx" />
+    <Package path="gamedata\animations\kashyyykanimprops.ukx" />
+    <Package path="gamedata\animations\miscanimprops.ukx" />
+    <Package path="gamedata\animations\mpanimprops.ukx" />
+    <Package path="gamedata\animations\prologueanimprops.ukx" />
+    <Package path="gamedata\animations\rasanimprops.ukx" />
+    <Package path="gamedata\animations\trandoshan.ukx" />
+    <Package path="gamedata\animations\turrets.ukx" />
+    <Package path="gamedata\animations\vehicles.ukx" />
+    <Package path="gamedata\animations\wookiee.ukx" />
+    <Package path="gamedata\maps\1138.ctm" />
+    <Package path="gamedata\maps\autoplay.ctm" />
+    <Package path="gamedata\maps\ctf_detention.ctm" />
+    <Package path="gamedata\maps\ctf_engine.ctm" />
+    <Package path="gamedata\maps\ctf_hangar.ctm" />
+    <Package path="gamedata\maps\ctf_hanginggarden.ctm" />
+    <Package path="gamedata\maps\ctf_pow.ctm" />
+    <Package path="gamedata\maps\ctf_siege.ctm" />
+    <Package path="gamedata\maps\ctf_trando.ctm" />
+    <Package path="gamedata\maps\ctf_underpass.ctm" />
+    <Package path="gamedata\maps\ctf_zerog.ctm" />
+    <Package path="gamedata\maps\dm_canyon.ctm" />
+    <Package path="gamedata\maps\dm_detention.ctm" />
+    <Package path="gamedata\maps\dm_engine.ctm" />
+    <Package path="gamedata\maps\dm_hangar.ctm" />
+    <Package path="gamedata\maps\dm_hanginggarden.ctm" />
+    <Package path="gamedata\maps\dm_pow.ctm" />
+    <Package path="gamedata\maps\dm_powsmall.ctm" />
+    <Package path="gamedata\maps\dm_siege.ctm" />
+    <Package path="gamedata\maps\dm_trando.ctm" />
+    <Package path="gamedata\maps\dm_underpass.ctm" />
+    <Package path="gamedata\maps\dm_zerog.ctm" />
+    <Package path="gamedata\maps\entry.ctm" />
+    <Package path="gamedata\maps\epilogue.ctm" />
+    <Package path="gamedata\maps\geo_01a.ctm" />
+    <Package path="gamedata\maps\geo_01b.ctm" />
+    <Package path="gamedata\maps\geo_01briefing.ctm" />
+    <Package path="gamedata\maps\geo_01c.ctm" />
+    <Package path="gamedata\maps\geo_03a.ctm" />
+    <Package path="gamedata\maps\geo_03c.ctm" />
+    <Package path="gamedata\maps\geo_03d.ctm" />
+    <Package path="gamedata\maps\geo_04a.ctm" />
+    <Package path="gamedata\maps\geo_04b.ctm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHMCanyon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\maps\geo_04c.ctm" />
+    <Package path="gamedata\maps\geo_04d.ctm" />
+    <Package path="gamedata\maps\geo_05a.ctm" />
+    <Package path="gamedata\maps\geo_05b.ctm" />
+    <Package path="gamedata\maps\geo_05c.ctm" />
+    <Package path="gamedata\maps\mpcustom.ctm" />
+    <Package path="gamedata\maps\pro.ctm" />
+    <Package path="gamedata\maps\ras_01a.ctm" />
+    <Package path="gamedata\maps\ras_01b.ctm" />
+    <Package path="gamedata\maps\ras_01briefing.ctm" />
+    <Package path="gamedata\maps\ras_01c.ctm" />
+    <Package path="gamedata\maps\ras_02a.ctm" />
+    <Package path="gamedata\maps\ras_02b.ctm" />
+    <Package path="gamedata\maps\ras_02c.ctm" />
+    <Package path="gamedata\maps\ras_02d.ctm" />
+    <Package path="gamedata\maps\ras_02e.ctm" />
+    <Package path="gamedata\maps\ras_03a.ctm" />
+    <Package path="gamedata\maps\ras_03b.ctm" />
+    <Package path="gamedata\maps\ras_03c.ctm" />
+    <Package path="gamedata\maps\ras_04a.ctm" />
+    <Package path="gamedata\maps\ras_04b.ctm" />
+    <Package path="gamedata\maps\ras_04c.ctm" />
+    <Package path="gamedata\maps\ras_04d.ctm" />
+    <Package path="gamedata\maps\yyy_01b.ctm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\maps\yyy_01briefing.ctm" />
+    <Package path="gamedata\maps\yyy_01c.ctm" />
+    <Package path="gamedata\maps\yyy_01d.ctm" />
+    <Package path="gamedata\maps\yyy_01e.ctm" />
+    <Package path="gamedata\maps\yyy_04a.ctm" />
+    <Package path="gamedata\maps\yyy_04b.ctm" />
+    <Package path="gamedata\maps\yyy_04c.ctm" />
+    <Package path="gamedata\maps\yyy_04e.ctm" />
+    <Package path="gamedata\maps\yyy_04f.ctm" />
+    <Package path="gamedata\maps\yyy_05a.ctm" />
+    <Package path="gamedata\maps\yyy_05b.ctm" />
+    <Package path="gamedata\maps\yyy_05c.ctm" />
+    <Package path="gamedata\maps\yyy_05d.ctm" />
+    <Package path="gamedata\maps\yyy_05e.ctm" />
+    <Package path="gamedata\maps\yyy_05f.ctm" />
+    <Package path="gamedata\maps\yyy_06a.ctm" />
+    <Package path="gamedata\maps\yyy_06b.ctm" />
+    <Package path="gamedata\maps\yyy_06c.ctm" />
+    <Package path="gamedata\maps\yyy_06d.ctm" />
+    <Package path="gamedata\maps\yyy_35a.ctm" />
+    <Package path="gamedata\maps\yyy_35b.ctm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\01DecoPalm" suffix="1" />
+        <Object id="Heightmaps\Den_HeightMap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\maps\yyy_35c.ctm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CRoofCanpy1" suffix="1" />
+        <Object id="Heightmaps\Den_HeightMap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\maps\yyy07briefing.ctm" />
+    <Package path="gamedata\properties\accessoryproperties.u" />
+    <Package path="gamedata\properties\animpropproperties.u" />
+    <Package path="gamedata\properties\audioenv.u" />
+    <Package path="gamedata\properties\cteffects.u" />
+    <Package path="gamedata\properties\deathproperties.u" />
+    <Package path="gamedata\properties\footstepprops.u" />
+    <Package path="gamedata\properties\karmapropproperties.u" />
+    <Package path="gamedata\properties\lightobjectproperties.u" />
+    <Package path="gamedata\properties\markerproperties.u" />
+    <Package path="gamedata\properties\moverproperties.u" />
+    <Package path="gamedata\properties\physicalmaterials.u" />
+    <Package path="gamedata\properties\properties.u" />
+    <Package path="gamedata\properties\reverb.u" />
+    <Package path="gamedata\properties\staticpropproperties.u" />
+    <Package path="gamedata\properties\voicepacks.u" />
+    <Package path="gamedata\save\auto0.ctm" />
+    <Package path="gamedata\save\auto1.ctm" />
+    <Package path="gamedata\save\auto2.ctm" />
+    <Package path="gamedata\save\auto3.ctm" />
+    <Package path="gamedata\save\auto7.ctm" />
+    <Package path="gamedata\save\auto8.ctm" />
+    <Package path="gamedata\save\auto9.ctm" />
+    <Package path="gamedata\sounds\banter_voice.uax" />
+    <Package path="gamedata\sounds\briefings_voice.uax" />
+    <Package path="gamedata\sounds\character_voice.uax" />
+    <Package path="gamedata\sounds\det\briefings_voice.uax" />
+    <Package path="gamedata\sounds\det\character_voice.uax" />
+    <Package path="gamedata\sounds\det\geo_voice.uax" />
+    <Package path="gamedata\sounds\det\mp_voice.uax" />
+    <Package path="gamedata\sounds\det\prologue_voice.uax" />
+    <Package path="gamedata\sounds\det\ras_voice.uax" />
+    <Package path="gamedata\sounds\det\yyy_voice.uax" />
+    <Package path="gamedata\sounds\frt\briefings_voice.uax" />
+    <Package path="gamedata\sounds\frt\character_voice.uax" />
+    <Package path="gamedata\sounds\frt\geo_voice.uax" />
+    <Package path="gamedata\sounds\frt\mp_voice.uax" />
+    <Package path="gamedata\sounds\frt\prologue_voice.uax" />
+    <Package path="gamedata\sounds\frt\ras_voice.uax" />
+    <Package path="gamedata\sounds\frt\yyy_voice.uax" />
+    <Package path="gamedata\sounds\gen_music.uax" />
+    <Package path="gamedata\sounds\gen_sound.uax" />
+    <Package path="gamedata\sounds\geo_music.uax" />
+    <Package path="gamedata\sounds\geo_sound.uax" />
+    <Package path="gamedata\sounds\geo_voice.uax" />
+    <Package path="gamedata\sounds\mp_voice.uax" />
+    <Package path="gamedata\sounds\params_mus.uax" />
+    <Package path="gamedata\sounds\params_rumble.uax" />
+    <Package path="gamedata\sounds\params_sfx.uax" />
+    <Package path="gamedata\sounds\params_vox.uax" />
+    <Package path="gamedata\sounds\prologue_voice.uax" />
+    <Package path="gamedata\sounds\ras_ambsound.uax" />
+    <Package path="gamedata\sounds\ras_music.uax" />
+    <Package path="gamedata\sounds\ras_sound.uax" />
+    <Package path="gamedata\sounds\ras_voice.uax" />
+    <Package path="gamedata\sounds\ui_music.uax" />
+    <Package path="gamedata\sounds\ui_sound.uax" />
+    <Package path="gamedata\sounds\yyy_music.uax" />
+    <Package path="gamedata\sounds\yyy_sound.uax" />
+    <Package path="gamedata\sounds\yyy_voice.uax" />
+    <Package path="gamedata\staticmeshes\arena_gm.usx" />
+    <Package path="gamedata\staticmeshes\arena_hr.usx" />
+    <Package path="gamedata\staticmeshes\arena_lm.usx" />
+    <Package path="gamedata\staticmeshes\arena_pr.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_02_gm.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_03_gm.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_04_gm.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_carl.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_gm.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_gm2.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_hr.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_lm.usx" />
+    <Package path="gamedata\staticmeshes\assaultship_pr.usx" />
+    <Package path="gamedata\staticmeshes\briefings.usx" />
+    <Package path="gamedata\staticmeshes\bumpmesh.usx" />
+    <Package path="gamedata\staticmeshes\carltesthall.usx" />
+    <Package path="gamedata\staticmeshes\charactertests.usx" />
+    <Package path="gamedata\staticmeshes\clonesmeshes.usx" />
+    <Package path="gamedata\staticmeshes\coreship_gm.usx" />
+    <Package path="gamedata\staticmeshes\coreship_hr.usx" />
+    <Package path="gamedata\staticmeshes\coreship_lm.usx" />
+    <Package path="gamedata\staticmeshes\coreship_pr.usx" />
+    <Package path="gamedata\staticmeshes\customanimtemplates.usx" />
+    <Package path="gamedata\staticmeshes\editormeshes.usx" />
+    <Package path="gamedata\staticmeshes\effectmesh.usx" />
+    <Package path="gamedata\staticmeshes\epilogue_gm.usx" />
+    <Package path="gamedata\staticmeshes\eventtemplate.usx" />
+    <Package path="gamedata\staticmeshes\exteriors_gm.usx" />
+    <Package path="gamedata\staticmeshes\exteriors_hr.usx" />
+    <Package path="gamedata\staticmeshes\exteriors_lm.usx" />
+    <Package path="gamedata\staticmeshes\exteriors_pr.usx" />
+    <Package path="gamedata\staticmeshes\geonosis_interiorsmeshes.usx" />
+    <Package path="gamedata\staticmeshes\geonosis.usx" />
+    <Package path="gamedata\staticmeshes\globalprops.usx" />
+    <Package path="gamedata\staticmeshes\hb_lowerkashyyykmeshes.usx" />
+    <Package path="gamedata\staticmeshes\hudmeshes.usx" />
+    <Package path="gamedata\staticmeshes\jw-assaultshipstaticmeshes.usx" />
+    <Package path="gamedata\staticmeshes\jw-staticmeshes.usx" />
+    <Package path="gamedata\staticmeshes\kamino_gm.usx" />
+    <Package path="gamedata\staticmeshes\karma.usx" />
+    <Package path="gamedata\staticmeshes\karmatestwalls.usx" />
+    <Package path="gamedata\staticmeshes\ld-signmeshes.usx" />
+    <Package path="gamedata\staticmeshes\lowerkashyyyk_gm.usx" />
+    <Package path="gamedata\staticmeshes\lowerkashyyyk_hr.usx" />
+    <Package path="gamedata\staticmeshes\lowerkashyyyk_lm.usx" />
+    <Package path="gamedata\staticmeshes\lowerkashyyyk_pr.usx" />
+    <Package path="gamedata\staticmeshes\markericons.usx" />
+    <Package path="gamedata\staticmeshes\ml_geosingle.usx" />
+    <Package path="gamedata\staticmeshes\multiplayer_gm.usx" />
+    <Package path="gamedata\staticmeshes\multiplayer_gm2.usx" />
+    <Package path="gamedata\staticmeshes\muzzleflashes3d_m.usx" />
+    <Package path="gamedata\staticmeshes\pickupmeshes.usx" />
+    <Package path="gamedata\staticmeshes\upperkashyyyk_gm.usx" />
+    <Package path="gamedata\staticmeshes\upperkashyyyk_hr.usx" />
+    <Package path="gamedata\staticmeshes\upperkashyyyk_lm.usx" />
+    <Package path="gamedata\staticmeshes\upperkashyyyk_pr.usx" />
+    <Package path="gamedata\staticmeshes\vehiclemeshes.usx" />
+    <Package path="gamedata\staticmeshes\weapons.usx" />
+    <Package path="gamedata\system\core.u" />
+    <Package path="gamedata\system\ctaudio.u" />
+    <Package path="gamedata\system\ctcharacters.u" />
+    <Package path="gamedata\system\ctgame.u" />
+    <Package path="gamedata\system\ctinventory.u" />
+    <Package path="gamedata\system\ctmarkers.u" />
+    <Package path="gamedata\system\editor.u" />
+    <Package path="gamedata\system\engine.u" />
+    <Package path="gamedata\system\gameplay.u" />
+    <Package path="gamedata\system\ipdrv.u" />
+    <Package path="gamedata\system\mod.u" />
+    <Package path="gamedata\system\mpgame.u" />
+    <Package path="gamedata\system\udebugmenu.u" />
+    <Package path="gamedata\system\unrealed.u" />
+    <Package path="gamedata\system\uwindow.u" />
+    <Package path="gamedata\system\xgame.u" />
+    <Package path="gamedata\system\xinterface.u" />
+    <Package path="gamedata\system\xinterfacecommon.u" />
+    <Package path="gamedata\system\xinterfacectmenus.u" />
+    <Package path="gamedata\system\xinterfacegamespy.u" />
+    <Package path="gamedata\system\xinterfacelive.u" />
+    <Package path="gamedata\system\xinterfacemp.u" />
+    <Package path="gamedata\textures\ambienttextures.utx" />
+    <Package path="gamedata\textures\arena_textures_props.utx" />
+    <Package path="gamedata\textures\arena_textures.utx" />
+    <Package path="gamedata\textures\assaultship_textures_props.utx" />
+    <Package path="gamedata\textures\assaultship_textures_trando.utx" />
+    <Package path="gamedata\textures\assaultship_textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="General\AS_GrateDirty_256_A" suffix="1" />
+        <Object id="General\wallsB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\bactadispensertextures.utx" />
+    <Package path="gamedata\textures\briefingtextures.utx" />
+    <Package path="gamedata\textures\bumptex.utx" />
+    <Package path="gamedata\textures\carltesthalltex.utx" />
+    <Package path="gamedata\textures\clonetextures.utx" />
+    <Package path="gamedata\textures\coreship_textures_props.utx" />
+    <Package path="gamedata\textures\coreship_textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="General\bridgeFloor" suffix="1" />
+        <Object id="General\elevatorShaftWall" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\cubemaps.utx" />
+    <Package path="gamedata\textures\dave_temp_tex.utx" />
+    <Package path="gamedata\textures\decaltextures.utx" />
+    <Package path="gamedata\textures\dispenserstextures.utx" />
+    <Package path="gamedata\textures\droidtextures.utx" />
+    <Package path="gamedata\textures\effecttex.utx" />
+    <Package path="gamedata\textures\epilogue_textures.utx" />
+    <Package path="gamedata\textures\exteriors_textures.utx" />
+    <Package path="gamedata\textures\framefx.utx" />
+    <Package path="gamedata\textures\geoanimproptextures.utx" />
+    <Package path="gamedata\textures\geonosiantextures.utx" />
+    <Package path="gamedata\textures\globalprops.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Default\DefaultPropA" suffix="1" />
+        <Object id="Geonosian\GeonosianTank" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\guicontent.utx" />
+    <Package path="gamedata\textures\hardwareshaders.utx" />
+    <Package path="gamedata\textures\hudarmstextures.utx" />
+    <Package path="gamedata\textures\hudtextures.utx" />
+    <Package path="gamedata\textures\japanese.utx" />
+    <Package path="gamedata\textures\jw-assaultshiptextures.utx" />
+    <Package path="gamedata\textures\jw-textures.utx" />
+    <Package path="gamedata\textures\kaminoantextures.utx" />
+    <Package path="gamedata\textures\kaminotextures.utx" />
+    <Package path="gamedata\textures\ld_common.utx" />
+    <Package path="gamedata\textures\ld_signs.utx" />
+    <Package path="gamedata\textures\lowerkashyyyk_textures_props.utx" />
+    <Package path="gamedata\textures\lowerkashyyyk_textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="General\SpotRays" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\markericontextures.utx" />
+    <Package path="gamedata\textures\markertextures.utx" />
+    <Package path="gamedata\textures\milestone1.utx" />
+    <Package path="gamedata\textures\miscanimproptextures.utx" />
+    <Package path="gamedata\textures\multiplayer_textures.utx" />
+    <Package path="gamedata\textures\orbitfonts_notosans_cht.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="OrbitBold12\OrbitBold12_PageA" suffix="2" />
+        <Object id="OrbitBold15\OrbitBold15_PageA" suffix="2" />
+        <Object id="OrbitBold15\OrbitBold15_PageB" suffix="1" />
+        <Object id="OrbitBold24\OrbitBold24_PageA" suffix="2" />
+        <Object id="OrbitBold24\OrbitBold24_PageB" suffix="1" />
+        <Object id="OrbitBold24\OrbitBold24_PageC" suffix="1" />
+        <Object id="OrbitBold8\OrbitBold8_PageA" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\orbitfonts_notosans_jpt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="OrbitBold12\OrbitBold12_PageA" suffix="3" />
+        <Object id="OrbitBold15\OrbitBold15_PageA" suffix="3" />
+        <Object id="OrbitBold15\OrbitBold15_PageB" suffix="2" />
+        <Object id="OrbitBold24\OrbitBold24_PageA" suffix="3" />
+        <Object id="OrbitBold24\OrbitBold24_PageB" suffix="2" />
+        <Object id="OrbitBold24\OrbitBold24_PageC" suffix="2" />
+        <Object id="OrbitBold8\OrbitBold8_PageA" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\orbitfonts_notosans.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="OrbitBold12\OrbitBold12_PageA" suffix="1" />
+        <Object id="OrbitBold15\OrbitBold15_PageA" suffix="1" />
+        <Object id="OrbitBold24\OrbitBold24_PageA" suffix="1" />
+        <Object id="OrbitBold8\OrbitBold8_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gamedata\textures\orbitfonts.utx" />
+    <Package path="gamedata\textures\pickuptextures.utx" />
+    <Package path="gamedata\textures\ras_carltextures.utx" />
+    <Package path="gamedata\textures\rasanimproptextures.utx" />
+    <Package path="gamedata\textures\shadow.utx" />
+    <Package path="gamedata\textures\trandoshantextures.utx" />
+    <Package path="gamedata\textures\turrettextures.utx" />
+    <Package path="gamedata\textures\udn-levelloadingtex.utx" />
+    <Package path="gamedata\textures\upperkashyyyk_textures_props.utx" />
+    <Package path="gamedata\textures\upperkashyyyk_textures.utx" />
+    <Package path="gamedata\textures\vehicletextures.utx" />
+    <Package path="gamedata\textures\warfarefonts.utx" />
+    <Package path="gamedata\textures\weapontextures.utx" />
+    <Package path="gamedata\textures\wookieetextures.utx" />
+  </Packages>
+</IdRemapping>

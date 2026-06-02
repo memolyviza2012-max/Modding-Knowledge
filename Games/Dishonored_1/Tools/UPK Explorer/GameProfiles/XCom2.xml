@@ -1,0 +1,18 @@
+﻿<Game packageFileVersion="845" packageLicenseeVersion="120" TFCMappingFileName="X-Com 2" checkDupplicateIds="False" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="845" licenseeVersion="101"/>
+		<PackageVersion fileVersion="845" licenseeVersion="105"/>
+		<PackageVersion fileVersion="845" licenseeVersion="107"/>
+		<PackageVersion fileVersion="845" licenseeVersion="108"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="XComGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Resistance Warrior Pack" TFCMappingFileName="ResistanceWarriorPack">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="XComGame\DLC\XCom_DLC_Day0\Content" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

@@ -1,0 +1,1400 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="rogame\brewedpc\akaudio.u" />
+    <Package path="rogame\brewedpc\akresources.upk" />
+    <Package path="rogame\brewedpc\core.u" />
+    <Package path="rogame\brewedpc\editormaterials.upk" />
+    <Package path="rogame\brewedpc\editormeshes.upk" />
+    <Package path="rogame\brewedpc\editorresources.upk" />
+    <Package path="rogame\brewedpc\engine_mi_shaders.upk" />
+    <Package path="rogame\brewedpc\engine.u" />
+    <Package path="rogame\brewedpc\enginebuildings.upk" />
+    <Package path="rogame\brewedpc\enginedebugmaterials.upk" />
+    <Package path="rogame\brewedpc\enginefonts.upk" />
+    <Package path="rogame\brewedpc\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\enginemeshes.upk" />
+    <Package path="rogame\brewedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\enginesounds.upk" />
+    <Package path="rogame\brewedpc\enginevolumetrics.upk" />
+    <Package path="rogame\brewedpc\gameframework.u" />
+    <Package path="rogame\brewedpc\gfxui.u" />
+    <Package path="rogame\brewedpc\gfxuieditor.u" />
+    <Package path="rogame\brewedpc\greenmenmod.u" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\backyard\gmte-backyard2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\beachparty2019\gmsu-beachparty2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\christmas\david_christmas.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\christmas\gmte-christmas2018.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\christmas\lght_christmas.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\christmas\matt_christmas.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\christmas\snd_christmas.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\poolparty\gmte-poolparty2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\sandbox\gmte-sandbox2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\thanksgiving\art_thanksgiving2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\thanksgiving\david_thanksgiving2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\thanksgiving\gmte-thanksgiving2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\maps\thanksgiving\lukas_thanksgiving2019.roe" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\chr_gm_1stp_hands_master.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\chr_gm_gore.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\chr_gm_master.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\chr_gmm_fieldgear.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\chr_gmm_tunics.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_ammobox.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_animatedtrain.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_backyard_props.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_beach.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_beachparty.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_billiards.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_cakestand.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_caketray.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_candycane.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_cards.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_cartracks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_castlemeshmerge.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_chandalier.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_checkers.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_cinderblock.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_colorlut.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_crafttable.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_crayon.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_cubemaps.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_darts.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_deliciouscake.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_dirtpaths.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_fall_props.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_fireplace.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_fireworks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_foors.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_garland.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_gift_labels.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_gifts.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_keyholder.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_kf2_assets_2.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_kf2_assets.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Pine_Leaf_Diff" suffix="1" />
+        <Object id="Textures\Env_Pine_Leaf_Norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_lincolnlogs.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_ornaments_2.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_ornaments.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_partyhats.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_plasticrake.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_pool_02.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_pool_props.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_pool.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_poolsubmarine.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_popsiclemeshmerge.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_sandbox_props.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_sandbox.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_santastoys.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_snow.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_stocking.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_summer_props.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\US_headgear_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_tkgfood.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_toytrucks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_treeskirt.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_treetop.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_woodentracks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmas_02.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmas_tree.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmas.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_RS1_Boxcopy_RGB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmashouse.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\moon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmaslights.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_gmm_xmasrug.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_3dgrass.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_ammocrate.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_barbwirefix.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_fence_d" suffix="1" />
+        <Object id="Textures\T_fence_s" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_beachball_def.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_booster1.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_bricks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_childbucket.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_childshovel.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_cinderblock.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_commradio.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_fence.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_sandbags.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\env_plasticmen_woodenblocks.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\fx_gm_impacts.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\fx_gm_smoke.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\fx_gm_weapons_2.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\fx_gm_weapons_3.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\fx_gm_weapons.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\casings_diff" suffix="1" />
+        <Object id="Textures\casings_norm" suffix="1" />
+        <Object id="Textures\casings_spec" suffix="1" />
+        <Object id="Textures\casings_wearmask" suffix="1" />
+        <Object id="Textures\M79_casing_Diff" suffix="1" />
+        <Object id="Textures\M79_casing_Norm" suffix="1" />
+        <Object id="Textures\M79_casing_Spec" suffix="1" />
+        <Object id="Textures\M79_casing_wearmask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\gm_ui_textures.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gm_ui_textures2.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gm_ui_textures3.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmgamemenus.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_master_materials2.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_tkg_01.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_tkg_02.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_tkg_03.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_tkg_04.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\gmm_tkg_misc.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\poolprops.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Green_Texture" suffix="1" />
+        <Object id="Materials\redSolid" suffix="1" />
+        <Object id="Textures\foam_Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\ui_pool_preview.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_blue_uh1h_interior.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_blue_uh1h.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Fake_Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_green_uh1h_gunship.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Bushranger_1P_Sights_D" suffix="1" />
+        <Object id="Textures\T_Bushranger_Armament_D" suffix="1" />
+        <Object id="Textures\T_Bushranger_Armament_Wreck_D" suffix="1" />
+        <Object id="Textures\T_Bushranger_D" suffix="1" />
+        <Object id="Textures\T_Bushranger_INT_SEC_D" suffix="1" />
+        <Object id="Textures\T_Bushranger_M21_Reticule" suffix="1" />
+        <Object id="Textures\T_Bushranger_M60_Reticule" suffix="1" />
+        <Object id="Textures\T_Bushranger_Rotor" suffix="1" />
+        <Object id="Textures\T_Bushranger_Wreck_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_green_uh1h_interior.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_green_uh1h.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Fake_Normal" suffix="1" />
+        <Object id="Textures\T_UH1H_Green_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_gunship.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_phantom.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\vh_gm_recon.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_9mmcqc.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_assaultrifle.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_bar.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_battlerifle.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_bazooka.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_binocs.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_c4.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_claymore.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_dmr.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_flamethrower.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_grenade.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_grenadelauncher.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_machinegun.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Fake_Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_marksmanrifle.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_obrez.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_pdw.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_peashooter.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_pistol.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_revolver.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_shotgun.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_slr.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_slugshot.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_smoke_grenade.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_smokelauncher.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_sniperrifle.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_submachinegun.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_submachingun.upk" />
+    <Package path="rogame\brewedpc\greenmenmod\packages\wp_gm_wpgrenade.upk" />
+    <Package path="rogame\brewedpc\grip.u" />
+    <Package path="rogame\brewedpc\ipdrv.u" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\art_anlaovalley_te.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\art_anlaovalley.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\fx_anlaovalley_te.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\fx_anlaovalley.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\snd_anlaovalley_te.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\snd_anlaovalley.roe" />
+    <Package path="rogame\brewedpc\maps\anlaovalley\vnsu-anlaovalley.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AnLaoValley_Interior" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\anlaovalley\vnte-anlaovalley.roe" />
+    <Package path="rogame\brewedpc\maps\apachesnow\art_apachesnow.roe" />
+    <Package path="rogame\brewedpc\maps\apachesnow\fx_apachesnow.roe" />
+    <Package path="rogame\brewedpc\maps\apachesnow\snd_apachesnow.roe" />
+    <Package path="rogame\brewedpc\maps\apachesnow\vnte-apachesnow.roe" />
+    <Package path="rogame\brewedpc\maps\asau\art_asau.roe" />
+    <Package path="rogame\brewedpc\maps\asau\art_asaulighting.roe" />
+    <Package path="rogame\brewedpc\maps\asau\fx_asau.roe" />
+    <Package path="rogame\brewedpc\maps\asau\snd_asau.roe" />
+    <Package path="rogame\brewedpc\maps\asau\vnte-asau.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="4" />
+        <Object id="B" suffix="3" />
+        <Object id="C" suffix="4" />
+        <Object id="D" suffix="2" />
+        <Object id="E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\backup files\packages\env_e3_trailer_content.upk" />
+    <Package path="rogame\brewedpc\maps\borderwatch\snd_borderwatch.roe" />
+    <Package path="rogame\brewedpc\maps\borderwatch\vnte-borderwatch.roe" />
+    <Package path="rogame\brewedpc\maps\compound\art_compound.roe" />
+    <Package path="rogame\brewedpc\maps\compound\fx_compound.roe" />
+    <Package path="rogame\brewedpc\maps\compound\snd_compound.roe" />
+    <Package path="rogame\brewedpc\maps\compound\vnsk-compound.roe" />
+    <Package path="rogame\brewedpc\maps\compound\vnte-compound.roe" />
+    <Package path="rogame\brewedpc\maps\cuaviet\art_cuaviet.roe" />
+    <Package path="rogame\brewedpc\maps\cuaviet\fx_cuaviet.roe" />
+    <Package path="rogame\brewedpc\maps\cuaviet\snd_cuaviet.roe" />
+    <Package path="rogame\brewedpc\maps\cuaviet\vnte-cuaviet.roe" />
+    <Package path="rogame\brewedpc\maps\cuchi\art_cuchi.roe" />
+    <Package path="rogame\brewedpc\maps\cuchi\fx_cuchi.roe" />
+    <Package path="rogame\brewedpc\maps\cuchi\snd_cuchi.roe" />
+    <Package path="rogame\brewedpc\maps\cuchi\vnte-cuchi.roe" />
+    <Package path="rogame\brewedpc\maps\danang\art_danangairbase.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Prefabs\Ammo_Supply\Ammo_Supply_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\danang\fx_danangairbase.roe" />
+    <Package path="rogame\brewedpc\maps\danang\snd_danangairbase.roe" />
+    <Package path="rogame\brewedpc\maps\danang\vnte-danangairbase.roe" />
+    <Package path="rogame\brewedpc\maps\demilitarizedzone\art_demilitarizedzone.roe" />
+    <Package path="rogame\brewedpc\maps\demilitarizedzone\fx_demilitarizedzone.roe" />
+    <Package path="rogame\brewedpc\maps\demilitarizedzone\snd_demilitarizedzone.roe" />
+    <Package path="rogame\brewedpc\maps\demilitarizedzone\vnte-demilitarizedzone.roe" />
+    <Package path="rogame\brewedpc\maps\dongha\art_dongha.roe" />
+    <Package path="rogame\brewedpc\maps\dongha\fx_dongha.roe" />
+    <Package path="rogame\brewedpc\maps\dongha\snd_dongha.roe" />
+    <Package path="rogame\brewedpc\maps\dongha\vnte-dongha.roe" />
+    <Package path="rogame\brewedpc\maps\firebase\art_firebase.roe" />
+    <Package path="rogame\brewedpc\maps\firebase\fx_firebase.roe" />
+    <Package path="rogame\brewedpc\maps\firebase\snd_firebase.roe" />
+    <Package path="rogame\brewedpc\maps\firebase\vnsk-firebase.roe" />
+    <Package path="rogame\brewedpc\maps\firebase\vnte-firebase.roe" />
+    <Package path="rogame\brewedpc\maps\firebasegeorgina\snd_firebasegeorgina.roe" />
+    <Package path="rogame\brewedpc\maps\firebasegeorgina\vnte-firebasegeorgina.roe" />
+    <Package path="rogame\brewedpc\maps\helicoptertraining\vnsp-helicopterrange.roe" />
+    <Package path="rogame\brewedpc\maps\highway14\vnte-highway14.roe" />
+    <Package path="rogame\brewedpc\maps\hill937\art_hill937_fx.roe" />
+    <Package path="rogame\brewedpc\maps\hill937\art_hill937.roe" />
+    <Package path="rogame\brewedpc\maps\hill937\snd_hill937.roe" />
+    <Package path="rogame\brewedpc\maps\hill937\vnte-hill937.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="3" />
+        <Object id="B" suffix="2" />
+        <Object id="C" suffix="3" />
+        <Object id="D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\huecity\art_huecity_su.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\art_huecity.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\art_temple.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\fx_huecity_su.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\fx_huecity.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\fx_temple.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\snd_huecity_su.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\snd_huecity.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\snd_temple.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\vnsk-temple.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\vnsu-huecity.roe" />
+    <Package path="rogame\brewedpc\maps\huecity\vnte-huecity.roe" />
+    <Package path="rogame\brewedpc\maps\junglecamp\art_junglecamp.roe" />
+    <Package path="rogame\brewedpc\maps\junglecamp\snd_junglecamp.roe" />
+    <Package path="rogame\brewedpc\maps\junglecamp\vnsk-junglecamp.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="2" />
+        <Object id="B" suffix="1" />
+        <Object id="C" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\khesanh\art_khesanh.roe" />
+    <Package path="rogame\brewedpc\maps\khesanh\fx_khesanh.roe" />
+    <Package path="rogame\brewedpc\maps\khesanh\snd_khesanh.roe" />
+    <Package path="rogame\brewedpc\maps\khesanh\vnte-khesanh.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="5" />
+        <Object id="B" suffix="4" />
+        <Object id="C" suffix="5" />
+        <Object id="D" suffix="3" />
+        <Object id="E" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\longtan\art_longtan.roe" />
+    <Package path="rogame\brewedpc\maps\longtan\fx_longtan.roe" />
+    <Package path="rogame\brewedpc\maps\longtan\lght_longtan.roe" />
+    <Package path="rogame\brewedpc\maps\longtan\snd_longtan.roe" />
+    <Package path="rogame\brewedpc\maps\longtan\vnte-longtan.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objective_A" suffix="1" />
+        <Object id="Objective_B" suffix="1" />
+        <Object id="Objective_C" suffix="1" />
+        <Object id="Objective_D" suffix="1" />
+        <Object id="Objective_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\longtan\vol_longtan.roe" />
+    <Package path="rogame\brewedpc\maps\mekong\art_mekong.roe" />
+    <Package path="rogame\brewedpc\maps\mekong\fx_mekong.roe" />
+    <Package path="rogame\brewedpc\maps\mekong\snd_mekong.roe" />
+    <Package path="rogame\brewedpc\maps\mekong\vnte-mekong.roe" />
+    <Package path="rogame\brewedpc\maps\ninhphu\snd_ninhphu.roe" />
+    <Package path="rogame\brewedpc\maps\ninhphu\vnte-ninhphu.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\art-operationforrest_collision.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\art-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\fx-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\snd-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnsu-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte_art-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte_art-opforrest_collision.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte_fx-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte_snd-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte_trenches-operationforrest.roe" />
+    <Package path="rogame\brewedpc\maps\operationforrest\vnte-operationforrest.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="6" />
+        <Object id="B" suffix="5" />
+        <Object id="C" suffix="6" />
+        <Object id="D" suffix="4" />
+        <Object id="E" suffix="3" />
+        <Object id="F" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\quangtri\art_terrain_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\fx_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\snd_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnsu-quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte_art_church_block_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte_art_terrain_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte_art_town_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte_fx_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte_snd_quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\quangtri\vnte-quangtri.roe" />
+    <Package path="rogame\brewedpc\maps\resort\snd_resort.roe" />
+    <Package path="rogame\brewedpc\maps\resort\vnte-resort.roe" />
+    <Package path="rogame\brewedpc\maps\roentry.roe" />
+    <Package path="rogame\brewedpc\maps\rungsac\art_rungsac.roe" />
+    <Package path="rogame\brewedpc\maps\rungsac\fx_rungsac.roe" />
+    <Package path="rogame\brewedpc\maps\rungsac\snd_rungsac.roe" />
+    <Package path="rogame\brewedpc\maps\rungsac\vnte-rungsac.roe" />
+    <Package path="rogame\brewedpc\maps\saigon\vnte_art_saigon_changes.roe" />
+    <Package path="rogame\brewedpc\maps\saigon\vnte_art_saigonl.roe" />
+    <Package path="rogame\brewedpc\maps\saigon\vnte_fx_saigon.roe" />
+    <Package path="rogame\brewedpc\maps\saigon\vnte_snd_saigon.roe" />
+    <Package path="rogame\brewedpc\maps\saigon\vnte-saigon.roe" />
+    <Package path="rogame\brewedpc\maps\shooting range\art_shootingrange.roe" />
+    <Package path="rogame\brewedpc\maps\shooting range\vnsp-shootingrange.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\art_songbe_2_te.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\art_songbe_sk.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\art_songbe_te.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\art_songbe.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\fx_songbe_sk.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\fx_songbe_te.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\fx_songbe.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\snd_songbe_sk.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\snd_songbe_te.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\snd_songbe.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\vnsk-riverbed.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\vnsu-songbe.roe" />
+    <Package path="rogame\brewedpc\maps\songbe\vnte-songbe.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\vnte-campaignstart.roe" />
+    <Package path="rogame\brewedpc\mobileresources.upk" />
+    <Package path="rogame\brewedpc\nodebuddies.upk" />
+    <Package path="rogame\brewedpc\onlinesubsystempc.u" />
+    <Package path="rogame\brewedpc\onlinesubsystemsteamworks.u" />
+    <Package path="rogame\brewedpc\packages\audio\music\ww_mus.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_antiair.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_artillery.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_canberra.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_lightartillery.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_napalm.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_recon.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_cmd_spooky.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_env_rain.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_env_shared.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_c4.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_fougasse.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_m18claymore.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_m34wp.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_m61.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_md82_mine.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_molotov.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_rdg1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_shared.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_exp_type67.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_fol_shared.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_fol_us.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_fol_vc.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_global.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_m134_minigun.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_ui.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_veh_oh6.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_veh_shared.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_veh_uh1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_1911.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_ak47.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_bhp.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_binoculars.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_bullets.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_dp28.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_dshk.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_f1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_flamethrower.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_izh43_single.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_l1a1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1_garand.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1_m2.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m129.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m14.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m16.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1917.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1918.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1919_a6.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m195.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m1a1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m2_browning.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m3.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m37_ithaca.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m60.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m79.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_m8_smoke.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_makarov.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mas49.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mat49_7_62.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mat49_9mm.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mg34.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mk40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mosin.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_mp40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_owen.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_ppsh.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_punjitrap.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_rp46.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_rpd.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_rpg.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_shared.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_shell_impacts.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_sks.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_svd.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_tripwiretrap.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_tt33.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_wep_tunneltool.upk" />
+    <Package path="rogame\brewedpc\packages\audio\sfx\ww_xmas.upk" />
+    <Package path="rogame\brewedpc\packages\audio\soundclassesandmodes.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_anzac_announcer.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_anzac_radio.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_anzac_voice1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_anzac_voice2.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_anzac_voice3.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_arvn_announcer.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_arvn_radio.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_arvn_voice1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_arvn_voice2.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_arvn_voice3.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_us_announcer.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_us_radio.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_us_voice1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_us_voice2.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_us_voice3.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_vc_announcer.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_vc_radio.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_vc_voice1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_vc_voice2.upk" />
+    <Package path="rogame\brewedpc\packages\audio\voice\ww_vox_vc_voice3.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_goremesh.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeraim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeranimtree_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_1stp_hands_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_1stp_hands_second.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_3p_hands.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_arvn_1stp_hands.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_arvn_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_arvn_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_arvn_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_arvn.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus_1stp_hands.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus_common.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_aus.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_common.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dev.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_digitaldeluxe.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_candc.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_cgom_arvn.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_cgom_nva.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_cgom_us.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_cgom_vc.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_headgearcamo.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_helmettext.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_homeland.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_modders.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_pcgamer.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_personaltouch.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_remf.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_specops.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_us_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_us_tigerstripe.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_dlc_vn_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_gore.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_nva.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeraim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranim_master_02.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranim_master_03.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranim_master_04.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranim_master_05.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_playeranimtree_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_trailer.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_us_army.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GearTextures\US_Gear_D" suffix="1" />
+        <Object id="GearTextures\US_Gear_N" suffix="1" />
+        <Object id="GearTextures\US_Gear_S" suffix="1" />
+        <Object id="GearTextures\US_Gear2_D" suffix="1" />
+        <Object id="GearTextures\US_Gear2_N" suffix="1" />
+        <Object id="GearTextures\US_Gear2_S" suffix="1" />
+        <Object id="Textures\US_Generic_G" suffix="1" />
+        <Object id="Textures\US_Generic_M" suffix="1" />
+        <Object id="Textures\US_Tunic_Long_D" suffix="1" />
+        <Object id="Textures\US_Tunic_Long_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_us_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_us_heads.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\US_Head2_D" suffix="1" />
+        <Object id="Textures\US_Head2_N" suffix="1" />
+        <Object id="Textures\US_Head2_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_vietcong.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\VC_Generic_G" suffix="1" />
+        <Object id="Textures\VC_Generic_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_vn_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_vn_vn_heads.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\VN_Head1_D" suffix="1" />
+        <Object id="Textures\VN_Head1_N" suffix="1" />
+        <Object id="Textures\VN_Head1_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\m_vn_atmospherics.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_burned_materials.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_characters.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_materials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Droplets_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_pom.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Dry_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_pom2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_WetMud_D" suffix="1" />
+        <Object id="Textures\T_WetMud_N" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_postprocess.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_scannedterrain.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_scannedterrain2.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_vehicles.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_water.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_weapons_dev.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\scope_mask" suffix="1" />
+        <Object id="Textures\T_Reflection" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_weapons.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_common_wet_terrain.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_imposter.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_sky_2.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_vn_sky.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_characters.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\no_tattoo" suffix="1" />
+        <Object id="Textures\none_colour" suffix="1" />
+        <Object id="Textures\none_normal" suffix="1" />
+        <Object id="Textures\none_specular" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_cubemaps.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_details.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_terrain_1.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_terrain_2.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_common_terrain_spug.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_lut_rd.upk" />
+    <Package path="rogame\brewedpc\packages\common\t_vn_lut.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_ac47_spooky.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_ammocrate.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_animals.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_atmospherics.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_destruction.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_enviroment.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_fire.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_helicopters.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_impacts.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_lensflares.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_materials.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_napalm.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_phosphor.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_sa2.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_smoke.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_splash.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_weapons_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vn_weapons.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlowMap" suffix="1" />
+        <Object id="Textures\T_DustSplashsoft_D" suffix="1" />
+        <Object id="Textures\Test" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\common\env_rs_iwo_terrain.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\env_rs_rain.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\m_rs_common_general.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\m_rs_common_misc.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\m_rs_common_vehicles.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\temp_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\common\m_rs_common_weapons.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\t_rs_common_cubemaps.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\common\t_rs_common_details.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_atmospherics.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_bullethits.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_char_soldier_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_char_soldier.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_env_fire.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_env_wep.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_gore.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_muzzleflashes.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_postprocess.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_recon.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_artillery.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_basicmaterials.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_bullet_hits.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_decals.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_explosions.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_fire.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_flamethrower.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_heat.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_lensflares.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_lightfunctions.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_postprocess.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_wep_gun.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_rs_wounddecals.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_veh_tank_three.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_veh_tank_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_veh_tank.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_weapons.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_wep_explosive_three.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_wep_explosive.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_wep_gun_three.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_wep_gun_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\fx_wep_gun.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\ro_decals.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\effects\roeffects.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\detail_tex.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_brick.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_concrete.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_decals.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_plaster_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_rifle_range_materials.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_rs_ocean.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_rs_sand_jm.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_rs_terrain3.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_skies.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_surface_types.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\env_wood.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\environmentalmaterials\gen_tex.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\grip\griptankai.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_commissars_house_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_cover.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_destruction_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_destruction.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_detail_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_detail.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_furniture_three.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_furniture_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_industry_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_military.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_outdoors.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_stationone_one.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_train_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\props_static\props_village.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\character_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\effects_mats_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\effects_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\environment_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\misc_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\props_static_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\ui_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\vehicle_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ro2_mats\weapon_mats.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_jungletree.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_rs_civilianhut.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_rs_hangar.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_rs_japanese_furniture.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_bed_mesh_D" suffix="1" />
+        <Object id="Textures\T_Grungemap_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_rs_limestone.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\env_rs_skies.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\gen_placeholder_assets.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\staticmeshes\techprototype_andrew.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\dummies.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\lut_colorcorrection.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ronodebuddies.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\rs_ui_fonts_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageB" suffix="1" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\ui\rs_ui_fonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean_Gradient\Texture2D_3" suffix="1" />
+        <Object id="Font_RS_Clean_Gradient\Texture2D_4" suffix="1" />
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageB" suffix="2" />
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageC" suffix="1" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageC" suffix="2" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\ui\rs_ui_fonts.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\ui\rs_ui_textures_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_fonts_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_Server_Text\Font_Server_Text_PageA" suffix="1" />
+        <Object id="Font_Small\Font_Small_PageA" suffix="1" />
+        <Object id="Font_Typed\Texture2D_0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_fonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_Chat\Font_Clean_PageA" suffix="1" />
+        <Object id="Font_Server_Text\Font_Server_Text_PageA" suffix="2" />
+        <Object id="Font_Small\Font_Small_PageA" suffix="2" />
+        <Object id="Font_Typed\Texture2D_0" suffix="2" />
+        <Object id="Font_Typed\Texture2D_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_fonts.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_skins.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_textures_four.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_textures_two.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\ui\ui_textures.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\weapons\1stperson_cameras.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\weapons\wp_ger_kar98k_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\legacy\weapons\wp_shared_t.upk" />
+    <Package path="rogame\brewedpc\packages\rogamemenus.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_airbase_placeholder.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_animals.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_anlao_cliffs.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_bamboo_irrigation.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_bamboo_stacks.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_bananatree.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_barbwire.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_barrels.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_bicycle.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_billboards.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_blackapril.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_buddhastatue.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_bunker.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_camp_dugouts.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_camp_temp.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_camp_underground.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_candles.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cemetery.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_citadelwalls_rubble.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_citadelwalls.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_civiliantools.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_climbable.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_clothline.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_assets.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_gatehouse.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_gates.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_hooches.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_hotel.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_macv.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_rotunda.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_school_1.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_compound_school_2.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_concretebridge.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_conex_box.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_corrugatedmetal.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_CorrugatedMetal_Military_RGB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cua_viet.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cuchi_gasstation.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cuchi_houses.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cuchi_policestation.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cuchi_watersheets.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_cvilianfood.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_da_nang_air_base.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_da_nang.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_dead_bodies.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_deadtrees.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_debris.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_decals.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_drainpipe.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_dugout.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_earth_berms.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_elephantgrass.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_erosionbanks.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_field_constructions.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_firebase_telegraph_pole.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_firebase.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_fishing.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_flags.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_bamboowalls.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_burnedtrees.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_camp.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_coffeeplant.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_ferns.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_ivywalls.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_tabacco.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_foliage_waterlilies.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_frenchbunker.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_DamageTile_01_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_furniture.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Oven_D" suffix="1" />
+        <Object id="Textures\T_Oven_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_gazebo.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_gen_urban_buildings.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_girderbridge.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_grasssets.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_hanging_fabric.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_haystacks.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_house_ads.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_hue_assets.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_hue_corner_block.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_FrenchBunkerTile_DIFF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_hue_hospital.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_hue_objective_d.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_juicy.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_jungle_decals.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_jungle_shelters.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_junglefloor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_JungleFloor_D" suffix="1" />
+        <Object id="Textures\T_Moss_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_junglefloor2.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_junglejetty.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_kek.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_landing_mats.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_lighthouse.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_lights.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_logwalls.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_lowpoly_buildings.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_market_props.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_metal_huts.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_moatwall.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_native_fences.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_native_houses_textures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Native_Houses_DA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_native_houses.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_nativeinterior.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_nypapalm.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_office.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_op_forrest.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_paddyfield.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_palmtrees.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_pooltable.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_posters.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_prefabs.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_quangtri.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_radarbase_prefabs.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_radiorelay_placehold.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rain.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_RainReflection" suffix="1" />
+        <Object id="Textures\T_WetMud_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rainpipes.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_residental_houses.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rice.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_ricebags.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_riceterraces.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_riverboat.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_roadsigns.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rocks.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_ropebridge.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rubber_factory.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rubberboat.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rubbertree.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_rugs.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_sandbags.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_scaffolding.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_shantyhouses.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_sheltered_walkway.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_shopshutters.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_sidewalks.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_slidedoor.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_songbe.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_songbe2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A" suffix="1" />
+        <Object id="C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_steelroadbarrier.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_streets.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_streetshopcart.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_telegraphpoles.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_temple_textures.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_temple.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_templebell.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_templegate.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_termite_hills.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_terrain_backgrounds.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Cliff_D" suffix="1" />
+        <Object id="Textures\T_Cliff_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_tradecart.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_train.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_traps.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_tree_groups.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_trenches.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_tualangtree.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_tunnels.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_tutorial.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_houses_textures.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_houses_textures1.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_houses_textures2.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_houses.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_rubble.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_urban_walls.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_barracks_hooch.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_how_ammo.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_m60_ammo.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_misc_items.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_sandbags.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_supply.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_us_tents.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_vc_interior.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_vc_supply.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_vespa.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_watchtower.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_waterfall.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_watertank.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_watertower.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_vn_wood_bunker.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\evn_vn_dead_bodies.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Body_Sheet_001_D" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_001_N" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_001_RGB" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_002_D" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_002_N" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_002_RGB" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_003_D" suffix="1" />
+        <Object id="Textures\T_Body_Sheet_004_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\staticmeshes\gen_vn_dev.upk" />
+    <Package path="rogame\brewedpc\packages\ui_videos.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_arvn_m113_apc.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_arvn_m151.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_arvn_m35.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_arvn_skyraider.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_arvn_uh1h.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_bushranger.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_canberra.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_landrover.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_m113.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_oh6.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_recon.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_aus_uh1h.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_drivable_m113_apc.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_m113.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_m151_mutt.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_nva_t54_tank.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_plymouth_sedan.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_renault_4cv.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_sa2_missile.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_ac47spooky.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_AC-47_D" suffix="1" />
+        <Object id="Textures\T_AC-47_N" suffix="1" />
+        <Object id="Textures\T_AC-47_RGB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_ah1g_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_ah1g.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_c130.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_f4phantom.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_m102howitzer.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_m35.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_oh6_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_oh6.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_recon.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_uh1h_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_vn_us_uh1h.upk" />
+    <Package path="rogame\brewedpc\packages\vn_test_stuff.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts_chn.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts_jpn.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageA" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageB" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBA" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBB" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBC" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBD" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBE" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBF" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBG" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBH" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBI" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBJ" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageBK" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageC" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageD" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageE" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageF" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageG" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageH" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageI" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageJ" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageK" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageL" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageM" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageN" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageO" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageP" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageQ" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageR" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageS" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageT" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageU" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageV" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageW" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageX" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageY" suffix="1" />
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_1_PageZ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageA" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageB" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBA" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBB" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBC" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBD" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBE" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBF" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBG" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBH" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBI" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBJ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBK" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBL" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBM" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBN" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBO" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBP" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBQ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBR" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBS" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBT" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBU" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBV" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBW" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBX" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBY" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageBZ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageC" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCA" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCB" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCC" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCD" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCE" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCF" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCG" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCH" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageCI" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageD" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageE" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageF" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageG" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageH" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageI" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageJ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageK" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageL" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageM" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageN" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageO" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageP" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageQ" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageR" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageS" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageT" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageU" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageV" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageW" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageX" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageY" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_1_PageZ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageA" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageB" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBA" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBB" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBC" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBD" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBE" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBF" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBG" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBH" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBI" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBJ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBK" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBL" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBM" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBN" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBO" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBP" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBQ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBR" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBS" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBT" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBU" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBV" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBW" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBX" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBY" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageBZ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageC" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageCA" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageCB" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageCC" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageCD" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageCE" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageD" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageE" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageF" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageG" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageH" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageI" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageJ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageK" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageL" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageM" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageN" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageO" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageP" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageQ" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageR" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageS" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageT" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageU" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageV" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageW" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageX" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageY" suffix="1" />
+        <Object id="Font_VN_Condensed\Font_VN_Condensed_1_PageZ" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts_kor.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts_rus.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts_trk.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_VN_Clean_72\Font_VN_Clean_72_PageA" suffix="1" />
+        <Object id="Font_VN_Clean\Font_VN_Clean_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_fonts.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_map_overheads.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_mega_fonts.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_skins.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_textures_campaign.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_textures_character_two.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heads\Head_US_11" suffix="1" />
+        <Object id="Heads\Head_Viet_06" suffix="1" />
+        <Object id="Heads\Head_Viet_07" suffix="1" />
+        <Object id="Heads\Head_Viet_08" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_textures_character.upk" />
+    <Package path="rogame\brewedpc\packages\vn_ui_textures_three.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HUD\DeathMessage\UI_Kill_Icon_RP46" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_textures_two.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapPreviews\UI_MapPreview_Christmas2018" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_textures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HUD\Stance\ui_hud_stance_movement_climb" suffix="1" />
+        <Object id="HUD\WeaponSelect\ui_hud_weaponselect_TT33" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_death" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_enemy" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_rally" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_Rifle" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\vn_ui_tutorial_videos.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_1st_person_misc.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_master_02.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_master_03.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_master_04.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_master_05.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_master.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_3rd_projectile.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_3rd_master.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_bar1918a2_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_m1919_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_m1carbine_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_m1garand_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_arvn_thompsonm1a1_smg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_3rd_master.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_browninghp_pistol.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_f1_smg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_l1a1.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_l2a1.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_owengun.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_aus_xm117.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_bandage.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_casings.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_clacker.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_disarming_traps.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_resupply_crates.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_VC_Ammo_002_D" suffix="1" />
+        <Object id="Textures\tex_diff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_binoculars.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_c4.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_claymore.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_coltm1911_pistol.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m14.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m16.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m1917_revolver.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m2_hmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m34_grenade.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m37ithaca.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m3greasegun.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m40.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m60.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m61_grenade.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m79.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m8_smokegrenade.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_usa_m9_flamethrower.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_ak47.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_binoculars.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_dp_28_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_dshk_hmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_dshk_portable.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_izh43.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_k50m.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_makarov_pistol.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mas49.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mat49.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_md82_mine.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mg34_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mn9130_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mn9130_sniper.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_molotov.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_mp40.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_pickmattock.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_ppsh.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_punjitrap.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_rdg_1.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_rp46.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_rpd.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_rpg7.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\rocket_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_satchel.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_sks.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_svd.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_tokarev_tt33.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_tripwire_trap.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_vn_vc_type67_grenade.upk" />
+    <Package path="rogame\brewedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="rogame\brewedpc\rogame.u" />
+    <Package path="rogame\brewedpc\rogamecontent.u" />
+    <Package path="rogame\brewedpc\ui\defaultuiskin.upk" />
+    <Package path="rogame\brewedpc\unrealed.u" />
+    <Package path="rogame\brewedpc\webadmin.u" />
+  </Packages>
+</IdRemapping>

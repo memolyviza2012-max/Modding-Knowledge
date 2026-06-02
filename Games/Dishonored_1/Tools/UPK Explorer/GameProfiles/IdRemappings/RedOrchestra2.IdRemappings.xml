@@ -1,0 +1,1399 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="rogame\brewedpc\core.u" />
+    <Package path="rogame\brewedpc\editormaterials.upk" />
+    <Package path="rogame\brewedpc\editormeshes.upk" />
+    <Package path="rogame\brewedpc\editorresources.upk" />
+    <Package path="rogame\brewedpc\editorshellmaterials.upk" />
+    <Package path="rogame\brewedpc\engine_lights.upk" />
+    <Package path="rogame\brewedpc\engine_mi_shaders.upk" />
+    <Package path="rogame\brewedpc\engine.u" />
+    <Package path="rogame\brewedpc\enginebuildings.upk" />
+    <Package path="rogame\brewedpc\enginedebugmaterials.upk" />
+    <Package path="rogame\brewedpc\enginefonts.upk" />
+    <Package path="rogame\brewedpc\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\enginemeshes.upk" />
+    <Package path="rogame\brewedpc\engineproduction.upk" />
+    <Package path="rogame\brewedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\enginesounds.upk" />
+    <Package path="rogame\brewedpc\enginevolumetrics.upk" />
+    <Package path="rogame\brewedpc\gameframework.u" />
+    <Package path="rogame\brewedpc\gfxui.u" />
+    <Package path="rogame\brewedpc\gfxuieditor.u" />
+    <Package path="rogame\brewedpc\grip.u" />
+    <Package path="rogame\brewedpc\humanikresources.upk" />
+    <Package path="rogame\brewedpc\ipdrv.u" />
+    <Package path="rogame\brewedpc\maps\apartments\art_apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\cd-apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\ff-apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\fx_apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\posedplayers_apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\sd-apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\snd_apartments.roe" />
+    <Package path="rogame\brewedpc\maps\apartments\te-apartments.roe" />
+    <Package path="rogame\brewedpc\maps\arad2_mcp\cd-arad2_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\arad2_mcp\te-arad2_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\barashka\art_barashka.roe" />
+    <Package path="rogame\brewedpc\maps\barashka\cd-barashka.roe" />
+    <Package path="rogame\brewedpc\maps\barashka\fx_barashka.roe" />
+    <Package path="rogame\brewedpc\maps\barashka\snd_barashka.roe" />
+    <Package path="rogame\brewedpc\maps\barashka\te-barashka.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\art_barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\cd-barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\ff-barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\fx_barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\posedplayer_barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\snd_barracks.roe" />
+    <Package path="rogame\brewedpc\maps\barracks\te-barracks.roe" />
+    <Package path="rogame\brewedpc\maps\bridgesofdruzhina_mcp\cd-bridges_of_druzhina_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\bridgesofdruzhina_mcp\posedplayers.roe" />
+    <Package path="rogame\brewedpc\maps\bridgesofdruzhina_mcp\te-bridges_of_druzhina_mcp.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bridge02_Harley_Top_Normal" suffix="1" />
+        <Object id="Harley_BoD_OverHeadMap" suffix="1" />
+        <Object id="StaticMeshes_Harley\AussieNZ" suffix="1" />
+        <Object id="StaticMeshes_Harley\Bark01_Harley_Normal" suffix="1" />
+        <Object id="StaticMeshes_Harley\Bridge01_Harley_Normal3" suffix="1" />
+        <Object id="StaticMeshes_Harley\Fern01_Harley_Normal" suffix="1" />
+        <Object id="StaticMeshes_Harley\Metal_Corrugated_Normal" suffix="1" />
+        <Object id="StaticMeshes_Harley\Wood_Trench_Harley_NORM" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_1__2_Faces" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_1__2_Light" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_2__8_Faces" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_2__8_Light" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_3__6_Faces" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_3__6_Light" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_4__4_Faces" suffix="1" />
+        <Object id="StaticMeshLOD_ProcBuilding_4__4_Light" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\coldsteel_mcp\cd-coldsteel_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\coldsteel_mcp\te-coldsteel_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\art_commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\cd-commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\fx_commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\posedplayer_commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\snd_commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\commissarshouse\te-commissarshouse.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\art_demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\cd-demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\posedplayers_demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\sd-demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\snd_demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\demyansk\te-demyansk.roe" />
+    <Package path="rogame\brewedpc\maps\entry.upk" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\art_fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\cd-fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\fx_fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\posedplayer_fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\sd-fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\snd_fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\fallenfighters\te-fallenfighters.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\art_grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\cd-grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\ff-grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\fx_grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\posedplayer_grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\snd_grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\grainelevator\te-grainelevator.roe" />
+    <Package path="rogame\brewedpc\maps\gumrak\art_gumrak.roe" />
+    <Package path="rogame\brewedpc\maps\gumrak\cd-gumrak.roe" />
+    <Package path="rogame\brewedpc\maps\gumrak\fx_gumrak.roe" />
+    <Package path="rogame\brewedpc\maps\gumrak\snd_gumrak.roe" />
+    <Package path="rogame\brewedpc\maps\gumrak\te-gumrak.roe" />
+    <Package path="rogame\brewedpc\maps\gumrakstation_mcp\cd-gumrakstation_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\gumrakstation_mcp\te-gumrakstation_mcp.roe">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\1stobj" suffix="1" />
+        <Object id="Textures\2ndobj" suffix="1" />
+        <Object id="Textures\3rdobj" suffix="1" />
+        <Object id="Textures\6thobj" suffix="1" />
+        <Object id="Textures\GumrakStationOHM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\maps\mamayev\art_mamayev.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\cd-mamayevkurgan.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\ff-mamayevkurgan.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\fx_mamayev.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\posedplayer_mamayevkurgan.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\snd_mamayev.roe" />
+    <Package path="rogame\brewedpc\maps\mamayev\te-mamayevkurgan.roe" />
+    <Package path="rogame\brewedpc\maps\myshkovariver_mcp\te-myshkovariver_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\art_pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\cd-pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\fx_pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\posedplayer_pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\snd_pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\pavlovshouse\te-pavlovshouse.roe" />
+    <Package path="rogame\brewedpc\maps\rakowice_mcp\cd-rakowice_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\rakowice_mcp\te-rakowice_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\art_redoctoberfactory.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\cd-redoctoberfactory.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\fx_redoctoberfactory.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\posedplayer_redoctfactory.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\sd-factoryplatemill.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\snd_redoctoberfactory.roe" />
+    <Package path="rogame\brewedpc\maps\redoctoberfactory\te-redoctoberfactory.roe" />
+    <Package path="rogame\brewedpc\maps\roentry.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\art_basictraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\art_commandertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\art_squadleadertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\art_supporttraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\art_tanktraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\fx_basictraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\fx_squadleadertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\fx_supporttraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\fx_tanktraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\snd_basictraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\snd_commandertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\snd_squadleadertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\snd_supporttraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\snd_tanktraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\sp-basictraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\sp-commandertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\sp-squadleadertraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\sp-supporttraining.roe" />
+    <Package path="rogame\brewedpc\maps\singleplayer\sp-tanktraining.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\art_spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\cd-spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\fx_spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\posedplayer_spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\snd_spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\spartanovka\te-spartanovka.roe" />
+    <Package path="rogame\brewedpc\maps\stalingradkessel_mcp\cd-stalingradkessel_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\stalingradkessel_mcp\ff-stalingradkessel_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\stalingradkessel_mcp\te-stalingradkessel_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\station\art_station.roe" />
+    <Package path="rogame\brewedpc\maps\station\cd-station.roe" />
+    <Package path="rogame\brewedpc\maps\station\ff-station.roe" />
+    <Package path="rogame\brewedpc\maps\station\fx_station.roe" />
+    <Package path="rogame\brewedpc\maps\station\posedplayers_station.roe" />
+    <Package path="rogame\brewedpc\maps\station\sd-station.roe" />
+    <Package path="rogame\brewedpc\maps\station\snd_station.roe" />
+    <Package path="rogame\brewedpc\maps\station\te-station.roe" />
+    <Package path="rogame\brewedpc\maps\te-campaignstart.roe" />
+    <Package path="rogame\brewedpc\maps\tulaoutskirts_mcp\te-tulaoutskirts_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\warehouse\sd-warehouse.roe" />
+    <Package path="rogame\brewedpc\maps\winterwald_mcp\cd-winterwald_mcp.roe" />
+    <Package path="rogame\brewedpc\maps\winterwald_mcp\te-winterwald_mcp.roe" />
+    <Package path="rogame\brewedpc\materialtemplates.upk" />
+    <Package path="rogame\brewedpc\mobileemulation.upk" />
+    <Package path="rogame\brewedpc\mobileresources.upk" />
+    <Package path="rogame\brewedpc\nodebuddies.upk" />
+    <Package path="rogame\brewedpc\onlinesubsystemgamespy.u" />
+    <Package path="rogame\brewedpc\onlinesubsystemlive.u" />
+    <Package path="rogame\brewedpc\onlinesubsystempc.u" />
+    <Package path="rogame\brewedpc\onlinesubsystemsteamworks.u" />
+    <Package path="rogame\brewedpc\packages\1stp_hands\1stp_hands_master.upk" />
+    <Package path="rogame\brewedpc\packages\art_department_prototypepac\env_dynamic_props.upk" />
+    <Package path="rogame\brewedpc\packages\art_department_prototypepac\survey_scale_test_pack.upk" />
+    <Package path="rogame\brewedpc\packages\art_department_prototypepac\vegetation_st.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_character_bodyfall.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_character_footstep.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_character_weapon_foley.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_character.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_artillery.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_barracks.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_commissars.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_danzig.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_debris.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_electrical.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_fallenfighters.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_grainelevator.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_gumrak.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_metal.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_movable.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_pavlovs.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_redoctober.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_spartanovka.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_station.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_training.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_trees.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment_wind.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_environment.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_antitank_german.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_artillery.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_grenade_f1.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_satchelcharge.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_smokenade_german.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_smokenade_ussr.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_tanks.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_exp_vehicles.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_at_ptrs.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_mg_1910.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_mg_dp28.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_mg_mg34.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_mg_mg42.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_pistol_1895.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_pistol_c96.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_pistol_p38.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_pistol_tt33.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_9130_sn.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_9130.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_avt40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_g41.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_kar98_sn.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_kar98.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_mkb42.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_rifle_svt40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_smg_mp40.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_smg_pps.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_smg_ppsh.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms_tails.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_firearms.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_impacts.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_projectiles.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_stationone.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_ui.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_airplane.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_impact.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_tank_panzeriii.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_tank_panzeriv.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_tank_t34.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_tank_t70.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_transport_sdkfz.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vehicle_transport_uc.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gerger_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gerger_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gerger_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gerger_04.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gernative_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gernative_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gernative_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_gernative_04.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusnative_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusnative_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusnative_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusnative_04.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusrus_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusrus_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusrus_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_rusrus_04.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gerger_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gerger_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gerger_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gernative_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gernative_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_gernative_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusnative_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusnative_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusnative_03.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusrus_01.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusrus_02.upk" />
+    <Package path="rogame\brewedpc\packages\audio\aud_vox_chatter_tank_rusrus_03.upk" />
+    <Package path="rogame\brewedpc\packages\cgtassets.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_badges.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_civilians.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_facefx.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_fieldgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_hero.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_parka.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_rawrecruit_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_rawrecruit.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_tanker.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\ger_rr_tanker_D" suffix="1" />
+        <Object id="Materials\ger_rr_tanker_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\characters\chr_ger_tunic.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_goremesh.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_handsonly.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_humanik.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_humanikcode.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_player_animation.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeraim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_playeranimtree_master.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_ammo.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_fieldgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_greatcoat.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_headgear.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_hero.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_m36_tunic.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_rawrecruit_heads.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_rawrecruit.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_tanker.upk" />
+    <Package path="rogame\brewedpc\packages\characters\chr_sov_telegrieka.upk" />
+    <Package path="rogame\brewedpc\packages\characters\generic_male.upk" />
+    <Package path="rogame\brewedpc\packages\characters\ger_ammopouches.upk" />
+    <Package path="rogame\brewedpc\packages\characters\m36_german_tunic.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\german_tunic_body_D" suffix="1" />
+        <Object id="Materials\german_tunic_body_N" suffix="1" />
+        <Object id="Materials\german_tunic_body_S" suffix="1" />
+        <Object id="Materials\head_hands_diff" suffix="1" />
+        <Object id="Materials\head_hands_norm" suffix="1" />
+        <Object id="Materials\head_hands_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\characters\screenshot_poses.upk" />
+    <Package path="rogame\brewedpc\packages\characters\sov_prototype_player.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_archetypes.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_basic.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_characters.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_destructibles.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_fx.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_glass.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_vegetation.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_vehicles.upk" />
+    <Package path="rogame\brewedpc\packages\common\m_common_weapons.upk" />
+    <Package path="rogame\brewedpc\packages\componentprefabregression.upk" />
+    <Package path="rogame\brewedpc\packages\componentregression.upk" />
+    <Package path="rogame\brewedpc\packages\cooneypackage.upk" />
+    <Package path="rogame\brewedpc\packages\dummies.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_atmospherics.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_bullethits.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_char_soldier_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_char_soldier.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_destruction.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_fire_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_fire.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_lensflare.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_weather.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_env_wep.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_environments.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_explosions.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_gore.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_muzzleflashes.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_postprocess_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_postprocess.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_recon.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_veh_tank_three.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_veh_tank_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_veh_tank.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vehicles_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_vehicles.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_weapons.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_explosive_three.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_explosive_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_explosive.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_gun_three.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_gun_two.upk" />
+    <Package path="rogame\brewedpc\packages\effects\fx_wep_gun.upk" />
+    <Package path="rogame\brewedpc\packages\effects\ro_decals.upk" />
+    <Package path="rogame\brewedpc\packages\effects\roeffects.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\detail_tex.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_asphalt.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_baksan.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_brick.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_concrete.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_cubemaps.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_decals.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_demyansk_js.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_ground.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_landscape_two.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_landscape.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_metal_two.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_metal.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_overhead_maps_two.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_overhead_maps.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_painted.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_plaster_three.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_plaster_two.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_plaster.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_rifle_range_materials.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_roofing.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_silverbirch.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_skies.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_surface_types.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_tiles.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_variation_masks.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_wallpaper.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_walls.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_water.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\env_wood.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\foc_assets_two.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\foc_assets.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\gen_tex.upk" />
+    <Package path="rogame\brewedpc\packages\environmentalmaterials\ost_architecture_t_materials.upk" />
+    <Package path="rogame\brewedpc\packages\grip\grip_materials.upk" />
+    <Package path="rogame\brewedpc\packages\grip\griptankai.upk" />
+    <Package path="rogame\brewedpc\packages\hud\ro_prototype_hud.upk" />
+    <Package path="rogame\brewedpc\packages\ld_department_prototypepac\prot_shelling.upk" />
+    <Package path="rogame\brewedpc\packages\ld_department_prototypepac\prot_station_12_dest.upk" />
+    <Package path="rogame\brewedpc\packages\ld_department_prototypepac\prot_station1.upk" />
+    <Package path="rogame\brewedpc\packages\lut_colorcorrection.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_elevator_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_elevator_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_elevator_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_fallen_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_fallen_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_fallen_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_kommissars_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_kommissars_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_kommissars_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_pavlovs_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_pavlovs_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_pavlovs_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_spartanovka_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_spartanovka_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_spartanovka_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_station1_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_station1_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_station1_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_steppe_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_steppe_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_steppe_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_ger_ui.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_elevator_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_elevator_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_elevator_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_fallen_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_fallen_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_fallen_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_kommissars_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_kommissars_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_kommissars_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_pavlovs_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_pavlovs_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_pavlovs_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_spartanovka_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_spartanovka_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_spartanovka_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_station1_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_station1_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_station1_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_steppe_h.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_steppe_l.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_steppe_n.upk" />
+    <Package path="rogame\brewedpc\packages\music\aud_music_sov_ui.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_elevator.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_fallen.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_kommissars.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_pavlovs.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_spartanovka.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_station1.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger_steppe.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_ger.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_elevator.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_fallen.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_kommissars.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_pavlovs.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_spartanovka.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_station1.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov_steppe.upk" />
+    <Package path="rogame\brewedpc\packages\music\music_sov.upk" />
+    <Package path="rogame\brewedpc\packages\postfx_m.upk" />
+    <Package path="rogame\brewedpc\packages\proc_buildings\proc_buildings_one.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\coldsteel_assets_mcp.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_animals.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_apartment_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_apartment.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_arad2_mcp.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_arch_detail_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_arch_detail.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_barashka_combined.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_barashka.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_barracks_combinedb.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_barracks_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_barracks.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_cdarad2_mcp.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_commissars_house_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_commissars_house_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_commissars_house.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_cover.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_deadbodies.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_demyanskpinetrees.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_destruction_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_destruction_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_destruction.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_detail_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_detail_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_detail.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_emplacements.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_facade.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_fallenfighters_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_fallenfighters_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_fallenfighters.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_fieldcamp.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_furniture_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_furniture_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_furniture.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_generic.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_ger_military.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_ger_military2.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator_five.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator_four.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator_six.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_grainelevator.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_gumrak.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_industry_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_industry.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_interior_arch.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_mamayev.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_mamayevcombined.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_military.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_monuments.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_myshkovariverrc3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Snow_rough_Harley" suffix="1" />
+        <Object id="Textures\SnowMud_Harley" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\props_static\props_ostfront_furnituresm.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_ostfront_industrialsm.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_ostfront_trainsm.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_outdoors.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_pavlovhouse.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_pavlovshouse_four.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_pavlovshouse_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_pavlovshouse_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_pinetrees.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_redbarracks.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_redoctoberfactory.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_rof_combinedb.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_satchel_objective.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_snow_mats.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_soldier_equipment.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_sov_military.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_spartanovka.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_stalingradkessel_mcp.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_station_combineb.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_station_exterior_arch.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_stationone_one.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_stationone_shelling.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_stationone_three.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_stationone_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_street.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_train_two.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_train.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_tram.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_vegetation.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_vehicle.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_village.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\props_yosh.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\shell_commissarshouse.upk" />
+    <Package path="rogame\brewedpc\packages\props_static\shell_pavlov.upk" />
+    <Package path="rogame\brewedpc\packages\pziii.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\character_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\effects_mats_two.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\effects_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\environment_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\misc_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\props_static_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\ui_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\vehicle_mats.upk" />
+    <Package path="rogame\brewedpc\packages\ro2_mats\weapon_mats.upk" />
+    <Package path="rogame\brewedpc\packages\rogamemenus.upk" />
+    <Package path="rogame\brewedpc\packages\ronodebuddies.upk" />
+    <Package path="rogame\brewedpc\packages\soundmodes.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\env_cover.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\techprototype_andrew.upk" />
+    <Package path="rogame\brewedpc\packages\staticmeshes\vld_meshes.upk" />
+    <Package path="rogame\brewedpc\packages\ui_achievements.upk" />
+    <Package path="rogame\brewedpc\packages\ui_fonts_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_Server_Text\Font_Server_Text_PageA" suffix="1" />
+        <Object id="Font_Small\Font_Small_PageA" suffix="1" />
+        <Object id="Font_Typed\Texture2D_0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\ui_fonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_Chat\Font_Clean_PageA" suffix="1" />
+        <Object id="Font_Server_Text\Font_Server_Text_PageA" suffix="2" />
+        <Object id="Font_Small\Font_Small_PageA" suffix="2" />
+        <Object id="Font_Typed\Texture2D_0" suffix="2" />
+        <Object id="Font_Typed\Texture2D_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\ui_fonts.upk" />
+    <Package path="rogame\brewedpc\packages\ui_skins.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures_achievements_two.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures_four.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures_three.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures_two.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures_vehiclepack.upk" />
+    <Package path="rogame\brewedpc\packages\ui_textures.upk" />
+    <Package path="rogame\brewedpc\packages\ui_videos.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_panzer_iiim_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_panzer_iiim.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_panzer_ivg_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_panzer_ivg.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_sdkfz_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_ger_sdkfz.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_panzeriv.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_recon_planes_two.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_recon_planes.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_t34_76_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_t34_76.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_t70_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_t70.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_uc.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_unicarrier_interior.upk" />
+    <Package path="rogame\brewedpc\packages\vehicles\vh_sov_universalcarrier.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\1stperson_cameras.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_3rd_master.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_3rdperson.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_7_62_stripperclip.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_7_92_stripperclip.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_f1_grenade.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_9mm.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_c96_mauser.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_c96_stripper_clip.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_g41_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_hands_fp.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_hhl_3.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_kar98_bayonet.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_kar98_rifle_scope.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_kar98k_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_m1939_granate.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_m1939_smoke_granate.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mg34_ammo_drum.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mg34_lmg_upgd3.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mg34_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mg34_tripod.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mg42_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mkb42_h.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_mp40.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_p38.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_ger_satchel.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_shared_t.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_snd_bomb.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_9130_sniper_scope.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_binoculars.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_dp_28_lmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_dt_28.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_hands_fp.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_m1895nagant_revolver.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_maxim_hmg.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_mn9130_rifle.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_mn9130_sniper.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_pps42.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_ppsh.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_ptrs.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_rdg_1.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_rpg_40.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_satchel.upk" />
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_svt40_rifle.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Wood_mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\packages\weapons\wp_sov_tokarev_tt_33.upk" />
+    <Package path="rogame\brewedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="rogame\brewedpc\rogame.u" />
+    <Package path="rogame\brewedpc\rogamecontent.u" />
+    <Package path="rogame\brewedpc\rsgame.u" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\art_betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\fx_betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\pbv_betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\posedplayers_betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\rscd-betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\rsff-betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\rste-betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\betio\snd_betio.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\art_guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\fx_guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\guadalcanal_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\pbv_guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\rscd-guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\rssd-guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\rste-guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\guadalcanal\snd_guadalcanal.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\art_hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\fx_hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\hanto_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\pbv_hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\rscd-hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\rsff-hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\rssd-hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\rste-hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\hanto\snd_hanto.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\art_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\art2_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\art3_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\fx_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\iwojima_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\pbv_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\rscd-iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\rste-iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\iwojima\snd_iwojima.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kobura_mcp\rste-kobura_mcp.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\art_kwajalein.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\art2_kwajalein.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\fx_kwaj.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\kwajalein_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\rscd-kwajalein.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\rste-kwajalein.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\kwaj\snd_kwajalein.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\art_maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\fx_maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\maggothill_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\rscd-maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\rsff-maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\rssd-maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\rste-maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\maggothill\snd_maggothill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\otorishima_mcp\rste-otorishima_mcp.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\art_peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\fx_peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\pbv_peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\peleliu_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\rscd-peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\rsff-peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\rste-peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\peleliu\snd_peleliu.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\phosphateplant_mcp\rste-phosphateplant_mcp.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\art_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\art2_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\fx_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\pbv_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\ppv_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\rscd-saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\rsff-saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\rssd-saipansugarmill.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\rssd-saipantown.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\rste-saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\saipan_posed_players.roe" />
+    <Package path="rogame\brewedpc\rsgame\maps\saipan\snd_saipan.roe" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_aircraft.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_ambient.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_artillery.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_bamboo.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_bird_eagle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_bird_kinglet.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_bird_lazuli.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_bird_seagulls.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_birds_jungle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_building.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_burntrubble.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_rocksdirt.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_sheetmetal.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_woodpallet.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_debris_woodplank.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_destruction.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_fence_barbedwire.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_fence_chainlink.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_fire.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_flag.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_flare.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_foliage_a.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_foliage_b.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_foliage_c.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_foliage_d.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_frogs.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_insect_cricket.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_insect_fly.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_insect_grasshopper.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_insects_water.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_insects.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_jungle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_machine.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_metalbuilding.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_metalwarehouse.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_mortars.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_ocean.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_swamp.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_tree_a.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_tripwire.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_vehicles.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_water.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_env_winds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_environmentsounds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_exp_artillery.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_exp_grenade_trap.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_exp_mortar_type89.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_bar_m1918.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_hmg_m1917.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_hmg_type92.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_lmg_m1919.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_lmg_type96.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_lmg_type99.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_pistol_m1911.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_pistol_type14.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_m1903.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_m1903sn.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_m1carb.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_m1garand.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_type38.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_type97sn.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_type99.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_rifle_type99sn.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_shotgun_m12.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_smg_m1928.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_smg_type100.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms_tails.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_firearms.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_flamethrower_m2.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_melee_katana.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_eng_01.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_eng_02.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_eng_03.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_eng_04.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_jap_01.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_jap_02.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_jap_03.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_jap_04.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_japnat_01.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_japnat_02.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_japnat_03.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_usanat_01.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_usanat_02.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_vox_chatter_usanat_03.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\audio\aud_rs_weapon_foley.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_1stp_hands_master_two.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\SNLF_Commander_Sleeves_Diffuse" suffix="1" />
+        <Object id="Texture\SNLF_Tunic_LongSleeves_Colour" suffix="1" />
+        <Object id="Texture\SNLF_Tunic_Rolledsleeves_Colour2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_1stp_hands_master.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_goremesh.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_handsonly.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_ija_camo.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_ija.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_jap_headgear_two.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Jap_headgear_colour_SNLF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_jap_headgear.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_jap_heads.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_playeranim_master.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_snlf.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_us_army.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_usa_headgear.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_usa_heads.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\characters\chr_rs_usmc.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\betio.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_betio_sky.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_betio.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_common_foliage.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_common_overheadmaps.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_iwo_terrain.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_misc_battlefield_meshes.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_rain.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\env_rs_sugarloaf.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\intramuros_postporocess.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_burned_materials.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_characters.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_general.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_materials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Noise" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_misc.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_ocean.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_sky.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_skybox.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_terrain.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_BlendMask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_vehicles.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\temp_NORM" suffix="1" />
+        <Object id="Textures\temp_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_common_weapons.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Temp_NORM" suffix="1" />
+        <Object id="Textures\T_Temp_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_ui.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\m_rs_water.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Caustics_MASK" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\common\sugarloaf.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\t_rs_common_cubemaps.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\common\t_rs_common_details.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_artillery.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_atmospherics.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_basicmaterials.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_bloodpool.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_bullet_hits.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_clouds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_cloudsandmist.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_decals.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_explosions.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_fire.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_flamethrower_old.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Emitters\FX_RS_WEP_Flamer_muzzleflash\ThumbnailTexture" suffix="1" />
+        <Object id="Textures\flamer_anim_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_flamethrower.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_gore.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_heat.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_heatshimmer.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_lensflares.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_lighfunctions.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_muzzleflash_effects.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_nature.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_postprocess.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Bokeh_02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_smoke.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_wep_gun.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\effects\fx_rs_wounddecals.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_drecks_test_stuff.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_betio_sept.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_WetSand_01_DIFF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_coral.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_decal_craters.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_decals.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_hanto.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_houses_materials.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_jungle_terrain_1.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_kwaj.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_maggotupdate.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_mh_update.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_new_skies.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Clouds_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_ocean.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_placeholder.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_saipan_m.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_sand_jm.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_sand_tg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_surface_types.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_terrain_ao.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Sand_D" suffix="1" />
+        <Object id="Textures\T_Sand2_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_terrain1.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_terrain2.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_terrain3.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_terrain4.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\environmentalmaterials\env_rs_wet_terrain.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_betio_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_guadal_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_hanto_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_iwo_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_kwaj_2ds_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_kwaj_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_maggothill_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_peleliu_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\env_rs_saipan_2ds.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\hud\hud_rs_manpower.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\lut\rs_luts.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_1_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_1_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_1_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_2_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_2_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_2_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_3_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_3_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_jap_3_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_1_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_1_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_1_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_2_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_2_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_2_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_3_h.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_3_l.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\aud_rs_music_usa_3_n.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\music_rs_jap.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\music\music_rs_usa.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\props_static\props_trenchkit.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_fonts_pol.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageB" suffix="1" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_fonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean_Gradient\Texture2D_3" suffix="1" />
+        <Object id="Font_RS_Clean_Gradient\Texture2D_4" suffix="1" />
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageB" suffix="2" />
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageC" suffix="1" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageC" suffix="2" />
+        <Object id="Font_RS_Typed\Font_RS_Typed_PageD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_fonts.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font_RS_Clean\Font_RS_Clean_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_skins.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_textures_four.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_textures_three.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="menus\Gametype_icons\Gametype_Firefight_icon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_textures_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\rs_ui_textures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HUD\Compass\ui_hud_compass_interior" suffix="1" />
+        <Object id="HUD\Compass\ui_hud_compass_OBJ_neutral" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_deployed" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_cover_chesthigh" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_cover_standhigh" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_cover_waisthigh" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_movement_climb" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_movement_crouch" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_movement_prone" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_movement_sprint" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_movement_stand" suffix="1" />
+        <Object id="HUD\Stance\ui_hud_stance_tripod" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_artillery" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_Ammo" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_destroyable_obj" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_NeuDestro" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_PlayerPointer" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_icons_rally" suffix="1" />
+        <Object id="OverheadMap\ui_overheadmap_recon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\rsgamemenus.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\rsshootingrange.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cross" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\betio_placeholders.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\curb_placeholder.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_aa_emplacement_concrete.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_airshelter_high.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_ammosupply.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_bamboo.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_aa_ring.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_barracks_textures.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_barracks.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_beachgun.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_canoe_t.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_civiliancanoe.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_jetty_textures.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_jetty.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_logantenna.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_misc_textures.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_miscellaneous_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_miscellaneous.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_betio_steel_pillbox.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_bikecycle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_blockhouse.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_boulders_temp.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_bridgeofspain.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_bunkers_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_bunkers.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_camo_scafford.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_caplepoles.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_churchassets.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_civilianhut.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Noise" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_cliffs.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_clothline.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_coconutpalms.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_combined_meshes_saipan.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_coralstonewall.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_corrugatedmetal.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_craters.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_deadbodies.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_debris.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_defences_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_defences.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_dgenerator.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_driftwood.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_eucalyptustree.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_foliage_deadtrees.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_foliage_hedge.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_foliage_newtrees.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_grass_bloodgrass.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_grass_improved.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_grass.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_guadalcanal.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_guardhouse.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_hangar.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_hantorocks_temp.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_henderson_hq.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_hos_objects.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_houses_dmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_houses.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_industrail_life_objects.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_industrial.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_intramuros_fortress.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_intramuros_props.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_island_facades.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_ivy.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_iwojima.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Emitters\RX_RS_IwoDust\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_barracks.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_flag.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_furniture_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_furniture.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_pagoda.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanese_radio.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_japanesehq.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_jetty.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_junglecover.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Bridge_D" suffix="1" />
+        <Object id="Textures\T_Bridge_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_kwaj_blastring.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_kwajalein_airshelter.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_lavarock.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_limestone.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_maggothill.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_manhole.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_mediumfoliage.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_LongGrass_D" suffix="1" />
+        <Object id="Textures\T_LongGrass_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_nhpumga.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_oil_tank.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_okinawapine.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_palmtrees.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_peleliu_airraidshelter.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_peleliu_power_bunker.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_peleliu.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_peleliutimberbarracks.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_pier.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_pipes.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_posters.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_prefabs.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_radar.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_railroad.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_rations.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_riverbed.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_riverrocks.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_rubberboat_textures.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_rubberboat.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_ruins.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_saipan_placeholders.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_PlasterGrunge" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_saipan_terrain.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_sandbags.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_searchlight.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_shipshorizon.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_signs.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_simplefoliage.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_skies.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_sugarcane.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_sugarcanepile.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_supply_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_supply.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_tanktraps.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_temple_mats.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_temple_ruins.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Temple_Ruin_Floor_DIFF" suffix="1" />
+        <Object id="Textures\T_Temple_Ruin_Floor_NORM" suffix="1" />
+        <Object id="Textures\T_Temple_Ruin_Stairs_DIFF" suffix="1" />
+        <Object id="Textures\T_Temple_Ruin_Stairs_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_tincan.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_transmittertower.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_treeline.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_trenches.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_troop_photos.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_tunnels.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_us_tent.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_waterfilter.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_watertank.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\env_rs_woodentower.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\staticmeshes\rs_gamearchtypes.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_a6m5_zero.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_chevy.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_daihatsu.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_dukw.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_DUKW_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_f6f_hellcat.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_g3m_bomber.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_ha-go.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_jap_type95.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_ki76_stella.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_komatsu_g40.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_kurogane_jeep.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_lst.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_lvt_4.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_lvt_a4.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_m3stuart.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_medicaltruck.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_recon.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_roadroller.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_type_3_aa_gun.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_type_89_aa.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_type94_truck.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_type96_25mmflak.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_us_recon.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\vehicles\vh_rs_willy_jeep.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_WillysJeep_DIFF" suffix="1" />
+        <Object id="Textures\T_WillysJeep_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_3rd_master.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_3rd_projectiles.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_arisaka38_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_arisaka97_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_arisaka99_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_katana.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_nambutype14_pistol.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type100_smg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type3_grenade.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type89_mortar.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type91-97_grenade.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type92_hmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type94_smokecandle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type99-96_lmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_jap_type99at_mine.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_bar1918a2_lmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_coltm1911_pistol.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m12trenchgun.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1903a1-a4_sniper.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1917a1_hmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1919_lmg.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1a1_bazooka.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1carbine_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1garand_rifle_two.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m1garand_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m2_flamethrower.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m37_satchel.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_m8_smokegrenade.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_mk2_grenade.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_springm1903_rifle.upk" />
+    <Package path="rogame\brewedpc\rsgame\packages\weapons\wp_rs_usa_thompsonm1928a1_smg.upk" />
+    <Package path="rogame\brewedpc\rsgamecontent.u" />
+    <Package path="rogame\brewedpc\sounds\aud_rifleiteration.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_testsounds.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_gereng_01_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_gereng_02_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_gereng_03_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_gereng_04_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_ruseng_01_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_ruseng_02_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_ruseng_03_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_ruseng_04_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_ger_01_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_ger_02_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_ger_03_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_rus_01_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_rus_02_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_chatter_tank_rus_03_c.upk" />
+    <Package path="rogame\brewedpc\sounds\aud_vox_training_ger_cue.upk" />
+    <Package path="rogame\brewedpc\sounds\chn\music_ger_elevator_chn.upk" />
+    <Package path="rogame\brewedpc\sounds\cinematics_test.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_gereng_01_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_gereng_02_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_gereng_03_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_gereng_04_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_ruseng_01_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_ruseng_02_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_ruseng_03_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_ruseng_04_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_gereng_01_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_gereng_02_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_gereng_03_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_ruseng_01_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_ruseng_02_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_chatter_tank_ruseng_03_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\deu\aud_vox_training_ger_deu.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_gereng_01.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_gereng_02.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_gereng_03.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_gereng_04.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_ruseng_01.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_ruseng_02.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_ruseng_03.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_ruseng_04.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_gereng_01.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_gereng_02.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_gereng_03.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_ruseng_01.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_ruseng_02.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_chatter_tank_ruseng_03.upk" />
+    <Package path="rogame\brewedpc\sounds\int\aud_vox_training_ger.upk" />
+    <Package path="rogame\brewedpc\sounds\nonlicensedsounds.upk" />
+    <Package path="rogame\brewedpc\sounds\placeholdersounds.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_gereng_01_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_gereng_02_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_gereng_03_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_gereng_04_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_ruseng_01_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_ruseng_02_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_ruseng_03_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_ruseng_04_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_gereng_01_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_gereng_02_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_gereng_03_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_ruseng_01_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_ruseng_02_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_chatter_tank_ruseng_03_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\pol\aud_vox_training_ger_pol.upk" />
+    <Package path="rogame\brewedpc\sounds\ro_ost_amb_animals.upk" />
+    <Package path="rogame\brewedpc\sounds\ro_ost_amb_destruction.upk" />
+    <Package path="rogame\brewedpc\sounds\ro_ost_amb_destruction2.upk" />
+    <Package path="rogame\brewedpc\sounds\ro_ost_amb_weather02.upk" />
+    <Package path="rogame\brewedpc\sounds\rohos_music.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_gereng_01_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_gereng_02_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_gereng_03_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_gereng_04_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_ruseng_01_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_ruseng_02_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_ruseng_03_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_ruseng_04_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_gereng_01_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_gereng_02_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_gereng_03_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_ruseng_01_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_ruseng_02_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_chatter_tank_ruseng_03_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\rus\aud_vox_training_ger_rus.upk" />
+    <Package path="rogame\brewedpc\sounds\soundclassesandmodes.upk" />
+    <Package path="rogame\brewedpc\speedtreeresources.upk" />
+    <Package path="rogame\brewedpc\test\speechrecognition.upk" />
+    <Package path="rogame\brewedpc\ui\defaultuiskin.upk" />
+    <Package path="rogame\brewedpc\ui\uiarcpackage.upk" />
+    <Package path="rogame\brewedpc\unrealed.u" />
+    <Package path="rogame\brewedpc\webadmin.u" />
+  </Packages>
+</IdRemapping>

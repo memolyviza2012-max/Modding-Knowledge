@@ -1,0 +1,911 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\content\maps\toxikk\ad-castello.udk" />
+    <Package path="udkgame\content\maps\toxikk\bl-artifact.udk" />
+    <Package path="udkgame\content\maps\toxikk\bl-cube.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_14_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexPosZ" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\bl-dekk.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_0_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_1_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_11_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_12_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_13_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_14_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_3_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_5_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_9_TexPosZ" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\bl-foundation.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_10_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_11_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_12_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_13_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_14_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_15_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_15_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_15_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_15_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_15_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_8_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_9_TexPosZ" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\bl-ganesha.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\cc-artifact_xl.udk" />
+    <Package path="udkgame\content\maps\toxikk\cc-citadel.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_0_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_0_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_0_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_0_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_0_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_0_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_1_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_10_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_11_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_12_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_2_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_3_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_4_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_5_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_6_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_6_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_6_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_6_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_6_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_7_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_8_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_9_TexPosZ" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\cc-ehrgeiz.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="TextureRenderTargetCube_10_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_10_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_10_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_10_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_10_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_10_TexPosZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_11_TexPosZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_12_TexPosZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_8_TexPosZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_9_TexPosZ" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\cc-foundation_xl.udk" />
+    <Package path="udkgame\content\maps\toxikk\cc-twin_peaks.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MeshProxyTexture_29" suffix="1" />
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="TextureRenderTargetCube_0_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_0_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_0_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_0_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_0_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_0_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_1_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_10_TexNegX" suffix="5" />
+        <Object id="TextureRenderTargetCube_10_TexNegY" suffix="5" />
+        <Object id="TextureRenderTargetCube_10_TexNegZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_10_TexPosX" suffix="5" />
+        <Object id="TextureRenderTargetCube_10_TexPosY" suffix="5" />
+        <Object id="TextureRenderTargetCube_10_TexPosZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexNegX" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexNegY" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexNegZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexPosX" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexPosY" suffix="5" />
+        <Object id="TextureRenderTargetCube_11_TexPosZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexNegX" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexNegY" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexNegZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexPosX" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexPosY" suffix="5" />
+        <Object id="TextureRenderTargetCube_12_TexPosZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_13_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_13_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_13_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_13_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_13_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_13_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_14_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_14_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_14_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_14_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_14_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_14_TexPosZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_15_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_15_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_15_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_15_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_15_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_15_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_16_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_16_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_16_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_16_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_16_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_16_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_2_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_2_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_3_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_35_TexNegX" suffix="1" />
+        <Object id="TextureRenderTargetCube_35_TexNegY" suffix="1" />
+        <Object id="TextureRenderTargetCube_35_TexNegZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_35_TexPosX" suffix="1" />
+        <Object id="TextureRenderTargetCube_35_TexPosY" suffix="1" />
+        <Object id="TextureRenderTargetCube_35_TexPosZ" suffix="1" />
+        <Object id="TextureRenderTargetCube_4_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_4_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_4_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_4_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_4_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_4_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_5_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_6_TexNegX" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexNegY" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexNegZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexPosX" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexPosY" suffix="2" />
+        <Object id="TextureRenderTargetCube_6_TexPosZ" suffix="2" />
+        <Object id="TextureRenderTargetCube_7_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_7_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_7_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_7_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_7_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_7_TexPosZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_8_TexNegX" suffix="5" />
+        <Object id="TextureRenderTargetCube_8_TexNegY" suffix="5" />
+        <Object id="TextureRenderTargetCube_8_TexNegZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_8_TexPosX" suffix="5" />
+        <Object id="TextureRenderTargetCube_8_TexPosY" suffix="5" />
+        <Object id="TextureRenderTargetCube_8_TexPosZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexNegX" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexNegY" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexNegZ" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexPosX" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexPosY" suffix="5" />
+        <Object id="TextureRenderTargetCube_9_TexPosZ" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\crzmainmenu.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_15_TexNegX" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexNegY" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexNegZ" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexPosX" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexPosY" suffix="3" />
+        <Object id="TextureRenderTargetCube_15_TexPosZ" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\maps\toxikk\toxikkentry.udk" />
+    <Package path="udkgame\content\maps\toxikk\tt-caliber.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TextureRenderTargetCube_1_TexNegX" suffix="4" />
+        <Object id="TextureRenderTargetCube_1_TexNegY" suffix="4" />
+        <Object id="TextureRenderTargetCube_1_TexNegZ" suffix="4" />
+        <Object id="TextureRenderTargetCube_1_TexPosX" suffix="4" />
+        <Object id="TextureRenderTargetCube_1_TexPosY" suffix="4" />
+        <Object id="TextureRenderTargetCube_1_TexPosZ" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\mobile\effects\castleeffects.upk" />
+    <Package path="udkgame\content\mobile\environments\castle_assets.upk" />
+    <Package path="udkgame\content\mobile\environments\castlearena_assets.upk" />
+    <Package path="udkgame\content\mobile\environments\e3_demo.upk" />
+    <Package path="udkgame\content\mobile\environments\landscapemobilemat.upk" />
+    <Package path="udkgame\content\mobile\environments\ls_mobile_assets.upk" />
+    <Package path="udkgame\content\mobile\misc\kismetgame_assets.upk" />
+    <Package path="udkgame\content\mobile\sounds\castleaudio.upk" />
+    <Package path="udkgame\content\mobile\ui\castlefonts.upk" />
+    <Package path="udkgame\content\mobile\ui\castlehud.upk" />
+    <Package path="udkgame\content\mobile\ui\castleui.upk" />
+    <Package path="udkgame\content\mobile\ui\castleuiext.upk" />
+    <Package path="udkgame\content\shared\blobshadow.upk" />
+    <Package path="udkgame\content\shared\effects\gen_particle_clouds.upk" />
+    <Package path="udkgame\content\shared\effects\jw_lighteffects.upk" />
+    <Package path="udkgame\content\shared\effects\pudk_skies.upk" />
+    <Package path="udkgame\content\shared\effects\udk_fogclouds.upk" />
+    <Package path="udkgame\content\shared\effects\udk_lut.upk" />
+    <Package path="udkgame\content\shared\effects\udk_proceduralsky.upk" />
+    <Package path="udkgame\content\shared\effects\udk_rain.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_DayCycle_Rain_M" suffix="1" />
+        <Object id="Textures\T_DayCycle_Rain_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\shared\envyeditorresources.upk" />
+    <Package path="udkgame\content\shared\gameplaceholders.upk" />
+    <Package path="udkgame\content\shared\interactive_meshes.upk" />
+    <Package path="udkgame\content\shared\soundclassesandmodes.upk" />
+    <Package path="udkgame\content\shared\speechrecognition.upk" />
+    <Package path="udkgame\content\shared\testanimphys.upk" />
+    <Package path="udkgame\content\shared\udk_apexdamagemap.upk" />
+    <Package path="udkgame\content\shared\udkfonts.upk" />
+    <Package path="udkgame\content\shared\udkgfxunittests.upk" />
+    <Package path="udkgame\content\shared\ui_fonts_final.upk" />
+    <Package path="udkgame\content\shared\utexamplecrowd.upk" />
+    <Package path="udkgame\content\showcases\foliage\billsgroups.upk" />
+    <Package path="udkgame\content\showcases\foliage\foliagedemo.upk" />
+    <Package path="udkgame\content\showcases\foliage\foliagedemo2.upk" />
+    <Package path="udkgame\content\showcases\foliage\foliagemap_particles.upk" />
+    <Package path="udkgame\content\showcases\foliage\genericfoliage01.upk" />
+    <Package path="udkgame\content\showcases\foliage\genericgrounds01.upk" />
+    <Package path="udkgame\content\showcases\foliage\genericgrounds2.upk" />
+    <Package path="udkgame\content\showcases\foliage\udk_bugs.upk" />
+    <Package path="udkgame\content\showcases\samaritandemo\sam\sam_gooswarms.upk" />
+    <Package path="udkgame\content\showcases\samaritandemo\sam\sam_proto_c.upk" />
+    <Package path="udkgame\content\testpackages\cornell_resources.upk" />
+    <Package path="udkgame\content\testpackages\dwstaticmeshes.upk" />
+    <Package path="udkgame\content\testpackages\effectsdemo_resources.upk" />
+    <Package path="udkgame\content\testpackages\examplemap_resources.upk" />
+    <Package path="udkgame\content\testpackages\flash_resources.upk" />
+    <Package path="udkgame\content\testpackages\gdc_materials.upk" />
+    <Package path="udkgame\content\testpackages\masteringunreal\matinee_examplecontent.upk" />
+    <Package path="udkgame\content\testpackages\masteringunreal\terrain_examplecontent.upk" />
+    <Package path="udkgame\content\testpackages\phystest_resources.upk" />
+    <Package path="udkgame\content\testpackages\softbody.upk" />
+    <Package path="udkgame\content\testpackages\sponzanew_resources.upk" />
+    <Package path="udkgame\content\testpackages\udn_examplematerials.upk" />
+    <Package path="udkgame\content\testpackages\udnexamples\kismetexamples.upk" />
+    <Package path="udkgame\content\testpackages\udnexamples\pivotpainterexamples.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_base.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_bright-male01_gibs.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_bright-male01.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_bright-male02_gibs.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_bright-male02.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_drayos_rank_01.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_drayos_rank_02.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_drayos_rank_03.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_drayos_rank_04.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_exocom_1p.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_exocom_rank_01.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_exocom_rank_02.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_exocom_rank_03.upk" />
+    <Package path="udkgame\content\toxikk\characters\ch_exocom_rank_04.upk" />
+    <Package path="udkgame\content\toxikk\effects\camera_effects.upk" />
+    <Package path="udkgame\content\toxikk\effects\footstepparticles\footstep_dirt.upk" />
+    <Package path="udkgame\content\toxikk\effects\footstepparticles\footstep_snow.upk" />
+    <Package path="udkgame\content\toxikk\effects\footstepparticles\footstep_stone.upk" />
+    <Package path="udkgame\content\toxikk\effects\footstepparticles\footstep_water.upk" />
+    <Package path="udkgame\content\toxikk\effects\fx_particles_01.upk" />
+    <Package path="udkgame\content\toxikk\effects\gore\gore_explosion.upk" />
+    <Package path="udkgame\content\toxikk\effects\gore\gore_headshot.upk" />
+    <Package path="udkgame\content\toxikk\effects\gore\gore_impact.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_adrenaline.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_areadomination.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_jetpack.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_jumppad.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_powercell.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_steroids.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_teleporter.upk" />
+    <Package path="udkgame\content\toxikk\effects\pickups\fx_weaponpickupbase.upk" />
+    <Package path="udkgame\content\toxikk\effects\power_beam.upk" />
+    <Package path="udkgame\content\toxikk\effects\smoke_lit.upk" />
+    <Package path="udkgame\content\toxikk\effects\spawn_effects.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_banshee.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_mech.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_phantom.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_rhino.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_streamer.upk" />
+    <Package path="udkgame\content\toxikk\effects\vehicles\fx_vehiclebase.upk" />
+    <Package path="udkgame\content\toxikk\effects\water_ripple.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\flamethrower.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\hellraiser.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\impact_sparks.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\impactor.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\laser_beams.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\pistol.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\pulserifle.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\rocketlauncher.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\scionrifle.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\shotgun.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\sniperrifle.upk" />
+    <Package path="udkgame\content\toxikk\effects\weapons\water_impact.upk" />
+    <Package path="udkgame\content\toxikk\environments\crz_physicalmaterials.upk" />
+    <Package path="udkgame\content\toxikk\environments\fo_foliageset.upk" />
+    <Package path="udkgame\content\toxikk\environments\fo_mountain.upk" />
+    <Package path="udkgame\content\toxikk\environments\fo_snow.upk" />
+    <Package path="udkgame\content\toxikk\environments\fo_terrain.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\SF_T_Grass_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\toxikk\environments\fo_water.upk" />
+    <Package path="udkgame\content\toxikk\environments\gp_cc_essentials.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_architecture_02.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_architecture_03.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_architecture.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_effects.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flares\Textures\MF_T_FlareLine_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\toxikk\environments\ju_environment_02.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_environment.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_excavation.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_foliage_02.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_foliage.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_generic.upk" />
+    <Package path="udkgame\content\toxikk\environments\ju_mapspecific_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\mdv_architecture.upk" />
+    <Package path="udkgame\content\toxikk\environments\mdv_environment.upk" />
+    <Package path="udkgame\content\toxikk\environments\mdv_modern.upk" />
+    <Package path="udkgame\content\toxikk\environments\sh_chairs.upk" />
+    <Package path="udkgame\content\toxikk\environments\sh_crates.upk" />
+    <Package path="udkgame\content\toxikk\environments\sh_furniture.upk" />
+    <Package path="udkgame\content\toxikk\environments\sh_office_assets.upk" />
+    <Package path="udkgame\content\toxikk\environments\spacecrafts.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_buildings_parts_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_citadel.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_deco.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_decoeden.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_detailmaps.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_drillset.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_elevators.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_floors.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_hightech.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_hightechfloors.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_hightechpanels.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_hightechpipes.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_holograms.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_lab.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_light_functions.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_lights.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_pipes.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_street_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_supports.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_vrfloors.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_vrmessages.upk" />
+    <Package path="udkgame\content\toxikk\environments\te_walls.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_bases_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_buildings_a_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_buildings_b_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_decos_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_decos_02.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_effects_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_floors_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_lights_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_pillars_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_skybox.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_train.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_trims_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_walls_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_walls_bricks_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_walls_concrete_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\ua_walls_metal_01.upk" />
+    <Package path="udkgame\content\toxikk\environments\wo_antenna.upk" />
+    <Package path="udkgame\content\toxikk\environments\wo_effects.upk" />
+    <Package path="udkgame\content\toxikk\environments\wo_frozen.upk" />
+    <Package path="udkgame\content\toxikk\environments\wo_globe.upk" />
+    <Package path="udkgame\content\toxikk\environments\wo_worldobjects.upk" />
+    <Package path="udkgame\content\toxikk\fonts\fonts.upk" />
+    <Package path="udkgame\content\toxikk\fullscreenlensflareeffect.upk" />
+    <Package path="udkgame\content\toxikk\gfx\crzbeacons.upk" />
+    <Package path="udkgame\content\toxikk\gfx\crzgfx_3d_ud_sim.upk" />
+    <Package path="udkgame\content\toxikk\gfx\crzgfx.upk" />
+    <Package path="udkgame\content\toxikk\mf_materialfunctions.upk" />
+    <Package path="udkgame\content\toxikk\pickups\base01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\jumppad01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_10mmclap01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_fbc01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_firstaidkit01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_firstaidkitsuper01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_gaugeshotshells01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_jetpack01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_kevlarpack01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_kevlarvest01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_powercell.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_powercell02.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_sec01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_steroids01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_t3missiles01.upk" />
+    <Package path="udkgame\content\toxikk\pickups\pickup_winmag01.upk" />
+    <Package path="udkgame\content\toxikk\sf_materialfunctions.upk" />
+    <Package path="udkgame\content\toxikk\sounds\announcer\snd_announcer_facility.upk" />
+    <Package path="udkgame\content\toxikk\sounds\announcer\snd_announcer_status.upk" />
+    <Package path="udkgame\content\toxikk\sounds\character\snd_character_bodyimpacts.upk" />
+    <Package path="udkgame\content\toxikk\sounds\character\snd_character_general.upk" />
+    <Package path="udkgame\content\toxikk\sounds\character\snd_character_grunts.upk" />
+    <Package path="udkgame\content\toxikk\sounds\environment_effects.upk" />
+    <Package path="udkgame\content\toxikk\sounds\environment_loops.upk" />
+    <Package path="udkgame\content\toxikk\sounds\environment_movers.upk" />
+    <Package path="udkgame\content\toxikk\sounds\ju_sounds_01.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_action.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_ambient.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_interface.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_intro.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_mapmusicinfos.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_stinger.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_suspense.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_tension.upk" />
+    <Package path="udkgame\content\toxikk\sounds\music\mus_victory.upk" />
+    <Package path="udkgame\content\toxikk\sounds\pickups\snd_pickups.upk" />
+    <Package path="udkgame\content\toxikk\sounds\snd_explosions.upk" />
+    <Package path="udkgame\content\toxikk\sounds\snd_gameplay.upk" />
+    <Package path="udkgame\content\toxikk\sounds\snd_gui.upk" />
+    <Package path="udkgame\content\toxikk\sounds\snd_hitmarker.upk" />
+    <Package path="udkgame\content\toxikk\sounds\snd_modes.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_banshee.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_mech.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_phantom.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_rhino.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_standard.upk" />
+    <Package path="udkgame\content\toxikk\sounds\vehicles\a_vehicle_streamer.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_flamethrower.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_generic.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_hellraiser.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_pistol.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_pulserifle.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_ravager.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_rocketlauncher.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_scionrifle.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_shotgun.upk" />
+    <Package path="udkgame\content\toxikk\sounds\weapons\snd_sniperrifle.upk" />
+    <Package path="udkgame\content\toxikk\tests\box_heavy.upk" />
+    <Package path="udkgame\content\toxikk\tests\explosions.upk" />
+    <Package path="udkgame\content\toxikk\vehicles\vh_banshee.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Effects\P_VH_Banshee_Boost\ThumbnailTexture" suffix="1" />
+        <Object id="Effects\P_VH_Banshee_FWD\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\toxikk\vehicles\vh_base.upk" />
+    <Package path="udkgame\content\toxikk\vehicles\vh_mech.upk" />
+    <Package path="udkgame\content\toxikk\vehicles\vh_phantom.upk" />
+    <Package path="udkgame\content\toxikk\vehicles\vh_rhino.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Effects\P_VH_Rhino_Exhaust_Boost\ThumbnailTexture" suffix="1" />
+        <Object id="Effects\P_VH_Rhino_Wheel_Water\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\toxikk\vehicles\vh_streamer.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_base.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_bfghellraiser.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_bfghellraiserprojectile.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_environmentmaps.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_impactor.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_pistolaw29.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_pulsexm10.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_rocketlauncherbezerkrt3.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_scionsr1.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_scorchr.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_shotgunsg12.upk" />
+    <Package path="udkgame\content\toxikk\weapons\wp_sniperwinch20.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_all.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_animcorrupt.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_animhuman_tree.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_animhuman.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_corrupt_arms.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_corrupt_male.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_gibs.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_immortals.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_ironguard_headshot.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_ironguard_male.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_liam_cathode.upk" />
+    <Package path="udkgame\content\ut3\characters\ch_twinsouls_cine.upk" />
+    <Package path="udkgame\content\ut3\ctf_flags\ctf_flag_ironguard.upk" />
+    <Package path="udkgame\content\ut3\effects\camera_fx.upk" />
+    <Package path="udkgame\content\ut3\effects\envy_decals.upk" />
+    <Package path="udkgame\content\ut3\effects\envy_effects.upk" />
+    <Package path="udkgame\content\ut3\effects\envy_effects2.upk" />
+    <Package path="udkgame\content\ut3\effects\envy_level_effects_2.upk" />
+    <Package path="udkgame\content\ut3\effects\envy_level_effects.upk" />
+    <Package path="udkgame\content\ut3\effects\fx_hiteffects.upk" />
+    <Package path="udkgame\content\ut3\effects\fx_lensflares.upk" />
+    <Package path="udkgame\content\ut3\effects\fx_vehicleexplosions.upk" />
+    <Package path="udkgame\content\ut3\effects\t_fx.upk" />
+    <Package path="udkgame\content\ut3\effects\un_lenstypes.upk" />
+    <Package path="udkgame\content\ut3\effects\vh_weapons.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_base.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_deco.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_floor.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_floor2.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_light.upk" />
+    <Package path="udkgame\content\ut3\environments\asc_visprototype.upk" />
+    <Package path="udkgame\content\ut3\environments\gp_onslaught.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_base.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_deck.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_deco_pipes.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_deco_statues.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_deco.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_deco3.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_doors.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_floor2.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_floors.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_light3.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_mech.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_supports.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_trim2.upk" />
+    <Package path="udkgame\content\ut3\environments\hu_walls.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_base.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_bridge.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_buildings.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_buildings2.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_clutter.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_deco.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_doors.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_floors.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_light.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_mech.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_onyx.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_support.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_trims.upk" />
+    <Package path="udkgame\content\ut3\environments\lt_walls.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_arches.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_base.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_base2.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_buildings.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_ceilings.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_deco.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_doors.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_floors.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_lights.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_pillars.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_roofs.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_supports.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_trims.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_visprototype.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_walls.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_windows.upk" />
+    <Package path="udkgame\content\ut3\environments\nec_wires.upk" />
+    <Package path="udkgame\content\ut3\environments\nr_deco.upk" />
+    <Package path="udkgame\content\ut3\environments\physicalmaterials.upk" />
+    <Package path="udkgame\content\ut3\environments\un_cave.upk" />
+    <Package path="udkgame\content\ut3\environments\un_cubemaps.upk" />
+    <Package path="udkgame\content\ut3\environments\un_decals.upk" />
+    <Package path="udkgame\content\ut3\environments\un_detailtex.upk" />
+    <Package path="udkgame\content\ut3\environments\un_detailtex2.upk" />
+    <Package path="udkgame\content\ut3\environments\un_floors.upk" />
+    <Package path="udkgame\content\ut3\environments\un_foliage.upk" />
+    <Package path="udkgame\content\ut3\environments\un_lightcards.upk" />
+    <Package path="udkgame\content\ut3\environments\un_liquid.upk" />
+    <Package path="udkgame\content\ut3\environments\un_liquid2.upk" />
+    <Package path="udkgame\content\ut3\environments\un_misc.upk" />
+    <Package path="udkgame\content\ut3\environments\un_rock.upk" />
+    <Package path="udkgame\content\ut3\environments\un_rock2.upk" />
+    <Package path="udkgame\content\ut3\environments\un_sanctdemo.upk" />
+    <Package path="udkgame\content\ut3\environments\un_shaders.upk" />
+    <Package path="udkgame\content\ut3\environments\un_simplemeshes.upk" />
+    <Package path="udkgame\content\ut3\environments\un_sky.upk" />
+    <Package path="udkgame\content\ut3\environments\un_terrain.upk" />
+    <Package path="udkgame\content\ut3\environments\un_trees.upk" />
+    <Package path="udkgame\content\ut3\environments\un_volumetrics.upk" />
+    <Package path="udkgame\content\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\content\ut3\gfx\udkhud.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cursor_png" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\ut3\pickups\pickups.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_ambient_loops.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_ambient_nonloops.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_announcer_reward_cue.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_character_bodyimpacts.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_character_footsteps.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_character_igmale_cue.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_gameplay.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_interface.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_map_carbonfire.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_movers.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_pickups_powerups.upk" />
+    <Package path="udkgame\content\ut3\sounds\a_pickups.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_announcer_reward.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_announcer_status.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_character_corruptenigma_cue.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_character_corruptenigma.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_character_igmale.upk" />
+    <Package path="udkgame\content\ut3\sounds\int\a_character_reaper.upk" />
+    <Package path="udkgame\content\ut3\sounds\music\a_music_arrangements.upk" />
+    <Package path="udkgame\content\ut3\sounds\music\a_music_godown.upk" />
+    <Package path="udkgame\content\ut3\sounds\music\a_music_romnecris01.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_cicada.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_generic.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_goliath.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_hellbender.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_hoverboard.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_manta_ut3g.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_manta.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_raptor.upk" />
+    <Package path="udkgame\content\ut3\sounds\vehicle\a_vehicle_scorpion.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_avril.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_biorifle.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_link.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_rocketlauncher.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_shockrifle.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_sniper.upk" />
+    <Package path="udkgame\content\ut3\sounds\weapon\a_weapon_translocator.upk" />
+    <Package path="udkgame\content\ut3\ui\ui_fonts.upk" />
+    <Package path="udkgame\content\ut3\ui\ui_frontend_art.upk" />
+    <Package path="udkgame\content\ut3\ui\ui_goldhud.upk" />
+    <Package path="udkgame\content\ut3\ui\ui_hud.upk" />
+    <Package path="udkgame\content\ut3\ui\ui_mapimages.upk" />
+    <Package path="udkgame\content\ut3\ui\ut3goldpatch.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_all.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_cicada.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_fury.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_hoverboard.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_manta.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_nemesis.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_paladin.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_raptor.upk" />
+    <Package path="udkgame\content\ut3\vehicles\vh_scorpion.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_all.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_avril.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_biorifle.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_enforcers.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_flakcannon.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_linkgun.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_rocketlauncher.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Effects\P_WP_RocketLauncher_RocketExplosion\ThumbnailTexture" suffix="1" />
+        <Object id="Effects\P_WP_RocketLauncher_RocketTrail\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\content\ut3\weapons\wp_shockrifle.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_stinger.upk" />
+    <Package path="udkgame\content\ut3\weapons\wp_translocator.upk" />
+    <Package path="udkgame\cookedpc\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\script\core.u" />
+    <Package path="udkgame\script\cruzade.u" />
+    <Package path="udkgame\script\engine.u" />
+    <Package path="udkgame\script\gameframework.u" />
+    <Package path="udkgame\script\gfxui.u" />
+    <Package path="udkgame\script\gfxuieditor.u" />
+    <Package path="udkgame\script\ipdrv.u" />
+    <Package path="udkgame\script\onlinesubsystemgamecenter.u" />
+    <Package path="udkgame\script\onlinesubsystemgamecircle.u" />
+    <Package path="udkgame\script\onlinesubsystempc.u" />
+    <Package path="udkgame\script\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\script\substanceair.u" />
+    <Package path="udkgame\script\substanceaired.u" />
+    <Package path="udkgame\script\udkbase.u" />
+    <Package path="udkgame\script\unrealed.u" />
+    <Package path="udkgame\script\uteditor.u" />
+    <Package path="udkgame\script\utgame.u" />
+    <Package path="udkgame\script\utgamecontent.u" />
+    <Package path="udkgame\script\windrv.u" />
+  </Packages>
+</IdRemapping>

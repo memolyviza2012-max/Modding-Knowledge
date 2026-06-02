@@ -1,0 +1,1195 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="utgame\cookedpc\ch_ironguard_male2.upk" />
+    <Package path="utgame\cookedpc\ch_ironguard.upk" />
+    <Package path="utgame\cookedpc\ch_redteam.upk" />
+    <Package path="utgame\cookedpc\characters\ch_all.upk" />
+    <Package path="utgame\cookedpc\characters\ch_animcorrupt.upk" />
+    <Package path="utgame\cookedpc\characters\ch_animhuman_tree.upk" />
+    <Package path="utgame\cookedpc\characters\ch_animhuman.upk" />
+    <Package path="utgame\cookedpc\characters\ch_animkrall.upk" />
+    <Package path="utgame\cookedpc\characters\ch_characters_facefx.upk" />
+    <Package path="utgame\cookedpc\characters\ch_corrupt_arms_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_corrupt_arms.upk" />
+    <Package path="utgame\cookedpc\characters\ch_corrupt_cine.upk" />
+    <Package path="utgame\cookedpc\characters\ch_corrupt_male_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_corrupt_male.upk" />
+    <Package path="utgame\cookedpc\characters\ch_gibs.upk" />
+    <Package path="utgame\cookedpc\characters\ch_gore.upk" />
+    <Package path="utgame\cookedpc\characters\ch_immortals.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_arms_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_arms.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_female_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_female.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_headshot.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_male_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_ironguard_male.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\T_CH_IronG_MArms03_D01_VBLUE_SK2" suffix="1" />
+        <Object id="Materials\T_CH_IronG_MArms03_D01_VRED_SK1" suffix="1" />
+        <Object id="Materials\T_CH_IronG_MArms04_D01_VBlue_SK2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\characters\ch_krall_arms_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_krall_arms.upk" />
+    <Package path="utgame\cookedpc\characters\ch_krall_cine.upk" />
+    <Package path="utgame\cookedpc\characters\ch_krall_male_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_krall_male.upk" />
+    <Package path="utgame\cookedpc\characters\ch_miningbot.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_arms_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_arms.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_female_cine.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\T_CH_Necris_FBody01_D01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_E01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_F01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_Fall01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_N01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_S01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FBody01_TM01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FHead01_D01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FHead01_E01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FHead01_Fall01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_FHead01_N01_V01_SK1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\characters\ch_necris_female_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_female.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_female2_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_female2.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_male1_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_necris_male1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\T_CH_Necris_MHead03_Fall01_V01_SK1" suffix="1" />
+        <Object id="Materials\T_CH_Necris_MHead03_N01_V01_SK1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\characters\ch_necris.upk" />
+    <Package path="utgame\cookedpc\characters\ch_rteam_female_cin.upk" />
+    <Package path="utgame\cookedpc\characters\ch_rteam_female_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_rteam_female.upk" />
+    <Package path="utgame\cookedpc\characters\ch_rteam_male_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_rteam_male.upk" />
+    <Package path="utgame\cookedpc\characters\ch_skeletons.upk" />
+    <Package path="utgame\cookedpc\characters\ch_twinsouls_arms_sf.upk" />
+    <Package path="utgame\cookedpc\characters\ch_twinsouls_arms.upk" />
+    <Package path="utgame\cookedpc\characters\ch_twinsouls_cine.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\T_CH_TwinSouls_MBody03_SP01_V01_SK1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\core.u" />
+    <Package path="utgame\cookedpc\ctf_flags\ctf_flag_ironguard.upk" />
+    <Package path="utgame\cookedpc\editor.u" />
+    <Package path="utgame\cookedpc\editormaterials.upk" />
+    <Package path="utgame\cookedpc\editormeshes.upk" />
+    <Package path="utgame\cookedpc\editorresources.upk" />
+    <Package path="utgame\cookedpc\effects\camera_fx.upk" />
+    <Package path="utgame\cookedpc\effects\camerablood.upk" />
+    <Package path="utgame\cookedpc\effects\envy_decals.upk" />
+    <Package path="utgame\cookedpc\effects\envy_effects.upk" />
+    <Package path="utgame\cookedpc\effects\envy_effects2.upk" />
+    <Package path="utgame\cookedpc\effects\envy_level_effects_2.upk" />
+    <Package path="utgame\cookedpc\effects\envy_level_effects.upk" />
+    <Package path="utgame\cookedpc\effects\fx_explosiontextures.upk" />
+    <Package path="utgame\cookedpc\effects\fx_hiteffects.upk" />
+    <Package path="utgame\cookedpc\effects\fx_lensflares.upk" />
+    <Package path="utgame\cookedpc\effects\fx_vehicleexplosions.upk" />
+    <Package path="utgame\cookedpc\effects\gp_ons_powercore_death.upk" />
+    <Package path="utgame\cookedpc\effects\onslaught_effects.upk" />
+    <Package path="utgame\cookedpc\effects\t_fx.upk" />
+    <Package path="utgame\cookedpc\effects\testeffects\heatray.upk" />
+    <Package path="utgame\cookedpc\effects\un_lenstypes.upk" />
+    <Package path="utgame\cookedpc\effects\vh_weapons.upk" />
+    <Package path="utgame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="utgame\cookedpc\engine.u" />
+    <Package path="utgame\cookedpc\enginefonts.upk" />
+    <Package path="utgame\cookedpc\enginematerials.upk" />
+    <Package path="utgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\enginevolumetrics.upk" />
+    <Package path="utgame\cookedpc\environments\asc_arch.upk" />
+    <Package path="utgame\cookedpc\environments\asc_arch2.upk" />
+    <Package path="utgame\cookedpc\environments\asc_base.upk" />
+    <Package path="utgame\cookedpc\environments\asc_deco_statue.upk" />
+    <Package path="utgame\cookedpc\environments\asc_deco.upk" />
+    <Package path="utgame\cookedpc\environments\asc_deco2.upk" />
+    <Package path="utgame\cookedpc\environments\asc_door.upk" />
+    <Package path="utgame\cookedpc\environments\asc_fence.upk" />
+    <Package path="utgame\cookedpc\environments\asc_floor.upk" />
+    <Package path="utgame\cookedpc\environments\asc_floor2.upk" />
+    <Package path="utgame\cookedpc\environments\asc_foliage.upk" />
+    <Package path="utgame\cookedpc\environments\asc_light.upk" />
+    <Package path="utgame\cookedpc\environments\asc_light2.upk" />
+    <Package path="utgame\cookedpc\environments\asc_roof.upk" />
+    <Package path="utgame\cookedpc\environments\asc_supports.upk" />
+    <Package path="utgame\cookedpc\environments\asc_trim.upk" />
+    <Package path="utgame\cookedpc\environments\asc_walkways.upk" />
+    <Package path="utgame\cookedpc\environments\asc_walls_stone.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone03_D" suffix="1" />
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone03_N" suffix="1" />
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone03V_D" suffix="1" />
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone03V_N" suffix="1" />
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone04_D" suffix="1" />
+        <Object id="BSP\Materials\T_ASC_Walls_BSP_Stone04_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\environments\asc_walls.upk" />
+    <Package path="utgame\cookedpc\environments\asc_walls2.upk" />
+    <Package path="utgame\cookedpc\environments\asc_windows.upk" />
+    <Package path="utgame\cookedpc\environments\asc_windows2.upk" />
+    <Package path="utgame\cookedpc\environments\gp_conquest.upk" />
+    <Package path="utgame\cookedpc\environments\gp_onslaught.upk" />
+    <Package path="utgame\cookedpc\environments\hu_archways.upk" />
+    <Package path="utgame\cookedpc\environments\hu_base.upk" />
+    <Package path="utgame\cookedpc\environments\hu_building_typea.upk" />
+    <Package path="utgame\cookedpc\environments\hu_buildings_b.upk" />
+    <Package path="utgame\cookedpc\environments\hu_buildings_typec.upk" />
+    <Package path="utgame\cookedpc\environments\hu_buildings_typed.upk" />
+    <Package path="utgame\cookedpc\environments\hu_city.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deck.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_doors.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_fencea.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_fountain.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_pipes.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_rubblea.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco_statues.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco2.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco3.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco4.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco5.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco6.upk" />
+    <Package path="utgame\cookedpc\environments\hu_deco7.upk" />
+    <Package path="utgame\cookedpc\environments\hu_doors.upk" />
+    <Package path="utgame\cookedpc\environments\hu_downtown.upk" />
+    <Package path="utgame\cookedpc\environments\hu_dusk.upk" />
+    <Package path="utgame\cookedpc\environments\hu_floor2.upk" />
+    <Package path="utgame\cookedpc\environments\hu_floors.upk" />
+    <Package path="utgame\cookedpc\environments\hu_hydrosis.upk" />
+    <Package path="utgame\cookedpc\environments\hu_islander.upk" />
+    <Package path="utgame\cookedpc\environments\hu_kargo.upk" />
+    <Package path="utgame\cookedpc\environments\hu_light3.upk" />
+    <Package path="utgame\cookedpc\environments\hu_lights.upk" />
+    <Package path="utgame\cookedpc\environments\hu_marketdistrict.upk" />
+    <Package path="utgame\cookedpc\environments\hu_mech.upk" />
+    <Package path="utgame\cookedpc\environments\hu_pillars.upk" />
+    <Package path="utgame\cookedpc\environments\hu_supports.upk" />
+    <Package path="utgame\cookedpc\environments\hu_supports2.upk" />
+    <Package path="utgame\cookedpc\environments\hu_trim2.upk" />
+    <Package path="utgame\cookedpc\environments\hu_trims.upk" />
+    <Package path="utgame\cookedpc\environments\hu_walls_brick.upk" />
+    <Package path="utgame\cookedpc\environments\hu_walls_concrete.upk" />
+    <Package path="utgame\cookedpc\environments\hu_walls_metal.upk" />
+    <Package path="utgame\cookedpc\environments\hu_walls.upk" />
+    <Package path="utgame\cookedpc\environments\hu_windows.upk" />
+    <Package path="utgame\cookedpc\environments\lt_base.upk" />
+    <Package path="utgame\cookedpc\environments\lt_bridge.upk" />
+    <Package path="utgame\cookedpc\environments\lt_buildings.upk" />
+    <Package path="utgame\cookedpc\environments\lt_buildings2.upk" />
+    <Package path="utgame\cookedpc\environments\lt_circuitbreaker.upk" />
+    <Package path="utgame\cookedpc\environments\lt_clutter.upk" />
+    <Package path="utgame\cookedpc\environments\lt_deco.upk" />
+    <Package path="utgame\cookedpc\environments\lt_deimos.upk" />
+    <Package path="utgame\cookedpc\environments\lt_doors.upk" />
+    <Package path="utgame\cookedpc\environments\lt_floors.upk" />
+    <Package path="utgame\cookedpc\environments\lt_light.upk" />
+    <Package path="utgame\cookedpc\environments\lt_mech.upk" />
+    <Package path="utgame\cookedpc\environments\lt_onyx.upk" />
+    <Package path="utgame\cookedpc\environments\lt_spaceship.upk" />
+    <Package path="utgame\cookedpc\environments\lt_stairs.upk" />
+    <Package path="utgame\cookedpc\environments\lt_support.upk" />
+    <Package path="utgame\cookedpc\environments\lt_texfx.upk" />
+    <Package path="utgame\cookedpc\environments\lt_trims.upk" />
+    <Package path="utgame\cookedpc\environments\lt_walls.upk" />
+    <Package path="utgame\cookedpc\environments\nec_arches.upk" />
+    <Package path="utgame\cookedpc\environments\nec_base.upk" />
+    <Package path="utgame\cookedpc\environments\nec_base2.upk" />
+    <Package path="utgame\cookedpc\environments\nec_buildings.upk" />
+    <Package path="utgame\cookedpc\environments\nec_ceilings.upk" />
+    <Package path="utgame\cookedpc\environments\nec_deco.upk" />
+    <Package path="utgame\cookedpc\environments\nec_doors.upk" />
+    <Package path="utgame\cookedpc\environments\nec_floors.upk" />
+    <Package path="utgame\cookedpc\environments\nec_lights.upk" />
+    <Package path="utgame\cookedpc\environments\nec_pillars.upk" />
+    <Package path="utgame\cookedpc\environments\nec_roofs.upk" />
+    <Package path="utgame\cookedpc\environments\nec_supports.upk" />
+    <Package path="utgame\cookedpc\environments\nec_trims.upk" />
+    <Package path="utgame\cookedpc\environments\nec_walls.upk" />
+    <Package path="utgame\cookedpc\environments\nec_windows.upk" />
+    <Package path="utgame\cookedpc\environments\nec_wires.upk" />
+    <Package path="utgame\cookedpc\environments\nr_base.upk" />
+    <Package path="utgame\cookedpc\environments\nr_deco.upk" />
+    <Package path="utgame\cookedpc\environments\nr_doors.upk" />
+    <Package path="utgame\cookedpc\environments\nr_floors.upk" />
+    <Package path="utgame\cookedpc\environments\nr_supports.upk" />
+    <Package path="utgame\cookedpc\environments\nr_walls.upk" />
+    <Package path="utgame\cookedpc\environments\physicalmaterials.upk" />
+    <Package path="utgame\cookedpc\environments\test\asc_visprototype.upk" />
+    <Package path="utgame\cookedpc\environments\test\e3_temp.upk" />
+    <Package path="utgame\cookedpc\environments\test\nec_visprototype.upk" />
+    <Package path="utgame\cookedpc\environments\un_cave.upk" />
+    <Package path="utgame\cookedpc\environments\un_cubemaps.upk" />
+    <Package path="utgame\cookedpc\environments\un_decals.upk" />
+    <Package path="utgame\cookedpc\environments\un_detailtex.upk" />
+    <Package path="utgame\cookedpc\environments\un_detailtex2.upk" />
+    <Package path="utgame\cookedpc\environments\un_flags.upk" />
+    <Package path="utgame\cookedpc\environments\un_floors.upk" />
+    <Package path="utgame\cookedpc\environments\un_foliage.upk" />
+    <Package path="utgame\cookedpc\environments\un_glass.upk" />
+    <Package path="utgame\cookedpc\environments\un_liquid.upk" />
+    <Package path="utgame\cookedpc\environments\un_liquid2.upk" />
+    <Package path="utgame\cookedpc\environments\un_misc.upk" />
+    <Package path="utgame\cookedpc\environments\un_prefabs.upk" />
+    <Package path="utgame\cookedpc\environments\un_rock.upk" />
+    <Package path="utgame\cookedpc\environments\un_rock2.upk" />
+    <Package path="utgame\cookedpc\environments\un_sand.upk" />
+    <Package path="utgame\cookedpc\environments\un_shaders.upk" />
+    <Package path="utgame\cookedpc\environments\un_simplemeshes.upk" />
+    <Package path="utgame\cookedpc\environments\un_sky.upk" />
+    <Package path="utgame\cookedpc\environments\un_snow.upk" />
+    <Package path="utgame\cookedpc\environments\un_speedtrees.upk" />
+    <Package path="utgame\cookedpc\environments\un_speedtrees2.upk" />
+    <Package path="utgame\cookedpc\environments\un_team.upk" />
+    <Package path="utgame\cookedpc\environments\un_terrain.upk" />
+    <Package path="utgame\cookedpc\environments\un_terrain2.upk" />
+    <Package path="utgame\cookedpc\environments\un_terraintracks.upk" />
+    <Package path="utgame\cookedpc\environments\un_trees.upk" />
+    <Package path="utgame\cookedpc\environments\un_volumetrics.upk" />
+    <Package path="utgame\cookedpc\environments\un_weather.upk" />
+    <Package path="utgame\cookedpc\gameframework.u" />
+    <Package path="utgame\cookedpc\gameplay\gameplaceholders.upk" />
+    <Package path="utgame\cookedpc\gameplay\speechrecognition.upk" />
+    <Package path="utgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="utgame\cookedpc\guidcache.upk" />
+    <Package path="utgame\cookedpc\ipdrv.u" />
+    <Package path="utgame\cookedpc\maps\cinematics\utcin-ut3credits.ut3">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UI_HUD\HUD\UT3-logo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds_loc_rus.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-facingworlds.ut3" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight_loc_rus.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-searchlight.ut3" />
+    <Package path="utgame\cookedpc\maps\ctf-strident_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-strident_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-strident_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-strident_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-strident_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\ctf-strident.ut3" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\dm-carbonfire.ut3" />
+    <Package path="utgame\cookedpc\maps\dm-deck_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\dm-deck_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\dm-deck_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\dm-deck_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\dm-deck_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\dm-deck.ut3" />
+    <Package path="utgame\cookedpc\maps\dm-heatray_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\dm-heatray_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\dm-heatray_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\dm-heatray_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\dm-heatray_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\dm-heatray.ut3" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias_loc_rus.upk" />
+    <Package path="utgame\cookedpc\maps\dm-morbias.ut3" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\dm-sanctuary.ut3" />
+    <Package path="utgame\cookedpc\maps\envyentry.ut3" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_cze.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_hun.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_pol.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend_loc_rus.upk" />
+    <Package path="utgame\cookedpc\maps\utfrontend.ut3" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\utm-missionselection.ut3">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UI_Portrait\Faction\UI_CH_TwinSouls_Team" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\maps\war-islander_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\war-islander_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\war-islander_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\war-islander_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\war-islander_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\war-islander.ut3" />
+    <Package path="utgame\cookedpc\maps\war-torlan_loc_deu.upk" />
+    <Package path="utgame\cookedpc\maps\war-torlan_loc_esn.upk" />
+    <Package path="utgame\cookedpc\maps\war-torlan_loc_fra.upk" />
+    <Package path="utgame\cookedpc\maps\war-torlan_loc_int.upk" />
+    <Package path="utgame\cookedpc\maps\war-torlan_loc_ita.upk" />
+    <Package path="utgame\cookedpc\maps\war-torlan.ut3" />
+    <Package path="utgame\cookedpc\music\a_music_foregone.upk" />
+    <Package path="utgame\cookedpc\nodebuddies.upk" />
+    <Package path="utgame\cookedpc\onlinesubsystemgamespy.u" />
+    <Package path="utgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="utgame\cookedpc\packages\asc_face.upk" />
+    <Package path="utgame\cookedpc\packages\dlc1frontend.upk" />
+    <Package path="utgame\cookedpc\packages\envy_dlc_effects.upk" />
+    <Package path="utgame\cookedpc\packages\lt_morbias.upk" />
+    <Package path="utgame\cookedpc\packages\ui_mapimages2.upk" />
+    <Package path="utgame\cookedpc\pickups\pickups.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-coret.ut3" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-hydrosis.ut3" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-omicrondawn.ut3" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-reflection.ut3" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\ctf-vertebrae.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-arsenal.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-biohazard.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-defiance.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-deimos.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-diesel.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-fearless.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-gateway.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-risingsun.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-sentinel.ut3" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\dm-shangrila.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment_sp.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-containment.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-corruption.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-kargo.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-necropolis.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-sandstorm.ut3" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\vctf-suspense.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-avalanche.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-downtown.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-dusk.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-floodgate.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-islander_necris.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-marketdistrict.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-onyxcoast.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-powersurge.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity_necris.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-serenity.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-sinkhole.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-tankcrossing.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_leviathan.ut3" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris_loc_deu.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris_loc_esn.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris_loc_fra.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris_loc_int.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris_loc_ita.upk" />
+    <Package path="utgame\cookedpc\private\maps\war-torlan_necris.ut3" />
+    <Package path="utgame\cookedpc\private\vehicles\vh_necrismanta.upk" />
+    <Package path="utgame\cookedpc\private\vehicles\vh_nightshade.upk" />
+    <Package path="utgame\cookedpc\private\vehicles\vh_scavenger.upk" />
+    <Package path="utgame\cookedpc\private\vehicles\vh_stealthbender.upk" />
+    <Package path="utgame\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="utgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="utgame\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="utgame\cookedpc\sounds\a_ambient_loops.upk" />
+    <Package path="utgame\cookedpc\sounds\a_ambient_nonloops.upk" />
+    <Package path="utgame\cookedpc\sounds\a_character_bodyimpacts.upk" />
+    <Package path="utgame\cookedpc\sounds\a_character_footsteps.upk" />
+    <Package path="utgame\cookedpc\sounds\a_crashes.upk" />
+    <Package path="utgame\cookedpc\sounds\a_gameplay.upk" />
+    <Package path="utgame\cookedpc\sounds\a_interface.upk" />
+    <Package path="utgame\cookedpc\sounds\a_map_carbonfire.upk" />
+    <Package path="utgame\cookedpc\sounds\a_map_strident.upk" />
+    <Package path="utgame\cookedpc\sounds\a_movers.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_arrangements.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_coret.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_godown.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_jesperasia01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_jespernecris01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_lockdown.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_mech8.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_ons01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_outpost.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_robomall.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romasia01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romasia02.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romnecris01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romnecris02.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut01.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut02.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut03.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut04.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut05.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut06.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_romut07.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_skyward.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_spacednb.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_strident.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music_tothedeath.upk" />
+    <Package path="utgame\cookedpc\sounds\a_music.upk" />
+    <Package path="utgame\cookedpc\sounds\a_pickups_deployables.upk" />
+    <Package path="utgame\cookedpc\sounds\a_pickups_powerups.upk" />
+    <Package path="utgame\cookedpc\sounds\a_pickups.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_cicada.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_darkwalker.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_fury.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_generic.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_goliath.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_hellbender.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_hoverboard.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_leviathan.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_manta.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_nemesis.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_nightshade.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_paladin.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_raptor.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_scavenger.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_scorpion.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_spma.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_stealthbender.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_turret.upk" />
+    <Package path="utgame\cookedpc\sounds\a_vehicle_viper.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_avril.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_biorifle.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_bulletimpacts.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_enforcer.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_flakcannon.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_impacthammer.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_link.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_redeemer.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_rocketlauncher.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_shockrifle.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_sniper.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_stinger.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon_translocator.upk" />
+    <Package path="utgame\cookedpc\sounds\a_weapon.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_announcer_reward_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_announcer_status_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_bishop_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_corruptenigma_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_corruptmatrix_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_igfemale_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_igmale_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_jester_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_krallgrobar_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_krallscythe_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_lauren_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_malcolm_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_necrisfemale_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_necrismale01_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_necrismale02_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_othello_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\deu\a_character_reaper_deu.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_announcer_reward_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_announcer_status_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_bishop_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_corruptenigma_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_corruptmatrix_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_igfemale_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_igmale_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_jester_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_krallgrobar_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_krallscythe_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_lauren_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_malcolm_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_necrisfemale_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_necrismale01_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_necrismale02_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_othello_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\esn\a_character_reaper_esn.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_announcer_reward_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_announcer_status_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_bishop_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_corruptenigma_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_corruptmatrix_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_igfemale_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_igmale_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_jester_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_krallgrobar_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_krallscythe_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_lauren_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_malcolm_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_necrisfemale_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_necrismale01_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_necrismale02_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_othello_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\fra\a_character_reaper_fra.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_announcer_reward_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_announcer_reward.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_announcer_status_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_announcer_status.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_bishop.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_corruptenigma_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_corruptenigma.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_corruptmatrix.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_igfemale_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_igfemale.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_igmale_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_igmale.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_jester_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_jester.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_krallgrobar.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_krallscythe_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_krallscythe.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_lauren.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_malcolm_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_malcolm.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_necrisfemale.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_necrismale01_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_necrismale01.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_necrismale02.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_othello.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_reaper_cue.upk" />
+    <Package path="utgame\cookedpc\sounds\int\a_character_reaper.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_announcer_reward_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_announcer_status_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_bishop_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_corruptenigma_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_corruptmatrix_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_igfemale_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_igmale_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_jester_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_krallgrobar_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_krallscythe_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_lauren_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_malcolm_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_necrisfemale_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_necrismale01_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_necrismale02_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_othello_ita.upk" />
+    <Package path="utgame\cookedpc\sounds\ita\a_character_reaper_ita.upk" />
+    <Package path="utgame\cookedpc\startup_cze.upk" />
+    <Package path="utgame\cookedpc\startup_deu.upk" />
+    <Package path="utgame\cookedpc\startup_esn.upk" />
+    <Package path="utgame\cookedpc\startup_fra.upk" />
+    <Package path="utgame\cookedpc\startup_hun.upk" />
+    <Package path="utgame\cookedpc\startup_int.upk" />
+    <Package path="utgame\cookedpc\startup_ita.upk" />
+    <Package path="utgame\cookedpc\startup_pol.upk" />
+    <Package path="utgame\cookedpc\startup_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineFonts\LargeFont\Texture2D_25" suffix="1" />
+        <Object id="EngineFonts\LargeFont\Texture2D_26" suffix="1" />
+        <Object id="EngineFonts\MediumFont\Texture2D_27" suffix="1" />
+        <Object id="EngineFonts\SmallFont\Texture2D_28" suffix="1" />
+        <Object id="EngineFonts\TinyFont\Texture2D_29" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Huge\Texture2D_77" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Large\Texture2D_78" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Medium\Texture2D_79" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Small\Texture2D_80" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_53" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_54" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_55" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_56" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_57" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_58" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_36" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_38" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_39" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_40" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_49" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_40" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_41" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_42" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_43" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_44" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexThin\Texture2D_45" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_65" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_66" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_67" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_68" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_69" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_71" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_72" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_73" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_74" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_75" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_76" suffix="1" />
+        <Object id="UI_Fonts\Font_0\Font_0_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Font_0\Font_0_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_FOnts_AmbexHeavy10\Texture2D_1" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy14\Texture2D_0" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy18\Texture2D_1" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy18\Texture2D_2" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_3" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_4" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_5" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_6" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_7" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavy36\Texture2D_8" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique14\Texture2D_44" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique18\Texture2D_45" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique18\Texture2D_46" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_47" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_48" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_49" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_50" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_51" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique36\Texture2D_52" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin14\Texture2D_9" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin18\Texture2D_10" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin18\Texture2D_11" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_12" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_13" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_14" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_15" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_16" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexThin36\Texture2D_17" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_FoldOb10\Texture2D_11" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_FoldOb14\Texture2D_12" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_FoldOb18\Texture2D_5" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_FoldOb36\Texture2D_4" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec10\UI_Fonts_Positec10_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec14\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec18\Texture2D_47" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec18\Texture2D_48" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_36" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_37" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_44" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_45" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_Positec36\Texture2D_46" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana10\Verdana10_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana11\Verdana11_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana12\Verdana12_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana14\Verdana14_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana18\Verdana18_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana18\Verdana18_PageB" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana24\Verdana24_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana24\Verdana24_PageB" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana30\Verdana30_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana30\Verdana30_PageB" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana30\Verdana30_PageC" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana36\Verdana36_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana36\Verdana36_PageB" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana36\Verdana36_PageC" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana36\Verdana36_PageD" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana36\Verdana36_PageE" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageA" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageB" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageC" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageD" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageE" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageF" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageG" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana48\Verdana48_PageH" suffix="1" />
+        <Object id="UI_Fonts\Fonts\Verdana8\Verdana8_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HudHuge\MF_HudHuge_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HudLarge\MF_HudLarge_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HudMedium\MF_HudMediuml_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HudSmall\MultiFonts.MF_HudSmall_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageB" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageC" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageD" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageE" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageF" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageG" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageH" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageI" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageJ" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_HugeFont\MF_HugeFont_PageK" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_LargeFont\MF_LargeFont_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_LargeFont\MF_LargeFont_PageB" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_LargeFont\MF_LargeFont_PageC" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_LargeFont\MF_LargeFont_PageD" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_LargeFont\MF_LargeFont_PageE" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_MediumFont\MF_MediumFont_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_MediumFont\MF_MediumFont_PageB" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_MediumFont\MF_MediumFont_PageC" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_SmallFont\MF_SmallFont_PageA" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_SmallFont\MF_SmallFont_PageB" suffix="1" />
+        <Object id="UI_Fonts\MultiFonts\MF_SmallFont\MF_SmallFont_PageC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\textures\envyeditorresources.upk" />
+    <Package path="utgame\cookedpc\textures\ps3patch.upk" />
+    <Package path="utgame\cookedpc\textures\t_uthudgraphics.upk" />
+    <Package path="utgame\cookedpc\textures\warrentemp.upk" />
+    <Package path="utgame\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="utgame\cookedpc\ui\ui_charportraits.upk" />
+    <Package path="utgame\cookedpc\ui\ui_fonts_final.upk" />
+    <Package path="utgame\cookedpc\ui\ui_fonts.upk" />
+    <Package path="utgame\cookedpc\ui\ui_frontend_art.upk" />
+    <Package path="utgame\cookedpc\ui\ui_hud.upk" />
+    <Package path="utgame\cookedpc\ui\ui_ingamehud.upk" />
+    <Package path="utgame\cookedpc\ui\ui_mapimages.upk" />
+    <Package path="utgame\cookedpc\ui\ui_objectives.upk" />
+    <Package path="utgame\cookedpc\ui\ui_portrait.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_campaign.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_chrisblayout.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_common.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_frontend.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_mutators.upk" />
+    <Package path="utgame\cookedpc\ui\ui_scenes_scoreboards.upk" />
+    <Package path="utgame\cookedpc\ui\ui_singleplayer_world.upk" />
+    <Package path="utgame\cookedpc\ui\ui_skin_derived.upk" />
+    <Package path="utgame\cookedpc\ui\ui_skins.upk" />
+    <Package path="utgame\cookedpc\ui\ui_weapons.upk" />
+    <Package path="utgame\cookedpc\unrealed.u" />
+    <Package path="utgame\cookedpc\unrealscripttest.u" />
+    <Package path="utgame\cookedpc\ut3g\animations\ch_animhuman_hero.upk" />
+    <Package path="utgame\cookedpc\ut3g\animations\ch_animkrall_hero.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_corrupt_male2_sf.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_corrupt_male2.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_rteam_female2_sf.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_rteam_female2.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_rteam_male2_sf.upk" />
+    <Package path="utgame\cookedpc\ut3g\characters\ch_rteam_male2.upk" />
+    <Package path="utgame\cookedpc\ut3g\effects\camera_fx_02.upk" />
+    <Package path="utgame\cookedpc\ut3g\effects\fx_gametypes.upk" />
+    <Package path="utgame\cookedpc\ut3g\effects\un_heroeffects.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\kra_deco_shelter.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\kra_deco_stakes.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\kra_deco_woodpile.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\kra_deco.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_exteriors2.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_exteriors3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SM\Materials\T_UN_DetailTex_Crackle3_ND" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\ut3g\environments\un_exteriors4.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SM\Materials\T_UN_DetailTex_Crackle3_ND" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\ut3g\environments\un_props.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_rock3.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_signs.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_skydomes1.upk" />
+    <Package path="utgame\cookedpc\ut3g\environments\un_water.upk" />
+    <Package path="utgame\cookedpc\ut3g\gameplay\gp_extras.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-lostcause.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-morbid.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-nanoblack.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\ctf-shaft.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-darkmatch.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-edeninc.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-kbarge.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-oceanrelic.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\dm-turbine.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-rails.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-stranded.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\vctf-suspense_necris.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-coldharbor.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-confrontation.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-downtown_necris.ut3" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_int.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile_loc_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\maps\war-hostile.ut3" />
+    <Package path="utgame\cookedpc\ut3g\packages\hu_darkmatch.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\hu_downtown_necris.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\hu_kbarge.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SM\Materials\T_HU_Deco_SM_Barge_02_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\ut3g\packages\hu_rails.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\hu_stranded.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\hu_turbine2.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\krs_foliage.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\li_stallmap.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\lt_confrontation.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\lt_shaft.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\nec_lostcause.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\nec_nanoblack.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\nec_oceanrelic.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\nec-hostile.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\un_hero_temp.upk" />
+    <Package path="utgame\cookedpc\ut3g\packages\un_volumetrics_gold.upk" />
+    <Package path="utgame\cookedpc\ut3g\pickups\pickups_2.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\a_ambient_ut3g.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\a_gameplay_ut3g.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\a_titan_extras.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\deu\a_announcer_ut3g_deu.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\esn\a_announcer_ut3g_esn.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\fra\a_announcer_ut3g_fra.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\int\a_announcer_ut3g.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\ita\a_announcer_ut3g_ita.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\rus\a_announcer_ut3g_rus.upk" />
+    <Package path="utgame\cookedpc\ut3g\sounds\vehicles\vh_erad.upk" />
+    <Package path="utgame\cookedpc\ut3g\ui\ui_frontend_art3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MapPics\map-pic-ctf-searchlight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\ut3g\ui\ui_goldhud.upk" />
+    <Package path="utgame\cookedpc\ut3g\ui\ui_mapimages_2.upk" />
+    <Package path="utgame\cookedpc\ut3g\ui\ui_portrait1.upk" />
+    <Package path="utgame\cookedpc\ut3gold.u" />
+    <Package path="utgame\cookedpc\ut3goldgame.u" />
+    <Package path="utgame\cookedpc\uteditor.u" />
+    <Package path="utgame\cookedpc\utgame_loc_cze.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_deu.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_esn.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_fra.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_hun.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_int.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_ita.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_pol.upk" />
+    <Package path="utgame\cookedpc\utgame_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineFonts\SmallFont\Texture2D_28" suffix="1" />
+        <Object id="EngineFonts\TinyFont\Texture2D_29" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Huge\Texture2D_77" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Large\Texture2D_78" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Medium\Texture2D_79" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Small\Texture2D_80" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_53" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_54" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_55" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_56" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_57" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavy\Texture2D_58" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_36" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_38" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_39" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_40" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_AmbexHeavyOblique\Texture2D_49" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_65" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_66" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_67" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_68" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_Positec\Texture2D_69" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_71" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_72" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_73" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_74" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_75" suffix="1" />
+        <Object id="UI_Fonts_Final\Menus\Fonts_PositecBold\Texture2D_76" suffix="1" />
+        <Object id="UI_Fonts\Fonts\UI_Fonts_AmbexHeavyOblique14\Texture2D_44" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="utgame\cookedpc\utgame.u" />
+    <Package path="utgame\cookedpc\utgamecontent.u" />
+    <Package path="utgame\cookedpc\uweb.u" />
+    <Package path="utgame\cookedpc\vehicles\vh_all.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_cicada.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_darkwalker.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_fury.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_goliath.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_hellbender.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_hoverboard.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_leviathan.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_manta.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_nemesis.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_paladin.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_raptor.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_scorpion.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_spma.upk" />
+    <Package path="utgame\cookedpc\vehicles\vh_turret.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_all.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_avril.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_biorifle.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_canistergun.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_enforcers.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_flakcannon.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_impacthammer.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_linkgun.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_redeemer.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_rocketlauncher.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_shockrifle.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_sniperrifle.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_stinger.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_translocator.upk" />
+    <Package path="utgame\cookedpc\weapons\wp_turret01.upk" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,2557 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="tnagame\cookedxenon\ai_fsms.xxx" />
+    <Package path="tnagame\cookedxenon\ai_machines_latent.xxx" />
+    <Package path="tnagame\cookedxenon\ai_machines_normal.xxx" />
+    <Package path="tnagame\cookedxenon\ai_machines_tactics.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_abyss.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_acrobat.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_aj_styles.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_alex_shelly.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_booker_t.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_brawler.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_brother_devon.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_brother_ray.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_chris_daniels.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_chris_sabin.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_christian_cage.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_eric_young.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_grappler.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_hernandez.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_homicide.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_james_storm.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_jay_lethal.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_jeff_jarrett.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_kevin_nash.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_kurt_angle.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_rhino.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_robert_rhoode.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_samoa_joe.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_scott_steiner.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_shark_boy.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_sonjay_dutt.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_sting.xxx" />
+    <Package path="tnagame\cookedxenon\ai_variables_tomko.xxx" />
+    <Package path="tnagame\cookedxenon\aifsm_events.xxx" />
+    <Package path="tnagame\cookedxenon\aifsm_movelists.xxx" />
+    <Package path="tnagame\cookedxenon\aifsmevents.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_acrobat_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_base_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_brawler_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_cap_acrobat_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_cap_brawler_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_cap_grappler_template.xxx" />
+    <Package path="tnagame\cookedxenon\animfsm_grappler_template.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_3dss_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_arm.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_02b.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_06_deu.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_06_fra.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_06_int.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_06_ita.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_06_spa.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_09_deu.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_09_fra.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_09_int.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_09_ita.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_09_spa.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_11.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_12.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_13.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_14.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_15.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_16.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_17.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_18.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_19_deu.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_19_fra.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_19_int.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_19_ita.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_19_spa.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_fmc_20.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_frc.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_ab_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_aj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_as_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_at_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_bd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_be_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_br_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_bt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_cc_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_cd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_cs_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_dw_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_ey_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_gen_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_ho_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_hz_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_jj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_jl_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_js_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_ka_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_kn_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_le_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_mt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_rh_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_rr_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_sb_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_sd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_si_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_sj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_ss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_st_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_su_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_intro_tk_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_jap.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_lon.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_matchtype.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_mex.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_orl.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_dx_veg.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd11.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd12.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd13.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd14.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd15.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd16.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd17.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd18.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd19.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd20.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd21.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd22.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd23.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd24.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd25.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd26.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd27.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd28.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd29.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd30.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd31.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_lsd32.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_3dss_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_arm.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_02b.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_11.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_12.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_13.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_14.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_15.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_16.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_17.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_18.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_19.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_fmc_20.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_frc.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_ab_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_aj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_as_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_at_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_bd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_be_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_br_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_bt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_cc_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_cd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_cs_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_dw_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_ey_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_gen_10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_ho_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_hz_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_jj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_jl_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_js_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_ka_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_kn_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_le_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_mt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_rh_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_rr_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_sb_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_sd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_si_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_sj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_ss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_st_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_su_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_intro_tk_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_jap.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_lon.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_mex.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_orl.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_veg.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ab_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_aj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_as_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_at_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_bd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_be_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_br_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_bt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_cc_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_cd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_cs_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_dw_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ey_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_gen_10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ho_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_hz_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_jj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_jl_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_js_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ka_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_kn_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_le_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_mt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ro_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_rr_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_sb_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_sd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_si_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_sj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_ss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_st_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_su_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_mx_victory_to_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_3dss_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_3dss_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_3dss_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_3dss_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_05.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_06.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_08.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_10.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_11.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_12.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_13.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_14.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_15.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_16.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_17.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fmc_18.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fw_fmc_09.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fw_fmc_11.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fw_fmc_12.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fw_fmc_13.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_fw_fmc_19.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_ab_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_aj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_as_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_at_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_bd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_br_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_bt_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_cc_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_crowd_lg.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_crowd_md.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_crowd_sm.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_cs_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_dw_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_ey_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_frc_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_gen_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_gen_02.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_gen_03.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_gen_04.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_gen_07.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_ho_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_hz_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_jap_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_jj_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_jl_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_js_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_ka_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_orl_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_ro_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_rr_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_sd_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_su_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_cin_sfx_intro_veg_01.xxx" />
+    <Package path="tnagame\cookedxenon\audio_dx_commentary_p_01_deu.xxx" />
+    <Package path="tnagame\cookedxenon\audio_dx_commentary_p_01_fra.xxx" />
+    <Package path="tnagame\cookedxenon\audio_dx_commentary_p_01_int.xxx" />
+    <Package path="tnagame\cookedxenon\audio_dx_commentary_p_01_ita.xxx" />
+    <Package path="tnagame\cookedxenon\audio_dx_commentary_p_01_spa.xxx" />
+    <Package path="tnagame\cookedxenon\audio_mx_finishers.xxx" />
+    <Package path="tnagame\cookedxenon\audio_mx_frontend.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_bell.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_com_grunts.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_com_pk.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_com_ts.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_com_weapon_chair.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_com_whoosh.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_cro_stg_jp.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_cro_stg_lg.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_cro_stg_md.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_cro_stg_sm2.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_apron.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_cmt.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_drt.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_lea.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_mat.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_mfen.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_tbropes.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_env_wfen.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_ui_menu.xxx" />
+    <Package path="tnagame\cookedxenon\audio_sfx_ui_userfeedback.xxx" />
+    <Package path="tnagame\cookedxenon\backlot.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_13eye_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_13eye_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_13eye_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_13eye_velcro_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_13eye_velcro_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_18eye_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_18eye_v001x.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\cap_a_18eye_v001_s" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cap_a_18eye_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_810_eye_velcro_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_810_eye_velcro_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_aladdin_bts_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_aladdin_bts_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ankl_shoe_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ankle_high_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ankle_high_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_arm_slvs_lucha_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_avtr_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ban_scalp_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bandit_ban_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bball_cap_bkw_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bball_cap_bkw_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bball_cap_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bball_cap_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_beanie_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_beret_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bicep_tape_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bicep_wband_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bik_lng_tghts_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_bik_sh_trnk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_boxwraps_lng_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_btn_dn_shrt_slvs_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_btn_dn_shrt_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_chaps.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_cwby_boots_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_cwby_boots_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_cwby_hat_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_cwby_hat_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_doo_rag_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_drag_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_drag_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_drag_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_dress_shirt.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elb_pd_crb_l.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elb_pd_crb_r.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elb_pd_scl_l_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elb_pd_scl_r_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elbw_pd_hck_l.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elbw_pd_hck_r.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elbwpd_open_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elbwpd_pro_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_elbwsppt_neop_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_fing_tape_l_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_fing_tape_r_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v004.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v005.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v006.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v007.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v008.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v010.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v011.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v012.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v013.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v014.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glasses_v015.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glov_spike_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_glov_wrstle_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_gnt_gladi_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_gnt_shorter_l_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_gnt_shorter_r_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v004.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v005.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v006.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v007.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v008.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v009.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v010.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v011_bkw.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v011.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v012.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v013.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v014.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v015.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v016.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v017.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v018_r.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v018.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v019.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v020.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v021.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hat_v022.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_hdbnd_bndna_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_high_810_eye_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_high_810_eye_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_jeans_bgy_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_jeans_rg_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_jeans_tgt_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_jn_short_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_jns_into_bts_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_boot_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_boot_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_jap_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_jap_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_lucha_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_lucha_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_shoe_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kck_pd_shoe_v001x.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kilt_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kn_brace_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kn_pd_hockey.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kn_pd_rsh_gd.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kn_pd_tough.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kn_spprt_clsd_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knpd_ama_l_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knpd_ama_r_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knpd_opn_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knpd_trace_opn_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knpd_turtl_shll_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_knsppt_opn_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kpd_lg_adi.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kpd_lg_asi_unr_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_kpd_rg_asi_slv_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ss_arm_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ss_t_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ss_ti_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_tghts_tssls.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ti_bb_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ti_knpd_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lng_ti_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ls_drs_sh_untk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lth_glov_full_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lth_glov_l_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lth_glov_r_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_decals.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_designs.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v004.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v005.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v006.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_lucha_msk_v007.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_microchip.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_mscle_s_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v003.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v004.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v005.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v006.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v007.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v008.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v009.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_necklace_v010.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_p_shrt_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_plth_p_s_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_pnt_bgy_lw_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_pnt_cargo_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_pnt_karate_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_pnt_leath_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_pnt_pleth_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_rybn_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sh_trnk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_short_kn_lng_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_shrt_ss_t_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_shrt_ss_t_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_shts_bgy_gngstr_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_1_arm_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_1_arm_v002.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_all_in_1_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_brief_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_deep_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_opn_frnt_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_sing_reg_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_singlet_high_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_ski_goggle_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_l_elbow.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_l_hand.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_l_knee.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_l_lo_leg.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_l_up_arm.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_r_elbow.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_r_hand.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_r_knee.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_r_lo_leg.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_r_up_arm.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skin_torso.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_skins.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_slvls_s_hi_nk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_slvs_ss_hood_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_slvs_ss_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_snglt_olympc_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_spdo_pro_trnk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_t_shrt_bgy_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tank_top_hi_nk_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tank_top_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tnnis_shoe_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tnnis_shoe2_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tnns_shoe3_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_trkr_cap_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_tssle_legs.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_velcro_strap_v001x.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\cap_a_velcro_strap_v001_s" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cap_a_velcro_strap.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_wrst_bands_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_wrst_bnds_arm_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_wrst_tp_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_wstct_vst_lngr_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_a_wstct_vst_v001.xxx" />
+    <Package path="tnagame\cookedxenon\cap_acrobat_template_workfile.xxx" />
+    <Package path="tnagame\cookedxenon\cap_brawler_template_workfile.xxx" />
+    <Package path="tnagame\cookedxenon\cap_camera.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_brow.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_crown.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_ears.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_eyebrows.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_eyelids.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_eyes.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_facehair.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_facepaint.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_hair_blends.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_hair.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_innards.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_jaw.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_lids.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_mouth.xxx" />
+    <Package path="tnagame\cookedxenon\cap_f_nose.xxx" />
+    <Package path="tnagame\cookedxenon\cap_grappler_template_workfile.xxx" />
+    <Package path="tnagame\cookedxenon\cap_level_sub.xxx" />
+    <Package path="tnagame\cookedxenon\cap_level.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_00_head.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_01_cap_athletic.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_boots_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_cutoffs_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_elbows_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_facewear.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_gloves_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_hats.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_knees_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_neckwear_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_pants_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_pants_all.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_shins_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_shirts_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_shirts_all.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_shoes_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root_shoulders_a.xxx" />
+    <Package path="tnagame\cookedxenon\cap_root.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_0.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_1.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_10.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_11.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_12.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_13.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_14.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_15.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_2.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_3.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_4.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_5.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_6.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_7.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_8.xxx" />
+    <Package path="tnagame\cookedxenon\cap_save_9.xxx" />
+    <Package path="tnagame\cookedxenon\cap_tats.xxx" />
+    <Package path="tnagame\cookedxenon\chr_00_character_materials.xxx" />
+    <Package path="tnagame\cookedxenon\chr_abyss_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_afro_thunder_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_aj_styles_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_aj_styles_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_aj_styles_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_alex_shelley_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_booker_t_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_brother_devon_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_brother_ray_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_brother_ray_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_chris_daniels_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_chris_daniels_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\chris_daniels_D" suffix="1" />
+        <Object id="Textures\chris_daniels_N" suffix="1" />
+        <Object id="Textures\chris_daniels_SGT" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_chris_daniels_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_chris_sabin_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_christian_cage_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_christy_hemme_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_christy_hemme_hair.xxx" />
+    <Package path="tnagame\cookedxenon\chr_crowd_japan_2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_crowd_mexico_2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\BackCrowd01" suffix="1" />
+        <Object id="Textures\BackCrowd02" suffix="1" />
+        <Object id="Textures\BackCrowd03" suffix="1" />
+        <Object id="Textures\Floor" suffix="2" />
+        <Object id="Textures\frontcrowd1" suffix="1" />
+        <Object id="Textures\frontcrowd2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_crowd_template.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\BackCrowd01" suffix="2" />
+        <Object id="Textures\BackCrowd02" suffix="2" />
+        <Object id="Textures\BackCrowd03" suffix="2" />
+        <Object id="Textures\Crowd_Sign01" suffix="1" />
+        <Object id="Textures\Crowd_Sign02" suffix="1" />
+        <Object id="Textures\Floor" suffix="2" />
+        <Object id="Textures\frontcrowd1" suffix="2" />
+        <Object id="Textures\frontcrowd2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_don_west_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_eric_young_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_eric_young_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_hernandez_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_hernandez_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_hernandez_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_homicide_cine.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\bandanaMask_Blue_D" suffix="1" />
+        <Object id="Textures\bandanaMask_Blue_N" suffix="1" />
+        <Object id="Textures\bandanaMask_Blue_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_homicide_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Homicide_D" suffix="1" />
+        <Object id="Textures\Homicide_N" suffix="1" />
+        <Object id="Textures\Homicide_SGT" suffix="1" />
+        <Object id="Textures\Homicide_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_homicide_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bandanaMask_Blue_D" suffix="1" />
+        <Object id="bandanaMask_Blue_N" suffix="1" />
+        <Object id="bandanaMask_Blue_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_james_storm_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_james_storm_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\James_Storm_D" suffix="1" />
+        <Object id="Textures\James_Storm_N" suffix="1" />
+        <Object id="Textures\James_Storm_SGT" suffix="1" />
+        <Object id="Textures\James_Storm_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jay_lethal_cine_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jay_lethal_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jay_lethal_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jay_lethal_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jeff_jarrett_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jeff_jarrett_guitar.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jeff_jarrett_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Jeff_Jarrett_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber_klown1_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jobber_klown1_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Jobber_Klown_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber_klown2_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jobber_klown2_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Jobber_Klown_512_N" suffix="1" />
+        <Object id="Textures\Jobber_Klown_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber01.xxx" />
+    <Package path="tnagame\cookedxenon\chr_jobber02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="1" />
+        <Object id="Textures\CapTexture_Normal" suffix="1" />
+        <Object id="Textures\CapTexture_Specular" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="2" />
+        <Object id="Textures\CapTexture_Normal" suffix="2" />
+        <Object id="Textures\CapTexture_Specular" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber04.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="3" />
+        <Object id="Textures\CapTexture_Normal" suffix="3" />
+        <Object id="Textures\CapTexture_Specular" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber05.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="4" />
+        <Object id="Textures\CapTexture_Normal" suffix="4" />
+        <Object id="Textures\CapTexture_Specular" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber06.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="5" />
+        <Object id="Textures\CapTexture_Normal" suffix="5" />
+        <Object id="Textures\CapTexture_Specular" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber07.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="6" />
+        <Object id="Textures\CapTexture_Normal" suffix="6" />
+        <Object id="Textures\CapTexture_Specular" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber08.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="7" />
+        <Object id="Textures\CapTexture_Normal" suffix="7" />
+        <Object id="Textures\CapTexture_Specular" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber09.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="8" />
+        <Object id="Textures\CapTexture_Normal" suffix="8" />
+        <Object id="Textures\CapTexture_Specular" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber10.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="9" />
+        <Object id="Textures\CapTexture_Normal" suffix="9" />
+        <Object id="Textures\CapTexture_Specular" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber11.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="10" />
+        <Object id="Textures\CapTexture_Normal" suffix="10" />
+        <Object id="Textures\CapTexture_Specular" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber12.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="11" />
+        <Object id="Textures\CapTexture_Normal" suffix="11" />
+        <Object id="Textures\CapTexture_Specular" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber13.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="12" />
+        <Object id="Textures\CapTexture_Normal" suffix="12" />
+        <Object id="Textures\CapTexture_Specular" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber14.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="13" />
+        <Object id="Textures\CapTexture_Normal" suffix="13" />
+        <Object id="Textures\CapTexture_Specular" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_jobber15.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="14" />
+        <Object id="Textures\CapTexture_Normal" suffix="14" />
+        <Object id="Textures\CapTexture_Specular" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_kevin_nash_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_kevin_nash_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_kurt_angle_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_kurt_angle_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Kurt_Angle_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_kurt_angle_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_mike_tenay_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_physics.xxx" />
+    <Package path="tnagame\cookedxenon\chr_rhino_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_rhino_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Rhino_N" suffix="1" />
+        <Object id="Textures\Rhino_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_robert_roode_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_samoa_joe_cine.xxx" />
+    <Package path="tnagame\cookedxenon\chr_samoa_joe_model.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Samoa_Joe_L0_Brown_SPC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\chr_samoa_joe_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_scorpion_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_scott_steiner_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_scott_steiner_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_security01_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_security02_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_security03_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_security04_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_senshi_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_shark_boy_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_sonjay_dutt_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_sting_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_sting_props.xxx" />
+    <Package path="tnagame\cookedxenon\chr_suicide_model.xxx" />
+    <Package path="tnagame\cookedxenon\chr_tomko_model.xxx" />
+    <Package path="tnagame\cookedxenon\cin_abyss_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_afrothunder_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_ajstyles_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_alexshelley_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_bookert_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_brotherdevon_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_brotherray_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_chrisdaniels_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_chrissabin_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_christiancage_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_donwest_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_ericyoung_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_01_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_02_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_03_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_04_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_05_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_06_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_07_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_08_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_09_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_generic_10_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_hernandez_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_homicide_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_abyss.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_afrothunder.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_ajstyles.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_alexshelley.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_bookert.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_botherray.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_brotherdevon.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_cam.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_chriscage.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_chrisdaniels.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_chrissabin.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_donwest.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_ericyoung.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_01.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_02.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_03.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_04.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_05.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_06.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_07.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_08.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_09.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_generic_10.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_hernandez.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_homicide.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_jamesstorm.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_jaylethal.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_jeffjarret.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_kevinnash.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_kurtangle.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_miketenay.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_rhino.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_robertroode.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_samoajoe.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_scottstiener.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_senshi.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_sharkboy.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_sonjaydutt.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_sting.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_suicide.xxx" />
+    <Package path="tnagame\cookedxenon\cin_intro_tomko.xxx" />
+    <Package path="tnagame\cookedxenon\cin_jamesstorm_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_jaylethal_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_jeffjarret_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_kevinnash_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_kurtangle_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_miketenay_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_rhino_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_robertroode_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_samoajoe_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_scottstiener_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_senshi_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_sharkboy_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_sonjaydutt_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_sting_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_suicide_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cin_tomko_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\cine_abyss_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Env_TemplateIntro_02" suffix="3" />
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\Floor" suffix="3" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_ajstyles_fx.xxx" />
+    <Package path="tnagame\cookedxenon\cine_alex_shelly_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Bulletholes" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_armory_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_booker_t_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor2" suffix="1" />
+        <Object id="Textures\gradient_yg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_brother_devon_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor" suffix="1" />
+        <Object id="Textures\Floor2" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_brother_ray_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Beam_mask" suffix="1" />
+        <Object id="Textures\Beam_mask1" suffix="1" />
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor2" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_chris_daniels_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="4" />
+        <Object id="Textures\Floor" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_chris_sabin_fx.xxx" />
+    <Package path="tnagame\cookedxenon\cine_christian_cage_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_england_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_eric_young_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Ether_Sheet_Smoke01" suffix="1" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Smoke_tile01" suffix="1" />
+        <Object id="Textures\SparkBurst01_mask" suffix="1" />
+        <Object id="Textures\sparky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_freedom_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_01_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Floor2" suffix="2" />
+        <Object id="Textures\LightingFlashes" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_02_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="2" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Floor" suffix="5" />
+        <Object id="Textures\LightingFlashes" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_03_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="2" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_04_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="2" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Floor2" suffix="2" />
+        <Object id="Textures\gradient_bp" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_05_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\gradient_bp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_06_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_07_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Floor2" suffix="2" />
+        <Object id="Textures\gradient_bp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_08_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="2" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_09_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\gradient_redgrey" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_generic_10_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="2" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\LightingTexture7" suffix="1" />
+        <Object id="Textures\LightingTexture8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_hernandez_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor" suffix="1" />
+        <Object id="Textures\Floor2" suffix="3" />
+        <Object id="Textures\LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_homicide_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor" suffix="1" />
+        <Object id="Textures\Floor2" suffix="1" />
+        <Object id="Textures\LAX" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_james_storm_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor" suffix="1" />
+        <Object id="Textures\Floor2" suffix="1" />
+        <Object id="Textures\LightingFlashes" suffix="3" />
+        <Object id="Textures\LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_japan_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_jay_lethal_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_TemplateIntro_02" suffix="1" />
+        <Object id="Textures\Floor2" suffix="3" />
+        <Object id="Textures\gradient_bp" suffix="2" />
+        <Object id="Textures\gradient_gr" suffix="1" />
+        <Object id="Textures\LightingFlashes" suffix="4" />
+        <Object id="Textures\LightingTexture2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_jeff_jarrett_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Spark_wall_Gradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_kevin_nash_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_kurt_angle_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DustDevil_mask01" suffix="1" />
+        <Object id="Textures\LightingFlashes" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_orlando_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_rhino_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Ether_Sheet_Smoke01" suffix="1" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\Smoke_tile01" suffix="1" />
+        <Object id="Textures\SparkBurst01_mask" suffix="1" />
+        <Object id="Textures\sparky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_robert_roode_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_samoa_joe_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor2" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_scott_steiner_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Fx_Blueoverlay" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_shark_boy_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Fx_Blueoverlay" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_sonjay_dutt_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_sting_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LightingFlashes" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_tomko_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Ether_Sheet_Smoke01" suffix="1" />
+        <Object id="Textures\Firework_Burst_MOD" suffix="1" />
+        <Object id="Textures\LightingFlashes" suffix="2" />
+        <Object id="Textures\Smoke_tile01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\cine_vegas_fx.xxx" />
+    <Package path="tnagame\cookedxenon\combinedglobalcharacters.xxx" />
+    <Package path="tnagame\cookedxenon\combinedpersistentgameplay.xxx" />
+    <Package path="tnagame\cookedxenon\combinedstartup_int.xxx" />
+    <Package path="tnagame\cookedxenon\core.xxx" />
+    <Package path="tnagame\cookedxenon\credits.xxx" />
+    <Package path="tnagame\cookedxenon\default_camera.xxx" />
+    <Package path="tnagame\cookedxenon\engine.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_alpha.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_armyjp.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_armyskybox.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_armytrk.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_beams.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_celinglights.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Armory_MetalGirder" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_armory_concretewalls.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Armory_MetalGirder" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_armory_corrugatedroof.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_curtain_6sided.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_fence.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Armory_MetalFence" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_armory_fireextinguisher.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_flags.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_forklift.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_girder.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_grndoors.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_lightmap.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_mainflag.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_mainfloor.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_prop.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_speakers.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_trim.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_turnbuckle_pole.xxx" />
+    <Package path="tnagame\cookedxenon\env_armory_turnbuckle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Armory_Turnbuckle_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_armory_worldlighting.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LightingTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_backlot_airconditioner.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_beamlight.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_building.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_concrete_wall.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_door.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_gastank.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_generator.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_hallway.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_industrialcart.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_lightswitch.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_luxurycar.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_metalbuilding.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_motorcycle.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_pavement.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_pipes.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_pole.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_posters.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_roof.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_sidesupport.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_sidewalks3.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_skybox.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_speedbump.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_truck.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_van.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_weighstation.xxx" />
+    <Package path="tnagame\cookedxenon\env_backlot_welder.xxx" />
+    <Package path="tnagame\cookedxenon\env_collision.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_barricade.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_cinema_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_cinema_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_cinema_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_columns_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_ColumnBlk" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_columns.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_curtain.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_ent_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_entbase_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_Entbase_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_entbase.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_entrance_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_entrance_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_entrance.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_GoldMap_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_flag_cinematic2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_Flag_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_flag.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_floor.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_floormats.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_goldtrim_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_goldtrim.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_lightmaps_c.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_lightmaps_cinematic_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_marblepillars.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_pipes_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_pipes.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_ramp_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_stairs.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_Brushed_Metal_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_stand.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_stands.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_statue_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_tnasign_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_tnasign.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_turnbuckle.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_turnbucklepole.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_England_Brushed_Metal_D" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_england_walls.xxx" />
+    <Package path="tnagame\cookedxenon\env_england_worldlighting.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_beamlight_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_cinema_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_cinema_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_cinema_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_curtain_6sided.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_display_strips.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_drapes.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_eagle_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_entrance_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_entrance_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_face_ent_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_eagle.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_ent.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_flagwall.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_ramp_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Freedom_2_Faces_Ramp_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_sides_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_sidewall.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_faces_video.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_flag_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_floor.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_floormats.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_hangingdrape.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_ent_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_entrance.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_front_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Freedom_2_Heel_Front_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_front.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_ramp_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_sidewall.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_heel_swall_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Freedom_2_Heel_Sidewall_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_freedom_2_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_lightmap_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_lightmaps_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_metalbase_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_persist_cinema.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_stand.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_standsmain.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_statue.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_tnasign.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_turnbucklepole.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_turnbuckles.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_videoscreen.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_vidtow_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_2_worldlight_maps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor" suffix="1" />
+        <Object id="LightingTexture1" suffix="1" />
+        <Object id="LightingTexture2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_freedom_center_turnbuckle_post.xxx" />
+    <Package path="tnagame\cookedxenon\env_freedom_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_airduct.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_entrance_tunnel.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_light_rig.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_lightcan.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_microphone.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_rope.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_shadows.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_steelchair.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_tunnel_light.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_tv_video.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_xsymbol.xxx" />
+    <Package path="tnagame\cookedxenon\env_global_xtower.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Global_XTower_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_intro_armory_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_armory.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_england_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_england.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_freedom_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_freedom.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_japan_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_japan.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_mexico.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_orlando.xxx" />
+    <Package path="tnagame\cookedxenon\env_intro_vegas.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_cinema_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_cinema_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_cinema_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_concretepillar.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_curtain_6sided.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_curtain_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_curtainface_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_curtains.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_entrance_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_entrance_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_faceltrigs_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_faces_base.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_faces_lightpoles.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_faces_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_facesbase_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_faceslightpole_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_firepot.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_floormats.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heel_base.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heel_overhang.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heel_poster.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heel_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heelbase_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heelmetalbase_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heeloverhang_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heelposters_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_heelramp_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lightmaps_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lightmaps_c.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lightmaps_cinematic_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_mat_6sided.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_metal_base.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_neonround_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_neonround.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_neonwrestling_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_neonwrestling.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_persist_cinema.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_plasticstack_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_plasticstack.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_posters.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_round_butress.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_stand.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_stands.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_stone_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_stoneramp_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_tnasign_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_tnasign.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_tunnel.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_tunnelcinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_turnbuckle_post.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_turnbuckle.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_walkway_faces.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_walkwayfaces_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_2_worldlighting.xxx" />
+    <Package path="tnagame\cookedxenon\env_japan_light_rig.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Global_XTower_D" suffix="2" />
+        <Object id="Textures\Env_Global_XTower_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_mexico_2_apartment.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_apartments.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_bar.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_barricade.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_bench.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_buildingaddons.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_chicken.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_church.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_cornerbuildings.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_farbuildings.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_flags.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_foodcart.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_foodsmoke.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_foodstand.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_gauntlet.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_ground.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_hanginglights.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_lightmaps_c.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_market.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_plants.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_pole.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_posters.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_pots.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_poultrystore.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_sky.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_steelstairs.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_telephonepole.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_turnbuckle_posts.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_turnbuckles.xxx" />
+    <Package path="tnagame\cookedxenon\env_mexico_2_worldlighting.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_mexico_skybox.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_cinema_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_cinema_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_cinema_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_cinema_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_entrance_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_entrance_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_flash_fx.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_bench.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_boots.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_broom_guitar.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_concretefloor.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_hangar.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_lightmap_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_lightmaps_c.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_lockers.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_pipe.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_shelf.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_shirt.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_smalltrashcan.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_steelchair.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_tnasign.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_wall.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_locker_weights.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_stand.xxx" />
+    <Package path="tnagame\cookedxenon\env_orlando_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_startup.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_announcertable.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_announcerwall.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_backwall_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_backwall.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_barricade.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_beamlight_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_beamlight.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_cinematic_facefront.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_cinematic_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_cinematic_scaffold.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_curtain.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_entrance_faces.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_entrance_heels.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_entrfacade_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_entrtnasign_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_floor.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_floormat.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_hbase_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_lightcan.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_lightmaps_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_lightmaps_b.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_lightmaps_c.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Template_Floor_LM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_template_lightmaps_cinematic_a.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_mirrors_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_pillar.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_posters.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_ramp_heels.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_rampface.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_rampfaces_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_rampheel_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_scaffold.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_spots.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_stage_faces_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_stagefaces.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_stands.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Template_StandsBenches_LM_DELETE" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_template_steelstairs.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_structural_pieces.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_tnasign_faces.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_tunnel.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_turnbuckle_post.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_turnbuckle.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_tv_video.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_walls.xxx" />
+    <Package path="tnagame\cookedxenon\env_template_worldlighting.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor" suffix="3" />
+        <Object id="LightingTexture1" suffix="2" />
+        <Object id="LightingTexture2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_vegas_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_cinema_ceiling.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_cinema_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_crowd.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_curtain.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_entrance_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_entrance_face.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_entrance_heel.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_entrance.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_floatingreflect.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_floor.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_floormat.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_lightmaps_cinematic.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_lightmaps.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_lights_character.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_lights_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_mainstands.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Vegas_LogoWalls" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_vegas_mat.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_mirrorball.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Delete" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_vegas_persist_audio.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_persist_cinema.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_persist_lights.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_persist_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_props.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_ramp_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Vegas_RampTop_Cinematic" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_vegas_ramp.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_ring.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_stand.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_steelsteps.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_story.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_turnbuckle_post.xxx" />
+    <Package path="tnagame\cookedxenon\env_vegas_waterfall_cinematic.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Water_LiquidDrops01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_vegas_worldlight_maps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor" suffix="7" />
+        <Object id="Textures\LightingTexture2" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\env_world_lighting.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Floor" suffix="8" />
+        <Object id="Textures\LightingTexture1" suffix="1" />
+        <Object id="Textures\LightingTexture2" suffix="7" />
+        <Object id="Textures\LightingTexture7" suffix="2" />
+        <Object id="Textures\LightingTexture8" suffix="2" />
+        <Object id="Textures\Spot" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\fe_arena.xxx" />
+    <Package path="tnagame\cookedxenon\fe_background.xxx" />
+    <Package path="tnagame\cookedxenon\fe_cap.xxx" />
+    <Package path="tnagame\cookedxenon\fe_contchar1v1.xxx" />
+    <Package path="tnagame\cookedxenon\fe_contchar2v2.xxx" />
+    <Package path="tnagame\cookedxenon\fe_contcharffa.xxx" />
+    <Package path="tnagame\cookedxenon\fe_extras.xxx" />
+    <Package path="tnagame\cookedxenon\fe_largefonts.xxx" />
+    <Package path="tnagame\cookedxenon\fe_loader.xxx" />
+    <Package path="tnagame\cookedxenon\fe_medfonts.xxx" />
+    <Package path="tnagame\cookedxenon\fe_mm.xxx" />
+    <Package path="tnagame\cookedxenon\fe_online.xxx" />
+    <Package path="tnagame\cookedxenon\fe_options.xxx" />
+    <Package path="tnagame\cookedxenon\fe_popup.xxx" />
+    <Package path="tnagame\cookedxenon\fe_story.xxx" />
+    <Package path="tnagame\cookedxenon\fe_transition.xxx" />
+    <Package path="tnagame\cookedxenon\fi_arenas.xxx" />
+    <Package path="tnagame\cookedxenon\fi_btnprompts.xxx" />
+    <Package path="tnagame\cookedxenon\fi_largecharacters.xxx" />
+    <Package path="tnagame\cookedxenon\fi_rosterimages.xxx" />
+    <Package path="tnagame\cookedxenon\fi_storyhub.xxx" />
+    <Package path="tnagame\cookedxenon\fmc_guy04.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CapTexture_Diffuse" suffix="15" />
+        <Object id="Textures\CapTexture_Normal" suffix="15" />
+        <Object id="Textures\CapTexture_Specular" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\fmco1_bink.xxx" />
+    <Package path="tnagame\cookedxenon\fmodaudio.xxx" />
+    <Package path="tnagame\cookedxenon\front_end.xxx" />
+    <Package path="tnagame\cookedxenon\fx_bugs.xxx" />
+    <Package path="tnagame\cookedxenon\fx_cameraflash.xxx" />
+    <Package path="tnagame\cookedxenon\fx_global_fire.xxx" />
+    <Package path="tnagame\cookedxenon\fx_intro_pyro.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DustDevil_mask01" suffix="1" />
+        <Object id="Textures\Ether_Sheet_Smoke01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\fx_lights.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\FlashlightFlare" suffix="1" />
+        <Object id="Textures\LenseEffects_4Prong" suffix="1" />
+        <Object id="Textures\Star" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\fx_vegassplash.xxx" />
+    <Package path="tnagame\cookedxenon\game_credits.xxx" />
+    <Package path="tnagame\cookedxenon\gameframework.xxx" />
+    <Package path="tnagame\cookedxenon\ig_misc.xxx" />
+    <Package path="tnagame\cookedxenon\ig_pause.xxx" />
+    <Package path="tnagame\cookedxenon\ig_postgame.xxx" />
+    <Package path="tnagame\cookedxenon\intro_abyss_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_abyss_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_abyss_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_abyss.xxx" />
+    <Package path="tnagame\cookedxenon\intro_afrothunder_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_afrothunder_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_afrothunder_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_afrothunder.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ajstyles_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ajstyles_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ajstyles_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ajstyles.xxx" />
+    <Package path="tnagame\cookedxenon\intro_alexshelley_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_alexshelley_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_alexshelley_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_alexshelley.xxx" />
+    <Package path="tnagame\cookedxenon\intro_armory_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_armory_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_armory_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_armory_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_benny_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_benny_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_benny_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_benny.xxx" />
+    <Package path="tnagame\cookedxenon\intro_bookert_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_bookert_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_bookert_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_bookert.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherdevon_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherdevon_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherdevon_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherdevon.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherray_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherray_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherray_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_brotherray.xxx" />
+    <Package path="tnagame\cookedxenon\intro_character_persist.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrisdaniels_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrisdaniels_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrisdaniels_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrisdaniels.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrissabin_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrissabin_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrissabin_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_chrissabin.xxx" />
+    <Package path="tnagame\cookedxenon\intro_christiancage_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_christiancage_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_christiancage_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_christiancage.xxx" />
+    <Package path="tnagame\cookedxenon\intro_donwest_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_donwest_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_donwest_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_donwest.xxx" />
+    <Package path="tnagame\cookedxenon\intro_england_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_england_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_england_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_england_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_england_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ericyoung_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ericyoung_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ericyoung_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_ericyoung.xxx" />
+    <Package path="tnagame\cookedxenon\intro_freedom_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_freedom_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_freedom_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_freedom_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_freedom_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_01_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_01_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_01_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_01.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_02_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_02_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_02_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_02.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_03_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_03_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_03_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_03.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_04_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_04_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_04_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_04.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_05_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_05_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_05_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_05.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_06_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_06_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_06_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_06.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_07_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_07_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_07_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_07.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_08_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_08_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_08_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_08.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_09_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_09_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_09_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_09.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_10_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_10_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_10_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_generic_10.xxx" />
+    <Package path="tnagame\cookedxenon\intro_hernandez_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_hernandez_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_hernandez_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_hernandez.xxx" />
+    <Package path="tnagame\cookedxenon\intro_homicide_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_homicide_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_homicide_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_homicide.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jamesstorm_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jamesstorm_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jamesstorm_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jamesstorm.xxx" />
+    <Package path="tnagame\cookedxenon\intro_japan_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_japan_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_japan_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_japan_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_japan_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jaylethal_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jaylethal_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jaylethal_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jaylethal.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jeffjarret_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jeffjarret_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jeffjarret_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_jeffjarret.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kevinnash_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kevinnash_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kevinnash_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kevinnash.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kurtangle_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kurtangle_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kurtangle_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_kurtangle.xxx" />
+    <Package path="tnagame\cookedxenon\intro_lenny_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_lenny_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_lenny_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_lenny.xxx" />
+    <Package path="tnagame\cookedxenon\intro_mexico_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_mexico_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_mexico_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_mexico_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_miketenay_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_miketenay_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_miketenay_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_miketenay.xxx" />
+    <Package path="tnagame\cookedxenon\intro_orlando_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_orlando_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_orlando_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_orlando_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_orlando_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_rhino_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_rhino_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_rhino_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_rhino.xxx" />
+    <Package path="tnagame\cookedxenon\intro_robertroode_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_robertroode_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_robertroode_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_robertroode.xxx" />
+    <Package path="tnagame\cookedxenon\intro_samoajoe_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_samoajoe_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_samoajoe_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_samoajoe.xxx" />
+    <Package path="tnagame\cookedxenon\intro_scottstiener_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_scottstiener_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_scottstiener_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_scottstiener.xxx" />
+    <Package path="tnagame\cookedxenon\intro_senshi_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_senshi_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_senshi_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_senshi.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sharkboy_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sharkboy_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sharkboy_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sharkboy.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sonjaydutt_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sonjaydutt_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sonjaydutt_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sonjaydutt.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sting_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sting_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sting_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_sting.xxx" />
+    <Package path="tnagame\cookedxenon\intro_suicide_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_suicide_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_suicide_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_suicide.xxx" />
+    <Package path="tnagame\cookedxenon\intro_tomko_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_tomko_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_tomko_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_tomko.xxx" />
+    <Package path="tnagame\cookedxenon\intro_vegas_level_audio.xxx" />
+    <Package path="tnagame\cookedxenon\intro_vegas_level_fx.xxx" />
+    <Package path="tnagame\cookedxenon\intro_vegas_level.xxx" />
+    <Package path="tnagame\cookedxenon\intro_vegas_lightrig.xxx" />
+    <Package path="tnagame\cookedxenon\intro_vegas_persist_level.xxx" />
+    <Package path="tnagame\cookedxenon\loadcoachingtips.xxx" />
+    <Package path="tnagame\cookedxenon\loadstory01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="story10_1_I1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\loadstoryarmory.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorybacklot.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryengland.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryfreedom.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryhospital.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryhostage.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryjapan.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorylocker.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorymexico.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryorlando.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorytagteam.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorytravel.xxx" />
+    <Package path="tnagame\cookedxenon\loadstorytruck.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryultimatex.xxx" />
+    <Package path="tnagame\cookedxenon\loadstoryvegas.xxx" />
+    <Package path="tnagame\cookedxenon\mwyactors.xxx" />
+    <Package path="tnagame\cookedxenon\mwyactorutils.xxx" />
+    <Package path="tnagame\cookedxenon\mwyai.xxx" />
+    <Package path="tnagame\cookedxenon\mwyanimation.xxx" />
+    <Package path="tnagame\cookedxenon\mwyanimationresources.xxx" />
+    <Package path="tnagame\cookedxenon\mwycamera.xxx" />
+    <Package path="tnagame\cookedxenon\mwycinema.xxx" />
+    <Package path="tnagame\cookedxenon\mwyengine.xxx" />
+    <Package path="tnagame\cookedxenon\mwyfsm.xxx" />
+    <Package path="tnagame\cookedxenon\mwygraphics.xxx" />
+    <Package path="tnagame\cookedxenon\mwyinput.xxx" />
+    <Package path="tnagame\cookedxenon\mwyinputresources.xxx" />
+    <Package path="tnagame\cookedxenon\mwylogic.xxx" />
+    <Package path="tnagame\cookedxenon\mwymath.xxx" />
+    <Package path="tnagame\cookedxenon\mwymeshtree.xxx" />
+    <Package path="tnagame\cookedxenon\mwymovieplayer.xxx" />
+    <Package path="tnagame\cookedxenon\mwyphysics.xxx" />
+    <Package path="tnagame\cookedxenon\mwyproximity.xxx" />
+    <Package path="tnagame\cookedxenon\mwyreplay.xxx" />
+    <Package path="tnagame\cookedxenon\mwyscheduler.xxx" />
+    <Package path="tnagame\cookedxenon\mwysound.xxx" />
+    <Package path="tnagame\cookedxenon\mwyui.xxx" />
+    <Package path="tnagame\cookedxenon\mwyutilities.xxx" />
+    <Package path="tnagame\cookedxenon\mwyvisualization.xxx" />
+    <Package path="tnagame\cookedxenon\onlinesubsystemlive.xxx" />
+    <Package path="tnagame\cookedxenon\orlando_locker.xxx" />
+    <Package path="tnagame\cookedxenon\props_bat.xxx" />
+    <Package path="tnagame\cookedxenon\props_cellphone.xxx" />
+    <Package path="tnagame\cookedxenon\props_polaroid.xxx" />
+    <Package path="tnagame\cookedxenon\props_tamborine.xxx" />
+    <Package path="tnagame\cookedxenon\props_titlebelt_heavy.xxx" />
+    <Package path="tnagame\cookedxenon\replay_hud.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_apron.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_attacks_aerial.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_attacks_env.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_attacks_main.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_attacks_weapon.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_cinematics.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_facial.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_finishers.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_grabs.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_ground.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_idles.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_movement.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_reactions.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_submissions.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_taunts.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_tb_ropes.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_team.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_ultimatex.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_weapon_reactions.xxx" />
+    <Package path="tnagame\cookedxenon\scripts_weapons.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_crowd_japan.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_crowd_large.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_crowd_medium.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_crowd_small.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_tna_crowds.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio_loc_deu.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio_loc_fra.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio_loc_int.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio_loc_ita.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio_loc_spa.xxx" />
+    <Package path="tnagame\cookedxenon\sfx_universal_audio.xxx" />
+    <Package path="tnagame\cookedxenon\specialmovescam.xxx" />
+    <Package path="tnagame\cookedxenon\steelchair_weapon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Env_Global_steelchair_D" suffix="1" />
+        <Object id="Textures\Env_Global_steelchair_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\still_3ds_01_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_01_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_01.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_02_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_02_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_02.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_03_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_03_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_03.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_04_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_04_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_04.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_05_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_05_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_05.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_06_audio.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_06_fx.xxx" />
+    <Package path="tnagame\cookedxenon\still_3ds_06.xxx" />
+    <Package path="tnagame\cookedxenon\sting_bat.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_01.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_02.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_03_fx.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_03.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_04_fx.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_04.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_05_fx.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_05.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_06_fx.xxx" />
+    <Package path="tnagame\cookedxenon\stl_screen_3ds_06.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc02_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc02_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc02.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc02b_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc02b.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc03_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc03_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc03.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc04_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc04_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc04.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc05_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc05_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc05.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio_loc_deu.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio_loc_fra.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio_loc_int.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio_loc_ita.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio_loc_spa.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc06.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc07_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc07_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc07.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc08_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc08_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc08.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio_loc_deu.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio_loc_fra.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio_loc_int.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio_loc_ita.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio_loc_spa.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc09.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc10_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc10_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc10.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc11_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc11_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc11.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc12_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc12_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc12.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc13_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc13_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc13.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc14_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc14_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc14.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc15_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc15_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc15.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc16_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc16_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc16.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc17_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc17_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc17.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc18_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc18_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc18.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio_loc_deu.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio_loc_fra.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio_loc_int.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio_loc_ita.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio_loc_spa.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc19.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc20_audio.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc20_fx.xxx" />
+    <Package path="tnagame\cookedxenon\story_fmc20.xxx" />
+    <Package path="tnagame\cookedxenon\storymode.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc02.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc02b.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc03.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc04.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc05.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc06_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc06.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc07.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc08_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc08.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc09_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc09.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc10.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc11_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc11.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc12_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc12.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc13_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc13.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc14_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc14.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc15_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc15.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc16.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc17.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc18_fx.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flatfloor_story" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tnagame\cookedxenon\sty_mode_fmc18.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc19_fx.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc19.xxx" />
+    <Package path="tnagame\cookedxenon\sty_mode_fmc20.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ab_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ab_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ab_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_aj_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_aj_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_aj_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_at_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_at_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_at_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ax_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ax_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bd_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bd_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bd_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_be_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_be_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_br_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_br_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_br_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bt_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bt_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_bt_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cc_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cc_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cc_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cd_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cd_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cd_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cm_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cm_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cs_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cs_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_cs_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dw_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dw_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dw_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_armory_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_armory_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_freedomcenter_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_freedomcenter_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_freedomcenter_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_freedomcenter_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_freedomcenter_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_intro_generic_01_06.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_japan_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_japan_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_japan_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_japan_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_japan_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_london_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_london_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_london_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_london_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_london_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mexico_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mexico_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcas_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcas_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcas_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcas_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcatt_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcatt_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcatt_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fcatt_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_ffa_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_ffa_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fmm_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fmm_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_fmm_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_hm_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_hm_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_hm_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_mb_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tt_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tt_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tt_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tt_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tth_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tth_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tth_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tth_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_tth_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_us_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_us_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_us_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_us_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_ux_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_uxffa_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_uxffa_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_mty_uxffa_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_orlando_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_orlando_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_orlando_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_orlando_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_dx_vegas_06.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ey_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ey_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ey_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ho_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ho_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ho_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_hz_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_hz_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_hz_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jj_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jj_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jj_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jl_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jl_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_jl_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_js_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_js_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_js_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ka_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ka_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ka_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_kn_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_kn_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_kn_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_le_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_le_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_mt_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_mt_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_mt_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rh_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rh_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rh_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rr_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rr_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_rr_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sb_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sb_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sb_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sd_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sd_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sd_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_si_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_si_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_si_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sj_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sj_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_sj_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ss_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ss_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_ss_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_st_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_st_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_st_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_su_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_su_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_su_dx_intro_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_tk_dx_intro_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_cin_tk_dx_intro_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_01.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_still_3ds_06.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc02.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc03.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc04.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc05.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc06.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc07.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc08.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc09.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc10.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc11.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc12.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc13.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc14.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc15.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc16.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc17.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc18.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc19.xxx" />
+    <Package path="tnagame\cookedxenon\sub_story_fmc20.xxx" />
+    <Package path="tnagame\cookedxenon\template_abyss.xxx" />
+    <Package path="tnagame\cookedxenon\template_afro_thunder.xxx" />
+    <Package path="tnagame\cookedxenon\template_aj_styles.xxx" />
+    <Package path="tnagame\cookedxenon\template_alex_shelley.xxx" />
+    <Package path="tnagame\cookedxenon\template_booker_t.xxx" />
+    <Package path="tnagame\cookedxenon\template_brother_devon.xxx" />
+    <Package path="tnagame\cookedxenon\template_brother_ray.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_0.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_1.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_10.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_11.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_12.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_13.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_14.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_15.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_2.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_3.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_4.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_5.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_6.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_7.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_8.xxx" />
+    <Package path="tnagame\cookedxenon\template_cap_9.xxx" />
+    <Package path="tnagame\cookedxenon\template_chris_daniels.xxx" />
+    <Package path="tnagame\cookedxenon\template_chris_harris.xxx" />
+    <Package path="tnagame\cookedxenon\template_chris_sabin.xxx" />
+    <Package path="tnagame\cookedxenon\template_christian_cage.xxx" />
+    <Package path="tnagame\cookedxenon\template_don_west.xxx" />
+    <Package path="tnagame\cookedxenon\template_eric_young.xxx" />
+    <Package path="tnagame\cookedxenon\template_hernandez.xxx" />
+    <Package path="tnagame\cookedxenon\template_homicide.xxx" />
+    <Package path="tnagame\cookedxenon\template_james_storm.xxx" />
+    <Package path="tnagame\cookedxenon\template_jay_lethal.xxx" />
+    <Package path="tnagame\cookedxenon\template_jeff_jarrett.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber_klown1.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber_klown2.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber01.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber02.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber03.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber04.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber05.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber06.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber07.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber08.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber09.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber10.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber11.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber12.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber13.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber14.xxx" />
+    <Package path="tnagame\cookedxenon\template_jobber15.xxx" />
+    <Package path="tnagame\cookedxenon\template_kevin_nash.xxx" />
+    <Package path="tnagame\cookedxenon\template_kurt_angle.xxx" />
+    <Package path="tnagame\cookedxenon\template_rhino.xxx" />
+    <Package path="tnagame\cookedxenon\template_robert_roode.xxx" />
+    <Package path="tnagame\cookedxenon\template_samoa_joe.xxx" />
+    <Package path="tnagame\cookedxenon\template_scott_steiner.xxx" />
+    <Package path="tnagame\cookedxenon\template_senshi.xxx" />
+    <Package path="tnagame\cookedxenon\template_shark_boy.xxx" />
+    <Package path="tnagame\cookedxenon\template_sonjay_dutt.xxx" />
+    <Package path="tnagame\cookedxenon\template_sting.xxx" />
+    <Package path="tnagame\cookedxenon\template_suicide.xxx" />
+    <Package path="tnagame\cookedxenon\template_tomko.xxx" />
+    <Package path="tnagame\cookedxenon\tna_attacktype_triggers.xxx" />
+    <Package path="tnagame\cookedxenon\tna_buffs.xxx" />
+    <Package path="tnagame\cookedxenon\tna_damagesets.xxx" />
+    <Package path="tnagame\cookedxenon\tna_default_materials.xxx" />
+    <Package path="tnagame\cookedxenon\tna_puppet_attacktype_triggers.xxx" />
+    <Package path="tnagame\cookedxenon\tnabonemap.xxx" />
+    <Package path="tnagame\cookedxenon\tnabuffs.xxx" />
+    <Package path="tnagame\cookedxenon\tnagame.xxx" />
+    <Package path="tnagame\cookedxenon\tnaonline.xxx" />
+    <Package path="tnagame\cookedxenon\tnaplayerstatusicons.xxx" />
+    <Package path="tnagame\cookedxenon\tnaropesettings.xxx" />
+    <Package path="tnagame\cookedxenon\triggers_env_grabs.xxx" />
+    <Package path="tnagame\cookedxenon\triggers_facial.xxx" />
+    <Package path="tnagame\cookedxenon\triggers_grabs.xxx" />
+    <Package path="tnagame\cookedxenon\triggers_matchend.xxx" />
+    <Package path="tnagame\cookedxenon\triggers_submissions.xxx" />
+    <Package path="tnagame\cookedxenon\ultimate_x.xxx" />
+    <Package path="tnagame\cookedxenon\unlockables.xxx" />
+    <Package path="tnagame\cookedxenon\unrealscripttest.xxx" />
+    <Package path="tnagame\cookedxenon\vendor_startup.xxx" />
+    <Package path="tnagame\cookedxenon\vendors.xxx" />
+    <Package path="tnagame\cookedxenon\weapons.xxx" />
+  </Packages>
+</IdRemapping>

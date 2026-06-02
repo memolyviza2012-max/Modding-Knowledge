@@ -1,0 +1,101 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_aeroplane.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_beach.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_beachzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_circus.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_circuszero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_fairground.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_fairgroundzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_graveyard_zero.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\CloudsPixle" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_graveyard.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_hackerzero_loc_int.upk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_hackerzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_hospital.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Light" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_hospitalzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_hub2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Platform_Gradiant" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_introbeach.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_introforest.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CloudsPixle" suffix="1" />
+        <Object id="Textures\CloudsUnpixled" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_introgorge.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_introwaitingroom.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_kids.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_kidzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_librarylevel.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_libraryzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_mainframe.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\ServerLights" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_park.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Gradiant_Dot" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_parkzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_passwordroom.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_passwordroom2.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_passwordroom3.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_passwordroom4.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_planezero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_school.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_schoolzero.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_soulcloud_loc_int.upk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_soulcloud.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\MR_Floor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_startmenu.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_street.udk" />
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_streetzero.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\CloudsPixle" suffix="1" />
+        <Object id="Texture\Tombstone_Words" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\master reboot\build levels pc\mr_temple.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

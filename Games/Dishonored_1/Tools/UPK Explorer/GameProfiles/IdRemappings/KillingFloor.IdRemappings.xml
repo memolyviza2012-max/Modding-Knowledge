@@ -1,0 +1,1002 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\22patchmesh.ukx" />
+    <Package path="animations\foundry_anim.ukx" />
+    <Package path="animations\frightyard_skm.ukx" />
+    <Package path="animations\gear_anm.ukx" />
+    <Package path="animations\hillbillyhorror_anim.ukx" />
+    <Package path="animations\kf_freaks_trip_circus.ukx" />
+    <Package path="animations\kf_freaks_trip_halloween.ukx" />
+    <Package path="animations\kf_freaks_trip_xmas.ukx" />
+    <Package path="animations\kf_freaks_trip.ukx" />
+    <Package path="animations\kf_freaks2_trip_circus.ukx" />
+    <Package path="animations\kf_freaks2_trip_halloween.ukx" />
+    <Package path="animations\kf_freaks2_trip_xmas.ukx" />
+    <Package path="animations\kf_freaks2_trip.ukx" />
+    <Package path="animations\kf_gibbs_trip.ukx" />
+    <Package path="animations\kf_ijc_halloween_weps_2.ukx" />
+    <Package path="animations\kf_ijc_halloween_weps3.ukx" />
+    <Package path="animations\kf_ijc_summer_weps1.ukx" />
+    <Package path="animations\kf_mac10mpanims.ukx" />
+    <Package path="animations\kf_rachelc_anim.ukx" />
+    <Package path="animations\kf_ringmaster_trip.ukx" />
+    <Package path="animations\kf_robotdance.ukx" />
+    <Package path="animations\kf_soldier_trip.ukx" />
+    <Package path="animations\kf_weapons_trip.ukx" />
+    <Package path="animations\kf_weapons2_trip.ukx" />
+    <Package path="animations\kf_weapons3rd_ijc.ukx" />
+    <Package path="animations\kf_weapons3rd_trip.ukx" />
+    <Package path="animations\kf_weapons3rd2_ijc.ukx" />
+    <Package path="animations\kf_weapons3rd2_trip.ukx" />
+    <Package path="animations\kf_weapons3rd3_ijc.ukx" />
+    <Package path="animations\kf_weapons3rd3_trip.ukx" />
+    <Package path="animations\kf_weapons3rd4_trip.ukx" />
+    <Package path="animations\kf_weapons3rd5_trip.ukx" />
+    <Package path="animations\kf_weapons3rd6_trip.ukx" />
+    <Package path="animations\kf_wep_benelli.ukx" />
+    <Package path="animations\kf_wep_claymore.ukx" />
+    <Package path="animations\kf_wep_dual_mk23.ukx" />
+    <Package path="animations\kf_wep_dualrevolver.ukx" />
+    <Package path="animations\kf_wep_dwarf_axe.ukx" />
+    <Package path="animations\kf_wep_fal_acog.ukx" />
+    <Package path="animations\kf_wep_huskgun.ukx" />
+    <Package path="animations\kf_wep_kriss.ukx" />
+    <Package path="animations\kf_wep_ksg_shotgun.ukx" />
+    <Package path="animations\kf_wep_m4.ukx" />
+    <Package path="animations\kf_wep_m4m203.ukx" />
+    <Package path="animations\kf_wep_m7a3.ukx" />
+    <Package path="animations\kf_wep_m99_sniper.ukx" />
+    <Package path="animations\kf_wep_medicnade.ukx" />
+    <Package path="animations\kf_wep_mk23.ukx" />
+    <Package path="animations\kf_wep_mkb42.ukx" />
+    <Package path="animations\kf_wep_mp5.ukx" />
+    <Package path="animations\kf_wep_revolver.ukx" />
+    <Package path="animations\kf_wep_trenchgun.ukx" />
+    <Package path="animations\kf_wep_vlad9000.ukx" />
+    <Package path="animations\kf_wep_zedgun.ukx" />
+    <Package path="animations\kf_wp3rdcamo_trip.ukx" />
+    <Package path="animations\kf_wp3rdgold_trip.ukx" />
+    <Package path="animations\kfboss.ukx" />
+    <Package path="animations\kfcharactermodels.ukx" />
+    <Package path="animations\kfcharactersb.ukx" />
+    <Package path="animations\kfmapobjects.ukx" />
+    <Package path="animations\kfsoldiers.ukx" />
+    <Package path="animations\kfvehiclemodels.ukx" />
+    <Package path="animations\kfweaponmodels.ukx" />
+    <Package path="animations\patch2anims.ukx" />
+    <Package path="animations\pier_anim.ukx" />
+    <Package path="animations\yahct_anim.ukx" />
+    <Package path="maps\entry.rom" />
+    <Package path="maps\kf-abusementpark.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TerrianLayers\Grass" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-aperture.rom" />
+    <Package path="maps\kf-bedlam.rom" />
+    <Package path="maps\kf-biohazard.rom" />
+    <Package path="maps\kf-bioticslab.rom" />
+    <Package path="maps\kf-clandestine.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\TR_clouds_DM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-crash.rom" />
+    <Package path="maps\kf-departed.rom" />
+    <Package path="maps\kf-evilsantaslair.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrian\Fields" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-farm.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Coronas\Corona2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-filthscross.rom" />
+    <Package path="maps\kf-forgotten.rom" />
+    <Package path="maps\kf-foundry.rom" />
+    <Package path="maps\kf-frightyard.rom" />
+    <Package path="maps\kf-hell.rom" />
+    <Package path="maps\kf-hellride.rom" />
+    <Package path="maps\kf-hillbillyhorror.rom" />
+    <Package path="maps\kf-hospitalhorrors.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Doors\roofdoor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-icebreaker.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="waterworkspreview_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-icecave.rom" />
+    <Package path="maps\kf-manor.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrian\Fields" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-menu.rom" />
+    <Package path="maps\kf-moonbase.rom" />
+    <Package path="maps\kf-mountainpass.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Main_DecoFoliage" suffix="1" />
+        <Object id="Main_DecoGrass" suffix="1" />
+        <Object id="Main_Grass" suffix="1" />
+        <Object id="Main_Gravel" suffix="1" />
+        <Object id="Main_Rock" suffix="1" />
+        <Object id="Terrain_Main" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-offices.rom" />
+    <Package path="maps\kf-sirensbelch.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrian\Fields" suffix="3" />
+        <Object id="TerrianLayers\Grass" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-steamland.rom" />
+    <Package path="maps\kf-stronghold.rom" />
+    <Package path="maps\kf-suburbia.rom" />
+    <Package path="maps\kf-thrillschills.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Coronas\DT_coronaBulb" suffix="1" />
+        <Object id="things\DevZoning" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-transit.rom" />
+    <Package path="maps\kf-waterworks.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrian\Fields" suffix="4" />
+        <Object id="waterworkspreview_2" suffix="1" />
+        <Object id="waterworkspreview_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kf-westlondon.rom" />
+    <Package path="maps\kf-wyre.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticShaders\ContainerDetail" suffix="1" />
+        <Object id="Terrain\Grassdeco_used" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\kfintro.rom" />
+    <Package path="maps\kfo-frightyard.rom" />
+    <Package path="maps\kfo-steamland.rom" />
+    <Package path="maps\kfo-transit.rom" />
+    <Package path="sounds\abusementparksnd.uax" />
+    <Package path="sounds\amb_animals.uax" />
+    <Package path="sounds\amb_constructions.uax" />
+    <Package path="sounds\amb_constructionstwo.uax" />
+    <Package path="sounds\amb_destruction.uax" />
+    <Package path="sounds\amb_destruction2.uax" />
+    <Package path="sounds\amb_vehicles.uax" />
+    <Package path="sounds\amb_weather.uax" />
+    <Package path="sounds\amb_weather01.uax" />
+    <Package path="sounds\amb_weather02.uax" />
+    <Package path="sounds\amboutside.uax" />
+    <Package path="sounds\artillery.uax" />
+    <Package path="sounds\freakcircus_snd_two.uax" />
+    <Package path="sounds\frightyard_snd.uax" />
+    <Package path="sounds\hellride_snd.uax" />
+    <Package path="sounds\hillbillyhorrorsnd.uax" />
+    <Package path="sounds\inf_player.uax" />
+    <Package path="sounds\inf_weapons_foley_3rd.uax" />
+    <Package path="sounds\inf_weapons_foley.uax" />
+    <Package path="sounds\inf_weapons_foley2.uax" />
+    <Package path="sounds\inf_weapons.uax" />
+    <Package path="sounds\inf_weaponstwo.uax" />
+    <Package path="sounds\kf_9mmsnd.uax" />
+    <Package path="sounds\kf_aa12snd.uax" />
+    <Package path="sounds\kf_ak47snd.uax" />
+    <Package path="sounds\kf_axesnd.uax" />
+    <Package path="sounds\kf_basebloat_circus.uax" />
+    <Package path="sounds\kf_basebloat_halloween.uax" />
+    <Package path="sounds\kf_basebloat_xmas.uax" />
+    <Package path="sounds\kf_basebloat.uax" />
+    <Package path="sounds\kf_baseclot_circus.uax" />
+    <Package path="sounds\kf_baseclot_halloween.uax" />
+    <Package path="sounds\kf_baseclot_xmas.uax" />
+    <Package path="sounds\kf_baseclot.uax" />
+    <Package path="sounds\kf_basecrawler_circus.uax" />
+    <Package path="sounds\kf_basecrawler_halloween.uax" />
+    <Package path="sounds\kf_basecrawler_xmas.uax" />
+    <Package path="sounds\kf_basecrawler.uax" />
+    <Package path="sounds\kf_basefleshpound_circus.uax" />
+    <Package path="sounds\kf_basefleshpound_halloween.uax" />
+    <Package path="sounds\kf_basefleshpound_xmas.uax" />
+    <Package path="sounds\kf_basefleshpound.uax" />
+    <Package path="sounds\kf_basegorefast_circus.uax" />
+    <Package path="sounds\kf_basegorefast_halloween.uax" />
+    <Package path="sounds\kf_basegorefast_xmas.uax" />
+    <Package path="sounds\kf_basegorefast.uax" />
+    <Package path="sounds\kf_basehusk_circus.uax" />
+    <Package path="sounds\kf_basehusk_halloween.uax" />
+    <Package path="sounds\kf_basehusk_xmas.uax" />
+    <Package path="sounds\kf_basehusk.uax" />
+    <Package path="sounds\kf_basepatriarch_circus.uax" />
+    <Package path="sounds\kf_basepatriarch_halloween.uax" />
+    <Package path="sounds\kf_basepatriarch_xmas.uax" />
+    <Package path="sounds\kf_basepatriarch.uax" />
+    <Package path="sounds\kf_basepatriarchtwo.uax" />
+    <Package path="sounds\kf_basescrake_circus.uax" />
+    <Package path="sounds\kf_basescrake_halloween.uax" />
+    <Package path="sounds\kf_basescrake_xmas.uax" />
+    <Package path="sounds\kf_basescrake.uax" />
+    <Package path="sounds\kf_basesiren_circus.uax" />
+    <Package path="sounds\kf_basesiren_halloween.uax" />
+    <Package path="sounds\kf_basesiren_xmas.uax" />
+    <Package path="sounds\kf_basesiren.uax" />
+    <Package path="sounds\kf_basestalker_circus.uax" />
+    <Package path="sounds\kf_basestalker_halloween.uax" />
+    <Package path="sounds\kf_basestalker_xmas.uax" />
+    <Package path="sounds\kf_basestalker.uax" />
+    <Package path="sounds\kf_bimpactsnd.uax" />
+    <Package path="sounds\kf_bullpupsnd.uax" />
+    <Package path="sounds\kf_chainsawsnd_xmas.uax" />
+    <Package path="sounds\kf_chainsawsnd.uax" />
+    <Package path="sounds\kf_claymoresnd.uax" />
+    <Package path="sounds\kf_darvoice.uax" />
+    <Package path="sounds\kf_doublesgsnd.uax" />
+    <Package path="sounds\kf_dwarfaxesnd.uax" />
+    <Package path="sounds\kf_enemiesfinalsnd_circus.uax" />
+    <Package path="sounds\kf_enemiesfinalsnd_halloween.uax" />
+    <Package path="sounds\kf_enemiesfinalsnd_xmas.uax" />
+    <Package path="sounds\kf_enemiesfinalsnd.uax" />
+    <Package path="sounds\kf_enemyglobalsnd.uax" />
+    <Package path="sounds\kf_enemyglobalsndtwo.uax" />
+    <Package path="sounds\kf_envambientsnd.uax" />
+    <Package path="sounds\kf_envambientsnd2.uax" />
+    <Package path="sounds\kf_femalevoiceone.uax" />
+    <Package path="sounds\kf_flamethrowersnd.uax" />
+    <Package path="sounds\kf_fnfalsnd.uax" />
+    <Package path="sounds\kf_foundrysnd.uax" />
+    <Package path="sounds\kf_fy_blowerthrowersnd.uax" />
+    <Package path="sounds\kf_fy_sealsquealsnd.uax" />
+    <Package path="sounds\kf_fy_seekersixsnd.uax" />
+    <Package path="sounds\kf_fy_zedv2snd.uax" />
+    <Package path="sounds\kf_grenadesnd.uax" />
+    <Package path="sounds\kf_handcannonsnd.uax" />
+    <Package path="sounds\kf_huskgunsnd.uax" />
+    <Package path="sounds\kf_ijc_halloweensnd.uax" />
+    <Package path="sounds\kf_indooramb1.uax" />
+    <Package path="sounds\kf_interfacesnd.uax" />
+    <Package path="sounds\kf_inventorysnd.uax" />
+    <Package path="sounds\kf_jumpsnd.uax" />
+    <Package path="sounds\kf_katanasnd.uax" />
+    <Package path="sounds\kf_knifesnd.uax" />
+    <Package path="sounds\kf_krisssnd.uax" />
+    <Package path="sounds\kf_ksgsnd.uax" />
+    <Package path="sounds\kf_lawsnd.uax" />
+    <Package path="sounds\kf_m14ebrsnd.uax" />
+    <Package path="sounds\kf_m32snd.uax" />
+    <Package path="sounds\kf_m4riflesnd.uax" />
+    <Package path="sounds\kf_m4shotgunsnd.uax" />
+    <Package path="sounds\kf_m79snd.uax" />
+    <Package path="sounds\kf_m7a3snd.uax" />
+    <Package path="sounds\kf_m99snd.uax" />
+    <Package path="sounds\kf_mac10mpsnd.uax" />
+    <Package path="sounds\kf_machetesnd.uax" />
+    <Package path="sounds\kf_malevoiceone.uax" />
+    <Package path="sounds\kf_malevoicetwo.uax" />
+    <Package path="sounds\kf_medicgrenadesnd.uax" />
+    <Package path="sounds\kf_menusnd.uax" />
+    <Package path="sounds\kf_mk23snd.uax" />
+    <Package path="sounds\kf_mkb42snd.uax" />
+    <Package path="sounds\kf_mp5snd.uax" />
+    <Package path="sounds\kf_mp7snd.uax" />
+    <Package path="sounds\kf_mumblevoice.uax" />
+    <Package path="sounds\kf_nailshotgun.uax" />
+    <Package path="sounds\kf_outdooramb1.uax" />
+    <Package path="sounds\kf_pipesnd.uax" />
+    <Package path="sounds\kf_playerglobalsnd.uax" />
+    <Package path="sounds\kf_playerm1voc.uax" />
+    <Package path="sounds\kf_pumpsgsnd.uax" />
+    <Package path="sounds\kf_revolversnd.uax" />
+    <Package path="sounds\kf_riflesnd.uax" />
+    <Package path="sounds\kf_rs_thompsonsnd.uax" />
+    <Package path="sounds\kf_scarsnd.uax" />
+    <Package path="sounds\kf_shotgundragonsbreathsnd.uax" />
+    <Package path="sounds\kf_sp_longmusketsnd.uax" />
+    <Package path="sounds\kf_sp_orcasnd.uax" />
+    <Package path="sounds\kf_sp_thompsonsnd.uax" />
+    <Package path="sounds\kf_sp_zedthrowersnd.uax" />
+    <Package path="sounds\kf_swansong_snd.uax" />
+    <Package path="sounds\kf_trader.uax" />
+    <Package path="sounds\kf_transit_dialog_snd.uax" />
+    <Package path="sounds\kf_xbowsnd.uax" />
+    <Package path="sounds\kf_zedgunsnd.uax" />
+    <Package path="sounds\kfambientsound.uax" />
+    <Package path="sounds\kfpawndamagesound.uax" />
+    <Package path="sounds\kfplayersound.uax" />
+    <Package path="sounds\kfportal_snd.uax" />
+    <Package path="sounds\kfweaponsound.uax" />
+    <Package path="sounds\miscsounds.uax" />
+    <Package path="sounds\patchsounds.uax" />
+    <Package path="sounds\projectilesounds.uax" />
+    <Package path="sounds\romenusounds.uax" />
+    <Package path="sounds\steamland_snd.uax" />
+    <Package path="sounds\summerboardwalkdialogue.uax" />
+    <Package path="sounds\vehicle_engines.uax" />
+    <Package path="sounds\vehicle_weapons.uax" />
+    <Package path="sounds\woodbreakfx.uax" />
+    <Package path="staticmeshes\22patch.usx" />
+    <Package path="staticmeshes\asylum_sm.usx" />
+    <Package path="staticmeshes\baksanvalleysm.usx" />
+    <Package path="staticmeshes\civilvehicles_sm.usx" />
+    <Package path="staticmeshes\debugobjects.usx" />
+    <Package path="staticmeshes\departedstatics.usx" />
+    <Package path="staticmeshes\detailsm.usx" />
+    <Package path="staticmeshes\effectssm.usx" />
+    <Package path="staticmeshes\fallenherossm.usx" />
+    <Package path="staticmeshes\filthscross_sm.usx" />
+    <Package path="staticmeshes\foundry_sm.usx" />
+    <Package path="staticmeshes\freakcircus_sm_one.usx" />
+    <Package path="staticmeshes\freakcircus_sm_two.usx" />
+    <Package path="staticmeshes\frightyard_sm.usx" />
+    <Package path="staticmeshes\frightyard2_sm.usx" />
+    <Package path="staticmeshes\furnituresm.usx" />
+    <Package path="staticmeshes\gkstaticmeshes.usx" />
+    <Package path="staticmeshes\hedgehogsm.usx" />
+    <Package path="staticmeshes\hellride_sm.usx" />
+    <Package path="staticmeshes\hemispheressm.usx" />
+    <Package path="staticmeshes\hemispheressm2.usx" />
+    <Package path="staticmeshes\hillbillyhorror_sm.usx" />
+    <Package path="staticmeshes\icebreaker_sm.usx" />
+    <Package path="staticmeshes\ijcweaponpackstaticsw2.usx" />
+    <Package path="staticmeshes\industrysm.usx" />
+    <Package path="staticmeshes\industrysm2.usx" />
+    <Package path="staticmeshes\kesselsm.usx" />
+    <Package path="staticmeshes\kf_enginetest.usx" />
+    <Package path="staticmeshes\kf_fx_char_sm.usx" />
+    <Package path="staticmeshes\kf_generic_sm.usx" />
+    <Package path="staticmeshes\kf_gore_trip_sm_circus.usx" />
+    <Package path="staticmeshes\kf_gore_trip_sm_halloween.usx" />
+    <Package path="staticmeshes\kf_gore_trip_sm_two.usx" />
+    <Package path="staticmeshes\kf_gore_trip_sm_xmas.usx" />
+    <Package path="staticmeshes\kf_gore_trip_sm.usx" />
+    <Package path="staticmeshes\kf_icetunnel_sm.usx" />
+    <Package path="staticmeshes\kf_ijc_halloween_weps.usx" />
+    <Package path="staticmeshes\kf_ijc_halloween_weps2.usx" />
+    <Package path="staticmeshes\kf_ijc_summer_weps.usx" />
+    <Package path="staticmeshes\kf_pickups_trip.usx" />
+    <Package path="staticmeshes\kf_pickups2_trip.usx" />
+    <Package path="staticmeshes\kf_pickups3_trip.usx" />
+    <Package path="staticmeshes\kf_pickups4_trip.usx" />
+    <Package path="staticmeshes\kf_pickups5_trip.usx" />
+    <Package path="staticmeshes\kf_pickups6_trip.usx" />
+    <Package path="staticmeshes\kf_pickupscamo_trip.usx" />
+    <Package path="staticmeshes\kf_pickupsgold_trip.usx" />
+    <Package path="staticmeshes\kf_sirensbelch_sm.usx" />
+    <Package path="staticmeshes\kf_swansong_sm.usx" />
+    <Package path="staticmeshes\kfmuzzleflashes.usx" />
+    <Package path="staticmeshes\kfportal_sm.usx" />
+    <Package path="staticmeshes\killingfloorlabstatics.usx" />
+    <Package path="staticmeshes\killingfloormanorstatics.usx" />
+    <Package path="staticmeshes\killingfloorstatics.usx" />
+    <Package path="staticmeshes\konigsplatzsm.usx" />
+    <Package path="staticmeshes\krasnyism.usx" />
+    <Package path="staticmeshes\krasnyism2.usx" />
+    <Package path="staticmeshes\landscapesm.usx" />
+    <Package path="staticmeshes\levelspecificsm.usx" />
+    <Package path="staticmeshes\levelspecificsm2.usx" />
+    <Package path="staticmeshes\menustatics.usx" />
+    <Package path="staticmeshes\moonbase_sm_two.usx" />
+    <Package path="staticmeshes\moonbase_sm.usx" />
+    <Package path="staticmeshes\mountainpass_sm.usx" />
+    <Package path="staticmeshes\mrsfoster_dlc_gore_sm.usx" />
+    <Package path="staticmeshes\mrsfoster_steampunk_dlc_gore_sm.usx" />
+    <Package path="staticmeshes\newpatchsm.usx" />
+    <Package path="staticmeshes\officestatics.usx" />
+    <Package path="staticmeshes\patchstatics.usx" />
+    <Package path="staticmeshes\pier_sm.usx" />
+    <Package path="staticmeshes\potato_s.usx" />
+    <Package path="staticmeshes\props_objectivemode.usx" />
+    <Package path="staticmeshes\religioussm.usx" />
+    <Package path="staticmeshes\ruralsm.usx" />
+    <Package path="staticmeshes\specialeffectssm.usx" />
+    <Package path="staticmeshes\stronghold_sm.usx" />
+    <Package path="staticmeshes\vegetationsm_two.usx" />
+    <Package path="staticmeshes\vegetationsm.usx" />
+    <Package path="staticmeshes\waterworks_sm.usx" />
+    <Package path="staticmeshes\workshop_sm.usx" />
+    <Package path="staticmeshes\wyrestatics.usx" />
+    <Package path="staticmeshes\zed_fx_sm.usx" />
+    <Package path="staticmeshes\zed_pieces.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\frightscript.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\goodkarma.u" />
+    <Package path="system\gui2k4.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\kfchar.u" />
+    <Package path="system\kfgui.u" />
+    <Package path="system\kfmod.u" />
+    <Package path="system\kfmutators.u" />
+    <Package path="system\kfstorygame.u" />
+    <Package path="system\kfstoryui.u" />
+    <Package path="system\old2k4.u" />
+    <Package path="system\roeffects.u" />
+    <Package path="system\roengine.u" />
+    <Package path="system\rointerface.u" />
+    <Package path="system\sideshowscript.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\unrealgame.u" />
+    <Package path="system\utv2004c.u" />
+    <Package path="system\utv2004s.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\xadmin.u" />
+    <Package path="system\xgame.u" />
+    <Package path="system\xinterface.u" />
+    <Package path="system\xvoting.u" />
+    <Package path="system\xwebadmin.u" />
+    <Package path="textures\20credits.utx" />
+    <Package path="textures\22chartex.utx" />
+    <Package path="textures\25tex.utx" />
+    <Package path="textures\2k4menus.utx" />
+    <Package path="textures\architecture_t.utx" />
+    <Package path="textures\architecture_t2.utx" />
+    <Package path="textures\architecture_t3.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Facades\Windows_1475D" suffix="1" />
+        <Object id="Plaster\Plaster_1736" suffix="1" />
+        <Object id="Plaster\Plaster_2088" suffix="1" />
+        <Object id="Rooftops\concreteroof" suffix="1" />
+        <Object id="Rooftops\RICH-rooftiles_A" suffix="1" />
+        <Object id="Wood\M_WOODFLOORING1" suffix="1" />
+        <Object id="Wood\M_WOODFLOORING4" suffix="1" />
+        <Object id="Wood\M_WOODSIDING5" suffix="1" />
+        <Object id="Wood\RICH-woodsidinggreen" suffix="1" />
+        <Object id="Wood\Wood_0969" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\asylum_t.utx" />
+    <Package path="textures\baksanvalley_t.utx" />
+    <Package path="textures\cellexample.utx" />
+    <Package path="textures\characters_tex.utx" />
+    <Package path="textures\civilvehicles_smt.utx" />
+    <Package path="textures\crash_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="myLevel\Splatter0008_S" suffix="1" />
+        <Object id="Ownage\danger" suffix="1" />
+        <Object id="Ownage\k&amp;m" suffix="1" />
+        <Object id="Snow0006_M" suffix="1" />
+        <Object id="StaticShaders\ContainerDetail" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\danzig_t.utx" />
+    <Package path="textures\danzig_t2.utx" />
+    <Package path="textures\danzig_t3.utx" />
+    <Package path="textures\departedtextures.utx" />
+    <Package path="textures\detailsmt.utx" />
+    <Package path="textures\detailtextures_t.utx" />
+    <Package path="textures\dreamtex.utx" />
+    <Package path="textures\effects_tex_steampunk.utx" />
+    <Package path="textures\effects_tex.utx" />
+    <Package path="textures\fallenheros2_t.utx" />
+    <Package path="textures\filthscross_t.utx" />
+    <Package path="textures\foundry_t.utx" />
+    <Package path="textures\freakcircus_t_one.utx" />
+    <Package path="textures\freakcircus_t_two.utx" />
+    <Package path="textures\frightyard_t.utx" />
+    <Package path="textures\frightyard2_t.utx" />
+    <Package path="textures\furnituresmt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Kitchen\Bowl" suffix="1" />
+        <Object id="Kitchen\Cup" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\g15lcd.utx" />
+    <Package path="textures\g15lcdfonts.utx" />
+    <Package path="textures\gear_tex.utx" />
+    <Package path="textures\gktextures.utx" />
+    <Package path="textures\hedgehog_t.utx" />
+    <Package path="textures\hellride_t.utx" />
+    <Package path="textures\hemispheres_smt.utx" />
+    <Package path="textures\hemispheres_smt2.utx" />
+    <Package path="textures\hillbillyhorror_t.utx" />
+    <Package path="textures\icebreaker_t.utx" />
+    <Package path="textures\ijcfonts.utx" />
+    <Package path="textures\industrysmt.utx" />
+    <Package path="textures\industrysmt2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Crates\Crate03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\interfaceart_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cursors\Pointer" suffix="1" />
+        <Object id="Cursors\Resize" suffix="1" />
+        <Object id="Cursors\ResizeAll" suffix="1" />
+        <Object id="Cursors\ResizeHorz" suffix="1" />
+        <Object id="Cursors\ResizeNWSE" suffix="1" />
+        <Object id="Cursors\ResizeSWNE" suffix="1" />
+        <Object id="Menu\EditBoxWatched" suffix="1" />
+        <Object id="Menu\WhiteBorder" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\interfaceart2_tex.utx" />
+    <Package path="textures\interfacecontent.utx" />
+    <Package path="textures\kessel_t.utx" />
+    <Package path="textures\kf_dlc.utx" />
+    <Package path="textures\kf_fx_char_t.utx" />
+    <Package path="textures\kf_fx_trip_t.utx" />
+    <Package path="textures\kf_generic_t.utx" />
+    <Package path="textures\kf_gore_trip_t_two.utx" />
+    <Package path="textures\kf_icetunnel_t.utx" />
+    <Package path="textures\kf_ijc_halloween_weapons_3rd.utx" />
+    <Package path="textures\kf_ijc_halloween_weapons.utx" />
+    <Package path="textures\kf_ijc_halloween_weapons2_3rd.utx" />
+    <Package path="textures\kf_ijc_halloween_weapons2.utx" />
+    <Package path="textures\kf_ijc_hud.utx" />
+    <Package path="textures\kf_ijc_summer_weapons_3rd.utx" />
+    <Package path="textures\kf_ijc_summer_weapons.utx" />
+    <Package path="textures\kf_interfaceart_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\button_pressed" suffix="1" />
+        <Object id="Menu\DownMark" suffix="1" />
+        <Object id="Menu\LeftMark" suffix="1" />
+        <Object id="Menu\RightMark" suffix="1" />
+        <Object id="Menu\UpMark" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kf_mac10mptex.utx" />
+    <Package path="textures\kf_rachelc_mat.utx" />
+    <Package path="textures\kf_sirensbelch_t.utx" />
+    <Package path="textures\kf_soldier_trip_t.utx" />
+    <Package path="textures\kf_soldier11_trip_t.utx" />
+    <Package path="textures\kf_soldier12_trip_t.utx" />
+    <Package path="textures\kf_soldier13_trip_t.utx" />
+    <Package path="textures\kf_soldier2_trip_t.utx" />
+    <Package path="textures\kf_soldier3_trip_t.utx" />
+    <Package path="textures\kf_soldier4_trip_t.utx" />
+    <Package path="textures\kf_soldier5_trip_t.utx" />
+    <Package path="textures\kf_soldier6_trip_t.utx" />
+    <Package path="textures\kf_soldiermagmaneon_trip_t.utx" />
+    <Package path="textures\kf_solider10_trip_t.utx" />
+    <Package path="textures\kf_solider7_trip_t.utx" />
+    <Package path="textures\kf_solider8_trip_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Steampunk_Support_Specialist\Steampunk_Support_Specialist_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kf_solider9_trip_t.utx" />
+    <Package path="textures\kf_specimens_trip_circus_t.utx" />
+    <Package path="textures\kf_specimens_trip_halloween_t.utx" />
+    <Package path="textures\kf_specimens_trip_t_two.utx" />
+    <Package path="textures\kf_specimens_trip_t.utx" />
+    <Package path="textures\kf_specimens_trip_xmas_t_two.utx" />
+    <Package path="textures\kf_specimens_trip_xmas_t.utx" />
+    <Package path="textures\kf_swansong_tex.utx" />
+    <Package path="textures\kf_weapons_camo_trip_t.utx" />
+    <Package path="textures\kf_weapons_gold_t.utx" />
+    <Package path="textures\kf_weapons_neon_trip_t.utx" />
+    <Package path="textures\kf_weapons_trip_t.utx" />
+    <Package path="textures\kf_weapons2_trip_t.utx" />
+    <Package path="textures\kf_weapons3_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd_camo_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd_gold_t.utx" />
+    <Package path="textures\kf_weapons3rd_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd2_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd3_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd4_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd5_trip_t.utx" />
+    <Package path="textures\kf_weapons3rd6_trip_t.utx" />
+    <Package path="textures\kf_weapons4_trip_t.utx" />
+    <Package path="textures\kf_weapons5_scopes_trip_t.utx" />
+    <Package path="textures\kf_weapons5_trip_t.utx" />
+    <Package path="textures\kf_weapons6_trip_t.utx" />
+    <Package path="textures\kf_weapons7_trip_t.utx" />
+    <Package path="textures\kf_weapons8_trip_t.utx" />
+    <Package path="textures\kf_weapons9_trip_t.utx" />
+    <Package path="textures\kfcharacters.utx" />
+    <Package path="textures\kffonts.utx" />
+    <Package path="textures\kfgui.utx" />
+    <Package path="textures\kfinterfacecontent.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Logos\SymbolFill" suffix="1" />
+        <Object id="Logos\SymbolShader" suffix="1" />
+        <Object id="LogoSmallKF" suffix="1" />
+        <Object id="Menu\BorderBoxD" suffix="1" />
+        <Object id="Menu\StatusBarInner" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kfkillmenow.utx" />
+    <Package path="textures\kflevelpreviews.utx" />
+    <Package path="textures\kfmapendtextures.utx" />
+    <Package path="textures\kfmaterials.utx" />
+    <Package path="textures\kfpatch2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GunPoundSkin" suffix="1" />
+        <Object id="JimBadge" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kfportal_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="grey192" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kfportraits.utx" />
+    <Package path="textures\kfstorygame_tex.utx" />
+    <Package path="textures\kfthumbs.utx" />
+    <Package path="textures\kfurbanskin.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gasmask20Skin" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kfx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BloodSplat1" suffix="1" />
+        <Object id="BloodSplat2" suffix="1" />
+        <Object id="BloodSplat3" suffix="1" />
+        <Object id="VomitSplash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\kfzed_fx_t.utx" />
+    <Package path="textures\killingfloor2hud.utx" />
+    <Package path="textures\killingfloorhud_halloween.utx" />
+    <Package path="textures\killingfloorhud_summer.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Achievements\Achievement_0" suffix="1" />
+        <Object id="Achievements\Achievement_1" suffix="1" />
+        <Object id="Achievements\Achievement_10" suffix="1" />
+        <Object id="Achievements\Achievement_11" suffix="1" />
+        <Object id="Achievements\Achievement_12" suffix="1" />
+        <Object id="Achievements\Achievement_13" suffix="1" />
+        <Object id="Achievements\Achievement_14" suffix="1" />
+        <Object id="Achievements\Achievement_15" suffix="1" />
+        <Object id="Achievements\Achievement_16" suffix="1" />
+        <Object id="Achievements\Achievement_17" suffix="1" />
+        <Object id="Achievements\Achievement_18" suffix="1" />
+        <Object id="Achievements\Achievement_19" suffix="1" />
+        <Object id="Achievements\Achievement_2" suffix="1" />
+        <Object id="Achievements\Achievement_20" suffix="1" />
+        <Object id="Achievements\Achievement_21" suffix="1" />
+        <Object id="Achievements\Achievement_22" suffix="1" />
+        <Object id="Achievements\Achievement_23" suffix="1" />
+        <Object id="Achievements\Achievement_24" suffix="1" />
+        <Object id="Achievements\Achievement_25" suffix="1" />
+        <Object id="Achievements\Achievement_26" suffix="1" />
+        <Object id="Achievements\Achievement_27" suffix="1" />
+        <Object id="Achievements\Achievement_28" suffix="1" />
+        <Object id="Achievements\Achievement_29" suffix="1" />
+        <Object id="Achievements\Achievement_3" suffix="1" />
+        <Object id="Achievements\Achievement_30" suffix="1" />
+        <Object id="Achievements\Achievement_31" suffix="1" />
+        <Object id="Achievements\Achievement_32" suffix="1" />
+        <Object id="Achievements\Achievement_33" suffix="1" />
+        <Object id="Achievements\Achievement_34" suffix="1" />
+        <Object id="Achievements\Achievement_35" suffix="1" />
+        <Object id="Achievements\Achievement_36" suffix="1" />
+        <Object id="Achievements\Achievement_37" suffix="1" />
+        <Object id="Achievements\Achievement_38" suffix="1" />
+        <Object id="Achievements\Achievement_39" suffix="1" />
+        <Object id="Achievements\Achievement_4" suffix="1" />
+        <Object id="Achievements\Achievement_40" suffix="1" />
+        <Object id="Achievements\Achievement_41" suffix="1" />
+        <Object id="Achievements\Achievement_42" suffix="1" />
+        <Object id="Achievements\Achievement_5" suffix="1" />
+        <Object id="Achievements\Achievement_6" suffix="1" />
+        <Object id="Achievements\Achievement_7" suffix="1" />
+        <Object id="Achievements\Achievement_8" suffix="1" />
+        <Object id="Achievements\Achievement_9" suffix="1" />
+        <Object id="Achievements\KF_Achievement_Lock" suffix="1" />
+        <Object id="KFStart" suffix="1" />
+        <Object id="MainMenu\kf_menu" suffix="1" />
+        <Object id="MainMenu\kf_menu_Bloat" suffix="1" />
+        <Object id="MainMenu\kf_menu_Bloatbarf" suffix="1" />
+        <Object id="MainMenu\kf_menu_clot" suffix="1" />
+        <Object id="MainMenu\kf_menu_clot2" suffix="1" />
+        <Object id="MainMenu\kf_menu_crawler" suffix="1" />
+        <Object id="MainMenu\kf_menu_crawler2" suffix="1" />
+        <Object id="MainMenu\kf_menu_fleshpound2" suffix="1" />
+        <Object id="MainMenu\kf_menu_gorefast1" suffix="1" />
+        <Object id="MainMenu\kf_menu_gorefast2" suffix="1" />
+        <Object id="MainMenu\kf_menu_Missile" suffix="1" />
+        <Object id="MainMenu\kf_menu_Patgun" suffix="1" />
+        <Object id="MainMenu\kf_menu_Pattent" suffix="1" />
+        <Object id="MainMenu\kf_menu_scrake1" suffix="1" />
+        <Object id="MainMenu\kf_menu_scrake2" suffix="1" />
+        <Object id="MainMenu\kf_menu_Siren1" suffix="1" />
+        <Object id="MainMenu\kf_menu_Siren2" suffix="1" />
+        <Object id="MainMenu\kf_menu_soldiers" suffix="1" />
+        <Object id="MainMenu\kf_menu_stalker" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\killingfloorhud_xmas.utx" />
+    <Package path="textures\killingfloorhud.utx" />
+    <Package path="textures\killingfloorlabtextures.utx" />
+    <Package path="textures\killingfloormanortextures.utx" />
+    <Package path="textures\killingfloorofficetextures.utx" />
+    <Package path="textures\killingfloortextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Statics\AdrelanSyringe" suffix="1" />
+        <Object id="Statics\Leaves" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\killingfloorweapons.utx" />
+    <Package path="textures\konigsplatz_t.utx" />
+    <Package path="textures\krasnyi_cubemaps.utx" />
+    <Package path="textures\krasnyioktyabr_t.utx" />
+    <Package path="textures\krasnyioktyabr_t2.utx" />
+    <Package path="textures\landscape_t.utx" />
+    <Package path="textures\landscapesmt.utx" />
+    <Package path="textures\levelspecificsmt.utx" />
+    <Package path="textures\levelspecificsmt2.utx" />
+    <Package path="textures\menubackground.utx" />
+    <Package path="textures\militaryaxissmt.utx" />
+    <Package path="textures\moonbase_t_two.utx" />
+    <Package path="textures\moonbase_t.utx" />
+    <Package path="textures\mountainpass_t.utx" />
+    <Package path="textures\mrsfoster_dlc_1stp.utx" />
+    <Package path="textures\mrsfoster_dlc_3rdp.utx" />
+    <Package path="textures\mrsfoster_steampunk_dlc_1stp.utx" />
+    <Package path="textures\mrsfoster_steampunk_dlc_3rdp.utx" />
+    <Package path="textures\objectivemode_t.utx" />
+    <Package path="textures\patchtex.utx" />
+    <Package path="textures\pier_t.utx" />
+    <Package path="textures\pitomnik_t.utx" />
+    <Package path="textures\placeholder_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Colors\Black" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\potato_t.utx" />
+    <Package path="textures\religioussmt.utx" />
+    <Package path="textures\ringmaster_lockheart_t.utx" />
+    <Package path="textures\rofonts_rus.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ROArial10\ROArial10_PageA" suffix="1" />
+        <Object id="ROArial11\ROArial11_PageA" suffix="1" />
+        <Object id="ROArial12\ROArial12_PageA" suffix="1" />
+        <Object id="ROArial14\ROArial14_PageB" suffix="1" />
+        <Object id="ROArial16\ROArial16_PageB" suffix="1" />
+        <Object id="ROArial18\ROArial18_PageB" suffix="1" />
+        <Object id="ROArial20\ROArial20_PageC" suffix="1" />
+        <Object id="ROArial22\ROArial22_PageC" suffix="1" />
+        <Object id="ROArial24\ROArial24_PageD" suffix="1" />
+        <Object id="ROArial26\ROArial26_PageD" suffix="1" />
+        <Object id="ROArial26\ROArial26_PageE" suffix="1" />
+        <Object id="ROArial28\ROArial28_PageE" suffix="1" />
+        <Object id="ROArial28\ROArial28_PageF" suffix="1" />
+        <Object id="ROArial30\ROArial30_PageF" suffix="1" />
+        <Object id="ROArial32\ROArial32_PageF" suffix="1" />
+        <Object id="ROArial34\ROArial34_PageG" suffix="1" />
+        <Object id="ROArial36\ROArial36_PageH" suffix="1" />
+        <Object id="ROArial36\ROArial36_PageI" suffix="1" />
+        <Object id="ROArial38\ROArial38_PageI" suffix="1" />
+        <Object id="ROArial40\ROArial40_PageI" suffix="1" />
+        <Object id="ROArial40\ROArial40_PageJ" suffix="1" />
+        <Object id="ROArial42\ROArial42_PageM" suffix="1" />
+        <Object id="ROArial42\ROArial42_PageN" suffix="1" />
+        <Object id="ROArial44\ROArial44_PageN" suffix="1" />
+        <Object id="ROArial46\ROArial46_PageN" suffix="1" />
+        <Object id="ROArial46\ROArial46_PageO" suffix="1" />
+        <Object id="ROArial48\ROArial48_PageO" suffix="1" />
+        <Object id="ROArial6\ROArial6_PageA" suffix="1" />
+        <Object id="ROArial7\ROArial7_PageA" suffix="1" />
+        <Object id="ROArial8\ROArial8_PageA" suffix="1" />
+        <Object id="ROArial9\ROArial9_PageA" suffix="1" />
+        <Object id="ROBtsrmVr10\ROBtsrmVr10_PageA" suffix="1" />
+        <Object id="ROBtsrmVr11\ROBtsrmVr11_PageA" suffix="1" />
+        <Object id="ROBtsrmVr12\ROBtsrmVr12_PageA" suffix="1" />
+        <Object id="ROBtsrmVr12\ROBtsrmVr12_PageB" suffix="1" />
+        <Object id="ROBtsrmVr14\ROBtsrmVr14_PageA" suffix="1" />
+        <Object id="ROBtsrmVr14\ROBtsrmVr14_PageB" suffix="1" />
+        <Object id="ROBtsrmVr16\ROBtsrmVr16_PageA" suffix="1" />
+        <Object id="ROBtsrmVr16\ROBtsrmVr16_PageB" suffix="1" />
+        <Object id="ROBtsrmVr18\ROBtsrmVr18_PageA" suffix="1" />
+        <Object id="ROBtsrmVr18\ROBtsrmVr18_PageB" suffix="1" />
+        <Object id="ROBtsrmVr18\ROBtsrmVr18_PageC" suffix="1" />
+        <Object id="ROBtsrmVr20\ROBtsrmVr20_PageA" suffix="1" />
+        <Object id="ROBtsrmVr20\ROBtsrmVr20_PageB" suffix="1" />
+        <Object id="ROBtsrmVr20\ROBtsrmVr20_PageC" suffix="1" />
+        <Object id="ROBtsrmVr20\ROBtsrmVr20_PageD" suffix="1" />
+        <Object id="ROBtsrmVr22\ROBtsrmVr22_PageA" suffix="1" />
+        <Object id="ROBtsrmVr22\ROBtsrmVr22_PageB" suffix="1" />
+        <Object id="ROBtsrmVr22\ROBtsrmVr22_PageC" suffix="1" />
+        <Object id="ROBtsrmVr22\ROBtsrmVr22_PageD" suffix="1" />
+        <Object id="ROBtsrmVr24\ROBtsrmVr24_PageA" suffix="1" />
+        <Object id="ROBtsrmVr24\ROBtsrmVr24_PageB" suffix="1" />
+        <Object id="ROBtsrmVr24\ROBtsrmVr24_PageC" suffix="1" />
+        <Object id="ROBtsrmVr24\ROBtsrmVr24_PageD" suffix="1" />
+        <Object id="ROBtsrmVr24\ROBtsrmVr24_PageE" suffix="1" />
+        <Object id="ROBtsrmVr26\ROBtsrmVr26_PageA" suffix="1" />
+        <Object id="ROBtsrmVr26\ROBtsrmVr26_PageB" suffix="1" />
+        <Object id="ROBtsrmVr26\ROBtsrmVr26_PageC" suffix="1" />
+        <Object id="ROBtsrmVr26\ROBtsrmVr26_PageD" suffix="1" />
+        <Object id="ROBtsrmVr26\ROBtsrmVr26_PageE" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageA" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageB" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageC" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageD" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageE" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageF" suffix="1" />
+        <Object id="ROBtsrmVr28\ROBtsrmVr28_PageG" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageA" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageB" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageC" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageD" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageE" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageF" suffix="1" />
+        <Object id="ROBtsrmVr30\ROBtsrmVr30_PageG" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageA" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageB" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageC" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageD" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageE" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageF" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageG" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageH" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageI" suffix="1" />
+        <Object id="ROBtsrmVr32\ROBtsrmVr32_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageA" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageB" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageC" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageD" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageE" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageF" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageG" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageH" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageI" suffix="1" />
+        <Object id="ROBtsrmVr34\ROBtsrmVr34_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageA" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageB" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageC" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageD" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageE" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageF" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageG" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageH" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageI" suffix="1" />
+        <Object id="ROBtsrmVr36\ROBtsrmVr36_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageA" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageB" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageC" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageD" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageE" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageF" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageG" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageH" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageI" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageK" suffix="1" />
+        <Object id="ROBtsrmVr38\ROBtsrmVr38_PageL" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageA" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageB" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageC" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageD" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageE" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageF" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageG" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageH" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageI" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageK" suffix="1" />
+        <Object id="ROBtsrmVr40\ROBtsrmVr40_PageL" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageA" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageB" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageC" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageD" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageE" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageF" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageG" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageH" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageI" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageK" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageL" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageM" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageN" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageO" suffix="1" />
+        <Object id="ROBtsrmVr42\ROBtsrmVr42_PageP" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageA" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageB" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageC" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageD" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageE" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageF" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageG" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageH" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageI" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageK" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageL" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageM" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageN" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageO" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageP" suffix="1" />
+        <Object id="ROBtsrmVr44\ROBtsrmVr44_PageQ" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageA" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageB" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageC" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageD" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageE" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageF" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageG" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageH" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageI" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageK" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageL" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageM" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageN" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageO" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageP" suffix="1" />
+        <Object id="ROBtsrmVr46\ROBtsrmVr46_PageQ" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageA" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageB" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageC" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageD" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageE" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageF" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageG" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageH" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageI" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageJ" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageK" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageL" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageM" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageN" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageO" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageP" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageQ" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageR" suffix="1" />
+        <Object id="ROBtsrmVr48\ROBtsrmVr48_PageS" suffix="1" />
+        <Object id="ROBtsrmVr6\ROBtsrmVr6_PageA" suffix="1" />
+        <Object id="ROBtsrmVr7\ROBtsrmVr7_PageA" suffix="1" />
+        <Object id="ROBtsrmVr8\ROBtsrmVr8_PageA" suffix="1" />
+        <Object id="ROBtsrmVr9\ROBtsrmVr9_PageA" suffix="1" />
+        <Object id="ROMain18\ROMain18_PageA" suffix="1" />
+        <Object id="ROMain18\ROMain18_PageB" suffix="1" />
+        <Object id="ROMain20\ROMain20_PageA" suffix="1" />
+        <Object id="ROMain20\ROMain20_PageB" suffix="1" />
+        <Object id="ROMain20\ROMain20_PageC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\rofonts.utx" />
+    <Package path="textures\rofontstwo.utx" />
+    <Package path="textures\rointerfaceart.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="deathicons\buttsmack" suffix="1" />
+        <Object id="deathicons\Generic" suffix="1" />
+        <Object id="deathicons\germgrenade" suffix="1" />
+        <Object id="deathicons\knife" suffix="1" />
+        <Object id="deathicons\mine" suffix="1" />
+        <Object id="deathicons\roadkill" suffix="1" />
+        <Object id="deathicons\rusgrenade" suffix="1" />
+        <Object id="deathicons\satchel" suffix="1" />
+        <Object id="deathicons\Strike" suffix="1" />
+        <Object id="HUD\CriticalMsgBackground" suffix="1" />
+        <Object id="Menu\button_normal" suffix="1" />
+        <Object id="Menu\ROGammaSet" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\rsdlc_1stp.utx" />
+    <Package path="textures\rsdlc_3rdp.utx" />
+    <Package path="textures\ruralsmt.utx" />
+    <Package path="textures\scopeshaders.utx" />
+    <Package path="textures\specialeffects.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Coronas\Corona2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\stronghold_t.utx" />
+    <Package path="textures\vegetationsmt_two.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grass\browngrass" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\vegetationsmt.utx" />
+    <Package path="textures\waterworks_t.utx" />
+    <Package path="textures\weapons1st_tex.utx" />
+    <Package path="textures\workshop_t.utx" />
+    <Package path="textures\wyretex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Statics\FencedSkin" suffix="1" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,974 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="hovgame\cookedpc\cinematics\scene_08\cutscene_08.upk" />
+    <Package path="hovgame\cookedpc\cinematics\scene_09\cutscene_09_audio.upk" />
+    <Package path="hovgame\cookedpc\cinematics\scene_09\cutscene_09.upk" />
+    <Package path="hovgame\cookedpc\cinematics\scene_09b\cutscene_09b.upk" />
+    <Package path="hovgame\cookedpc\core.u" />
+    <Package path="hovgame\cookedpc\defaultuiskin.upk" />
+    <Package path="hovgame\cookedpc\editor.u" />
+    <Package path="hovgame\cookedpc\editormaterials.upk" />
+    <Package path="hovgame\cookedpc\editormeshes.upk" />
+    <Package path="hovgame\cookedpc\editorresources.upk" />
+    <Package path="hovgame\cookedpc\engine.u" />
+    <Package path="hovgame\cookedpc\enginefonts.upk" />
+    <Package path="hovgame\cookedpc\enginematerials.upk" />
+    <Package path="hovgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\gameframework.u" />
+    <Package path="hovgame\cookedpc\globalcookedbulkdatainfos.upk" />
+    <Package path="hovgame\cookedpc\hovgame.u" />
+    <Package path="hovgame\cookedpc\hovgamecontent.u" />
+    <Package path="hovgame\cookedpc\ipdrv.u" />
+    <Package path="hovgame\cookedpc\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacaa.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_ambience.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_distant.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_mesh2.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_mesh3.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_planes.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_script.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_special_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacaa\evacz3_special.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacgates.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1_ambience.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1_distant.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1_planes.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_audio.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_mesh_early.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_mesh_view.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_alley_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_alley.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_archway_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_archway.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script_opelcrash.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1a_script.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_audio.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_audio2.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_mesh_early.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_mesh2.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script_hqcine_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script_hqcine.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script_snipers_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script_snipers.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evacgates\evacz1b_script.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evachill.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_ambience.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_distant.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_mesh2.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_mesh3.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_planes.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evachill\evacz2_script.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evactanks.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_ambience.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_audio.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_distant.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_mesh3.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_planes.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_script.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_script2_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_script2.war" />
+    <Package path="hovgame\cookedpc\maps\africa\evacuation\evactanks\evacz4_script3.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortresscablestation.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_cine_intro.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_cine_pwr.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_distant.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_chateau.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_lower.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_middle.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_slope.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_transition.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_mesh_upper.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_check01.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_lower_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_lower.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_middle_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_middle.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_persist_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_persist.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_upper_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscablestation\fortz1_script_upper.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortresscourtyard.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_cine_outro_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_cine_outro.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_cine_tank_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_cine_tank.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_distant.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_mesh_court01.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_mesh_court02.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_mesh_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_mesh_slope.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_mesh_towers.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_prefabs_court01.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_prefabs_court02.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_prefabs_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_prefabs_slope.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court01_axis01_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court01_axis01.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court01_axis02_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court01_axis02.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court01_house.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court02_axis_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court02_axis.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court02_house.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court02_tank_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_court02_tank.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_end_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_persist_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_persist.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope_axis01_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope_axis01.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope_axis02_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope_axis02.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortresscourtyard\fortz4_script_slope.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortressmaproom.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_cine_drop.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_cine_locked_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_cine_locked.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_cine_pov_end_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_cine_pov_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_distant.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_court.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_court02.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_maproom.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_specobj.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_mesh_towers.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_court_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_court.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_end_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_end.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_maproom_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_maproom.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_persist_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_persist.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_specobj_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_specobj.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_trans_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressmaproom\fortz3_script_trans.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortressunderground.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz1_cine_pov_start_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz1_cine_pov_start.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_distant.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_court.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_prisend.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_prisenter.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_prismain.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_prister.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_sewend.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_sewenter.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_sewmain.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_sewter.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_tinytown.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_mesh_transition.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_persist.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_prisenter_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_prisenter.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_prismain_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_prismain.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_sewenter_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_sewenter.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_sewmain_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\alpine\fortress\fortressunderground\fortz2_script_sewmain.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerconfrontation.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_cine_intro.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_cine_steckler01_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_cine_steckler01.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_cine_steckler02.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_ballbsp.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_ballmesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_bspcourt.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_court.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_hall.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_lobby.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_office.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_officeouter.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_mesh_terext.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball01_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball01.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball02_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball02.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball03_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_ball03.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_court_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_court.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_hall_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_hall.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_lobby_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_lobby.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_office_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_office.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_officeouter_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_officeouter.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\bunker\bunkerconfrontation\bunkerz4_script_persist.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityhalls.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2_audio.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2_cine_aahall_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2_cine_aahall.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2a_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2a_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2a_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2b_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2b_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2b_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2b_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2c_bombers.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2c_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2c_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2c_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityz2c_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityzone2_pov-end_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityhalls\universityzone2_pov-end.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universitylibrary.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3_audio.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3a_bombers.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3a_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3a_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3a_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3a_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3b_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3b_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3b_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitylibrary\universityz3b_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityreactor.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_ambient.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_bsp1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_bsp2.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_cine_end_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_cine_end.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_cine_reacthall_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_cine_reacthall.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_mesh2.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universityreactor\universityz4_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universitystreets.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityterrain1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityterrain2.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityterrain3.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityterrain4.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityterrain5.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1_audio.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1_bombers.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_clutter2.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_clutter3.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_clutter4.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_clutter5.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1a_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_clutter1.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_distant.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_script_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_script.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1b_univbld.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityz1c_mesh.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityzone1_cine_intro_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityzone1_cine_intro.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityzone1_pov-start_loc_int.war" />
+    <Package path="hovgame\cookedpc\maps\berlin\university\universitystreets\universityzone1_pov-start.war" />
+    <Package path="hovgame\cookedpc\maps\entry.upk" />
+    <Package path="hovgame\cookedpc\maps\hoventry.war" />
+    <Package path="hovgame\cookedpc\maps\hovgame_p.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map01.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map02.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map03_cablecar.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map03.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map04.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map05.war" />
+    <Package path="hovgame\cookedpc\maps\mp\mp_map06.war" />
+    <Package path="hovgame\cookedpc\nodebuddies.upk" />
+    <Package path="hovgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="hovgame\cookedpc\packages\aagun.upk" />
+    <Package path="hovgame\cookedpc\packages\africaeffects.upk" />
+    <Package path="hovgame\cookedpc\packages\africagreymap.upk" />
+    <Package path="hovgame\cookedpc\packages\alpinegreymap.upk" />
+    <Package path="hovgame\cookedpc\packages\alpinegroundtextures.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-alpnfortfieldtank.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-alpnfortintro.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-alpnfortlckdoorfielder.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-alpnfortrescfield.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-brlnbunkerintro.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-brlnunivend.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-brlnunivz2entrreact.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-brlnunivz2hall.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-evacz1.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-evacz2ending.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-evacz2hq.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-evacz2tankco.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-misc.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-pov.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-skills.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-w1.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-w2.upk" />
+    <Package path="hovgame\cookedpc\packages\anim-w3.upk" />
+    <Package path="hovgame\cookedpc\packages\animtrees.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricabase2.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricabase3.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricaguardpost.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricaoverhangs.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricapetroltanks.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricatents.upk" />
+    <Package path="hovgame\cookedpc\packages\bldafricavillagewalls.upk" />
+    <Package path="hovgame\cookedpc\packages\bldalpinecablestation.upk" />
+    <Package path="hovgame\cookedpc\packages\bldalpinecourtyard.upk" />
+    <Package path="hovgame\cookedpc\packages\bldglobalfences.upk" />
+    <Package path="hovgame\cookedpc\packages\bldglobalwoodfences.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_americancommander.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_americanheads.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_americansoldier.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_britishcommander.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\body_DM" suffix="1" />
+        <Object id="Textures\body_NM" suffix="1" />
+        <Object id="Textures\body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_britishheads.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_britishsoldier.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\body_NM" suffix="2" />
+        <Object id="Textures\body_SM" suffix="2" />
+        <Object id="Textures\gear_DM" suffix="1" />
+        <Object id="Textures\gear_NM" suffix="1" />
+        <Object id="Textures\Gear_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_bull.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_fielder.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_geringer.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_germanafricancorp.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_germanalpinegray.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\gear_DM" suffix="2" />
+        <Object id="Textures\gear_NM" suffix="2" />
+        <Object id="Textures\Gear_SM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_germangrey.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\gear_DM" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_germanheads.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_germanss.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_ivanov.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_ross.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Sidelight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_russiancommander.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_russianheads.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_russiansoldier.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_steckler.upk" />
+    <Package path="hovgame\cookedpc\packages\ch_taggert.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\hat_DM" suffix="1" />
+        <Object id="Textures\hat_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ch_viktor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\bodyECT_DM" suffix="1" />
+        <Object id="Textures\bodyECT_NM" suffix="1" />
+        <Object id="Textures\bodyECT_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\effects.upk" />
+    <Package path="hovgame\cookedpc\packages\fx_environment.upk" />
+    <Package path="hovgame\cookedpc\packages\fx_global.upk" />
+    <Package path="hovgame\cookedpc\packages\fx_vehicleexplosions.upk" />
+    <Package path="hovgame\cookedpc\packages\greymap.upk" />
+    <Package path="hovgame\cookedpc\packages\hovdefaultuiskin.upk" />
+    <Package path="hovgame\cookedpc\packages\hudresources.upk" />
+    <Package path="hovgame\cookedpc\packages\musbunk.upk" />
+    <Package path="hovgame\cookedpc\packages\musevac.upk" />
+    <Package path="hovgame\cookedpc\packages\musfort.upk" />
+    <Package path="hovgame\cookedpc\packages\musuniv.upk" />
+    <Package path="hovgame\cookedpc\packages\particlefx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Explosion_01_4X4" suffix="1" />
+        <Object id="Textures\Flying_Dirt_Diffuse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\pbd\churchobjects.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\alterback_dm" suffix="1" />
+        <Object id="Texture\alterback_nm" suffix="1" />
+        <Object id="Texture\confessional_diffuse" suffix="1" />
+        <Object id="Texture\confessional_normal" suffix="1" />
+        <Object id="Texture\pew01_diffuse" suffix="1" />
+        <Object id="Texture\pew01_normal" suffix="1" />
+        <Object id="Texture\votiveStand_diffuse" suffix="1" />
+        <Object id="Texture\votiveStand_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\pbd\ctfflags.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\farmhouse.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\hudresourcesmp.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\prpglobalexplosivespbd.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\snd_multiplayer_sfx.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\ui_frontend_mp.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\ui_ingame_mp.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\uiskin_pbd.upk" />
+    <Package path="hovgame\cookedpc\packages\pbd\xbxalpineterrainpbd.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\AlpineRoad_dm" suffix="1" />
+        <Object id="Textures\GroundRock_dm" suffix="1" />
+        <Object id="Textures\HeavySnow_dm" suffix="2" />
+        <Object id="Textures\LightSnow_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\pbd\xbxbldremagenchurchpbd.upk" />
+    <Package path="hovgame\cookedpc\packages\petrolzone4barricade.upk" />
+    <Package path="hovgame\cookedpc\packages\physical_material.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\blob3" suffix="1" />
+        <Object id="Textures\concreteChunk01_normal" suffix="1" />
+        <Object id="Textures\Dirt" suffix="1" />
+        <Object id="Textures\glare_texture" suffix="1" />
+        <Object id="Textures\Smoke1_Normal" suffix="1" />
+        <Object id="Textures\Snow" suffix="1" />
+        <Object id="Textures\Spark_small_diffuse" suffix="1" />
+        <Object id="Textures\woodChip01_normal" suffix="1" />
+        <Object id="Textures\woodChip01_specular" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\prpalpinecablecar.upk" />
+    <Package path="hovgame\cookedpc\packages\prpalpinecontainers.upk" />
+    <Package path="hovgame\cookedpc\packages\prpglobalbasesigns.upk" />
+    <Package path="hovgame\cookedpc\packages\prpglobalexplosives.upk" />
+    <Package path="hovgame\cookedpc\packages\prpglobalfurniture.upk" />
+    <Package path="hovgame\cookedpc\packages\prpglobalwallelectronics.upk" />
+    <Package path="hovgame\cookedpc\packages\prpglobalworkmachinery.upk" />
+    <Package path="hovgame\cookedpc\packages\ragdollresources.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_evac_matinee.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_evac_sfx.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_fort_matinee.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_fort_sfx.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_global_amb.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_global_sfx.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_univ_matinee.upk" />
+    <Package path="hovgame\cookedpc\packages\snd_univ_sfx.upk" />
+    <Package path="hovgame\cookedpc\packages\sndafricaevac.upk" />
+    <Package path="hovgame\cookedpc\packages\sndfootsteps.upk" />
+    <Package path="hovgame\cookedpc\packages\sndglobalplanes.upk" />
+    <Package path="hovgame\cookedpc\packages\spchuniv.upk" />
+    <Package path="hovgame\cookedpc\packages\tracer.upk" />
+    <Package path="hovgame\cookedpc\packages\txtglobalnormals.upk" />
+    <Package path="hovgame\cookedpc\packages\ui_evac.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\effectsRamp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ui_frontend_demo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="scenes\Area51\Area51_Preview" suffix="1" />
+        <Object id="scenes\CheckDevice\CheckDevice_Preview" suffix="1" />
+        <Object id="scenes\HOVBaseScene_TitleScreen\HOVBaseScene_TitleScreen_Preview" suffix="1" />
+        <Object id="scenes\HOVBaseScene_TitleScreen2\HOVBaseScene_TitleScreen2_Preview" suffix="1" />
+        <Object id="scenes\HOVBaseScene_Transparency\HOVBaseScene_Transparency_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_Menu\HOVSinglePlayerScene_Campaign_Menu_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Bunkers_HACK\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Bunkers_HACK_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Evac\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Evac_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Fortress\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Fortress_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_SelectDifficulty_Fortress\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_SelectDifficulty_Fortress_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_SelectDifficulty_University\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_SelectDifficulty_University_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_University\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_University_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission\HOVSinglePlayerScene_Campaign_SubMenu_LoadPreviousMission_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Campaign_SubMenu_SelectDifficulty\HOVSinglePlayerScene_Campaign_SubMenu_SelectDifficulty_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Confirmation\HOVSinglePlayerScene_Confirmation_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_MainMenu\HOVSinglePlayerScene_MainMenu_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_MessageBox\HOVSinglePlayerScene_MessageBox_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_Menu\HOVSinglePlayerScene_Options_Menu_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_AudioVideo\HOVSinglePlayerScene_Options_SubMenu_AudioVideo_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_Controller_Layout_1\HOVSinglePlayerScene_Options_SubMenu_Controller_Layout_1_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_Controller_Layout_2\HOVSinglePlayerScene_Options_SubMenu_Controller_Layout_2_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_Controller\HOVSinglePlayerScene_Options_SubMenu_Controller_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_Credits\HOVSinglePlayerScene_Options_SubMenu_Credits_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_Options_SubMenu_Game\HOVSinglePlayerScene_Options_SubMenu_Game_Preview" suffix="1" />
+        <Object id="scenes\HOVSinglePlayerScene_PauseMenu\HOVSinglePlayerScene_PauseMenu_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\ui_frontend.upk" />
+    <Package path="hovgame\cookedpc\packages\ui_ingame.upk" />
+    <Package path="hovgame\cookedpc\packages\ui_pov.upk" />
+    <Package path="hovgame\cookedpc\packages\universitymodular.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_elephanttank.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_halftrack.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_kubel.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Smoke_soft_blur" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\vh_opel.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_panthertank.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_panzeriv.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_shared_tank.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_shared_vehicle.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_shermantank.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_t34.upk" />
+    <Package path="hovgame\cookedpc\packages\vh_tigertank.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_aibarks_amer.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_aibarks_british.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_aibarks_german.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_aibarks_russian.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_bunk.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_evac.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_fort.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_matinee_facefx_cue.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_pov_switch.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_pov.upk" />
+    <Package path="hovgame\cookedpc\packages\vo_univ.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\barviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\bazookaviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\brenviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\coltviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\flak38.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\garandviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\grenadeviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\k98viewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\m1897viewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\m4_bayonetviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\mg42viewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\mortarviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\mosinviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\mp40viewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\mp44viewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\panzerschrekviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\ppshviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\shared_weapons.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Smoke_soft_blur" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\weapons\springfieldviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\stenviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\thompsonviewmodel.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\flashStreak01" suffix="1" />
+        <Object id="Textures\muzzle03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\weapons\ttviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\webleyviewmodel.upk" />
+    <Package path="hovgame\cookedpc\packages\weapons\wp_p38.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricacarpet.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricacliffs.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricafoundation.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\alleyBase_diffuse" suffix="1" />
+        <Object id="Textures\alleyBase_normal" suffix="1" />
+        <Object id="Textures\blockStairs01UV" suffix="1" />
+        <Object id="Textures\blockStairs01UV-nm" suffix="1" />
+        <Object id="Textures\cobbleroad01-dm" suffix="1" />
+        <Object id="Textures\cobbleroad01-nm" suffix="1" />
+        <Object id="Textures\doorStairs01UV" suffix="1" />
+        <Object id="Textures\ironFence_normal" suffix="1" />
+        <Object id="Textures\lattice_dm" suffix="1" />
+        <Object id="Textures\lattice_nm" suffix="1" />
+        <Object id="Textures\rampStairs01UV" suffix="1" />
+        <Object id="Textures\rampStairs01UV-nm" suffix="1" />
+        <Object id="Textures\spiralStairs01UV" suffix="1" />
+        <Object id="Textures\spiralStairs01UV-nm" suffix="1" />
+        <Object id="Textures\stoneWall01UV-dm" suffix="1" />
+        <Object id="Textures\stoneWall01UV-nm" suffix="1" />
+        <Object id="Textures\stoneWall01UV-px" suffix="1" />
+        <Object id="Textures\woodenFenceUV" suffix="1" />
+        <Object id="Textures\woodenFenceUV-NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxafricaplanes.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricasanddunes.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricasandwedge.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricasky.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxafricaterraintextures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\AfricaSand1-DM" suffix="1" />
+        <Object id="Textures\AfricaSand1-NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxafricatrenches.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\AfricaDirt-DM" suffix="1" />
+        <Object id="Textures\AfricaSand-DM" suffix="1" />
+        <Object id="Textures\AfricaSand1-NM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxafricavegetation.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxalpineeffects.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxalpineprisonchains.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxalpinesky.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxalpineterraintextures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\HeavySnow_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxalpinevegetation.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxberlinsky.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\DomeCloudAlpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxberlinterrain.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricabasewalls.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricacanopy.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricacliffvillage.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricaguardpost.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\base_guardpost_house_blocker_nm" suffix="1" />
+        <Object id="Normals\concrete_watch_tower_nm" suffix="1" />
+        <Object id="Normals\wood_watch_tower_nm" suffix="1" />
+        <Object id="Textures\base_guardpost_house_1_dm" suffix="1" />
+        <Object id="Textures\base_guardpost_house_2_dm" suffix="1" />
+        <Object id="Textures\base_guardpost_house_blocker_dm" suffix="1" />
+        <Object id="Textures\wood_watch_tower_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldafricamosque.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricatownwalls.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricavillage1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricavillage2.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldafricavillagewalls.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Prp_Africa_EvacTownWall_dm" suffix="1" />
+        <Object id="Texture\Prp_Africa_EvacTownWall_nm" suffix="1" />
+        <Object id="Texture\Prp_Africa_EvacTownWall_sm" suffix="1" />
+        <Object id="Texture\village_wall_set_DM" suffix="1" />
+        <Object id="Texture\village_wall_set_NM" suffix="1" />
+        <Object id="Texture\village_wall_set_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinecablestation.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\CableStation_SideWall_DM" suffix="1" />
+        <Object id="Textures\concreteWallsAndPillar_dm" suffix="1" />
+        <Object id="Textures\concreteWallsAndPillar_sm" suffix="1" />
+        <Object id="Textures\entryBlock_dm" suffix="1" />
+        <Object id="Textures\floorBlock_dm" suffix="1" />
+        <Object id="Textures\Frontwall_dm" suffix="1" />
+        <Object id="Textures\Frontwall_sm" suffix="1" />
+        <Object id="Textures\rockHallway_dm" suffix="1" />
+        <Object id="Textures\rockHallway_sm" suffix="1" />
+        <Object id="Textures\rockwall_dm" suffix="1" />
+        <Object id="Textures\stairwayRails_dm" suffix="1" />
+        <Object id="Textures\Station-Dock_dm" suffix="1" />
+        <Object id="Textures\Station-Dock_nm" suffix="1" />
+        <Object id="Textures\Station-Dock_sm" suffix="1" />
+        <Object id="Textures\StationGears-DM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinecanopy.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinecastle.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinefortress1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpineguardpost.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinemaproom.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinemaproompbd.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\hallArch-NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldalpineprison.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinesewers.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpineshack1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinetownwall.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinevillage1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinevillagedest.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldalpinevillagewall.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinauditorium.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinchancellery1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinchancellery2.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlincourtyard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\ceiling_DM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldberlindoors.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinfoyer.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinlibrary.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinreactor.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinruins1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinrunis2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\bld_berlin_roof_damaged_dm" suffix="1" />
+        <Object id="Textures\bld_berlin_roof_damaged_nm" suffix="1" />
+        <Object id="Textures\bld_berlin_roof_damaged_sm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinuniversity.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldberlinwalls1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldbridge.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Water\orangeSky1" suffix="1" />
+        <Object id="Water\orangeSky2" suffix="1" />
+        <Object id="Water\orangeSky3" suffix="1" />
+        <Object id="Water\orangeSky4" suffix="1" />
+        <Object id="Water\orangeSky5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldglobaltents.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\military_tent_medium_nm" suffix="1" />
+        <Object id="Textures\military_tent_opened_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldremagen1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldremagen2.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldremagen3.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxbldremagenchurch.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\stainedGlassUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxbldremagenroads.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\cobbleroad01-dm" suffix="2" />
+        <Object id="Textures\cobbleroad01-nm" suffix="2" />
+        <Object id="Textures\fence_logwd_dm" suffix="1" />
+        <Object id="Textures\largeWall01UV" suffix="1" />
+        <Object id="Textures\largeWall01UV-NM" suffix="1" />
+        <Object id="Textures\lattice_dm" suffix="2" />
+        <Object id="Textures\shortwall01UV" suffix="1" />
+        <Object id="Textures\spiralStairs01UV" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxfx.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxfxweapons.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxglobalrubble.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\rubbleStone" suffix="1" />
+        <Object id="Textures\rubbleWood" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxnazisymbols.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpafricabaskvase.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpafricacontainers.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpafricasigns.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpafricavendor.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpalpinecliffs.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Alpine_CliffSnow_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpalpinecontainers.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\large_alpine_crate_2_nm" suffix="1" />
+        <Object id="Normals\medium_alpine_crate_2_nm" suffix="1" />
+        <Object id="Normals\Prp-Alpine-LrgCrate1_nm" suffix="1" />
+        <Object id="Normals\prp-alpine-medcrate1_nm" suffix="1" />
+        <Object id="Normals\Prp-Alpine-SmlCrate1_nm" suffix="1" />
+        <Object id="Normals\Prp-Alpine-VeryLrgCrate1_nm" suffix="1" />
+        <Object id="Normals\small_alpine_crate_2_nm" suffix="1" />
+        <Object id="Normals\very_large_alpine_crate_2_nm" suffix="1" />
+        <Object id="Textures\large_alpine_crate_2_dm" suffix="1" />
+        <Object id="Textures\medium_alpine_crate_2_dm" suffix="1" />
+        <Object id="Textures\Prp-Alpine-LrgCrate1_dm" suffix="1" />
+        <Object id="Textures\Prp-Alpine-SmlCrate1_dm" suffix="1" />
+        <Object id="Textures\Prp-Alpine-VeryLrgCrate1_dm" suffix="1" />
+        <Object id="Textures\small_alpine_crate_2_dm" suffix="1" />
+        <Object id="Textures\very_large_alpine_crate_2_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpalpinedocuments.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpalpinesigns.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpberlin_rope.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\rope_dm" suffix="1" />
+        <Object id="Textures\rope_nm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpberlindecoration.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpberlinlighting.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpcastledecor.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpctower.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpcutscene.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpfortifications.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpgermansigns.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalbasefurniture.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\base_bunk_bedhigh_nm" suffix="1" />
+        <Object id="Normals\base_file_cabinet_1_nm" suffix="1" />
+        <Object id="Normals\base_file_cabinet_2_nm" suffix="1" />
+        <Object id="Normals\base_file_cabinet_3_nm" suffix="1" />
+        <Object id="Normals\base_file_cabinet_4_nm" suffix="1" />
+        <Object id="Normals\base_locker_1_nm" suffix="1" />
+        <Object id="Normals\base_locker_2_nm" suffix="1" />
+        <Object id="Normals\base_metal_bench_nm" suffix="1" />
+        <Object id="Normals\base_metal_chair_1_nm" suffix="1" />
+        <Object id="Normals\base_metal_chair_2_nm" suffix="1" />
+        <Object id="Normals\base_metal_desk1_nm" suffix="1" />
+        <Object id="Normals\base_metal_desk2_nm" suffix="1" />
+        <Object id="Normals\base_metal_shelving02_nm" suffix="1" />
+        <Object id="Normals\base_metal_table_1_nm" suffix="1" />
+        <Object id="Normals\base_metal_table_2_nm" suffix="1" />
+        <Object id="Normals\base_single_bed_nm" suffix="1" />
+        <Object id="Normals\base_smal_metal_table_nm" suffix="1" />
+        <Object id="Normals\base_storage_cabinet_1_nm" suffix="1" />
+        <Object id="Normals\base_storage_cabinet_2_nm" suffix="1" />
+        <Object id="Normals\base_storage_chest_1_nm" suffix="1" />
+        <Object id="Normals\base_storage_chest_2_nm" suffix="1" />
+        <Object id="Normals\base_wood_bench_nm" suffix="1" />
+        <Object id="Normals\base_wood_chair_1_nm" suffix="1" />
+        <Object id="Normals\base_wood_chair_2_nm" suffix="1" />
+        <Object id="Normals\base_wood_desk_1_nm" suffix="1" />
+        <Object id="Normals\base_wood_desk_2_nm" suffix="1" />
+        <Object id="Normals\base_wood_shelving01_nm" suffix="1" />
+        <Object id="Normals\base_wood_shelving02_nm" suffix="1" />
+        <Object id="Normals\base_wood_small_table_nm" suffix="1" />
+        <Object id="Normals\base_wood_table01_nm" suffix="1" />
+        <Object id="Normals\base_wood_table02_nm" suffix="1" />
+        <Object id="Normals\base_work_bench1_nm" suffix="1" />
+        <Object id="Normals\base_work_bench2_nm" suffix="1" />
+        <Object id="Normals\heat_stove_nm" suffix="1" />
+        <Object id="Normals\ornate_caling_fan_nm" suffix="1" />
+        <Object id="Textures\base_bunk_bedhigh_dm" suffix="1" />
+        <Object id="Textures\base_file_cabinet_1_dm" suffix="1" />
+        <Object id="Textures\base_file_cabinet_2_dm" suffix="1" />
+        <Object id="Textures\base_file_cabinet_3_dm" suffix="1" />
+        <Object id="Textures\base_file_cabinet_4_dm" suffix="1" />
+        <Object id="Textures\base_locker_1_dm" suffix="1" />
+        <Object id="Textures\base_locker_2_dm" suffix="1" />
+        <Object id="Textures\base_metal_bench_dm" suffix="1" />
+        <Object id="Textures\base_metal_chair_1_dm" suffix="1" />
+        <Object id="Textures\base_metal_chair_2_dm" suffix="1" />
+        <Object id="Textures\base_metal_desk1_dm" suffix="1" />
+        <Object id="Textures\base_metal_desk2_dm" suffix="1" />
+        <Object id="Textures\base_metal_shelving01_dm" suffix="1" />
+        <Object id="Textures\base_metal_shelving02_dm" suffix="1" />
+        <Object id="Textures\base_metal_table_1_dm" suffix="1" />
+        <Object id="Textures\base_metal_table_2_dm" suffix="1" />
+        <Object id="Textures\base_single_bed_dm" suffix="1" />
+        <Object id="Textures\base_smal_metal_table_dm" suffix="1" />
+        <Object id="Textures\base_storage_cabinet_1_dm" suffix="1" />
+        <Object id="Textures\base_storage_cabinet_1_sm" suffix="1" />
+        <Object id="Textures\base_storage_cabinet_2_dm" suffix="1" />
+        <Object id="Textures\base_storage_cabinet_2_sm" suffix="1" />
+        <Object id="Textures\base_storage_chest_1_dm" suffix="1" />
+        <Object id="Textures\base_storage_chest_2_dm" suffix="1" />
+        <Object id="Textures\base_wood_bench_dm" suffix="1" />
+        <Object id="Textures\base_wood_chair_1_dm" suffix="1" />
+        <Object id="Textures\base_wood_chair_2_dm" suffix="1" />
+        <Object id="Textures\base_wood_desk_1_dm" suffix="1" />
+        <Object id="Textures\base_wood_desk_2_dm" suffix="1" />
+        <Object id="Textures\base_wood_shelving01_dm" suffix="1" />
+        <Object id="Textures\base_wood_shelving02_dm" suffix="1" />
+        <Object id="Textures\base_wood_small_table_dm" suffix="1" />
+        <Object id="Textures\base_wood_table01_dm" suffix="1" />
+        <Object id="Textures\base_wood_table02_dm" suffix="1" />
+        <Object id="Textures\base_work_bench1_dm" suffix="1" />
+        <Object id="Textures\base_work_bench2_dm" suffix="1" />
+        <Object id="Textures\base_work_bench2_sm" suffix="1" />
+        <Object id="Textures\metal_ceiling_fan_dm" suffix="1" />
+        <Object id="Textures\radiator_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalcarpets.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalcemetery.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\gate_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalchurchobjects.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalcourtyard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\street-planter01_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobaldestroyedfurniture.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobaldetailmaps.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\fabric_pattern_nm" suffix="1" />
+        <Object id="Normals\metal1_nm" suffix="1" />
+        <Object id="Textures\Barn1_wide" suffix="1" />
+        <Object id="Textures\Barn2_wide" suffix="1" />
+        <Object id="Textures\cobblestone-dm" suffix="1" />
+        <Object id="Textures\cobblestone-nm" suffix="1" />
+        <Object id="Textures\darkmetal_256_dm" suffix="1" />
+        <Object id="Textures\mud-nm" suffix="1" />
+        <Object id="Textures\plasterStk_wide_nm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobaldoors.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalelectricmachinery.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalepipe.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Struts_DM" suffix="1" />
+        <Object id="Textures\Struts_NM" suffix="1" />
+        <Object id="Textures\Struts_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalflags.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpgloballighting.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\base_building_exterior_light_1_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalofficedocs.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalofficeitems.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\inbox_nm" suffix="1" />
+        <Object id="Textures\inbox_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobaloldfurniture.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalornatefurniture.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Normals\wood_wall_spererator_set_nm" suffix="1" />
+        <Object id="Textures\ornate_caling_fan_dm" suffix="1" />
+        <Object id="Textures\wood_wall_spererator_set_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalpropaganda.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalskills.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalstatues.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobaltpoles.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalvehicles.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpglobalvehicles1.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprphitleroffice.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\spread_eagle_dm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hovgame\cookedpc\packages\xbxprpremagenvegetation.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxprpuniversity.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxvehiclesfx.upk" />
+    <Package path="hovgame\cookedpc\packages\xbxvolumetriclights.upk" />
+    <Package path="hovgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="hovgame\cookedpc\startup_int.upk" />
+    <Package path="hovgame\cookedpc\unrealed.u" />
+    <Package path="hovgame\cookedpc\unrealscripttest.u" />
+  </Packages>
+</IdRemapping>

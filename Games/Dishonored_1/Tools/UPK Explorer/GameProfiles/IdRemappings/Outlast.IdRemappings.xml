@@ -1,0 +1,1055 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="olgame\cookedpcconsole\adminblock_fake_outside_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\adminblock_fake_outside_02-art.upk" />
+    <Package path="olgame\cookedpcconsole\adminblock_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\adminblock_revisit_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\akaudio.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior_snd.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-01a.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-01b.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-01c.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-01d.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-01e.upk" />
+    <Package path="olgame\cookedpcconsole\asylum_exterior-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Dirt\AsphaltCrack-01_M" suffix="1" />
+        <Object id="Decals\Dirt\AsphaltCrack-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\asylum_exterior-ld.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01_off.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01b_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01b_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01b_off.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01b.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01c_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_01c_chunkb.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="door\Lock\ElectroMagLock-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\center_block_01c_off.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="door\Lock\ElectroMagLock-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\center_block_01c.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02_chunkc.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02b_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02b_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02b.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02c_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02c_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02c_chunkc.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02c.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_02d.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03-ld.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03a_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03a_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03a_chunkc.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03a.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03b_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03b_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03b.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03c_chunka.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03c_chunkb.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03c_chunkc.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_03c.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_basement_snd.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_basement-art.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_basement-ld.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_elevator.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_explosionroom-art.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_femaletoadmin.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_floors_rev_snd.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_floors_snd.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_rhall.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_sript_off.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_sript_revisit.upk" />
+    <Package path="olgame\cookedpcconsole\center_block_sript.upk" />
+    <Package path="olgame\cookedpcconsole\central_courtyard_01-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\central_courtyard_01-ld.upk" />
+    <Package path="olgame\cookedpcconsole\central_courtyard_01a-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\central_courtyard_01b-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\central_courtyard_01c-art.upk" />
+    <Package path="olgame\cookedpcconsole\central_courtyard_02-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\central_courtyard_snd.upk" />
+    <Package path="olgame\cookedpcconsole\chapel-art.upk" />
+    <Package path="olgame\cookedpcconsole\core.upk" />
+    <Package path="olgame\cookedpcconsole\courtyard_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\engine.upk" />
+    <Package path="olgame\cookedpcconsole\female_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_basement-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_collapsed-02a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_collapsed-02b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_collapsed-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\femaleward_elevator.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-01b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-01c.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-02a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-02b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-02c.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-03a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-03b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-03c.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor-03d.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor1-ld.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor2-ld.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_floor3-ld.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_laundry-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_lobby-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_lobby-01b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_lockers-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_lockers-01b.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_office-01a.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_snd.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_staircase-01-art.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_staircase-02-art.upk" />
+    <Package path="olgame\cookedpcconsole\femaleward_traproom-01a.upk" />
+    <Package path="olgame\cookedpcconsole\gameframework.upk" />
+    <Package path="olgame\cookedpcconsole\gfxui.upk" />
+    <Package path="olgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="olgame\cookedpcconsole\guidcache.upk" />
+    <Package path="olgame\cookedpcconsole\intro_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="olgame\cookedpcconsole\lab_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Sign\alsab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\lab_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Sign\alsab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\lab_03.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lab02\MorphogenicEngine\EM_Screen_line" suffix="1" />
+        <Object id="Lab02\Number" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\lab_04.upk" />
+    <Package path="olgame\cookedpcconsole\lab_entry.upk" />
+    <Package path="olgame\cookedpcconsole\lab_ld.upk" />
+    <Package path="olgame\cookedpcconsole\lab_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\lab_snd.upk" />
+    <Package path="olgame\cookedpcconsole\mainmenugame.upk" />
+    <Package path="olgame\cookedpcconsole\male_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_01_ld.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_01b.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_02.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03_ld.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03-se.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03a-se.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_03b.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_basement-01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_basement-01b.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_basement-01c.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_basement-01d.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_basement-01e.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_baths-01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_cafeteria_fire.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_cafeteria.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_elevator.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_fakeout.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_kitchen-01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_laundry-01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_ld.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_lobby-01a.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_lobby-01b.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_se.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_snd.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_staircase-01.upk" />
+    <Package path="olgame\cookedpcconsole\male_ward_staircase-02.upk" />
+    <Package path="olgame\cookedpcconsole\olentry.upk" />
+    <Package path="olgame\cookedpcconsole\olfrontend_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\olfrontend.upk" />
+    <Package path="olgame\cookedpcconsole\olgame.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="menuassets\frame" suffix="1" />
+        <Object id="menuassets\LineNote-01" suffix="1" />
+        <Object id="menuassets\LogoAudiokinetic" suffix="1" />
+        <Object id="menuassets\LogoCEIM" suffix="1" />
+        <Object id="menuassets\LogoCMF" suffix="1" />
+        <Object id="menuassets\LogoEnzyme" suffix="1" />
+        <Object id="menuassets\LogoGameON" suffix="1" />
+        <Object id="menuassets\LogoThwacke" suffix="1" />
+        <Object id="menuassets\MMButton_up" suffix="1" />
+        <Object id="menuassets\MouseCursor" suffix="1" />
+        <Object id="menuassets\Notes" suffix="1" />
+        <Object id="menuassets\OutlastLogo-01" suffix="1" />
+        <Object id="menuassets\PaperBack" suffix="1" />
+        <Object id="menuassets\SquareShadow" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\onlinesubsystempc.upk" />
+    <Package path="olgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="olgame\cookedpcconsole\prison_01_snd.upk" />
+    <Package path="olgame\cookedpcconsole\prison_01-ld.upk" />
+    <Package path="olgame\cookedpcconsole\prison_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\prisonfloor_01a-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonfloor_01b-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonfloor_01c-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonfloor_02a-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\Woodbeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsole\prisonfloor_02b-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonfloor_02c-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonisolationcells_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonisolationcells_02-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonoldcells_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonoutside_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonshowers_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonstaircase_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\prisonstaircase_02-art.upk" />
+    <Package path="olgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="olgame\cookedpcconsole\sewer_persistent.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_01.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_02.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_03.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_04.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_ld.upk" />
+    <Package path="olgame\cookedpcconsole\sewers_snd.upk" />
+    <Package path="olgame\cookedpcconsole\showerstosewers_01-art.upk" />
+    <Package path="olgame\cookedpcconsole\skydome_courtyard.upk" />
+    <Package path="olgame\cookedpcconsole\skydome_dawn.upk" />
+    <Package path="olgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\startup.upk" />
+    <Package path="olgame\cookedpcconsole\transitiontolab.upk" />
+    <Package path="olgame\cookedpcconsole\udkbase_loc_int.upk" />
+    <Package path="olgame\cookedpcconsole\udkbase.upk" />
+    <Package path="olgame\cookedpcconsole\windrv.upk" />
+    <Package path="olgame\cookedpcconsole\x_checkpoints.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admelevator-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_Corridor\corridor_beam\wooden_small_plank" suffix="1" />
+        <Object id="Mod_Corridor\corridor_beam\wooden_small_plank_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Concrete\ConcreteStripe-01_D" suffix="1" />
+        <Object id="Basic_Mat_Concrete\ConcreteStripe-01_N" suffix="1" />
+        <Object id="Basic_Mat_Ground\Sidewalk-01_N" suffix="1" />
+        <Object id="Deco\Fountain-01_D" suffix="1" />
+        <Object id="Mod_Structures\MetalScafolding-01_D" suffix="1" />
+        <Object id="Mod_Structures\MetalScafolding-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-01_se.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="01_Animated_Props\Jeep\JeepRadio-01a_D" suffix="1" />
+        <Object id="01_Animated_Props\Jeep\JeepRadio-01b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Mod_Structures\MetalScafolding-01_D" suffix="1" />
+        <Object id="Mod_Structures\MetalScafolding-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-03_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-04_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-05_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admexterior-06_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Parking\white_lines" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1a-01_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1a-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1a-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1b-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\Blood_leak" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1b-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1b-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1c-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Decals\Blood\Gospel" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1c-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor1c-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Office\Computer\SaverScreen-01" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2a-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2a-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2a-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2b-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2b-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2b-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2c-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Decals\Blood\Blood_leak" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2c-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloor2c-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_admfloors-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_adminblock_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_adminskydome-01_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Warning\LabWarningLine-01" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-04_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-05_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-06_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\LabSignFrame-01_D" suffix="1" />
+        <Object id="Signs\SignArrow02_D" suffix="1" />
+        <Object id="Signs\SignArrow02a_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-07_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\SignArrow02a_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1_floor2-08_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Signs\Sign_number_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1crematorium-01_ld.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VFX_fire\Fire_grad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1crematorium-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1crematorium-01-art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_Corridor\corridor_beam\wooden_small_plank" suffix="1" />
+        <Object id="Mod_Corridor\corridor_beam\wooden_small_plank_N" suffix="1" />
+        <Object id="Mod_Prison\StairStep-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exterior-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exteriorfake-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VFX_Fog_DLC\FogGrad_alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1exteriorfkint-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Cafeteria\FoodContainer\FoodCans01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Decals\Warning\LabWarningLine-01" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-01_se.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\frame\Mirror-02Frame_D" suffix="1" />
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-04_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Basic_Mat_Wood\wood_plank_mask" suffix="1" />
+        <Object id="Cafeteria\FoodContainer\FoodCans01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Warning\LabWarningLine-01" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\frame\Mirror-02Frame_D" suffix="1" />
+        <Object id="Deco\Spider_web\Spider_web" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-05_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-06_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor1-07_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor2-01_ld.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\Blood_leak" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor2-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build1floor2-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-01_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2attic-04_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-04_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-04_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2exterior-05_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalPaintedWhiteBeam02_N" suffix="1" />
+        <Object id="Basic_Mat_Wood\WallLath-01_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-01_ld.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Cafeteria\FoodContainer\FoodCans01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Deco\frame\Mirror-02Frame_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor1-04_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet_trace" suffix="1" />
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\WallLath-01_D" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor2-04_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Decals\Blood\WheelChairBloodTrail-02_D" suffix="1" />
+        <Object id="Decals\Blood\WheelChairBloodTrail-03_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Decals\Blood\WheelChairBloodTrail-03_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2floor3-03_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2garden-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\Fountain-01_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="VFX_Fog_DLC\FogGrad_alpha" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2garden-02_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2gym-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2skydome-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ext_Skydome\SkyboxCourtyard" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2staircase-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Wood\WallLath-01_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2tomale-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_build2watertower-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_building1_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_building2_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_checkpoints.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_epilogue.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_intro_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Metal\MetalPaintedWhiteBeam01_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Warning\LabWarningLine-01" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lab\MorphogenicEngine\PipeBloodFlood-01" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_Lab\Material\WallTransition-01_D" suffix="1" />
+        <Object id="Mod_Lab\Material\WallTransition-01_N" suffix="1" />
+        <Object id="Office\Computer\SaverScreen-01" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\SignArrow02_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab-01_se.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_lab-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Mark\FloorMark-01_D" suffix="1" />
+        <Object id="Decals\Parking\white_lines" suffix="1" />
+        <Object id="Decals\Warning\LabWarningLine-01" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Mod_Lab\Material\WallTransition-01_D" suffix="1" />
+        <Object id="Mod_Lab\Material\WallTransition-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+        <Object id="Signs\SignArrow02_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_mainmenugame.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Asylum_3rd_shot\Model\poteau_n" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_malefakeoutside-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Deco\Fountain-01_D" suffix="1" />
+        <Object id="VFX_fire\Fire_grad" suffix="1" />
+        <Object id="VFX_fire\FireCandle_grad" suffix="1" />
+        <Object id="VFX_fire\FireVerical-01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_malefloor2-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Lights\NeonFlickeringTube-01_D" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_malefloor2-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_malefloor2-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_malefloor2-01_snd.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VFX_fire\Fire_grad-02" suffix="1" />
+        <Object id="VFX_fire\MuzzleFlashC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_maleskydome-01_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_maletoadmin-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Mod_WallBorder\WallRamp-01_N" suffix="1" />
+        <Object id="Mod_WallBorder\wood_border_n" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_maletoadminfakeext-01_art.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_maleward_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonadmincourt-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Deco\Fountain-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisoncourtyard-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisoncourtyard-01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-04_D" suffix="1" />
+        <Object id="Decals\Blood\Blood_smear-05_D" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Signs\SignArrow01_D" suffix="1" />
+        <Object id="VFX_Fog_DLC\FogGrad_alpha" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisoncourtyard-02.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisoncourtyard-03.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisoncourtyard-04.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor1-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Mark\FloorMark-01_D" suffix="1" />
+        <Object id="Deco\frame\Frame-01_n" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor1-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor1-01_se.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor1-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor2-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_D" suffix="1" />
+        <Object id="Basic_Mat_Plastic\RubberStripe01_N" suffix="1" />
+        <Object id="Cafeteria\Futnitures\CafeteriaTable-01_N" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_D" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_M" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_N" suffix="1" />
+        <Object id="Deco\frame\Mirror-02Frame_D" suffix="1" />
+        <Object id="Electric\wires\wires" suffix="1" />
+        <Object id="Lights\CoveredNeon\CoveredNeonLit-01_N" suffix="1" />
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor2-01_ld.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor2-01_se.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Electric\wires\wires" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonfloor2-01_snd.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonrevisit_persistent.upk" />
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonstairs-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisonstairs-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decals\Blood\Blood_droplet-03_D" suffix="1" />
+        <Object id="Decals\Blood\Blood_leak" suffix="1" />
+        <Object id="Decals\Blood\blood_smear-02" suffix="1" />
+        <Object id="Decals\Blood\blood_trace" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_D" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_M" suffix="1" />
+        <Object id="Decals\Blood\BloodFresh-02_N" suffix="1" />
+        <Object id="Decals\Blood\BloodWriting-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisontoshop-01_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\border_metal" suffix="1" />
+        <Object id="Basic_Mat_Metal\border_metal_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\dlc_prisontoshop-02_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Security\emergency\FireExtinguisher-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\globalpersistentcookerdata.upk" />
+    <Package path="olgame\cookedpcconsoledlc\guidcache_dlc1.upk" />
+    <Package path="olgame\cookedpcconsoledlc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="olgame\cookedpcconsoledlc\testwatertower_fake.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Basic_Mat_Metal\MetalBorder-02_N" suffix="1" />
+        <Object id="Deco\Fountain-01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="olgame\cookedpcconsoledlc\x_checkpoints.upk" />
+  </Packages>
+</IdRemapping>

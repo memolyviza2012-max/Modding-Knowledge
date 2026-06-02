@@ -1,0 +1,139 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="ao3mpgame\cookedxenon\01_zoo_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\01_zoo_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\01_zoo_survivor.xxx" />
+    <Package path="ao3mpgame\cookedxenon\01_zoo_work_art_memory01.xxx" />
+    <Package path="ao3mpgame\cookedxenon\01_zoo_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\02_gz_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\02_gz_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\02_gz_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\03_constructionsite_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\03_constructionsite_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\03_constructionsite_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\04_temple_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\04_temple_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\04_temple_survivor.xxx" />
+    <Package path="ao3mpgame\cookedxenon\04_temple_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_blocking.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_control.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_irradiance.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_survivor.xxx" />
+    <Package path="ao3mpgame\cookedxenon\05_urbansquare_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_blocking.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_irradiance.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_pdm.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_sound.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_survivor.xxx" />
+    <Package path="ao3mpgame\cookedxenon\06_skyscrapers_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\3wuihud.xxx" />
+    <Package path="ao3mpgame\cookedxenon\3wuiingame.xxx" />
+    <Package path="ao3mpgame\cookedxenon\3wuimainmenus.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="A_button" suffix="1" />
+        <Object id="B_button" suffix="1" />
+        <Object id="new3WBackground" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\aiiu.xxx" />
+    <Package path="ao3mpgame\cookedxenon\akaudio.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ao2core.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ao3mpentry.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ao3mpfrontend.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ao3mpgame.xxx" />
+    <Package path="ao3mpgame\cookedxenon\core.xxx" />
+    <Package path="ao3mpgame\cookedxenon\engine.xxx" />
+    <Package path="ao3mpgame\cookedxenon\fonts_efigs_sf.xxx" />
+    <Package path="ao3mpgame\cookedxenon\gfxui.xxx" />
+    <Package path="ao3mpgame\cookedxenon\grip.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ipdrv.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ls_ao3mpgameinfo_control.xxx" />
+    <Package path="ao3mpgame\cookedxenon\ls_ao3mpgameinfo_pdm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_ao3mpgameinfo_survivor.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_ao3mpgameinfo_warzone.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_constructionsite_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_gz_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_map1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_skyscrapers_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_temple_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_urbansquare_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\ls_zoo_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="loadingscr" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\onlinesubsystemlive.xxx" />
+    <Package path="ao3mpgame\cookedxenon\onlinesubsystempc.xxx" />
+    <Package path="ao3mpgame\cookedxenon\startup_int.xxx" />
+    <Package path="ao3mpgame\cookedxenon\tccore.xxx" />
+    <Package path="ao3mpgame\cookedxenon\th_constructionsite_world_art.xxx" />
+    <Package path="ao3mpgame\cookedxenon\th_gz_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\th_map1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\th_skyscrapers_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\th_temple_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\th_urbansquare_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="ao3mpgame\cookedxenon\th_zoo_world_art.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Thumbnail" suffix="6" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

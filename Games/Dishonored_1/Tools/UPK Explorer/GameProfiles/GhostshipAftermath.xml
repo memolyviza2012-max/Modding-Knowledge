@@ -1,0 +1,17 @@
+﻿<Game packageFileVersion="867" packageLicenseeVersion="0" TFCMappingFileName="Ghostship Aftermath" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="UDKGame\CookedPC\*" TFCpath="UDKGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+	  <DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="VR Mode" TFCMappingFileName="VR">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="GhostShipaftermathVR\UDKGame\CookedPC\*" TFCpath="GhostShipaftermathVR\UDKGame\CookedPC\" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Hassle Free" TFCMappingFileName="HassleFree">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="GSAHassleFree\UDKGame\CookedPC\*" TFCpath="GSAHassleFree\UDKGame\CookedPC\" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

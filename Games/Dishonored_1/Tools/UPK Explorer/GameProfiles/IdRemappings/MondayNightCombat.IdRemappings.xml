@@ -1,0 +1,1762 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="hostilegame\cookedoriginal\core.u" />
+    <Package path="hostilegame\cookedoriginal\editormaterials.upk" />
+    <Package path="hostilegame\cookedoriginal\editormeshes.upk" />
+    <Package path="hostilegame\cookedoriginal\editorresources.upk" />
+    <Package path="hostilegame\cookedoriginal\engine_lights.upk" />
+    <Package path="hostilegame\cookedoriginal\engine_mi_shaders.upk" />
+    <Package path="hostilegame\cookedoriginal\engine.u" />
+    <Package path="hostilegame\cookedoriginal\enginebuildings.upk" />
+    <Package path="hostilegame\cookedoriginal\enginefonts.upk" />
+    <Package path="hostilegame\cookedoriginal\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\enginemeshes.upk" />
+    <Package path="hostilegame\cookedoriginal\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\enginesounds.upk" />
+    <Package path="hostilegame\cookedoriginal\enginevolumetrics.upk" />
+    <Package path="hostilegame\cookedoriginal\gameframework.u" />
+    <Package path="hostilegame\cookedoriginal\globalpersistentcookerdata.upk" />
+    <Package path="hostilegame\cookedoriginal\guidcache.upk" />
+    <Package path="hostilegame\cookedoriginal\hostilecontent.u" />
+    <Package path="hostilegame\cookedoriginal\hostilegame_loc_cht.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageA" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageB" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageC" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageD" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageE" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageF" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageG" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageH" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageC" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageD" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageE" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageF" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageG" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageH" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBA" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBC" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBD" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBE" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBF" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBG" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBH" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageE" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageF" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageG" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageH" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageJ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageL" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageM" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageN" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageO" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageP" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageQ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageR" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageS" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageT" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageU" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageV" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageW" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageX" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageY" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBA" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBB" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBA" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBB" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBC" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBD" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBE" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageO" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageA" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageB" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageC" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageD" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageE" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\hostilegame_loc_int.upk" />
+    <Package path="hostilegame\cookedoriginal\hostilegame_loc_jpn.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="3" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="3" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageC" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageD" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageE" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageF" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageG" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageH" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageI" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageJ" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBA" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBB" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBC" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBD" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBE" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBF" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBG" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBH" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBJ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBL" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBM" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBN" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBO" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBP" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBQ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageE" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageF" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageG" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageH" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageI" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageJ" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageK" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageL" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageM" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageN" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageO" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageP" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageQ" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageR" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageS" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageT" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageU" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageV" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageW" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageX" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageY" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBA" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBB" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageU" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageV" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageW" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageX" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageY" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBA" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBB" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBC" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBD" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBE" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBF" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBG" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBH" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBI" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBJ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBK" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBL" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBM" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBN" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBO" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageU" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageV" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageW" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageX" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageY" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageK" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageA" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageB" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageC" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageD" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageE" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageF" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageG" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\hostilegame_loc_kor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\hostilegame.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HUI_Highlights\HUIScene_HighlightReel\HUIScene_HighlightReel_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\hostilenoship.u" />
+    <Package path="hostilegame\cookedoriginal\ipdrv.u" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_ammomule.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_grenade3.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_lazerrazor.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_sprintz.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_spunky.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_steelpeel.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc1_survivitol.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\dlc2_uncletullys.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\happyvalentines.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\hostileentry.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\hostilelobby.hmap" />
+    <Package path="hostilegame\cookedoriginal\maps\tutorial.hmap" />
+    <Package path="hostilegame\cookedoriginal\nodebuddies.upk" />
+    <Package path="hostilegame\cookedoriginal\onlinesubsystemlive.u" />
+    <Package path="hostilegame\cookedoriginal\onlinesubsystempc.u" />
+    <Package path="hostilegame\cookedoriginal\onlinesubsystemsteamworks.u" />
+    <Package path="hostilegame\cookedoriginal\packages\haassaultrifle.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\haddons_textures.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\haddons.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hambientsounds_pc.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hambientsounds.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hanimfacefx.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hanimmenu.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hanimtreematinee.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hanimtutorial.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hassaultanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hassaultclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hbuildcover.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hchar_all.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharlgfoddersounds.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsharedsounds.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsmallfodder.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsassault.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsheavy.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsjuicebot.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsmascot.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsninja.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundssniper.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundssupport.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundstank.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcharsoundsturret.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hconstruction.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hcrowd.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hd1_deco_signs.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdamageicons.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_buildings.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_buildings2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_fdarena_effects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_fdarena.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\t_coreball_D" suffix="1" />
+        <Object id="Textures\t_coreball_N" suffix="1" />
+        <Object id="Textures\t_coreball_S" suffix="1" />
+        <Object id="Textures\t_coreshell_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_fdarena2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_floors.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_logos.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco_water.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdeco.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdecob.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdlc1_effects.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\T_Bacon_E" suffix="1" />
+        <Object id="Textures\T_Bacon_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hdlc1_protags.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdlc1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\t_pitgirl_D" suffix="1" />
+        <Object id="Textures\t_pitgirl_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hdlc1levelanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdlc2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hdlc2effects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hemblems.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hexplosive.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfirebase.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfireworks.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hflakbomb.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Particles\FlakLoop\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hfodderartillery.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderartilleryeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderboss.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfoddercloak.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfoddereffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfoddergrappler.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfoddergrapplereffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderheavy.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderheavyeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderkamikaze.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderlighteffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderlite.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderskilldrain.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfodderskilldraineffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfonts_cht.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="F_Broad18\F_Broad18_PageA" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageB" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageA" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageB" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageC" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageD" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageA" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageA" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageB" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageA" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageB" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageA" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageB" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageA" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageB" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageC" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageA" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageB" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageC" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageD" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageA" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageB" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageC" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageD" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageA" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageB" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageC" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageD" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageE" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageF" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageG" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hfonts_jpn.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="F_Broad18\F_Broad18_PageA" suffix="3" />
+        <Object id="F_Broad18\F_Broad18_PageB" suffix="3" />
+        <Object id="F_Broad18\F_Broad18_PageC" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageD" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageE" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageF" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageG" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageH" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageI" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageJ" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageK" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageA" suffix="3" />
+        <Object id="F_Broad28\F_Broad28_PageB" suffix="3" />
+        <Object id="F_Broad28\F_Broad28_PageBA" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBB" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBC" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBD" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBE" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBF" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBG" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBH" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBI" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBJ" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBK" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBL" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBM" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBN" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBO" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBP" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBQ" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageC" suffix="3" />
+        <Object id="F_Broad28\F_Broad28_PageD" suffix="3" />
+        <Object id="F_Broad28\F_Broad28_PageE" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageF" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageG" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageH" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageI" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageJ" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageK" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageL" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageM" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageN" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageO" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageP" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageQ" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageR" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageS" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageT" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageU" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageV" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageW" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageX" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageY" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageZ" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="3" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageF" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageG" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageH" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageI" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageA" suffix="3" />
+        <Object id="F_Prototype12\F_Prototype12_PageB" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageC" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageD" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageE" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageF" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageG" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageH" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageA" suffix="3" />
+        <Object id="F_Prototype14\F_Prototype14_PageB" suffix="3" />
+        <Object id="F_Prototype14\F_Prototype14_PageC" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageD" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageE" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageF" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageG" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageH" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageI" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageJ" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageK" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageA" suffix="3" />
+        <Object id="F_Prototype18\F_Prototype18_PageB" suffix="3" />
+        <Object id="F_Prototype18\F_Prototype18_PageC" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageD" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageE" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageF" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageG" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageH" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageI" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageJ" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageK" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageL" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageM" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageN" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageO" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageP" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageQ" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageR" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageA" suffix="3" />
+        <Object id="F_Prototype20\F_Prototype20_PageB" suffix="3" />
+        <Object id="F_Prototype20\F_Prototype20_PageC" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageD" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageE" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageF" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageG" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageH" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageI" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageJ" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageK" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageL" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageM" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageN" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageO" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageP" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageQ" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageR" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageS" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageA" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageB" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageC" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageD" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageE" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageF" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageG" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageH" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageI" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageJ" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageK" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageL" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageM" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageN" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageO" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageP" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageQ" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageR" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageS" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageT" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageU" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageV" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageW" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageX" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageY" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageA" suffix="3" />
+        <Object id="F_Prototype28\F_Prototype28_PageB" suffix="3" />
+        <Object id="F_Prototype28\F_Prototype28_PageBA" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageBB" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageC" suffix="3" />
+        <Object id="F_Prototype28\F_Prototype28_PageD" suffix="3" />
+        <Object id="F_Prototype28\F_Prototype28_PageE" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageF" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageG" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageH" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageI" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageJ" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageK" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageL" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageM" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageN" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageO" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageP" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageQ" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageR" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageS" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageT" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageU" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageV" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageW" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageX" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageY" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageZ" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageA" suffix="3" />
+        <Object id="F_Prototype32\F_Prototype32_PageB" suffix="3" />
+        <Object id="F_Prototype32\F_Prototype32_PageBA" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBB" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBC" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBD" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBE" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBF" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBG" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBH" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBI" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBJ" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBK" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBL" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBM" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBN" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBO" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageC" suffix="3" />
+        <Object id="F_Prototype32\F_Prototype32_PageD" suffix="3" />
+        <Object id="F_Prototype32\F_Prototype32_PageE" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageF" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageG" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageH" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageI" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageJ" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageK" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageL" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageM" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageN" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageO" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageP" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageQ" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageR" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageS" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageT" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageU" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageV" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageW" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageX" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageY" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageZ" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageA" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageB" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageC" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageD" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageE" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageF" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageG" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageH" suffix="3" />
+        <Object id="F_Prototype48\F_Prototype48_PageI" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageJ" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageK" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageA" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageB" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageC" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageD" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageE" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageF" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageG" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hfonts_kor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageA" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageB" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageC" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageD" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageE" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageF" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageG" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageH" suffix="1" />
+        <Object id="F_AmbexThin14\F_AmbexThin14_PageI" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageA" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageB" suffix="2" />
+        <Object id="F_Broad18\F_Broad18_PageC" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageD" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageE" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageF" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageG" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageH" suffix="1" />
+        <Object id="F_Broad18\F_Broad18_PageI" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageA" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageB" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageBA" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBB" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBC" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBD" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBE" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBF" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBG" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageBH" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageC" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageD" suffix="2" />
+        <Object id="F_Broad28\F_Broad28_PageE" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageF" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageG" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageH" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageI" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageJ" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageK" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageL" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageM" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageN" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageO" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageP" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageQ" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageR" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageS" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageT" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageU" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageV" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageW" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageX" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageY" suffix="1" />
+        <Object id="F_Broad28\F_Broad28_PageZ" suffix="1" />
+        <Object id="F_Prototype10\F_Prototype10_PageA" suffix="1" />
+        <Object id="F_Prototype10\F_Prototype10_PageB" suffix="1" />
+        <Object id="F_Prototype10\F_Prototype10_PageC" suffix="1" />
+        <Object id="F_Prototype10\F_Prototype10_PageD" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="2" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="1" />
+        <Object id="F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageA" suffix="2" />
+        <Object id="F_Prototype12\F_Prototype12_PageB" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageC" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageD" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageE" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageF" suffix="1" />
+        <Object id="F_Prototype12\F_Prototype12_PageG" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageA" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageB" suffix="2" />
+        <Object id="F_Prototype14\F_Prototype14_PageC" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageD" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageE" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageF" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageG" suffix="1" />
+        <Object id="F_Prototype14\F_Prototype14_PageH" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageA" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageB" suffix="2" />
+        <Object id="F_Prototype18\F_Prototype18_PageC" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageD" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageE" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageF" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageG" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageH" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageI" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageJ" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageK" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageL" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageM" suffix="1" />
+        <Object id="F_Prototype18\F_Prototype18_PageN" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageA" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageB" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageC" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageD" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageE" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageF" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageG" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageH" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageI" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageJ" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageK" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageL" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageM" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageN" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageO" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageP" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageQ" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageR" suffix="1" />
+        <Object id="F_Prototype20\F_Prototype20_PageS" suffix="2" />
+        <Object id="F_Prototype20\F_Prototype20_PageT" suffix="1" />
+        <Object id="F_Prototype24\F_Prototype24_PageA" suffix="3" />
+        <Object id="F_Prototype24\F_Prototype24_PageB" suffix="3" />
+        <Object id="F_Prototype24\F_Prototype24_PageC" suffix="3" />
+        <Object id="F_Prototype24\F_Prototype24_PageD" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageE" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageF" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageG" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageH" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageI" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageJ" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageK" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageL" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageM" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageN" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageO" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageP" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageQ" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageR" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageS" suffix="2" />
+        <Object id="F_Prototype24\F_Prototype24_PageT" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageA" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageB" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageBA" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageBB" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageC" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageD" suffix="2" />
+        <Object id="F_Prototype28\F_Prototype28_PageE" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageF" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageG" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageH" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageI" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageJ" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageK" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageL" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageM" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageN" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageO" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageP" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageQ" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageR" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageS" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageT" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageU" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageV" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageW" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageX" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageY" suffix="1" />
+        <Object id="F_Prototype28\F_Prototype28_PageZ" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageA" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageB" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageBA" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBB" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBC" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBD" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageBE" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageC" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageD" suffix="2" />
+        <Object id="F_Prototype32\F_Prototype32_PageE" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageF" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageG" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageH" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageI" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageJ" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageK" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageL" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageM" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageN" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageO" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageP" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageQ" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageR" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageS" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageT" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageU" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageV" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageW" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageX" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageY" suffix="1" />
+        <Object id="F_Prototype32\F_Prototype32_PageZ" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageA" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageB" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageC" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageD" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageE" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageF" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageG" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageH" suffix="2" />
+        <Object id="F_Prototype48\F_Prototype48_PageI" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageJ" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageK" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageL" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageM" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageN" suffix="1" />
+        <Object id="F_Prototype48\F_Prototype48_PageO" suffix="1" />
+        <Object id="F_Verdana10\F_Verdana10_PageA" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageB" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageC" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageD" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageE" suffix="2" />
+        <Object id="F_Verdana10\F_Verdana10_PageF" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hfonts.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hfx_hiteffects.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\hexagonEdgeGradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hfx.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hgearcrimson.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hgearretro.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hgenericeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hgrenade.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hhazards.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hhazardseffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hheavyanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hheavyclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hhud_skills.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hhud.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hjuicebotanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hjuiceboteffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hjumppadeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hlaserfunball.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hlensflares.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hlobby.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hmascotanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hmascotclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hmascoteffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hmusicriffs.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hpickupeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hpitgirlanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hpitgirlclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hplayereffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hpowercore.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hpowercoreeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hprocket.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hprotags.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hshared.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsmokebomb.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsniperanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsniperclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsound.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundcrowd.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundcrowdmurmur.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsounds_dlc01.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_assassin.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_assault.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_gunner.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_juicebot.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_sniper.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_support.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_tank_muffled.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_tank.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech_tutorial.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeech.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsoundspeechdlc1.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hspecopsanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hspecopsanimrm.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hspecopsclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsupportanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsupportclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hsupportstrikeeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\htankanim.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\htankclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\htankeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\htrapeffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\htraps.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hturreteffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hturretholo.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hturrets.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hturretskilleffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art_frontend.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art_frontend2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art_ingame.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art_spunkyarena.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_art2.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_awards.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_careermilestones.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_createclass.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_dlc_art.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_feedback.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_frontendmp.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_highlights.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_hud.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tooltip_keybind_bg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hui_lobby.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_lockerroom.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_menus_dlc1.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_menus_fe.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_menus_ingame.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_playbook.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_privatematchoptions.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_skillpurchase.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_trial.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_tu_art.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_tu_menus_ingame.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UIScenes\Scoreboard_Scene\Scoreboard_Scene_Preview" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hui_turretpurchase.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hui_updating.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_art.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_console.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_fe.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_keybinding.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_options.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\huipc_skins.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hvendingmachines.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hveryserious.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hvo_charpain.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_assaultrifle.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_flamethrower.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_laser.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_railgun.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_railguneffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_remote.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hw_sniperrifle.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\t_sniper_d" suffix="1" />
+        <Object id="Textures\t_sniper_n" suffix="1" />
+        <Object id="Textures\t_sniper_s" suffix="1" />
+        <Object id="Textures\t_sniper_tc" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\packages\hw_targetpainter.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hweaponsounds.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwgrenadelauncher.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwminigun.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwminiguneffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwmortareffects.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwmunitions.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwneedler.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwpistol.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwpistolsilenced.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwshotgun.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwshuriken.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwsword.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\hwuzi.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\soundclassesandmodes.upk" />
+    <Package path="hostilegame\cookedoriginal\packages\soundmodes.upk" />
+    <Package path="hostilegame\cookedoriginal\refcontenttagsindex.upk" />
+    <Package path="hostilegame\cookedoriginal\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="hostilegame\cookedoriginal\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="hostilegame\cookedoriginal\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_cht.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageA" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageB" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageC" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageD" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageE" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageF" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageG" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageH" suffix="1" />
+        <Object id="HFonts\F_AmbexThin14\F_AmbexThin14_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageC" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageD" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageE" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageF" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageG" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageH" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBA" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBC" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBD" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBE" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBF" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBG" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBH" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageE" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageF" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageG" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageH" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageJ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageL" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageM" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageN" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageO" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageP" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageQ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageR" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageS" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageT" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageU" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageV" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageW" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageX" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageY" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype10\F_Prototype10_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBA" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBB" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBA" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBB" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBC" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBD" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBE" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageS" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageT" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageZ" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageL" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageM" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageN" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageO" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageA" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageB" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageC" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageD" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageE" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\startup_deu.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_esn.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_fra.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_int.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_ita.upk" />
+    <Package path="hostilegame\cookedoriginal\startup_jpn.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="3" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="3" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageC" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageD" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageE" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageF" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageG" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageH" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageI" suffix="2" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageJ" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBA" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBB" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBC" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBD" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBE" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBF" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBG" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBH" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBI" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBJ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBK" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBL" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBM" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBN" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBO" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBP" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageBQ" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="3" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageE" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageF" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageG" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageH" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageI" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageJ" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageK" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageL" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageM" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageN" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageO" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageP" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageQ" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageR" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageS" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageT" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageU" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageV" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageW" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageX" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageY" suffix="2" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageB" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageH" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageI" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageJ" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageK" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageO" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageP" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageQ" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageR" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageC" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageD" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageU" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageV" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageW" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageX" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageY" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBA" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageBB" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageU" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageV" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageW" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageX" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageY" suffix="2" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBA" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBB" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBC" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBD" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBE" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBF" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBG" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBH" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBI" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBJ" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBK" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBL" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBM" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBN" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageBO" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageE" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageF" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageG" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageH" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageK" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageL" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageM" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageN" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageO" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageP" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageQ" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageR" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageS" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageT" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageU" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageV" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageW" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageX" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageY" suffix="2" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageZ" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="3" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageI" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageJ" suffix="2" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageK" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageA" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageB" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageC" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageD" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageE" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageF" suffix="2" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageG" suffix="1" />
+        <Object id="HFonts\F_Verdana10\F_Verdana10_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\startup_kor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HFonts\F_Broad18\F_Broad18_PageA" suffix="1" />
+        <Object id="HFonts\F_Broad18\F_Broad18_PageB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageA" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageB" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageC" suffix="1" />
+        <Object id="HFonts\F_Broad28\F_Broad28_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype10NoShadow\F_Prototype10NoShadow_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype12\F_Prototype12_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype12Shadow\F_Prototype10_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype12Shadow\F_Prototype10_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype12Shadow\F_Prototype10_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype12Shadow\F_Prototype10_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype14\F_Prototype14_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype18\F_Prototype18_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype20\F_Prototype20_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype24\F_Prototype24_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype28\F_Prototype28_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype32\F_Prototype32_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageA" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageB" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageC" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageD" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageE" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageF" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageG" suffix="1" />
+        <Object id="HFonts\F_Prototype48\F_Prototype48_PageH" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="hostilegame\cookedoriginal\ui\defaultuiskin.upk" />
+    <Package path="hostilegame\cookedoriginal\ui\uiarcpackage.upk" />
+    <Package path="hostilegame\cookedoriginal\unrealed.u" />
+    <Package path="hostilegame\cookedoriginal\unrealscripttest.u" />
+  </Packages>
+</IdRemapping>

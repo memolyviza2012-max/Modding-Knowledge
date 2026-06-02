@@ -1,0 +1,125 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_1_jungle.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_2_intel_collect.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_8" suffix="4" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_3_helicopter.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="7" />
+        <Object id="Texture2D_8" suffix="7" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_4_tank.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_8" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_5_stealth.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_7" suffix="6" />
+        <Object id="Texture2D_8" suffix="6" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_6_village.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_7" suffix="5" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rcm_7_survival.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\recruitsfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\maps\recruits\rmp_1_coast_assault.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\recruits\rmp_2_takeover.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_8" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

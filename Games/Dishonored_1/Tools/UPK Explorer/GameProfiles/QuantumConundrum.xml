@@ -1,0 +1,17 @@
+﻿<Game packageFileVersion="832" packageLicenseeVersion="32870" TFCMappingFileName="Quantum Conundrum" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="TryGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="The Desmond Debacle" TFCMappingFileName="PuzzlePack1">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="TryGame\DLC\PC\PuzzlePack1\CookedPCConsole" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Ike-aramba!" TFCMappingFileName="PuzzlePack2">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="TryGame\DLC\PC\PuzzlePack2\CookedPCConsole" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

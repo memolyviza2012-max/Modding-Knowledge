@@ -1,0 +1,829 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="stormgame\cookedpcconsole\akaudio.upk" />
+    <Package path="stormgame\cookedpcconsole\baseai.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylum_terrain.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_139" suffix="1" />
+        <Object id="Texture2D_145" suffix="1" />
+        <Object id="Texture2D_154" suffix="1" />
+        <Object id="Texture2D_173" suffix="1" />
+        <Object id="Texture2D_177" suffix="1" />
+        <Object id="Texture2D_194" suffix="1" />
+        <Object id="Texture2D_196" suffix="1" />
+        <Object id="Texture2D_198" suffix="1" />
+        <Object id="Texture2D_200" suffix="1" />
+        <Object id="Texture2D_202" suffix="1" />
+        <Object id="Texture2D_217" suffix="1" />
+        <Object id="Texture2D_221" suffix="1" />
+        <Object id="Texture2D_246" suffix="1" />
+        <Object id="Texture2D_386" suffix="1" />
+        <Object id="Texture2D_391" suffix="1" />
+        <Object id="Texture2D_392" suffix="1" />
+        <Object id="Texture2D_393" suffix="1" />
+        <Object id="Texture2D_413" suffix="1" />
+        <Object id="Texture2D_415" suffix="1" />
+        <Object id="Texture2D_419" suffix="1" />
+        <Object id="Texture2D_429" suffix="1" />
+        <Object id="Texture2D_430" suffix="1" />
+        <Object id="Texture2D_535" suffix="1" />
+        <Object id="Texture2D_536" suffix="1" />
+        <Object id="Texture2D_537" suffix="1" />
+        <Object id="Texture2D_538" suffix="1" />
+        <Object id="Texture2D_539" suffix="1" />
+        <Object id="Texture2D_540" suffix="1" />
+        <Object id="Texture2D_541" suffix="1" />
+        <Object id="Texture2D_542" suffix="1" />
+        <Object id="Texture2D_543" suffix="2" />
+        <Object id="Texture2D_544" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_02_mmowel_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_02_mmowel.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_begin_an_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_begin_an.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_blocking_volumes.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_elewacja.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_k_choices_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_k_choices.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep1_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_01b_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_02b_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_animations_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_animations.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_music_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_01b_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_animations_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_animations.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep2b_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_01_g_a.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_block_vol.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_elewacja.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_foliage_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_liv.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_outdoor_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_shell_board.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3_terrain_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_543" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_block_vol.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_shell_board.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep3b_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_ballroom.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_sound_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-asylumep4_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_branching_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_branching_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_branching.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c01_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c02_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c03_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c04_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c05_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c06_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c07_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c08_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c09_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c10_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c11_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c12_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c13_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_00_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_animation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_evidence_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_evidence.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_c14_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-dark_room_standalone.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_02_g_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_03_g_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_04_g_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_1_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g_03b.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g_03c.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_3_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_g_04.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k_01_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k_02_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_4_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_04.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_asylum.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g_asylum2.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_k_asylum_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_k_asylum.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_rr_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis_6_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-oasis02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_05_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_05_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_06_g.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_06_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_06_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_07_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_07_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_g_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_landscape_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_landscape_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_412" suffix="1" />
+        <Object id="Texture2D_540" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_music_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shell_day_case_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_an_final_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_an_final.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_base_01.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_begin_an.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_birds.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_blockvol.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_clock.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_dominant.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_downstairs.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_elev_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_elevation.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_end_an_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_end_an_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_end_an.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_end.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_01_seba.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_build_1.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_building.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_temp.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_temp2.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_temp3.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_temp4.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_g_tree.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_global.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_01_seba_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_01_seba.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_02_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_03_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_k_03.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_l0.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_6" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_ltl0.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_ltl1.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_music_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_music_red.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_music.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_p.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_pp_black.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_pp_red.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_red_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_red_k.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_sound_red.upk" />
+    <Package path="stormgame\cookedpcconsole\bk-shelter_prologue_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\bs_weaponskindefault_sf.upk" />
+    <Package path="stormgame\cookedpcconsole\core.upk" />
+    <Package path="stormgame\cookedpcconsole\engine.upk" />
+    <Package path="stormgame\cookedpcconsole\gameframework.upk" />
+    <Package path="stormgame\cookedpcconsole\get_an_fpp_generic_sf.upk" />
+    <Package path="stormgame\cookedpcconsole\get_at_characters_sf.upk" />
+    <Package path="stormgame\cookedpcconsole\gfxui.upk" />
+    <Package path="stormgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="stormgame\cookedpcconsole\guidcache.upk" />
+    <Package path="stormgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_05.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_06.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_07.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_08.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_09.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_10.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_11.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_12.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_13.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_14.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_15.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_16.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_17.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_18.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_19.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_20.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_21.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_22.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_g_global.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_01_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_02_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_03_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_05_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_05.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_06_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k_06.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_landscape.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_music_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_music.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_p.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_postpr_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_postpr.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red_k_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red_k_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red_k_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_sound_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_midnight_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_a.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_b.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_c.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_d.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_lights_new.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_lights_tog.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01_pg_pipes.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_02_a.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_02_lights_new.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_04_lights_new.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_04_off_merge.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_07_outdoor.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_fakeroom.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_fakeroom2.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_g_skydome.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_global.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_01_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_02_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_03_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_04_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_05.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_06_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_06_pickup.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_06.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_07_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_07.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_08_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_08.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_09_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_09.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_10_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_k_10.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_music_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_music.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_p.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-city_night_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_05_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_05_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_music.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_p.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-mansion_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_03_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_04_g_a.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_04_g_b.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_04_g_c.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_05_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_05_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_07_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_07_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_birds.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_farmeshes_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_global.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_landscape.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_138" suffix="1" />
+        <Object id="Texture2D_147" suffix="1" />
+        <Object id="Texture2D_382" suffix="1" />
+        <Object id="Texture2D_383" suffix="1" />
+        <Object id="Texture2D_384" suffix="1" />
+        <Object id="Texture2D_412" suffix="2" />
+        <Object id="Texture2D_423" suffix="1" />
+        <Object id="Texture2D_424" suffix="1" />
+        <Object id="Texture2D_425" suffix="1" />
+        <Object id="Texture2D_4644" suffix="1" />
+        <Object id="Texture2D_4648" suffix="1" />
+        <Object id="Texture2D_4683" suffix="1" />
+        <Object id="Texture2D_4685" suffix="1" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_787" suffix="1" />
+        <Object id="Texture2D_804" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_liv.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_music_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_music_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_music.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_p.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_postpr_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_postpr.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_red_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_red_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_red_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_red_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_red_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_sound_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_day_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_04_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_04.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_05.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_06.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_07.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_08.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_09.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g_10.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_g.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_landscape.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_100" suffix="1" />
+        <Object id="Texture2D_118" suffix="1" />
+        <Object id="Texture2D_121" suffix="1" />
+        <Object id="Texture2D_123" suffix="1" />
+        <Object id="Texture2D_135" suffix="1" />
+        <Object id="Texture2D_138" suffix="2" />
+        <Object id="Texture2D_141" suffix="1" />
+        <Object id="Texture2D_143" suffix="1" />
+        <Object id="Texture2D_144" suffix="1" />
+        <Object id="Texture2D_146" suffix="1" />
+        <Object id="Texture2D_147" suffix="2" />
+        <Object id="Texture2D_160" suffix="1" />
+        <Object id="Texture2D_244" suffix="1" />
+        <Object id="Texture2D_246" suffix="2" />
+        <Object id="Texture2D_247" suffix="1" />
+        <Object id="Texture2D_251" suffix="1" />
+        <Object id="Texture2D_382" suffix="2" />
+        <Object id="Texture2D_383" suffix="2" />
+        <Object id="Texture2D_384" suffix="2" />
+        <Object id="Texture2D_385" suffix="1" />
+        <Object id="Texture2D_386" suffix="2" />
+        <Object id="Texture2D_387" suffix="1" />
+        <Object id="Texture2D_388" suffix="1" />
+        <Object id="Texture2D_389" suffix="1" />
+        <Object id="Texture2D_390" suffix="1" />
+        <Object id="Texture2D_391" suffix="2" />
+        <Object id="Texture2D_392" suffix="2" />
+        <Object id="Texture2D_393" suffix="2" />
+        <Object id="Texture2D_394" suffix="1" />
+        <Object id="Texture2D_395" suffix="1" />
+        <Object id="Texture2D_396" suffix="1" />
+        <Object id="Texture2D_398" suffix="1" />
+        <Object id="Texture2D_399" suffix="1" />
+        <Object id="Texture2D_400" suffix="1" />
+        <Object id="Texture2D_401" suffix="1" />
+        <Object id="Texture2D_405" suffix="1" />
+        <Object id="Texture2D_408" suffix="1" />
+        <Object id="Texture2D_410" suffix="1" />
+        <Object id="Texture2D_412" suffix="3" />
+        <Object id="Texture2D_413" suffix="2" />
+        <Object id="Texture2D_414" suffix="1" />
+        <Object id="Texture2D_415" suffix="2" />
+        <Object id="Texture2D_416" suffix="1" />
+        <Object id="Texture2D_417" suffix="1" />
+        <Object id="Texture2D_419" suffix="2" />
+        <Object id="Texture2D_423" suffix="2" />
+        <Object id="Texture2D_424" suffix="2" />
+        <Object id="Texture2D_425" suffix="2" />
+        <Object id="Texture2D_426" suffix="1" />
+        <Object id="Texture2D_4607" suffix="1" />
+        <Object id="Texture2D_4608" suffix="1" />
+        <Object id="Texture2D_4644" suffix="2" />
+        <Object id="Texture2D_4648" suffix="2" />
+        <Object id="Texture2D_4683" suffix="2" />
+        <Object id="Texture2D_4685" suffix="2" />
+        <Object id="Texture2D_4690" suffix="1" />
+        <Object id="Texture2D_4728" suffix="1" />
+        <Object id="Texture2D_4730" suffix="1" />
+        <Object id="Texture2D_4733" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_543" suffix="3" />
+        <Object id="Texture2D_553" suffix="1" />
+        <Object id="Texture2D_786" suffix="1" />
+        <Object id="Texture2D_787" suffix="2" />
+        <Object id="Texture2D_788" suffix="1" />
+        <Object id="Texture2D_98" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_liv.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_music_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_music.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_p.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_postpr_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_postpr.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_01_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_01.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_02_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_02.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_03.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_red_k.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_rooms.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_sound_red.upk" />
+    <Package path="stormgame\cookedpcconsole\mp-shell_fog_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_anim.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_p.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-red_room_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_01_g_tmp.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_01_g02.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_global.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_liv.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_p_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_p.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_rr_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_rr_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_rr_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_start_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_start_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_howard_start_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_03_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_cutscene.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_hall_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_hall_new.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_hall.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_p.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_jasper_temp_mesh.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_02_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_03_g_tom.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_03_k_tom_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_03_k_tom.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_block_vol.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_end_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_end_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_end_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_global.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_hospital_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_liv.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_p.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_sound_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_mary_story.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_01_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_01_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_01_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_02_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_02_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_03_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_04_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_04_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_05_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_05_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_06_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_06_k_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_06_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_07_g.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_07_k.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_light.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_music.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_p.upk" />
+    <Package path="stormgame\cookedpcconsole\rd-shelter_red_sound.upk" />
+    <Package path="stormgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="stormgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\startup.upk" />
+    <Package path="stormgame\cookedpcconsole\stormgame_loc_int.upk" />
+    <Package path="stormgame\cookedpcconsole\stormgame_p.upk" />
+    <Package path="stormgame\cookedpcconsole\stormgame.upk" />
+    <Package path="stormgame\cookedpcconsole\ui-startmap_p.upk" />
+    <Package path="stormgame\cookedpcconsole\windrv.upk" />
+  </Packages>
+</IdRemapping>

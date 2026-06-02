@@ -1,0 +1,115 @@
+﻿<!--Filename.xml: Does not matter as long as it's .xml
+    Game:
+    packageFileVersion: used to identify the game from reading the package file header
+    packageLicenseeVersion: used to identify the game from reading the package file header
+    displayName: optional: used for display only. If not defined, TFCMappingFileName is used instead
+    TFCMappingFileName: name used for export/import folders and the texture package .TFCMapping files. Do not use special characters!
+    defaultTFC: optional: some games store an inexistant TFC name in their texture, and use a single TFC instead.
+	enableCustomTFCs: optional True or False (True if undefined). Enables or disables generation of custom tfcs during texture pack creation
+	enableTFCNamePropertyCleanup: optional True or False (True if undefined). If true, Texture2D's TextureCacheFileName property will be removed if unused. Some games need this set to false so they don't crash.
+	enableUpdateStats: optional True or False (True if undefined). If enabled, package update statistics are encoded in modified packages.
+	removeLODBias: optional True or False (False if undefined). If true, Texture2D's LODBias property will be removed when the texture is injected
+	removeLODGroup: optional True or False (False if undefined). If true, Texture2D's LODGroup property will be removed when the texture is injected
+	hasHashCheck: optional True or False (False if undefined). Enables or disables patching of the game.exe during texture pack installation, for games that perform a hash check on the package files
+	gameExeFilePath: optional. Defines the file path to the exe file, required if hasHashCheck="True"
+	TOCFilePath: optional. Defines the file path to the main TOC file. If set, TFC Installer will update it.
+	enableObjectDataShift: optional True or False (False if undefined). If enabled, objects that become larger due to import or property edits will shift objects after them instead of being written at the end of the file.
+	enableExpandTables: optional True or False (True if undefined). If disabled, tables (names/imports/exports) that become larger will be moved to the end of the package instead of expanded in the package header
+	LZXrecompression: optional enum (LZX if undefined). Specifies the compression method to recompress LZX packages. Supported values: LZX, LZO, ZLib
+	updateUITextureSizeProperties: optional True or False (False if undefined). If enabled, SizeX and SizeY properties will be updated for upscaled UI textures
+	deleteUCSFiles: optional True or False (False if undefined). If enabled, .ucs files associated to modified packages will be deleted (Bioshock Infinite)
+	deleteUncompressedSizeFiles: optional True or False (False if undefined). If enabled, .uncompressed_size files associated to modified packages will be deleted (Aliens Colonial Marines)
+	enableNewCompressedChunks: optional True or False (True if undefined). If enabled, new compressed chunks can be added to the end of the file
+	packageRecompression: optional enum (Full if undefined). Supported values are Full, Partial and None
+		All = all packages are recompressed
+		Partial = fully compressed packages are uncompressed. Partially compressed packages are recompressed.
+		None = all packages are uncompressed
+	platform: optional enum (PC if undefined). Supported values are PC, PS3, PS4, XBox360, Switch, WiiU
+	gameId: optional string (null if undefined). Used to differentiate games with conflicting package version that require different parsers
+	optimizePackageSpace: optional True or False (False if undefined). If enabled, package space is optimized when saving to reduce unused space
+	
+    Important note: 
+	- packageFileVersion+packageLicenseeVersion must be unique for each "Game"
+    - Each path defined with the "Game" structure must be unique and have the same root relative to the game main folder
+    - Each customTFCStartIndex defined within the "Game" structure must be unique, and have a sufficient gap between each value to allow for multiple custom TFC with unique names
+    -->
+<Game packageFileVersion="0" packageLicenseeVersion="0" 
+	  displayName="Sample game: profile!" TFCMappingFileName="SampleGame"
+	  defaultTFC="SampleEngine\CookedPCConsole\Coalesced.tfc"
+	  enableCustomTFCs="True"
+	  enableTFCNamePropertyCleanup="True"
+	  enableUpdateStats="True"
+	  removeLODBias="False"
+	  removeLODGroup="False"
+	  hasHashCheck="True"
+	  tfcExtension=".tfc"
+	  gameExeFilePath="Binaries\Win32\SampleGame.exe"
+	  TOCFilePath="SampleEngine\PCConsoleTOC.txt"
+	  enableObjectDataShift="False"
+	  enableExpandTables="True"
+	  LZXrecompression="LZX"
+	  platform="PC"
+	  gameId="SAMPLE"
+	  updateUITextureSizeProperties="False"
+	  enableNewCompressedChunks="True"
+	  packageRecompression="Full"
+	  deleteUCSFiles="False"
+	  deleteUncompressedSizeFiles="False"
+	  optimizePackageSpace="True"
+	  xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+
+	<!-- List of additional package versions used by the game. This is needed for the correct game profile to be selected when a single package is opened -->
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="0" licenseeVersion="1"/>
+		<PackageVersion fileVersion="0" licenseeVersion="2"/>
+		<PackageVersion fileVersion="0" licenseeVersion="3"/>
+	</PackageVersions>
+	
+	<!-- List of invalid packages to ignore-->
+	<ExcludedFile>SampleEngine\CookedPCConsole\InvalidPackage1.upk</ExcludedFile>
+	<ExcludedFile>SampleEngine\CookedPCConsole\Levels\Packages\InvalidPackage2.upk</ExcludedFile>
+
+	<!-- List of Package folders for the main game. Multiple folders can be added -->
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<!-- 
+            path: the relative path to the package files, from the main game folder. Do not start or end with "\"
+			if ended with \*, sub directories will be included. In this case a dedicated TFCPath needs to be defined
+            TFCpath: optional: same as path, but for TFC files used by the packages defined in path, if stored in a separate folder. If not defined, "path" is used instead
+            TFCpath2: optional: same as TFCpath, for an additional TFC folder.
+			customTFCpath: optional: same as TFCpath, but used as destination folder for custom TFC. Only for games that don't support extra files in the path/TFCpath folder. 
+            customTFCStartIndex: used as starting prefix for custom TFC files. Is incremented for each generated custom TFC file, 
+            so leave sufficient gap between values in order for the TFC files to have a unique name. Data type is Int32
+            Note that it is also increased during installation of a texture pack if there is already a file with the same name in the destination folder
+			Also note that if a TFCpath appears several times within a "PackageFolders" structure, all occurences should share the same customTFCStartIndex-->
+		<PackageFolder path="SampleEngine\CookedPCConsole" customTFCStartIndex="0" />
+		<PackageFolder path="SampleEngine\CookedPCConsole\Levels\Packages" TFCpath="SampleEngine\DLC\PCConsole\Levels\TFCs" TFCpath2="SampleEngine\DLC\PCConsole\Levels3\TFCs" customTFCStartIndex="1000" />
+		<PackageFolder path="SampleEngine\CookedPCConsole\Levels2\Packages\*" TFCpath="SampleEngine\DLC\PCConsole\Levels\TFCs" customTFCStartIndex="1000" />
+		<PackageFolder path="SampleEngine\CookedPCConsole\Levels3\Packages\*" TFCpath="SampleEngine\DLC\PCConsole\Levels3\TFCs" customTFCStartIndex="2000">
+			<!-- Excluded folders (optional). If subdirectories are included in the package folder, it is possible to exclude some subfolders -->
+			<ExcludedFolder>SampleEngine\CookedPCConsole\Levels3\Packages\Patch</ExcludedFolder>
+			<ExcludedFolder>SampleEngine\CookedPCConsole\Levels3\Packages\DLC\*</ExcludedFolder>
+		</PackageFolder>
+	</PackageFolders>
+	<!-- List of DLCs if stored in separate folders. If stored in the main game package folders, do not declare DLCs -->
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<!-- DLC: displayName, TFCMappingFileName: same properties as in "Game"-->
+		<DLC displayName="Episode 1: Sample" TFCMappingFileName="Ep01">
+			<!-- PackageFolders: same structure as package folders in "Game"-->
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP01\Packages" TFCpath="SampleEngine\DLC\PCConsole\EP01\TFCs"  customTFCStartIndex="3000" customTFCpath="SampleEngine\CookedPCConsole"/>
+				<!-- Note the TFCPath is also used in the main game package folders. In this case it needs a dedicated customStartIndex for this DLC -->
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP01\Packages2" TFCpath="SampleEngine\DLC\PCConsole\Levels\TFCs"  customTFCStartIndex="4000" />
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP01\Packages3" TFCpath="SampleEngine\DLC\PCConsole\Levels\TFCs"  customTFCStartIndex="4000" />
+			</PackageFolders>
+		</DLC>
+		<!-- DLC! displayName, TFCMappingFileName: same properties as in "Game"-->
+		<DLC displayName="Episode 2: More Samples" TFCMappingFileName="Ep02">
+			<!-- PackageFolders: same structure as package folders in "Game"-->
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP02" customTFCStartIndex="5000" />
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP02\Levels\Packages" TFCpath="SampleEngine\DLC\PCConsole\EP02\Levels\TFCs" customTFCStartIndex="6000" />
+				<PackageFolder path="SampleEngine\DLC\PCConsole\EP02\Characters" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

@@ -1,0 +1,354 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\arenamovingbits.ukx" />
+    <Package path="animations\blackfx_k.ukx" />
+    <Package path="animations\creatures_blackanims.ukx" />
+    <Package path="animations\creatures_blueanims.ukx" />
+    <Package path="animations\creatures_greenanims.ukx" />
+    <Package path="animations\creatures_redanims.ukx" />
+    <Package path="animations\creatures_whiteanims.ukx" />
+    <Package path="animations\magiclevels.ukx" />
+    <Package path="animations\menu.ukx" />
+    <Package path="animations\menu2.ukx" />
+    <Package path="animations\wizards.ukx" />
+    <Package path="maps\auto1.mbg" />
+    <Package path="maps\auto2.mbg" />
+    <Package path="maps\entry.mbg" />
+    <Package path="maps\mainmenulevel.mbg" />
+    <Package path="maps\majorarenablack.mbg" />
+    <Package path="maps\majorarenablue.mbg" />
+    <Package path="maps\majorarenafinal.mbg" />
+    <Package path="maps\majorarenagreen.mbg" />
+    <Package path="maps\majorarenared.mbg" />
+    <Package path="maps\majorarenawhite.mbg" />
+    <Package path="maps\minorarenablack1.mbg" />
+    <Package path="maps\minorarenablack2.mbg" />
+    <Package path="maps\minorarenablue1.mbg" />
+    <Package path="maps\minorarenablue2.mbg" />
+    <Package path="maps\minorarenagreen1.mbg" />
+    <Package path="maps\minorarenagreen2.mbg" />
+    <Package path="maps\minorarenared1.mbg" />
+    <Package path="maps\minorarenared2.mbg" />
+    <Package path="maps\minorarenawhite1.mbg" />
+    <Package path="maps\minorarenawhite2.mbg" />
+    <Package path="maps\secretlevel.mbg" />
+    <Package path="sounds\ambientsounds.uax" />
+    <Package path="sounds\incantsakroma.uax" />
+    <Package path="sounds\incantsalberon.uax" />
+    <Package path="sounds\incantsangus.uax" />
+    <Package path="sounds\incantsarcanis.uax" />
+    <Package path="sounds\incantsentorin.uax" />
+    <Package path="sounds\incantsevalisa.uax" />
+    <Package path="sounds\incantsihsan.uax" />
+    <Package path="sounds\incantsjoe.uax" />
+    <Package path="sounds\incantskeroc.uax" />
+    <Package path="sounds\incantsmaraxus.uax" />
+    <Package path="sounds\incantsmidia.uax" />
+    <Package path="sounds\incantsmishra.uax" />
+    <Package path="sounds\incantsmultani.uax" />
+    <Package path="sounds\incantstenera.uax" />
+    <Package path="sounds\incantstsabo.uax" />
+    <Package path="sounds\incantsvilanti.uax" />
+    <Package path="sounds\incantsvolita.uax" />
+    <Package path="sounds\incantszayel.uax" />
+    <Package path="sounds\magicsounds.uax" />
+    <Package path="sounds\magicwizardspeech.uax" />
+    <Package path="sounds\menusounds.uax" />
+    <Package path="sounds\minorarenablue1_sd.uax" />
+    <Package path="sounds\tutorialmodesounds.uax" />
+    <Package path="staticmeshes\all_arenas.usx" />
+    <Package path="staticmeshes\arena_black.usx" />
+    <Package path="staticmeshes\arena_green.usx" />
+    <Package path="staticmeshes\arenafxstaticmeshes.usx" />
+    <Package path="staticmeshes\aw-natural.usx" />
+    <Package path="staticmeshes\barbring.usx" />
+    <Package path="staticmeshes\bg-floragen.usx" />
+    <Package path="staticmeshes\blackarenaextras.usx" />
+    <Package path="staticmeshes\blackarenaitems.usx" />
+    <Package path="staticmeshes\blackfx_s.usx" />
+    <Package path="staticmeshes\caballevel.usx" />
+    <Package path="staticmeshes\cathedral.usx" />
+    <Package path="staticmeshes\clothespackage.usx" />
+    <Package path="staticmeshes\creature_blackstatic.usx" />
+    <Package path="staticmeshes\crimsonhellkitemesh.usx" />
+    <Package path="staticmeshes\demomeshes.usx" />
+    <Package path="staticmeshes\froggy.usx" />
+    <Package path="staticmeshes\fx_staticmeshes.usx" />
+    <Package path="staticmeshes\fx_staticmeshes2.usx" />
+    <Package path="staticmeshes\gibmeshpackage.usx" />
+    <Package path="staticmeshes\gibs.usx" />
+    <Package path="staticmeshes\goblin_pit.usx" />
+    <Package path="staticmeshes\gorefx.usx" />
+    <Package path="staticmeshes\greenarena.usx" />
+    <Package path="staticmeshes\ingameicons.usx" />
+    <Package path="staticmeshes\ixionmesh.usx" />
+    <Package path="staticmeshes\lavaworld.usx" />
+    <Package path="staticmeshes\logopak.usx" />
+    <Package path="staticmeshes\loushield2.usx" />
+    <Package path="staticmeshes\magicgenericmeshes.usx" />
+    <Package path="staticmeshes\magiclandmeshes.usx" />
+    <Package path="staticmeshes\magicskies.usx" />
+    <Package path="staticmeshes\magicstaticmeshes.usx" />
+    <Package path="staticmeshes\majorblack_extrasm.usx" />
+    <Package path="staticmeshes\majorbluu.usx" />
+    <Package path="staticmeshes\majorfinalstaticmeshes.usx" />
+    <Package path="staticmeshes\majorredstaticmeshes.usx" />
+    <Package path="staticmeshes\manavault.usx" />
+    <Package path="staticmeshes\map_meshes.usx" />
+    <Package path="staticmeshes\mapiconssm.usx" />
+    <Package path="staticmeshes\menumeshes.usx" />
+    <Package path="staticmeshes\minor_arena_blue2mesh.usx" />
+    <Package path="staticmeshes\minor_arena_white.usx" />
+    <Package path="staticmeshes\minor_arena_white2.usx" />
+    <Package path="staticmeshes\minor_arena_whitelou.usx" />
+    <Package path="staticmeshes\minorarenablack1_sm2.usx" />
+    <Package path="staticmeshes\minorarenablue.usx" />
+    <Package path="staticmeshes\minorarenablue1_sm.usx" />
+    <Package path="staticmeshes\minorarenablue1.usx" />
+    <Package path="staticmeshes\minorblack1_staticmeshes.usx" />
+    <Package path="staticmeshes\minorblack3_sm.usx" />
+    <Package path="staticmeshes\minorblackstaticmeshes.usx" />
+    <Package path="staticmeshes\minorgreen1_sm.usx" />
+    <Package path="staticmeshes\minorgreen3_sm.usx" />
+    <Package path="staticmeshes\minorwhiteskymeshes.usx" />
+    <Package path="staticmeshes\miscphysicsmeshes.usx" />
+    <Package path="staticmeshes\mogg_hollow.usx" />
+    <Package path="staticmeshes\nomadterrain.usx" />
+    <Package path="staticmeshes\outsideenviron.usx" />
+    <Package path="staticmeshes\quads.usx" />
+    <Package path="staticmeshes\redpit.usx" />
+    <Package path="staticmeshes\rshwood.usx" />
+    <Package path="staticmeshes\sc_meshparticles.usx" />
+    <Package path="staticmeshes\secretlevelmeshes.usx" />
+    <Package path="staticmeshes\sidessmpackage.usx" />
+    <Package path="staticmeshes\sidessmpackage2.usx" />
+    <Package path="staticmeshes\spawnmesh.usx" />
+    <Package path="staticmeshes\spellstaticmeshes.usx" />
+    <Package path="staticmeshes\standardenchantments.usx" />
+    <Package path="staticmeshes\staticcharaters.usx" />
+    <Package path="staticmeshes\swamppuddle.usx" />
+    <Package path="staticmeshes\testsplayfields.usx" />
+    <Package path="staticmeshes\wareffectsmeshes.usx" />
+    <Package path="staticmeshes\whitearena.usx" />
+    <Package path="staticmeshes\whitearenamesh.usx" />
+    <Package path="system\cabalarena.u" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gamespy.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\magicanimateditems.u" />
+    <Package path="system\magiccreatures.u" />
+    <Package path="system\magiceffects.u" />
+    <Package path="system\magicenemies.u" />
+    <Package path="system\magicgame.u" />
+    <Package path="system\magicmenu.u" />
+    <Package path="system\magicquests.u" />
+    <Package path="system\magicspelleffects.u" />
+    <Package path="system\magicspells.u" />
+    <Package path="system\magicwizardbrains.u" />
+    <Package path="textures\acromatexpackage.utx" />
+    <Package path="textures\airelementaltexpackage.utx" />
+    <Package path="textures\ancientsilverbacktexpackage.utx" />
+    <Package path="textures\angelofretributiontexpackage.utx" />
+    <Package path="textures\arcanistexpackage.utx" />
+    <Package path="textures\arenacover.utx" />
+    <Package path="textures\arenatex.utx" />
+    <Package path="textures\avatarofmighttexpackage.utx" />
+    <Package path="textures\aw-convert.utx" />
+    <Package path="textures\aw-cubes.utx" />
+    <Package path="textures\barbariantexpackage.utx" />
+    <Package path="textures\black_environment.utx" />
+    <Package path="textures\blackarenaextrastextures.utx" />
+    <Package path="textures\blackarenatex.utx" />
+    <Package path="textures\blackbluegodrays.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Greenlevel\godraygradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\blackfx_t.utx" />
+    <Package path="textures\blackkerntexpackage.utx" />
+    <Package path="textures\blacklayout.utx" />
+    <Package path="textures\blackmedeatexpak.utx" />
+    <Package path="textures\blasttextures.utx" />
+    <Package path="textures\blessedoratortexpackage.utx" />
+    <Package path="textures\blood.utx" />
+    <Package path="textures\bluefrog.utx" />
+    <Package path="textures\bluetower.utx" />
+    <Package path="textures\bluevilantitexpackage.utx" />
+    <Package path="textures\bluexaeiltexpackage.utx" />
+    <Package path="textures\cabalpatriarchtexpackage.utx" />
+    <Package path="textures\carnophagetexpackage.utx" />
+    <Package path="textures\creatures_greentex.utx" />
+    <Package path="textures\creatures_placehodertex.utx" />
+    <Package path="textures\creatures_redtex.utx" />
+    <Package path="textures\crimsonhellkitetex.utx" />
+    <Package path="textures\deathsheadbuzzardtexpackage.utx" />
+    <Package path="textures\defiantelftexpackage.utx" />
+    <Package path="textures\demotextures.utx" />
+    <Package path="textures\draketexturepackage.utx" />
+    <Package path="textures\elvishwarriortexpackage.utx" />
+    <Package path="textures\enchantmentpackage.utx" />
+    <Package path="textures\entorintexpackage.utx" />
+    <Package path="textures\environment.utx" />
+    <Package path="textures\envpackage.utx" />
+    <Package path="textures\femalemagetexpackage.utx" />
+    <Package path="textures\femaletexpackage.utx" />
+    <Package path="textures\fugitivewizardtexpackage.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VilantiBODY" suffix="1" />
+        <Object id="VilantiEXTRA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\fx_manaball.utx" />
+    <Package path="textures\fx.utx" />
+    <Package path="textures\fxpackage.utx" />
+    <Package path="textures\fxtest.utx" />
+    <Package path="textures\genericmaletexpackage.utx" />
+    <Package path="textures\giantspidertexpackage.utx" />
+    <Package path="textures\goblinherotexpackage.utx" />
+    <Package path="textures\goblinkingtexpackage.utx" />
+    <Package path="textures\goblinskyraidertex.utx" />
+    <Package path="textures\gorefx_tex.utx" />
+    <Package path="textures\gorillachieftaintexpackage.utx" />
+    <Package path="textures\green_environment.utx" />
+    <Package path="textures\greenentorintexpackage.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="greenEntorin_BaseTex" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\greenteneratexpackage.utx" />
+    <Package path="textures\harbingerofnighttexpackage.utx" />
+    <Package path="textures\havocdemontexpackage.utx" />
+    <Package path="textures\helpericons.utx" />
+    <Package path="textures\hornedturtletex.utx" />
+    <Package path="textures\iconspackage.utx" />
+    <Package path="textures\ihsantexpackage.utx" />
+    <Package path="textures\ixiontex.utx" />
+    <Package path="textures\ja-magictextures.utx" />
+    <Package path="textures\jm-particl2.utx" />
+    <Package path="textures\joetexpackage.utx" />
+    <Package path="textures\juzamtexpackage.utx" />
+    <Package path="textures\krovikanvampiretex.utx" />
+    <Package path="textures\largelandscape.utx" />
+    <Package path="textures\lava_world_tex.utx" />
+    <Package path="textures\llanowarelvestexpackage.utx" />
+    <Package path="textures\logotex.utx" />
+    <Package path="textures\loushield.utx" />
+    <Package path="textures\loussowrd2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Red\goldDark" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\magic_cube_envmaps.utx" />
+    <Package path="textures\magic_hud_asia.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Icons\ui_healthbarLeftBG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\magic_hud.utx" />
+    <Package path="textures\magic_pt.utx" />
+    <Package path="textures\magic_spellicons.utx" />
+    <Package path="textures\magic_ui.utx" />
+    <Package path="textures\magicfonts.utx" />
+    <Package path="textures\magicfonts2.utx" />
+    <Package path="textures\magicfonts3.utx" />
+    <Package path="textures\magicfonts4.utx" />
+    <Package path="textures\magicfontschina.utx" />
+    <Package path="textures\magicfontsjapan.utx" />
+    <Package path="textures\magicfontskorea.utx" />
+    <Package path="textures\magicmap.utx" />
+    <Package path="textures\magictextures.utx" />
+    <Package path="textures\magmagianttexpackage.utx" />
+    <Package path="textures\mahamotidjinntexpackage.utx" />
+    <Package path="textures\majorblack_extratextures.utx" />
+    <Package path="textures\majorfinaltextureassests.utx" />
+    <Package path="textures\majorredtextures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Red\goldDark" suffix="2" />
+        <Object id="Red\goldMask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\malemagetexpackage.utx" />
+    <Package path="textures\manavaulttex.utx" />
+    <Package path="textures\mapworldpropsscott.utx" />
+    <Package path="textures\maraxustexpackage.utx" />
+    <Package path="textures\menu2d.utx" />
+    <Package path="textures\minor_arena_bluetexturesl.utx" />
+    <Package path="textures\minor_arena_whitelou.utx" />
+    <Package path="textures\minorarenablue1_tx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Meshes\NP_ClamShell_01" suffix="1" />
+        <Object id="Meshes\NP_DriftWood_01" suffix="1" />
+        <Object id="Meshes\NP_Grass_01" suffix="1" />
+        <Object id="Meshes\NP_Island_01" suffix="1" />
+        <Object id="Meshes\NP_Rock_01" suffix="1" />
+        <Object id="Meshes\NP_SandDollar_01" suffix="1" />
+        <Object id="Meshes\NP_SandSilo_01" suffix="1" />
+        <Object id="Meshes\NP_Water_01" suffix="1" />
+        <Object id="Terrain_Alpha\Terrain_Alpha_01" suffix="1" />
+        <Object id="Terrain_Alpha\Terrain_Alpha_02" suffix="1" />
+        <Object id="Terrain_Alpha\Terrain_Alpha_03" suffix="1" />
+        <Object id="Terrain_Alpha\Terrain_Alpha_04" suffix="1" />
+        <Object id="Terrain_Height\NP_Terrain_Height_01" suffix="1" />
+        <Object id="Terrain_RGB\NP_Sand_06" suffix="1" />
+        <Object id="Terrain_RGB\NP_Sand_07" suffix="1" />
+        <Object id="Terrain_RGB\NP_Sand_08" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\minorblack1texpackage.utx" />
+    <Package path="textures\minorblack3tex.utx" />
+    <Package path="textures\minorblackterraintextures.utx" />
+    <Package path="textures\minorbluetex.utx" />
+    <Package path="textures\minorgreen1tex.utx" />
+    <Package path="textures\minorgreen3tex.utx" />
+    <Package path="textures\minorwhite2skytexpackage.utx" />
+    <Package path="textures\mishratexpackage.utx" />
+    <Package path="textures\mleveleffects.utx" />
+    <Package path="textures\mleveleffects2.utx" />
+    <Package path="textures\mogg_tex.utx" />
+    <Package path="textures\multanitexpackage.utx" />
+    <Package path="textures\mvg_shadows.utx" />
+    <Package path="textures\mystratexturepackage_lipsync.utx" />
+    <Package path="textures\mystratexturepackage.utx" />
+    <Package path="textures\nomadtexturesassets.utx" />
+    <Package path="textures\pcloadingscreentex.utx" />
+    <Package path="textures\placeholdertex.utx" />
+    <Package path="textures\priestoftitaniatex.utx" />
+    <Package path="textures\raginggoblin.utx" />
+    <Package path="textures\redlavalevel.utx" />
+    <Package path="textures\redmandriktexpackage.utx" />
+    <Package path="textures\redyukitexpackage.utx" />
+    <Package path="textures\retromancertexpackage.utx" />
+    <Package path="textures\rshwood_tex.utx" />
+    <Package path="textures\rushwoodelementaltexpackage.utx" />
+    <Package path="textures\sc_meshparticletex.utx" />
+    <Package path="textures\scott.utx" />
+    <Package path="textures\secretleveltextures.utx" />
+    <Package path="textures\sengirvampiretexpackage.utx" />
+    <Package path="textures\sidestexpackage.utx" />
+    <Package path="textures\spellfx.utx" />
+    <Package path="textures\spellfx2.utx" />
+    <Package path="textures\suntailhawktexpackage.utx" />
+    <Package path="textures\swampwater.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MBwaterscum" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\thering.utx" />
+    <Package path="textures\thunderspirittexpackage.utx" />
+    <Package path="textures\tsabotexpackage.utx" />
+    <Package path="textures\venerablemonktex.utx" />
+    <Package path="textures\volitatexpackage.utx" />
+    <Package path="textures\vstexpackage.utx" />
+    <Package path="textures\warriorangeltexpackage.utx" />
+    <Package path="textures\weaponfx.utx" />
+    <Package path="textures\whitealbrecttexpackage.utx" />
+    <Package path="textures\whitearyannatexpackage.utx" />
+    <Package path="textures\whitesanakhttexpackage.utx" />
+    <Package path="textures\wiccatexpackage.utx" />
+    <Package path="textures\winx.utx" />
+    <Package path="textures\youthfulknighttexpackage.utx" />
+  </Packages>
+</IdRemapping>

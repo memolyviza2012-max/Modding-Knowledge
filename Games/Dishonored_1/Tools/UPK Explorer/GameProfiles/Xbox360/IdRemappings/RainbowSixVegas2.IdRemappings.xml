@@ -1,0 +1,702 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="kellergame\cookedxenon\core.xxx" />
+    <Package path="kellergame\cookedxenon\editormaterials.xxx" />
+    <Package path="kellergame\cookedxenon\editormeshes.xxx" />
+    <Package path="kellergame\cookedxenon\editorresources.xxx" />
+    <Package path="kellergame\cookedxenon\engine.xxx" />
+    <Package path="kellergame\cookedxenon\enginefonts.xxx" />
+    <Package path="kellergame\cookedxenon\enginematerials.xxx" />
+    <Package path="kellergame\cookedxenon\engineresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\ipdrv.xxx" />
+    <Package path="kellergame\cookedxenon\maps\entry.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_bsptextures_ceiling.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_bsptextures_floor.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_bsptextures_wall.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_car.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_chopper.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_comcast.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_decal.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_details_aj.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt\00_Dirt00_D" suffix="1" />
+        <Object id="dirt\00_Dirt00_N" suffix="1" />
+        <Object id="dirt\00_Dirt00_Om" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_details_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_door.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_electronics_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_electronics_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_furnitures_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_furnitures_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_industrials_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_industrials_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_light.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_massivead.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_softbodies.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_structureext_aj.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Others\00_RoofTiles01_N" suffix="1" />
+        <Object id="Others\00_RoofTiles01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_structureext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_structureint_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_structureint_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_urbanfurniture.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Others\00_Post01_N" suffix="1" />
+        <Object id="Others\00_Post01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_vegetations.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_common\00_vehicle.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_03innear_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_04innear_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_05innear_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_master_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_sirois.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby_sky.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VegasMountains\00_VegasMountains01b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_flyby.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_flyby\media\00_helirides_fx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\00_styles\00_casino.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_bsptextures_ceiling.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_bsptextures_floor.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_bsptextures_wall.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_car.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_dirtmapov.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_furnitures_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_furnitures_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_industrials_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_oldvegas_01_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_0_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_oldvegas_04_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_0_CM_YPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_oldvegas_fx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_skybox.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_structureext_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_structureext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_structureint_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_structureint_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\01_oldvegas\medias\01_vegetations.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_bsptexture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_car.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_deadbodies.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_furniture_aj.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Construction\02_ConstructionCones01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_furniture_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_01_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_02_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_2_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_2_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_2_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_2_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_2_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_2_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_03_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_1_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_04_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_0_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_opt_fakebuildings.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_lvu_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_structureext_aj.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Others\01_WareHouse01c_D" suffix="1" />
+        <Object id="Others\01_WareHouse01c_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_structureext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_structureint_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_structureint_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_vegasbackground.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\02_lvu\medias\02_vehicules.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_bsptexturescc.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_convention_01_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_convention_02_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_electronic.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_flyby_sky.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_furnitures_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_furnitures_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_industrials_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_structureext_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_structureext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_structureint_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_structureint_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_vegetations.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\03_conventioncenter\medias\03_vehicle.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_bsptexture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_door.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_electronic.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_flyby_opt.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_structureext.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="04_theater_LogoNeonSign_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_theatre_02_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_theatre_04_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_theatre_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_theatre_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_vegetations.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\04_theatre\medias\04_vehicle.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_bsptextures_wall.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_bsptexutres_floor.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_car.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_desert_03_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_desert_pip.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_desert_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_details_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_details_kz.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="05_Skimask_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_door.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_industrials_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_industrials_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_infrastructure.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Pipes\MatPreset_N" suffix="1" />
+        <Object id="Pipes\MatPreset_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_ldscripting.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_skydomes.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_structureext_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_structureext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_structureint_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_structureint_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\05_desert\medias\05_vehicle.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_car.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_door.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_estate_02_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_1_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_1_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_estate_fx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_structure_ext_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_structure_ext_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\06_estate\media\06_vegetation.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_decal.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_furnitures_aj.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_furnitures_kz.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_picdumidi_01_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_0_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_picdumidi_01_fx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_picdumidi_posteffects.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_scripterld.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_structure_ext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\0t_picdumidi\media\0t_structure_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb00_common\mb00_briefing.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb00_common\mb00_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb00_common\mb00_gameplaydata.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb00_common\mb00_th_teams.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_bsptextures_wall.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_decal.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt\00_DirtBrick02_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_gfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_postprocess.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_skydomes.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_structureext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_urbanfurniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_vegetation.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb01_import\medias\mb01_vehicles.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_arcade.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_decals.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_doors.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_electronics.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_industrial.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb02_dantes_01\medias\mb02_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_industrial.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_structure_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb03_neon_01\media\mb03_structureext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\mb04_oil_sm_placeholders.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_decal.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_industrial.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_infrastructure.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Pipes\PAK_05_BackAlleyPipes01d_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_skydomes.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_structureext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_temppack.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_urbanfurniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_vegetation.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb04_oil\medias\mb04_vehicles.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_chinese_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_decals.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_doors.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_electronics.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_industrials.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_structure_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb05_chinese\medias\mb05_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb01_port.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_doors.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_electronics.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_industrials.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_infrastructure.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_skydomes.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_structureext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_trainyard_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb06_trainyard\medias\mb06_vehicles.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Machinery\PAK_04_CraneContainer01b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_bsptextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceiling\Mb07_Woodceiling01_S" suffix="1" />
+        <Object id="Floor\Mb07_Carpet01_S" suffix="1" />
+        <Object id="Floor\Mb07_ConcreteFloor01_N" suffix="1" />
+        <Object id="Floor\Mb07_ConcreteFloor01_S" suffix="1" />
+        <Object id="Floor\Mb07_Sidewalk01_N" suffix="1" />
+        <Object id="Floor\Mb07_Sidewalk01_S" suffix="1" />
+        <Object id="Floor\Mb07_WoodfloorEXT01_N" suffix="1" />
+        <Object id="Floor\Mb07_WoodfloorEXT01_S" suffix="1" />
+        <Object id="Wall\Mb07_ConcreteBoard01_S" suffix="1" />
+        <Object id="Wall\Mb07_Concretewall01_N" suffix="1" />
+        <Object id="Wall\Mb07_Concretewall01_S" suffix="1" />
+        <Object id="Wall\Mb07_ExteriorWall01_N" suffix="1" />
+        <Object id="Wall\Mb07_InteriorWall01_S" suffix="1" />
+        <Object id="Wall\Mb07_StoneWall01_S" suffix="1" />
+        <Object id="Wall\Mb07_TileFloor02_N" suffix="1" />
+        <Object id="Wall\Mb07_TileFloor02_S" suffix="1" />
+        <Object id="Wall\Mb07_TileWall01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_furniture.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Light\04_LightBar04_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_penthouse_01_cubemaps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="R6CubemapSample_0_CM_XNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_XPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_YPos" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZNeg" suffix="1" />
+        <Object id="R6CubemapSample_0_CM_ZPos" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_structureext.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StructGarage\Mb07_StructBeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb07_penthouse_01\medias\mb07_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_doors.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_electronics.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_structures_ext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_structures_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb08_conven_01\medias\mb08_vegetations.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb_09_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_detail.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_industrial.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_skydomes.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_structure_ext.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="01_Flyby_Industrial_D" suffix="1" />
+        <Object id="Construction\DetailMap01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb09_murdertown\medias\mb09_vehicle.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_decals.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_placeholders.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ground\00_Ground04_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_structureext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb10_training_01\medias\mb10_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\medias\mb12_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\medias\mp_khd_structure_ext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\medias\mp_khd_structure_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\medias\pak_09_khd_sm.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\medias\pak_09_structure_ext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb12_killhouse\pak_09_killhousedouble_dlc_visuals.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\mb13_fx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\mb13_presidio_visual.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_decals.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_industrials.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_lights.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceiling\00_Light01_D" suffix="1" />
+        <Object id="Ceiling\00_Light01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_skydome.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_structure_ext.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_structure_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_vegetation.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb13_presidio\medias\pak_06_vehicules.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_details.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_doors.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_electronics.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_furnitures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_lights.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\mb14_convent_mlg\medias\mb14_structures_int.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq_bsptextures.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq_furniture.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq_map_cubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq_structureint.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq_visual.xxx" />
+    <Package path="kellergame\cookedxenon\mapsbishop\pec_hq\medias\pec_hq.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreecivilian.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeclimb.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreefastrope.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreefirstperson.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreegadgets.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreehelicopter.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeladder.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeplayer.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeragdoll.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreerappel.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreetakecover360.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeterromentalstates.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreethirdperson.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeturret.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeturrettripod.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeweaponmag.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\animation\animtreeweapons.xxx" />
+    <Package path="kellergame\cookedxenon\noautosync\camera\rs5cameratrees.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_civilians_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_civilians.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_dead_civilians.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_dialogue.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_facial_generic.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_facial_vo.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_firstperson.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_bombmulti.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_chopper.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_cinematic.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_gadgets.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_hands.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_interaction.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_obstacles.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_reactions.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_rope.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_signals.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_stacking.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_stance.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_takecover360.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_transitions.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_general_weapons.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_jung_gestures.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_jung_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_jung_stance.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_mike_gestures.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_mike_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_mike_stance.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_pec.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_props_gadgets_1st2.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_props_gadgets_3rd.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_props_weapons_1st2.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_props_weapons_3rd.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_russians_mentalstate.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_russians_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_casino.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_common.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_cvc.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_desert.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_e3.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_estate.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_fremont.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_lvu.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_new_dam.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_ovg.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_pic.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_se_theatre.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_terrorist_interaction.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_terrorist_movement.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_terrorist_reactions.xxx" />
+    <Package path="kellergame\cookedxenon\packages\animation\anims_terrorists_stance.xxx" />
+    <Package path="kellergame\cookedxenon\packages\camera\cameraconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\camera\takecovercameraconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\r6gadgets.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5_characters_lod.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5_charactertemplates.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5_equipmenttemplates.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5accessories.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5chara_assassin.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5dead_bodys.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5eyes.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5hands.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_e3.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_females.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5FemaleE3B_Torso_D" suffix="1" />
+        <Object id="Materials\RS5FemaleWifeE3_torso_D" suffix="1" />
+        <Object id="Materials\RS5TVGirlE3_torso_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_heads.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5_Trish_hair_N" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_head_D" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_head_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_males.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5Deadhost01_legs_D" suffix="1" />
+        <Object id="Materials\RS5Deadhost01_torso_D" suffix="1" />
+        <Object id="Materials\RS5Deadhost02_legs_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_officials.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5host_workers.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5Nerdyt01_torso_N" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_torso_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5maincharacters.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_armor.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_camo.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_gear_boots.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_01f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_01m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_02f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_02m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_03f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_03m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_04f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_04m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_05f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_05m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_06f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_06m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_07f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_07m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_08f.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_08m.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_head_eye.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_heads_x360.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_legs.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mpcharacters_torso.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5mphands.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_00_common.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_01_oldvegas.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_02_lvu.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_03_convention.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_04_theater.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_05_desert.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_06_estate.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_0t_picdumidi.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_mp_import.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_mp_neon.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5officialtemplates_mp_oil.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5props.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5rainbow.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\rs5weapons.xxx" />
+    <Package path="kellergame\cookedxenon\packages\characters_weapons_props\weaponsetups.xxx" />
+    <Package path="kellergame\cookedxenon\packages\dare.xxx" />
+    <Package path="kellergame\cookedxenon\packages\defaultcharactertemplate.xxx" />
+    <Package path="kellergame\cookedxenon\packages\editor\aiicons.xxx" />
+    <Package path="kellergame\cookedxenon\packages\editor\k_common_mat.xxx" />
+    <Package path="kellergame\cookedxenon\packages\editor\keller_placeholders.xxx" />
+    <Package path="kellergame\cookedxenon\packages\editor\kellereditormaterials.xxx" />
+    <Package path="kellergame\cookedxenon\packages\editor\kellerresource.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultTexture" suffix="1" />
+        <Object id="S_Emitter" suffix="1" />
+        <Object id="S_SkyLight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedxenon\packages\equipmenttemplates_bishop.xxx" />
+    <Package path="kellergame\cookedxenon\packages\equipmenttemplates.xxx" />
+    <Package path="kellergame\cookedxenon\packages\fppvoicebank.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\accuracyconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\aiconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\configsmanager.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\controlsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\damageconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\fppwalkthroughconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\gadgetsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\handsignalsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\healthconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\impactconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\interactlengthsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\interactlocationsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\miscconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\posteffectsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\radarconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\rappelconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\rs5characteraitemplate.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\soundpriorityconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\takecoverconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\visualconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\gameconfig\weaponsconfig.xxx" />
+    <Package path="kellergame\cookedxenon\packages\ingamemovies.xxx" />
+    <Package path="kellergame\cookedxenon\packages\keller_sfx.xxx" />
+    <Package path="kellergame\cookedxenon\packages\kellerexplosions.xxx" />
+    <Package path="kellergame\cookedxenon\packages\kellergenericcubemaps.xxx" />
+    <Package path="kellergame\cookedxenon\packages\kellerglasspresets.xxx" />
+    <Package path="kellergame\cookedxenon\packages\kellermaterialgameparams.xxx" />
+    <Package path="kellergame\cookedxenon\packages\kellermaterialspresets.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\intromovies.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_common.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_fonts.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_loading.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_mp_community.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_mp_outfitting.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_mp_pec.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_mp_rsmenus.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_notification.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_pause.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_r6hud_common.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\magma_settings.xxx" />
+    <Package path="kellergame\cookedxenon\packages\magma\menumovies.xxx" />
+    <Package path="kellergame\cookedxenon\packages\projectileparams.xxx" />
+    <Package path="kellergame\cookedxenon\packages\r6interactiveobjects.xxx" />
+    <Package path="kellergame\cookedxenon\packages\rainbowrunmovie.xxx" />
+    <Package path="kellergame\cookedxenon\packages\rs5sound.xxx" />
+    <Package path="kellergame\cookedxenon\packages\temp\keller_materials.xxx" />
+    <Package path="kellergame\cookedxenon\packages\temp\kom.xxx" />
+    <Package path="kellergame\cookedxenon\packages\terrocharactertemplate.xxx" />
+    <Package path="kellergame\cookedxenon\r6game.xxx" />
+  </Packages>
+</IdRemapping>

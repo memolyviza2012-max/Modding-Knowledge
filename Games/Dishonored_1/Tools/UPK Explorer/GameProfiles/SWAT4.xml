@@ -1,0 +1,19 @@
+﻿<Game packageFileVersion="129" packageLicenseeVersion="22" TFCMappingFileName="SWAT 4" gameId="SWAT4" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="99" licenseeVersion="0"/>
+		<PackageVersion fileVersion="118" licenseeVersion="0"/>
+		<PackageVersion fileVersion="123" licenseeVersion="0"/>
+		<PackageVersion fileVersion="123" licenseeVersion="3"/>
+		<PackageVersion fileVersion="123" licenseeVersion="8"/>
+		<PackageVersion fileVersion="123" licenseeVersion="15"/>
+		<PackageVersion fileVersion="126" licenseeVersion="21"/>
+		<PackageVersion fileVersion="126" licenseeVersion="22"/>
+		<PackageVersion fileVersion="129" licenseeVersion="23"/>
+		<PackageVersion fileVersion="129" licenseeVersion="26"/>
+		<PackageVersion fileVersion="129" licenseeVersion="27"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="Content\*" TFCpath="Content" customTFCStartIndex="0" />
+		<PackageFolder path="ContentExpansion\*" TFCpath="ContentExpansion" customTFCStartIndex="1000" />
+	</PackageFolders>
+</Game>

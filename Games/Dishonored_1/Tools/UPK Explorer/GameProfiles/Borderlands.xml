@@ -1,0 +1,10 @@
+﻿<Game packageFileVersion="584" packageLicenseeVersion="57" TFCMappingFileName="Borderlands" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="584" licenseeVersion="58"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="WillowGame\CookedPC\*" TFCpath="WillowGame\CookedPC" customTFCStartIndex="0">
+			<ExcludedFolder>WillowGame\CookedPC\Mods\*</ExcludedFolder>
+		</PackageFolder>
+	</PackageFolders>
+</Game>

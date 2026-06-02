@@ -1,0 +1,82 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\dbgame.u" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-beach.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-castle.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-cave.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-desert.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-frontendmap.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-hall_night.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-hall.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-moon.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-pitch_rain.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_2" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-pitch_snow.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-pitch.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-skill.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-smallpitch.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\deathball\maps\db-stadium.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-trainingpitch (sfconflict marenz@supradigital.org 2017-11-10-14-59-02).udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-trainingpitch.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-tutorial.udk" />
+    <Package path="udkgame\cookedpc\deathball\maps\db-volcano.udk" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

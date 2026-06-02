@@ -1,0 +1,33 @@
+﻿<Game packageFileVersion="832" packageLicenseeVersion="46" TFCMappingFileName="Borderlands Pre Sequel" gameId="BORPRESEQ" enableUpdateStats="False" hasHashCheck="True" gameExeFilePath="Binaries\Win32\BorderlandsPreSequel.exe" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="WillowGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<ExcludedFile>WillowGame\CookedPCConsole\MainGameRefs_SF.upk</ExcludedFile>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="UHD Texture Pack" TFCMappingFileName="UHDTextures">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Ailanthus\*" TFCpath="DLC\Ailanthus\Lic\Textures" customTFCStartIndex="3000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Lady Hammerlock" TFCMappingFileName="LadyHammerlock">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Crocus\*" TFCpath="DLC\Crocus\Compat\Textures" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Claptastic Voyage" TFCMappingFileName="ClaptasticVoyage">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Marigold\*" TFCpath="DLC\Marigold\Compat\Textures" customTFCStartIndex="8000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Holodome" TFCMappingFileName="Holodome">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Petunia\*" TFCpath="DLC\Petunia\Compat\Textures" customTFCStartIndex="9000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Doppleganger" TFCMappingFileName="HandsomeJack">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Quince\*" TFCpath="DLC\Quince\Compat\Textures" customTFCStartIndex="10000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

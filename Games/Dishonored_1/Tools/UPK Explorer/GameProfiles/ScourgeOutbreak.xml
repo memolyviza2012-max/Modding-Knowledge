@@ -1,0 +1,12 @@
+﻿<Game packageFileVersion="745" packageLicenseeVersion="6" TFCMappingFileName="Scourge Outbreak" enableUpdateStats="False" hasHashCheck="True" gameExeFilePath="Binaries\Win32\ScourgeGame.exe" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="ScourgeGame\CookedPCConsole" customTFCStartIndex="0"/>
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Blindside Map Pack" TFCMappingFileName="DLC1">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="ScourgeGame\DLC\DLC1\CookedPCConsole" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

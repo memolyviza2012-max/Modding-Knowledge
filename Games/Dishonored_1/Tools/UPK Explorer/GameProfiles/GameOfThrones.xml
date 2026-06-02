@@ -1,0 +1,22 @@
+﻿<Game packageFileVersion="727" packageLicenseeVersion="0" TFCMappingFileName="Game of Thrones" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="AGOTGame\CookedPC\*" TFCpath="AGOTGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Beyond the Wall" TFCMappingFileName="BeyondTheWall">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="AGOTGame\DLC\DLC_01\CookedPC\*" TFCpath="AGOTGame\DLC\DLC_01\CookedPC" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Weapon Pack" TFCMappingFileName="WeaponPack">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="AGOTGame\DLC\DLC_02\CookedPC\*" TFCpath="AGOTGame\DLC\DLC_02\CookedPC" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Dog Pack" TFCMappingFileName="DogPack">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="AGOTGame\DLC\DLC_03\CookedPC\*" TFCpath="AGOTGame\DLC\DLC_03\CookedPC" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

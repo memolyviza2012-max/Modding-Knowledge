@@ -1,0 +1,771 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\big_multi.ukx" />
+    <Package path="animations\big_standard.ukx" />
+    <Package path="animations\cine_big.ukx" />
+    <Package path="animations\cine_female.ukx" />
+    <Package path="animations\cine_heavy.ukx" />
+    <Package path="animations\cine_heavydress.ukx" />
+    <Package path="animations\cine_mstandrad.ukx" />
+    <Package path="animations\cine_trench.ukx" />
+    <Package path="animations\davidweapons.ukx" />
+    <Package path="animations\derekweapons.ukx" />
+    <Package path="animations\ezekialhardbottom.ukx" />
+    <Package path="animations\female_multi.ukx" />
+    <Package path="animations\female_standard.ukx" />
+    <Package path="animations\flatiron.ukx" />
+    <Package path="animations\heavy_standard.ukx" />
+    <Package path="animations\heavydress.ukx" />
+    <Package path="animations\johnkendall.ukx" />
+    <Package path="animations\male_multi.ukx" />
+    <Package path="animations\male_standard.ukx" />
+    <Package path="animations\male_standardhorse.ukx" />
+    <Package path="animations\male_trench.ukx" />
+    <Package path="animations\paulosanchez.ukx" />
+    <Package path="animations\px_mrfoo.ukx" />
+    <Package path="animations\rider.ukx" />
+    <Package path="animations\tejon.ukx" />
+    <Package path="animations\thehorse.ukx" />
+    <Package path="animations\vicstone.ukx" />
+    <Package path="maps\bo-adobe.dmh" />
+    <Package path="maps\bo-backlot.dmh" />
+    <Package path="maps\bo-boneyard.dmh" />
+    <Package path="maps\bo-brothel.dmh" />
+    <Package path="maps\bo-hacienda.dmh" />
+    <Package path="maps\bo-holeinthewall.dmh" />
+    <Package path="maps\bo-mansion.dmh" />
+    <Package path="maps\bo-mine.dmh" />
+    <Package path="maps\bo-onthetable.dmh" />
+    <Package path="maps\bo-prison.dmh" />
+    <Package path="maps\bo-sawdust.dmh" />
+    <Package path="maps\bo-silverado.dmh" />
+    <Package path="maps\boomtown.dmh" />
+    <Package path="maps\boomtownboss.dmh" />
+    <Package path="maps\canyons.dmh" />
+    <Package path="maps\canyons2.dmh" />
+    <Package path="maps\canyonsboss.dmh" />
+    <Package path="maps\cemetery.dmh" />
+    <Package path="maps\cemeteryboss.dmh" />
+    <Package path="maps\dm-adobe.dmh" />
+    <Package path="maps\dm-backlot.dmh" />
+    <Package path="maps\dm-boneyard.dmh" />
+    <Package path="maps\dm-brothel.dmh" />
+    <Package path="maps\dm-hacienda.dmh" />
+    <Package path="maps\dm-holeinthewall.dmh" />
+    <Package path="maps\dm-mansion.dmh" />
+    <Package path="maps\dm-mine.dmh" />
+    <Package path="maps\dm-onthetable.dmh" />
+    <Package path="maps\dm-prison.dmh" />
+    <Package path="maps\dm-sawdust.dmh" />
+    <Package path="maps\dm-silverado.dmh" />
+    <Package path="maps\entry.dmh" />
+    <Package path="maps\forest.dmh" />
+    <Package path="maps\forestboss.dmh" />
+    <Package path="maps\fort.dmh" />
+    <Package path="maps\ghosttown.dmh" />
+    <Package path="maps\ghosttownboss.dmh" />
+    <Package path="maps\hacienda.dmh" />
+    <Package path="maps\haciendaboss.dmh" />
+    <Package path="maps\mainmenu.dmh" />
+    <Package path="maps\mansion.dmh" />
+    <Package path="maps\mine.dmh">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer3" suffix="1" />
+        <Object id="Alphamaps\Terrainmeshblender" suffix="1" />
+        <Object id="Alphamaps\TownAlf1" suffix="1" />
+        <Object id="Alphamaps\TownAlf2" suffix="1" />
+        <Object id="Heightmaps\TownHeight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mineboss.dmh" />
+    <Package path="maps\po-church.dmh" />
+    <Package path="maps\po-hacienda.dmh" />
+    <Package path="maps\po-ruinvalley.dmh" />
+    <Package path="maps\po-sandstorm.dmh" />
+    <Package path="maps\prison.dmh">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\StartTerAlf1" suffix="1" />
+        <Object id="Alphamaps\StartTerAlf2" suffix="1" />
+        <Object id="Heightmaps\StartTerHeight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\rail1.dmh">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\TownAlf0" suffix="1" />
+        <Object id="Alphamaps\TownAlf1" suffix="2" />
+        <Object id="Alphamaps\TownAlf2" suffix="2" />
+        <Object id="Heightmaps\TownHeight" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\rail2.dmh" />
+    <Package path="maps\ranch.dmh" />
+    <Package path="maps\rivercity.dmh" />
+    <Package path="maps\rivercityboss.dmh" />
+    <Package path="maps\sawmill.dmh" />
+    <Package path="maps\sawmillboss.dmh" />
+    <Package path="maps\td-adobe.dmh" />
+    <Package path="maps\td-backlot.dmh" />
+    <Package path="maps\td-boneyard.dmh" />
+    <Package path="maps\td-brothel.dmh" />
+    <Package path="maps\td-hacienda.dmh" />
+    <Package path="maps\td-holeinthewall.dmh" />
+    <Package path="maps\td-mansion.dmh" />
+    <Package path="maps\td-mine.dmh" />
+    <Package path="maps\td-onthetable.dmh" />
+    <Package path="maps\td-prison.dmh" />
+    <Package path="maps\td-sawdust.dmh" />
+    <Package path="maps\td-silverado.dmh" />
+    <Package path="maps\train.dmh">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer3" suffix="2" />
+        <Object id="Alphamaps\AlphaLayer4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\trainboss.dmh">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer2" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer3" suffix="3" />
+        <Object id="Alphamaps\AlphaLayer4" suffix="2" />
+        <Object id="Alphamaps\AlphaLayer5" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer6" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sounds\creaturesnd.uax" />
+    <Package path="sounds\environmentsnd.uax" />
+    <Package path="sounds\karmasounds.uax" />
+    <Package path="sounds\moviesounds.uax" />
+    <Package path="sounds\musicalsnd.uax" />
+    <Package path="sounds\objectsnd.uax" />
+    <Package path="sounds\voiceoversnd.uax" />
+    <Package path="sounds\weaponsnd.uax" />
+    <Package path="sounds\westernsnd.uax" />
+    <Package path="staticmeshes\aws_adobe.usx" />
+    <Package path="staticmeshes\aws_foliage.usx" />
+    <Package path="staticmeshes\aws_ghosttown.usx" />
+    <Package path="staticmeshes\aws_mansion.usx" />
+    <Package path="staticmeshes\aws_new.usx" />
+    <Package path="staticmeshes\aws_p2.usx" />
+    <Package path="staticmeshes\aws_ps2.usx" />
+    <Package path="staticmeshes\aws_structure.usx" />
+    <Package path="staticmeshes\aws_test.usx" />
+    <Package path="staticmeshes\bds_hacienda.usx" />
+    <Package path="staticmeshes\dholster.usx" />
+    <Package path="staticmeshes\dhs_adobe.usx" />
+    <Package path="staticmeshes\dhs_buildings.usx" />
+    <Package path="staticmeshes\dhs_cover.usx" />
+    <Package path="staticmeshes\dhs_effects.usx" />
+    <Package path="staticmeshes\dhs_forest.usx" />
+    <Package path="staticmeshes\dhs_ghosttown.usx" />
+    <Package path="staticmeshes\dhs_gold.usx" />
+    <Package path="staticmeshes\dhs_interiorstruct.usx" />
+    <Package path="staticmeshes\dhs_mines.usx" />
+    <Package path="staticmeshes\dhs_rock.usx" />
+    <Package path="staticmeshes\dhs_train.usx" />
+    <Package path="staticmeshes\dhs_xetest2.usx" />
+    <Package path="staticmeshes\dht_train.usx" />
+    <Package path="staticmeshes\dhxs_editormesh.usx" />
+    <Package path="staticmeshes\dmh_karma.usx" />
+    <Package path="staticmeshes\dmhrock.usx" />
+    <Package path="staticmeshes\dsaloon.usx" />
+    <Package path="staticmeshes\gs_dhtemp.usx" />
+    <Package path="staticmeshes\gs-jpnewprops.usx" />
+    <Package path="staticmeshes\gs-jpsprops.usx" />
+    <Package path="staticmeshes\gs-signage.usx" />
+    <Package path="staticmeshes\inventory.usx" />
+    <Package path="staticmeshes\j_dmh_animals.usx" />
+    <Package path="staticmeshes\j_dmh_newobj.usx" />
+    <Package path="staticmeshes\j_dmh_poolhall.usx" />
+    <Package path="staticmeshes\j_plants.usx" />
+    <Package path="staticmeshes\j_sw_furniture.usx" />
+    <Package path="staticmeshes\jbarn.usx" />
+    <Package path="staticmeshes\jbldings.usx" />
+    <Package path="staticmeshes\jbldings02.usx" />
+    <Package path="staticmeshes\jcemetary.usx" />
+    <Package path="staticmeshes\jchurch.usx" />
+    <Package path="staticmeshes\jhotel.usx" />
+    <Package path="staticmeshes\jis_weapons.usx" />
+    <Package path="staticmeshes\jmansion.usx" />
+    <Package path="staticmeshes\jobjects.usx" />
+    <Package path="staticmeshes\jos_forest.usx" />
+    <Package path="staticmeshes\jos_fort.usx" />
+    <Package path="staticmeshes\jos_mine.usx" />
+    <Package path="staticmeshes\jos_train.usx" />
+    <Package path="staticmeshes\jps_mountain.usx" />
+    <Package path="staticmeshes\jps_mountainold.usx" />
+    <Package path="staticmeshes\jss_boomtown.usx" />
+    <Package path="staticmeshes\jss_church.usx" />
+    <Package path="staticmeshes\jss_debri.usx" />
+    <Package path="staticmeshes\jss_forest.usx" />
+    <Package path="staticmeshes\jss_furniture.usx" />
+    <Package path="staticmeshes\jss_generalissimo.usx" />
+    <Package path="staticmeshes\jss_ghosttown.usx" />
+    <Package path="staticmeshes\jss_hacienda.usx" />
+    <Package path="staticmeshes\jss_mines.usx" />
+    <Package path="staticmeshes\jss_pipes.usx" />
+    <Package path="staticmeshes\jss_trees-n-foliage.usx" />
+    <Package path="staticmeshes\jss_vehicles.usx" />
+    <Package path="staticmeshes\jstation.usx" />
+    <Package path="staticmeshes\jtestobj.usx" />
+    <Package path="staticmeshes\jtrain.usx" />
+    <Package path="staticmeshes\minetest.usx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MineShafts\CaveWall_01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="staticmeshes\mr_earlystuff.usx" />
+    <Package path="staticmeshes\mr_editormeshes.usx" />
+    <Package path="staticmeshes\mrs_graveyard.usx" />
+    <Package path="staticmeshes\mrs_railstuff.usx" />
+    <Package path="staticmeshes\mrs_rivercity.usx" />
+    <Package path="staticmeshes\mrs_sodsaw.usx" />
+    <Package path="staticmeshes\mrs_tempmax.usx" />
+    <Package path="staticmeshes\nextras.usx" />
+    <Package path="staticmeshes\nhats.usx" />
+    <Package path="staticmeshes\nns_animals.usx" />
+    <Package path="staticmeshes\nns_buildings.usx" />
+    <Package path="staticmeshes\nns_furniture.usx" />
+    <Package path="staticmeshes\nns_objects.usx" />
+    <Package path="staticmeshes\nns_rivertown.usx" />
+    <Package path="staticmeshes\nns_vehicles.usx" />
+    <Package path="staticmeshes\objects.usx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Weapons\BearTrap_256" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="staticmeshes\ranimals.usx" />
+    <Package path="staticmeshes\rcharacters.usx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="female\Har2Legs" suffix="1" />
+        <Object id="female\Har2Torso" suffix="1" />
+        <Object id="female\HarHead" suffix="1" />
+        <Object id="female\HarLegs" suffix="1" />
+        <Object id="female\HarTorso" suffix="1" />
+        <Object id="female\Maghead" suffix="1" />
+        <Object id="female\MagLegs" suffix="1" />
+        <Object id="female\MagTorso" suffix="1" />
+        <Object id="female\PatHead" suffix="1" />
+        <Object id="female\PatLegs" suffix="1" />
+        <Object id="female\PatTorso" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="staticmeshes\rhorse.usx" />
+    <Package path="staticmeshes\robjects.usx" />
+    <Package path="staticmeshes\rplants.usx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Desert\Mesquite" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="staticmeshes\rrs_objects.usx" />
+    <Package path="staticmeshes\rrs_plants.usx" />
+    <Package path="staticmeshes\rweapons.usx" />
+    <Package path="staticmeshes\speedup.usx" />
+    <Package path="staticmeshes\swingers.usx" />
+    <Package path="staticmeshes\weaponstaticmeshes.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\projectx.u" />
+    <Package path="system\pxdecorations.u" />
+    <Package path="system\pxeffects.u" />
+    <Package path="system\pxgameplay.u" />
+    <Package path="system\pxgui.u" />
+    <Package path="system\pxpawns.u" />
+    <Package path="system\pxweapons.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="textures\awt_adobe.utx" />
+    <Package path="textures\awt_foliage.utx" />
+    <Package path="textures\awt_mansion.utx" />
+    <Package path="textures\basecolor.utx" />
+    <Package path="textures\characters_big_standard.utx" />
+    <Package path="textures\characters_female_standard.utx" />
+    <Package path="textures\characters_male_standard.utx" />
+    <Package path="textures\crossoads.utx" />
+    <Package path="textures\dholster_text.utx" />
+    <Package path="textures\dhs_pc.utx" />
+    <Package path="textures\dht_area1c_proto.utx" />
+    <Package path="textures\dht_emit.utx" />
+    <Package path="textures\dht_forest.utx" />
+    <Package path="textures\dht_ghosttown.utx" />
+    <Package path="textures\dht_haciendaproto.utx" />
+    <Package path="textures\dht_manmade.utx" />
+    <Package path="textures\dht_mansion.utx" />
+    <Package path="textures\dht_misk.utx" />
+    <Package path="textures\dht_particle.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Male\BanHead" suffix="1" />
+        <Object id="Male\BanTorso" suffix="1" />
+        <Object id="Male\CyHead" suffix="1" />
+        <Object id="Male\CyPants" suffix="1" />
+        <Object id="Male\CyTorso" suffix="1" />
+        <Object id="Male\PaleHead" suffix="1" />
+        <Object id="Male\PaleLegs" suffix="1" />
+        <Object id="Male\PaleTorso" suffix="1" />
+        <Object id="Male\PaleTrench" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\dht_rail.utx" />
+    <Package path="textures\dht_ramback.utx" />
+    <Package path="textures\dht_rock.utx" />
+    <Package path="textures\dht_test.utx" />
+    <Package path="textures\dht_texmod.utx" />
+    <Package path="textures\dmh_bump.utx" />
+    <Package path="textures\dmh_fx.utx" />
+    <Package path="textures\dmh_runesky.utx" />
+    <Package path="textures\dmh_winter.utx" />
+    <Package path="textures\dmheffects.utx" />
+    <Package path="textures\dmhprojlight.utx" />
+    <Package path="textures\gs_misctex.utx" />
+    <Package path="textures\gs_stucco.utx" />
+    <Package path="textures\gs-jpnewpropstex.utx" />
+    <Package path="textures\gs-jpspropstex.utx" />
+    <Package path="textures\gs-jpterrain.utx" />
+    <Package path="textures\gs-signagetex.utx" />
+    <Package path="textures\gs2k1alfterrain.utx" />
+    <Package path="textures\gs2k1structure.utx" />
+    <Package path="textures\gs2k1texpages.utx" />
+    <Package path="textures\gsrocksand.utx" />
+    <Package path="textures\gssky.utx" />
+    <Package path="textures\gsterrain.utx" />
+    <Package path="textures\gstest.utx" />
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\interiordeco.utx" />
+    <Package path="textures\inventory.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ammo\AmmoBelt_256" suffix="1" />
+        <Object id="Ammo\AmmoBoxes_256" suffix="1" />
+        <Object id="Ammo\AmmoCrate_256" suffix="1" />
+        <Object id="Ammo\AmmoSatchel_256" suffix="1" />
+        <Object id="Cards\Card_joker" suffix="1" />
+        <Object id="Cards\Card_joker2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\j_dmh_furniture_01.utx" />
+    <Package path="textures\j_dmh_tex.utx" />
+    <Package path="textures\j_plants.utx" />
+    <Package path="textures\jcemetery.utx" />
+    <Package path="textures\jot_effects.utx" />
+    <Package path="textures\jot_forest.utx" />
+    <Package path="textures\jot_scalers.utx" />
+    <Package path="textures\jp_miscproptex.utx" />
+    <Package path="textures\jp_particlefx.utx" />
+    <Package path="textures\jp_world.utx" />
+    <Package path="textures\jpt_mountain.utx" />
+    <Package path="textures\jst_church.utx" />
+    <Package path="textures\jst_debri.utx" />
+    <Package path="textures\jst_forest.utx" />
+    <Package path="textures\jst_ghosttown.utx" />
+    <Package path="textures\jst_hacienda.utx" />
+    <Package path="textures\jst_mines.utx" />
+    <Package path="textures\jst_minetest.utx" />
+    <Package path="textures\jst_pipes.utx" />
+    <Package path="textures\jst_trees-n-foliage.utx" />
+    <Package path="textures\jst_vehicles.utx" />
+    <Package path="textures\jt_animals.utx" />
+    <Package path="textures\jtester.utx" />
+    <Package path="textures\jtexgunslinger.utx" />
+    <Package path="textures\jtexgunslingerold.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skins\BarLmpMtl" suffix="1" />
+        <Object id="Skins\Breaky1" suffix="1" />
+        <Object id="Skins\Breaky2" suffix="1" />
+        <Object id="Skins\brickwall1" suffix="1" />
+        <Object id="Skins\brickwall1B" suffix="1" />
+        <Object id="Skins\brickwall1Bshad" suffix="1" />
+        <Object id="Skins\BurningBarrel" suffix="1" />
+        <Object id="Skins\chip_paint1" suffix="1" />
+        <Object id="Skins\chip_paint1B" suffix="1" />
+        <Object id="Skins\chip_paint1Bshad" suffix="1" />
+        <Object id="Skins\DEADWOODsign" suffix="1" />
+        <Object id="Skins\GS_Mtl05" suffix="1" />
+        <Object id="Skins\GS_OldMtl01" suffix="1" />
+        <Object id="Skins\HayBale01" suffix="1" />
+        <Object id="Skins\HayBale02" suffix="1" />
+        <Object id="Skins\JDoor01" suffix="1" />
+        <Object id="Skins\JLantern01" suffix="1" />
+        <Object id="Skins\JLanternGlss1" suffix="1" />
+        <Object id="Skins\JMtl-Stuff01" suffix="1" />
+        <Object id="Skins\JSack01" suffix="1" />
+        <Object id="Skins\JSack02" suffix="1" />
+        <Object id="Skins\JWood02" suffix="1" />
+        <Object id="Skins\JWoodMillDrk" suffix="1" />
+        <Object id="Skins\MetalBarrelD" suffix="1" />
+        <Object id="Skins\Rope02" suffix="1" />
+        <Object id="Skins\SaloonPic01" suffix="1" />
+        <Object id="Skins\SaloonPic02" suffix="1" />
+        <Object id="Skins\SaloonPic03" suffix="1" />
+        <Object id="Skins\SaloonPic04" suffix="1" />
+        <Object id="Skins\shingles1" suffix="1" />
+        <Object id="Skins\Shutter02" suffix="1" />
+        <Object id="Skins\Shutter06" suffix="1" />
+        <Object id="Skins\ShutterArch01" suffix="1" />
+        <Object id="Skins\Skull03" suffix="1" />
+        <Object id="Skins\station" suffix="1" />
+        <Object id="Skins\Stool02" suffix="1" />
+        <Object id="Skins\stucco1_3" suffix="1" />
+        <Object id="Skins\stucco2_1" suffix="1" />
+        <Object id="Skins\stucco2_3" suffix="1" />
+        <Object id="Skins\stucco3_1" suffix="1" />
+        <Object id="Skins\stucco3_2" suffix="1" />
+        <Object id="Skins\stucco4_1" suffix="1" />
+        <Object id="Skins\stucco4_3" suffix="1" />
+        <Object id="Skins\train01" suffix="1" />
+        <Object id="Skins\trainiron" suffix="1" />
+        <Object id="Skins\Vulture01" suffix="1" />
+        <Object id="Skins\Window02" suffix="1" />
+        <Object id="Skins\Window03" suffix="1" />
+        <Object id="Skins\WindowArch01" suffix="1" />
+        <Object id="Skins\WindowMansion" suffix="1" />
+        <Object id="Skins\wood1" suffix="1" />
+        <Object id="Skins\wood10" suffix="1" />
+        <Object id="Skins\wood10B" suffix="1" />
+        <Object id="Skins\Wood2B" suffix="1" />
+        <Object id="Skins\Wood2B_sand" suffix="1" />
+        <Object id="Skins\Wood5" suffix="1" />
+        <Object id="Skins\wood5b" suffix="1" />
+        <Object id="Skins\wood6" suffix="1" />
+        <Object id="Skins\wood6B" suffix="1" />
+        <Object id="Skins\wood7" suffix="1" />
+        <Object id="Skins\wood7B" suffix="1" />
+        <Object id="Skins\wood8" suffix="1" />
+        <Object id="Skins\wood9" suffix="1" />
+        <Object id="Skins\wood9B" suffix="1" />
+        <Object id="Skins\WoodCrate01" suffix="1" />
+        <Object id="Skins\WoodCrate02" suffix="1" />
+        <Object id="Skins\WoodCrate03" suffix="1" />
+        <Object id="Skins\WoodCrate03s" suffix="1" />
+        <Object id="Skins\WoodTwr01" suffix="1" />
+        <Object id="Skins\WtrTwrTop" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\loadscreens_det.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Canyons" suffix="1" />
+        <Object id="CanyonsBoss" suffix="1" />
+        <Object id="forest" suffix="1" />
+        <Object id="forestboss" suffix="1" />
+        <Object id="fort" suffix="1" />
+        <Object id="mansion" suffix="1" />
+        <Object id="Mine" suffix="1" />
+        <Object id="MineBoss" suffix="1" />
+        <Object id="Rail1" suffix="1" />
+        <Object id="rivercity" suffix="1" />
+        <Object id="Sawmill" suffix="1" />
+        <Object id="train" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\loadscreens_est.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="boomtown" suffix="1" />
+        <Object id="boomtownboss" suffix="1" />
+        <Object id="Canyons" suffix="2" />
+        <Object id="canyons2" suffix="1" />
+        <Object id="CanyonsBoss" suffix="2" />
+        <Object id="cemetery" suffix="1" />
+        <Object id="cemeteryboss" suffix="1" />
+        <Object id="forest" suffix="2" />
+        <Object id="forestboss" suffix="2" />
+        <Object id="fort" suffix="2" />
+        <Object id="ghosttown" suffix="1" />
+        <Object id="ghosttownboss" suffix="1" />
+        <Object id="hacienda" suffix="1" />
+        <Object id="haciendaboss" suffix="1" />
+        <Object id="mansion" suffix="2" />
+        <Object id="Mine" suffix="2" />
+        <Object id="MineBoss" suffix="2" />
+        <Object id="prison" suffix="1" />
+        <Object id="Rail1" suffix="2" />
+        <Object id="rail2" suffix="1" />
+        <Object id="ranch" suffix="1" />
+        <Object id="rivercity" suffix="2" />
+        <Object id="rivercityboss" suffix="1" />
+        <Object id="Sawmill" suffix="2" />
+        <Object id="sawmillboss" suffix="1" />
+        <Object id="train" suffix="2" />
+        <Object id="trainboss" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\loadscreens_frt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="boomtown" suffix="2" />
+        <Object id="boomtownboss" suffix="2" />
+        <Object id="Canyons" suffix="3" />
+        <Object id="canyons2" suffix="2" />
+        <Object id="CanyonsBoss" suffix="3" />
+        <Object id="cemetery" suffix="2" />
+        <Object id="cemeteryboss" suffix="2" />
+        <Object id="forest" suffix="3" />
+        <Object id="forestboss" suffix="3" />
+        <Object id="fort" suffix="3" />
+        <Object id="ghosttown" suffix="2" />
+        <Object id="ghosttownboss" suffix="2" />
+        <Object id="hacienda" suffix="2" />
+        <Object id="haciendaboss" suffix="2" />
+        <Object id="mansion" suffix="3" />
+        <Object id="Mine" suffix="3" />
+        <Object id="MineBoss" suffix="3" />
+        <Object id="prison" suffix="2" />
+        <Object id="Rail1" suffix="3" />
+        <Object id="rail2" suffix="2" />
+        <Object id="ranch" suffix="2" />
+        <Object id="rivercity" suffix="3" />
+        <Object id="rivercityboss" suffix="2" />
+        <Object id="Sawmill" suffix="3" />
+        <Object id="sawmillboss" suffix="2" />
+        <Object id="train" suffix="3" />
+        <Object id="trainboss" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\loadscreens_itt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="boomtown" suffix="3" />
+        <Object id="boomtownboss" suffix="3" />
+        <Object id="Canyons" suffix="4" />
+        <Object id="canyons2" suffix="3" />
+        <Object id="CanyonsBoss" suffix="4" />
+        <Object id="cemetery" suffix="3" />
+        <Object id="cemeteryboss" suffix="3" />
+        <Object id="forest" suffix="4" />
+        <Object id="forestboss" suffix="4" />
+        <Object id="fort" suffix="4" />
+        <Object id="ghosttown" suffix="3" />
+        <Object id="ghosttownboss" suffix="3" />
+        <Object id="hacienda" suffix="3" />
+        <Object id="haciendaboss" suffix="3" />
+        <Object id="mansion" suffix="4" />
+        <Object id="Mine" suffix="4" />
+        <Object id="MineBoss" suffix="4" />
+        <Object id="prison" suffix="3" />
+        <Object id="Rail1" suffix="4" />
+        <Object id="rail2" suffix="3" />
+        <Object id="ranch" suffix="3" />
+        <Object id="rivercity" suffix="4" />
+        <Object id="rivercityboss" suffix="3" />
+        <Object id="Sawmill" suffix="4" />
+        <Object id="sawmillboss" suffix="3" />
+        <Object id="train" suffix="4" />
+        <Object id="trainboss" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="textures\loadscreens.utx" />
+    <Package path="textures\male_standard_old.utx" />
+    <Package path="textures\minetest.utx" />
+    <Package path="textures\mrt_cine.utx" />
+    <Package path="textures\mrt_railstuff.utx" />
+    <Package path="textures\mrt_rivertown1proto.utx" />
+    <Package path="textures\mrt_rivertown2proto.utx" />
+    <Package path="textures\mrt_rtown1.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Rune_BlackWater" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mrt_skystuff.utx" />
+    <Package path="textures\mrt_sodsaw.utx" />
+    <Package path="textures\nextras.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BarRag" suffix="1" />
+        <Object id="cigar" suffix="1" />
+        <Object id="eyeglass01" suffix="1" />
+        <Object id="eyeglass02" suffix="1" />
+        <Object id="eyeglassspec" suffix="1" />
+        <Object id="llarrypouch" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\nhat.utx" />
+    <Package path="textures\nn_building_static.utx" />
+    <Package path="textures\nn_rt_terrain.utx" />
+    <Package path="textures\nn_test.utx" />
+    <Package path="textures\nnsky.utx" />
+    <Package path="textures\nnt_animals.utx" />
+    <Package path="textures\nnt_furniture.utx" />
+    <Package path="textures\nnt_np_boomtown.utx" />
+    <Package path="textures\nnt_np_structure.utx" />
+    <Package path="textures\nnt_np_terrain.utx" />
+    <Package path="textures\nnt_objects.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objects\bottle" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\nnt_rt_structure.utx" />
+    <Package path="textures\nnt_signs.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="signs\nn_sign12" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\nnt_sw_structure.utx" />
+    <Package path="textures\nnt_sw_terrain.utx" />
+    <Package path="textures\nnt_vehicles.utx" />
+    <Package path="textures\objects.utx" />
+    <Package path="textures\pokergraphics.utx" />
+    <Package path="textures\poolhall.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PoolTable\10Ball" suffix="1" />
+        <Object id="PoolTable\11Ball" suffix="1" />
+        <Object id="PoolTable\12Ball" suffix="1" />
+        <Object id="PoolTable\13Ball" suffix="1" />
+        <Object id="PoolTable\14Ball" suffix="1" />
+        <Object id="PoolTable\15Ball" suffix="1" />
+        <Object id="PoolTable\1Ball" suffix="1" />
+        <Object id="PoolTable\2Ball" suffix="1" />
+        <Object id="PoolTable\3Ball" suffix="1" />
+        <Object id="PoolTable\4Ball" suffix="1" />
+        <Object id="PoolTable\5Ball" suffix="1" />
+        <Object id="PoolTable\6Ball" suffix="1" />
+        <Object id="PoolTable\7Ball" suffix="1" />
+        <Object id="PoolTable\8Ball" suffix="1" />
+        <Object id="PoolTable\9Ball" suffix="1" />
+        <Object id="PoolTable\Cue" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\projdemo.utx" />
+    <Package path="textures\pxfxfont.utx" />
+    <Package path="textures\pxhud.utx" />
+    <Package path="textures\pxkarma.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ice1" suffix="1" />
+        <Object id="rocksno2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\pxmenufonts.utx" />
+    <Package path="textures\ranimals.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="horse\BrownHorse20" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\rcharacters.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="female\GabLegs" suffix="1" />
+        <Object id="female\Har2Head" suffix="1" />
+        <Object id="female\Sal2Legs" suffix="1" />
+        <Object id="female\Sal2Torso" suffix="1" />
+        <Object id="Male\CyPants" suffix="2" />
+        <Object id="Male\CyTorso" suffix="2" />
+        <Object id="Male\Hay2Torso" suffix="1" />
+        <Object id="Male\Scr2Torso01a" suffix="1" />
+        <Object id="Male\ScrHead" suffix="1" />
+        <Object id="Male\ScrTorso" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\rhorse.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BrownHorse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\robjects.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Indoor\BearRug" suffix="1" />
+        <Object id="Outdoor\DeadHorse" suffix="1" />
+        <Object id="Outdoor\Skeleton" suffix="1" />
+        <Object id="Weapons\BearTrap_256" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\rplants.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Desert\Aloe03" suffix="1" />
+        <Object id="Desert\Aloe4" suffix="1" />
+        <Object id="Desert\PricklyPear" suffix="1" />
+        <Object id="Northwest\Birch" suffix="1" />
+        <Object id="Northwest\BirchBark" suffix="1" />
+        <Object id="Northwest\BirchTrunk" suffix="1" />
+        <Object id="Northwest\Bush1Dome" suffix="1" />
+        <Object id="Northwest\Bush1Thick" suffix="1" />
+        <Object id="Northwest\Bush1Thin" suffix="1" />
+        <Object id="Northwest\CanopyLeaf" suffix="1" />
+        <Object id="Northwest\Cattail" suffix="1" />
+        <Object id="Northwest\Fern" suffix="1" />
+        <Object id="Northwest\Grass" suffix="1" />
+        <Object id="Northwest\Pine1Full" suffix="1" />
+        <Object id="Northwest\Pine2Thin" suffix="1" />
+        <Object id="Northwest\Tree1Thick" suffix="1" />
+        <Object id="Northwest\Tree3thick" suffix="1" />
+        <Object id="Northwest\Tree4Fall" suffix="1" />
+        <Object id="water\ShineSquared" suffix="1" />
+        <Object id="water\WaterBottom" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\rrt_objects.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Indoor\toilet" suffix="1" />
+        <Object id="Outdoor\DeadHorse" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\rrt_plants.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Desert\PricklyPear" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\rterrain.utx" />
+    <Package path="textures\rtextures.utx" />
+    <Package path="textures\sgt_interface.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Menu\loadscreen_new" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\skies.utx" />
+    <Package path="textures\smokepuff.utx" />
+    <Package path="textures\swingtextures.utx" />
+    <Package path="textures\ut2003fonts.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\warfarefonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultFont\DefaultFont_PageADXT" suffix="1" />
+        <Object id="FontEurostile11\FontEurostile11_PageADXT" suffix="1" />
+        <Object id="FontEurostile12\FontEurostile12_PageADXT" suffix="1" />
+        <Object id="FontEurostile14\FontEurostile14_PageADXT" suffix="1" />
+        <Object id="FontEurostile17\FontEurostile17_PageADXT" suffix="1" />
+        <Object id="FontEurostile21\FontEurostile21_PageADXT" suffix="1" />
+        <Object id="FontEurostile24\FontEurostile24_PageADXT" suffix="1" />
+        <Object id="FontEurostile29\FontEurostile29_PageADXT" suffix="1" />
+        <Object id="FontEurostile37\FontEurostile37_PageADXT" suffix="1" />
+        <Object id="FontEurostile37\FontEurostile37_PageBDXT" suffix="1" />
+        <Object id="FontEurostile8\FontEurostile8_PageADXT" suffix="1" />
+        <Object id="FontEurostile9\FontEurostile9_PageADXT" suffix="1" />
+        <Object id="FontLarge\FontLarge_PageADXT" suffix="1" />
+        <Object id="FontLarge1024x768\FontLarge1024x768_PageADXT" suffix="1" />
+        <Object id="FontLarge1024x768\FontLarge1024x768_PageBDXT" suffix="1" />
+        <Object id="FontLarge800x600\FontLarge800x600_PageADXT" suffix="1" />
+        <Object id="FontMedium\FontMedium_PageADXT" suffix="1" />
+        <Object id="FontMedium1024x768\FontMedium1024x768_PageADXT" suffix="1" />
+        <Object id="FontMedium800x600\FontMedium800x600_PageADXT" suffix="1" />
+        <Object id="FontMono\FontMono_PageADXT" suffix="1" />
+        <Object id="FontMono800x600\FontMono800x600_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit11\FontNeuzeit11_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit12\FontNeuzeit12_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit14\FontNeuzeit14_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit17\FontNeuzeit17_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit21\FontNeuzeit21_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit24\FontNeuzeit24_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit29\FontNeuzeit29_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit37\FontNeuzeit37_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit37\FontNeuzeit37_PageBDXT" suffix="1" />
+        <Object id="FontNeuzeit8\FontNeuzeit8_PageADXT" suffix="1" />
+        <Object id="FontNeuzeit9\FontNeuzeit9_PageADXT" suffix="1" />
+        <Object id="FontSmall\FontSmall_PageADXT" suffix="1" />
+        <Object id="FontSmallText\Texture0" suffix="1" />
+        <Object id="FontSmallText800x600\FontSmallText800x600_PageADXT" suffix="1" />
+        <Object id="jFontLarge\jFontLarge_PageADXT" suffix="1" />
+        <Object id="jFontLarge1024x768\jFontLarge1024x768_PageADXT" suffix="1" />
+        <Object id="jFontLarge1024x768\jFontLarge1024x768_PageBDXT" suffix="1" />
+        <Object id="jFontLarge800x600\jFontLarge800x600_PageADXT" suffix="1" />
+        <Object id="jFontMedium\jFontMedium_PageADXT" suffix="1" />
+        <Object id="jFontMedium1024x768\jFontMedium1024x768_PageADXT" suffix="1" />
+        <Object id="jFontMedium800x600\jFontMedium800x600_PageADXT" suffix="1" />
+        <Object id="jFontMono\jFontMono_PageADXT" suffix="1" />
+        <Object id="jFontMono800x600\jFontMono800x600_PageADXT" suffix="1" />
+        <Object id="jFontSmall\jFontSmall_PageADXT" suffix="1" />
+        <Object id="jFontSmallText\jFontSmallText_PageADXT" suffix="1" />
+        <Object id="jFontSmallText800x600\jFontSmallText800x600_PageADXT" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\weapon3rdperson.utx" />
+    <Package path="textures\weaponmaterials.utx" />
+    <Package path="textures\wood.utx" />
+    <Package path="textures\xbicons.utx" />
+  </Packages>
+</IdRemapping>

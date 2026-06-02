@@ -1,0 +1,73 @@
+Introduction
+
+A texture pack is a package that the users of your mod will download and install with TFC Installer.
+It is possible for the users to install several texture packs. if more than one texture pack replace the same texture, the last one to be installed will be the one replacing the texture. TFC installer can be used to uninstall all texture packs. If your modified texture was stored in a TFC instead of a package, your texture pack will have a custom TFC that will be installed in the game directory.
+
+If your game has official DLCs, these are also supported and it is possible to create a texture pack for a specific DLC.
+
+Texture packs are useful if you want to replace the game's original textures with your own (ex: a HD texture pack, a base game skin replacement, that sort of thing). 
+Texture packs are not meant to be used to create new DLCs (ex: new skins), nor to install the texture pack and upload modified packages for the end users to override their game files (see "Instructions - New packages" instead).
+
+/!\ It is recommended to not have any mods installed if you want to create a texture pack as some modding tools create packages that UPK Explorer may not be able to read properly
+
+Step 1: Set a working folder
+
+	The first thing to do is to set a working folder, for example c:\Workspace.
+	This is where file will be exported to, and textures will be imported from
+
+Step 2: Open your game package folder
+
+	You will need to find your game installation folder (ex: D:\SteamLibrary\steamapps\common\Dishonored\)
+	In advanced mode you can also open package files if you want to explore their content / edit object properties, and save a modified copy.
+
+Step 3: Export textures
+
+	Wait for the packages to load
+	Using the first tab called "Export Textures", you can see all the textures used in the game.
+	You can filter by name, type or pixel format, as well as local storage, TFC storage or external storage.
+	Filtering by type is an attempt at filtering out normal maps and other textures
+	you don't want using the texture name, but since the game developers
+	didn't use proper name tags on all textures, you might find interesting
+	textures under the "Other" category.
+
+Once you find the texture(s) you want, you can either export them one by one, or export all the filtered textures.
+
+	You will find your textures under [workspace folder]\[Game]\Exports\[TextureFormat]
+	Where [workspace folder] is the folder you selected at the beginning
+	[Game] the main game or [Game]\[DLC] if you opened a DLC
+	[TextureFormat] will be the PixelFormat of the texture that you extracted, most are PF_DXT1 or PF_DXT5 but you may also see PF_A8R8G8B8, PF_BC4, PF_BC5, and PF_DXT3.
+	You can now close the tool and start working on your textures.
+
+Step 4: Process your textures
+
+	Once you have finished working on your textures, they need to be placed in the corresponding "Imports" folder:
+	[workspace folder]\[Game]\Imports\[TextureFormat]
+
+	It's important the textures have the same name/folder and pixel format as the ones you have exported.
+	If you upscale your texture, make sure it retains the same aspect ratio of the original texture.
+	They need to be the same dds format as the original and include mipmaps.
+	Do not mix up different texture types, they need to be kept separated as it's not possible to import textures in a different format than the original texture.
+	You may use the provided PNG to DDS Converter that can convert multiple PNGs to DDS at once (converts all any currently supported pixel format, depending on what you select). It is highly recommended to use this tool to ensure the proper mipmaps are generated.
+
+	From this point on you will no longer need the textures in the "Exports\[TextureFormat]" folders
+
+Step 5: Create a texture pack
+
+	Open the tool again, and re-open the folder containing the packages.
+	Go to the "Create texture pack" tab.
+	You should see the textures you have placed in the [Game]\Imports\[TextureFormat] folders
+	Click "Pack xxx Textures" and a texture package will be created in [Workspace folder]\TexturePacks\
+
+	A texture pack consists of the following files:
+	[Game].TFCMapping
+	Zero or more LocalMips_XXX.tfc
+	Zero or more Texture2D_XXX.tfc
+	PackageExtensions.xml
+	GameProfile.xml
+	GameProfile.IdRemappings.xml
+
+	Do not rename these files. Simply put them into a folder named after your texture pack.
+	If you want your texture pack to support optional DLCs, repeat the above process except open the chosen DLC's package folder when clicking "Open UPK folder".
+
+	Once you have created a texture pack for the DLC, you can place them in the same folder as the main game's texture pack files as they will have different names.
+	Using TFC Installer, the user of your texture pack will have the option to also install the DLC part of your texture pack if the DLC is installed on his/her computer.

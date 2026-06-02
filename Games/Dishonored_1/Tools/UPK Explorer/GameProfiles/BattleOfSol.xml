@@ -1,0 +1,18 @@
+﻿<Game packageFileVersion="853" packageLicenseeVersion="0" TFCMappingFileName="The Battle of Sol"  xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="762" licenseeVersion="0"/>
+		<PackageVersion fileVersion="815" licenseeVersion="0"/>
+		<PackageVersion fileVersion="828" licenseeVersion="0"/>
+		<PackageVersion fileVersion="841" licenseeVersion="0"/>
+		<PackageVersion fileVersion="852" licenseeVersion="0"/>
+		<PackageVersion fileVersion="859" licenseeVersion="0"/>
+		<PackageVersion fileVersion="860" licenseeVersion="0"/>
+		<PackageVersion fileVersion="864" licenseeVersion="0"/>
+		<PackageVersion fileVersion="867" licenseeVersion="0"/>
+		<PackageVersion fileVersion="868" licenseeVersion="0"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="SOLExodusGame\Content\*" TFCpath="SOLExodusGame\Content" customTFCStartIndex="0" />
+		<PackageFolder path="SOLExodusGame\Script\*" TFCpath="SOLExodusGame\Script" customTFCStartIndex="1000" />
+	</PackageFolders>
+</Game>

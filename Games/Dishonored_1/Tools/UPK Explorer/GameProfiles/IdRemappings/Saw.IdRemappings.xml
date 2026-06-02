@@ -1,0 +1,919 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="sawgame\cookedpc\core.u" />
+    <Package path="sawgame\cookedpc\editor.u" />
+    <Package path="sawgame\cookedpc\editormaterials.upk" />
+    <Package path="sawgame\cookedpc\editormeshes.upk" />
+    <Package path="sawgame\cookedpc\editorresources.upk" />
+    <Package path="sawgame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="sawgame\cookedpc\engine.u" />
+    <Package path="sawgame\cookedpc\enginefonts.upk" />
+    <Package path="sawgame\cookedpc\enginematerials.upk" />
+    <Package path="sawgame\cookedpc\enginemeshes.upk" />
+    <Package path="sawgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\enginescenes.upk" />
+    <Package path="sawgame\cookedpc\enginesounds.upk" />
+    <Package path="sawgame\cookedpc\enginevolumetrics.upk" />
+    <Package path="sawgame\cookedpc\gameframework.u" />
+    <Package path="sawgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="sawgame\cookedpc\guidcache.upk" />
+    <Package path="sawgame\cookedpc\ipdrv.u" />
+    <Package path="sawgame\cookedpc\kynapse.u" />
+    <Package path="sawgame\cookedpc\kynapseeditor.u" />
+    <Package path="sawgame\cookedpc\kynapseeditorresources.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_archive_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_archive_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_archive_main.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_01_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_01.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_02_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_02.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_03_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_audiotape_03.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_bb_deathcam01.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_a_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_a.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_b.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_c.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_d.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_e.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_f.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_cine_g.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_dine_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_dine_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_dine_main.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_freedom_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_freedom.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_a.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_c.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_d.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_e.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_f_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_f.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_gag_g.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_lib_hub_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_lib_hub.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_lib_to_archive_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_lib_to_archive_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_lib_to_archive.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_library_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_library_deco_a.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_library_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_library_main.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_p.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_main.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_to_lib_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_to_lib_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_pharm_to_lib.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_steampipes_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_steampipes_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_steampipes.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_to_rec_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_to_rec_deco.saw" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_to_rec_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\admin\admin_to_rec.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_01_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_01.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_collar_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_collar.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_steam_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_audiotape_steam.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_berserker_intro_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_berserker_intro.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_decoboiler.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_decocenter.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_deconorth.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_decosw.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_main.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_boiler_squeeze.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_center_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_chem_mirror.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cine_intro_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_cine_intro.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinea_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinea.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cineb.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinecollapse.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinedoorbang.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinef_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinef.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinej_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinej.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinezombiewalk_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_cinezombiewalk.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_collarbathroom.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_decoeast.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_deconw.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_decosw.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_decowest.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_core_move.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_janitor_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_janitor_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_janitor_main.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_janitor_mirror.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_minion_preveal.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_music04.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_p_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_p.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_pigpark_one.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_shotgun_collar_death_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_shotgun_collar_death.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_storage_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_storage_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_storage_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_storage_main.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_to_med_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_to_med.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_trap_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\base\base_trap_main.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_trap_transition.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_trappreveal.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_trapvignette_one.saw" />
+    <Package path="sawgame\cookedpc\maps\base\base_tvstofurnace.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_balance_beam_dc2.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_balancebeam_start.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_base_securdeco.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decochomper.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decogod.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decooptical.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decosecurity.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decostair_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_decostair.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_main_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_basement_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_chapel_main_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_chapel_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_decon.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_deconw.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_decos.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_decow_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_decow.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_main_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_core_move.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_crypt_main_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_crypt_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_crypt_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_cryptmirror.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_cs_foundgod.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_cs_minfight_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_cs_minfight.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_cs_pigchoke.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_deconwmirror.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_exterior_cemdeco.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_exterior_main_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_exterior_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_exterior_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_flashback.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtape_core_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtape_core.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtapefour_core_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtapefour_core.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtapethree_core_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtapethree_core.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_jigsawtapetwo_core.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_killswitch_intro.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_molotov_minion_intro.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_oct_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_p.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_pighead_lair.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_squeezedeco.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_startdeco.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_to_base_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_to_base_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_to_base.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_to_low_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_trap_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_trap_main.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_five_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_five.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_four_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_four.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_one_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_one.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_seven_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_seven.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_six_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_six.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_three.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tv_two.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tvangel_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tvangel.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tvpretrap_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_tvpretrap.saw" />
+    <Package path="sawgame\cookedpc\maps\chapel\chapel_westside_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_balance_beam_grinder.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_1_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_1.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_2.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_4_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_4.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_5_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_5.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_6.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_cine_7.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_core_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_gauntlet_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_gauntlet_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_gauntlet_one.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_gauntlet_two_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_gauntlet_two.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_intro_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_intro_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_intro_main.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_jigsawtapeone_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_jigsawtapeone.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_jigsawtapetwo_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_jigsawtapetwo.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_med_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_med_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_med_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_med_main.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_oswald_exit_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_oswald_exit.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_p.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_to_low_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_to_low.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_trap_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_trap_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_trap_main.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_tvone_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_tvone.saw" />
+    <Package path="sawgame\cookedpc\maps\crem\crem_tvpretrap.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_center_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_deco_securitycp.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_deco.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_decocenter.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_decoeast.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_deconw.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_decosw.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_decowest.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_move.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_tv_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_tv_two_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_tv_two.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_core_tv.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_coremirror.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_crawlerminion_cs.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_jigsawtape_pinestart_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_jigsawtape_pinestart.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_jigsawtapecore_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_jigsawtapecore.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_liveordiegag.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_mannequin_tulip.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_melissa_exit_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_melissa_exit.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_minionrelease_cs_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_minionrelease_cs.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_oak_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_p.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pigpark_tulip.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_deconorth.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_decosouth_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_decosouth.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_decowest.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_main.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_tv_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_pine_tv.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_pinemirror.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_rose_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_sfshuffle.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_to_chapel_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_to_chapel_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_to_chapel_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_to_chapel.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_trap_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_trap.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_bb_deathcam01.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_bb_deathcam02.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_decoe.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_decon.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_decone.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_main.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_tv_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_tv_two_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_tv_two.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulip_tv.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tulipmirror.saw" />
+    <Package path="sawgame\cookedpc\maps\low\low_tv_pretrap.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_deconorth.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_decosouth.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsy_main.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsytwo_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_autopsytwo_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_center_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_buddy_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_buddy.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_collared.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_gag_1.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_gag_2.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_gag_3.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_hang.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_minalerted.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_minfightone_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_minfightone.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_nailbomb_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_nailbomb.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_pig_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_cine_pig.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_audio_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_decoa.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_decob.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_decoc.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_decod.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_jigsawtwo.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_from_start_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_from_start.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_fromstart_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_gag_razor.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_mirrorstart.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_offices_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_offices_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_offices_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_offices_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_offices_main.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_operation_flashback_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_operation_flashback.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_p.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_reverse_bear_trap_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_reverse_bear_trap.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_start_decoa_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_start_decoa.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_start_decob.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_start_decoc.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgery_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgery_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgery_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgery_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgery_main.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgpiglair_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgtheater_jigsaw_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_surgtheater_jigsaw.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_theater_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_theater_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\med\med_theater_main.saw" />
+    <Package path="sawgame\cookedpc\maps\med\med_tvpretrap.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_center_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_centerdeco.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_decoeast.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_deconorth.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_decowest.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_east_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_main.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_mirror.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_core_move.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_introtape_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_introtape.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_decoentrance.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_main.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_mirror.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_pigparking_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_kitch_pigparking.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_music01.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_music02.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_music03.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_obi_exit_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_obi_exit.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_p.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_pigheadrun_gag.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_decoeast.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_decowest.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_extdeco.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_gaglocktv.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_main_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_main.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_trapnailpit.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_res_trapvignette_one.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_restape_01.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_sfwalker.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_theater_audio.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_theater_halls_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_theater_halls.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_theatertape_01_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_theatertape_01.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_therapychair_gag.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_to_med_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_to_med.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_trap_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_trap.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_tvrgbclue.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_one_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_one.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_three_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_three.saw" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_two_loc_int.upk" />
+    <Package path="sawgame\cookedpc\maps\rec\rec_victimgag_two.saw" />
+    <Package path="sawgame\cookedpc\maps\saw_p.saw" />
+    <Package path="sawgame\cookedpc\maps\sawentry.saw" />
+    <Package path="sawgame\cookedpc\maps\start_p.saw" />
+    <Package path="sawgame\cookedpc\maps\tests\cs_sgcwakeup_short.saw" />
+    <Package path="sawgame\cookedpc\nodebuddies.upk" />
+    <Package path="sawgame\cookedpc\onlinesubsystemgamespy.u" />
+    <Package path="sawgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="sawgame\cookedpc\packages\an_animtree.upk" />
+    <Package path="sawgame\cookedpc\packages\an_billypuppet.upk" />
+    <Package path="sawgame\cookedpc\packages\an_cinematics.upk" />
+    <Package path="sawgame\cookedpc\packages\an_common.upk" />
+    <Package path="sawgame\cookedpc\packages\an_minigame.upk" />
+    <Package path="sawgame\cookedpc\packages\an_minions.upk" />
+    <Package path="sawgame\cookedpc\packages\an_nonplayerchar.upk" />
+    <Package path="sawgame\cookedpc\packages\an_objects.upk" />
+    <Package path="sawgame\cookedpc\packages\an_pigheads.upk" />
+    <Package path="sawgame\cookedpc\packages\an_playable.upk" />
+    <Package path="sawgame\cookedpc\packages\an_rat.upk" />
+    <Package path="sawgame\cookedpc\packages\animtreesets.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_ambience.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_animals.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_mechanical.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_music.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_props.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_stereoambience.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\a_surround.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_loop_indoor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_nonloop_indoor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_nonloop_outdoor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_stereo_indoor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_stereo_oneshots.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ambient\a_ambient_stereo_outdoor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_admin.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_base.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_chapel.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_crem.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_lowsec.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_med.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_rec.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cin_trapreveals.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cinematic_ingame.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cinematic_ms_11.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\cinematics\a_cinematic_vs.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_amnda.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_buddy.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_extras.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_jeff.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_jenn.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_jsaw.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_mel.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_mina.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_minb_unmuff.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_minb.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_minc.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_mind.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_mine.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_minf.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_ming.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_minh.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_mini.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_obi.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_osw.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_pighead.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dia_tapp.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_ai_pighead.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_amanda.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_buddy.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_carla.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_cs_gordon.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_cs_jigsaw.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_cs_shadowy.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_cutscene.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_jeff.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_jennings.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_jigsaw.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_melissa.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_mina.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_minb.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_mind.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_mine.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_minf.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_ming.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_minh.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_minigame.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_minl.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_misc.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_obi.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_oswald.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_ph.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_script.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_scripted_ph.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_scripted_placeholder.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_cop01.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_counselor.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_jennings.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_jigsaw.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_miniona.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_operator.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_sing.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_sd_tapp.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_shadowy.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_tapp.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_trapreveals.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_traps.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_dialog_vs.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\dialog\a_facefx_test.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\foley\a_foley_actionable.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\foley\a_foley_fx.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\foley\a_foley_impact.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\human_foley\a_footstep.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\human_foley\a_human_foley.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_adapt.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_adapt2.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_adapt3.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_adapt4.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_gamestingers.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_mus_lowsec.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_adaptive_fearlevel.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_adaptive_ms_10.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_adaptive_vs.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_intercom.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_menu.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\music\a_music_scripted.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\props\a_props_manmade.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\scripted\a_scripted.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\scripted\a_traps.upk" />
+    <Package path="sawgame\cookedpc\packages\audio\ui\a_ui.upk" />
+    <Package path="sawgame\cookedpc\packages\bathroomtest.upk" />
+    <Package path="sawgame\cookedpc\packages\billymesh.upk" />
+    <Package path="sawgame\cookedpc\packages\ch_animations.upk" />
+    <Package path="sawgame\cookedpc\packages\ch_billy.upk" />
+    <Package path="sawgame\cookedpc\packages\ch_pigheads.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_amanda.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_angryjohn.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_bigjohn.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_bskinnymike.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_buddy.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_carla.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_irishmike.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_james.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_jeff.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_jennings.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_melissa_robed.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_melissa.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_a.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_b.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_berserker.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_blackguy.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_c.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_chris.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_cranialjig.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_hoodie.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_killswitch.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_leather.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_rhino.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minion_xavier.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_minionattachments.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_obi.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_butcher.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_cop.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_doctor.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_greed.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_robed.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_sloth.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_twins.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_pighead_warpig.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_rat.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_shadowyfigure.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\ch_strapped_chris.upk" />
+    <Package path="sawgame\cookedpc\packages\characters\characters.upk" />
+    <Package path="sawgame\cookedpc\packages\cinematic_moviefiles.upk" />
+    <Package path="sawgame\cookedpc\packages\cinematics_vs_cs2.upk" />
+    <Package path="sawgame\cookedpc\packages\cinematics.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_bugs.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_camblood.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_destructibles.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_electric.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_explosions.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_fire.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_fog.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_footprints.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_gags.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_glass.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_gore.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_impacts.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_light.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_smoke.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_traps.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_water.upk" />
+    <Package path="sawgame\cookedpc\packages\effects\fx_weapons.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ad_common\ad_common.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ad_library\ad_library.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ad_nursestation\ad_nursestation.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ad_office\ad_office.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\b_common\b_common.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_collapseable\c_collapseable.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_corpses\c_corpses.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_crematorium\c_crematorium.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_debris\c_debris.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_doors\c_doors.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_exterior\c_exterior.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_foliage\c_foliage.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_hallways\c_hallways.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_hydrotherapy\c_hydrotherapy.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_lighting\c_lighting.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_locks\c_locks.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_materials\c_materials.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_pickups\c_pickups.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_pipes\c_pipes.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_props\c_props.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_C_Pipes_Dif" suffix="1" />
+        <Object id="Materials\TX_C_Pipes_Nor" suffix="1" />
+        <Object id="Materials\TX_C_Pipes2_Dif" suffix="1" />
+        <Object id="Materials\TX_C_Pipes2_Nor" suffix="1" />
+        <Object id="Materials\TX_C_Wire_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\c_signage\c_signage.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_stairs\c_stairs.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_C_StairsNoBck_384L_Dif" suffix="1" />
+        <Object id="Materials\TX_C_StairsWall_384L_Dif" suffix="1" />
+        <Object id="Materials\TX_C_StairsWall_384L_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\c_tvscreens\c_tvscreens.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_vignettes\c_vignettes.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_wardrooms\c_wardrooms.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\c_windows\c_windows.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\cn_hallways\cn_hallways.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\cn_stairwells\cn_stairwells.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ep_common\ep_common.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\fb_props\fb_props.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\fb_props\fb_textures.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\hs_common\hs_common.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\hs_wardchildrens\hs_wardchildrens.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_HS_LinoStairs_760x512_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\hs_wardisolation\hs_wardisolation.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\hs_wardlowsecurity\hs_wardlowsecurity.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\hs_wardpsycha\hs_wardpsycha.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_combat\int_combat.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_hallways\int_hallways.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_housing\int_housing.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_kickables\int_kickables.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_kitchen\int_kitchen.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_medical\int_medical.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_office\int_office.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_props\int_props.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\int_traps\int_traps.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_INT_Chain_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\int_wallbreak\int_wallbreak.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ls_propsgameplay\ls_propsgameplay.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\md_common\md_common.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\md_hospital\md_hospital.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_MD_XRay_Dif" suffix="1" />
+        <Object id="Materials\TX_MD_XRay_Nor" suffix="1" />
+        <Object id="Materials\TX_MD_XRay_Spc" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\md_morgue\md_morgue.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\md_propsgameplay\md_propsgameplay.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\od_garage\od_garage.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\od_grounds\od_grounds.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\od_rooftops\od_rooftops.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\re_cafeteria\re_cafeteria.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\re_chapel\re_chapel.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\re_entrances\re_entrances.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_RE_DoorDoubleGrandGlass_Msk" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\re_kitchen\re_kitchen.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\re_propsgameplay\re_propsgameplay.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\re_theater\re_theater.upk" />
+    <Package path="sawgame\cookedpc\packages\environmental\ut_bathroom\ut_bathroom.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_UT_Bathroom_Stalls_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\environmental\ut_common\ut_common.upk" />
+    <Package path="sawgame\cookedpc\packages\gradients_noise.upk" />
+    <Package path="sawgame\cookedpc\packages\jc_lightflickertestassets.upk" />
+    <Package path="sawgame\cookedpc\packages\kynapsedefaultdefinitions.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commonbasic.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commoncharacters.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commondecal.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commonglass.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commonlights.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commonsnow.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commontx.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_commonwater.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\mt_ppe.upk" />
+    <Package path="sawgame\cookedpc\packages\materials\physicalmaterials.upk" />
+    <Package path="sawgame\cookedpc\packages\physxtemp.upk" />
+    <Package path="sawgame\cookedpc\packages\saw_actionablematerials.upk" />
+    <Package path="sawgame\cookedpc\packages\sawgamemenus.upk" />
+    <Package path="sawgame\cookedpc\packages\sawkynapsedefinition.upk" />
+    <Package path="sawgame\cookedpc\packages\sawuiskin.upk" />
+    <Package path="sawgame\cookedpc\packages\sawwhitebox.upk" />
+    <Package path="sawgame\cookedpc\packages\scenetest.upk" />
+    <Package path="sawgame\cookedpc\packages\sky.upk" />
+    <Package path="sawgame\cookedpc\packages\soundmodes.upk" />
+    <Package path="sawgame\cookedpc\packages\tests\cs_shotguncollar.upk" />
+    <Package path="sawgame\cookedpc\packages\tests\jigsaw_tests.upk" />
+    <Package path="sawgame\cookedpc\packages\traps\toiletgame\tr_toiletgame.upk" />
+    <Package path="sawgame\cookedpc\packages\traps\vsliceender\tr_vsliceender.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\360-ui_fonts_saw.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ConsoleArt\ARing" suffix="1" />
+        <Object id="ConsoleArt\BRing" suffix="1" />
+        <Object id="ConsoleArt\TX_FaceButtons01" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_A_Emm" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_B_Emm" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_X_Emm" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_Y_Emm" suffix="1" />
+        <Object id="ConsoleArt\XRing" suffix="1" />
+        <Object id="ConsoleArt\yRing" suffix="1" />
+        <Object id="LockPick\TX_UI_LockArm_Dif" suffix="1" />
+        <Object id="LockPick\TX_UI_LockDiscA_Dif" suffix="1" />
+        <Object id="LockPick\TX_UI_LockDiscB_Dif" suffix="1" />
+        <Object id="LockPick\TX_UI_LockDiscX_Dif" suffix="1" />
+        <Object id="LockPick\TX_UI_LockDiscY_Dif" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\ui\kevtestui.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\orig-ui_fonts_saw.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ConsoleArt\TX_Controller" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\ui\ps3-ui_fonts_saw.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ButtonPress\TX_Move_C" suffix="1" />
+        <Object id="ButtonPress\TX_Move_D" suffix="1" />
+        <Object id="ButtonPress\TX_Move_DL" suffix="1" />
+        <Object id="ButtonPress\TX_Move_DR" suffix="1" />
+        <Object id="ButtonPress\TX_Move_L" suffix="1" />
+        <Object id="ButtonPress\TX_Move_R" suffix="1" />
+        <Object id="ButtonPress\TX_Move_U" suffix="1" />
+        <Object id="ButtonPress\TX_Move_UL" suffix="1" />
+        <Object id="ButtonPress\TX_Move_UR" suffix="1" />
+        <Object id="ConsoleArt\ARing" suffix="2" />
+        <Object id="ConsoleArt\BRing" suffix="2" />
+        <Object id="ConsoleArt\TX_Balance" suffix="1" />
+        <Object id="ConsoleArt\TX_Controller" suffix="2" />
+        <Object id="ConsoleArt\TX_FaceButtons01" suffix="2" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_A_Dif" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_A_Emm" suffix="2" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_B_Emm" suffix="2" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_X_Dif" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_X_Emm" suffix="2" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_Y_Dif" suffix="1" />
+        <Object id="ConsoleArt\TX_UI_RBTbutton_Y_Emm" suffix="2" />
+        <Object id="ConsoleArt\XRing" suffix="2" />
+        <Object id="ConsoleArt\yRing" suffix="2" />
+        <Object id="LockPick\TX_UI_LockArm_Dif" suffix="2" />
+        <Object id="LockPick\TX_UI_LockDiscA_Dif" suffix="2" />
+        <Object id="LockPick\TX_UI_LockDiscB_Dif" suffix="2" />
+        <Object id="LockPick\TX_UI_LockDiscX_Dif" suffix="2" />
+        <Object id="LockPick\TX_UI_LockDiscY_Dif" suffix="2" />
+        <Object id="LockPick\TX_UI_LockLatch_Dif" suffix="1" />
+        <Object id="XBox\Xbox360_Icons_18pt\Texture2D_45" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\ui\ui_editoricons.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_fonts_saw.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ButtonPress\TX_Move_C" suffix="2" />
+        <Object id="ButtonPress\TX_Move_D" suffix="2" />
+        <Object id="ButtonPress\TX_Move_D1" suffix="1" />
+        <Object id="ButtonPress\TX_Move_DL" suffix="2" />
+        <Object id="ButtonPress\TX_Move_DR" suffix="2" />
+        <Object id="ButtonPress\TX_Move_L" suffix="2" />
+        <Object id="ButtonPress\TX_Move_R" suffix="2" />
+        <Object id="ButtonPress\TX_Move_U" suffix="2" />
+        <Object id="ButtonPress\TX_Move_U1" suffix="1" />
+        <Object id="ButtonPress\TX_Move_UL" suffix="2" />
+        <Object id="ButtonPress\TX_Move_UR" suffix="2" />
+        <Object id="ConsoleArt\TX_Controller" suffix="3" />
+        <Object id="XBox\Xbox360_Icons_18pt\Texture2D_44" suffix="1" />
+        <Object id="XBox\Xbox360_Icons_18pt\Texture2D_45" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\ui\ui_hud_images_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_hud_scenes_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_main_images_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_main_scenes_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_minigame_images_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_minigame_scenes_saw.upk" />
+    <Package path="sawgame\cookedpc\packages\ui\ui_minigames.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_axesmall\wp_axesmall.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_bat\wp_bat.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_batnail\wp_batnail.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_brick\wp_brick.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_chairwooden\wp_chairwooden.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_crowbar\wp_crowbar.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_crutch\wp_crutch.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_C_Crutch_Dif" suffix="1" />
+        <Object id="Materials\TX_C_Crutch_Nor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\weapons\wp_hammer\wp_hammer.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_hatchet\wp_hatchet.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_lamptable\wp_lamptable.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\TX_FB_LampTable_Dif" suffix="1" />
+        <Object id="Materials\TX_FB_LampTable_Nor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sawgame\cookedpc\packages\weapons\wp_legtable\wp_legtable.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_mannequinarm\wp_mannequinarm.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_mannequinleg\wp_mannequinleg.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_molotov\wp_molotov.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_mophandle\wp_mophandle.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_pipe\wp_pipe.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_pipethin\wp_pipethin.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_revolver\wp_revolver.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_scalpel\wp_scalpel.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_scissors\wp_scissors.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_screwdriver\wp_screwdriver.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_shovel\wp_shovel.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_syringe\wp_syringe.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_toiletlid\wp_toiletlid.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_toiletseat\wp_toiletseat.upk" />
+    <Package path="sawgame\cookedpc\packages\weapons\wp_woodplank\wp_woodplank.upk" />
+    <Package path="sawgame\cookedpc\packages\whitebox.upk" />
+    <Package path="sawgame\cookedpc\packages\whiteboxhigh.upk" />
+    <Package path="sawgame\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="sawgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="sawgame\cookedpc\saweditor.u" />
+    <Package path="sawgame\cookedpc\sawgame_loc_int.upk" />
+    <Package path="sawgame\cookedpc\sawgame.u" />
+    <Package path="sawgame\cookedpc\sawgamecontent.u" />
+    <Package path="sawgame\cookedpc\startup_deu.upk" />
+    <Package path="sawgame\cookedpc\startup_esn.upk" />
+    <Package path="sawgame\cookedpc\startup_fra.upk" />
+    <Package path="sawgame\cookedpc\startup_int.upk" />
+    <Package path="sawgame\cookedpc\startup_ita.upk" />
+    <Package path="sawgame\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="sawgame\cookedpc\ui\testuiscenes.upk" />
+    <Package path="sawgame\cookedpc\ui\uiarcpackage.upk" />
+    <Package path="sawgame\cookedpc\unrealed.u" />
+    <Package path="sawgame\cookedpc\unrealscripttest.u" />
+  </Packages>
+</IdRemapping>

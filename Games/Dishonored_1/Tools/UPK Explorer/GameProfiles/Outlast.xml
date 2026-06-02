@@ -1,0 +1,17 @@
+﻿<Game packageFileVersion="860" packageLicenseeVersion="2" TFCMappingFileName="Outlast" updateUITextureSizeProperties="true" enableTFCNamePropertyCleanup="false" checkDupplicateIds="True" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="860" licenseeVersion="2"/>
+		<PackageVersion fileVersion="867" licenseeVersion="0"/>
+		<PackageVersion fileVersion="868" licenseeVersion="3"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="OLGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Whistleblower" TFCMappingFileName="Sunflower">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="OLGame\CookedPCConsoleDLC" TFCpath="OLGame\CookedPCConsoleDLC" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

@@ -1,0 +1,2450 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="mp\builds\binaries\core.u" />
+    <Package path="mp\builds\binaries\de_fparms.u" />
+    <Package path="mp\builds\binaries\engine.u" />
+    <Package path="mp\builds\binaries\fmodaudio.u" />
+    <Package path="mp\builds\binaries\igeffectssystem.u" />
+    <Package path="mp\builds\binaries\igsoundeffectssubsystem_int.u" />
+    <Package path="mp\builds\binaries\igsoundeffectssubsystem.u" />
+    <Package path="mp\builds\binaries\igvisualeffectssubsystem.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_tex\ExpEmbers_Diffuse" suffix="1" />
+        <Object id="FX_tex\ExpEmbers_O" suffix="1" />
+        <Object id="FX_tex\HandElectric_E" suffix="1" />
+        <Object id="FX_tex\HandElectricGrad_Dif" suffix="1" />
+        <Object id="FX_tex\HandFire_Ice_O" suffix="1" />
+        <Object id="FX_tex\HandsParasite_O" suffix="1" />
+        <Object id="FX_tex\LS_Overlay_OPA" suffix="1" />
+        <Object id="FX_tex\ShotDecalConc_Normal" suffix="1" />
+        <Object id="Gen_Water\HeavyBubbles_O" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\builds\binaries\ipdrv.u" />
+    <Package path="mp\builds\binaries\onlinesubsystemsteamworks.u" />
+    <Package path="mp\builds\binaries\onlinesubsystemstub.u" />
+    <Package path="mp\builds\binaries\scripting.u" />
+    <Package path="mp\builds\binaries\shockgame.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_tex\ExpEmbers_Diffuse" suffix="1" />
+        <Object id="FX_tex\ExpEmbers_O" suffix="1" />
+        <Object id="WP_TommyGun\ammostandard_diffuse" suffix="1" />
+        <Object id="WP_TommyGun\ammostandard2_specular" suffix="1" />
+        <Object id="WP_Wrench\WrenchDIFF" suffix="1" />
+        <Object id="WP_Wrench\WrenchMASK" suffix="1" />
+        <Object id="WP_Wrench\WrenchNORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\builds\binaries\shockwykgame.u" />
+    <Package path="mp\builds\binaries\vengeanceshared.u" />
+    <Package path="mp\content\maps\de_apartmentlobby_deu.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby_esp.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby_fra.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby_int.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby_ita.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby_rus.bsm" />
+    <Package path="mp\content\maps\de_apartmentlobby.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="6" />
+        <Object id="LightMaps_BSP\Texture0" suffix="12" />
+        <Object id="LightMaps_BSP\Texture1" suffix="10" />
+        <Object id="LightMaps_BSP\Texture2" suffix="11" />
+        <Object id="LightMaps_BSP\Texture3" suffix="8" />
+        <Object id="LightMaps_StaticMesh\Texture4" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture5" suffix="2" />
+        <Object id="Res_architecture\fireplace_normalmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_arcadia_deu.bsm" />
+    <Package path="mp\content\maps\de_arcadia_esp.bsm" />
+    <Package path="mp\content\maps\de_arcadia_fra.bsm" />
+    <Package path="mp\content\maps\de_arcadia_int.bsm" />
+    <Package path="mp\content\maps\de_arcadia_ita.bsm" />
+    <Package path="mp\content\maps\de_arcadia_rus.bsm" />
+    <Package path="mp\content\maps\de_arcadia.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="6" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="13" />
+        <Object id="LightMaps_BSP\Texture1" suffix="11" />
+        <Object id="LightMaps_BSP\Texture2" suffix="12" />
+        <Object id="LightMaps_BSP\Texture3" suffix="9" />
+        <Object id="LightMaps_BSP\Texture4" suffix="8" />
+        <Object id="LightMaps_StaticMesh\Texture5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_fisheries_deu.bsm" />
+    <Package path="mp\content\maps\de_fisheries_esp.bsm" />
+    <Package path="mp\content\maps\de_fisheries_fra.bsm" />
+    <Package path="mp\content\maps\de_fisheries_int.bsm" />
+    <Package path="mp\content\maps\de_fisheries_ita.bsm" />
+    <Package path="mp\content\maps\de_fisheries_rus.bsm" />
+    <Package path="mp\content\maps\de_fisheries.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="7" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="14" />
+        <Object id="LightMaps_BSP\Texture1" suffix="12" />
+        <Object id="LightMaps_BSP\Texture2" suffix="13" />
+        <Object id="LightMaps_BSP\Texture3" suffix="10" />
+        <Object id="LightMaps_BSP\Texture4" suffix="9" />
+        <Object id="LightMaps_StaticMesh\Texture5" suffix="4" />
+        <Object id="LightMaps_StaticMesh\Texture6" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_fortfrolic_deu.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic_esp.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic_fra.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic_int.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic_ita.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic_rus.bsm" />
+    <Package path="mp\content\maps\de_fortfrolic.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="9" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="15" />
+        <Object id="LightMaps_BSP\Texture1" suffix="13" />
+        <Object id="LightMaps_BSP\Texture2" suffix="14" />
+        <Object id="LightMaps_BSP\Texture3" suffix="11" />
+        <Object id="LightMaps_BSP\Texture4" suffix="10" />
+        <Object id="LightMaps_BSP\Texture5" suffix="7" />
+        <Object id="LightMaps_BSP\Texture6" suffix="7" />
+        <Object id="LightMaps_StaticMesh\Texture7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_freezers_deu.bsm" />
+    <Package path="mp\content\maps\de_freezers_esp.bsm" />
+    <Package path="mp\content\maps\de_freezers_fra.bsm" />
+    <Package path="mp\content\maps\de_freezers_int.bsm" />
+    <Package path="mp\content\maps\de_freezers_ita.bsm" />
+    <Package path="mp\content\maps\de_freezers_rus.bsm" />
+    <Package path="mp\content\maps\de_freezers.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="6" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture3" suffix="12" />
+        <Object id="LightMaps_BSP\Texture4" suffix="11" />
+        <Object id="LightMaps_BSP\Texture5" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_gallery_deu.bsm" />
+    <Package path="mp\content\maps\de_gallery_esp.bsm" />
+    <Package path="mp\content\maps\de_gallery_fra.bsm" />
+    <Package path="mp\content\maps\de_gallery_int.bsm" />
+    <Package path="mp\content\maps\de_gallery_ita.bsm" />
+    <Package path="mp\content\maps\de_gallery_rus.bsm" />
+    <Package path="mp\content\maps\de_gallery.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap26_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap26_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap26_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap26_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap26_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap26_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap27_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap28_Face_5" suffix="2" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture4" suffix="12" />
+        <Object id="LightMaps_BSP\Texture5" suffix="9" />
+        <Object id="LightMaps_BSP\Texture6" suffix="8" />
+        <Object id="LightMaps_BSP\Texture7" suffix="6" />
+        <Object id="LightMaps_StaticMesh\Texture8" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_ghetto_deu.bsm" />
+    <Package path="mp\content\maps\de_ghetto_esp.bsm" />
+    <Package path="mp\content\maps\de_ghetto_fra.bsm" />
+    <Package path="mp\content\maps\de_ghetto_int.bsm" />
+    <Package path="mp\content\maps\de_ghetto_ita.bsm" />
+    <Package path="mp\content\maps\de_ghetto_rus.bsm" />
+    <Package path="mp\content\maps\de_ghetto.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="5" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture25" suffix="2" />
+        <Object id="LightMaps_BSP\Texture26" suffix="2" />
+        <Object id="LightMaps_BSP\Texture27" suffix="1" />
+        <Object id="LightMaps_BSP\Texture28" suffix="1" />
+        <Object id="LightMaps_BSP\Texture29" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_hephaestus_deu.bsm" />
+    <Package path="mp\content\maps\de_hephaestus_esp.bsm" />
+    <Package path="mp\content\maps\de_hephaestus_fra.bsm" />
+    <Package path="mp\content\maps\de_hephaestus_int.bsm" />
+    <Package path="mp\content\maps\de_hephaestus_ita.bsm" />
+    <Package path="mp\content\maps\de_hephaestus_rus.bsm" />
+    <Package path="mp\content\maps\de_hephaestus.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="11" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="Gen_Decor\Oil_Can_diffuse" suffix="1" />
+        <Object id="Gen_Decor\Oil_Can_normal" suffix="1" />
+        <Object id="LightMaps_BSP\Texture4" suffix="13" />
+        <Object id="LightMaps_BSP\Texture5" suffix="10" />
+        <Object id="LightMaps_BSP\Texture6" suffix="9" />
+        <Object id="LightMaps_BSP\Texture7" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_homeforthepoor_deu.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor_esp.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor_fra.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor_int.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor_ita.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor_rus.bsm" />
+    <Package path="mp\content\maps\de_homeforthepoor.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="9" />
+        <Object id="LightMaps_BSP\Texture0" suffix="16" />
+        <Object id="LightMaps_BSP\Texture1" suffix="14" />
+        <Object id="LightMaps_BSP\Texture2" suffix="15" />
+        <Object id="LightMaps_BSP\Texture3" suffix="13" />
+        <Object id="LightMaps_BSP\Texture4" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_kashmir_deu.bsm" />
+    <Package path="mp\content\maps\de_kashmir_esp.bsm" />
+    <Package path="mp\content\maps\de_kashmir_fra.bsm" />
+    <Package path="mp\content\maps\de_kashmir_int.bsm" />
+    <Package path="mp\content\maps\de_kashmir_ita.bsm" />
+    <Package path="mp\content\maps\de_kashmir_rus.bsm" />
+    <Package path="mp\content\maps\de_kashmir.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="5" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="Gen_Signs\frame_light" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture14" suffix="1" />
+        <Object id="LightMaps_BSP\Texture15" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_market_deu.bsm" />
+    <Package path="mp\content\maps\de_market_esp.bsm" />
+    <Package path="mp\content\maps\de_market_fra.bsm" />
+    <Package path="mp\content\maps\de_market_int.bsm" />
+    <Package path="mp\content\maps\de_market_ita.bsm" />
+    <Package path="mp\content\maps\de_market_rus.bsm" />
+    <Package path="mp\content\maps\de_market.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="8" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture11" suffix="1" />
+        <Object id="LightMaps_BSP\Texture6" suffix="10" />
+        <Object id="LightMaps_BSP\Texture7" suffix="8" />
+        <Object id="LightMaps_BSP\Texture8" suffix="2" />
+        <Object id="LightMaps_BSP\Texture9" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture12" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_medical_deu.bsm" />
+    <Package path="mp\content\maps\de_medical_esp.bsm" />
+    <Package path="mp\content\maps\de_medical_fra.bsm" />
+    <Package path="mp\content\maps\de_medical_int.bsm" />
+    <Package path="mp\content\maps\de_medical_ita.bsm" />
+    <Package path="mp\content\maps\de_medical_rus.bsm" />
+    <Package path="mp\content\maps\de_medical.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="13" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="13" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="9" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="9" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="9" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="9" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="9" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="9" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="9" />
+        <Object id="Gen_Decor\bench_diffuse" suffix="1" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="17" />
+        <Object id="LightMaps_BSP\Texture1" suffix="15" />
+        <Object id="LightMaps_BSP\Texture2" suffix="16" />
+        <Object id="LightMaps_BSP\Texture3" suffix="14" />
+        <Object id="LightMaps_BSP\Texture4" suffix="15" />
+        <Object id="LightMaps_BSP\Texture5" suffix="11" />
+        <Object id="LightMaps_BSP\Texture6" suffix="11" />
+        <Object id="LightMaps_BSP\Texture7" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_mercurysuites_deu.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites_esp.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites_fra.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites_int.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites_ita.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites_rus.bsm" />
+    <Package path="mp\content\maps\de_mercurysuites.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap31_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap31_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap31_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap31_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap31_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap31_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap32_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap33_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap34_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap35_Face_5" suffix="1" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture15" suffix="2" />
+        <Object id="LightMaps_BSP\Texture16" suffix="2" />
+        <Object id="LightMaps_BSP\Texture17" suffix="2" />
+        <Object id="LightMaps_BSP\Texture18" suffix="1" />
+        <Object id="LightMaps_BSP\Texture19" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture20" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_museum_deu.bsm" />
+    <Package path="mp\content\maps\de_museum_esp.bsm" />
+    <Package path="mp\content\maps\de_museum_fra.bsm" />
+    <Package path="mp\content\maps\de_museum_int.bsm" />
+    <Package path="mp\content\maps\de_museum_ita.bsm" />
+    <Package path="mp\content\maps\de_museum_rus.bsm" />
+    <Package path="mp\content\maps\de_museum.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="13" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="10" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap26_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap27_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap28_Face_5" suffix="3" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="Gen_Decor\bench_diffuse" suffix="1" />
+        <Object id="Gen_Decor\decor_Typewriter_Diffuse" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture10" suffix="1" />
+        <Object id="LightMaps_BSP\Texture11" suffix="2" />
+        <Object id="LightMaps_BSP\Texture12" suffix="1" />
+        <Object id="LightMaps_BSP\Texture13" suffix="1" />
+        <Object id="LightMaps_BSP\Texture7" suffix="10" />
+        <Object id="LightMaps_BSP\Texture8" suffix="3" />
+        <Object id="LightMaps_BSP\Texture9" suffix="3" />
+        <Object id="LightMaps_StaticMesh\Texture14" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_redlightalley_deu.bsm" />
+    <Package path="mp\content\maps\de_redlightalley_esp.bsm" />
+    <Package path="mp\content\maps\de_redlightalley_fra.bsm" />
+    <Package path="mp\content\maps\de_redlightalley_int.bsm" />
+    <Package path="mp\content\maps\de_redlightalley_ita.bsm" />
+    <Package path="mp\content\maps\de_redlightalley_rus.bsm" />
+    <Package path="mp\content\maps\de_redlightalley.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap31_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap31_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap31_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap31_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap31_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap31_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap32_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap33_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap34_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap35_Face_5" suffix="2" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture22" suffix="1" />
+        <Object id="LightMaps_BSP\Texture23" suffix="2" />
+        <Object id="LightMaps_BSP\Texture24" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_subbay_deu.bsm" />
+    <Package path="mp\content\maps\de_subbay_esp.bsm" />
+    <Package path="mp\content\maps\de_subbay_fra.bsm" />
+    <Package path="mp\content\maps\de_subbay_int.bsm" />
+    <Package path="mp\content\maps\de_subbay_ita.bsm" />
+    <Package path="mp\content\maps\de_subbay_rus.bsm" />
+    <Package path="mp\content\maps\de_subbay.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="10" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="10" />
+        <Object id="LightMaps_BSP\Texture3" suffix="15" />
+        <Object id="LightMaps_BSP\Texture4" suffix="16" />
+        <Object id="LightMaps_BSP\Texture5" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_tavern_deu.bsm" />
+    <Package path="mp\content\maps\de_tavern_esp.bsm" />
+    <Package path="mp\content\maps\de_tavern_fra.bsm" />
+    <Package path="mp\content\maps\de_tavern_int.bsm" />
+    <Package path="mp\content\maps\de_tavern_ita.bsm" />
+    <Package path="mp\content\maps\de_tavern_rus.bsm" />
+    <Package path="mp\content\maps\de_tavern.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="13" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="11" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="11" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="12" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="12" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="12" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="12" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="12" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="12" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="13" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="13" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="13" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="13" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="13" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="11" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="hyd_decor\WineRack_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture11" suffix="3" />
+        <Object id="LightMaps_BSP\Texture12" suffix="2" />
+        <Object id="LightMaps_BSP\Texture13" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture14" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\de_testbox_deu.bsm" />
+    <Package path="mp\content\maps\de_testbox_esp.bsm" />
+    <Package path="mp\content\maps\de_testbox_fra.bsm" />
+    <Package path="mp\content\maps\de_testbox_int.bsm" />
+    <Package path="mp\content\maps\de_testbox_ita.bsm" />
+    <Package path="mp\content\maps\de_testbox_rus.bsm" />
+    <Package path="mp\content\maps\de_testbox.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="14" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="14" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="14" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="14" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="14" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="14" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="14" />
+        <Object id="Fis_Decor\FoodCan_Cat" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="18" />
+        <Object id="LightMaps_BSP\Texture1" suffix="16" />
+        <Object id="LightMaps_StaticMesh\Texture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mp\content\maps\entry.bsm" />
+    <Package path="mp\content\sounds_windows\ambience_2_subbay_audio.pkg" />
+    <Package path="mp\content\sounds_windows\ambiencecommon_audio.pkg" />
+    <Package path="mp\content\sounds_windows\collisions_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_ambiencerandom_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_aptambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_arcadia_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_brimley_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_collisions_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_dlc_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_doors_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_electric_fx_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_explosions_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_fire_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_firstperson_music_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_fisherman_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_fishery_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_flickeringlights_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_footballplayer_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_freezers_amb_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_frolic_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_gallery_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_gatherer_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_ghetto_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_gui_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_headshots_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_hephaestus_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_homepoor_ambient_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_housewife_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_jailbird_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_kashmir_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_machines_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_market_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_medical_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_mercsuites_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_museum_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_performer_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_pickups_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_pilot_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_plasmids_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_playboy_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_props_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_protector_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_ragdolls_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_redlight_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_rosie_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_security_system_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_selection_screen_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_subbay_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_tavern_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_tonics_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_vamp_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_water_ambience_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_weapons_audio.pkg" />
+    <Package path="mp\content\sounds_windows\de_welder_audio.pkg" />
+    <Package path="mp\content\sounds_windows\interface_audio.pkg" />
+    <Package path="mp\content\sounds_windows\machines_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_brimley_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_fisherman_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_footballplayer_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_gatherer_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_housewife_vox_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_jailbird_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_performer_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_pilot_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_playboy_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_vamp_voice_audio.pkg" />
+    <Package path="mp\content\sounds_windows\vo_de_welder_vox_audio.pkg" />
+    <Package path="mp\content\sounds_windows\weapons_audio.pkg" />
+    <Package path="sp\builds\binaries\core.u" />
+    <Package path="sp\builds\binaries\engine.u" />
+    <Package path="sp\builds\binaries\fmodaudio.u" />
+    <Package path="sp\builds\binaries\igeffectssystem.u" />
+    <Package path="sp\builds\binaries\igmodeffectssubsystem.u" />
+    <Package path="sp\builds\binaries\igsoundeffectssubsystem.u" />
+    <Package path="sp\builds\binaries\igvisualeffectssubsystem.u" />
+    <Package path="sp\builds\binaries\scripting.u" />
+    <Package path="sp\builds\binaries\shockai.u" />
+    <Package path="sp\builds\binaries\shockgame.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WP_Shotgun\shotgun_shell" suffix="1" />
+        <Object id="WP_Shotgun\shotgun_shell_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\builds\binaries\tyrion.u" />
+    <Package path="sp\builds\binaries\vengeanceshared.u" />
+    <Package path="sp\content\maps\abyss.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="1" />
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\eden_cellblock.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture10" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\eden.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="2" />
+        <Object id="LightMaps_BSP\Texture0" suffix="1" />
+        <Object id="LightMaps_BSP\Texture1" suffix="1" />
+        <Object id="LightMaps_BSP\Texture2" suffix="1" />
+        <Object id="LightMaps_BSP\Texture3" suffix="1" />
+        <Object id="LightMaps_BSP\Texture4" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\education.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="2" />
+        <Object id="Gen_Decor\Phone_Normal" suffix="1" />
+        <Object id="Gen_Decor\Phone_Specular" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_beech_diffuse" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_normalmap" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_specular" suffix="1" />
+        <Object id="hyd_decor\Fruit_Crate_Label5" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="2" />
+        <Object id="LightMaps_BSP\Texture1" suffix="2" />
+        <Object id="LightMaps_BSP\Texture2" suffix="2" />
+        <Object id="LightMaps_BSP\Texture3" suffix="2" />
+        <Object id="LightMaps_BSP\Texture4" suffix="2" />
+        <Object id="LightMaps_BSP\Texture5" suffix="1" />
+        <Object id="LightMaps_BSP\Texture6" suffix="1" />
+        <Object id="LightMaps_BSP\Texture7" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture10" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture8" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\entry.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\gallery.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\gallerycarousel.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="3" />
+        <Object id="LightMaps_BSP\Texture2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\ghetto.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="3" />
+        <Object id="Gen_Decor\Phone_Normal" suffix="1" />
+        <Object id="Gen_Decor\Phone_Specular" suffix="1" />
+        <Object id="hyd_decor\Fruit_Crate_Label5" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="3" />
+        <Object id="LightMaps_BSP\Texture1" suffix="3" />
+        <Object id="LightMaps_BSP\Texture2" suffix="4" />
+        <Object id="LightMaps_BSP\Texture3" suffix="3" />
+        <Object id="LightMaps_BSP\Texture4" suffix="3" />
+        <Object id="LightMaps_BSP\Texture5" suffix="2" />
+        <Object id="LightMaps_BSP\Texture6" suffix="2" />
+        <Object id="LightMaps_BSP\Texture7" suffix="2" />
+        <Object id="LightMaps_StaticMesh\Texture8" suffix="3" />
+        <Object id="LightMaps_StaticMesh\Texture9" suffix="2" />
+        <Object id="Res_Decor\Low_Rent_TV_Emissive" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\ghettomarket.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="5" />
+        <Object id="GEN_MetroSet\GEN_Girder_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\gulag.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap5_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="4" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_beech_diffuse" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_normalmap" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_specular" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="5" />
+        <Object id="LightMaps_BSP\Texture1" suffix="4" />
+        <Object id="LightMaps_BSP\Texture2" suffix="5" />
+        <Object id="LightMaps_BSP\Texture3" suffix="4" />
+        <Object id="LightMaps_BSP\Texture4" suffix="4" />
+        <Object id="LightMaps_BSP\Texture5" suffix="3" />
+        <Object id="LightMaps_BSP\Texture6" suffix="3" />
+        <Object id="LightMaps_BSP\Texture7" suffix="3" />
+        <Object id="LightMaps_StaticMesh\Texture10" suffix="3" />
+        <Object id="LightMaps_StaticMesh\Texture11" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture12" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\minerva_a.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="4" />
+        <Object id="GEN_MetroSet\GEN_Girder_Diffuse" suffix="1" />
+        <Object id="Int_Lighthouse\HangingLamp_DIF" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="6" />
+        <Object id="LightMaps_BSP\Texture1" suffix="5" />
+        <Object id="LightMaps_BSP\Texture2" suffix="6" />
+        <Object id="LightMaps_BSP\Texture3" suffix="5" />
+        <Object id="LightMaps_BSP\Texture4" suffix="5" />
+        <Object id="LightMaps_BSP\Texture5" suffix="4" />
+        <Object id="LightMaps_BSP\Texture6" suffix="4" />
+        <Object id="LightMaps_BSP\Texture7" suffix="4" />
+        <Object id="LightMaps_BSP\Texture8" suffix="1" />
+        <Object id="LightMaps_BSP\Texture9" suffix="1" />
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\minerva_b.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="2" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="2" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="3" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_beech_diffuse" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_normalmap" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_specular" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="7" />
+        <Object id="LightMaps_BSP\Texture1" suffix="6" />
+        <Object id="LightMaps_BSP\Texture2" suffix="7" />
+        <Object id="LightMaps_BSP\Texture3" suffix="6" />
+        <Object id="LightMaps_BSP\Texture4" suffix="6" />
+        <Object id="LightMaps_BSP\Texture5" suffix="5" />
+        <Object id="LightMaps_BSP\Texture6" suffix="5" />
+        <Object id="LightMaps_StaticMesh\Texture32" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture33" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture34" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture35" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture36" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\minerva_c.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap9_Face_5" suffix="5" />
+        <Object id="GEN_MetroSet\GEN_Girder_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="8" />
+        <Object id="LightMaps_BSP\Texture1" suffix="7" />
+        <Object id="LightMaps_BSP\Texture2" suffix="8" />
+        <Object id="LightMaps_StaticMesh\Texture5" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture6" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\prelude-2.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap23_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_1" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap23_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap23_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_0" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap24_Face_2" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_3" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_4" suffix="4" />
+        <Object id="Cubemaps\Cubemap24_Face_5" suffix="4" />
+        <Object id="Cubemaps\Cubemap25_Face_0" suffix="3" />
+        <Object id="Cubemaps\Cubemap25_Face_1" suffix="3" />
+        <Object id="Cubemaps\Cubemap25_Face_2" suffix="3" />
+        <Object id="Cubemaps\Cubemap25_Face_3" suffix="3" />
+        <Object id="Cubemaps\Cubemap25_Face_4" suffix="3" />
+        <Object id="Cubemaps\Cubemap25_Face_5" suffix="3" />
+        <Object id="Cubemaps\Cubemap26_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap26_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap26_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap26_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap26_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap26_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap27_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap28_Face_5" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_0" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_1" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_2" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_3" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_4" suffix="1" />
+        <Object id="Cubemaps\Cubemap29_Face_5" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_beech_diffuse" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_normalmap" suffix="1" />
+        <Object id="Gen_FloorsWallsAndCeilings\floor_specular" suffix="1" />
+        <Object id="LightMaps_BSP\Texture23" suffix="1" />
+        <Object id="LightMaps_BSP\Texture24" suffix="1" />
+        <Object id="LightMaps_BSP\Texture25" suffix="1" />
+        <Object id="LightMaps_BSP\Texture26" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture27" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture28" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture29" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture30" suffix="1" />
+        <Object id="LightMaps_StaticMesh\Texture31" suffix="1" />
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\preludepool.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="6" />
+        <Object id="LightMaps_BSP\Texture0" suffix="9" />
+        <Object id="LightMaps_BSP\Texture1" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\redlight.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LightMaps_BSP\Texture16" suffix="1" />
+        <Object id="LightMaps_BSP\Texture17" suffix="1" />
+        <Object id="Mar_Decor\poster_fruit_diffuse" suffix="1" />
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\redlightchurch.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="7" />
+        <Object id="LightMaps_BSP\Texture0" suffix="10" />
+        <Object id="LightMaps_StaticMesh\Texture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\welcomeback.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap1_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap1_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap1_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap1_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap1_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap1_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap10_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap10_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap10_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap10_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap10_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap10_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap11_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap12_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap12_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap13_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap13_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap14_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap14_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap14_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap14_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap14_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap14_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap15_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap15_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap15_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap15_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap15_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap15_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap16_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap16_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap17_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap18_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap18_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap19_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap19_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap2_Face_0" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_1" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_2" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_3" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_4" suffix="8" />
+        <Object id="Cubemaps\Cubemap2_Face_5" suffix="8" />
+        <Object id="Cubemaps\Cubemap20_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap20_Face_5" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap21_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap21_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap22_Face_0" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_1" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_2" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_3" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_4" suffix="7" />
+        <Object id="Cubemaps\Cubemap22_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap4_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap5_Face_0" suffix="5" />
+        <Object id="Cubemaps\Cubemap5_Face_1" suffix="5" />
+        <Object id="Cubemaps\Cubemap5_Face_2" suffix="5" />
+        <Object id="Cubemaps\Cubemap5_Face_3" suffix="5" />
+        <Object id="Cubemaps\Cubemap5_Face_4" suffix="5" />
+        <Object id="Cubemaps\Cubemap6_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap6_Face_5" suffix="5" />
+        <Object id="Cubemaps\Cubemap7_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap7_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap7_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap7_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap7_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap7_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap8_Face_5" suffix="6" />
+        <Object id="Cubemaps\Cubemap9_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap9_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap9_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap9_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap9_Face_4" suffix="6" />
+        <Object id="Gen_Decor\Phone_Normal" suffix="1" />
+        <Object id="Gen_Decor\Phone_Specular" suffix="1" />
+        <Object id="LightMaps_BSP\Texture0" suffix="11" />
+        <Object id="LightMaps_BSP\Texture1" suffix="9" />
+        <Object id="LightMaps_BSP\Texture2" suffix="9" />
+        <Object id="LightMaps_BSP\Texture3" suffix="7" />
+        <Object id="LightMaps_BSP\Texture4" suffix="7" />
+        <Object id="LightMaps_BSP\Texture5" suffix="6" />
+        <Object id="LightMaps_BSP\Texture6" suffix="6" />
+        <Object id="LightMaps_BSP\Texture7" suffix="5" />
+        <Object id="LightMaps_StaticMesh\Texture8" suffix="4" />
+        <Object id="LightMaps_StaticMesh\Texture9" suffix="4" />
+        <Object id="Rec_signs\adframe_diff" suffix="1" />
+        <Object id="Rec_signs\adframe_norm" suffix="1" />
+        <Object id="TB_Shader\TB_Head_Rim" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sp\content\maps\welcomebackmaintenance.bsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\Cubemap3_Face_0" suffix="6" />
+        <Object id="Cubemaps\Cubemap3_Face_1" suffix="6" />
+        <Object id="Cubemaps\Cubemap3_Face_2" suffix="6" />
+        <Object id="Cubemaps\Cubemap3_Face_3" suffix="6" />
+        <Object id="Cubemaps\Cubemap3_Face_4" suffix="6" />
+        <Object id="Cubemaps\Cubemap3_Face_5" suffix="6" />
+        <Object id="GEN_MetroSet\GEN_Girder_Diffuse" suffix="1" />
+        <Object id="LightMaps_BSP\Texture2" suffix="10" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

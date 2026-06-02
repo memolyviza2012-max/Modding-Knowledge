@@ -1,0 +1,512 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="xgame\cookednx_fr\achievements.xxx" />
+    <Package path="xgame\cookednx_fr\adaptivetraining_global.xxx" />
+    <Package path="xgame\cookednx_fr\adaptivetraining_lighthouse.xxx" />
+    <Package path="xgame\cookednx_fr\aivo.xxx" />
+    <Package path="xgame\cookednx_fr\arc_automatedtest_sf.xxx" />
+    <Package path="xgame\cookednx_fr\checkpointimages_sf.xxx" />
+    <Package path="xgame\cookednx_fr\coalesceditems.xxx" />
+    <Package path="xgame\cookednx_fr\controllerpreview_nx_sf.xxx" />
+    <Package path="xgame\cookednx_fr\gfxfonts_chn_sf.xxx" />
+    <Package path="xgame\cookednx_fr\gfxfonts_int_sf.xxx" />
+    <Package path="xgame\cookednx_fr\gfxfonts_jpn_sf.xxx" />
+    <Package path="xgame\cookednx_fr\global_vo.xxx" />
+    <Package path="xgame\cookednx_fr\globalpersistentcookerdata.upk" />
+    <Package path="xgame\cookednx_fr\globalxitemdatabase_sf.xxx" />
+    <Package path="xgame\cookednx_fr\guidcache.xxx" />
+    <Package path="xgame\cookednx_fr\master_p.xxx" />
+    <Package path="xgame\cookednx_fr\s_bw_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_bw2_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_bw3_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_chu_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_dcom_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_emp_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_emp2_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_fink_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_fink2_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_fink3_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_fink4_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_landingbuilding_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_landingbuilding_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_landingbuilding_3.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_boat.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_capsule.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_herobuildinga.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_midgroundcity.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_p_fwit_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_p_plv_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_p.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_sky.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_soundprop.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_tc_sky.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_terrain.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_titlecard_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_light_vo.xxx" />
+    <Package path="xgame\cookednx_fr\s_lizt_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_lut_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_moveproc_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_moveproc_3.xxx" />
+    <Package path="xgame\cookednx_fr\s_moveproc_4.xxx" />
+    <Package path="xgame\cookednx_fr\s_moverproc_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_ofb_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_ofb_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_ofb_twn_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_returntomain_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_b_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_bridge_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_bridge_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_c_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_alley_floatinggate.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_floatinggate2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_floatingintro.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_slowfloat.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_slowfloat2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_alley_vista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_aviary_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_aviary_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_aviary_int_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_aviary_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_geo2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_geo3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_geo4.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_geo5.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_pvista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_pvista2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_pvista3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroof_snd.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroofbarge_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroofbarge_5.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_crowroofbarge_fwrks.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_dogfight_barge_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_dogfight_barge_3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_dogfight_barge_4.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_booth_a_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_booth_c_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_booth_d_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_drop_barge_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_geo2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_intro_vista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fair_lutece.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c1_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c1_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c1_pvista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c1b_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c2_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c3_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_c3_sl.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_drop_barge_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_exit_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fairstreet_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fakebarge01.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_fakebargecontrol.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_a_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_ext_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_int_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_int_geo2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_float_b_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_gondola_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_elevator.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_elevatorshaft.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_ext_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_6\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_6\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_geo2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_22\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_22\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_22\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_22\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_22\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_22\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_23\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_int_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upflr_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upper_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upper_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upper_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upperfloor_lod.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lodge_upperfloor.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lottery_barge_01.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lottery_crowd.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lottery_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lottery_game2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_lottery_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_p_fwit_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_p_plv_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_parade_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_b_2_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_b_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_park_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_vista1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_vista2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_vista3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_park_vista4.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_poslot_barge_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_poslot_barge_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_poslot_barge_4.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_postcard.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_pprm_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_quests.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_roof_civbarge_1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_roof_civbarge_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_4.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_5.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_6.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_7.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_8.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_barge_9.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftop_pazep.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_rooftopbarge_control.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_sky.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_fl02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_25\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_25\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_25\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_25\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_25\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_25\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_geo_fl01.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_geo2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_26\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_26\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_26\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_26\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_26\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_26\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_geo3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_skywalk_vista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_sound_global.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_soundprop.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_station_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_27\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_27\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_27\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_27\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_27\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_27\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_station_snd.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_station_vista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_statue_view.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_storea_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_stream_lodgelower.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_stream_lodgeupper.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_stream_streete.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streammaster.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streeta_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streeta_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streeta_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streeta_nar2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streeta_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetb_geo2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetc_exit_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetc_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_8\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_8\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_streetc_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetc_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetc_pvista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetc_snd.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_fl01_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_fl01_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_fl02_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_28\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_28\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_28\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_28\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_28\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_28\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_streete_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_geo_lod.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_7\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_7\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_streete_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_pvista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_vista1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_vista2.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_vista3.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete_vista5.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streete2_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_2\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_2\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_streetf_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_4\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_4\CubemapFace5" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace0" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace1" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace2" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace3" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace4" suffix="2" />
+        <Object id="ProbeTexture_5\CubemapFace5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_streetf_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_pvista.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_roof_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_side_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetf_vista1.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetg_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetg_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_streetg_loot.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_transition01.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_transition02.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_vo_fair.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_vo_intro.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_vo_lottery.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_vo_outro.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_vo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_ext_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_ext_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_int_bsp.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_int_elevatorshaft_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_24\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_24\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_24\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_24\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_24\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_24\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_wc_int_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_int_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_10\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_10\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_12\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_14\CubemapFace5" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_19\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn_wc_int_nar.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn_wc_sound.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_p_fwit_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_p_plv_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="1" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_twn2_pprm_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_quests.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_rooftopbarge_control.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_soundprop.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn2_streammaster.xxx" />
+    <Package path="xgame\cookednx_fr\s_twn3_p_loading_sf.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_alley_c_geo.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_alley_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_alley_geo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ProbeTexture_0\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_0\CubemapFace5" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace0" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace1" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace2" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace3" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace4" suffix="3" />
+        <Object id="ProbeTexture_1\CubemapFace5" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="xgame\cookednx_fr\s_ui_alley_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_floatingsectioncontrol.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_menutest.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_parade_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_sky.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_skywalk_game.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_skywalk_geo2.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_skywalk_geo3.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_skywalk_kyn.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_sound_global.xxx" />
+    <Package path="xgame\cookednx_fr\s_ui_statue_view.xxx" />
+    <Package path="xgame\cookednx_fr\towncenter2loadout.xxx" />
+    <Package path="xgame\cookednx_fr\towncenterloadout.xxx" />
+    <Package path="xgame\cookednx_fr\xentry_p_fwit_sf.xxx" />
+    <Package path="xgame\cookednx_fr\xentry_p_plv_sf.xxx" />
+  </Packages>
+</IdRemapping>

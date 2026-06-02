@@ -1,0 +1,587 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="maps\amos01.unr" />
+    <Package path="maps\banque01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="1" />
+        <Object id="Lightmap1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\base01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="2" />
+        <Object id="Lightmap1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\bateau01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\ctf_base.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="4" />
+        <Object id="Lightmap1" suffix="3" />
+        <Object id="Lightmap2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ctf_sanc.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="5" />
+        <Object id="Lightmap1" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\ctf_snow.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="6" />
+        <Object id="Lightmap1" suffix="5" />
+        <Object id="Lightmap2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\ctf_temple.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="7" />
+        <Object id="Lightmap1" suffix="6" />
+        <Object id="Lightmap2" suffix="3" />
+        <Object id="Lightmap3" suffix="1" />
+        <Object id="Lightmap4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ctf_toits.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="8" />
+        <Object id="Lightmap1" suffix="7" />
+        <Object id="Lightmap2" suffix="4" />
+        <Object id="Lightmap3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_amos.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="9" />
+        <Object id="Lightmap1" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_banque.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="10" />
+        <Object id="Lightmap1" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_base_xbox.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="13" />
+        <Object id="Lightmap1" suffix="12" />
+        <Object id="Lightmap2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_base.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="11" />
+        <Object id="Lightmap1" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_base2.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="12" />
+        <Object id="Lightmap1" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_hual04a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="14" />
+        <Object id="Lightmap1" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_hual1.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="15" />
+        <Object id="Lightmap1" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_losttemple.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="16" />
+        <Object id="Lightmap1" suffix="15" />
+        <Object id="Lightmap2" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_pal.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="17" />
+        <Object id="Lightmap1" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_prock.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="18" />
+        <Object id="Lightmap1" suffix="17" />
+        <Object id="Lightmap2" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_prock01a.unr" />
+    <Package path="maps\dm_sm01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="19" />
+        <Object id="Lightmap1" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_spads_xbox.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="21" />
+        <Object id="Lightmap1" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_spads.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="20" />
+        <Object id="Lightmap1" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_testpath.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="22" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_usa01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="23" />
+        <Object id="Lightmap1" suffix="21" />
+        <Object id="Lightmap2" suffix="8" />
+        <Object id="Lightmap3" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_usa2_demo.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="24" />
+        <Object id="Lightmap1" suffix="22" />
+        <Object id="Lightmap2" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\dm_warehouse.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="25" />
+        <Object id="Lightmap1" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="maps\empty.unr" />
+    <Package path="maps\entry.unr" />
+    <Package path="maps\hual01a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="26" />
+      </Objects>
+    </Package>
+    <Package path="maps\hual01b.unr" />
+    <Package path="maps\hual02.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="27" />
+        <Object id="Lightmap1" suffix="24" />
+        <Object id="Lightmap2" suffix="10" />
+        <Object id="Lightmap3" suffix="4" />
+        <Object id="Lightmap4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\hual04a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="28" />
+        <Object id="Lightmap1" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="maps\hual04c.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="maps\kello01a.unr" />
+    <Package path="maps\kello01b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="30" />
+      </Objects>
+    </Package>
+    <Package path="maps\mapcredits.unr" />
+    <Package path="maps\mapmenu.unr" />
+    <Package path="maps\palace01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="31" />
+        <Object id="Lightmap1" suffix="26" />
+        <Object id="Lightmap2" suffix="11" />
+        <Object id="Lightmap3" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="maps\plage00.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="maps\plage01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="33" />
+        <Object id="PLterrain02" suffix="1" />
+        <Object id="PLTerrain02Herb" suffix="1" />
+        <Object id="PLTerrain02Rout" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\prock01a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="34" />
+        <Object id="Lightmap1" suffix="27" />
+        <Object id="Lightmap2" suffix="12" />
+        <Object id="Lightmap3" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="maps\prock03.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="35" />
+        <Object id="Lightmap1" suffix="28" />
+        <Object id="Lightmap2" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="maps\prock04a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="maps\prock04b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="maps\sanc01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="38" />
+        <Object id="Lightmap1" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="maps\sanc02a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="39" />
+        <Object id="Lightmap1" suffix="30" />
+      </Objects>
+    </Package>
+    <Package path="maps\sanc02b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="40" />
+        <Object id="Lightmap1" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="maps\sanc03.unr" />
+    <Package path="maps\sb_camp.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="41" />
+        <Object id="Lightmap1" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="maps\sb_hual1a.unr" />
+    <Package path="maps\sb_usa2.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="42" />
+        <Object id="Lightmap1" suffix="33" />
+        <Object id="Lightmap2" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="maps\smarin01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="43" />
+        <Object id="Lightmap1" suffix="34" />
+      </Objects>
+    </Package>
+    <Package path="maps\smarin02.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="44" />
+        <Object id="Lightmap1" suffix="35" />
+      </Objects>
+    </Package>
+    <Package path="maps\spads01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="45" />
+        <Object id="Lightmap1" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="maps\spads02a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="46" />
+        <Object id="Lightmap1" suffix="37" />
+        <Object id="Lightmap2" suffix="15" />
+        <Object id="Lightmap3" suffix="7" />
+        <Object id="Lightmap4" suffix="3" />
+        <Object id="Lightmap5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\spads02b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="47" />
+        <Object id="Lightmap1" suffix="38" />
+        <Object id="Lightmap2" suffix="16" />
+        <Object id="Lightmap3" suffix="8" />
+        <Object id="Lightmap4" suffix="4" />
+        <Object id="Lightmap5" suffix="2" />
+        <Object id="Lightmap6" suffix="1" />
+        <Object id="Lightmap7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ssh101a.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="48" />
+        <Object id="Lightmap1" suffix="39" />
+        <Object id="Lightmap2" suffix="17" />
+        <Object id="Lightmap3" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\ssh101b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="49" />
+        <Object id="Lightmap1" suffix="40" />
+      </Objects>
+    </Package>
+    <Package path="maps\ssh101c.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="50" />
+        <Object id="Lightmap1" suffix="41" />
+      </Objects>
+    </Package>
+    <Package path="maps\ssh102b.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="51" />
+        <Object id="Lightmap1" suffix="42" />
+        <Object id="Lightmap2" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="maps\toits01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="52" />
+        <Object id="Lightmap1" suffix="43" />
+        <Object id="Lightmap2" suffix="19" />
+        <Object id="Lightmap3" suffix="10" />
+        <Object id="Lightmap4" suffix="5" />
+        <Object id="Lightmap5" suffix="3" />
+        <Object id="Lightmap6" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\usa01.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="53" />
+        <Object id="Lightmap1" suffix="44" />
+        <Object id="Lightmap2" suffix="20" />
+        <Object id="Lightmap3" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="maps\usa02.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lightmap0" suffix="54" />
+        <Object id="Lightmap1" suffix="45" />
+        <Object id="Lightmap2" suffix="21" />
+        <Object id="Lightmap3" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="sounds\amos01voices.uax" />
+    <Package path="sounds\banque01voices.uax" />
+    <Package path="sounds\base01voices.uax" />
+    <Package path="sounds\bateau01voices.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\hual01avoices.uax" />
+    <Package path="sounds\hual01bvoices.uax" />
+    <Package path="sounds\hual02voices.uax" />
+    <Package path="sounds\hual04avoices.uax" />
+    <Package path="sounds\hual04cvoices.uax" />
+    <Package path="sounds\kello01avoices.uax" />
+    <Package path="sounds\kello01bvoices.uax" />
+    <Package path="sounds\onomatopees.uax" />
+    <Package path="sounds\palace01voices.uax" />
+    <Package path="sounds\plage00voices.uax" />
+    <Package path="sounds\plage01voices.uax" />
+    <Package path="sounds\prock01avoices.uax" />
+    <Package path="sounds\prock03voices.uax" />
+    <Package path="sounds\prock04avoices.uax" />
+    <Package path="sounds\prock04bvoices.uax" />
+    <Package path="sounds\sanc01voices.uax" />
+    <Package path="sounds\sanc02avoices.uax" />
+    <Package path="sounds\sanc02bvoices.uax" />
+    <Package path="sounds\sanc03voices.uax" />
+    <Package path="sounds\sm01voices.uax" />
+    <Package path="sounds\sm02voices.uax" />
+    <Package path="sounds\spads01voices.uax" />
+    <Package path="sounds\spads02avoices.uax" />
+    <Package path="sounds\spads02bvoices.uax" />
+    <Package path="sounds\ssh101avoices.uax" />
+    <Package path="sounds\ssh101bvoices.uax" />
+    <Package path="sounds\ssh101cvoices.uax" />
+    <Package path="sounds\ssh102bvoices.uax" />
+    <Package path="sounds\toits01voices.uax" />
+    <Package path="sounds\usa01voices.uax" />
+    <Package path="sounds\usa02voices.uax" />
+    <Package path="sounds\xiiisound.uax" />
+    <Package path="staticmeshes\bateau_pack.usx" />
+    <Package path="staticmeshes\fredprivate.usx" />
+    <Package path="staticmeshes\mesharmespickup.usx" />
+    <Package path="staticmeshes\meshes_communs.usx" />
+    <Package path="staticmeshes\meshes_smarin.usx" />
+    <Package path="staticmeshes\meshes_vehicules.usx" />
+    <Package path="staticmeshes\meshobjetspickup.usx" />
+    <Package path="staticmeshes\persosmorts.usx" />
+    <Package path="staticmeshes\ssh1_pack.usx" />
+    <Package path="staticmeshes\statibarfight.usx" />
+    <Package path="staticmeshes\static_sm.usx" />
+    <Package path="staticmeshes\staticadmin.usx" />
+    <Package path="staticmeshes\staticale.usx" />
+    <Package path="staticmeshes\staticamp.usx" />
+    <Package path="staticmeshes\staticanyon.usx" />
+    <Package path="staticmeshes\staticbanque.usx" />
+    <Package path="staticmeshes\staticbase.usx" />
+    <Package path="staticmeshes\staticexplosifs.usx" />
+    <Package path="staticmeshes\statichalet.usx" />
+    <Package path="staticmeshes\statichaletkellob.usx" />
+    <Package path="staticmeshes\statichual01.usx" />
+    <Package path="staticmeshes\staticplage2.usx" />
+    <Package path="staticmeshes\staticprison.usx" />
+    <Package path="staticmeshes\staticprock03.usx" />
+    <Package path="staticmeshes\staticsanc01.usx" />
+    <Package path="staticmeshes\staticsanc02a.usx" />
+    <Package path="staticmeshes\staticsanc02b.usx" />
+    <Package path="staticmeshes\staticsanc03.usx" />
+    <Package path="staticmeshes\staticspads01.usx" />
+    <Package path="staticmeshes\staticusa.usx" />
+    <Package path="staticmeshes\statipalace.usx" />
+    <Package path="staticmeshes\statitoit.usx" />
+    <Package path="staticmeshes\telephstatic.usx" />
+    <Package path="staticmeshes\xiiiamostatic.usx" />
+    <Package path="staticmeshes\xiiiportes.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\pc\gui.u" />
+    <Package path="system\pc\xidinterf.u" />
+    <Package path="system\pc\xidspec.u" />
+    <Package path="system\pc\xiiiarmes.u" />
+    <Package path="system\pc\xiiideco.u" />
+    <Package path="system\pc\xiiimp.u" />
+    <Package path="system\pc\xiiipersos.u" />
+    <Package path="system\pc\xiiipersosg.u" />
+    <Package path="system\pc\xiiivehicule.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\xidcine.u" />
+    <Package path="system\xidmaps.u" />
+    <Package path="system\xidpawn.u" />
+    <Package path="system\xiii.u" />
+    <Package path="texturespc\guicontent.utx" />
+    <Package path="texturespc\menudemo.utx" />
+    <Package path="texturespc\mul_common.utx" />
+    <Package path="texturespc\uwindowfonts.utx" />
+    <Package path="texturespc\xiii_bateau.utx" />
+    <Package path="texturespc\xiii_hualpar.utx" />
+    <Package path="texturespc\xiii_ssh1.utx" />
+    <Package path="texturespc\xiiiadmin.utx" />
+    <Package path="texturespc\xiiiamos.utx" />
+    <Package path="texturespc\xiiibanque.utx" />
+    <Package path="texturespc\xiiibar.utx" />
+    <Package path="texturespc\xiiibaset.utx" />
+    <Package path="texturespc\xiiicale.utx" />
+    <Package path="texturespc\xiiicamp.utx" />
+    <Package path="texturespc\xiiichalet.utx" />
+    <Package path="texturespc\xiiicine.utx" />
+    <Package path="texturespc\xiiifonts.utx" />
+    <Package path="texturespc\xiiihual2.utx" />
+    <Package path="texturespc\xiiikello01b.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cbouleau1M" suffix="1" />
+        <Object id="Cbuison3M" suffix="1" />
+        <Object id="CbuisonM" suffix="1" />
+        <Object id="Cforet5M" suffix="1" />
+        <Object id="Cparois03" suffix="1" />
+        <Object id="CsapinM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiimenu.utx" />
+    <Package path="texturespc\xiiimenustart.utx" />
+    <Package path="texturespc\xiiimesharmes.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="effet-environement" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiimeshessmarin.utx" />
+    <Package path="texturespc\xiiimeshobjets.utx" />
+    <Package path="texturespc\xiiipalace.utx" />
+    <Package path="texturespc\xiiiplage.utx" />
+    <Package path="texturespc\xiiiplainrock.utx" />
+    <Package path="texturespc\xiiiplainrock03.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="prcantex01" suffix="1" />
+        <Object id="prcantex04" suffix="1" />
+        <Object id="prcantex06" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiiprison.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="pracier02" suffix="1" />
+        <Object id="praciercel" suffix="1" />
+        <Object id="praerationKC1M" suffix="1" />
+        <Object id="pralarme" suffix="1" />
+        <Object id="prbarb01M" suffix="1" />
+        <Object id="prbarb02M" suffix="1" />
+        <Object id="prcaisse" suffix="1" />
+        <Object id="prciment01" suffix="1" />
+        <Object id="prelect01" suffix="1" />
+        <Object id="prporte01" suffix="1" />
+        <Object id="prsponge" suffix="1" />
+        <Object id="prtexte01MD" suffix="1" />
+        <Object id="prtraces01MD" suffix="1" />
+        <Object id="prtraces02MD" suffix="1" />
+        <Object id="prtuyau1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiisanc01.utx" />
+    <Package path="texturespc\xiiisanc02a.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SAciel01" suffix="1" />
+        <Object id="SAenviron" suffix="1" />
+        <Object id="SAflambougie" suffix="1" />
+        <Object id="SAluz01A" suffix="1" />
+        <Object id="SAmaptablo" suffix="1" />
+        <Object id="SAportemetal" suffix="1" />
+        <Object id="SAstele4" suffix="1" />
+        <Object id="SAvitrailUnlit" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiisanc02b.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SAbois01" suffix="1" />
+        <Object id="SAbouttorcheA" suffix="1" />
+        <Object id="SAchaire" suffix="1" />
+        <Object id="SAchaiseM" suffix="1" />
+        <Object id="SAciel01" suffix="2" />
+        <Object id="SAcuivre01" suffix="1" />
+        <Object id="SAfalaise01" suffix="1" />
+        <Object id="SAferraille01" suffix="1" />
+        <Object id="SAflaque" suffix="1" />
+        <Object id="SAluz01A" suffix="2" />
+        <Object id="SAportcath" suffix="1" />
+        <Object id="SAtableau01" suffix="1" />
+        <Object id="SAtableau02" suffix="1" />
+        <Object id="SAvitrail02A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiisanc03.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SAfalaise01" suffix="2" />
+        <Object id="SAfalaise04" suffix="1" />
+        <Object id="SAfalaise04basA" suffix="1" />
+        <Object id="SAfog02A" suffix="1" />
+        <Object id="SAlignes" suffix="1" />
+        <Object id="SAplafond02" suffix="1" />
+        <Object id="SAportcath" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiismarin.utx" />
+    <Package path="texturespc\xiiispads.utx" />
+    <Package path="texturespc\xiiitelepherique.utx" />
+    <Package path="texturespc\xiiitoits.utx" />
+    <Package path="texturespc\xiiiusa.utx" />
+    <Package path="texturespc\xiiivertexshaders.utx" />
+    <Package path="texturespc\xiiivignettes.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="plage01a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="texturespc\xiiixboxpacket.utx" />
+  </Packages>
+</IdRemapping>

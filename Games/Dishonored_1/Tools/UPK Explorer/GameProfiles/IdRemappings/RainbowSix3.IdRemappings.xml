@@ -1,0 +1,1802 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\r61stassault_ukx.ukx" />
+    <Package path="animations\r61stgrenade_ukx.ukx" />
+    <Package path="animations\r61sthands_ukx.ukx" />
+    <Package path="animations\r61stitems_ukx.ukx" />
+    <Package path="animations\r61stlmg_ukx.ukx" />
+    <Package path="animations\r61stpistol_ukx.ukx" />
+    <Package path="animations\r61stshotgun_ukx.ukx" />
+    <Package path="animations\r61stsniper_ukx.ukx" />
+    <Package path="animations\r61stsub_ukx.ukx" />
+    <Package path="animations\r6birds.ukx" />
+    <Package path="animations\r6flies.ukx" />
+    <Package path="animations\r6hostage_ukx.ukx" />
+    <Package path="animations\r6rainbow_ukx.ukx" />
+    <Package path="animations\r6terrorist_ukx.ukx" />
+    <Package path="maps\airport_night.rsm" />
+    <Package path="maps\airport.rsm" />
+    <Package path="maps\alpines.rsm" />
+    <Package path="maps\bank.rsm" />
+    <Package path="maps\entry.rsm" />
+    <Package path="maps\garage.rsm" />
+    <Package path="maps\import_export.rsm" />
+    <Package path="maps\island_dawn.rsm" />
+    <Package path="maps\island.rsm" />
+    <Package path="maps\meatpacking_day.rsm" />
+    <Package path="maps\meatpacking.rsm" />
+    <Package path="maps\mountain_high.rsm" />
+    <Package path="maps\oil_refinery.rsm" />
+    <Package path="maps\parade.rsm" />
+    <Package path="maps\peaks.rsm" />
+    <Package path="maps\penthouse.rsm" />
+    <Package path="maps\presidio.rsm" />
+    <Package path="maps\prison.rsm" />
+    <Package path="maps\shipyard.rsm" />
+    <Package path="maps\streets.rsm" />
+    <Package path="maps\training_basics.rsm" />
+    <Package path="maps\training_explosives.rsm" />
+    <Package path="maps\training_hostage1.rsm" />
+    <Package path="maps\training_hostage2.rsm" />
+    <Package path="maps\training_hostage3.rsm" />
+    <Package path="maps\training_roomclear1.rsm" />
+    <Package path="maps\training_roomclear2.rsm" />
+    <Package path="maps\training_roomclear3.rsm" />
+    <Package path="maps\training_shooting.rsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="4" />
+        <Object id="Skybox\ft" suffix="4" />
+        <Object id="Skybox\lf" suffix="4" />
+        <Object id="Skybox\rt" suffix="1" />
+        <Object id="Skybox\Up" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\training.rsm" />
+    <Package path="maps\trainingsp.rsm" />
+    <Package path="maps\warehouse.rsm" />
+    <Package path="mods\athenasword\animations\as1sthands_ukx.ukx" />
+    <Package path="mods\athenasword\animations\ashostage_ukx.ukx" />
+    <Package path="mods\athenasword\animations\r61stitalianassault_ukx.ukx" />
+    <Package path="mods\athenasword\animations\r61stitalianlmg_ukx.ukx" />
+    <Package path="mods\athenasword\animations\r61stitalianpistol_ukx.ukx" />
+    <Package path="mods\athenasword\animations\r61stitaliansniper_ukx.ukx" />
+    <Package path="mods\athenasword\animations\r61stitaliansub_ukx.ukx" />
+    <Package path="mods\athenasword\maps\constructionsite.rsm" />
+    <Package path="mods\athenasword\maps\embassy.rsm" />
+    <Package path="mods\athenasword\maps\lumberyard.rsm" />
+    <Package path="mods\athenasword\maps\mp_agora.rsm" />
+    <Package path="mods\athenasword\maps\mp_castle.rsm" />
+    <Package path="mods\athenasword\maps\mp_hotel_night.rsm" />
+    <Package path="mods\athenasword\maps\mp_hotel.rsm" />
+    <Package path="mods\athenasword\maps\mp_multi1.rsm" />
+    <Package path="mods\athenasword\maps\mp_multi2.rsm" />
+    <Package path="mods\athenasword\maps\mp_multi3.rsm" />
+    <Package path="mods\athenasword\maps\mp_multi4.rsm" />
+    <Package path="mods\athenasword\maps\mp_multi5.rsm" />
+    <Package path="mods\athenasword\maps\mp_oldcity.rsm" />
+    <Package path="mods\athenasword\maps\mp_streets.rsm" />
+    <Package path="mods\athenasword\maps\mp_warehouse_night.rsm" />
+    <Package path="mods\athenasword\maps\mp_warehouse.rsm" />
+    <Package path="mods\athenasword\maps\observatory.rsm" />
+    <Package path="mods\athenasword\maps\siberian_base.rsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alpha_rock" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\maps\subway.rsm" />
+    <Package path="mods\athenasword\sounds\ambiences_constructionsite.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_embassy.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_agora.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_castle.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_hotel.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_lumber.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_multi1.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_multi2.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_multi3.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_multi4.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_multi5.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_oldcity.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_streets.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_warehouse.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_mp_warehouse2.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_observatory.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_siberianb.uax" />
+    <Package path="mods\athenasword\sounds\ambiences_subway.uax" />
+    <Package path="mods\athenasword\sounds\foley_constsiterainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_embassyrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_agorarainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_castlerainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_hotelrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_lumberrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_multi1rainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_multi2rainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_multi3rainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_multi4rainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_multi5rainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_oldcityrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_streetsrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_mp_warehsrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_constructionsite.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_embassy.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_agora.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_castle.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_hotel.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_lumber.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_multi1.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_multi2.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_multi3.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_multi4.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_multi5.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_oldcity.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_streets.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_mp_warehouse.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_observatory.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_siberianb.uax" />
+    <Package path="mods\athenasword\sounds\foley_npc_subway.uax" />
+    <Package path="mods\athenasword\sounds\foley_observrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_siberbrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\foley_subwayrainbowmovement.uax" />
+    <Package path="mods\athenasword\sounds\movers_embassy.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_agora.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_castle.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_hotel.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_lumber.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_multi1.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_multi2.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_multi3.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_multi4.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_multi5.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_oldcity.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_streets.uax" />
+    <Package path="mods\athenasword\sounds\movers_mp_warehouse.uax" />
+    <Package path="mods\athenasword\sounds\movers_observatory.uax" />
+    <Package path="mods\athenasword\sounds\movers_siberianbase.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_g3ka4_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_g3ka4_silenced.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_g3ka4.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_ots_14_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_ots_14_silenced.uax" />
+    <Package path="mods\athenasword\sounds\mp1_assault_ots_14.uax" />
+    <Package path="mods\athenasword\sounds\mp1_mach_m240g_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_mach_m240g.uax" />
+    <Package path="mods\athenasword\sounds\mp1_pistol_93r_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_pistol_93r_silenced.uax" />
+    <Package path="mods\athenasword\sounds\mp1_pistol_93r.uax" />
+    <Package path="mods\athenasword\sounds\mp1_shotgun_m4super90_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_shotgun_m4super90.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sniper_sl8_2_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sniper_sl8_2_silenced.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sniper_sl8_2.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sub_spectrem4_reloads.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sub_spectrem4_silenced.uax" />
+    <Package path="mods\athenasword\sounds\mp1_sub_spectrem4.uax" />
+    <Package path="mods\athenasword\sounds\music_mp.uax" />
+    <Package path="mods\athenasword\sounds\sfx_constructionsite.uax" />
+    <Package path="mods\athenasword\sounds\sfx_embassy.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_agora.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_castle.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_hotel.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_lumber.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_multi1.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_multi2.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_multi3.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_multi4.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_multi5.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_oldcity.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_streets.uax" />
+    <Package path="mods\athenasword\sounds\sfx_mp_warehouse.uax" />
+    <Package path="mods\athenasword\sounds\sfx_observatory.uax" />
+    <Package path="mods\athenasword\sounds\sfx_siberianbase.uax" />
+    <Package path="mods\athenasword\sounds\sfx_subway.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission01.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission02.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission03.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission04.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission05.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission06.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission07.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_clark_mission08.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menucemb.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menucsbw.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menucsib.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss1.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss2.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss3.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss4.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss5.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss6.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss7.uax" />
+    <Package path="mods\athenasword\sounds\voices_mp1_menumiss8.uax" />
+    <Package path="mods\athenasword\staticmeshes\constructionsite_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\embassy_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\lumberyard_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_agora_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_castle_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_hotel_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_multi1_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_multi2_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_multi3_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_multi4_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_multi5_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_oldcity_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_streets_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\mp_warehouse_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\observatory_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\r61stitalianweapons_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\r63rditalianweapons_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\r6actionobjects_mp1.usx" />
+    <Package path="mods\athenasword\staticmeshes\siberian_base_sm.usx" />
+    <Package path="mods\athenasword\staticmeshes\subway_station_sm.usx" />
+    <Package path="mods\athenasword\system\ascharacters.u" />
+    <Package path="mods\athenasword\system\asdescription.u" />
+    <Package path="mods\athenasword\system\asgame.u" />
+    <Package path="mods\athenasword\system\asmenu.u" />
+    <Package path="mods\athenasword\system\asweapons.u" />
+    <Package path="mods\athenasword\textures\constructionsite_t.utx" />
+    <Package path="mods\athenasword\textures\constructionsite_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lights\Lamp02" suffix="1" />
+        <Object id="Skybox\bk" suffix="2" />
+        <Object id="Skybox\ft" suffix="2" />
+        <Object id="Skybox\lf" suffix="2" />
+        <Object id="Skybox\rt" suffix="3" />
+        <Object id="Skybox\Up" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\embassy_t.utx" />
+    <Package path="mods\athenasword\textures\embassy_tsm.utx" />
+    <Package path="mods\athenasword\textures\itapolice_t.utx" />
+    <Package path="mods\athenasword\textures\lumberyard_t.utx" />
+    <Package path="mods\athenasword\textures\lumberyard_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Box\Box01" suffix="1" />
+        <Object id="Box\Box02" suffix="1" />
+        <Object id="Doors\Barrure" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_agora_t.utx" />
+    <Package path="mods\athenasword\textures\mp_agora_tsm.utx" />
+    <Package path="mods\athenasword\textures\mp_castle_shader.utx" />
+    <Package path="mods\athenasword\textures\mp_castle_t.utx" />
+    <Package path="mods\athenasword\textures\mp_castle_tsm.utx" />
+    <Package path="mods\athenasword\textures\mp_hotel_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\Mur_chambre1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_hotel_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Doors\Garage_door_03" suffix="1" />
+        <Object id="Lights\NeonDouble_OFF" suffix="1" />
+        <Object id="Objects\Extincteur_Box_02" suffix="1" />
+        <Object id="Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_multi1_t.utx" />
+    <Package path="mods\athenasword\textures\mp_multi1_tsm.utx" />
+    <Package path="mods\athenasword\textures\mp_multi2_shader.utx" />
+    <Package path="mods\athenasword\textures\mp_multi2_t.utx" />
+    <Package path="mods\athenasword\textures\mp_multi2_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Stairs\Esc_CafDevant" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_multi3_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\wall_ext" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_multi3_tsm.utx" />
+    <Package path="mods\athenasword\textures\mp_multi4_shader.utx" />
+    <Package path="mods\athenasword\textures\mp_multi4_t.utx" />
+    <Package path="mods\athenasword\textures\mp_multi4_tsm.utx" />
+    <Package path="mods\athenasword\textures\mp_multi5_t.utx" />
+    <Package path="mods\athenasword\textures\mp_multi5_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MP5_bed-hot" suffix="1" />
+        <Object id="MP5_Door01" suffix="1" />
+        <Object id="Windows\Windows_01_MP5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_oldcity_t.utx" />
+    <Package path="mods\athenasword\textures\mp_oldcity_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objects\Toilette" suffix="1" />
+        <Object id="Roof\ROOF_MUSEUM_OLD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_streets_t.utx" />
+    <Package path="mods\athenasword\textures\mp_streets_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Arch\arc" suffix="1" />
+        <Object id="Balcon\Balcon" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap0" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap1" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap2" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap3" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap4" suffix="1" />
+        <Object id="Water\Water_CubeMap\Water_CubeMap_CubeMap5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\mp_warehouse_shader.utx" />
+    <Package path="mods\athenasword\textures\mp_warehouse_t.utx" />
+    <Package path="mods\athenasword\textures\mp_warehouse_tsm.utx" />
+    <Package path="mods\athenasword\textures\observatory_t.utx" />
+    <Package path="mods\athenasword\textures\observatory_tsm.utx" />
+    <Package path="mods\athenasword\textures\r6_mp1_texturemenuequipment.utx" />
+    <Package path="mods\athenasword\textures\r6_textures_actionobject_mp1.utx" />
+    <Package path="mods\athenasword\textures\r61stitalianweapons_t.utx" />
+    <Package path="mods\athenasword\textures\r63rditalianweapons_t.utx" />
+    <Package path="mods\athenasword\textures\r6charactersmp1_t.utx" />
+    <Package path="mods\athenasword\textures\r6font.utx" />
+    <Package path="mods\athenasword\textures\r6hudfonts.utx" />
+    <Package path="mods\athenasword\textures\r6menubg_mp1.utx" />
+    <Package path="mods\athenasword\textures\siberian_base_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceilling\ceilling_structure_01a" suffix="1" />
+        <Object id="Floor\dry_dock_floor" suffix="1" />
+        <Object id="Floor\floor_hanger_01" suffix="1" />
+        <Object id="Wall\brique_02" suffix="1" />
+        <Object id="Wall\gyproc" suffix="1" />
+        <Object id="Wall\wall_Metal_01d" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\subway_station_t.utx" />
+    <Package path="mods\athenasword\textures\subway_station_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door\Door_01" suffix="1" />
+        <Object id="Skybox\bk" suffix="17" />
+        <Object id="Skybox\ft" suffix="17" />
+        <Object id="Skybox\lf" suffix="17" />
+        <Object id="Skybox\rt" suffix="16" />
+        <Object id="Skybox\Up" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="mods\athenasword\textures\syberian_base_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Lights\NeonDouble" suffix="1" />
+        <Object id="Objects\Extincteur_01" suffix="1" />
+        <Object id="Objects\Lavabo" suffix="1" />
+        <Object id="Objects\Toilette" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\animations\mp21stassault_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21sthands_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21stlmg_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21stpistol_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21stshotgun_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21stsniper_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp21stsub_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp2hostage_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp2rainbow_ukx.ukx" />
+    <Package path="mods\ironwrath\animations\mp2terrorist_ukx.ukx" />
+    <Package path="mods\ironwrath\maps\coldthunder.rsm" />
+    <Package path="mods\ironwrath\maps\copy of docks.rsm" />
+    <Package path="mods\ironwrath\maps\docks.rsm" />
+    <Package path="mods\ironwrath\maps\ghosttown.rsm" />
+    <Package path="mods\ironwrath\maps\ironcomet.rsm" />
+    <Package path="mods\ironwrath\maps\klimentohridski.rsm" />
+    <Package path="mods\ironwrath\maps\littlewing.rsm" />
+    <Package path="mods\ironwrath\maps\maginotline.rsm" />
+    <Package path="mods\ironwrath\maps\militaryinstallation.rsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\maps\nuclearreactor.rsm" />
+    <Package path="mods\ironwrath\maps\ouarzazate.rsm" />
+    <Package path="mods\ironwrath\maps\oudaya.rsm" />
+    <Package path="mods\ironwrath\maps\roofs.rsm" />
+    <Package path="mods\ironwrath\maps\safehouse.rsm" />
+    <Package path="mods\ironwrath\maps\sbeitla.rsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\maps\storagefacility.rsm" />
+    <Package path="mods\ironwrath\maps\trainingcamp.rsm">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\Gazon_TerrainAlpha" suffix="1" />
+        <Object id="Terrain\terrain_training" suffix="1" />
+        <Object id="Terrain\Terre_TerrainTraining_Alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\maps\tvdepot.rsm" />
+    <Package path="mods\ironwrath\maps\underground.rsm" />
+    <Package path="mods\ironwrath\sounds\ambiences_coldthunder.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_docs.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_ghostown.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_ironcomete.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_klimento.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_littlewing.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_maginotline.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_millitary.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_nuclear.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_ouarzazate.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_oudaya.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_rocketfacility.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_roofs.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_safehouses.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_sbeitla.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_storagefacility.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_trainingcamp.uax" />
+    <Package path="mods\ironwrath\sounds\ambiences_tvdepot.uax" />
+    <Package path="mods\ironwrath\sounds\assault_type89f_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\assault_type89f_silenced.uax" />
+    <Package path="mods\ironwrath\sounds\assault_type89f.uax" />
+    <Package path="mods\ironwrath\sounds\foley_coldthunderrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_docsrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_ghostownrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_ironcometerainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_klimentorainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_littlewingrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_maginotlinerainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_millitaryrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_coldthunder.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_docs.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_gtown.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_ironcomete.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_klimento.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_lwing.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_maginotline.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_millitary.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_nuclear.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_ouarzazate.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_oudaya.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_rocket.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_roof.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_safehouse.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_sbeitla.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_storage.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_trainingcpr.uax" />
+    <Package path="mods\ironwrath\sounds\foley_npc_tvdepot.uax" />
+    <Package path="mods\ironwrath\sounds\foley_nuclearrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_ouarzazaterainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_oudayarainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_rocketfrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_roofrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_safehouserainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_sbeitlarainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_storagerainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_trainingcprainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\foley_tvdepotrainbowmovement.uax" />
+    <Package path="mods\ironwrath\sounds\mach_ultimax_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\mach_ultimax.uax" />
+    <Package path="mods\ironwrath\sounds\movers_coldthunder.uax" />
+    <Package path="mods\ironwrath\sounds\movers_docs.uax" />
+    <Package path="mods\ironwrath\sounds\movers_ghostown.uax" />
+    <Package path="mods\ironwrath\sounds\movers_ironcomete.uax" />
+    <Package path="mods\ironwrath\sounds\movers_kliment.uax" />
+    <Package path="mods\ironwrath\sounds\movers_maginotline.uax" />
+    <Package path="mods\ironwrath\sounds\movers_millitary.uax" />
+    <Package path="mods\ironwrath\sounds\movers_nucleardoors.uax" />
+    <Package path="mods\ironwrath\sounds\movers_ouarzazate.uax" />
+    <Package path="mods\ironwrath\sounds\movers_oudaya.uax" />
+    <Package path="mods\ironwrath\sounds\movers_rocketf.uax" />
+    <Package path="mods\ironwrath\sounds\movers_safehouse.uax" />
+    <Package path="mods\ironwrath\sounds\movers_storagedoors.uax" />
+    <Package path="mods\ironwrath\sounds\movers_trainingcamp.uax" />
+    <Package path="mods\ironwrath\sounds\movers_tvdepot.uax" />
+    <Package path="mods\ironwrath\sounds\musicmp2.uax" />
+    <Package path="mods\ironwrath\sounds\objects_explose.uax" />
+    <Package path="mods\ironwrath\sounds\pistol_model17_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\pistol_model17_silenced.uax" />
+    <Package path="mods\ironwrath\sounds\pistol_model17.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_coldthunder.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_docs.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_ironcomete.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_kliment.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_littlew.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_maginotline.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_mdegazalrt.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_millitary.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_modeintruder.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_nuclear.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_ouarzazate.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_oudaya.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_rocketfacility.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_safehouse.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_storage.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_trainingcamp.uax" />
+    <Package path="mods\ironwrath\sounds\sfx_tvdepot.uax" />
+    <Package path="mods\ironwrath\sounds\shotgun_jackhammer_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\shotgun_jackhammer.uax" />
+    <Package path="mods\ironwrath\sounds\sniper_sr25_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\sniper_sr25_silenced.uax" />
+    <Package path="mods\ironwrath\sounds\sniper_sr25.uax" />
+    <Package path="mods\ironwrath\sounds\sub_mp7pdw_reloads.uax" />
+    <Package path="mods\ironwrath\sounds\sub_mp7pdw_silenced.uax" />
+    <Package path="mods\ironwrath\sounds\sub_mp7pdw.uax" />
+    <Package path="mods\ironwrath\sounds\voices_1rstmp2personrainbow.uax" />
+    <Package path="mods\ironwrath\sounds\voices_control_mp2gamemodes.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_1.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_10.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_2.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_3.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_4.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_5.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_6.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_7.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_8.uax" />
+    <Package path="mods\ironwrath\sounds\voices_menumissmp2_9.uax" />
+    <Package path="mods\ironwrath\staticmeshes\coldthunder_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\dock_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\ghosttown_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\ironcomet_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\klimentohridski_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\littlewing_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\maginotline_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\militaryinstallation_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\mp2_sfx_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\mp21stweapons_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\mp23rdweapons_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\mp2actionobjects.usx" />
+    <Package path="mods\ironwrath\staticmeshes\mp2iokarma_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\nuclearreactor_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\ouarzazate_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\oudaya_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\roofs_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\safehouse_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\sbeitla_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\storagefacility_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\trainingcamp_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\tvdepot_sm.usx" />
+    <Package path="mods\ironwrath\staticmeshes\underground_sm.usx" />
+    <Package path="mods\ironwrath\system\mp21stweapons.u" />
+    <Package path="mods\ironwrath\system\mp23rdweapons.u" />
+    <Package path="mods\ironwrath\system\mp2characters.u" />
+    <Package path="mods\ironwrath\system\mp2description.u" />
+    <Package path="mods\ironwrath\system\mp2game.u" />
+    <Package path="mods\ironwrath\system\mp2menu.u" />
+    <Package path="mods\ironwrath\system\mp2sfx.u" />
+    <Package path="mods\ironwrath\system\mp2weapons.u" />
+    <Package path="mods\ironwrath\textures\coldthunder_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\EMB_Wallin03_down" suffix="1" />
+        <Object id="Wall\structure_metal01B" suffix="1" />
+        <Object id="Wall\wall01" suffix="1" />
+        <Object id="Wall\Wall02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\coldthunder_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\clouds" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\dock_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\Asphalt" suffix="1" />
+        <Object id="Wall\Garage_brique01" suffix="1" />
+        <Object id="Wall\sign" suffix="1" />
+        <Object id="Wall\wall_Blocs_01b" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\dock_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door\Bank_Door_07" suffix="1" />
+        <Object id="Meuble\HQ_fauteuil" suffix="1" />
+        <Object id="Poubelle\PoubellePetite" suffix="1" />
+        <Object id="sky\bk" suffix="1" />
+        <Object id="sky\ft" suffix="1" />
+        <Object id="sky\lf" suffix="1" />
+        <Object id="sky\rt" suffix="1" />
+        <Object id="sky\Up" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ghosttown_shader.utx" />
+    <Package path="mods\ironwrath\textures\ghosttown_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\swiss_woodwall_03" suffix="1" />
+        <Object id="Wall\wall_base_04d" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ghosttown_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Divers\Toile" suffix="1" />
+        <Object id="Skins\Bain2" suffix="1" />
+        <Object id="Skybox\SKY_BOX_BACK_OLD" suffix="1" />
+        <Object id="Skybox\SKY_BOX_FRONT_OLD" suffix="1" />
+        <Object id="Skybox\SKY_BOX_LEFT_OLD" suffix="1" />
+        <Object id="Skybox\SKY_BOX_RIGHT_OLD" suffix="1" />
+        <Object id="Tables_Kit\Bar" suffix="1" />
+        <Object id="Vegetation\Snow_Trunk" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ironcomet_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\Moquette" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ironcomet_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door\EM_Cadre_S" suffix="1" />
+        <Object id="Door\EM_Door_03" suffix="1" />
+        <Object id="Lamp_bar\Lamp_bar" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\klimentohridski_shader.utx" />
+    <Package path="mods\ironwrath\textures\klimentohridski_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\FloorSquare_STR_T" suffix="1" />
+        <Object id="Floor\Moquette" suffix="2" />
+        <Object id="Skybox\bk" suffix="18" />
+        <Object id="Skybox\ft" suffix="18" />
+        <Object id="Skybox\lf" suffix="18" />
+        <Object id="Skybox\rt" suffix="17" />
+        <Object id="Skybox\Up" suffix="17" />
+        <Object id="Wall\Walldetail13_STR_T" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\klimentohridski_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door\Bank_Door_04" suffix="1" />
+        <Object id="Door\Bank_Door_07" suffix="2" />
+        <Object id="Door\Bank_Door_07_Window" suffix="1" />
+        <Object id="escalier" suffix="2" />
+        <Object id="Frame_Window_house\Frame_Window_house" suffix="1" />
+        <Object id="General_Object\MANHOLE_01_OLD" suffix="1" />
+        <Object id="General_Object\MANHOLE_OLD" suffix="1" />
+        <Object id="General_Object\Pubb_03_TSR_TSM" suffix="1" />
+        <Object id="kit_papier_sol\plak_papier_so4" suffix="1" />
+        <Object id="objects_outdoor\brick-marble_m3" suffix="1" />
+        <Object id="Objects\WOODEN_CRATE_01_OLD" suffix="1" />
+        <Object id="Objects\WOODEN_CRATE_02_OLD" suffix="1" />
+        <Object id="Objects\WOODEN_CRATE_03_OLD" suffix="1" />
+        <Object id="Objects\WOODEN_CRATE_04_OLD" suffix="1" />
+        <Object id="Office_Furniture\Table_picnic_AIR" suffix="1" />
+        <Object id="Police_Office\Clock_Police" suffix="1" />
+        <Object id="Projecteur" suffix="1" />
+        <Object id="Sign_Large\Periodic" suffix="1" />
+        <Object id="sign\POSTER_01_AGO" suffix="1" />
+        <Object id="sign\POSTER_05_AGO" suffix="1" />
+        <Object id="Tram\tram_side_01" suffix="1" />
+        <Object id="Tree\TREE_OLD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\littlewing_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\sol" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\littlewing_tsm.utx" />
+    <Package path="mods\ironwrath\textures\maginotline_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\ard2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\maginotline_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="19" />
+        <Object id="Skybox\fog" suffix="1" />
+        <Object id="Skybox\ft" suffix="19" />
+        <Object id="Skybox\lf" suffix="19" />
+        <Object id="Skybox\rt" suffix="18" />
+        <Object id="Skybox\Up" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\militaryinstallation_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\concrete_04I" suffix="1" />
+        <Object id="Wall\wall_block_02c" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\militaryinstallation_tsm.utx" />
+    <Package path="mods\ironwrath\textures\mp2_textures_actionobject.utx" />
+    <Package path="mods\ironwrath\textures\mp21stweapons_t.utx" />
+    <Package path="mods\ironwrath\textures\mp23rdweapons_t.utx" />
+    <Package path="mods\ironwrath\textures\mp2actionicons.utx" />
+    <Package path="mods\ironwrath\textures\mp2characters_t.utx" />
+    <Package path="mods\ironwrath\textures\mp2hud.utx" />
+    <Package path="mods\ironwrath\textures\mp2iokarma_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cuisine\cuisine01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\mp2menubg.utx" />
+    <Package path="mods\ironwrath\textures\mp2planning.utx" />
+    <Package path="mods\ironwrath\textures\mp2sfx_t.utx" />
+    <Package path="mods\ironwrath\textures\mp2texturemenuequipment.utx" />
+    <Package path="mods\ironwrath\textures\nuclearreactor_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\facade" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\nuclearreactor_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Doors\ShipyardDoor-Yellow" suffix="1" />
+        <Object id="Fence\Fence_05" suffix="2" />
+        <Object id="Monitor\monitor_support" suffix="1" />
+        <Object id="poto\poto" suffix="1" />
+        <Object id="sky\Up" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ouarzazate_shader.utx" />
+    <Package path="mods\ironwrath\textures\ouarzazate_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="20" />
+        <Object id="Skybox\ft" suffix="20" />
+        <Object id="Skybox\lf" suffix="20" />
+        <Object id="Skybox\rt" suffix="19" />
+        <Object id="Skybox\Up" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\ouarzazate_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Architechture\WELL_01_OLD" suffix="1" />
+        <Object id="Barn\Tole_MID" suffix="1" />
+        <Object id="Objects\CLOSET_WOODEN_01_OLD" suffix="1" />
+        <Object id="Objects\CLOSET_WOODEN_02_OLD" suffix="1" />
+        <Object id="Objects\CLOSET_WOODEN_03_OLD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\oudaya_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="plafond\plafond" suffix="1" />
+        <Object id="Wall\Mur_blanc" suffix="1" />
+        <Object id="Wall\wall01" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\oudaya_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="21" />
+        <Object id="Skybox\Down" suffix="1" />
+        <Object id="Skybox\ft" suffix="21" />
+        <Object id="Skybox\lf" suffix="21" />
+        <Object id="Skybox\rt" suffix="20" />
+        <Object id="Skybox\Up" suffix="20" />
+        <Object id="Tapis\Tapis01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\roofs_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\floor_green_02_OLD" suffix="1" />
+        <Object id="Wall\Mur_blanc" suffix="2" />
+        <Object id="Wall\Wall" suffix="1" />
+        <Object id="Wall\Wall_brown_04_OLD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\roofs_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Barn\Tole_MID" suffix="1" />
+        <Object id="Objects\BARRIER_01_OLD" suffix="1" />
+        <Object id="Objects\BARRIER_02_OLD" suffix="1" />
+        <Object id="Skybox\bk" suffix="22" />
+        <Object id="Skybox\ft" suffix="22" />
+        <Object id="Skybox\lf" suffix="22" />
+        <Object id="Skybox\rt" suffix="21" />
+        <Object id="Skybox\Up" suffix="21" />
+        <Object id="Vegetation\porte02" suffix="1" />
+        <Object id="Wall\HautMurBleu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\safehouse_shader.utx" />
+    <Package path="mods\ironwrath\textures\safehouse_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sol\carlage" suffix="1" />
+        <Object id="Wall\facade" suffix="2" />
+        <Object id="Wall\Mur_biblio" suffix="1" />
+        <Object id="Wall\Mur_couloir" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\safehouse_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cadre\nude_female" suffix="1" />
+        <Object id="Candle\Candle" suffix="1" />
+        <Object id="Door\Door-Beige" suffix="1" />
+        <Object id="Door\Porte" suffix="1" />
+        <Object id="Garage\MontageRail" suffix="1" />
+        <Object id="Kitchen\Cuisiniere" suffix="1" />
+        <Object id="Lights\Lampe" suffix="1" />
+        <Object id="Meuble\classic" suffix="1" />
+        <Object id="Skybox\bk" suffix="23" />
+        <Object id="Skybox\ft" suffix="23" />
+        <Object id="Skybox\lf" suffix="23" />
+        <Object id="Skybox\rt" suffix="22" />
+        <Object id="Skybox\Up" suffix="22" />
+        <Object id="TV\Generique" suffix="1" />
+        <Object id="Vegetation\daisy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\sbeitla_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\ground02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\sbeitla_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Architecture\RndTowerGrid_Cas" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\storagefacility_shader.utx" />
+    <Package path="mods\ironwrath\textures\storagefacility_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\Tapis" suffix="1" />
+        <Object id="Wall\Mur_bureau" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\storagefacility_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\sky_fond" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\trainingcamp_shader.utx" />
+    <Package path="mods\ironwrath\textures\trainingcamp_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\ground_dirt_01b" suffix="1" />
+        <Object id="Floor\sol" suffix="2" />
+        <Object id="Wall\N_Brique" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\trainingcamp_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Biblio01" suffix="1" />
+        <Object id="Lights\Lamp02" suffix="1" />
+        <Object id="Skybox\bk_Dawn" suffix="1" />
+        <Object id="Skybox\ft_Dawn" suffix="1" />
+        <Object id="Skybox\lf_Dawn" suffix="1" />
+        <Object id="Skybox\rt_Dawn" suffix="1" />
+        <Object id="Skybox\up_Dawn" suffix="1" />
+        <Object id="Vehicules\Car_Oiltruck_02" suffix="1" />
+        <Object id="Wall\swiss_plaster_01_trim_a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\tvdepot_shader.utx" />
+    <Package path="mods\ironwrath\textures\tvdepot_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\PAVE_CHESS_AGO" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\tvdepot_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Divers\FirstAid_b" suffix="1" />
+        <Object id="stairs\stairs" suffix="1" />
+        <Object id="Vehicule\Car_Minivan" suffix="1" />
+        <Object id="Ventilateur" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\underground_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\parter_infir" suffix="1" />
+        <Object id="ground\floor_concrete_02a" suffix="1" />
+        <Object id="ground\flr08HA" suffix="1" />
+        <Object id="Skybox\clouds" suffix="3" />
+        <Object id="Wall\Cow_Wall_BASE" suffix="1" />
+        <Object id="Wall\Cow_Wall_TOP" suffix="1" />
+        <Object id="Wall\wall03" suffix="1" />
+        <Object id="Wall\wall14" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="mods\ironwrath\textures\underground_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Barrel\Barrel_Metallic" suffix="1" />
+        <Object id="Crane\Metal_pitted" suffix="1" />
+        <Object id="Divers\baril" suffix="1" />
+        <Object id="Divers\cadre_01" suffix="1" />
+        <Object id="Door\Bank_Door_07" suffix="3" />
+        <Object id="Door\Portes_Metal_Vitrees" suffix="1" />
+        <Object id="Doors\Door_01_MP1" suffix="1" />
+        <Object id="Doors\Door_Int" suffix="1" />
+        <Object id="Lift" suffix="1" />
+        <Object id="Lights\light_red_MP1" suffix="1" />
+        <Object id="objet\Canal" suffix="1" />
+        <Object id="PipeKit\Gray_flat_elbow" suffix="1" />
+        <Object id="PipeKit\Gray_flat_pipe" suffix="1" />
+        <Object id="Porte\PorteGarage" suffix="1" />
+        <Object id="Reactor\cover_passerelle" suffix="1" />
+        <Object id="Reactor\passerelle_int2" suffix="1" />
+        <Object id="salle_machine\metalTuyau" suffix="1" />
+        <Object id="ScissorLift\BarreauTop" suffix="1" />
+        <Object id="tablo\tablo2" suffix="1" />
+        <Object id="Train_rail\rails_beam" suffix="1" />
+        <Object id="Vegetation\feuillage" suffix="1" />
+        <Object id="WarComputer\Control-01-Main" suffix="1" />
+        <Object id="WarComputer\Desk-01-Ecran" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sounds\ambiences_airport1.uax" />
+    <Package path="sounds\ambiences_airport2.uax" />
+    <Package path="sounds\ambiences_alpine.uax" />
+    <Package path="sounds\ambiences_bank.uax" />
+    <Package path="sounds\ambiences_garage.uax" />
+    <Package path="sounds\ambiences_import.uax" />
+    <Package path="sounds\ambiences_island1.uax" />
+    <Package path="sounds\ambiences_island2.uax" />
+    <Package path="sounds\ambiences_meat1.uax" />
+    <Package path="sounds\ambiences_meat2.uax" />
+    <Package path="sounds\ambiences_mountain.uax" />
+    <Package path="sounds\ambiences_oilrefinery.uax" />
+    <Package path="sounds\ambiences_parade.uax" />
+    <Package path="sounds\ambiences_peaks.uax" />
+    <Package path="sounds\ambiences_penthouse.uax" />
+    <Package path="sounds\ambiences_prison.uax" />
+    <Package path="sounds\ambiences_shipyard.uax" />
+    <Package path="sounds\ambiences_streets.uax" />
+    <Package path="sounds\ambiences_thepresidio.uax" />
+    <Package path="sounds\ambiences_training_basics.uax" />
+    <Package path="sounds\ambiences_training_shooting.uax" />
+    <Package path="sounds\ambiences_training.uax" />
+    <Package path="sounds\ambiences_warehouse.uax" />
+    <Package path="sounds\assault_ak47_reloads.uax" />
+    <Package path="sounds\assault_ak47_silenced.uax" />
+    <Package path="sounds\assault_ak47.uax" />
+    <Package path="sounds\assault_ak74_reloads.uax" />
+    <Package path="sounds\assault_ak74_silenced.uax" />
+    <Package path="sounds\assault_ak74.uax" />
+    <Package path="sounds\assault_aug_reloads.uax" />
+    <Package path="sounds\assault_aug_silenced.uax" />
+    <Package path="sounds\assault_aug.uax" />
+    <Package path="sounds\assault_fal_reloads.uax" />
+    <Package path="sounds\assault_fal_silenced.uax" />
+    <Package path="sounds\assault_fal.uax" />
+    <Package path="sounds\assault_fmasg2_reloads.uax" />
+    <Package path="sounds\assault_fmasg2_silenced.uax" />
+    <Package path="sounds\assault_fmasg2.uax" />
+    <Package path="sounds\assault_fnc_reloads.uax" />
+    <Package path="sounds\assault_fnc_silenced.uax" />
+    <Package path="sounds\assault_fnc.uax" />
+    <Package path="sounds\assault_g36k_reloads.uax" />
+    <Package path="sounds\assault_g36k_silenced.uax" />
+    <Package path="sounds\assault_g36k.uax" />
+    <Package path="sounds\assault_g3a3_reloads.uax" />
+    <Package path="sounds\assault_g3a3_silenced.uax" />
+    <Package path="sounds\assault_g3a3.uax" />
+    <Package path="sounds\assault_galil_reloads.uax" />
+    <Package path="sounds\assault_galil_silenced.uax" />
+    <Package path="sounds\assault_galil.uax" />
+    <Package path="sounds\assault_l85a1_reloads.uax" />
+    <Package path="sounds\assault_l85a1_silenced.uax" />
+    <Package path="sounds\assault_l85a1.uax" />
+    <Package path="sounds\assault_m14_reloads.uax" />
+    <Package path="sounds\assault_m14_silenced.uax" />
+    <Package path="sounds\assault_m14.uax" />
+    <Package path="sounds\assault_m16a2_reloads.uax" />
+    <Package path="sounds\assault_m16a2_silenced.uax" />
+    <Package path="sounds\assault_m16a2.uax" />
+    <Package path="sounds\assault_m4carb_reloads.uax" />
+    <Package path="sounds\assault_m4carb_silenced.uax" />
+    <Package path="sounds\assault_m4carb.uax" />
+    <Package path="sounds\assault_m82_reloads.uax" />
+    <Package path="sounds\assault_m82_silenced.uax" />
+    <Package path="sounds\assault_m82.uax" />
+    <Package path="sounds\assault_tar21_reloads.uax" />
+    <Package path="sounds\assault_tar21_silenced.uax" />
+    <Package path="sounds\assault_tar21.uax" />
+    <Package path="sounds\assault_type97_reloads.uax" />
+    <Package path="sounds\assault_type97_silenced.uax" />
+    <Package path="sounds\assault_type97.uax" />
+    <Package path="sounds\bullet_impacts.uax" />
+    <Package path="sounds\bullet_riccochets.uax" />
+    <Package path="sounds\common_multiplayer.uax" />
+    <Package path="sounds\commonassaultriffles.uax" />
+    <Package path="sounds\commongadget_explosion.uax" />
+    <Package path="sounds\commonlmgs.uax" />
+    <Package path="sounds\commonpistols.uax" />
+    <Package path="sounds\commonshotguns.uax" />
+    <Package path="sounds\commonsmg.uax" />
+    <Package path="sounds\commonsniper.uax" />
+    <Package path="sounds\commonweapons.uax" />
+    <Package path="sounds\explosive_barrels.uax" />
+    <Package path="sounds\foley_airportrainbowmovement.uax" />
+    <Package path="sounds\foley_alpinerainbowmovement.uax" />
+    <Package path="sounds\foley_bankrainbowmovement.uax" />
+    <Package path="sounds\foley_bomb.uax" />
+    <Package path="sounds\foley_claymore.uax" />
+    <Package path="sounds\foley_commongrenade.uax" />
+    <Package path="sounds\foley_fraggrenade.uax" />
+    <Package path="sounds\foley_garagerainbowmovement.uax" />
+    <Package path="sounds\foley_hbsensor.uax" />
+    <Package path="sounds\foley_hbsjammer.uax" />
+    <Package path="sounds\foley_importrainbowmovement.uax" />
+    <Package path="sounds\foley_islandrainbowmovement.uax" />
+    <Package path="sounds\foley_meatrainbowmovement.uax" />
+    <Package path="sounds\foley_metalladder.uax" />
+    <Package path="sounds\foley_mountainrainbowmovement.uax" />
+    <Package path="sounds\foley_nightvision.uax" />
+    <Package path="sounds\foley_npc_airport.uax" />
+    <Package path="sounds\foley_npc_alpine.uax" />
+    <Package path="sounds\foley_npc_bank.uax" />
+    <Package path="sounds\foley_npc_garage.uax" />
+    <Package path="sounds\foley_npc_import.uax" />
+    <Package path="sounds\foley_npc_island.uax" />
+    <Package path="sounds\foley_npc_meat.uax" />
+    <Package path="sounds\foley_npc_mountain.uax" />
+    <Package path="sounds\foley_npc_oil.uax" />
+    <Package path="sounds\foley_npc_parade.uax" />
+    <Package path="sounds\foley_npc_peaks.uax" />
+    <Package path="sounds\foley_npc_penthouse.uax" />
+    <Package path="sounds\foley_npc_presidio.uax" />
+    <Package path="sounds\foley_npc_prison.uax" />
+    <Package path="sounds\foley_npc_shipyard.uax" />
+    <Package path="sounds\foley_npc_streets.uax" />
+    <Package path="sounds\foley_npc_training.uax" />
+    <Package path="sounds\foley_npc_trainingsp.uax" />
+    <Package path="sounds\foley_npc_warehouse.uax" />
+    <Package path="sounds\foley_oilrainbowmovement.uax" />
+    <Package path="sounds\foley_paraderainbowmovement.uax" />
+    <Package path="sounds\foley_peaksrainbowmovement.uax" />
+    <Package path="sounds\foley_penthouserainbowmovement.uax" />
+    <Package path="sounds\foley_presidiorainbowmovement.uax" />
+    <Package path="sounds\foley_prisonrainbowmovement.uax" />
+    <Package path="sounds\foley_rainbowclotheslight.uax" />
+    <Package path="sounds\foley_rainbowgear.uax" />
+    <Package path="sounds\foley_shipyardrainbowmovement.uax" />
+    <Package path="sounds\foley_smokegrenade.uax" />
+    <Package path="sounds\foley_streetsrainbowmovement.uax" />
+    <Package path="sounds\foley_trainingrainbowmovement.uax" />
+    <Package path="sounds\foley_trainingsprainbowmovement.uax" />
+    <Package path="sounds\foley_warehouserainbowmovement.uax" />
+    <Package path="sounds\foley_woodladder.uax" />
+    <Package path="sounds\fx_ravenshield.uax" />
+    <Package path="sounds\gadget_bipod.uax" />
+    <Package path="sounds\gadget_breachingcharge.uax" />
+    <Package path="sounds\gadget_claymore.uax" />
+    <Package path="sounds\gadgets_nightvision.uax" />
+    <Package path="sounds\grenade_flashbang.uax" />
+    <Package path="sounds\grenade_frag.uax" />
+    <Package path="sounds\grenade_gas.uax" />
+    <Package path="sounds\grenade_smoke.uax" />
+    <Package path="sounds\interact_doors.uax" />
+    <Package path="sounds\mach_21e3_reloads.uax" />
+    <Package path="sounds\mach_21e3.uax" />
+    <Package path="sounds\mach_23e_reloads.uax" />
+    <Package path="sounds\mach_23e.uax" />
+    <Package path="sounds\mach_m249_reloads.uax" />
+    <Package path="sounds\mach_m249.uax" />
+    <Package path="sounds\mach_m60_reloads.uax" />
+    <Package path="sounds\mach_m60.uax" />
+    <Package path="sounds\mach_rpd_reloads.uax" />
+    <Package path="sounds\mach_rpd.uax" />
+    <Package path="sounds\movers_airportdoors.uax" />
+    <Package path="sounds\movers_alpine.uax" />
+    <Package path="sounds\movers_bank.uax" />
+    <Package path="sounds\movers_commondoors.uax" />
+    <Package path="sounds\movers_garage.uax" />
+    <Package path="sounds\movers_importdoors.uax" />
+    <Package path="sounds\movers_island.uax" />
+    <Package path="sounds\movers_meatpacking.uax" />
+    <Package path="sounds\movers_mountain.uax" />
+    <Package path="sounds\movers_oilrefinerydoors.uax" />
+    <Package path="sounds\movers_parade.uax" />
+    <Package path="sounds\movers_peaks.uax" />
+    <Package path="sounds\movers_penthouse.uax" />
+    <Package path="sounds\movers_presidio.uax" />
+    <Package path="sounds\movers_prisondoors.uax" />
+    <Package path="sounds\movers_shipyarddoors.uax" />
+    <Package path="sounds\movers_trainingsp.uax" />
+    <Package path="sounds\movers_warehouse.uax" />
+    <Package path="sounds\mult_cz61_reloads.uax" />
+    <Package path="sounds\mult_cz61_silenced.uax" />
+    <Package path="sounds\mult_cz61.uax" />
+    <Package path="sounds\mult_mac11_reloads.uax" />
+    <Package path="sounds\mult_mac11_silenced.uax" />
+    <Package path="sounds\mult_mac11.uax" />
+    <Package path="sounds\mult_sr2mp_reloads.uax" />
+    <Package path="sounds\mult_sr2mp_silenced.uax" />
+    <Package path="sounds\mult_sr2mp.uax" />
+    <Package path="sounds\mult_uzi_reloads.uax" />
+    <Package path="sounds\mult_uzi_silenced.uax" />
+    <Package path="sounds\mult_uzi.uax" />
+    <Package path="sounds\mult_uzipistol_reloads.uax" />
+    <Package path="sounds\mult_uzipistol_silenced.uax" />
+    <Package path="sounds\mult_uzipistol.uax" />
+    <Package path="sounds\music.uax" />
+    <Package path="sounds\objects_largewindows.uax" />
+    <Package path="sounds\objects_mediumwindows.uax" />
+    <Package path="sounds\objects_smallwindows.uax" />
+    <Package path="sounds\pistol_92fs_reloads.uax" />
+    <Package path="sounds\pistol_92fs_silenced.uax" />
+    <Package path="sounds\pistol_92fs.uax" />
+    <Package path="sounds\pistol_belgian_reloads.uax" />
+    <Package path="sounds\pistol_belgian_silenced.uax" />
+    <Package path="sounds\pistol_belgian.uax" />
+    <Package path="sounds\pistol_des357_reloads.uax" />
+    <Package path="sounds\pistol_des357_silenced.uax" />
+    <Package path="sounds\pistol_des357.uax" />
+    <Package path="sounds\pistol_des50_reloads.uax" />
+    <Package path="sounds\pistol_des50_silenced.uax" />
+    <Package path="sounds\pistol_des50.uax" />
+    <Package path="sounds\pistol_mk23_reloads.uax" />
+    <Package path="sounds\pistol_mk23_silenced.uax" />
+    <Package path="sounds\pistol_mk23.uax" />
+    <Package path="sounds\pistol_p228_reloads.uax" />
+    <Package path="sounds\pistol_p228_silenced.uax" />
+    <Package path="sounds\pistol_p228.uax" />
+    <Package path="sounds\pistol_spp_reloads.uax" />
+    <Package path="sounds\pistol_usp_reloads.uax" />
+    <Package path="sounds\pistol_usp_silenced.uax" />
+    <Package path="sounds\pistol_usp.uax" />
+    <Package path="sounds\sfx_airport1.uax" />
+    <Package path="sounds\sfx_airport2.uax" />
+    <Package path="sounds\sfx_alpine.uax" />
+    <Package path="sounds\sfx_bank.uax" />
+    <Package path="sounds\sfx_garage.uax" />
+    <Package path="sounds\sfx_import.uax" />
+    <Package path="sounds\sfx_island1.uax" />
+    <Package path="sounds\sfx_island2.uax" />
+    <Package path="sounds\sfx_meat1.uax" />
+    <Package path="sounds\sfx_meat2.uax" />
+    <Package path="sounds\sfx_menus.uax" />
+    <Package path="sounds\sfx_mountain.uax" />
+    <Package path="sounds\sfx_oilrefinery.uax" />
+    <Package path="sounds\sfx_parade.uax" />
+    <Package path="sounds\sfx_peaks.uax" />
+    <Package path="sounds\sfx_penthouse_single.uax" />
+    <Package path="sounds\sfx_penthouse.uax" />
+    <Package path="sounds\sfx_prison.uax" />
+    <Package path="sounds\sfx_shipyard.uax" />
+    <Package path="sounds\sfx_streets.uax" />
+    <Package path="sounds\sfx_thepresidio.uax" />
+    <Package path="sounds\sfx_training_basics.uax" />
+    <Package path="sounds\sfx_training_shoot.uax" />
+    <Package path="sounds\sfx_trainingsp.uax" />
+    <Package path="sounds\sfx_warehouse.uax" />
+    <Package path="sounds\shotgun_m1_reloads.uax" />
+    <Package path="sounds\shotgun_m1.uax" />
+    <Package path="sounds\shotgun_spas12_reloads.uax" />
+    <Package path="sounds\shotgun_spas12.uax" />
+    <Package path="sounds\shotgun_usas12_reloads.uax" />
+    <Package path="sounds\shotgun_usas12.uax" />
+    <Package path="sounds\sniper_awcovert_reloads.uax" />
+    <Package path="sounds\sniper_awcovert.uax" />
+    <Package path="sounds\sniper_dragunov_reloads.uax" />
+    <Package path="sounds\sniper_dragunov_silenced.uax" />
+    <Package path="sounds\sniper_dragunov.uax" />
+    <Package path="sounds\sniper_m82a1_reloads.uax" />
+    <Package path="sounds\sniper_m82a1_silenced.uax" />
+    <Package path="sounds\sniper_m82a1.uax" />
+    <Package path="sounds\sniper_psg1_reloads.uax" />
+    <Package path="sounds\sniper_psg1_silenced.uax" />
+    <Package path="sounds\sniper_psg1.uax" />
+    <Package path="sounds\sniper_ssg3000_reloads.uax" />
+    <Package path="sounds\sniper_ssg3000_silenced.uax" />
+    <Package path="sounds\sniper_ssg3000.uax" />
+    <Package path="sounds\sniper_vintorez_reloads.uax" />
+    <Package path="sounds\sniper_vintorez.uax" />
+    <Package path="sounds\sniper_wa2000_reloads.uax" />
+    <Package path="sounds\sniper_wa2000_silenced.uax" />
+    <Package path="sounds\sniper_wa2000.uax" />
+    <Package path="sounds\sub_m12_reloads.uax" />
+    <Package path="sounds\sub_m12_silenced.uax" />
+    <Package path="sounds\sub_m12.uax" />
+    <Package path="sounds\sub_mp5_10a2_reloads.uax" />
+    <Package path="sounds\sub_mp5_10a2_silenced.uax" />
+    <Package path="sounds\sub_mp5_10a2.uax" />
+    <Package path="sounds\sub_mp5_sd5_reloads.uax" />
+    <Package path="sounds\sub_mp5_sd5.uax" />
+    <Package path="sounds\sub_mp5a4_reloads.uax" />
+    <Package path="sounds\sub_mp5a4.uax" />
+    <Package path="sounds\sub_mp5kpd_reloads.uax" />
+    <Package path="sounds\sub_mp5kpd_silenced.uax" />
+    <Package path="sounds\sub_mp5kpd.uax" />
+    <Package path="sounds\sub_mtar21_reloads.uax" />
+    <Package path="sounds\sub_mtar21_silenced.uax" />
+    <Package path="sounds\sub_mtar21.uax" />
+    <Package path="sounds\sub_p90_reloads.uax" />
+    <Package path="sounds\sub_p90_silenced.uax" />
+    <Package path="sounds\sub_p90.uax" />
+    <Package path="sounds\sub_tmp_reloads.uax" />
+    <Package path="sounds\sub_tmp_silenced.uax" />
+    <Package path="sounds\sub_tmp.uax" />
+    <Package path="sounds\sub_ump45_reloads.uax" />
+    <Package path="sounds\sub_ump45_silenced.uax" />
+    <Package path="sounds\sub_ump45.uax" />
+    <Package path="sounds\voices_1rstpersonrainbow.uax" />
+    <Package path="sounds\voices_3rdpersonrainbow.uax" />
+    <Package path="sounds\voices_clark_common.uax" />
+    <Package path="sounds\voices_clark_mission01.uax" />
+    <Package path="sounds\voices_clark_mission02.uax" />
+    <Package path="sounds\voices_clark_mission03.uax" />
+    <Package path="sounds\voices_clark_mission04.uax" />
+    <Package path="sounds\voices_clark_mission05.uax" />
+    <Package path="sounds\voices_clark_mission06.uax" />
+    <Package path="sounds\voices_clark_mission07.uax" />
+    <Package path="sounds\voices_clark_mission08.uax" />
+    <Package path="sounds\voices_clark_mission09.uax" />
+    <Package path="sounds\voices_clark_mission10.uax" />
+    <Package path="sounds\voices_clark_mission11.uax" />
+    <Package path="sounds\voices_clark_mission12.uax" />
+    <Package path="sounds\voices_clark_mission13.uax" />
+    <Package path="sounds\voices_clark_mission14.uax" />
+    <Package path="sounds\voices_clark_mission15.uax" />
+    <Package path="sounds\voices_common_1rst.uax" />
+    <Package path="sounds\voices_common_3rd.uax" />
+    <Package path="sounds\voices_control_gamemodes.uax" />
+    <Package path="sounds\voices_control_missionfailed.uax" />
+    <Package path="sounds\voices_control_missionsuccess.uax" />
+    <Package path="sounds\voices_control_multiplayer.uax" />
+    <Package path="sounds\voices_controlbankmissionfail.uax" />
+    <Package path="sounds\voices_controlguitmissionfail.uax" />
+    <Package path="sounds\voices_f_host_br.uax" />
+    <Package path="sounds\voices_f_host_fr.uax" />
+    <Package path="sounds\voices_f_host_nw.uax" />
+    <Package path="sounds\voices_f_host_pr.uax" />
+    <Package path="sounds\voices_f_host_sp.uax" />
+    <Package path="sounds\voices_m_host_br.uax" />
+    <Package path="sounds\voices_m_host_fr.uax" />
+    <Package path="sounds\voices_m_host_nw.uax" />
+    <Package path="sounds\voices_m_host_pr.uax" />
+    <Package path="sounds\voices_m_host_sp.uax" />
+    <Package path="sounds\voices_menumiss1.uax" />
+    <Package path="sounds\voices_menumiss10.uax" />
+    <Package path="sounds\voices_menumiss11.uax" />
+    <Package path="sounds\voices_menumiss12.uax" />
+    <Package path="sounds\voices_menumiss13.uax" />
+    <Package path="sounds\voices_menumiss14.uax" />
+    <Package path="sounds\voices_menumiss15.uax" />
+    <Package path="sounds\voices_menumiss2.uax" />
+    <Package path="sounds\voices_menumiss3.uax" />
+    <Package path="sounds\voices_menumiss4.uax" />
+    <Package path="sounds\voices_menumiss5.uax" />
+    <Package path="sounds\voices_menumiss6.uax" />
+    <Package path="sounds\voices_menumiss7.uax" />
+    <Package path="sounds\voices_menumiss8.uax" />
+    <Package path="sounds\voices_menumiss9.uax" />
+    <Package path="sounds\voices_multi_common.uax" />
+    <Package path="sounds\voices_multi_coop_ai.uax" />
+    <Package path="sounds\voices_multi_coop_team1.uax" />
+    <Package path="sounds\voices_multi_coop_team2.uax" />
+    <Package path="sounds\voices_multi_coop_team3.uax" />
+    <Package path="sounds\voices_otherteam1.uax" />
+    <Package path="sounds\voices_otherteam2.uax" />
+    <Package path="sounds\voices_prerecorded.uax" />
+    <Package path="sounds\voices_terro_german01.uax" />
+    <Package path="sounds\voices_terro_german02.uax" />
+    <Package path="sounds\voices_terro_liners_german01.uax" />
+    <Package path="sounds\voices_terro_liners_german02.uax" />
+    <Package path="sounds\voices_terro_liners_porto01.uax" />
+    <Package path="sounds\voices_terro_liners_porto02.uax" />
+    <Package path="sounds\voices_terro_liners_soccer.uax" />
+    <Package path="sounds\voices_terro_liners_spanish01.uax" />
+    <Package path="sounds\voices_terro_liners_spanish02.uax" />
+    <Package path="sounds\voices_terro_portuguese01.uax" />
+    <Package path="sounds\voices_terro_spanish01.uax" />
+    <Package path="sounds\voices_terro_spanish02.uax" />
+    <Package path="sounds\voices_training_basics.uax" />
+    <Package path="sounds\voices_training_explosives.uax" />
+    <Package path="sounds\voices_training_hostage1.uax" />
+    <Package path="sounds\voices_training_hostage2.uax" />
+    <Package path="sounds\voices_training_hostage3.uax" />
+    <Package path="sounds\voices_training_roomclearing1.uax" />
+    <Package path="sounds\voices_training_roomclearing2.uax" />
+    <Package path="sounds\voices_training_roomclearing3.uax" />
+    <Package path="sounds\voices_training_shooting.uax" />
+    <Package path="staticmeshes\airport_sm.usx" />
+    <Package path="staticmeshes\bank_sm.usx" />
+    <Package path="staticmeshes\common_sm.usx" />
+    <Package path="staticmeshes\garage_sm.usx" />
+    <Package path="staticmeshes\import_export_sm.usx" />
+    <Package path="staticmeshes\island_sm.usx" />
+    <Package path="staticmeshes\meatpacking_sm.usx" />
+    <Package path="staticmeshes\mountain_h_sm.usx" />
+    <Package path="staticmeshes\oil_refinery_sm.usx" />
+    <Package path="staticmeshes\parade_sm.usx" />
+    <Package path="staticmeshes\peaks_sm.usx" />
+    <Package path="staticmeshes\penthouse_sm.usx" />
+    <Package path="staticmeshes\prison_sm.usx" />
+    <Package path="staticmeshes\r61stweapons_sm.usx" />
+    <Package path="staticmeshes\r63rdweapons_sm.usx" />
+    <Package path="staticmeshes\r6actionobjects.usx" />
+    <Package path="staticmeshes\r6sfx_sm.usx" />
+    <Package path="staticmeshes\r6staticmeshesalpine.usx" />
+    <Package path="staticmeshes\r6theadattachment_sm.usx" />
+    <Package path="staticmeshes\shipyard_sm.usx" />
+    <Package path="staticmeshes\streets_sm.usx" />
+    <Package path="staticmeshes\the_presidio_sm.usx" />
+    <Package path="staticmeshes\training_sm_custom.usx" />
+    <Package path="staticmeshes\training_sm.usx" />
+    <Package path="staticmeshes\trainingsp_sm_custom.usx" />
+    <Package path="staticmeshes\trainingsp_sm_custommade.usx" />
+    <Package path="staticmeshes\trainingsp_sm.usx" />
+    <Package path="staticmeshes\warehouse_sm.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\r61stweapons.u" />
+    <Package path="system\r63rdweapons.u" />
+    <Package path="system\r6abstract.u" />
+    <Package path="system\r6characters.u" />
+    <Package path="system\r6description.u" />
+    <Package path="system\r6engine.u" />
+    <Package path="system\r6game.u" />
+    <Package path="system\r6gameservice.u" />
+    <Package path="system\r6menu.u" />
+    <Package path="system\r6sfx.u" />
+    <Package path="system\r6weapongadgets.u" />
+    <Package path="system\r6weapons.u" />
+    <Package path="system\r6window.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\airport_shader.utx" />
+    <Package path="textures\airport_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="1" />
+        <Object id="Skybox\ft" suffix="1" />
+        <Object id="Skybox\lf" suffix="1" />
+        <Object id="Skybox\rt" suffix="2" />
+        <Object id="Skybox\Up" suffix="1" />
+        <Object id="Wall\wall_block_02a" suffix="1" />
+        <Object id="Wall\wall_block_02b" suffix="1" />
+        <Object id="Wall\wall_block_02c" suffix="1" />
+        <Object id="Wall\wall_concrete_01b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\airport_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Vegetation\arbre01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\bank_shader.utx" />
+    <Package path="textures\bank_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="5" />
+        <Object id="Skybox\ft" suffix="5" />
+        <Object id="Skybox\lf" suffix="5" />
+        <Object id="Skybox\rt" suffix="5" />
+        <Object id="Skybox\Up" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="textures\bank_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Projecteur" suffix="1" />
+        <Object id="Ventilateur" suffix="2" />
+        <Object id="Video" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\citystreet_shader.utx" />
+    <Package path="textures\citystreet.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\floor_concrete_01a" suffix="1" />
+        <Object id="Floor\roof_01a" suffix="1" />
+        <Object id="Skybox\bk" suffix="2" />
+        <Object id="Skybox\ft" suffix="2" />
+        <Object id="Skybox\lf" suffix="2" />
+        <Object id="Skybox\rt" suffix="3" />
+        <Object id="Skybox\Up" suffix="2" />
+        <Object id="Wall\wall_concrete_01a" suffix="1" />
+        <Object id="Wall\wall_Metal_01a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\color.utx" />
+    <Package path="textures\common_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CatWalks\catwalk_stairs" suffix="1" />
+        <Object id="Skybox\bk" suffix="6" />
+        <Object id="Skybox\ft" suffix="6" />
+        <Object id="Skybox\lf" suffix="6" />
+        <Object id="Skybox\rt" suffix="6" />
+        <Object id="Skybox\Up" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="textures\cubemaps.utx" />
+    <Package path="textures\damnpack.utx" />
+    <Package path="textures\garage_shader.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap0" suffix="1" />
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap1" suffix="1" />
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap2" suffix="1" />
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap3" suffix="1" />
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap4" suffix="1" />
+        <Object id="CubeMaps\CubeIntGarage_01_CubeMap5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\garage_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="7" />
+        <Object id="Skybox\ft" suffix="7" />
+        <Object id="Skybox\lf" suffix="7" />
+        <Object id="Skybox\rt" suffix="7" />
+        <Object id="Skybox\Up" suffix="7" />
+        <Object id="Terrain\Grass_Alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\garage_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\Clock" suffix="1" />
+        <Object id="BreakableObject\Computer_Screen_Broken" suffix="1" />
+        <Object id="Cars\Lincoln" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\import_export_shader.utx" />
+    <Package path="textures\import_export_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\floor_wood_01a" suffix="1" />
+        <Object id="Floor\ground_01" suffix="1" />
+        <Object id="Skybox\bk" suffix="8" />
+        <Object id="Skybox\ft" suffix="8" />
+        <Object id="Skybox\lf" suffix="8" />
+        <Object id="Skybox\rt" suffix="8" />
+        <Object id="Skybox\Up" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="textures\import_export_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\TV_Broken" suffix="1" />
+        <Object id="Lit_acier" suffix="1" />
+        <Object id="TV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\inventory_t.utx" />
+    <Package path="textures\island_shader.utx" />
+    <Package path="textures\island_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\pave" suffix="1" />
+        <Object id="Skybox\bk" suffix="9" />
+        <Object id="Skybox\ft" suffix="9" />
+        <Object id="Skybox\lf" suffix="9" />
+        <Object id="Skybox\rt" suffix="9" />
+        <Object id="Skybox\Up" suffix="9" />
+        <Object id="Wall\Mur_entre" suffix="1" />
+        <Object id="Wall\Mur_entre_down" suffix="1" />
+        <Object id="Wall\Mur_ext_down" suffix="1" />
+        <Object id="Wall\Mur_ext_up" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\island_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\clock_Broken" suffix="1" />
+        <Object id="BreakableObject\Ordi_AIR_N2" suffix="1" />
+        <Object id="BreakableObject\Ordi_AIR_N2_Broken" suffix="1" />
+        <Object id="BreakableObject\Phone" suffix="1" />
+        <Object id="BreakableObject\Phone_Broken" suffix="1" />
+        <Object id="BreakableObject\TV" suffix="1" />
+        <Object id="BreakableObject\TV_Broken" suffix="2" />
+        <Object id="Dead_Bodies\Body_Island_Police_01" suffix="1" />
+        <Object id="Dead_Bodies\Body_Island_Police_02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\meatpacking_shader.utx" />
+    <Package path="textures\meatpacking_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="10" />
+        <Object id="Skybox\ft" suffix="10" />
+        <Object id="Skybox\lf" suffix="10" />
+        <Object id="Skybox\rt" suffix="10" />
+        <Object id="Skybox\Up" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="textures\meatpacking_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\Clock" suffix="2" />
+        <Object id="BreakableObject\clock_Broken" suffix="2" />
+        <Object id="BreakableObject\compute2" suffix="1" />
+        <Object id="BreakableObject\compute3" suffix="1" />
+        <Object id="BreakableObject\computer_Screen" suffix="1" />
+        <Object id="Extincteur\Extincteur_01" suffix="1" />
+        <Object id="Water\PoolWater_A01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mountain_high_shader.utx" />
+    <Package path="textures\mountain_high_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\clouds" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mountain_high_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objects\Stairs_Rampe" suffix="1" />
+        <Object id="Toilette" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\oil_refinery_shaders.utx" />
+    <Package path="textures\oil_refinery_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="11" />
+        <Object id="Skybox\ft" suffix="11" />
+        <Object id="Skybox\lf" suffix="11" />
+        <Object id="Skybox\rt" suffix="11" />
+        <Object id="Terrain\boue" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\oil_refinery_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\Backdrop_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\parade_shader.utx" />
+    <Package path="textures\parade_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="12" />
+        <Object id="Skybox\ft" suffix="12" />
+        <Object id="Skybox\lf" suffix="12" />
+        <Object id="Skybox\rt" suffix="12" />
+        <Object id="Skybox\Up" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="textures\parade_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="kit_papier_sol\plak_papier_sol1" suffix="1" />
+        <Object id="Plants\Plant_M" suffix="1" />
+        <Object id="Water\PoolWater_A02" suffix="1" />
+        <Object id="Water\PoolWater_A03" suffix="1" />
+        <Object id="Water\PoolWater_A04" suffix="1" />
+        <Object id="Water\PoolWater_A05" suffix="1" />
+        <Object id="Water\PoolWater_A06" suffix="1" />
+        <Object id="Water\PoolWater_A07" suffix="1" />
+        <Object id="Water\PoolWater_A08" suffix="1" />
+        <Object id="Water\PoolWater_A09" suffix="1" />
+        <Object id="Water\PoolWater_A10" suffix="1" />
+        <Object id="Water\PoolWater_A11" suffix="1" />
+        <Object id="Water\PoolWater_A12" suffix="1" />
+        <Object id="Water\PoolWater_A13" suffix="1" />
+        <Object id="Water\PoolWater_A14" suffix="1" />
+        <Object id="Water\PoolWater_A15" suffix="1" />
+        <Object id="Water\PoolWater_A16" suffix="1" />
+        <Object id="Water\PoolWater_A17" suffix="1" />
+        <Object id="Water\PoolWater_A18" suffix="1" />
+        <Object id="Water\PoolWater_A19" suffix="1" />
+        <Object id="Water\PoolWater_A20" suffix="1" />
+        <Object id="Water\PoolWater_A21" suffix="1" />
+        <Object id="Water\PoolWater_A22" suffix="1" />
+        <Object id="Water\PoolWater_A23" suffix="1" />
+        <Object id="Water\PoolWater_A24" suffix="1" />
+        <Object id="Water\PoolWater_A25" suffix="1" />
+        <Object id="Water\PoolWater_A26" suffix="1" />
+        <Object id="Water\PoolWater_A27" suffix="1" />
+        <Object id="Water\PoolWater_A28" suffix="1" />
+        <Object id="Water\PoolWater_A29" suffix="1" />
+        <Object id="Water\PoolWater_A30" suffix="1" />
+        <Object id="Water\PoolWater_A31" suffix="1" />
+        <Object id="Water\PoolWater_A32" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\peaks_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="13" />
+        <Object id="Skybox\ft" suffix="13" />
+        <Object id="Skybox\lf" suffix="13" />
+        <Object id="Skybox\rt" suffix="13" />
+        <Object id="Skybox\Up" suffix="12" />
+        <Object id="Terrain\rock_Alpha" suffix="1" />
+        <Object id="Wall\swiss_plaster_01c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\peaks_tsm.utx" />
+    <Package path="textures\penthouse_shader.utx" />
+    <Package path="textures\penthouse_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\Metal_pitted" suffix="1" />
+        <Object id="Skybox\bk" suffix="14" />
+        <Object id="Skybox\ft" suffix="14" />
+        <Object id="Skybox\lf" suffix="14" />
+        <Object id="Skybox\rt" suffix="14" />
+        <Object id="Skybox\Up" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="textures\penthouse_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\LapTop" suffix="1" />
+        <Object id="objets\casque" suffix="1" />
+        <Object id="Water\PoolWater_A01" suffix="2" />
+        <Object id="Water\PoolWater_A02" suffix="2" />
+        <Object id="Water\PoolWater_A03" suffix="2" />
+        <Object id="Water\PoolWater_A04" suffix="2" />
+        <Object id="Water\PoolWater_A05" suffix="2" />
+        <Object id="Water\PoolWater_A06" suffix="2" />
+        <Object id="Water\PoolWater_A07" suffix="2" />
+        <Object id="Water\PoolWater_A08" suffix="2" />
+        <Object id="Water\PoolWater_A09" suffix="2" />
+        <Object id="Water\PoolWater_A10" suffix="2" />
+        <Object id="Water\PoolWater_A11" suffix="2" />
+        <Object id="Water\PoolWater_A12" suffix="2" />
+        <Object id="Water\PoolWater_A13" suffix="2" />
+        <Object id="Water\PoolWater_A14" suffix="2" />
+        <Object id="Water\PoolWater_A15" suffix="2" />
+        <Object id="Water\PoolWater_A16" suffix="2" />
+        <Object id="Water\PoolWater_A17" suffix="2" />
+        <Object id="Water\PoolWater_A18" suffix="2" />
+        <Object id="Water\PoolWater_A19" suffix="2" />
+        <Object id="Water\PoolWater_A20" suffix="2" />
+        <Object id="Water\PoolWater_A21" suffix="2" />
+        <Object id="Water\PoolWater_A22" suffix="2" />
+        <Object id="Water\PoolWater_A23" suffix="2" />
+        <Object id="Water\PoolWater_A24" suffix="2" />
+        <Object id="Water\PoolWater_A25" suffix="2" />
+        <Object id="Water\PoolWater_A26" suffix="2" />
+        <Object id="Water\PoolWater_A27" suffix="2" />
+        <Object id="Water\PoolWater_A28" suffix="2" />
+        <Object id="Water\PoolWater_A29" suffix="2" />
+        <Object id="Water\PoolWater_A30" suffix="2" />
+        <Object id="Water\PoolWater_A31" suffix="2" />
+        <Object id="Water\PoolWater_A32" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\prison_shader.utx" />
+    <Package path="textures\prison_t.utx" />
+    <Package path="textures\prison_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Biblio01" suffix="1" />
+        <Object id="Biblio02" suffix="1" />
+        <Object id="Biblio03" suffix="1" />
+        <Object id="Bureau" suffix="1" />
+        <Object id="escalier" suffix="1" />
+        <Object id="NeonDouble" suffix="1" />
+        <Object id="Rampe" suffix="1" />
+        <Object id="Ventilateur" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\r6_common.utx" />
+    <Package path="textures\r6_swiss_alpines.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceilling\swiss_ceilling_02" suffix="1" />
+        <Object id="Floor\swiss_woodfloor_03" suffix="1" />
+        <Object id="Skybox\bk" suffix="1" />
+        <Object id="Skybox\ft" suffix="1" />
+        <Object id="Skybox\lf" suffix="1" />
+        <Object id="Skybox\rt" suffix="2" />
+        <Object id="Skybox\Up" suffix="1" />
+        <Object id="Terrain\crushed_snow" suffix="1" />
+        <Object id="Wall\swiss_plaster_01_trim_a" suffix="1" />
+        <Object id="Wall\swiss_plaster_01_trim_a2" suffix="1" />
+        <Object id="Wall\swiss_plaster_01a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\r6_textures_actionobject.utx" />
+    <Package path="textures\r61stweapons_t.utx" />
+    <Package path="textures\r63rdweapons_t.utx" />
+    <Package path="textures\r6actionicons.utx" />
+    <Package path="textures\r6alpinestaticmeshes.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Trees\Pin_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\r6blacksnow.utx" />
+    <Package path="textures\r6characters_t.utx" />
+    <Package path="textures\r6engine_t.utx" />
+    <Package path="textures\r6factoryequipment.utx" />
+    <Package path="textures\r6font.utx" />
+    <Package path="textures\r6grenades.utx" />
+    <Package path="textures\r6hud.utx" />
+    <Package path="textures\r6hudfonts.utx" />
+    <Package path="textures\r6ingamemenu.utx" />
+    <Package path="textures\r6menubg.utx" />
+    <Package path="textures\r6menucharacters.utx" />
+    <Package path="textures\r6menuoperative.utx" />
+    <Package path="textures\r6menutextures.utx" />
+    <Package path="textures\r6planning.utx" />
+    <Package path="textures\r6programmer.utx" />
+    <Package path="textures\r6sfx_t.utx" />
+    <Package path="textures\r6texturegadgets.utx" />
+    <Package path="textures\r6texturemenuequipment.utx" />
+    <Package path="textures\r6texturesreticule.utx" />
+    <Package path="textures\r6theadattachment_tsm.utx" />
+    <Package path="textures\r6weaponsicons.utx" />
+    <Package path="textures\r6writablemapicons.utx" />
+    <Package path="textures\shipyard_shader.utx" />
+    <Package path="textures\shipyard_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="3" />
+        <Object id="Skybox\ft" suffix="3" />
+        <Object id="Skybox\lf" suffix="3" />
+        <Object id="Skybox\rt" suffix="4" />
+        <Object id="Skybox\Up" suffix="3" />
+        <Object id="Wall\wall_Blocs_01b" suffix="1" />
+        <Object id="Wall\wall_concrete_01a" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="textures\shipyard_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BreakableObject\Clock" suffix="3" />
+        <Object id="BreakableObject\clock_Broken" suffix="3" />
+        <Object id="BreakableObject\Telephone" suffix="1" />
+        <Object id="BreakableObject\Telephone_Broken" suffix="1" />
+        <Object id="Fence\Fence_06" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\streets_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="NeonDouble" suffix="1" />
+        <Object id="Poubelle" suffix="1" />
+        <Object id="Poutre" suffix="1" />
+        <Object id="Spot" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\swissalpine_shader.utx" />
+    <Package path="textures\test_ladder.utx" />
+    <Package path="textures\the_presidio_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceilling\swiss_roof_01" suffix="1" />
+        <Object id="Skybox\bk" suffix="15" />
+        <Object id="Skybox\ft" suffix="15" />
+        <Object id="Skybox\lf" suffix="15" />
+        <Object id="Skybox\rt" suffix="1" />
+        <Object id="Skybox\Up" suffix="14" />
+        <Object id="Wall\swiss_wood_trim_03a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\the_presidio_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objects\Palette_Bois" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\training_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ceiling\ceiling_02" suffix="1" />
+        <Object id="Floor\floor_concrete_01a" suffix="1" />
+        <Object id="Floor\ground_dirt_01b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\training_tsm_custom.utx" />
+    <Package path="textures\training_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Water\PondWaterSpec_alpha" suffix="1" />
+        <Object id="Water\PoolWater_A01" suffix="3" />
+        <Object id="Water\PoolWater_A02" suffix="3" />
+        <Object id="Water\PoolWater_A03" suffix="3" />
+        <Object id="Water\PoolWater_A04" suffix="3" />
+        <Object id="Water\PoolWater_A05" suffix="3" />
+        <Object id="Water\PoolWater_A06" suffix="3" />
+        <Object id="Water\PoolWater_A07" suffix="3" />
+        <Object id="Water\PoolWater_A08" suffix="3" />
+        <Object id="Water\PoolWater_A09" suffix="3" />
+        <Object id="Water\PoolWater_A10" suffix="3" />
+        <Object id="Water\PoolWater_A11" suffix="3" />
+        <Object id="Water\PoolWater_A12" suffix="3" />
+        <Object id="Water\PoolWater_A13" suffix="3" />
+        <Object id="Water\PoolWater_A14" suffix="3" />
+        <Object id="Water\PoolWater_A15" suffix="3" />
+        <Object id="Water\PoolWater_A16" suffix="3" />
+        <Object id="Water\PoolWater_A17" suffix="3" />
+        <Object id="Water\PoolWater_A18" suffix="3" />
+        <Object id="Water\PoolWater_A19" suffix="3" />
+        <Object id="Water\PoolWater_A20" suffix="3" />
+        <Object id="Water\PoolWater_A21" suffix="3" />
+        <Object id="Water\PoolWater_A22" suffix="3" />
+        <Object id="Water\PoolWater_A23" suffix="3" />
+        <Object id="Water\PoolWater_A24" suffix="3" />
+        <Object id="Water\PoolWater_A25" suffix="3" />
+        <Object id="Water\PoolWater_A32" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="textures\trainingsp_sm_custom.utx" />
+    <Package path="textures\trainingsp_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skybox\bk" suffix="16" />
+        <Object id="Skybox\ft" suffix="16" />
+        <Object id="Skybox\lf" suffix="16" />
+        <Object id="Skybox\rt" suffix="15" />
+        <Object id="Skybox\Up" suffix="15" />
+        <Object id="Wall\wall_concrete_01a" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="textures\trainingsp_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WallHanger\structure_Plafond" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\warehouse_shader.utx" />
+    <Package path="textures\warehouse_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceilling\ceilling_office_01a" suffix="1" />
+        <Object id="Skybox\bk" suffix="3" />
+        <Object id="Skybox\ft" suffix="3" />
+        <Object id="Skybox\lf" suffix="3" />
+        <Object id="Skybox\rt" suffix="4" />
+        <Object id="Skybox\Up" suffix="3" />
+        <Object id="Wall\Garage_wall01" suffix="1" />
+        <Object id="Wall\wall_hanger_01a" suffix="1" />
+        <Object id="Wall\wall_hanger_01b" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\warehouse_tsm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AcessoirTravailleur\CoffreOutilsMontage" suffix="1" />
+        <Object id="Affiche\Dock2" suffix="1" />
+        <Object id="Affiche\HangerC" suffix="1" />
+        <Object id="Catwalk\catwalk_ramp_01" suffix="1" />
+        <Object id="Catwalk\catwalk_stairs" suffix="1" />
+        <Object id="Drum\DrumBleu" suffix="1" />
+        <Object id="Fence\Fence_05" suffix="1" />
+        <Object id="FournitureBureau\FiliereBasse" suffix="1" />
+        <Object id="FournitureBureau\FiliereHaute" suffix="1" />
+        <Object id="FournitureBureau\FilliereOuverteMont" suffix="1" />
+        <Object id="PaletteBois\BoiteSeul" suffix="1" />
+        <Object id="SkyLight\SkyLignt" suffix="1" />
+        <Object id="Truck\CamionMontage" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\weapontextures.utx" />
+  </Packages>
+</IdRemapping>

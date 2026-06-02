@@ -1,0 +1,176 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\editorlandscaperesources.upk" />
+    <Package path="udkgame\cookedpc\editormaterials.upk" />
+    <Package path="udkgame\cookedpc\editormeshes.upk" />
+    <Package path="udkgame\cookedpc\editorresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\editorshellmaterials.upk" />
+    <Package path="udkgame\cookedpc\engine_lights.upk" />
+    <Package path="udkgame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\engineapexresources.upk" />
+    <Package path="udkgame\cookedpc\enginebuildings.upk" />
+    <Package path="udkgame\cookedpc\enginedebugmaterials.upk" />
+    <Package path="udkgame\cookedpc\enginefonts.upk" />
+    <Package path="udkgame\cookedpc\enginematerials.upk" />
+    <Package path="udkgame\cookedpc\enginemeshes.upk" />
+    <Package path="udkgame\cookedpc\engineproduction.upk" />
+    <Package path="udkgame\cookedpc\engineresources.upk" />
+    <Package path="udkgame\cookedpc\enginesounds.upk" />
+    <Package path="udkgame\cookedpc\enginevolumetrics.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions01.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions02.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions03.upk" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\heli.u" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\heli-dlc_intro.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-dlcpart1.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-dlcpart2.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-factory.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-mines.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-pacemaker.udk" />
+    <Package path="udkgame\cookedpc\maps\heli-underground.udk" />
+    <Package path="udkgame\cookedpc\maps\templates\template_afternoon.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_midday.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_morning.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_night.umap" />
+    <Package path="udkgame\cookedpc\maps\unmechatomcave.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechcity.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechentry.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechfactorylf.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechfrontend.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechintro.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechintrolf.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechjanitorroom.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechjanitorroomdes.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechminecave.udk" />
+    <Package path="udkgame\cookedpc\maps\unmechstart.udk" />
+    <Package path="udkgame\cookedpc\maptemplateindex.upk" />
+    <Package path="udkgame\cookedpc\maptemplates.upk" />
+    <Package path="udkgame\cookedpc\materialtemplates.upk" />
+    <Package path="udkgame\cookedpc\mobileenginematerials.upk" />
+    <Package path="udkgame\cookedpc\mobileresources.upk" />
+    <Package path="udkgame\cookedpc\nodebuddies.upk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\alisanpackage.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\alisaspackage.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\daniel.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\erikspackage.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\jakobsstuff.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\optimizepipebar.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\tb_simonassets.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechanicalalisaassets.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechfgintro.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechisak.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechjoep.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechlouie.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechoscardlc.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechpalm.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\unmechsimon.upk" />
+    <Package path="udkgame\cookedpc\packages\dlcpackages\v.upk" />
+    <Package path="udkgame\cookedpc\packages\erikpack.upk" />
+    <Package path="udkgame\cookedpc\packages\marko_hellitest.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\hellipack.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\hellipackmenu.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\hellipacknew.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\helliseffects.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\markotest1.upk" />
+    <Package path="udkgame\cookedpc\packages\oldpackages\puzzle52package.upk" />
+    <Package path="udkgame\cookedpc\packages\testmenuthing.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechandre.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechbjorn.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechbjorn2.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechbubbles.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechessentials.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechfogplanes.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechintropackage.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechjesper.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechjocke.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechmarkus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bubble_00411" suffix="1" />
+        <Object id="bubble_00411_00411" suffix="1" />
+        <Object id="bubble_004111" suffix="1" />
+        <Object id="Clouds" suffix="1" />
+        <Object id="clouds2" suffix="1" />
+        <Object id="firetile" suffix="1" />
+        <Object id="flame" suffix="1" />
+        <Object id="lava" suffix="1" />
+        <Object id="Particlebeam" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\packages\unmechmenu.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechmerging.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechmusic.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechmusic2.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechmusic3.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsandra.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsjoerd.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsjoerd2.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsofia.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound1.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound2.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound3.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound4.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound5.upk" />
+    <Package path="udkgame\cookedpc\packages\unmechsound6.upk" />
+    <Package path="udkgame\cookedpc\packages\urrepack.upk" />
+    <Package path="udkgame\cookedpc\packages\urrepack2.upk" />
+    <Package path="udkgame\cookedpc\packages\urrepack3.upk" />
+    <Package path="udkgame\cookedpc\packages\zeboll.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\shared\soundclassesandmodes.upk" />
+    <Package path="udkgame\cookedpc\shared\udk_lut.upk" />
+    <Package path="udkgame\cookedpc\shared\udkfonts.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\effects\camera_fx.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\envy_decals.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\envy_effects.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\envy_effects2.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\envy_level_effects_2.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\envy_level_effects.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\fx_hiteffects.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\fx_lensflares.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\fx_vehicleexplosions.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\t_fx.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\un_lenstypes.upk" />
+    <Package path="udkgame\cookedpc\ut3\effects\vh_weapons.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\asc_visprototype.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\hu_supports.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\physicalmaterials.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\un_detailtex.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\un_detailtex2.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\un_liquid.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\un_rock.upk" />
+    <Package path="udkgame\cookedpc\ut3\environments\un_volumetrics.upk" />
+    <Package path="udkgame\cookedpc\ut3\foliagemap_particles.upk" />
+    <Package path="udkgame\cookedpc\ut3\gp_onslaught.upk" />
+    <Package path="udkgame\cookedpc\ut3\sounds\a_ambient_loops.upk" />
+    <Package path="udkgame\cookedpc\ut3\sounds\vehicle\a_vehicle_generic.upk" />
+    <Package path="udkgame\cookedpc\ut3\sounds\vehicle\a_vehicle_manta_ut3g.upk" />
+    <Package path="udkgame\cookedpc\ut3\sounds\vehicle\a_vehicle_raptor.upk" />
+    <Package path="udkgame\cookedpc\ut3\sounds\weapon\a_weapon_rocketlauncher.upk" />
+    <Package path="udkgame\cookedpc\ut3\udk_proceduralsky.upk" />
+    <Package path="udkgame\cookedpc\ut3\ui_fonts_final.upk" />
+    <Package path="udkgame\cookedpc\ut3\ui_fonts.upk" />
+    <Package path="udkgame\cookedpc\ut3\vehicles\vh_scorpion.upk" />
+    <Package path="udkgame\cookedpc\ut3\weapons\wp_rocketlauncher.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgame.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

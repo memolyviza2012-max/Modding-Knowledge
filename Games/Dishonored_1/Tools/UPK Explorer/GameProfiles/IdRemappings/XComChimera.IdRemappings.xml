@@ -1,0 +1,2164 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="xcomgame\cookedpcconsole\abnd_abandoned_base_markup_scgroundwork2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_abandoned_base_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_abandoned_base_markup_tptier2a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_abandoned_base.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_advent_factory_markup_gptier3b2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Fire_B_DLC_090\T_Log_Masked" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\abnd_advent_factory_markup_sctier2a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_advent_factory_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_advent_factory_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_advent_factory.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_int_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_str_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_str_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_str_16x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_t_16x16_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RoadDetails\Textures\RoadStripes_NRM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\abnd_blvd_tstreet_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gene_therapy_markup_sctier2b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gene_therapy_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gene_therapy_markup_tptier3b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gene_therapy_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="modernsedana_police\Textures\VEH_ModernSedanA_Police_WEAR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\abnd_gene_therapy.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gray_phoenix_stronghold_markup_gptier3a2.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gray_phoenix_stronghold_markup_gptier3b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gray_phoenix_stronghold_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gray_phoenix_stronghold_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_gray_phoenix_stronghold.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_overpass_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_overpass_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_overpass_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_overpass.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_pirate_radio_station_markup_sctier1b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_pirate_radio_station_markup_sctier2b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_pirate_radio_station_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_pirate_radio_station_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_pirate_radio_station.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_riverfront_docks_markup_gptier1b2.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_riverfront_docks_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_riverfront_docks_markup_tpgroundwork2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_riverfront_docks_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_riverfront_docks.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_sacred_coil_stronghold_markup_sctier1a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_sacred_coil_stronghold_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_sacred_coil_stronghold.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_shopping_center_markup_sctier1a2.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_shopping_center_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_shopping_center_markup_tptier1a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_shopping_center_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_shopping_center.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_int_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_intblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_str_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_str_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_str_08x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street_t_08x08_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="roadworkcover\Textures\RoadWorkCover_TINT" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\abnd_street_tblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_street.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_a_cin.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_a_markup_tptakedown1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_a_markup_tptakedown2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_a_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="firehydranta\Textures\FireHydrantA_MSK" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_b_markup_tptakedown1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_b_markup_tptakedown2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_b_markup_tptakedown3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_progeny_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_sacred_coil_markup_sctakedown1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_sacred_coil_markup_sctakedown2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_sacred_coil_markup_sctakedown3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\abnd_takedown_sacred_coil.upk" />
+    <Package path="xcomgame\cookedpcconsole\acv_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fx_weapon_scars_dlc_090\Cracks_Sq" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\adder_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventchesta_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventcopcar_4x2_on.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventcp_6x3.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventdeco_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventpriest_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventpsiwitch_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventpurifier_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventsecuritytower_3x3_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Advent_DestroPile\Textures\Advent_DestroPiles_DIF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\adventtower_1x1.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventtower_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventtrooper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\adventvan_7x2_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\advmec_m1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\advmec_m2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\advwindowframe_1x_secure.upk" />
+    <Package path="xcomgame\cookedpcconsole\advwindowframe_2x_secure.upk" />
+    <Package path="xcomgame\cookedpcconsole\advwindowframe_3x_secure.upk" />
+    <Package path="xcomgame\cookedpcconsole\aidbeacon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\akaudio.upk" />
+    <Package path="xcomgame\cookedpcconsole\alienbarrels_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Scattered\T_Splash_Centered" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\alienconsole_1x1a_blue.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Textures\T_Scattered_Shards" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Metal_Shredded_Alien_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\alienconsole_1x1a_green.upk" />
+    <Package path="xcomgame\cookedpcconsole\alienconsole_1x1a_orange.upk" />
+    <Package path="xcomgame\cookedpcconsole\alienconsole_1x2a_green.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Foliage\T_City_Center_Shrubs_Destro" suffix="1" />
+        <Object id="FX_Destruction_Textures\T_Scattered_Shards" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\alienconsole_1x2b_blue.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\alienrelay_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\alienstorageracka_1story_1x2.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_ap_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_bluescreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_caustic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_incendiary_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_talon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_tracer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_tranq_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ammo_venom_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Water\Reflections\T_Fire_Reflection_Sparse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\android_self_destruct_01_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\android_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\andromedon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\animatedui_animtree_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\apc_6x2_on.upk" />
+    <Package path="xcomgame\cookedpcconsole\apc_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\archon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\archonstaff_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_Soft_BeamLines" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\avengericon_anim_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\axiom_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\axiom_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bashdoor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Fade_Variable" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_SmokeTrail_Greypack_01" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Trail_Wispy_Complex" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Large_A" suffix="1" />
+        <Object id="FX_Shared\T_Fuzzy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\beamassaultrifle_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_Soft_BeamLines" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_LF_Screen_Dirty_w_Hexes" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Horizontal_H" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Screen_Colorizer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\beamattachments_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\beamcannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\beamshotgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\beamsniper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\beamsword_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\beards_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bemreaperrifle_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\bemsmg_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\berserker_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bldg_prologue_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\blueblood_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\blueblood_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bomber_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bp_evac_zone.upk" />
+    <Package path="xcomgame\cookedpcconsole\breach_pathing_test_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\breach_pathing_test.upk" />
+    <Package path="xcomgame\cookedpcconsole\breach_setup_actions.upk" />
+    <Package path="xcomgame\cookedpcconsole\breachcharge_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\breachgremlinhack.upk" />
+    <Package path="xcomgame\cookedpcconsole\breachingcharge.upk" />
+    <Package path="xcomgame\cookedpcconsole\breachinitialmove.upk" />
+    <Package path="xcomgame\cookedpcconsole\breachladder_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\breaker_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\bruiser_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\brute_devastatingblow_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\busstop_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\carsnaponkit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cherub_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cherub_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\chosen_assassin_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\chosen_hunter_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\chosen_warlock_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\chryssalid_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_advent.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_adventmec.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_andromedon.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_archon.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_berserker.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cin_dummy\Materials\CineDummy_Texture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_brute.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_cameraanims_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_chryssalid_burrow.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_chryssalid.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_cyberus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cin_dummy\Materials\CineDummy_Texture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_dio_spawnmatinees.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_envoy.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_faceless.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_gatekeeper.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_gunslinger.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_hellion.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_muton.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_progeny_takedown_atob.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_psigate_psigatediscovered.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_sacredcoil_takedown_zombie.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_sectoid.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Waves_Glow" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Rays_Directional" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Tunnel_Offset" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_sectopod.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_soldier.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_DustClouds01" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_4x1_Clouds" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared\T_Fuzzy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_sorcerer.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Energy_Beam_Crispy" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Waves_Glow" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\t_plasma_tileH" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_4x1_Clouds" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_mod_2x2_B" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Shine_Halo" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\TFB_plasmaball" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_turret.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_viper.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Waves_Glow" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Shine_Halo" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\TFB_plasmaball" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Contrail_Mask" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Dot_3Channel_Falloffs" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_CapsuleCross_Gradient_3Channel" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Rays_Directional" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Tunnel_Offset" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Wisp_Rotate" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cin_xp_advent.upk" />
+    <Package path="xcomgame\cookedpcconsole\cin_zombie.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_advent_tower_markup_gpgroundwork3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_advent_tower_markup_sctier3b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_advent_tower_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_advent_tower.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_archives_markup_gpgroundwork2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_archives_markup_gptier2a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_archives_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_archives_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_archives.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_bank_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_bank_markup_tptier3a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_bank_markup_tptier3a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_bank_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_bank.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_int_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_str_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_str_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_str_16x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_t_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_blvd_troad_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01_markup_sctier2a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01_markup_stoprobbery.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01_markup_tptier2b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_02_markup_tpgroundwork1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_02_markup_tptier2b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_corporate_office_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_cityhall_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_cityhall_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_cityhall.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_a_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_a_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AvengerExteriorDeck\Textures\AvengerDeckSurface_01_MSK" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_b_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_c_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_finale_conspiracy_cell_c.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_nightclub_markup_gptier2b2.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_nightclub_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_nightclub_markup_tptier1b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_nightclub_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_nightclub.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_overpass_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_overpass_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_overpass_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_overpass.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_progeny_safehouse_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_progeny_safehouse_markup_tptier1a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_progeny_safehouse_markup_tptier2a2.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_progeny_safehouse_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_progeny_safehouse.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_prologue_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_prologue_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_prologue.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_int_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_intblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_str_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_str_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_str_08x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_t_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_road_tblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_01_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_01_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_02_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_02_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_street_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_a_markup_gptakedown1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_b_markup_gptakedown1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_b_markup_gptakedown2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_b_markup_gptakedown3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_c_markup_gptakedown2nd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_c_markup_gptakedown3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\city_takedown_gray_phoenix_c.upk" />
+    <Package path="xcomgame\cookedpcconsole\citycentertree_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\claymore_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\claymore_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cnvreaperrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cnvsmg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cobra_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\commando_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\compactcar_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Fire_Stream_Roiling_Glowy" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparser" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Energy_Loop" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\conspiracy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\containment_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\convassaultrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\convattachments_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\convcannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\convgremlin_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_square_edge_mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\convshotgun_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Textures\T_MuzzleFlash_Rifle_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\convsniper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\convsword_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Impacts\T_Blood_Splat_2" suffix="1" />
+        <Object id="FX_Sword_CV\Sword_CV_Slash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\core.upk" />
+    <Package path="xcomgame\cookedpcconsole\coverrush.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_SmokeTrail_Greypack_01" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Trail_Squiggly" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Waves_Glow" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_clouds_tile" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_4x1_Clouds" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_Shine" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Radial_LinesT_Radial_Burst" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_CapsuleCross_Gradient_3Channel" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Rays_Directional" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\cryssalid_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\cyberus_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\demoexpert_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dio_narrativemoments_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dio_obstaclecourse_markup.upk" />
+    <Package path="xcomgame\cookedpcconsole\dio_obstaclecourse.upk" />
+    <Package path="xcomgame\cookedpcconsole\dio_unitpalettes_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\diocinematicshotlibrary_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dioshell_main.upk" />
+    <Package path="xcomgame\cookedpcconsole\dlc_2_fx_destruction_templates_reduced_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dlc_2_fx_destruction_templates_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dlc_60_soundtacticalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\docks_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\dominator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\doors_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\duo.upk" />
+    <Package path="xcomgame\cookedpcconsole\editormaterials_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\editorresources_sf_loc_int.upk" />
+    <Package path="xcomgame\cookedpcconsole\editorresources_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\electricalboxesa_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\eleriumcore_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\enemyreactfire.upk" />
+    <Package path="xcomgame\cookedpcconsole\engine.upk" />
+    <Package path="xcomgame\cookedpcconsole\envcubes_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\envlighting_day.upk" />
+    <Package path="xcomgame\cookedpcconsole\envlighting_shanty_day_strategy.upk" />
+    <Package path="xcomgame\cookedpcconsole\envlighting_urbannight.upk" />
+    <Package path="xcomgame\cookedpcconsole\envoy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ethereal_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ext_prop_powerlines_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\eyes_default_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\faceless_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facepaint_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facepropslower_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facepropsupper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facialhair_beard_beaglerush_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facialhair_blank_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facialhair_long_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\facialhair_short_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_int_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_str_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_str_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_str_16x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_t_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_blvd_troad_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_01_markup_gptier1a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_01_markup_tptier1b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_02_markup_gptier2b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_02_markup_tptier3b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_chemical_plant_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_01_markup_gptier1b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_01_markup_sctier2a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_02_markup_gptier3b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_02_markup_tpgroundwork3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_droid_factory_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_hydro_electric_markup_gptier2a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_hydro_electric_markup_gptier3a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_hydro_electric_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_hydro_electric_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_hydro_electric.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_manufacturing_plant_markup_gptier1b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_manufacturing_plant_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_manufacturing_plant_markup_tptier1b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_manufacturing_plant_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_manufacturing_plant.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_overpass_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_overpass_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_overpass_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RooftopDeco\Textures\RooftopDecoA_MSK" suffix="1" />
+        <Object id="RooftopDeco\Textures\RooftopDecoA_TNT" suffix="1" />
+        <Object id="RooftopDeco\Textures\RooftopDecoB_DIF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fact_overpass.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_recycling_center_markup_scgroundwork3rd.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_recycling_center_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_recycling_center_markup_tptier2a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_recycling_center_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_recycling_center.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_int_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_intblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_str_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_str_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_str_08x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_t_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_road_tblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_street_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_street_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_street_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_street.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_01_markup_gptier1a2.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_01_markup_gptier2b3.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_02_markup_scgroundwork1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_02_markup_tptier3a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_warehouse_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_water_treatment_markup_gptier2a2.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_water_treatment_markup_sctier3a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_water_treatment_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_water_treatment_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\fact_water_treatment.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice1_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice1_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice1_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice1_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice1_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice10_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice10_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice10_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice10_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice10_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice2_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice2_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice2_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice2_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice2_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice3_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice3_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice3_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice3_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice3_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice4_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice4_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice4_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice4_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice4_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice5_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice5_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice5_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice5_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice5_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice6_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice6_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice6_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice6_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice6_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice7_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice7_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice7_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice7_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice7_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice8_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice8_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice8_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice8_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice8_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice9_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice9_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice9_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice9_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\femalevoice9_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fracturedeco_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_abandoned_city_dust_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_abandoned_city_dust_reduced_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_abandoned_city_dust_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_acid_reduced_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_acid_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_advent_troop_transport_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_alien_air_lift_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_alien_misc_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared\T_softSmoke2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_animals_terrestrial_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_aquatic_animals_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_archon_progeny_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_atm_holograms_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_atmospherics_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Dust_Smooth_3Channel" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_bats_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_billboards_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_billboards_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_birds_on_ground_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_breach_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_cave_deco_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_chosen_kidnap_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_chosen_teleport_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_chryssalid_cocoon_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Impacts\T_Blood_Pool_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_cloth_blowing_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_cloth_blowing_materials_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_decals_blood_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_decals_charring_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_destruction_fracture_data_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_destruction_templates_reduced_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Textures\T_Furniture_Innards_MSK" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_destruction_templates_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Textures\T_Furniture_Innards_MSK" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Alien_Destroyed" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_destructiondefaults_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Textures\T_Scattered_Shards" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+        <Object id="FX_Shared\T_fireyblast01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_dev_holographic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_electrical_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_exhaust_vapors_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_explosion_claymore_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_groundStreak" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_explosion_fireextinguisher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fire_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_B_Soft_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_fire_smoke_shared_reduced_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Flame_Mask_SubUV_Soft" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Snowflakes_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_fire_smoke_shared_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fog_pod_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fog_pod_tendrils_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fogged_bodies_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_foliage_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fracture_templates_reduced_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_fracture_templates_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Debris\T_Engine_Parts_DIF" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_glows_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparseB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_grenade_tangle_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Vapor_Serpentine" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_mod_2x2_B" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_holograms_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Water_Edge" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_insects_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_lens_flares_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_LF_Screen_Dirty_w_Hexes" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Screen_Colorizer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_light_rays_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_loot_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_mec_wp_flamethrower_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Edge_Masks\T_square_edge_mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_medic_secondwind_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_mindscorch_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Metal_Shredded_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_misc_deco_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Rock_Dust" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_B_Soft_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_museum_art_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_ocean_shore_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Scattered\T_Splatter_Gradual" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_operator_chainingjolt_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_pigeons_on_ground_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_plasma_env_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Flame_Mask_SubUV_Soft" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_poison_dynamic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_psi_gate_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_psi_loot_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_psi_vapors_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_rigid_bodies_blowing_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_smoke_grenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_snakes_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_acidcorrosion_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_blinded_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_burning_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_disoriented_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_poisoned_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_status_stunned_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_templar_volt_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Wispy_Stringy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_trash_x2_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_tunnel_reinforcements_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_visibility_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_water_citycenter_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_water_deco_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_water_slums_env_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\fx_weather_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Fragments\T_Snowflakes_SubUV" suffix="1" />
+        <Object id="FX_Shared\T_Rain_ALPHA_Cylindrical" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\fx_wp_plasmashared_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_NML" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\TFB_plasmaball" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gamedata_toughness_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameframework.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_advmec_m2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_advtrooper_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Cyberus\T_Cyberus_Hair" suffix="1" />
+        <Object id="FX_Impacts\T_Blood_Pool_3" suffix="1" />
+        <Object id="FX_Impacts\T_Blood_Splat_1" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Smoke_Tendril_Tile" suffix="1" />
+        <Object id="FX_Shared\T_softSmoke2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gameunit_chryssalidcocoon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_civilian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_conspiracy_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Impacts\T_Blood_Spray_1" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_Billowing_Smoke_Lrg" suffix="1" />
+        <Object id="FX_Shared\T_Fuzzy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gameunit_grayphoenix_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Impacts\T_Blood_Splat_1" suffix="1" />
+        <Object id="FX_Impacts\T_Blood_Spray_1" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Glass_Tiling" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Dust_Smooth_3Channel" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_mod_2x2_B" suffix="1" />
+        <Object id="FX_Shared\T_ExplosionStreak" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gameunit_other_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gameunit_progeny_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_sacredcoil_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_spectralunits_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_xcom_hq_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_xcom_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Textures\T_Electrical_Spread" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\gameunit_xcomcivilians_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_xcomsoldier_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gameunit_zombie_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gatekeeper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\geoscape_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxalerts_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxanchoredmessagemgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxandroidreinforcements_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxarmory_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxassembly_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxbiographyscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxblackmarket_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxchallengehud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxchallengepostgame_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxchallengescorescreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcharacterunlock_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxchat_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxchoosefacility_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcombatlose_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcommlink_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcommon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcontrollermap_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcouncilscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxcredits_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdailychallenge_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdarkevents_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdaytransitionscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdebriefscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdebugsafearea_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdialoguebox_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdifficultymenu_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdiocitymap_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdiohud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdiostrategyaction_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxdropshipbriefing_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxendgamestats_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxenemyarrows_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfacilitygrid_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfacilityhud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfacilitysummary_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfieldteammanager_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfonts_chn_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfonts_cht_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfonts_jpn_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxfonts_kor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxhackingscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxinputdialogue_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxinterfacemgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxinventory_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxinvestigationpickersimple_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxloadscreenanimation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxlootingui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmanageequipmentmenu_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmemorialdetail_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmessagemgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmetacontentscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmissionintro_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmissionsummary_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmousecursor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmouseguard_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmultiplayercharacterselector_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmultiplayerloadoutlist_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmultiplayerplayerstats_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmultiplayerpostmatchsummary_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxmy2kscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxnewrecruit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxnotifications_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxoperationpickersimple_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxoptionsscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxpausemenu_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxpckeybindingsscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxphotobooth_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxprogressdialogue_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxresearchreport_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxresearchunlocked_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxrosterunlock_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxsaveload_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxscavengermarket_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxsitreppopup_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxsoldierlist_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxspecialmissionhud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxspecops_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxsquadlist_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxstrategymap_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtacticalcharinfo_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtacticalhud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtacticaltimeline_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtooltipmgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtraining_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxturnoverlay_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtutorialarchive_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxtutorialbox_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxui.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxuitestscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxunitflag_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxworldmessagemgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxcomicons_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_alerts_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_covertops_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_factionpopup_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_heroabilityselect_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_photoboothinterfacemgr_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_poster_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_replayhud_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_sitrep_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_soldierbondalert_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_soldierbondconfirm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_soldierbondscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_strategypolicy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\gfxxpack_tacticalhudmessagebanner_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="xcomgame\cookedpcconsole\godmother_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\godmother_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\grayphoenix_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\grenades_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\guardian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\guidcache.upk" />
+    <Package path="xcomgame\cookedpcconsole\gunslinger_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hackingcasea_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_classic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_female_longstraight_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_female_longwavy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femblank_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhaira_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairbuzzcut_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairc_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhaird_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhaire_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairf_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairh_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairi_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairj_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairk_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairl_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairn_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairo_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairp_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_femhairshort_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_male_longcurls_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_male_longlayers_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_maleblank_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehaira_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairbuzzcut_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairc_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehaird_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehaire_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairf_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairshorta_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairshortb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_malehairshortc_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_sidmeier_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hair_veteran_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hardliner_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrfem_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_afrmale_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnfem_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_asnmale_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucfem_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_caucmale_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latfem_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_c_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_d_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_e_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_latmale_f_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_skirmisher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\head_supersoldier1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hellion_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\helmets_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hitman_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\holographickiosksa_hi_1x1.upk" />
+    <Package path="xcomgame\cookedpcconsole\holographickiosksa_lo_1x1.upk" />
+    <Package path="xcomgame\cookedpcconsole\holomayor_damaged.upk" />
+    <Package path="xcomgame\cookedpcconsole\holomayor.upk" />
+    <Package path="xcomgame\cookedpcconsole\hotbutton_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hq_anim_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hq_ui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\hqaslt_computer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\humancorpse_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Gritty_Chunks_SubUV" suffix="1" />
+        <Object id="FX_Water_Deco\T_Liquid_Highlights" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Water_Reflection_Night" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\hydroelectric_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\impact_gamedata_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_clouds_tile" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_Circuit_Lines" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Roiling_Smoke_Scrolling" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Edge_A" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Splatter_Gradual" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Wood_Splinters_Mask" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\SmokeAlpha_Mid" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_B_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_D_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_A_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_B_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_D_DMat" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Debris_Chunks" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Gritty_Chunks_SubUV" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+        <Object id="FX_Water_Deco\T_Liquid_Highlights" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Water_Reflection_Night" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\inquisitor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\interceptor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="xcomgame\cookedpcconsole\jdev_holographic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\layericons_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\leadership_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\line.upk" />
+    <Package path="xcomgame\cookedpcconsole\liquidator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magassaultrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magattachments_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magcannon_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_LF_SemiRing_Thick" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\magreaperrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magshotgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magsmg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magsniper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\magsword_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice1_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice1_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice1_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice1_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice1_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice10_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice10_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice10_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice10_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice10_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice2_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice2_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice2_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice2_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice2_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice3_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice3_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice3_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice3_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice3_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice4_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice4_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice4_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice4_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice4_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice5_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice5_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice5_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice5_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice5_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice6_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice6_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice6_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice6_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice6_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice7_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice7_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice7_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice7_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice7_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice8_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice8_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice8_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice8_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice8_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice9_english_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice9_french_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice9_german_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice9_italian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\malevoice9_spanish_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\marketstreetsign_locov_1x1a_pizza.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\materials_dio_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\materials_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Caustics" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\medic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\medikit_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared\T_Rain_ALPHA_Cylindrical" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_01_markup_tptier2b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_01_markup_tptier3b2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Machinery_Grit" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_01_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RooftopDeco\Textures\RooftopDecoA_NRM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_02_markup_sctier1b2.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_02_markup_sctier3b1.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_alien_housing_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_01_markup_gptier3a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_01_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_01_markup_tptier1a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_01_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_02_markup_sctier1a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_02_markup_sctier1b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_02_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_02_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RooftopDeco\Textures\RooftopDecoA_MSK" suffix="1" />
+        <Object id="RooftopDeco\Textures\RooftopDecoA_NRM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_apartments_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar_markup_gptier1a1.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar_markup_sctier2b2.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar_markup_stoprobbery.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_bar.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_int_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_str_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_str_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_str_16x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_t_16x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_blvd_troad_16x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_micro_mall_markup_gpgroundwork1st.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_micro_mall_markup_sctier3b4.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_micro_mall_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_micro_mall_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RooftopDeco\Textures\RooftopDecoA_NRM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_micro_mall.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market_markup_sctier3a3.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market_markup_sctier3a4.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market_markup_side.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market_markup_stoprobbery.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_outdoor_market.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_overpass_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_overpass_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_overpass_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_overpass.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_int_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_intblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_str_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_str_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_str_08x16_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_t_08x08_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_road_tblvd_08x16_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_01_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_01_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_01_periph.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Foliage\T_City_Center_Shrubs_Destro" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\merc_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_02_markup_extract.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_02_markup_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_02_periph.upk" />
+    <Package path="xcomgame\cookedpcconsole\merc_street_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\mercenaries_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\miniscanner_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\minivan_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\mission_archetypes_dio_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\mission_assets_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\missionassets_supplyextraction_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\mob.upk" />
+    <Package path="xcomgame\cookedpcconsole\modernsedana_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\muton_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\necromancer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\neutralizevip_bounty_helper.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_destroyobject.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_disableobject.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_extractvip.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_finalecityhall.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_finaleconspiracy_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_finaleconspiracy_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_finaleconspiracy_c.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_holdground.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_neutralizevip.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_outbreak.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_preventactivity.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_prologue.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_protectobject.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_recoverobject.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_recoverweapon.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_rescuevip.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_stoprobbery.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_sweep.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_gray_phoenix_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_gray_phoenix_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_gray_phoenix_c.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_progeny_a.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_progeny_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_takedown_sacred_coil.upk" />
+    <Package path="xcomgame\cookedpcconsole\obj_test.upk" />
+    <Package path="xcomgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="xcomgame\cookedpcconsole\operator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\overpass_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\paladin_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\parcel_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\patchwork_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\patchwork_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_abndp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_abndp_waterfront_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_abndp_waterfront_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_cityp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_factoryp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_16_mercp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_24_abndp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_24_cityp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_24_factoryp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_24_mercp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_32_abndp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_32_cityp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_32_factoryp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_32_mercp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_48_abndp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_48_cityp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_48_factoryp_building_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ShantyShelvesA\Textures\ShippingCratesA_DIF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\pcp_48_mercp_building_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\pcp_64_abndp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_64_cityp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_64_factoryp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_64_mercp_building_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_abnd_periph_boulevard_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_abnd_periph_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_abndp_farperiphery_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_abndp_overpass_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_cityp_boulevard_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_cityp_farperiphery_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_cityp_overpass_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_cityp_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_factp_boulevard_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="RooftopDeco\Textures\RooftopDecoA_DIF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\pcp_factp_farperiphery_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_factp_overpass_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_factp_overpass_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_factp_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_mercp_boulevard_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_mercp_farperiphery_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_mercp_overpass_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_mercp_overpass_02.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_mercp_street_01.upk" />
+    <Package path="xcomgame\cookedpcconsole\pcp_waterfrontp_farperiphery.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_aid_protocol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_aidbeacon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_anima_consume_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_anima_gate_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_anima_inversion_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_archon_burnout_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_batteringram_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_battlelord_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_blazing_pinions_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_capacitor_discharge_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_chosen_interrogation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_chosen_regenerate_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_chronogrenade_stasisfield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_combat_protocol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_command_aura_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_cooperation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_demoexpert_fortitude_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_devastatingblow_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_dimensional_rift_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_dominator_mindcontrol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_dominator_psidisable_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_duel_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_exchange_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_frenzy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_gestation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_ghost_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_grapple_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_hasten_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_hellion_cripplingblow_rooted_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_hellion_reaper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_holotargeting_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_holy_warrior_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_horror_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_ionic_storm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_lens_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_liftgrenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_lightning_field_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_mark_target_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_mass_mindspin_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medic_breachheal_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medic_secondwind_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medic_sustain_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medical_protocol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medikit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_medipatch_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_mimic_beacon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_mind_control_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_muton_bayonet_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_muton_meleestance_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_nanomedikit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_networkregen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_neurogrenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_operator_hackrobot_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_operator_stasisfield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_overdriveserum_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_parthenogenic_poison_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_passive_scanners_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_phaselance_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_pillar_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_poweredarmor_heavy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_poweredarmor_light_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_preparation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_aether_shift_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_battlemadness_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_bomb_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_breachenvoyability_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_cloud_the_mind_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_dissonance_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Shine_Halo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_distortionfield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_domination_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_explosion_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_fortress_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_fuse_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_insanity_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_inspire_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Edge_A" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_B_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_levitate_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Energy_Beam_Crispy" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_SmokeTrail_Greypack_01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_mind_fire_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_mindblast_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_mindflay_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_mindspin_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_neuralnetwork_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Energy_Beam_Crispy" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Metal_Shredded_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_null_lance_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_A_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_nullshield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_precognition_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Shapes\T_Rays_Directional" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_psidomain_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_mod_2x2_B" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_psionicsuplex_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_puppeteer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_reanimation_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_relocate_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_remotefuse_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_shield_projection_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_solace_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_soothe_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_soul_fire_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_B\Textures\T_4x1_Clouds" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\SmokeAlpha_Mid" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_soulsyphon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_stasis_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_subservience_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Energy_Beam_Crispy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psi_void_adept_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psi_void_rift_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_Circuit_Lines" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_4x1_Clouds" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_Shine" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_softRampClamped" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Edge_A" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Splatter_Gradual" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Wood_Splinters_Mask" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\SmokeAlpha_Mid" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Organic_Radial_Lines" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_rift_plumes" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psion_dazzle_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Energy_Beam_Crispy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_psion_fracture_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_psionic_resonator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_quake_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_ragepsychosis_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_reflect_shot_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Wood_Splinters_Mask" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Laser_Gradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_regeneration_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_restorative_mist_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_revival_protocol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_rootingpoison_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_rootingslash_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_scanning_protocol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_scorch_circuits_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_shield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_shieldgenerator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_skirmishervengeance_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_stun_lance_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_stun_strike_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_syntheticvenom_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_targeting_system_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_teamup_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_threat_assessment_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_throwbomb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_throwclaymore_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_throwfraggrenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_throwshrapnel_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_throwstickygrenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_tracking_shot_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_tyranny_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\perk_void_conduit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_volt_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_warcry_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_warden_guard_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_warden_kineticarmor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_warden_supercharge_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_weapon_mods_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_wrath_cannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\perk_writhe_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\praetorian_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\previewvoices_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\progeny_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\progenyleader_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\prop_facelower_blank_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\prop_faceupper_blank_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\psion_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\purifier_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\python_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\r_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ranger_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\reaper_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Glass_Reflection_Noisy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\reaperclaymore_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_B_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="xcomgame\cookedpcconsole\rocketlauncher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ronin_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sacredcoil_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\salvagedsuv_4x2_b_on.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Foliage\T_City_Center_Shrubs_Destro" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_Circuit_Lines" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Radial_LinesT_Radial_Burst" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\salvagedsuv_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\seagulls_cluster_small.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Edge_Masks\T_square_edge_mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\sectoid_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sectopod_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sedan_c_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Destruction_Textures\T_Scattered_Shards" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Fire_Stream_Roiling" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\sedana_3x2_open.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparser" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Radial_LinesT_Radial_Burst" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_B_Soft_SubUV" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Smoke_Trail_SubUV" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Flame_Mask_SubUV" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_B_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\sedanb_4x2_advent_on.upk" />
+    <Package path="xcomgame\cookedpcconsole\shantyfueltower_2x3_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\shantyrv_7x3_c_on.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_A_DMat" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Water_Reflection_Night" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\shelter_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\shelter_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\shieldgenerator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\signalinterceptdevice_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\simpleshapes_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\skirmisher_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Glass_Reflection_Noisy" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\Radial_LinesT_Radial_Burst" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\skulljack_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\skyrangericon_anim_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sldcnvunderlay_std_gd_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\slums_streetsign_fencex1_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\slums_streetsign_fencex1_b.upk" />
+    <Package path="xcomgame\cookedpcconsole\solo.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundbinks_loadingscreen_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundbinks_stop_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundcivilianfemalescreams_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundcivilianmalescreams_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioabilitiesaxiom_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioabilitiesmedic_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioabilitypsionicrift_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambienceprogenytakedown_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencestarport_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencestrategy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalabandoned_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalcitycenter_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalfactory_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalinteriors_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalmercantile_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalriverfrontdocks_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticalstreetsoverpass_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioambiencetacticaltunnels_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiocharactersshared_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiodeprecatedevents_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioglobalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioitemstactical_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiomatineebreachhack_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiomusicmenu_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiomusicstrategy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiomusictactical_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiostrategyui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddiotacticalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\sounddioutility_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundenvironment_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundfx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundtacticalui_hacking_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundtacticalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundx2avatarfx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundx2characterfx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundx2collections_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundx2gremlinfx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\soundx2multiplayer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\spark_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\spectre_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup_loc_chn.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup_loc_cht.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup_loc_jpn.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup_loc_kor.upk" />
+    <Package path="xcomgame\cookedpcconsole\startup.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineMaterials\DefaultDiffuse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\stickygrenade_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\strat_bullpen_armorykismet.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_Soft" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\strat_bullpen_geo.upk" />
+    <Package path="xcomgame\cookedpcconsole\strat_bullpen_roomanimkismet.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Rounded_Digital_Falloff" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_Shine" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Organic_Radial_Lines" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Smoky_Ring" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\strat_bullpen.upk" />
+    <Package path="xcomgame\cookedpcconsole\strat_holooverworld_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\subobj_captureconspirator.upk" />
+    <Package path="xcomgame\cookedpcconsole\subobj_collectevidence.upk" />
+    <Package path="xcomgame\cookedpcconsole\subobj_rescuehostage.upk" />
+    <Package path="xcomgame\cookedpcconsole\tacticalquicklaunch.upk" />
+    <Package path="xcomgame\cookedpcconsole\tacticalresources_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Propane\T_Propane_Tank_DIFF" suffix="1" />
+        <Object id="FX_Psionics_Shared\T_aligned_wisps" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Fiery_Smoke_Long" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_Soft_BeamLines" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Trail_Squiggly" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_clouds_tile" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Machinery_Grit" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparser" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_LF_Screen_Dirty_w_Hexes" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Ink_Scrolling_Misty" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Metal_Shredded_Alien_Mask" suffix="1" />
+        <Object id="FX_Shared_B\Textures\T_wispy_mask" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Splash_Centered" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Energy_Loop" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_D_DMat" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Contrail_Mask" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Dot_3Channel_Falloffs" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_square_edge_mask" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Gritty_Chunks_SubUV" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Snowflakes_SubUV" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_CapsuleCross_Gradient_3Channel" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_LF_Circle" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_LightFlare_horiz" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Rays_Directional" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Star_Flare_Lrg" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Tunnel_Offset" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Bullet_Tracer_SubUV" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+        <Object id="FX_Shared\T_ExplosionStreak" suffix="1" />
+        <Object id="FX_Shared\T_softSmoke2" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Fire_Reflection_Sparse" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Water_Reflection_Night" suffix="1" />
+        <Object id="FX_Water\Reflections\T_Water_Reflection_Tiled_B" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\teeth_default_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\templar_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\terminal_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\terminal_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\thelost_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\throwgrenade.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Trail_Squiggly" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Shine_Halo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\torque_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\torque_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\train_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\trike_3x2_off.upk" />
+    <Package path="xcomgame\cookedpcconsole\trike_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparser" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Lrg_D_DMat" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\trooper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\turret_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uefonts_chn_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uefonts_cht_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uefonts_jpn_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uefonts_kor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ui_range_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ui_waypoint_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ui3d_ctrl_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ui3d_ctrl2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uicollection_common_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uicollection_dropship_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uicollection_shell_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uicollection_strategy_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uicollection_tactical_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uilibrary_missionimages_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uilibrary_mpcards_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uilibrary_xpack_missionimages_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\uilibrary_xpack_photobooth_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ultrasoniclure_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\ums_basicmissiontimer.upk" />
+    <Package path="xcomgame\cookedpcconsole\ums_missioncore.upk" />
+    <Package path="xcomgame\cookedpcconsole\unitcursor_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\veh_flatbed_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\veh_sedan_a_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\veh_sedan_b_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\vendingmachineset_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\verge_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\vignetteconstructionpack_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\viper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\voice_civilianfemale1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\voice_civilianmale1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\voice_civilianunisex1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\warden_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wedge.upk" />
+    <Package path="xcomgame\cookedpcconsole\whisper_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\windrv.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_aidbeacon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_andromedon_acidattack_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_andromedon_cannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_archon_blazing_pinions_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_assaultrifle_bm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_assaultrifle_cv_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ConvAttachments\Textures\Default_LightBeam" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_assaultrifle_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breach_ceasefirebomb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breach_flashbomb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breach_miniscanner_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breach_smokebomb_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breach_targetanalyzer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_breachingrope_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_cannon_bm_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_D_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_cannon_cv_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_cannon_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_cobra_rootingpoison_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_ar_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_bruiser_shield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_pistol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_shotgun_muton_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_shotgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_consp_smg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicar_1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicar_2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicpistol_1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicpistol_2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicshotgun_1_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicshotgun_2_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_epicshotgun_muton_1_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Shapes\T_Star_Flare_Lrg" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_epicshotgun_muton_2_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_StarburstBW" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Horizontal_H" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Screen_Colorizer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_epicsmg_1_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Noise_SuperSparse" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Edge_A" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_square_edge_mask" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_epicsmg_2_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_Circuit_Lines" suffix="1" />
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Horizontal_H" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Screen_Colorizer" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gatekeeper_anima_gate_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Shapes\T_Circuit_Lines" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Caustics" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_A_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Fragments\T_Destruction_Grit_SubUV_NML" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_Star_Flare_Lrg" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+        <Object id="FX_Shared\T_Crater_Height_3Channel" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gp_assaultrifle_beam_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Edge_Masks\T_Soft_Smoke_Maxed" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gp_pistol_muton_beam_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Hit_Decals\Glass\T_Bullethole_Glass_Sml_D_Diff_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Textures\T_LF_Screen_Colorizer" suffix="1" />
+        <Object id="FX_Shared_Textures\T_Raindrops_SubUV" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gp_praetorianshield_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Decals_Damaged_Surfaces\T_Crack_Core" suffix="1" />
+        <Object id="FX_Destruction_Textures\T_Furniture_Innards_DIF" suffix="1" />
+        <Object id="FX_Propane\T_Propane_Tank_DIFF" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Trail_Wispy_Complex" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_clouds_tile" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_FireSmoke_Scrolling_Blurred" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_NoiseSplatter" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared_Bursts_Scattered\T_Destruction_Edge_A" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_C_DMat" suffix="1" />
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_D_DMat" suffix="1" />
+        <Object id="FX_Shared_Shapes\T_LF_Spotlight_Core" suffix="1" />
+        <Object id="FX_Shared_Textures\Spark" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gp_shotgun_muton_beam_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Propane\T_Propane_Tank_DIFF" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Beam_Gradient_3Channel_Clamped" suffix="1" />
+        <Object id="FX_Shared_1D_Tiles\T_Ink_Drop_Long_Soft_BeamLines" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles_Noise_Scattered\T_Machinery_Grit" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Char_Tile_Lg" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_Noise_Globby" suffix="1" />
+        <Object id="FX_Shared\T_Crater_Height_3Channel" suffix="1" />
+        <Object id="FX_Shared\T_Splash" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_gp_smg_beam_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Gaseous\T_clouds_tile" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\Rough_Debris" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_acid_delayed_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_acid_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Scattered\T_Splatter_Gradual" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_ceasefire_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_chrono_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_LF_Blur_Dot_Streaky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_emp_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_1D_Tiles\T_Rounded_Digital_Falloff" suffix="1" />
+        <Object id="FX_Shared_2D_Tiles\T_DiffClouds" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_fire_delayed_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_fire_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_flashbang_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_frag_delayed_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_frag_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_gas_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_lift_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_mimicbeacon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_neuro_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_plasma_delayed_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_plasma_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_smoke_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_tangle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_grenade_teleportdisc_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_gunslingerlancer_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_gunslingerpistol_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_Bursts_Whole\T_Scorch_Sml_A_DMat" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_heavy_blasterlauncher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_heavy_plasmablaster_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_heavy_rocketlauncher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_heavy_shreddergun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_heavy_shredstormcannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_heavyflamethrower_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_helliongauntlet_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_inquisitor_toxicgreeting_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_medikit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_medipatch_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_muton_brute_melee_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_pistol_bm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_pistol_cv_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_pistol_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_archonrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_archonstaff_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_assaultrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_codexrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_pistol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_shotgun_muton_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_shotgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_progeny_smg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_psiamp_bm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_psiamp_cv_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_psiamp_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_roninblades_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_andromedon_cannon_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_assaultrifle_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_flamethrower_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_guardian_shield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_mecgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_meclauncher_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_pistol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_shotgun_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sc_smg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sectopod_turret_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_shieldgenerator_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_shotgun_bm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_shotgun_cv_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_shotgun_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sniperrifle_bm_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Impact_Squibs_Foliage\Foliage_2x2_Mask" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_sniperrifle_cv_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Shared_2D_Tiles_Gaseous\Flame" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_sniperrifle_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sword_bm_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sword_cv_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_sword_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_turret_mg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_viper_poisonspit_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_viper_strangle_and_pull_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_wardenpistol_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_wardenshield_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_xcomar_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_xcomshotgun_muton_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_xcomshotgun_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ConvAttachments\Textures\Default_LightBeam" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="xcomgame\cookedpcconsole\wp_xcomsmg_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\wp_zombiefist_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\x2_photographer.upk" />
+    <Package path="xcomgame\cookedpcconsole\x2tacticalwavedata_sf_loc_int.upk" />
+    <Package path="xcomgame\cookedpcconsole\x2tacticalwavedata_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\x2tacticalwavedatacue_sf_loc_int.upk" />
+    <Package path="xcomgame\cookedpcconsole\x2tacticalwavedatacue_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xb0_xcom2_overworldicons_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xcomgame.upk" />
+    <Package path="xcomgame\cookedpcconsole\xpack_soundcharacterfx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xpack_soundglobalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xpack_soundstrategyui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xpack_soundtacticalui_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\xpad_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\zephyr_facefx_sf.upk" />
+    <Package path="xcomgame\cookedpcconsole\zephyr_sf.upk" />
+  </Packages>
+</IdRemapping>

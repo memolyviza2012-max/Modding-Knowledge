@@ -1,0 +1,180 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\ls3dmenu.ukx" />
+    <Package path="animations\lsanimatedobjects.ukx" />
+    <Package path="animations\lsdoorsdrawers.ukx" />
+    <Package path="animations\lsgameplayobjects.ukx" />
+    <Package path="animations\snicketadults.ukx" />
+    <Package path="animations\snicketbeasts.ukx" />
+    <Package path="animations\snicketkids_16.ukx" />
+    <Package path="animations\snicketkids_32.ukx" />
+    <Package path="animations\testanim.ukx" />
+    <Package path="maps\brinybeach.unr" />
+    <Package path="maps\cruelcrossing.unr" />
+    <Package path="maps\curdledcave.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\damoclesdock_map.unr" />
+    <Package path="maps\entry.unr" />
+    <Package path="maps\fetidfactory_map.unr" />
+    <Package path="maps\hedgemaze.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\ingredients_map.unr" />
+    <Package path="maps\intromenu.unr" />
+    <Package path="maps\longlibrary.unr" />
+    <Package path="maps\marvelousmarriage_map.unr" />
+    <Package path="maps\onerousolaf_map.unr" />
+    <Package path="maps\reptileroom.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\tiltedtower_map.unr" />
+    <Package path="maps\widewindow.unr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="Alphamaps\DD_CS_Path2" suffix="1" />
+        <Object id="Alphamaps\DD_CS_Terrain2" suffix="1" />
+        <Object id="Heightmaps\DD_CS_Terrain" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="sounds\alldialog.uax" />
+    <Package path="sounds\ambient_creatures.uax" />
+    <Package path="sounds\baldman.uax" />
+    <Package path="sounds\blank.uax" />
+    <Package path="sounds\briny_beach.uax" />
+    <Package path="sounds\cruel_crossing.uax" />
+    <Package path="sounds\curdled_cave.uax" />
+    <Package path="sounds\damocles_dock.uax" />
+    <Package path="sounds\doors.uax" />
+    <Package path="sounds\fetid_factory.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\hedge_maze.uax" />
+    <Package path="sounds\hookhand.uax" />
+    <Package path="sounds\ingedients_map.uax" />
+    <Package path="sounds\inventions.uax" />
+    <Package path="sounds\items.uax" />
+    <Package path="sounds\klaus.uax" />
+    <Package path="sounds\kw_ui.uax" />
+    <Package path="sounds\long_library.uax" />
+    <Package path="sounds\marvelousmarriage.uax" />
+    <Package path="sounds\menu.uax" />
+    <Package path="sounds\olaf.uax" />
+    <Package path="sounds\onerous_olaf.uax" />
+    <Package path="sounds\projectiles.uax" />
+    <Package path="sounds\reptile_room.uax" />
+    <Package path="sounds\smashable_items.uax" />
+    <Package path="sounds\soundeffects.uax" />
+    <Package path="sounds\sunny.uax" />
+    <Package path="sounds\tilted_tower.uax" />
+    <Package path="sounds\violet.uax" />
+    <Package path="sounds\widewindow_sfx.uax" />
+    <Package path="staticmeshes\brineybeachobjects.usx" />
+    <Package path="staticmeshes\caveobjects.usx" />
+    <Package path="staticmeshes\ccrossingobjects.usx" />
+    <Package path="staticmeshes\ddockarchitecture.usx" />
+    <Package path="staticmeshes\ddockobjects.usx" />
+    <Package path="staticmeshes\factoryarchitecture.usx" />
+    <Package path="staticmeshes\factoryobjects.usx" />
+    <Package path="staticmeshes\hedgemazearchitectualobjects.usx" />
+    <Package path="staticmeshes\hedgemazeobjects.usx" />
+    <Package path="staticmeshes\interactiveobjectssm.usx" />
+    <Package path="staticmeshes\josephinearchitectualobjects.usx" />
+    <Package path="staticmeshes\josephineobjects.usx" />
+    <Package path="staticmeshes\lscutsceneobjects.usx" />
+    <Package path="staticmeshes\marvelousmarriagearchitecture.usx" />
+    <Package path="staticmeshes\marvelousmarriageobjects.usx" />
+    <Package path="staticmeshes\montyarchitecture.usx" />
+    <Package path="staticmeshes\montyobjects.usx" />
+    <Package path="staticmeshes\olafarchitecture.usx" />
+    <Package path="staticmeshes\olafmeshes_hw.usx" />
+    <Package path="staticmeshes\olafmeshes_sw.usx" />
+    <Package path="staticmeshes\olafobjects.usx" />
+    <Package path="staticmeshes\olafstower_sm.usx" />
+    <Package path="staticmeshes\particlemeshsm.usx" />
+    <Package path="staticmeshes\skyboxsm.usx" />
+    <Package path="staticmeshes\straussarcitecture.usx" />
+    <Package path="staticmeshes\straussobjects.usx" />
+    <Package path="staticmeshes\testmoveractor.usx" />
+    <Package path="staticmeshes\tiltedtowerarchitecturalsm.usx" />
+    <Package path="staticmeshes\tiltedtowerobjects.usx" />
+    <Package path="system\ambientcreatures.u" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\kwgame.u" />
+    <Package path="system\lsgame.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\brineybeachenvironmenttex.utx" />
+    <Package path="textures\brineybeachobjecttex.utx" />
+    <Package path="textures\ccrossing_matswitch.utx" />
+    <Package path="textures\ccrossingenvironmenttex.utx" />
+    <Package path="textures\ccrossingobjecttex.utx" />
+    <Package path="textures\curdledcavetex.utx" />
+    <Package path="textures\ddockarchitecturetex.utx" />
+    <Package path="textures\ddockenvironmenttex.utx" />
+    <Package path="textures\ddockobjectstex.utx" />
+    <Package path="textures\factoryarchitecturaltex.utx" />
+    <Package path="textures\factoryenvironmenttex.utx" />
+    <Package path="textures\factoryobjecttex.utx" />
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\hedgemazearchitectualobjectstex.utx" />
+    <Package path="textures\hedgemazeenvironmenttex.utx" />
+    <Package path="textures\hedgemazeobjecttex.utx" />
+    <Package path="textures\hp_fx.utx" />
+    <Package path="textures\interactiveobjectstex.utx" />
+    <Package path="textures\josephinearchitectualobjecttex.utx" />
+    <Package path="textures\josephineenvironmenttex.utx" />
+    <Package path="textures\josephineobjecttex.utx" />
+    <Package path="textures\jstraussenvironmenttex.utx" />
+    <Package path="textures\kwmenu.utx" />
+    <Package path="textures\ls_fonts.utx" />
+    <Package path="textures\ls_menu.utx" />
+    <Package path="textures\lsanimatedobjectstex.utx" />
+    <Package path="textures\lscubemaptex.utx" />
+    <Package path="textures\lscutscenetex.utx" />
+    <Package path="textures\lsdecaltexture.utx" />
+    <Package path="textures\lsemittertex.utx" />
+    <Package path="textures\lsgameplayobjectstex.utx" />
+    <Package path="textures\lssky.utx" />
+    <Package path="textures\lswettextures.utx" />
+    <Package path="textures\marriagearchitecturetex.utx" />
+    <Package path="textures\marriageenvironmenttex.utx" />
+    <Package path="textures\marriageobjecttex.utx" />
+    <Package path="textures\montyarchitecturetex.utx" />
+    <Package path="textures\montyenvironmenttex.utx" />
+    <Package path="textures\montyobjectstex.utx" />
+    <Package path="textures\olafarchitecturetex.utx" />
+    <Package path="textures\olafenvironmenttex.utx" />
+    <Package path="textures\olafobjecttex.utx" />
+    <Package path="textures\olaftower_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall\OlafBrick" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\palettes.utx" />
+    <Package path="textures\snickadulttex.utx" />
+    <Package path="textures\snickbeasttex.utx" />
+    <Package path="textures\snickkidtex.utx" />
+    <Package path="textures\straussarchitecturetex.utx" />
+    <Package path="textures\straussobjectstex.utx" />
+    <Package path="textures\tiltedtowerarchitecturetex.utx" />
+    <Package path="textures\tiltedtowerobjectstex.utx" />
+    <Package path="textures\ut2003fonts.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\warfarefonts.utx" />
+  </Packages>
+</IdRemapping>

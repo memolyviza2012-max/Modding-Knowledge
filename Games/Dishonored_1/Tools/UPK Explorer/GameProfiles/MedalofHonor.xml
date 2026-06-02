@@ -1,0 +1,6 @@
+﻿<Game packageFileVersion="581" packageLicenseeVersion="58" TFCMappingFileName="Medal of Honor" enableUpdateStats="False" checkDupplicateIds="False" hasHashCheck="true" gameExeFilePath="Binaries\moh.exe"  xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<ExcludedFile>MOHAGame\CookedPC\020_BGRM_IntroRailride_Des.upk</ExcludedFile>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="MOHAGame\CookedPC\*" TFCpath="MOHAGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

@@ -1,0 +1,3055 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="asset\ac_event_a_mapassets.xxx" />
+    <Package path="asset\ac_event_a.xxx" />
+    <Package path="asset\alien_charintro_mapassets.xxx" />
+    <Package path="asset\alien_charintro.xxx" />
+    <Package path="asset\alien_fatality1_mapassets.xxx" />
+    <Package path="asset\alien_fatality1.xxx" />
+    <Package path="asset\alien_fatality2_mapassets.xxx" />
+    <Package path="asset\alien_fatality2.xxx" />
+    <Package path="asset\alien_victory_mapassets.xxx" />
+    <Package path="asset\alien_victory.xxx" />
+    <Package path="asset\alien_xray_p_mapassets.xxx" />
+    <Package path="asset\alien_xray_p.xxx" />
+    <Package path="asset\arttool_scriptassets.xxx" />
+    <Package path="asset\aztec_charintro_mapassets.xxx" />
+    <Package path="asset\aztec_charintro.xxx" />
+    <Package path="asset\aztec_fatality1_a_mapassets.xxx" />
+    <Package path="asset\aztec_fatality1_a.xxx" />
+    <Package path="asset\aztec_fatality1_mapassets.xxx" />
+    <Package path="asset\aztec_fatality1.xxx" />
+    <Package path="asset\aztec_fatality2_mapassets.xxx" />
+    <Package path="asset\aztec_fatality2.xxx" />
+    <Package path="asset\aztec_victory_mapassets.xxx" />
+    <Package path="asset\aztec_victory.xxx" />
+    <Package path="asset\baraka_a_scriptassets.xxx" />
+    <Package path="asset\baraka_a.xxx" />
+    <Package path="asset\bd_fatality_scriptassets.xxx" />
+    <Package path="asset\bd_fatality3_a_mapassets.xxx" />
+    <Package path="asset\bd_fatality3_a.xxx" />
+    <Package path="asset\bgnd_azteccourtyard_mapassets.xxx" />
+    <Package path="asset\bgnd_azteccourtyard_scriptassets.xxx" />
+    <Package path="asset\bgnd_azteccourtyard.xxx" />
+    <Package path="asset\bgnd_charactertest_mapassets.xxx" />
+    <Package path="asset\bgnd_charactertest_scriptassets.xxx" />
+    <Package path="asset\bgnd_charactertest.xxx" />
+    <Package path="asset\bgnd_characterviewer_mapassets.xxx" />
+    <Package path="asset\bgnd_characterviewer_scriptassets.xxx" />
+    <Package path="asset\bgnd_characterviewer.xxx" />
+    <Package path="asset\bgnd_cove_mapassets.xxx" />
+    <Package path="asset\bgnd_cove_scriptassets.xxx" />
+    <Package path="asset\bgnd_cove.xxx" />
+    <Package path="asset\bgnd_crossroads_mapassets.xxx" />
+    <Package path="asset\bgnd_crossroads_scriptassets.xxx" />
+    <Package path="asset\bgnd_crossroads.xxx" />
+    <Package path="asset\bgnd_destroyedcity_mapassets.xxx" />
+    <Package path="asset\bgnd_destroyedcity_scriptassets.xxx" />
+    <Package path="asset\bgnd_destroyedcity.xxx" />
+    <Package path="asset\bgnd_destroyedcitypast_mapassets.xxx" />
+    <Package path="asset\bgnd_destroyedcitypast_scriptassets.xxx" />
+    <Package path="asset\bgnd_destroyedcitypast.xxx" />
+    <Package path="asset\bgnd_jinseichamber_mapassets.xxx" />
+    <Package path="asset\bgnd_jinseichamber_scriptassets.xxx" />
+    <Package path="asset\bgnd_jinseichamber.xxx" />
+    <Package path="asset\bgnd_jinseichamberred_mapassets.xxx" />
+    <Package path="asset\bgnd_jinseichamberred_scriptassets.xxx" />
+    <Package path="asset\bgnd_jinseichamberred.xxx" />
+    <Package path="asset\bgnd_jungle_mapassets.xxx" />
+    <Package path="asset\bgnd_jungle_scriptassets.xxx" />
+    <Package path="asset\bgnd_jungle.xxx" />
+    <Package path="asset\bgnd_kr_il_tunnel_mapassets.xxx" />
+    <Package path="asset\bgnd_kr_il_tunnel_scriptassets.xxx" />
+    <Package path="asset\bgnd_kr_il_tunnel.xxx" />
+    <Package path="asset\bgnd_kr_kahntomb_mapassets.xxx" />
+    <Package path="asset\bgnd_kr_kahntomb_scriptassets.xxx" />
+    <Package path="asset\bgnd_kr_kahntomb.xxx" />
+    <Package path="asset\bgnd_kr_snowforest_mapassets.xxx" />
+    <Package path="asset\bgnd_kr_snowforest_scriptassets.xxx" />
+    <Package path="asset\bgnd_kr_snowforest.xxx" />
+    <Package path="asset\bgnd_linkueitemple_mapassets.xxx" />
+    <Package path="asset\bgnd_linkueitemple_scriptassets.xxx" />
+    <Package path="asset\bgnd_linkueitemple.xxx" />
+    <Package path="asset\bgnd_owmarketplace_mapassets.xxx" />
+    <Package path="asset\bgnd_owmarketplace_scriptassets.xxx" />
+    <Package path="asset\bgnd_owmarketplace.xxx" />
+    <Package path="asset\bgnd_pit_mapassets.xxx" />
+    <Package path="asset\bgnd_pit_scriptassets.xxx" />
+    <Package path="asset\bgnd_pit.xxx" />
+    <Package path="asset\bgnd_quanchifortress_mapassets.xxx" />
+    <Package path="asset\bgnd_quanchifortress_scriptassets.xxx" />
+    <Package path="asset\bgnd_quanchifortress.xxx" />
+    <Package path="asset\bgnd_refugeecamp_mapassets.xxx" />
+    <Package path="asset\bgnd_refugeecamp_scriptassets.xxx" />
+    <Package path="asset\bgnd_refugeecamp.xxx" />
+    <Package path="asset\bgnd_skytemple_mapassets.xxx" />
+    <Package path="asset\bgnd_skytemple_scriptassets.xxx" />
+    <Package path="asset\bgnd_skytemple.xxx" />
+    <Package path="asset\bgnd_skytemplered_mapassets.xxx" />
+    <Package path="asset\bgnd_skytemplered_scriptassets.xxx" />
+    <Package path="asset\bgnd_skytemplered.xxx" />
+    <Package path="asset\bgnd_snowforest_mapassets.xxx" />
+    <Package path="asset\bgnd_snowforest_scriptassets.xxx" />
+    <Package path="asset\bgnd_snowforest.xxx" />
+    <Package path="asset\bgnd_snowforestred_mapassets.xxx" />
+    <Package path="asset\bgnd_snowforestred_scriptassets.xxx" />
+    <Package path="asset\bgnd_snowforestred.xxx" />
+    <Package path="asset\bgnd_trainingroom_mapassets.xxx" />
+    <Package path="asset\bgnd_trainingroom_scriptassets.xxx" />
+    <Package path="asset\bgnd_trainingroom.xxx" />
+    <Package path="asset\bgnd_tym_bladrag_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_bladrag_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_bladrag.xxx" />
+    <Package path="asset\bgnd_tym_broshad_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_broshad_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_broshad.xxx" />
+    <Package path="asset\bgnd_tym_linkuei_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_linkuei_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_linkuei.xxx" />
+    <Package path="asset\bgnd_tym_sf_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_sf_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_sf.xxx" />
+    <Package path="asset\bgnd_tym_speforc_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_speforc_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_speforc.xxx" />
+    <Package path="asset\bgnd_tym_whilotu_mapassets.xxx" />
+    <Package path="asset\bgnd_tym_whilotu_scriptassets.xxx" />
+    <Package path="asset\bgnd_tym_whilotu.xxx" />
+    <Package path="asset\billboard_alien.xxx" />
+    <Package path="asset\billboard_apocalypseskinpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_boraicho.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_brazilskins.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_easyfatality.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_goro_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_horrorpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_jason.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_jasonbundle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_klassicfatality1pack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_klassicfatality2pack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_klassicpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_klassicpack2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_koldwar.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_kombatpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_kombatpack2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_kosplayskinpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_krimsonermac.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_leatherface.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_predator.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_predatorbundle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_preyskinpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_samuraipack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="22" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_scorpion_j.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_scorpion_v.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_storedefault.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_subzero_v.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="26" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_tanya.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_tanyabundle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_tremor.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_tremorbundle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="30" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_triborg.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_unlockallkrypt.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="asset\billboard_xlpack.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PanelImage" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="asset\boraichodlc_charintro_mapassets.xxx" />
+    <Package path="asset\boraichodlc_charintro.xxx" />
+    <Package path="asset\boraichodlc_fatality1_a_mapassets.xxx" />
+    <Package path="asset\boraichodlc_fatality1_a.xxx" />
+    <Package path="asset\boraichodlc_fatality1_mapassets.xxx" />
+    <Package path="asset\boraichodlc_fatality1_p_mapassets.xxx" />
+    <Package path="asset\boraichodlc_fatality1_p.xxx" />
+    <Package path="asset\boraichodlc_fatality1.xxx" />
+    <Package path="asset\boraichodlc_fatality2_mapassets.xxx" />
+    <Package path="asset\boraichodlc_fatality2.xxx" />
+    <Package path="asset\boraichodlc_victory_mapassets.xxx" />
+    <Package path="asset\boraichodlc_victory.xxx" />
+    <Package path="asset\bs_fatality_scriptassets.xxx" />
+    <Package path="asset\bs_fatality5_a_mapassets.xxx" />
+    <Package path="asset\bs_fatality5_a.xxx" />
+    <Package path="asset\cagejr_charintro_mapassets.xxx" />
+    <Package path="asset\cagejr_charintro_n_mapassets.xxx" />
+    <Package path="asset\cagejr_charintro_n.xxx" />
+    <Package path="asset\cagejr_charintro.xxx" />
+    <Package path="asset\cagejr_fatality1_mapassets.xxx" />
+    <Package path="asset\cagejr_fatality1_n_mapassets.xxx" />
+    <Package path="asset\cagejr_fatality1_n.xxx" />
+    <Package path="asset\cagejr_fatality1.xxx" />
+    <Package path="asset\cagejr_fatality2_mapassets.xxx" />
+    <Package path="asset\cagejr_fatality2.xxx" />
+    <Package path="asset\cagejr_victory_mapassets.xxx" />
+    <Package path="asset\cagejr_victory.xxx" />
+    <Package path="asset\cagejr_xray_a_mapassets.xxx" />
+    <Package path="asset\cagejr_xray_a.xxx" />
+    <Package path="asset\char_alien_a_scriptassets.xxx" />
+    <Package path="asset\char_alien_a.xxx" />
+    <Package path="asset\char_aztec_a_scriptassets.xxx" />
+    <Package path="asset\char_aztec_a.xxx" />
+    <Package path="asset\char_aztec_b_scriptassets.xxx" />
+    <Package path="asset\char_aztec_b.xxx" />
+    <Package path="asset\char_aztec_e_scriptassets.xxx" />
+    <Package path="asset\char_aztec_e.xxx" />
+    <Package path="asset\char_boraichodlc_a_scriptassets.xxx" />
+    <Package path="asset\char_boraichodlc_a.xxx" />
+    <Package path="asset\char_cagejr_a_scriptassets.xxx" />
+    <Package path="asset\char_cagejr_a.xxx" />
+    <Package path="asset\char_cagejr_b_scriptassets.xxx" />
+    <Package path="asset\char_cagejr_b.xxx" />
+    <Package path="asset\char_cagejr_n_scriptassets.xxx" />
+    <Package path="asset\char_cagejr_n.xxx" />
+    <Package path="asset\char_cagejr_o_scriptassets.xxx" />
+    <Package path="asset\char_cagejr_o.xxx" />
+    <Package path="asset\char_ermac_a_scriptassets.xxx" />
+    <Package path="asset\char_ermac_a.xxx" />
+    <Package path="asset\char_ermac_b_scriptassets.xxx" />
+    <Package path="asset\char_ermac_b.xxx" />
+    <Package path="asset\char_ermac_h_scriptassets.xxx" />
+    <Package path="asset\char_ermac_h.xxx" />
+    <Package path="asset\char_ermac_n_scriptassets.xxx" />
+    <Package path="asset\char_ermac_n.xxx" />
+    <Package path="asset\char_ermac_v_scriptassets.xxx" />
+    <Package path="asset\char_ermac_v.xxx" />
+    <Package path="asset\char_goro_a_scriptassets.xxx" />
+    <Package path="asset\char_goro_a.xxx" />
+    <Package path="asset\char_jason_a_scriptassets.xxx" />
+    <Package path="asset\char_jason_a.xxx" />
+    <Package path="asset\char_jax_a_scriptassets.xxx" />
+    <Package path="asset\char_jax_a.xxx" />
+    <Package path="asset\char_jax_b_scriptassets.xxx" />
+    <Package path="asset\char_jax_b.xxx" />
+    <Package path="asset\char_jax_c_scriptassets.xxx" />
+    <Package path="asset\char_jax_c.xxx" />
+    <Package path="asset\char_jax_m_scriptassets.xxx" />
+    <Package path="asset\char_jax_m.xxx" />
+    <Package path="asset\char_jax_p_scriptassets.xxx" />
+    <Package path="asset\char_jax_p.xxx" />
+    <Package path="asset\char_jax_y_scriptassets.xxx" />
+    <Package path="asset\char_jax_y.xxx" />
+    <Package path="asset\char_jaxjr_a_scriptassets.xxx" />
+    <Package path="asset\char_jaxjr_a.xxx" />
+    <Package path="asset\char_jaxjr_b_scriptassets.xxx" />
+    <Package path="asset\char_jaxjr_b.xxx" />
+    <Package path="asset\char_jaxjr_n_scriptassets.xxx" />
+    <Package path="asset\char_jaxjr_n.xxx" />
+    <Package path="asset\char_jaxjr_o_scriptassets.xxx" />
+    <Package path="asset\char_jaxjr_o.xxx" />
+    <Package path="asset\char_johnnycage_a_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_a.xxx" />
+    <Package path="asset\char_johnnycage_b_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_b.xxx" />
+    <Package path="asset\char_johnnycage_c_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_c.xxx" />
+    <Package path="asset\char_johnnycage_m_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_m.xxx" />
+    <Package path="asset\char_johnnycage_p_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_p.xxx" />
+    <Package path="asset\char_johnnycage_z_scriptassets.xxx" />
+    <Package path="asset\char_johnnycage_z.xxx" />
+    <Package path="asset\char_kano_a_scriptassets.xxx" />
+    <Package path="asset\char_kano_a.xxx" />
+    <Package path="asset\char_kano_b_scriptassets.xxx" />
+    <Package path="asset\char_kano_b.xxx" />
+    <Package path="asset\char_kano_k_scriptassets.xxx" />
+    <Package path="asset\char_kano_k.xxx" />
+    <Package path="asset\char_kano_t_scriptassets.xxx" />
+    <Package path="asset\char_kano_t.xxx" />
+    <Package path="asset\char_kenshi_a_scriptassets.xxx" />
+    <Package path="asset\char_kenshi_a.xxx" />
+    <Package path="asset\char_kenshi_b_scriptassets.xxx" />
+    <Package path="asset\char_kenshi_b.xxx" />
+    <Package path="asset\char_kenshi_f_scriptassets.xxx" />
+    <Package path="asset\char_kenshi_f.xxx" />
+    <Package path="asset\char_kenshijr_a_scriptassets.xxx" />
+    <Package path="asset\char_kenshijr_a.xxx" />
+    <Package path="asset\char_kenshijr_b_scriptassets.xxx" />
+    <Package path="asset\char_kenshijr_b.xxx" />
+    <Package path="asset\char_kenshijr_l_scriptassets.xxx" />
+    <Package path="asset\char_kenshijr_l.xxx" />
+    <Package path="asset\char_kitana_a_scriptassets.xxx" />
+    <Package path="asset\char_kitana_a.xxx" />
+    <Package path="asset\char_kitana_b_scriptassets.xxx" />
+    <Package path="asset\char_kitana_b.xxx" />
+    <Package path="asset\char_kitana_c_scriptassets.xxx" />
+    <Package path="asset\char_kitana_c.xxx" />
+    <Package path="asset\char_kitana_e_scriptassets.xxx" />
+    <Package path="asset\char_kitana_e.xxx" />
+    <Package path="asset\char_kitana_f_scriptassets.xxx" />
+    <Package path="asset\char_kitana_f.xxx" />
+    <Package path="asset\char_kitana_m_scriptassets.xxx" />
+    <Package path="asset\char_kitana_m.xxx" />
+    <Package path="asset\char_kunglao_a_scriptassets.xxx" />
+    <Package path="asset\char_kunglao_a.xxx" />
+    <Package path="asset\char_kunglao_b_scriptassets.xxx" />
+    <Package path="asset\char_kunglao_b.xxx" />
+    <Package path="asset\char_kunglao_c_scriptassets.xxx" />
+    <Package path="asset\char_kunglao_c.xxx" />
+    <Package path="asset\char_kunglao_y_scriptassets.xxx" />
+    <Package path="asset\char_kunglao_y.xxx" />
+    <Package path="asset\char_kunglao_z_scriptassets.xxx" />
+    <Package path="asset\char_kunglao_z.xxx" />
+    <Package path="asset\char_kunglaojr_a_scriptassets.xxx" />
+    <Package path="asset\char_kunglaojr_a.xxx" />
+    <Package path="asset\char_kunglaojr_b_scriptassets.xxx" />
+    <Package path="asset\char_kunglaojr_b.xxx" />
+    <Package path="asset\char_kunglaojr_e_scriptassets.xxx" />
+    <Package path="asset\char_kunglaojr_e.xxx" />
+    <Package path="asset\char_ladybug_a_scriptassets.xxx" />
+    <Package path="asset\char_ladybug_a.xxx" />
+    <Package path="asset\char_ladybug_b_scriptassets.xxx" />
+    <Package path="asset\char_ladybug_b.xxx" />
+    <Package path="asset\char_ladybug_l_scriptassets.xxx" />
+    <Package path="asset\char_ladybug_l.xxx" />
+    <Package path="asset\char_leatherface_a_scriptassets.xxx" />
+    <Package path="asset\char_leatherface_a.xxx" />
+    <Package path="asset\char_leatherface_b_scriptassets.xxx" />
+    <Package path="asset\char_leatherface_b.xxx" />
+    <Package path="asset\char_leatherface_c_scriptassets.xxx" />
+    <Package path="asset\char_leatherface_c.xxx" />
+    <Package path="asset\char_liukang_a_scriptassets.xxx" />
+    <Package path="asset\char_liukang_a.xxx" />
+    <Package path="asset\char_liukang_b_scriptassets.xxx" />
+    <Package path="asset\char_liukang_b.xxx" />
+    <Package path="asset\char_liukang_c_scriptassets.xxx" />
+    <Package path="asset\char_liukang_c.xxx" />
+    <Package path="asset\char_liukang_e_scriptassets.xxx" />
+    <Package path="asset\char_liukang_e.xxx" />
+    <Package path="asset\char_liukang_t_scriptassets.xxx" />
+    <Package path="asset\char_liukang_t.xxx" />
+    <Package path="asset\char_liukang_z_scriptassets.xxx" />
+    <Package path="asset\char_liukang_z.xxx" />
+    <Package path="asset\char_mastermale_a_scriptassets.xxx" />
+    <Package path="asset\char_mastermale_a.xxx" />
+    <Package path="asset\char_mastermale_b_scriptassets.xxx" />
+    <Package path="asset\char_mastermale_b.xxx" />
+    <Package path="asset\char_mastermale_e_scriptassets.xxx" />
+    <Package path="asset\char_mastermale_e.xxx" />
+    <Package path="asset\char_mileena_a_scriptassets.xxx" />
+    <Package path="asset\char_mileena_a.xxx" />
+    <Package path="asset\char_mileena_b_scriptassets.xxx" />
+    <Package path="asset\char_mileena_b.xxx" />
+    <Package path="asset\char_mileena_c_scriptassets.xxx" />
+    <Package path="asset\char_mileena_c.xxx" />
+    <Package path="asset\char_mileena_h_scriptassets.xxx" />
+    <Package path="asset\char_mileena_h.xxx" />
+    <Package path="asset\char_mileena_m_scriptassets.xxx" />
+    <Package path="asset\char_mileena_m.xxx" />
+    <Package path="asset\char_nomad_a_scriptassets.xxx" />
+    <Package path="asset\char_nomad_a.xxx" />
+    <Package path="asset\char_nomad_b_scriptassets.xxx" />
+    <Package path="asset\char_nomad_b.xxx" />
+    <Package path="asset\char_nomad_l_scriptassets.xxx" />
+    <Package path="asset\char_nomad_l.xxx" />
+    <Package path="asset\char_predator_a_scriptassets.xxx" />
+    <Package path="asset\char_predator_a.xxx" />
+    <Package path="asset\char_quanchi_a_scriptassets.xxx" />
+    <Package path="asset\char_quanchi_a.xxx" />
+    <Package path="asset\char_quanchi_b_scriptassets.xxx" />
+    <Package path="asset\char_quanchi_b.xxx" />
+    <Package path="asset\char_quanchi_y_scriptassets.xxx" />
+    <Package path="asset\char_quanchi_y.xxx" />
+    <Package path="asset\char_raiden_a_scriptassets.xxx" />
+    <Package path="asset\char_raiden_a.xxx" />
+    <Package path="asset\char_raiden_b_scriptassets.xxx" />
+    <Package path="asset\char_raiden_b.xxx" />
+    <Package path="asset\char_raiden_c_scriptassets.xxx" />
+    <Package path="asset\char_raiden_c.xxx" />
+    <Package path="asset\char_raiden_i_scriptassets.xxx" />
+    <Package path="asset\char_raiden_i.xxx" />
+    <Package path="asset\char_reptile_a_scriptassets.xxx" />
+    <Package path="asset\char_reptile_a.xxx" />
+    <Package path="asset\char_reptile_b_scriptassets.xxx" />
+    <Package path="asset\char_reptile_b.xxx" />
+    <Package path="asset\char_reptile_h_scriptassets.xxx" />
+    <Package path="asset\char_reptile_h.xxx" />
+    <Package path="asset\char_reptile_n_scriptassets.xxx" />
+    <Package path="asset\char_reptile_n.xxx" />
+    <Package path="asset\char_scorpion_a_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_a.xxx" />
+    <Package path="asset\char_scorpion_b_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_b.xxx" />
+    <Package path="asset\char_scorpion_c_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_c.xxx" />
+    <Package path="asset\char_scorpion_j_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_j.xxx" />
+    <Package path="asset\char_scorpion_m_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_m.xxx" />
+    <Package path="asset\char_scorpion_n_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_n.xxx" />
+    <Package path="asset\char_scorpion_p_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_p.xxx" />
+    <Package path="asset\char_scorpion_v_scriptassets.xxx" />
+    <Package path="asset\char_scorpion_v.xxx" />
+    <Package path="asset\char_shinnok_a_scriptassets.xxx" />
+    <Package path="asset\char_shinnok_a.xxx" />
+    <Package path="asset\char_shinnok_b_scriptassets.xxx" />
+    <Package path="asset\char_shinnok_b.xxx" />
+    <Package path="asset\char_shinnok_f_scriptassets.xxx" />
+    <Package path="asset\char_shinnok_f.xxx" />
+    <Package path="asset\char_sonya_a_scriptassets.xxx" />
+    <Package path="asset\char_sonya_a.xxx" />
+    <Package path="asset\char_sonya_b_scriptassets.xxx" />
+    <Package path="asset\char_sonya_b.xxx" />
+    <Package path="asset\char_sonya_c_scriptassets.xxx" />
+    <Package path="asset\char_sonya_c.xxx" />
+    <Package path="asset\char_sonya_k_scriptassets.xxx" />
+    <Package path="asset\char_sonya_k.xxx" />
+    <Package path="asset\char_sonya_t_scriptassets.xxx" />
+    <Package path="asset\char_sonya_t.xxx" />
+    <Package path="asset\char_subzero_a_scriptassets.xxx" />
+    <Package path="asset\char_subzero_a.xxx" />
+    <Package path="asset\char_subzero_b_scriptassets.xxx" />
+    <Package path="asset\char_subzero_b.xxx" />
+    <Package path="asset\char_subzero_c_scriptassets.xxx" />
+    <Package path="asset\char_subzero_c.xxx" />
+    <Package path="asset\char_subzero_k_scriptassets.xxx" />
+    <Package path="asset\char_subzero_k.xxx" />
+    <Package path="asset\char_subzero_n_scriptassets.xxx" />
+    <Package path="asset\char_subzero_n.xxx" />
+    <Package path="asset\char_subzero_v_scriptassets.xxx" />
+    <Package path="asset\char_subzero_v.xxx" />
+    <Package path="asset\char_tanyadlc_a_scriptassets.xxx" />
+    <Package path="asset\char_tanyadlc_a.xxx" />
+    <Package path="asset\char_tremor_a_scriptassets.xxx" />
+    <Package path="asset\char_tremor_a.xxx" />
+    <Package path="asset\char_triborg_a_scriptassets.xxx" />
+    <Package path="asset\char_triborg_a.xxx" />
+    <Package path="asset\cv_stagefatality_mapassets.xxx" />
+    <Package path="asset\cv_stagefatality.xxx" />
+    <Package path="asset\defaultbillboard_center.xxx" />
+    <Package path="asset\defaultbillboard_left.xxx" />
+    <Package path="asset\defaultbillboard_right.xxx" />
+    <Package path="asset\dism_alien_a.xxx" />
+    <Package path="asset\dism_aztec_a_dlc.xxx" />
+    <Package path="asset\dism_aztec_a.xxx" />
+    <Package path="asset\dism_aztec_b_dlc.xxx" />
+    <Package path="asset\dism_aztec_b.xxx" />
+    <Package path="asset\dism_aztec_e.xxx" />
+    <Package path="asset\dism_boraichodlc_a.xxx" />
+    <Package path="asset\dism_cagejr_a_dlc.xxx" />
+    <Package path="asset\dism_cagejr_a.xxx" />
+    <Package path="asset\dism_cagejr_b_dlc.xxx" />
+    <Package path="asset\dism_cagejr_b.xxx" />
+    <Package path="asset\dism_cagejr_n.xxx" />
+    <Package path="asset\dism_cagejr_o.xxx" />
+    <Package path="asset\dism_ermac_a_dlc.xxx" />
+    <Package path="asset\dism_ermac_a.xxx" />
+    <Package path="asset\dism_ermac_b_dlc.xxx" />
+    <Package path="asset\dism_ermac_b.xxx" />
+    <Package path="asset\dism_ermac_h.xxx" />
+    <Package path="asset\dism_ermac_n.xxx" />
+    <Package path="asset\dism_ermac_v.xxx" />
+    <Package path="asset\dism_female_dlc.xxx" />
+    <Package path="asset\dism_female.xxx" />
+    <Package path="asset\dism_goro_a_dlc.xxx" />
+    <Package path="asset\dism_goro_a.xxx" />
+    <Package path="asset\dism_jason_a.xxx" />
+    <Package path="asset\dism_jax_a_dlc.xxx" />
+    <Package path="asset\dism_jax_a.xxx" />
+    <Package path="asset\dism_jax_b_dlc.xxx" />
+    <Package path="asset\dism_jax_b.xxx" />
+    <Package path="asset\dism_jax_c_dlc.xxx" />
+    <Package path="asset\dism_jax_c.xxx" />
+    <Package path="asset\dism_jax_m_dlc.xxx" />
+    <Package path="asset\dism_jax_m.xxx" />
+    <Package path="asset\dism_jax_p.xxx" />
+    <Package path="asset\dism_jax_y.xxx" />
+    <Package path="asset\dism_jaxjr_a_dlc.xxx" />
+    <Package path="asset\dism_jaxjr_a.xxx" />
+    <Package path="asset\dism_jaxjr_b_dlc.xxx" />
+    <Package path="asset\dism_jaxjr_b.xxx" />
+    <Package path="asset\dism_jaxjr_n.xxx" />
+    <Package path="asset\dism_jaxjr_o.xxx" />
+    <Package path="asset\dism_johnnycage_a_dlc.xxx" />
+    <Package path="asset\dism_johnnycage_a.xxx" />
+    <Package path="asset\dism_johnnycage_b_dlc.xxx" />
+    <Package path="asset\dism_johnnycage_b.xxx" />
+    <Package path="asset\dism_johnnycage_c_dlc.xxx" />
+    <Package path="asset\dism_johnnycage_c.xxx" />
+    <Package path="asset\dism_johnnycage_m_dlc.xxx" />
+    <Package path="asset\dism_johnnycage_m.xxx" />
+    <Package path="asset\dism_johnnycage_p.xxx" />
+    <Package path="asset\dism_johnnycage_z.xxx" />
+    <Package path="asset\dism_kano_a_dlc.xxx" />
+    <Package path="asset\dism_kano_a.xxx" />
+    <Package path="asset\dism_kano_b_dlc.xxx" />
+    <Package path="asset\dism_kano_b.xxx" />
+    <Package path="asset\dism_kano_k.xxx" />
+    <Package path="asset\dism_kano_t.xxx" />
+    <Package path="asset\dism_kenshi_a_dlc.xxx" />
+    <Package path="asset\dism_kenshi_a.xxx" />
+    <Package path="asset\dism_kenshi_b_dlc.xxx" />
+    <Package path="asset\dism_kenshi_b.xxx" />
+    <Package path="asset\dism_kenshi_f.xxx" />
+    <Package path="asset\dism_kenshijr_a_dlc.xxx" />
+    <Package path="asset\dism_kenshijr_a.xxx" />
+    <Package path="asset\dism_kenshijr_b_dlc.xxx" />
+    <Package path="asset\dism_kenshijr_b.xxx" />
+    <Package path="asset\dism_kenshijr_l.xxx" />
+    <Package path="asset\dism_kitana_a_dlc.xxx" />
+    <Package path="asset\dism_kitana_a.xxx" />
+    <Package path="asset\dism_kitana_b_dlc.xxx" />
+    <Package path="asset\dism_kitana_b.xxx" />
+    <Package path="asset\dism_kitana_c_dlc.xxx" />
+    <Package path="asset\dism_kitana_c.xxx" />
+    <Package path="asset\dism_kitana_e_dlc.xxx" />
+    <Package path="asset\dism_kitana_e.xxx" />
+    <Package path="asset\dism_kitana_f.xxx" />
+    <Package path="asset\dism_kitana_m_dlc.xxx" />
+    <Package path="asset\dism_kitana_m.xxx" />
+    <Package path="asset\dism_kunglao_a_dlc.xxx" />
+    <Package path="asset\dism_kunglao_a.xxx" />
+    <Package path="asset\dism_kunglao_b_dlc.xxx" />
+    <Package path="asset\dism_kunglao_b.xxx" />
+    <Package path="asset\dism_kunglao_c_dlc.xxx" />
+    <Package path="asset\dism_kunglao_c.xxx" />
+    <Package path="asset\dism_kunglao_y.xxx" />
+    <Package path="asset\dism_kunglao_z.xxx" />
+    <Package path="asset\dism_kunglaojr_a_dlc.xxx" />
+    <Package path="asset\dism_kunglaojr_a.xxx" />
+    <Package path="asset\dism_kunglaojr_b_dlc.xxx" />
+    <Package path="asset\dism_kunglaojr_b.xxx" />
+    <Package path="asset\dism_kunglaojr_e.xxx" />
+    <Package path="asset\dism_ladybug_a_dlc.xxx" />
+    <Package path="asset\dism_ladybug_a.xxx" />
+    <Package path="asset\dism_ladybug_b_dlc.xxx" />
+    <Package path="asset\dism_ladybug_b.xxx" />
+    <Package path="asset\dism_ladybug_l.xxx" />
+    <Package path="asset\dism_leatherface_a.xxx" />
+    <Package path="asset\dism_leatherface_b.xxx" />
+    <Package path="asset\dism_leatherface_c.xxx" />
+    <Package path="asset\dism_liukang_a_dlc.xxx" />
+    <Package path="asset\dism_liukang_a.xxx" />
+    <Package path="asset\dism_liukang_b_dlc.xxx" />
+    <Package path="asset\dism_liukang_b.xxx" />
+    <Package path="asset\dism_liukang_c_dlc.xxx" />
+    <Package path="asset\dism_liukang_c.xxx" />
+    <Package path="asset\dism_liukang_e_dlc.xxx" />
+    <Package path="asset\dism_liukang_e.xxx" />
+    <Package path="asset\dism_liukang_t.xxx" />
+    <Package path="asset\dism_liukang_z.xxx" />
+    <Package path="asset\dism_male_dlc.xxx" />
+    <Package path="asset\dism_male.xxx" />
+    <Package path="asset\dism_maletall_dlc.xxx" />
+    <Package path="asset\dism_maletall.xxx" />
+    <Package path="asset\dism_mastermale_a_dlc.xxx" />
+    <Package path="asset\dism_mastermale_a.xxx" />
+    <Package path="asset\dism_mastermale_b_dlc.xxx" />
+    <Package path="asset\dism_mastermale_b.xxx" />
+    <Package path="asset\dism_mastermale_dlc.xxx" />
+    <Package path="asset\dism_mastermale_e.xxx" />
+    <Package path="asset\dism_mastermale.xxx" />
+    <Package path="asset\dism_mileena_a_dlc.xxx" />
+    <Package path="asset\dism_mileena_a.xxx" />
+    <Package path="asset\dism_mileena_b_dlc.xxx" />
+    <Package path="asset\dism_mileena_b.xxx" />
+    <Package path="asset\dism_mileena_c_dlc.xxx" />
+    <Package path="asset\dism_mileena_c.xxx" />
+    <Package path="asset\dism_mileena_h.xxx" />
+    <Package path="asset\dism_mileena_m_dlc.xxx" />
+    <Package path="asset\dism_mileena_m.xxx" />
+    <Package path="asset\dism_nomad_a_dlc.xxx" />
+    <Package path="asset\dism_nomad_a.xxx" />
+    <Package path="asset\dism_nomad_b_dlc.xxx" />
+    <Package path="asset\dism_nomad_b.xxx" />
+    <Package path="asset\dism_nomad_l.xxx" />
+    <Package path="asset\dism_predator_a.xxx" />
+    <Package path="asset\dism_quanchi_a_dlc.xxx" />
+    <Package path="asset\dism_quanchi_a.xxx" />
+    <Package path="asset\dism_quanchi_b_dlc.xxx" />
+    <Package path="asset\dism_quanchi_b.xxx" />
+    <Package path="asset\dism_quanchi_y.xxx" />
+    <Package path="asset\dism_raiden_a_dlc.xxx" />
+    <Package path="asset\dism_raiden_a.xxx" />
+    <Package path="asset\dism_raiden_b_dlc.xxx" />
+    <Package path="asset\dism_raiden_b.xxx" />
+    <Package path="asset\dism_raiden_c_dlc.xxx" />
+    <Package path="asset\dism_raiden_c.xxx" />
+    <Package path="asset\dism_raiden_i_dlc.xxx" />
+    <Package path="asset\dism_raiden_i.xxx" />
+    <Package path="asset\dism_reptile_a_dlc.xxx" />
+    <Package path="asset\dism_reptile_a.xxx" />
+    <Package path="asset\dism_reptile_b_dlc.xxx" />
+    <Package path="asset\dism_reptile_b.xxx" />
+    <Package path="asset\dism_reptile_h.xxx" />
+    <Package path="asset\dism_reptile_n.xxx" />
+    <Package path="asset\dism_scorpion_a_dlc.xxx" />
+    <Package path="asset\dism_scorpion_a.xxx" />
+    <Package path="asset\dism_scorpion_b_dlc.xxx" />
+    <Package path="asset\dism_scorpion_b.xxx" />
+    <Package path="asset\dism_scorpion_c_dlc.xxx" />
+    <Package path="asset\dism_scorpion_c.xxx" />
+    <Package path="asset\dism_scorpion_j.xxx" />
+    <Package path="asset\dism_scorpion_m_dlc.xxx" />
+    <Package path="asset\dism_scorpion_m.xxx" />
+    <Package path="asset\dism_scorpion_n.xxx" />
+    <Package path="asset\dism_scorpion_p.xxx" />
+    <Package path="asset\dism_scorpion_v_dlc.xxx" />
+    <Package path="asset\dism_scorpion_v.xxx" />
+    <Package path="asset\dism_shinnok_a_dlc.xxx" />
+    <Package path="asset\dism_shinnok_a.xxx" />
+    <Package path="asset\dism_shinnok_b_dlc.xxx" />
+    <Package path="asset\dism_shinnok_b.xxx" />
+    <Package path="asset\dism_shinnok_f.xxx" />
+    <Package path="asset\dism_shokanmale_dlc.xxx" />
+    <Package path="asset\dism_shokanmale.xxx" />
+    <Package path="asset\dism_sonya_a_dlc.xxx" />
+    <Package path="asset\dism_sonya_a.xxx" />
+    <Package path="asset\dism_sonya_b_dlc.xxx" />
+    <Package path="asset\dism_sonya_b.xxx" />
+    <Package path="asset\dism_sonya_c_dlc.xxx" />
+    <Package path="asset\dism_sonya_c.xxx" />
+    <Package path="asset\dism_sonya_k.xxx" />
+    <Package path="asset\dism_sonya_t.xxx" />
+    <Package path="asset\dism_subzero_a_dlc.xxx" />
+    <Package path="asset\dism_subzero_a.xxx" />
+    <Package path="asset\dism_subzero_b_dlc.xxx" />
+    <Package path="asset\dism_subzero_b.xxx" />
+    <Package path="asset\dism_subzero_c_dlc.xxx" />
+    <Package path="asset\dism_subzero_c.xxx" />
+    <Package path="asset\dism_subzero_k.xxx" />
+    <Package path="asset\dism_subzero_n.xxx" />
+    <Package path="asset\dism_subzero_v.xxx" />
+    <Package path="asset\dism_tanyadlc_a.xxx" />
+    <Package path="asset\dism_tremor_a.xxx" />
+    <Package path="asset\dism_triborg_a.xxx" />
+    <Package path="asset\dlcladderreliefs_scriptassets.xxx" />
+    <Package path="asset\dlcpredatorladderfights_scriptassets.xxx" />
+    <Package path="asset\dlctanyaladderfights_scriptassets.xxx" />
+    <Package path="asset\dlctremorladderfights_scriptassets.xxx" />
+    <Package path="asset\empty_map_mapassets.xxx" />
+    <Package path="asset\empty_map.xxx" />
+    <Package path="asset\ermac_charintro_mapassets.xxx" />
+    <Package path="asset\ermac_charintro.xxx" />
+    <Package path="asset\ermac_fatality1_l_mapassets.xxx" />
+    <Package path="asset\ermac_fatality1_l.xxx" />
+    <Package path="asset\ermac_fatality1_mapassets.xxx" />
+    <Package path="asset\ermac_fatality1.xxx" />
+    <Package path="asset\ermac_fatality2_b_mapassets.xxx" />
+    <Package path="asset\ermac_fatality2_b.xxx" />
+    <Package path="asset\ermac_fatality2_l_mapassets.xxx" />
+    <Package path="asset\ermac_fatality2_l.xxx" />
+    <Package path="asset\ermac_fatality2_mapassets.xxx" />
+    <Package path="asset\ermac_fatality2_t_mapassets.xxx" />
+    <Package path="asset\ermac_fatality2_t.xxx" />
+    <Package path="asset\ermac_fatality2.xxx" />
+    <Package path="asset\ermac_victory_mapassets.xxx" />
+    <Package path="asset\ermac_victory.xxx" />
+    <Package path="asset\fightingart_scriptassets.xxx" />
+    <Package path="asset\galleryart1.xxx" />
+    <Package path="asset\galleryart10.xxx" />
+    <Package path="asset\galleryart11.xxx" />
+    <Package path="asset\galleryart12.xxx" />
+    <Package path="asset\galleryart13.xxx" />
+    <Package path="asset\galleryart14.xxx" />
+    <Package path="asset\galleryart15.xxx" />
+    <Package path="asset\galleryart16.xxx" />
+    <Package path="asset\galleryart17.xxx" />
+    <Package path="asset\galleryart18.xxx" />
+    <Package path="asset\galleryart19.xxx" />
+    <Package path="asset\galleryart2.xxx" />
+    <Package path="asset\galleryart20.xxx" />
+    <Package path="asset\galleryart21.xxx" />
+    <Package path="asset\galleryart22.xxx" />
+    <Package path="asset\galleryart23.xxx" />
+    <Package path="asset\galleryart24.xxx" />
+    <Package path="asset\galleryart25.xxx" />
+    <Package path="asset\galleryart3.xxx" />
+    <Package path="asset\galleryart4.xxx" />
+    <Package path="asset\galleryart5.xxx" />
+    <Package path="asset\galleryart6.xxx" />
+    <Package path="asset\galleryart7.xxx" />
+    <Package path="asset\galleryart8.xxx" />
+    <Package path="asset\galleryart9.xxx" />
+    <Package path="asset\galleryartdlc0.xxx" />
+    <Package path="asset\galleryartdlc1.xxx" />
+    <Package path="asset\galleryartdlc2.xxx" />
+    <Package path="asset\goro_charintro_mapassets.xxx" />
+    <Package path="asset\goro_charintro.xxx" />
+    <Package path="asset\goro_fatality1_mapassets.xxx" />
+    <Package path="asset\goro_fatality1.xxx" />
+    <Package path="asset\goro_fatality2_mapassets.xxx" />
+    <Package path="asset\goro_fatality2.xxx" />
+    <Package path="asset\goro_victory_mapassets.xxx" />
+    <Package path="asset\goro_victory.xxx" />
+    <Package path="asset\goro_xray_b_mapassets.xxx" />
+    <Package path="asset\goro_xray_b.xxx" />
+    <Package path="asset\jason_charintro_mapassets.xxx" />
+    <Package path="asset\jason_charintro.xxx" />
+    <Package path="asset\jason_fatality1_mapassets.xxx" />
+    <Package path="asset\jason_fatality1.xxx" />
+    <Package path="asset\jason_fatality2_mapassets.xxx" />
+    <Package path="asset\jason_fatality2.xxx" />
+    <Package path="asset\jason_victory_mapassets.xxx" />
+    <Package path="asset\jason_victory.xxx" />
+    <Package path="asset\jax_charintro_mapassets.xxx" />
+    <Package path="asset\jax_charintro.xxx" />
+    <Package path="asset\jax_fatality1_mapassets.xxx" />
+    <Package path="asset\jax_fatality1_p_mapassets.xxx" />
+    <Package path="asset\jax_fatality1_p.xxx" />
+    <Package path="asset\jax_fatality1.xxx" />
+    <Package path="asset\jax_fatality2_b_mapassets.xxx" />
+    <Package path="asset\jax_fatality2_b.xxx" />
+    <Package path="asset\jax_fatality2_mapassets.xxx" />
+    <Package path="asset\jax_fatality2_p_mapassets.xxx" />
+    <Package path="asset\jax_fatality2_p.xxx" />
+    <Package path="asset\jax_fatality2.xxx" />
+    <Package path="asset\jax_fatality3_mapassets.xxx" />
+    <Package path="asset\jax_fatality3.xxx" />
+    <Package path="asset\jax_victory_mapassets.xxx" />
+    <Package path="asset\jax_victory.xxx" />
+    <Package path="asset\jaxjr_charintro_mapassets.xxx" />
+    <Package path="asset\jaxjr_charintro.xxx" />
+    <Package path="asset\jaxjr_fatality1_mapassets.xxx" />
+    <Package path="asset\jaxjr_fatality1.xxx" />
+    <Package path="asset\jaxjr_fatality2_mapassets.xxx" />
+    <Package path="asset\jaxjr_fatality2_p_mapassets.xxx" />
+    <Package path="asset\jaxjr_fatality2_p.xxx" />
+    <Package path="asset\jaxjr_fatality2.xxx" />
+    <Package path="asset\jaxjr_victory_mapassets.xxx" />
+    <Package path="asset\jaxjr_victory.xxx" />
+    <Package path="asset\jaxjr_xray_a_mapassets.xxx" />
+    <Package path="asset\jaxjr_xray_a.xxx" />
+    <Package path="asset\johnnycage_charintro_mapassets.xxx" />
+    <Package path="asset\johnnycage_charintro.xxx" />
+    <Package path="asset\johnnycage_fatality1_mapassets.xxx" />
+    <Package path="asset\johnnycage_fatality1.xxx" />
+    <Package path="asset\johnnycage_fatality2_a_mapassets.xxx" />
+    <Package path="asset\johnnycage_fatality2_a.xxx" />
+    <Package path="asset\johnnycage_fatality2_mapassets.xxx" />
+    <Package path="asset\johnnycage_fatality2.xxx" />
+    <Package path="asset\johnnycage_fatality3_mapassets.xxx" />
+    <Package path="asset\johnnycage_fatality3.xxx" />
+    <Package path="asset\johnnycage_victory_mapassets.xxx" />
+    <Package path="asset\johnnycage_victory.xxx" />
+    <Package path="asset\kano_charintro_mapassets.xxx" />
+    <Package path="asset\kano_charintro.xxx" />
+    <Package path="asset\kano_fatality1_mapassets.xxx" />
+    <Package path="asset\kano_fatality1_p_mapassets.xxx" />
+    <Package path="asset\kano_fatality1_p.xxx" />
+    <Package path="asset\kano_fatality1.xxx" />
+    <Package path="asset\kano_fatality2_mapassets.xxx" />
+    <Package path="asset\kano_fatality2.xxx" />
+    <Package path="asset\kano_victory_mapassets.xxx" />
+    <Package path="asset\kano_victory.xxx" />
+    <Package path="asset\kenshi_charintro_mapassets.xxx" />
+    <Package path="asset\kenshi_charintro.xxx" />
+    <Package path="asset\kenshi_fatality1_mapassets.xxx" />
+    <Package path="asset\kenshi_fatality1.xxx" />
+    <Package path="asset\kenshi_fatality2_mapassets.xxx" />
+    <Package path="asset\kenshi_fatality2.xxx" />
+    <Package path="asset\kenshi_victory_mapassets.xxx" />
+    <Package path="asset\kenshi_victory.xxx" />
+    <Package path="asset\kenshijr_charintro_mapassets.xxx" />
+    <Package path="asset\kenshijr_charintro.xxx" />
+    <Package path="asset\kenshijr_fatality1_mapassets.xxx" />
+    <Package path="asset\kenshijr_fatality1.xxx" />
+    <Package path="asset\kenshijr_fatality2_mapassets.xxx" />
+    <Package path="asset\kenshijr_fatality2_p_mapassets.xxx" />
+    <Package path="asset\kenshijr_fatality2_p.xxx" />
+    <Package path="asset\kenshijr_fatality2.xxx" />
+    <Package path="asset\kenshijr_victory_mapassets.xxx" />
+    <Package path="asset\kenshijr_victory.xxx" />
+    <Package path="asset\kitana_charintro_mapassets.xxx" />
+    <Package path="asset\kitana_charintro.xxx" />
+    <Package path="asset\kitana_fatality1_mapassets.xxx" />
+    <Package path="asset\kitana_fatality1.xxx" />
+    <Package path="asset\kitana_fatality2_mapassets.xxx" />
+    <Package path="asset\kitana_fatality2.xxx" />
+    <Package path="asset\kitana_fatality3_mapassets.xxx" />
+    <Package path="asset\kitana_fatality3.xxx" />
+    <Package path="asset\kitana_victory_mapassets.xxx" />
+    <Package path="asset\kitana_victory.xxx" />
+    <Package path="asset\kitana_xray_p_mapassets.xxx" />
+    <Package path="asset\kitana_xray_p.xxx" />
+    <Package path="asset\kryptload_cemetery_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image1" suffix="1" />
+        <Object id="image2" suffix="2" />
+        <Object id="image3" suffix="2" />
+        <Object id="image4" suffix="1" />
+        <Object id="image5" suffix="1" />
+        <Object id="image6" suffix="2" />
+        <Object id="image7" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="asset\kryptload_cemetery_b.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="1" />
+        <Object id="image1" suffix="2" />
+        <Object id="image2" suffix="3" />
+        <Object id="image3" suffix="3" />
+        <Object id="image4" suffix="2" />
+        <Object id="image5" suffix="2" />
+        <Object id="image6" suffix="3" />
+        <Object id="image7" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="asset\kryptload_tomb_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="2" />
+        <Object id="image1" suffix="3" />
+        <Object id="image2" suffix="4" />
+        <Object id="image3" suffix="4" />
+        <Object id="image4" suffix="3" />
+        <Object id="image5" suffix="3" />
+        <Object id="image6" suffix="4" />
+        <Object id="image7" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="asset\kryptload_tomb_b.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="3" />
+        <Object id="image1" suffix="4" />
+        <Object id="image2" suffix="5" />
+        <Object id="image3" suffix="5" />
+        <Object id="image4" suffix="4" />
+        <Object id="image5" suffix="4" />
+        <Object id="image6" suffix="5" />
+        <Object id="image7" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="asset\kryptload_tunnels_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="4" />
+        <Object id="image1" suffix="5" />
+        <Object id="image2" suffix="6" />
+        <Object id="image3" suffix="6" />
+        <Object id="image4" suffix="5" />
+        <Object id="image5" suffix="5" />
+        <Object id="image6" suffix="6" />
+        <Object id="image7" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="asset\kryptload_tunnels_b.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="5" />
+        <Object id="image1" suffix="6" />
+        <Object id="image2" suffix="7" />
+        <Object id="image3" suffix="7" />
+        <Object id="image4" suffix="6" />
+        <Object id="image5" suffix="6" />
+        <Object id="image6" suffix="7" />
+        <Object id="image7" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="asset\kunglao_charintro_mapassets.xxx" />
+    <Package path="asset\kunglao_charintro.xxx" />
+    <Package path="asset\kunglao_fatality1_mapassets.xxx" />
+    <Package path="asset\kunglao_fatality1.xxx" />
+    <Package path="asset\kunglao_fatality2_mapassets.xxx" />
+    <Package path="asset\kunglao_fatality2.xxx" />
+    <Package path="asset\kunglao_fatality3_mapassets.xxx" />
+    <Package path="asset\kunglao_fatality3.xxx" />
+    <Package path="asset\kunglao_victory_mapassets.xxx" />
+    <Package path="asset\kunglao_victory.xxx" />
+    <Package path="asset\kunglaojr_charintro_mapassets.xxx" />
+    <Package path="asset\kunglaojr_charintro.xxx" />
+    <Package path="asset\kunglaojr_fatality1_mapassets.xxx" />
+    <Package path="asset\kunglaojr_fatality1.xxx" />
+    <Package path="asset\kunglaojr_fatality2_mapassets.xxx" />
+    <Package path="asset\kunglaojr_fatality2.xxx" />
+    <Package path="asset\kunglaojr_victory_mapassets.xxx" />
+    <Package path="asset\kunglaojr_victory.xxx" />
+    <Package path="asset\ladder_ending_mapassets.xxx" />
+    <Package path="asset\ladder_ending_p_mapassets.xxx" />
+    <Package path="asset\ladder_ending_p.xxx" />
+    <Package path="asset\ladder_ending.xxx" />
+    <Package path="asset\ladderblackdragonblocks_scriptassets.xxx" />
+    <Package path="asset\ladderbroshadblocks_scriptassets.xxx" />
+    <Package path="asset\ladderchaosblocks_scriptassets.xxx" />
+    <Package path="asset\ladderclassicblocks_scriptassets.xxx" />
+    <Package path="asset\laddercompetitiveblocks_scriptassets.xxx" />
+    <Package path="asset\ladderdefinitions_scriptassets.xxx" />
+    <Package path="asset\laddereldergodsblocks_scriptassets.xxx" />
+    <Package path="asset\ladderfights_scriptassets.xxx" />
+    <Package path="asset\ladderlinkueiblocks_scriptassets.xxx" />
+    <Package path="asset\ladderlivingblocks_scriptassets.xxx" />
+    <Package path="asset\laddermode_scriptassets.xxx" />
+    <Package path="asset\laddernetherrealmblocks_scriptassets.xxx" />
+    <Package path="asset\ladderorderrealmblocks_scriptassets.xxx" />
+    <Package path="asset\ladderoutworldblocks_scriptassets.xxx" />
+    <Package path="asset\ladderreliefs_scriptassets.xxx" />
+    <Package path="asset\ladderspecialforcesblocks_scriptassets.xxx" />
+    <Package path="asset\ladderwhitelotusblocks_scriptassets.xxx" />
+    <Package path="asset\ladybug_charintro_mapassets.xxx" />
+    <Package path="asset\ladybug_charintro.xxx" />
+    <Package path="asset\ladybug_fatality1_a_mapassets.xxx" />
+    <Package path="asset\ladybug_fatality1_a.xxx" />
+    <Package path="asset\ladybug_fatality1_mapassets.xxx" />
+    <Package path="asset\ladybug_fatality1_p_mapassets.xxx" />
+    <Package path="asset\ladybug_fatality1_p.xxx" />
+    <Package path="asset\ladybug_fatality1.xxx" />
+    <Package path="asset\ladybug_fatality2_mapassets.xxx" />
+    <Package path="asset\ladybug_fatality2.xxx" />
+    <Package path="asset\ladybug_victory_mapassets.xxx" />
+    <Package path="asset\ladybug_victory.xxx" />
+    <Package path="asset\leatherface_charintro_mapassets.xxx" />
+    <Package path="asset\leatherface_charintro.xxx" />
+    <Package path="asset\leatherface_fatality1_mapassets.xxx" />
+    <Package path="asset\leatherface_fatality1.xxx" />
+    <Package path="asset\leatherface_fatality2_mapassets.xxx" />
+    <Package path="asset\leatherface_fatality2.xxx" />
+    <Package path="asset\leatherface_victory_mapassets.xxx" />
+    <Package path="asset\leatherface_victory.xxx" />
+    <Package path="asset\liukang_charintro_mapassets.xxx" />
+    <Package path="asset\liukang_charintro.xxx" />
+    <Package path="asset\liukang_fatality1_mapassets.xxx" />
+    <Package path="asset\liukang_fatality1.xxx" />
+    <Package path="asset\liukang_fatality2_mapassets.xxx" />
+    <Package path="asset\liukang_fatality2.xxx" />
+    <Package path="asset\liukang_victory_mapassets.xxx" />
+    <Package path="asset\liukang_victory.xxx" />
+    <Package path="asset\lk_fatality_scriptassets.xxx" />
+    <Package path="asset\loadscreen_alien_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="6" />
+        <Object id="image1" suffix="7" />
+        <Object id="image2" suffix="8" />
+        <Object id="image3" suffix="8" />
+        <Object id="image4" suffix="7" />
+        <Object id="image5" suffix="7" />
+        <Object id="image6" suffix="8" />
+        <Object id="image7" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_aztec_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="7" />
+        <Object id="image1" suffix="8" />
+        <Object id="image2" suffix="9" />
+        <Object id="image3" suffix="9" />
+        <Object id="image4" suffix="8" />
+        <Object id="image5" suffix="8" />
+        <Object id="image6" suffix="9" />
+        <Object id="image7" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_boraichodlc_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="8" />
+        <Object id="image1" suffix="9" />
+        <Object id="image3" suffix="1" />
+        <Object id="image4" suffix="9" />
+        <Object id="image7" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_cagejr_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="9" />
+        <Object id="image1" suffix="10" />
+        <Object id="image2" suffix="10" />
+        <Object id="image3" suffix="1" />
+        <Object id="image4" suffix="10" />
+        <Object id="image5" suffix="9" />
+        <Object id="image6" suffix="10" />
+        <Object id="image7" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_ermac_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="10" />
+        <Object id="image1" suffix="11" />
+        <Object id="image2" suffix="11" />
+        <Object id="image4" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_fac_bladrag.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="11" />
+        <Object id="image1" suffix="12" />
+        <Object id="image2" suffix="12" />
+        <Object id="image3" suffix="10" />
+        <Object id="image4" suffix="12" />
+        <Object id="image5" suffix="10" />
+        <Object id="image6" suffix="11" />
+        <Object id="image7" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_fac_broshad.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="12" />
+        <Object id="image1" suffix="13" />
+        <Object id="image2" suffix="13" />
+        <Object id="image3" suffix="11" />
+        <Object id="image4" suffix="13" />
+        <Object id="image5" suffix="11" />
+        <Object id="image6" suffix="12" />
+        <Object id="image7" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_fac_linkuei.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="13" />
+        <Object id="image1" suffix="14" />
+        <Object id="image2" suffix="14" />
+        <Object id="image3" suffix="12" />
+        <Object id="image4" suffix="14" />
+        <Object id="image5" suffix="12" />
+        <Object id="image6" suffix="13" />
+        <Object id="image7" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_fac_speforc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="14" />
+        <Object id="image1" suffix="15" />
+        <Object id="image2" suffix="15" />
+        <Object id="image3" suffix="13" />
+        <Object id="image4" suffix="15" />
+        <Object id="image5" suffix="13" />
+        <Object id="image6" suffix="14" />
+        <Object id="image7" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_fac_whilotu.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="15" />
+        <Object id="image1" suffix="16" />
+        <Object id="image2" suffix="16" />
+        <Object id="image3" suffix="14" />
+        <Object id="image4" suffix="16" />
+        <Object id="image5" suffix="14" />
+        <Object id="image6" suffix="15" />
+        <Object id="image7" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_goro_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="16" />
+        <Object id="image1" suffix="17" />
+        <Object id="image4" suffix="17" />
+        <Object id="image5" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_jason_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="17" />
+        <Object id="image1" suffix="18" />
+        <Object id="image2" suffix="17" />
+        <Object id="image3" suffix="15" />
+        <Object id="image4" suffix="18" />
+        <Object id="image5" suffix="16" />
+        <Object id="image6" suffix="16" />
+        <Object id="image7" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_jax_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="19" />
+        <Object id="image1" suffix="20" />
+        <Object id="image2" suffix="19" />
+        <Object id="image3" suffix="17" />
+        <Object id="image4" suffix="20" />
+        <Object id="image5" suffix="18" />
+        <Object id="image6" suffix="18" />
+        <Object id="image7" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_jaxjr_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="18" />
+        <Object id="image1" suffix="19" />
+        <Object id="image2" suffix="18" />
+        <Object id="image3" suffix="16" />
+        <Object id="image4" suffix="19" />
+        <Object id="image5" suffix="17" />
+        <Object id="image6" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_johnnycage_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="20" />
+        <Object id="image1" suffix="21" />
+        <Object id="image2" suffix="20" />
+        <Object id="image5" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kano_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="21" />
+        <Object id="image1" suffix="22" />
+        <Object id="image2" suffix="21" />
+        <Object id="image3" suffix="18" />
+        <Object id="image4" suffix="21" />
+        <Object id="image5" suffix="20" />
+        <Object id="image6" suffix="19" />
+        <Object id="image7" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kenshi_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="23" />
+        <Object id="image1" suffix="24" />
+        <Object id="image2" suffix="23" />
+        <Object id="image4" suffix="22" />
+        <Object id="image5" suffix="22" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kenshijr_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="22" />
+        <Object id="image1" suffix="23" />
+        <Object id="image2" suffix="22" />
+        <Object id="image3" suffix="19" />
+        <Object id="image5" suffix="21" />
+        <Object id="image6" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kitana_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="24" />
+        <Object id="image1" suffix="25" />
+        <Object id="image2" suffix="24" />
+        <Object id="image3" suffix="20" />
+        <Object id="image4" suffix="23" />
+        <Object id="image5" suffix="23" />
+        <Object id="image6" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kunglao_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="26" />
+        <Object id="image1" suffix="27" />
+        <Object id="image4" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_kunglaojr_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="25" />
+        <Object id="image1" suffix="26" />
+        <Object id="image4" suffix="24" />
+        <Object id="image5" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_ladybug_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="27" />
+        <Object id="image1" suffix="28" />
+        <Object id="image2" suffix="25" />
+        <Object id="image3" suffix="21" />
+        <Object id="image4" suffix="26" />
+        <Object id="image5" suffix="25" />
+        <Object id="image6" suffix="22" />
+        <Object id="image7" suffix="22" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_leatherface_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="28" />
+        <Object id="image1" suffix="29" />
+        <Object id="image2" suffix="26" />
+        <Object id="image3" suffix="22" />
+        <Object id="image4" suffix="27" />
+        <Object id="image5" suffix="26" />
+        <Object id="image6" suffix="23" />
+        <Object id="image7" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_liukang_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="29" />
+        <Object id="image1" suffix="30" />
+        <Object id="image2" suffix="27" />
+        <Object id="image3" suffix="23" />
+        <Object id="image4" suffix="28" />
+        <Object id="image5" suffix="27" />
+        <Object id="image6" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mastermale_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="30" />
+        <Object id="image1" suffix="31" />
+        <Object id="image2" suffix="28" />
+        <Object id="image3" suffix="24" />
+        <Object id="image5" suffix="28" />
+        <Object id="image6" suffix="25" />
+        <Object id="image7" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mileena_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="31" />
+        <Object id="image1" suffix="32" />
+        <Object id="image2" suffix="29" />
+        <Object id="image4" suffix="29" />
+        <Object id="image5" suffix="29" />
+        <Object id="image6" suffix="26" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk10.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="32" />
+        <Object id="image1" suffix="33" />
+        <Object id="image2" suffix="30" />
+        <Object id="image3" suffix="25" />
+        <Object id="image4" suffix="30" />
+        <Object id="image5" suffix="30" />
+        <Object id="image6" suffix="27" />
+        <Object id="image7" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_nomad_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="33" />
+        <Object id="image1" suffix="34" />
+        <Object id="image2" suffix="31" />
+        <Object id="image4" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_predator_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="34" />
+        <Object id="image1" suffix="35" />
+        <Object id="image4" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_quanchi_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="35" />
+        <Object id="image1" suffix="36" />
+        <Object id="image2" suffix="32" />
+        <Object id="image4" suffix="33" />
+        <Object id="image5" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_raiden_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="36" />
+        <Object id="image1" suffix="37" />
+        <Object id="image2" suffix="33" />
+        <Object id="image4" suffix="34" />
+        <Object id="image5" suffix="32" />
+        <Object id="image6" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_reptile_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="37" />
+        <Object id="image1" suffix="38" />
+        <Object id="image2" suffix="34" />
+        <Object id="image3" suffix="26" />
+        <Object id="image4" suffix="35" />
+        <Object id="image6" suffix="29" />
+        <Object id="image7" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_scorpion_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="38" />
+        <Object id="image4" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_shinnok_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="39" />
+        <Object id="image1" suffix="39" />
+        <Object id="image4" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_sonya_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="40" />
+        <Object id="image1" suffix="40" />
+        <Object id="image4" suffix="38" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_subzero_b.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="41" />
+        <Object id="image1" suffix="41" />
+        <Object id="image2" suffix="35" />
+        <Object id="image3" suffix="27" />
+        <Object id="image4" suffix="39" />
+        <Object id="image5" suffix="33" />
+        <Object id="image6" suffix="30" />
+        <Object id="image7" suffix="26" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tanyadlc_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="42" />
+        <Object id="image1" suffix="42" />
+        <Object id="image2" suffix="36" />
+        <Object id="image3" suffix="28" />
+        <Object id="image5" suffix="34" />
+        <Object id="image6" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_testyourmight.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="43" />
+        <Object id="image1" suffix="43" />
+        <Object id="image2" suffix="37" />
+        <Object id="image3" suffix="29" />
+        <Object id="image4" suffix="40" />
+        <Object id="image5" suffix="35" />
+        <Object id="image6" suffix="32" />
+        <Object id="image7" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tremor_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="44" />
+        <Object id="image1" suffix="44" />
+        <Object id="image4" suffix="41" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_triborg_a.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="45" />
+        <Object id="image4" suffix="42" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_aztecbeastgold.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="46" />
+        <Object id="image1" suffix="45" />
+        <Object id="image2" suffix="38" />
+        <Object id="image3" suffix="30" />
+        <Object id="image4" suffix="43" />
+        <Object id="image5" suffix="36" />
+        <Object id="image6" suffix="33" />
+        <Object id="image7" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_bamboo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="47" />
+        <Object id="image1" suffix="46" />
+        <Object id="image2" suffix="39" />
+        <Object id="image3" suffix="31" />
+        <Object id="image4" suffix="44" />
+        <Object id="image5" suffix="37" />
+        <Object id="image6" suffix="34" />
+        <Object id="image7" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_birchfish.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="48" />
+        <Object id="image1" suffix="47" />
+        <Object id="image2" suffix="40" />
+        <Object id="image3" suffix="32" />
+        <Object id="image4" suffix="45" />
+        <Object id="image5" suffix="38" />
+        <Object id="image6" suffix="35" />
+        <Object id="image7" suffix="30" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_bricks.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="49" />
+        <Object id="image1" suffix="48" />
+        <Object id="image2" suffix="41" />
+        <Object id="image3" suffix="33" />
+        <Object id="image4" suffix="46" />
+        <Object id="image5" suffix="39" />
+        <Object id="image6" suffix="36" />
+        <Object id="image7" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_coalskull.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="50" />
+        <Object id="image1" suffix="49" />
+        <Object id="image2" suffix="42" />
+        <Object id="image3" suffix="34" />
+        <Object id="image4" suffix="47" />
+        <Object id="image5" suffix="40" />
+        <Object id="image6" suffix="37" />
+        <Object id="image7" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_concretedemoncat.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="51" />
+        <Object id="image1" suffix="50" />
+        <Object id="image2" suffix="43" />
+        <Object id="image3" suffix="35" />
+        <Object id="image4" suffix="48" />
+        <Object id="image5" suffix="41" />
+        <Object id="image6" suffix="38" />
+        <Object id="image7" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_copperheadcage.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="52" />
+        <Object id="image1" suffix="51" />
+        <Object id="image2" suffix="44" />
+        <Object id="image3" suffix="36" />
+        <Object id="image4" suffix="49" />
+        <Object id="image5" suffix="42" />
+        <Object id="image6" suffix="39" />
+        <Object id="image7" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_faction_bd_icon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="53" />
+        <Object id="image1" suffix="52" />
+        <Object id="image2" suffix="1" />
+        <Object id="image3" suffix="37" />
+        <Object id="image4" suffix="50" />
+        <Object id="image5" suffix="43" />
+        <Object id="image6" suffix="40" />
+        <Object id="image7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_faction_bs_icon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="54" />
+        <Object id="image1" suffix="53" />
+        <Object id="image2" suffix="45" />
+        <Object id="image3" suffix="38" />
+        <Object id="image4" suffix="51" />
+        <Object id="image5" suffix="44" />
+        <Object id="image6" suffix="41" />
+        <Object id="image7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_faction_lk_icon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="55" />
+        <Object id="image1" suffix="54" />
+        <Object id="image2" suffix="46" />
+        <Object id="image3" suffix="39" />
+        <Object id="image4" suffix="52" />
+        <Object id="image5" suffix="45" />
+        <Object id="image6" suffix="42" />
+        <Object id="image7" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_faction_sf_icon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="56" />
+        <Object id="image1" suffix="55" />
+        <Object id="image2" suffix="1" />
+        <Object id="image3" suffix="40" />
+        <Object id="image4" suffix="53" />
+        <Object id="image5" suffix="46" />
+        <Object id="image6" suffix="43" />
+        <Object id="image7" suffix="34" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_faction_wl_icon.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="57" />
+        <Object id="image1" suffix="56" />
+        <Object id="image2" suffix="47" />
+        <Object id="image3" suffix="41" />
+        <Object id="image4" suffix="54" />
+        <Object id="image5" suffix="47" />
+        <Object id="image6" suffix="44" />
+        <Object id="image7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_fishbowl.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="58" />
+        <Object id="image1" suffix="57" />
+        <Object id="image2" suffix="48" />
+        <Object id="image3" suffix="42" />
+        <Object id="image4" suffix="55" />
+        <Object id="image5" suffix="48" />
+        <Object id="image6" suffix="45" />
+        <Object id="image7" suffix="35" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_flamingpearl.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="59" />
+        <Object id="image1" suffix="58" />
+        <Object id="image2" suffix="49" />
+        <Object id="image3" suffix="43" />
+        <Object id="image4" suffix="56" />
+        <Object id="image5" suffix="49" />
+        <Object id="image6" suffix="46" />
+        <Object id="image7" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_flyingoni.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="60" />
+        <Object id="image1" suffix="59" />
+        <Object id="image2" suffix="50" />
+        <Object id="image3" suffix="44" />
+        <Object id="image4" suffix="57" />
+        <Object id="image5" suffix="50" />
+        <Object id="image6" suffix="47" />
+        <Object id="image7" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_fossilizedbug.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="61" />
+        <Object id="image1" suffix="60" />
+        <Object id="image2" suffix="51" />
+        <Object id="image3" suffix="45" />
+        <Object id="image4" suffix="58" />
+        <Object id="image5" suffix="51" />
+        <Object id="image6" suffix="48" />
+        <Object id="image7" suffix="38" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_kd_chaosrealm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="62" />
+        <Object id="image1" suffix="61" />
+        <Object id="image2" suffix="52" />
+        <Object id="image3" suffix="46" />
+        <Object id="image4" suffix="59" />
+        <Object id="image5" suffix="52" />
+        <Object id="image6" suffix="49" />
+        <Object id="image7" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_kd_earthrealm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="63" />
+        <Object id="image1" suffix="62" />
+        <Object id="image2" suffix="53" />
+        <Object id="image3" suffix="47" />
+        <Object id="image4" suffix="60" />
+        <Object id="image5" suffix="53" />
+        <Object id="image6" suffix="50" />
+        <Object id="image7" suffix="39" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_kd_edenian.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="64" />
+        <Object id="image1" suffix="63" />
+        <Object id="image2" suffix="54" />
+        <Object id="image3" suffix="48" />
+        <Object id="image4" suffix="61" />
+        <Object id="image5" suffix="54" />
+        <Object id="image6" suffix="51" />
+        <Object id="image7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_kd_netherrealm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="65" />
+        <Object id="image1" suffix="64" />
+        <Object id="image2" suffix="55" />
+        <Object id="image3" suffix="49" />
+        <Object id="image4" suffix="62" />
+        <Object id="image5" suffix="55" />
+        <Object id="image6" suffix="52" />
+        <Object id="image7" suffix="40" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_kd_outworld.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="66" />
+        <Object id="image1" suffix="65" />
+        <Object id="image2" suffix="56" />
+        <Object id="image3" suffix="50" />
+        <Object id="image4" suffix="63" />
+        <Object id="image5" suffix="56" />
+        <Object id="image6" suffix="53" />
+        <Object id="image7" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_mohagonytotem.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="67" />
+        <Object id="image1" suffix="66" />
+        <Object id="image2" suffix="57" />
+        <Object id="image3" suffix="51" />
+        <Object id="image4" suffix="64" />
+        <Object id="image5" suffix="57" />
+        <Object id="image6" suffix="54" />
+        <Object id="image7" suffix="41" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_obsidian.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="68" />
+        <Object id="image1" suffix="67" />
+        <Object id="image2" suffix="58" />
+        <Object id="image3" suffix="52" />
+        <Object id="image4" suffix="65" />
+        <Object id="image5" suffix="58" />
+        <Object id="image6" suffix="55" />
+        <Object id="image7" suffix="42" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_opalserpent.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="69" />
+        <Object id="image1" suffix="68" />
+        <Object id="image2" suffix="59" />
+        <Object id="image3" suffix="53" />
+        <Object id="image4" suffix="66" />
+        <Object id="image5" suffix="59" />
+        <Object id="image6" suffix="56" />
+        <Object id="image7" suffix="43" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_pighead.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="70" />
+        <Object id="image1" suffix="69" />
+        <Object id="image2" suffix="60" />
+        <Object id="image3" suffix="54" />
+        <Object id="image4" suffix="67" />
+        <Object id="image5" suffix="60" />
+        <Object id="image6" suffix="57" />
+        <Object id="image7" suffix="44" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_pineboard.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="71" />
+        <Object id="image1" suffix="70" />
+        <Object id="image2" suffix="61" />
+        <Object id="image3" suffix="55" />
+        <Object id="image4" suffix="68" />
+        <Object id="image5" suffix="61" />
+        <Object id="image6" suffix="1" />
+        <Object id="image7" suffix="45" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_shaokahnbust.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="72" />
+        <Object id="image1" suffix="71" />
+        <Object id="image2" suffix="62" />
+        <Object id="image3" suffix="56" />
+        <Object id="image4" suffix="69" />
+        <Object id="image5" suffix="62" />
+        <Object id="image6" suffix="58" />
+        <Object id="image7" suffix="46" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_silvershield.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="73" />
+        <Object id="image1" suffix="72" />
+        <Object id="image2" suffix="63" />
+        <Object id="image3" suffix="57" />
+        <Object id="image4" suffix="70" />
+        <Object id="image5" suffix="63" />
+        <Object id="image6" suffix="59" />
+        <Object id="image7" suffix="47" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_steelanvil.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="74" />
+        <Object id="image1" suffix="73" />
+        <Object id="image2" suffix="64" />
+        <Object id="image3" suffix="58" />
+        <Object id="image4" suffix="71" />
+        <Object id="image5" suffix="64" />
+        <Object id="image6" suffix="60" />
+        <Object id="image7" suffix="48" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_tarkatanskull.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="75" />
+        <Object id="image1" suffix="74" />
+        <Object id="image2" suffix="65" />
+        <Object id="image3" suffix="59" />
+        <Object id="image4" suffix="72" />
+        <Object id="image5" suffix="65" />
+        <Object id="image6" suffix="61" />
+        <Object id="image7" suffix="49" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_teakram.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="76" />
+        <Object id="image1" suffix="75" />
+        <Object id="image2" suffix="66" />
+        <Object id="image3" suffix="60" />
+        <Object id="image4" suffix="73" />
+        <Object id="image5" suffix="66" />
+        <Object id="image6" suffix="62" />
+        <Object id="image7" suffix="50" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_testtube.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="77" />
+        <Object id="image1" suffix="76" />
+        <Object id="image2" suffix="67" />
+        <Object id="image3" suffix="61" />
+        <Object id="image4" suffix="74" />
+        <Object id="image5" suffix="67" />
+        <Object id="image6" suffix="63" />
+        <Object id="image7" suffix="51" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_tinlion.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="78" />
+        <Object id="image1" suffix="77" />
+        <Object id="image2" suffix="68" />
+        <Object id="image3" suffix="62" />
+        <Object id="image4" suffix="75" />
+        <Object id="image5" suffix="68" />
+        <Object id="image6" suffix="1" />
+        <Object id="image7" suffix="52" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_titanium.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="79" />
+        <Object id="image1" suffix="78" />
+        <Object id="image2" suffix="69" />
+        <Object id="image3" suffix="63" />
+        <Object id="image4" suffix="76" />
+        <Object id="image5" suffix="69" />
+        <Object id="image6" suffix="64" />
+        <Object id="image7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_tym_walnutlog.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="image0" suffix="80" />
+        <Object id="image1" suffix="79" />
+        <Object id="image2" suffix="70" />
+        <Object id="image3" suffix="64" />
+        <Object id="image4" suffix="77" />
+        <Object id="image5" suffix="70" />
+        <Object id="image6" suffix="65" />
+        <Object id="image7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\mastermale_charintro_mapassets.xxx" />
+    <Package path="asset\mastermale_charintro.xxx" />
+    <Package path="asset\mastermale_fatality1_b_mapassets.xxx" />
+    <Package path="asset\mastermale_fatality1_b.xxx" />
+    <Package path="asset\mastermale_fatality1_mapassets.xxx" />
+    <Package path="asset\mastermale_fatality1.xxx" />
+    <Package path="asset\mastermale_fatality2_b_mapassets.xxx" />
+    <Package path="asset\mastermale_fatality2_b.xxx" />
+    <Package path="asset\mastermale_fatality2_mapassets.xxx" />
+    <Package path="asset\mastermale_fatality2.xxx" />
+    <Package path="asset\mastermale_victory_mapassets.xxx" />
+    <Package path="asset\mastermale_victory.xxx" />
+    <Package path="asset\mastermale_xray_p_mapassets.xxx" />
+    <Package path="asset\mastermale_xray_p.xxx" />
+    <Package path="asset\mileena_charintro_mapassets.xxx" />
+    <Package path="asset\mileena_charintro.xxx" />
+    <Package path="asset\mileena_fatality1_mapassets.xxx" />
+    <Package path="asset\mileena_fatality1.xxx" />
+    <Package path="asset\mileena_fatality2_mapassets.xxx" />
+    <Package path="asset\mileena_fatality2.xxx" />
+    <Package path="asset\mileena_fatality3_mapassets.xxx" />
+    <Package path="asset\mileena_fatality3.xxx" />
+    <Package path="asset\mileena_victory_mapassets.xxx" />
+    <Package path="asset\mileena_victory.xxx" />
+    <Package path="asset\mkx003_qte_mapassets.xxx" />
+    <Package path="asset\mkx003_qte.xxx" />
+    <Package path="asset\mkx004_pre_mapassets.xxx" />
+    <Package path="asset\mkx004_pre.xxx" />
+    <Package path="asset\mkx005_pre_mapassets.xxx" />
+    <Package path="asset\mkx005_pre.xxx" />
+    <Package path="asset\mkx005_pst_mapassets.xxx" />
+    <Package path="asset\mkx005_pst.xxx" />
+    <Package path="asset\mkx008_pst_mapassets.xxx" />
+    <Package path="asset\mkx008_pst.xxx" />
+    <Package path="asset\mkx010_pre_mapassets.xxx" />
+    <Package path="asset\mkx010_pre.xxx" />
+    <Package path="asset\mkx011_pst_mapassets.xxx" />
+    <Package path="asset\mkx011_pst.xxx" />
+    <Package path="asset\mkx013_pre_mapassets.xxx" />
+    <Package path="asset\mkx013_pre.xxx" />
+    <Package path="asset\mkx014_pst_mapassets.xxx" />
+    <Package path="asset\mkx014_pst.xxx" />
+    <Package path="asset\mkx021_qte_mapassets.xxx" />
+    <Package path="asset\mkx021_qte.xxx" />
+    <Package path="asset\mkx022_pre_mapassets.xxx" />
+    <Package path="asset\mkx022_pre.xxx" />
+    <Package path="asset\mkx023_pre_mapassets.xxx" />
+    <Package path="asset\mkx023_pre.xxx" />
+    <Package path="asset\mkx023_pst_mapassets.xxx" />
+    <Package path="asset\mkx023_pst.xxx" />
+    <Package path="asset\mkx024_pst_mapassets.xxx" />
+    <Package path="asset\mkx024_pst.xxx" />
+    <Package path="asset\mkx028_pre_mapassets.xxx" />
+    <Package path="asset\mkx028_pre.xxx" />
+    <Package path="asset\mkx029_pre_mapassets.xxx" />
+    <Package path="asset\mkx029_pre.xxx" />
+    <Package path="asset\mkx029_pst_mapassets.xxx" />
+    <Package path="asset\mkx029_pst.xxx" />
+    <Package path="asset\mkx030_pst_mapassets.xxx" />
+    <Package path="asset\mkx030_pst.xxx" />
+    <Package path="asset\mkx033_pre_mapassets.xxx" />
+    <Package path="asset\mkx033_pre.xxx" />
+    <Package path="asset\mkx034_pre_mapassets.xxx" />
+    <Package path="asset\mkx034_pre.xxx" />
+    <Package path="asset\mkx034_pst_mapassets.xxx" />
+    <Package path="asset\mkx034_pst.xxx" />
+    <Package path="asset\mkx035_pre_mapassets.xxx" />
+    <Package path="asset\mkx035_pre.xxx" />
+    <Package path="asset\mkx035_pst_mapassets.xxx" />
+    <Package path="asset\mkx035_pst.xxx" />
+    <Package path="asset\mkx036_pre_mapassets.xxx" />
+    <Package path="asset\mkx036_pre.xxx" />
+    <Package path="asset\mkx036_pst_mapassets.xxx" />
+    <Package path="asset\mkx036_pst.xxx" />
+    <Package path="asset\mkx037_pst_mapassets.xxx" />
+    <Package path="asset\mkx037_pst.xxx" />
+    <Package path="asset\mkx043_pre_mapassets.xxx" />
+    <Package path="asset\mkx043_pre.xxx" />
+    <Package path="asset\mkx044_pre_mapassets.xxx" />
+    <Package path="asset\mkx044_pre.xxx" />
+    <Package path="asset\mkx044_pst_mapassets.xxx" />
+    <Package path="asset\mkx044_pst.xxx" />
+    <Package path="asset\mkx044_qte_mapassets.xxx" />
+    <Package path="asset\mkx044_qte.xxx" />
+    <Package path="asset\mkx045_pst_mapassets.xxx" />
+    <Package path="asset\mkx045_pst.xxx" />
+    <Package path="asset\mkx047_pre_mapassets.xxx" />
+    <Package path="asset\mkx047_pre.xxx" />
+    <Package path="asset\mkx048_pst_mapassets.xxx" />
+    <Package path="asset\mkx048_pst.xxx" />
+    <Package path="asset\mkx049_pre_mapassets.xxx" />
+    <Package path="asset\mkx049_pre.xxx" />
+    <Package path="asset\mkx050_pst_mapassets.xxx" />
+    <Package path="asset\mkx050_pst.xxx" />
+    <Package path="asset\mkx052_pre_mapassets.xxx" />
+    <Package path="asset\mkx052_pre.xxx" />
+    <Package path="asset\mkx053_pre_mapassets.xxx" />
+    <Package path="asset\mkx053_pre.xxx" />
+    <Package path="asset\mkx053_pst_mapassets.xxx" />
+    <Package path="asset\mkx053_pst.xxx" />
+    <Package path="asset\mkx054_pre_mapassets.xxx" />
+    <Package path="asset\mkx054_pre.xxx" />
+    <Package path="asset\mkx054_pst_mapassets.xxx" />
+    <Package path="asset\mkx054_pst.xxx" />
+    <Package path="asset\mkx055_pst_mapassets.xxx" />
+    <Package path="asset\mkx055_pst.xxx" />
+    <Package path="asset\mkx055_qte_mapassets.xxx" />
+    <Package path="asset\mkx055_qte.xxx" />
+    <Package path="asset\mkx056_pre_mapassets.xxx" />
+    <Package path="asset\mkx056_pre.xxx" />
+    <Package path="asset\mkx057_pst_mapassets.xxx" />
+    <Package path="asset\mkx057_pst.xxx" />
+    <Package path="asset\mkx060_pre_mapassets.xxx" />
+    <Package path="asset\mkx060_pre.xxx" />
+    <Package path="asset\mkx061_qte_mapassets.xxx" />
+    <Package path="asset\mkx061_qte.xxx" />
+    <Package path="asset\mkx063_pre_mapassets.xxx" />
+    <Package path="asset\mkx063_pre.xxx" />
+    <Package path="asset\mkx064_pre_mapassets.xxx" />
+    <Package path="asset\mkx064_pre.xxx" />
+    <Package path="asset\mkx064_pst_mapassets.xxx" />
+    <Package path="asset\mkx064_pst.xxx" />
+    <Package path="asset\mkx065_pst_mapassets.xxx" />
+    <Package path="asset\mkx065_pst.xxx" />
+    <Package path="asset\mkx068_pre_mapassets.xxx" />
+    <Package path="asset\mkx068_pre.xxx" />
+    <Package path="asset\mkx069_pst_mapassets.xxx" />
+    <Package path="asset\mkx069_pst.xxx" />
+    <Package path="asset\mkx077_pre_mapassets.xxx" />
+    <Package path="asset\mkx077_pre.xxx" />
+    <Package path="asset\mkx078_pst_mapassets.xxx" />
+    <Package path="asset\mkx078_pst.xxx" />
+    <Package path="asset\mkx079_pre_mapassets.xxx" />
+    <Package path="asset\mkx079_pre.xxx" />
+    <Package path="asset\mkx079_qte_mapassets.xxx" />
+    <Package path="asset\mkx079_qte.xxx" />
+    <Package path="asset\mkx080_pre_mapassets.xxx" />
+    <Package path="asset\mkx080_pre.xxx" />
+    <Package path="asset\mkx080_pst_mapassets.xxx" />
+    <Package path="asset\mkx080_pst.xxx" />
+    <Package path="asset\mkx081_pre_mapassets.xxx" />
+    <Package path="asset\mkx081_pre.xxx" />
+    <Package path="asset\mkx081_pst_mapassets.xxx" />
+    <Package path="asset\mkx081_pst.xxx" />
+    <Package path="asset\mkx082_pst_mapassets.xxx" />
+    <Package path="asset\mkx082_pst.xxx" />
+    <Package path="asset\mkx085_pre_mapassets.xxx" />
+    <Package path="asset\mkx085_pre.xxx" />
+    <Package path="asset\mkx086_pre_mapassets.xxx" />
+    <Package path="asset\mkx086_pre.xxx" />
+    <Package path="asset\mkx086_pst_mapassets.xxx" />
+    <Package path="asset\mkx086_pst.xxx" />
+    <Package path="asset\mkx087_pre_mapassets.xxx" />
+    <Package path="asset\mkx087_pre.xxx" />
+    <Package path="asset\mkx087_pst_mapassets.xxx" />
+    <Package path="asset\mkx087_pst.xxx" />
+    <Package path="asset\mkx088_pst_mapassets.xxx" />
+    <Package path="asset\mkx088_pst.xxx" />
+    <Package path="asset\mkx089_pre_mapassets.xxx" />
+    <Package path="asset\mkx089_pre.xxx" />
+    <Package path="asset\mkx089_qte_mapassets.xxx" />
+    <Package path="asset\mkx089_qte.xxx" />
+    <Package path="asset\mkx090_pst_mapassets.xxx" />
+    <Package path="asset\mkx090_pst.xxx" />
+    <Package path="asset\mkx093_pre_mapassets.xxx" />
+    <Package path="asset\mkx093_pre.xxx" />
+    <Package path="asset\mkx095_pre_mapassets.xxx" />
+    <Package path="asset\mkx095_pre.xxx" />
+    <Package path="asset\mkx095_pst_mapassets.xxx" />
+    <Package path="asset\mkx095_pst.xxx" />
+    <Package path="asset\mkx095_qte_mapassets.xxx" />
+    <Package path="asset\mkx095_qte.xxx" />
+    <Package path="asset\mkx096_pst_mapassets.xxx" />
+    <Package path="asset\mkx096_pst.xxx" />
+    <Package path="asset\mkx097_pre_mapassets.xxx" />
+    <Package path="asset\mkx097_pre.xxx" />
+    <Package path="asset\mkx098_pst_mapassets.xxx" />
+    <Package path="asset\mkx098_pst.xxx" />
+    <Package path="asset\mkx100_pre_mapassets.xxx" />
+    <Package path="asset\mkx100_pre.xxx" />
+    <Package path="asset\mkx101_pst_mapassets.xxx" />
+    <Package path="asset\mkx101_pst.xxx" />
+    <Package path="asset\mkx108_pre_mapassets.xxx" />
+    <Package path="asset\mkx108_pre.xxx" />
+    <Package path="asset\mkx109_pre_mapassets.xxx" />
+    <Package path="asset\mkx109_pre.xxx" />
+    <Package path="asset\mkx109_pst_mapassets.xxx" />
+    <Package path="asset\mkx109_pst.xxx" />
+    <Package path="asset\mkx110_pst_mapassets.xxx" />
+    <Package path="asset\mkx110_pst.xxx" />
+    <Package path="asset\mkx112_pre_mapassets.xxx" />
+    <Package path="asset\mkx112_pre.xxx" />
+    <Package path="asset\mkx113_pre_mapassets.xxx" />
+    <Package path="asset\mkx113_pre.xxx" />
+    <Package path="asset\mkx113_pst_mapassets.xxx" />
+    <Package path="asset\mkx113_pst.xxx" />
+    <Package path="asset\mkx114_pst_mapassets.xxx" />
+    <Package path="asset\mkx114_pst.xxx" />
+    <Package path="asset\mkx122_pre_mapassets.xxx" />
+    <Package path="asset\mkx122_pre.xxx" />
+    <Package path="asset\mkx123_pst_mapassets.xxx" />
+    <Package path="asset\mkx123_pst.xxx" />
+    <Package path="asset\mkx124_pre_mapassets.xxx" />
+    <Package path="asset\mkx124_pre.xxx" />
+    <Package path="asset\mkx125_pre_mapassets.xxx" />
+    <Package path="asset\mkx125_pre.xxx" />
+    <Package path="asset\mkx125_pst_mapassets.xxx" />
+    <Package path="asset\mkx125_pst.xxx" />
+    <Package path="asset\mkx126_pre_mapassets.xxx" />
+    <Package path="asset\mkx126_pre.xxx" />
+    <Package path="asset\mkx126_pst_mapassets.xxx" />
+    <Package path="asset\mkx126_pst.xxx" />
+    <Package path="asset\mkx127_pst_mapassets.xxx" />
+    <Package path="asset\mkx127_pst.xxx" />
+    <Package path="asset\mkx129_pre_mapassets.xxx" />
+    <Package path="asset\mkx129_pre.xxx" />
+    <Package path="asset\mkx130_pre_mapassets.xxx" />
+    <Package path="asset\mkx130_pre.xxx" />
+    <Package path="asset\mkx130_pst_mapassets.xxx" />
+    <Package path="asset\mkx130_pst.xxx" />
+    <Package path="asset\mkx131_pst_mapassets.xxx" />
+    <Package path="asset\mkx131_pst.xxx" />
+    <Package path="asset\mkx132_pre_mapassets.xxx" />
+    <Package path="asset\mkx132_pre.xxx" />
+    <Package path="asset\mkx133_pst_mapassets.xxx" />
+    <Package path="asset\mkx133_pst.xxx" />
+    <Package path="asset\mkx135_pre_mapassets.xxx" />
+    <Package path="asset\mkx135_pre.xxx" />
+    <Package path="asset\mkx136_pst_mapassets.xxx" />
+    <Package path="asset\mkx136_pst.xxx" />
+    <Package path="asset\modifiers_scriptassets.xxx" />
+    <Package path="asset\nomad_charintro_mapassets.xxx" />
+    <Package path="asset\nomad_charintro.xxx" />
+    <Package path="asset\nomad_fatality1_mapassets.xxx" />
+    <Package path="asset\nomad_fatality1.xxx" />
+    <Package path="asset\nomad_fatality2_mapassets.xxx" />
+    <Package path="asset\nomad_fatality2.xxx" />
+    <Package path="asset\nomad_victory_mapassets.xxx" />
+    <Package path="asset\nomad_victory.xxx" />
+    <Package path="asset\predator_charintro_mapassets.xxx" />
+    <Package path="asset\predator_charintro.xxx" />
+    <Package path="asset\predator_fatality1_b_mapassets.xxx" />
+    <Package path="asset\predator_fatality1_b.xxx" />
+    <Package path="asset\predator_fatality1_mapassets.xxx" />
+    <Package path="asset\predator_fatality1.xxx" />
+    <Package path="asset\predator_fatality2_mapassets.xxx" />
+    <Package path="asset\predator_fatality2.xxx" />
+    <Package path="asset\predator_victory_a_mapassets.xxx" />
+    <Package path="asset\predator_victory_a.xxx" />
+    <Package path="asset\predator_victory_mapassets.xxx" />
+    <Package path="asset\predator_victory.xxx" />
+    <Package path="asset\pt_stagefatality_mapassets.xxx" />
+    <Package path="asset\pt_stagefatality.xxx" />
+    <Package path="asset\qcf_event_a_mapassets.xxx" />
+    <Package path="asset\qcf_event_a.xxx" />
+    <Package path="asset\quanchi_charintro_mapassets.xxx" />
+    <Package path="asset\quanchi_charintro.xxx" />
+    <Package path="asset\quanchi_fatality1_mapassets.xxx" />
+    <Package path="asset\quanchi_fatality1.xxx" />
+    <Package path="asset\quanchi_fatality2_a_mapassets.xxx" />
+    <Package path="asset\quanchi_fatality2_a.xxx" />
+    <Package path="asset\quanchi_fatality2_mapassets.xxx" />
+    <Package path="asset\quanchi_fatality2.xxx" />
+    <Package path="asset\quanchi_victory_mapassets.xxx" />
+    <Package path="asset\quanchi_victory.xxx" />
+    <Package path="asset\raiden_charintro_mapassets.xxx" />
+    <Package path="asset\raiden_charintro.xxx" />
+    <Package path="asset\raiden_fatality1_mapassets.xxx" />
+    <Package path="asset\raiden_fatality1.xxx" />
+    <Package path="asset\raiden_fatality2_mapassets.xxx" />
+    <Package path="asset\raiden_fatality2.xxx" />
+    <Package path="asset\raiden_victory_mapassets.xxx" />
+    <Package path="asset\raiden_victory.xxx" />
+    <Package path="asset\rain_a_scriptassets.xxx" />
+    <Package path="asset\rain_a.xxx" />
+    <Package path="asset\rc_stagefatality_mapassets.xxx" />
+    <Package path="asset\rc_stagefatality.xxx" />
+    <Package path="asset\reptile_charintro_mapassets.xxx" />
+    <Package path="asset\reptile_charintro.xxx" />
+    <Package path="asset\reptile_fatality1_mapassets.xxx" />
+    <Package path="asset\reptile_fatality1.xxx" />
+    <Package path="asset\reptile_fatality2_mapassets.xxx" />
+    <Package path="asset\reptile_fatality2.xxx" />
+    <Package path="asset\reptile_victory_mapassets.xxx" />
+    <Package path="asset\reptile_victory.xxx" />
+    <Package path="asset\scenario_block_1_scriptassets.xxx" />
+    <Package path="asset\scenario_block_2_scriptassets.xxx" />
+    <Package path="asset\scenariomode_scriptassets.xxx" />
+    <Package path="asset\scorpion_charintro_mapassets.xxx" />
+    <Package path="asset\scorpion_charintro.xxx" />
+    <Package path="asset\scorpion_fatality1_mapassets.xxx" />
+    <Package path="asset\scorpion_fatality1.xxx" />
+    <Package path="asset\scorpion_fatality2_mapassets.xxx" />
+    <Package path="asset\scorpion_fatality2.xxx" />
+    <Package path="asset\scorpion_fatality3_mapassets.xxx" />
+    <Package path="asset\scorpion_fatality3.xxx" />
+    <Package path="asset\scorpion_victory_mapassets.xxx" />
+    <Package path="asset\scorpion_victory.xxx" />
+    <Package path="asset\sf_fatality_scriptassets.xxx" />
+    <Package path="asset\shinnok_charintro_mapassets.xxx" />
+    <Package path="asset\shinnok_charintro.xxx" />
+    <Package path="asset\shinnok_fatality1_b_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality1_b.xxx" />
+    <Package path="asset\shinnok_fatality1_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality1_p_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality1_p.xxx" />
+    <Package path="asset\shinnok_fatality1.xxx" />
+    <Package path="asset\shinnok_fatality2_b_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality2_b.xxx" />
+    <Package path="asset\shinnok_fatality2_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality2_p_mapassets.xxx" />
+    <Package path="asset\shinnok_fatality2_p.xxx" />
+    <Package path="asset\shinnok_fatality2.xxx" />
+    <Package path="asset\shinnok_victory_mapassets.xxx" />
+    <Package path="asset\shinnok_victory.xxx" />
+    <Package path="asset\shinnokboss_a_scriptassets.xxx" />
+    <Package path="asset\shinnokboss_a.xxx" />
+    <Package path="asset\shinnokboss_fatality1_b_mapassets.xxx" />
+    <Package path="asset\shinnokboss_fatality1_b.xxx" />
+    <Package path="asset\shinnokboss_fatality1_mapassets.xxx" />
+    <Package path="asset\shinnokboss_fatality1.xxx" />
+    <Package path="asset\shinnokboss_victory_mapassets.xxx" />
+    <Package path="asset\shinnokboss_victory_p_mapassets.xxx" />
+    <Package path="asset\shinnokboss_victory_p.xxx" />
+    <Package path="asset\shinnokboss_victory.xxx" />
+    <Package path="asset\sindel_a_scriptassets.xxx" />
+    <Package path="asset\sindel_a.xxx" />
+    <Package path="asset\snd_anno_ingame.xxx" />
+    <Package path="asset\snd_combat_all.xxx" />
+    <Package path="asset\snd_mode_krypt_kt.xxx" />
+    <Package path="asset\snd_mode_krypt_sf.xxx" />
+    <Package path="asset\snd_mode_krypt.xxx" />
+    <Package path="asset\snd_mode_testyourluck.xxx" />
+    <Package path="asset\snd_mode_testyourmight.xxx" />
+    <Package path="asset\snd_mode_tower_dlc1.xxx" />
+    <Package path="asset\snd_mode_tower_dlc2.xxx" />
+    <Package path="asset\snd_mode_tower_dlc3.xxx" />
+    <Package path="asset\snd_mus_azteccourtyard.xxx" />
+    <Package path="asset\snd_mus_cove.xxx" />
+    <Package path="asset\snd_mus_crossroads.xxx" />
+    <Package path="asset\snd_mus_destroyedcity.xxx" />
+    <Package path="asset\snd_mus_jinseichamber.xxx" />
+    <Package path="asset\snd_mus_jungle.xxx" />
+    <Package path="asset\snd_mus_linkueitemple.xxx" />
+    <Package path="asset\snd_mus_owmarketplace.xxx" />
+    <Package path="asset\snd_mus_pit.xxx" />
+    <Package path="asset\snd_mus_quanchifortress.xxx" />
+    <Package path="asset\snd_mus_refugeecamp.xxx" />
+    <Package path="asset\snd_mus_skytemple.xxx" />
+    <Package path="asset\snd_mus_snowforest.xxx" />
+    <Package path="asset\snd_mus_specialmodes.xxx" />
+    <Package path="asset\snd_mus_trainingroom.xxx" />
+    <Package path="asset\snd_shell_all_dlc.xxx" />
+    <Package path="asset\snd_shell_all.xxx" />
+    <Package path="asset\snd_speech_alien_eng.xxx" />
+    <Package path="asset\snd_speech_alien_esp.xxx" />
+    <Package path="asset\snd_speech_alien_fra.xxx" />
+    <Package path="asset\snd_speech_alien_ger.xxx" />
+    <Package path="asset\snd_speech_alien_ita.xxx" />
+    <Package path="asset\snd_speech_alien_por.xxx" />
+    <Package path="asset\snd_speech_alien_spa.xxx" />
+    <Package path="asset\snd_speech_aztec_eng.xxx" />
+    <Package path="asset\snd_speech_aztec_esp.xxx" />
+    <Package path="asset\snd_speech_aztec_fra.xxx" />
+    <Package path="asset\snd_speech_aztec_ger.xxx" />
+    <Package path="asset\snd_speech_aztec_ita.xxx" />
+    <Package path="asset\snd_speech_aztec_por.xxx" />
+    <Package path="asset\snd_speech_aztec_spa.xxx" />
+    <Package path="asset\snd_speech_baraka_eng.xxx" />
+    <Package path="asset\snd_speech_baraka_esp.xxx" />
+    <Package path="asset\snd_speech_baraka_fra.xxx" />
+    <Package path="asset\snd_speech_baraka_ger.xxx" />
+    <Package path="asset\snd_speech_baraka_ita.xxx" />
+    <Package path="asset\snd_speech_baraka_por.xxx" />
+    <Package path="asset\snd_speech_baraka_spa.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_eng.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_esp.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_fra.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_ger.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_ita.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_por.xxx" />
+    <Package path="asset\snd_speech_boraichodlc_spa.xxx" />
+    <Package path="asset\snd_speech_cagejr_eng.xxx" />
+    <Package path="asset\snd_speech_cagejr_esp.xxx" />
+    <Package path="asset\snd_speech_cagejr_fra.xxx" />
+    <Package path="asset\snd_speech_cagejr_ger.xxx" />
+    <Package path="asset\snd_speech_cagejr_ita.xxx" />
+    <Package path="asset\snd_speech_cagejr_por.xxx" />
+    <Package path="asset\snd_speech_cagejr_spa.xxx" />
+    <Package path="asset\snd_speech_ermac_eng.xxx" />
+    <Package path="asset\snd_speech_ermac_esp.xxx" />
+    <Package path="asset\snd_speech_ermac_fra.xxx" />
+    <Package path="asset\snd_speech_ermac_ger.xxx" />
+    <Package path="asset\snd_speech_ermac_ita.xxx" />
+    <Package path="asset\snd_speech_ermac_por.xxx" />
+    <Package path="asset\snd_speech_ermac_spa.xxx" />
+    <Package path="asset\snd_speech_goro_eng.xxx" />
+    <Package path="asset\snd_speech_goro_esp.xxx" />
+    <Package path="asset\snd_speech_goro_fra.xxx" />
+    <Package path="asset\snd_speech_goro_ger.xxx" />
+    <Package path="asset\snd_speech_goro_ita.xxx" />
+    <Package path="asset\snd_speech_goro_por.xxx" />
+    <Package path="asset\snd_speech_goro_spa.xxx" />
+    <Package path="asset\snd_speech_jason_eng.xxx" />
+    <Package path="asset\snd_speech_jason_esp.xxx" />
+    <Package path="asset\snd_speech_jason_fra.xxx" />
+    <Package path="asset\snd_speech_jason_ger.xxx" />
+    <Package path="asset\snd_speech_jason_ita.xxx" />
+    <Package path="asset\snd_speech_jason_por.xxx" />
+    <Package path="asset\snd_speech_jason_spa.xxx" />
+    <Package path="asset\snd_speech_jax_eng.xxx" />
+    <Package path="asset\snd_speech_jax_esp.xxx" />
+    <Package path="asset\snd_speech_jax_fra.xxx" />
+    <Package path="asset\snd_speech_jax_ger.xxx" />
+    <Package path="asset\snd_speech_jax_ita.xxx" />
+    <Package path="asset\snd_speech_jax_por.xxx" />
+    <Package path="asset\snd_speech_jax_spa.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_eng.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_esp.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_fra.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_ger.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_ita.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_por.xxx" />
+    <Package path="asset\snd_speech_jaxcarlw_spa.xxx" />
+    <Package path="asset\snd_speech_jaxjr_eng.xxx" />
+    <Package path="asset\snd_speech_jaxjr_esp.xxx" />
+    <Package path="asset\snd_speech_jaxjr_fra.xxx" />
+    <Package path="asset\snd_speech_jaxjr_ger.xxx" />
+    <Package path="asset\snd_speech_jaxjr_ita.xxx" />
+    <Package path="asset\snd_speech_jaxjr_por.xxx" />
+    <Package path="asset\snd_speech_jaxjr_spa.xxx" />
+    <Package path="asset\snd_speech_jaxrev_eng.xxx" />
+    <Package path="asset\snd_speech_jaxrev_esp.xxx" />
+    <Package path="asset\snd_speech_jaxrev_fra.xxx" />
+    <Package path="asset\snd_speech_jaxrev_ger.xxx" />
+    <Package path="asset\snd_speech_jaxrev_ita.xxx" />
+    <Package path="asset\snd_speech_jaxrev_por.xxx" />
+    <Package path="asset\snd_speech_jaxrev_spa.xxx" />
+    <Package path="asset\snd_speech_johnnycage_eng.xxx" />
+    <Package path="asset\snd_speech_johnnycage_esp.xxx" />
+    <Package path="asset\snd_speech_johnnycage_fra.xxx" />
+    <Package path="asset\snd_speech_johnnycage_ger.xxx" />
+    <Package path="asset\snd_speech_johnnycage_ita.xxx" />
+    <Package path="asset\snd_speech_johnnycage_por.xxx" />
+    <Package path="asset\snd_speech_johnnycage_spa.xxx" />
+    <Package path="asset\snd_speech_kano_eng.xxx" />
+    <Package path="asset\snd_speech_kano_esp.xxx" />
+    <Package path="asset\snd_speech_kano_fra.xxx" />
+    <Package path="asset\snd_speech_kano_ger.xxx" />
+    <Package path="asset\snd_speech_kano_ita.xxx" />
+    <Package path="asset\snd_speech_kano_por.xxx" />
+    <Package path="asset\snd_speech_kano_spa.xxx" />
+    <Package path="asset\snd_speech_kenshi_eng.xxx" />
+    <Package path="asset\snd_speech_kenshi_esp.xxx" />
+    <Package path="asset\snd_speech_kenshi_fra.xxx" />
+    <Package path="asset\snd_speech_kenshi_ger.xxx" />
+    <Package path="asset\snd_speech_kenshi_ita.xxx" />
+    <Package path="asset\snd_speech_kenshi_por.xxx" />
+    <Package path="asset\snd_speech_kenshi_spa.xxx" />
+    <Package path="asset\snd_speech_kenshijr_eng.xxx" />
+    <Package path="asset\snd_speech_kenshijr_esp.xxx" />
+    <Package path="asset\snd_speech_kenshijr_fra.xxx" />
+    <Package path="asset\snd_speech_kenshijr_ger.xxx" />
+    <Package path="asset\snd_speech_kenshijr_ita.xxx" />
+    <Package path="asset\snd_speech_kenshijr_por.xxx" />
+    <Package path="asset\snd_speech_kenshijr_spa.xxx" />
+    <Package path="asset\snd_speech_kitana_eng.xxx" />
+    <Package path="asset\snd_speech_kitana_esp.xxx" />
+    <Package path="asset\snd_speech_kitana_fra.xxx" />
+    <Package path="asset\snd_speech_kitana_ger.xxx" />
+    <Package path="asset\snd_speech_kitana_ita.xxx" />
+    <Package path="asset\snd_speech_kitana_por.xxx" />
+    <Package path="asset\snd_speech_kitana_spa.xxx" />
+    <Package path="asset\snd_speech_kitanarev_eng.xxx" />
+    <Package path="asset\snd_speech_kitanarev_esp.xxx" />
+    <Package path="asset\snd_speech_kitanarev_fra.xxx" />
+    <Package path="asset\snd_speech_kitanarev_ger.xxx" />
+    <Package path="asset\snd_speech_kitanarev_ita.xxx" />
+    <Package path="asset\snd_speech_kitanarev_por.xxx" />
+    <Package path="asset\snd_speech_kitanarev_spa.xxx" />
+    <Package path="asset\snd_speech_kunglao_eng.xxx" />
+    <Package path="asset\snd_speech_kunglao_esp.xxx" />
+    <Package path="asset\snd_speech_kunglao_fra.xxx" />
+    <Package path="asset\snd_speech_kunglao_ger.xxx" />
+    <Package path="asset\snd_speech_kunglao_ita.xxx" />
+    <Package path="asset\snd_speech_kunglao_por.xxx" />
+    <Package path="asset\snd_speech_kunglao_spa.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_eng.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_esp.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_fra.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_ger.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_ita.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_por.xxx" />
+    <Package path="asset\snd_speech_kunglaojr_spa.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_eng.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_esp.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_fra.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_ger.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_ita.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_por.xxx" />
+    <Package path="asset\snd_speech_kunglaorev_spa.xxx" />
+    <Package path="asset\snd_speech_ladybug_eng.xxx" />
+    <Package path="asset\snd_speech_ladybug_esp.xxx" />
+    <Package path="asset\snd_speech_ladybug_fra.xxx" />
+    <Package path="asset\snd_speech_ladybug_ger.xxx" />
+    <Package path="asset\snd_speech_ladybug_ita.xxx" />
+    <Package path="asset\snd_speech_ladybug_por.xxx" />
+    <Package path="asset\snd_speech_ladybug_spa.xxx" />
+    <Package path="asset\snd_speech_leatherface_eng.xxx" />
+    <Package path="asset\snd_speech_leatherface_esp.xxx" />
+    <Package path="asset\snd_speech_leatherface_fra.xxx" />
+    <Package path="asset\snd_speech_leatherface_ger.xxx" />
+    <Package path="asset\snd_speech_leatherface_ita.xxx" />
+    <Package path="asset\snd_speech_leatherface_por.xxx" />
+    <Package path="asset\snd_speech_leatherface_spa.xxx" />
+    <Package path="asset\snd_speech_liukang_eng.xxx" />
+    <Package path="asset\snd_speech_liukang_esp.xxx" />
+    <Package path="asset\snd_speech_liukang_fra.xxx" />
+    <Package path="asset\snd_speech_liukang_ger.xxx" />
+    <Package path="asset\snd_speech_liukang_ita.xxx" />
+    <Package path="asset\snd_speech_liukang_por.xxx" />
+    <Package path="asset\snd_speech_liukang_spa.xxx" />
+    <Package path="asset\snd_speech_liukangrev_eng.xxx" />
+    <Package path="asset\snd_speech_liukangrev_esp.xxx" />
+    <Package path="asset\snd_speech_liukangrev_fra.xxx" />
+    <Package path="asset\snd_speech_liukangrev_ger.xxx" />
+    <Package path="asset\snd_speech_liukangrev_ita.xxx" />
+    <Package path="asset\snd_speech_liukangrev_por.xxx" />
+    <Package path="asset\snd_speech_liukangrev_spa.xxx" />
+    <Package path="asset\snd_speech_mastermale_eng.xxx" />
+    <Package path="asset\snd_speech_mastermale_esp.xxx" />
+    <Package path="asset\snd_speech_mastermale_fra.xxx" />
+    <Package path="asset\snd_speech_mastermale_ger.xxx" />
+    <Package path="asset\snd_speech_mastermale_ita.xxx" />
+    <Package path="asset\snd_speech_mastermale_por.xxx" />
+    <Package path="asset\snd_speech_mastermale_spa.xxx" />
+    <Package path="asset\snd_speech_mileena_eng.xxx" />
+    <Package path="asset\snd_speech_mileena_esp.xxx" />
+    <Package path="asset\snd_speech_mileena_fra.xxx" />
+    <Package path="asset\snd_speech_mileena_ger.xxx" />
+    <Package path="asset\snd_speech_mileena_ita.xxx" />
+    <Package path="asset\snd_speech_mileena_por.xxx" />
+    <Package path="asset\snd_speech_mileena_spa.xxx" />
+    <Package path="asset\snd_speech_nomad_eng.xxx" />
+    <Package path="asset\snd_speech_nomad_esp.xxx" />
+    <Package path="asset\snd_speech_nomad_fra.xxx" />
+    <Package path="asset\snd_speech_nomad_ger.xxx" />
+    <Package path="asset\snd_speech_nomad_ita.xxx" />
+    <Package path="asset\snd_speech_nomad_por.xxx" />
+    <Package path="asset\snd_speech_nomad_spa.xxx" />
+    <Package path="asset\snd_speech_nomadm_eng.xxx" />
+    <Package path="asset\snd_speech_nomadm_esp.xxx" />
+    <Package path="asset\snd_speech_nomadm_fra.xxx" />
+    <Package path="asset\snd_speech_nomadm_ger.xxx" />
+    <Package path="asset\snd_speech_nomadm_ita.xxx" />
+    <Package path="asset\snd_speech_nomadm_por.xxx" />
+    <Package path="asset\snd_speech_nomadm_spa.xxx" />
+    <Package path="asset\snd_speech_predator_eng.xxx" />
+    <Package path="asset\snd_speech_predator_esp.xxx" />
+    <Package path="asset\snd_speech_predator_fra.xxx" />
+    <Package path="asset\snd_speech_predator_ger.xxx" />
+    <Package path="asset\snd_speech_predator_ita.xxx" />
+    <Package path="asset\snd_speech_predator_por.xxx" />
+    <Package path="asset\snd_speech_predator_spa.xxx" />
+    <Package path="asset\snd_speech_quanchi_eng.xxx" />
+    <Package path="asset\snd_speech_quanchi_esp.xxx" />
+    <Package path="asset\snd_speech_quanchi_fra.xxx" />
+    <Package path="asset\snd_speech_quanchi_ger.xxx" />
+    <Package path="asset\snd_speech_quanchi_ita.xxx" />
+    <Package path="asset\snd_speech_quanchi_por.xxx" />
+    <Package path="asset\snd_speech_quanchi_spa.xxx" />
+    <Package path="asset\snd_speech_raiden_eng.xxx" />
+    <Package path="asset\snd_speech_raiden_esp.xxx" />
+    <Package path="asset\snd_speech_raiden_fra.xxx" />
+    <Package path="asset\snd_speech_raiden_ger.xxx" />
+    <Package path="asset\snd_speech_raiden_ita.xxx" />
+    <Package path="asset\snd_speech_raiden_por.xxx" />
+    <Package path="asset\snd_speech_raiden_spa.xxx" />
+    <Package path="asset\snd_speech_rain_eng.xxx" />
+    <Package path="asset\snd_speech_rain_esp.xxx" />
+    <Package path="asset\snd_speech_rain_fra.xxx" />
+    <Package path="asset\snd_speech_rain_ger.xxx" />
+    <Package path="asset\snd_speech_rain_ita.xxx" />
+    <Package path="asset\snd_speech_rain_por.xxx" />
+    <Package path="asset\snd_speech_rain_spa.xxx" />
+    <Package path="asset\snd_speech_reptile_eng.xxx" />
+    <Package path="asset\snd_speech_reptile_esp.xxx" />
+    <Package path="asset\snd_speech_reptile_fra.xxx" />
+    <Package path="asset\snd_speech_reptile_ger.xxx" />
+    <Package path="asset\snd_speech_reptile_ita.xxx" />
+    <Package path="asset\snd_speech_reptile_por.xxx" />
+    <Package path="asset\snd_speech_reptile_spa.xxx" />
+    <Package path="asset\snd_speech_scorpion_eng.xxx" />
+    <Package path="asset\snd_speech_scorpion_esp.xxx" />
+    <Package path="asset\snd_speech_scorpion_fra.xxx" />
+    <Package path="asset\snd_speech_scorpion_ger.xxx" />
+    <Package path="asset\snd_speech_scorpion_ita.xxx" />
+    <Package path="asset\snd_speech_scorpion_por.xxx" />
+    <Package path="asset\snd_speech_scorpion_spa.xxx" />
+    <Package path="asset\snd_speech_scorpionh_eng.xxx" />
+    <Package path="asset\snd_speech_scorpionh_esp.xxx" />
+    <Package path="asset\snd_speech_scorpionh_fra.xxx" />
+    <Package path="asset\snd_speech_scorpionh_ger.xxx" />
+    <Package path="asset\snd_speech_scorpionh_ita.xxx" />
+    <Package path="asset\snd_speech_scorpionh_por.xxx" />
+    <Package path="asset\snd_speech_scorpionh_spa.xxx" />
+    <Package path="asset\snd_speech_shinnok_eng.xxx" />
+    <Package path="asset\snd_speech_shinnok_esp.xxx" />
+    <Package path="asset\snd_speech_shinnok_fra.xxx" />
+    <Package path="asset\snd_speech_shinnok_ger.xxx" />
+    <Package path="asset\snd_speech_shinnok_ita.xxx" />
+    <Package path="asset\snd_speech_shinnok_por.xxx" />
+    <Package path="asset\snd_speech_shinnok_spa.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_eng.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_esp.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_fra.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_ger.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_ita.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_por.xxx" />
+    <Package path="asset\snd_speech_shinnokboss_spa.xxx" />
+    <Package path="asset\snd_speech_sindel_eng.xxx" />
+    <Package path="asset\snd_speech_sindel_esp.xxx" />
+    <Package path="asset\snd_speech_sindel_fra.xxx" />
+    <Package path="asset\snd_speech_sindel_ger.xxx" />
+    <Package path="asset\snd_speech_sindel_ita.xxx" />
+    <Package path="asset\snd_speech_sindel_por.xxx" />
+    <Package path="asset\snd_speech_sindel_spa.xxx" />
+    <Package path="asset\snd_speech_sonya_eng.xxx" />
+    <Package path="asset\snd_speech_sonya_esp.xxx" />
+    <Package path="asset\snd_speech_sonya_fra.xxx" />
+    <Package path="asset\snd_speech_sonya_ger.xxx" />
+    <Package path="asset\snd_speech_sonya_ita.xxx" />
+    <Package path="asset\snd_speech_sonya_por.xxx" />
+    <Package path="asset\snd_speech_sonya_spa.xxx" />
+    <Package path="asset\snd_speech_subzero_eng.xxx" />
+    <Package path="asset\snd_speech_subzero_esp.xxx" />
+    <Package path="asset\snd_speech_subzero_fra.xxx" />
+    <Package path="asset\snd_speech_subzero_ger.xxx" />
+    <Package path="asset\snd_speech_subzero_ita.xxx" />
+    <Package path="asset\snd_speech_subzero_por.xxx" />
+    <Package path="asset\snd_speech_subzero_spa.xxx" />
+    <Package path="asset\snd_speech_subzerorev_eng.xxx" />
+    <Package path="asset\snd_speech_subzerorev_esp.xxx" />
+    <Package path="asset\snd_speech_subzerorev_fra.xxx" />
+    <Package path="asset\snd_speech_subzerorev_ger.xxx" />
+    <Package path="asset\snd_speech_subzerorev_ita.xxx" />
+    <Package path="asset\snd_speech_subzerorev_por.xxx" />
+    <Package path="asset\snd_speech_subzerorev_spa.xxx" />
+    <Package path="asset\snd_speech_subzerou_eng.xxx" />
+    <Package path="asset\snd_speech_subzerou_esp.xxx" />
+    <Package path="asset\snd_speech_subzerou_fra.xxx" />
+    <Package path="asset\snd_speech_subzerou_ger.xxx" />
+    <Package path="asset\snd_speech_subzerou_ita.xxx" />
+    <Package path="asset\snd_speech_subzerou_por.xxx" />
+    <Package path="asset\snd_speech_subzerou_spa.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_eng.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_esp.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_fra.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_ger.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_ita.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_por.xxx" />
+    <Package path="asset\snd_speech_tanyadlc_spa.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_eng.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_esp.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_fra.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_ger.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_ita.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_por.xxx" />
+    <Package path="asset\snd_speech_tanyanpc_spa.xxx" />
+    <Package path="asset\snd_speech_tremor_eng.xxx" />
+    <Package path="asset\snd_speech_tremor_esp.xxx" />
+    <Package path="asset\snd_speech_tremor_fra.xxx" />
+    <Package path="asset\snd_speech_tremor_ger.xxx" />
+    <Package path="asset\snd_speech_tremor_ita.xxx" />
+    <Package path="asset\snd_speech_tremor_por.xxx" />
+    <Package path="asset\snd_speech_tremor_spa.xxx" />
+    <Package path="asset\snd_speech_triborg_eng.xxx" />
+    <Package path="asset\snd_speech_triborg_esp.xxx" />
+    <Package path="asset\snd_speech_triborg_fra.xxx" />
+    <Package path="asset\snd_speech_triborg_ger.xxx" />
+    <Package path="asset\snd_speech_triborg_ita.xxx" />
+    <Package path="asset\snd_speech_triborg_por.xxx" />
+    <Package path="asset\snd_speech_triborg_spa.xxx" />
+    <Package path="asset\snd_surface_concrete.xxx" />
+    <Package path="asset\snd_ui_ingame_dlc.xxx" />
+    <Package path="asset\snd_ui_ingame.xxx" />
+    <Package path="asset\sonya_charintro_mapassets.xxx" />
+    <Package path="asset\sonya_charintro.xxx" />
+    <Package path="asset\sonya_fatality1_mapassets.xxx" />
+    <Package path="asset\sonya_fatality1.xxx" />
+    <Package path="asset\sonya_fatality2_mapassets.xxx" />
+    <Package path="asset\sonya_fatality2.xxx" />
+    <Package path="asset\sonya_fatality3_mapassets.xxx" />
+    <Package path="asset\sonya_fatality3.xxx" />
+    <Package path="asset\sonya_victory_mapassets.xxx" />
+    <Package path="asset\sonya_victory.xxx" />
+    <Package path="asset\sonya_xray_a_mapassets.xxx" />
+    <Package path="asset\sonya_xray_a.xxx" />
+    <Package path="asset\startup.xxx" />
+    <Package path="asset\subzero_charintro_mapassets.xxx" />
+    <Package path="asset\subzero_charintro.xxx" />
+    <Package path="asset\subzero_fatality1_a_mapassets.xxx" />
+    <Package path="asset\subzero_fatality1_a.xxx" />
+    <Package path="asset\subzero_fatality1_b_mapassets.xxx" />
+    <Package path="asset\subzero_fatality1_b.xxx" />
+    <Package path="asset\subzero_fatality1_mapassets.xxx" />
+    <Package path="asset\subzero_fatality1.xxx" />
+    <Package path="asset\subzero_fatality2_mapassets.xxx" />
+    <Package path="asset\subzero_fatality2.xxx" />
+    <Package path="asset\subzero_fatality3_mapassets.xxx" />
+    <Package path="asset\subzero_fatality3.xxx" />
+    <Package path="asset\subzero_victory_mapassets.xxx" />
+    <Package path="asset\subzero_victory.xxx" />
+    <Package path="asset\systemart_scriptassets.xxx" />
+    <Package path="asset\systemart.xxx" />
+    <Package path="asset\tanya_a_scriptassets.xxx" />
+    <Package path="asset\tanya_a.xxx" />
+    <Package path="asset\tanya_fatality1_mapassets.xxx" />
+    <Package path="asset\tanya_fatality1.xxx" />
+    <Package path="asset\tanya_fatality2_mapassets.xxx" />
+    <Package path="asset\tanya_fatality2.xxx" />
+    <Package path="asset\tanyadlc_charintro_mapassets.xxx" />
+    <Package path="asset\tanyadlc_charintro.xxx" />
+    <Package path="asset\tanyadlc_victory_mapassets.xxx" />
+    <Package path="asset\tanyadlc_victory.xxx" />
+    <Package path="asset\testyourluck_scriptassets.xxx" />
+    <Package path="asset\testyourmight_scriptassets.xxx" />
+    <Package path="asset\tr_event_ac_mapassets.xxx" />
+    <Package path="asset\tr_event_ac.xxx" />
+    <Package path="asset\tr_event_cr_mapassets.xxx" />
+    <Package path="asset\tr_event_cr.xxx" />
+    <Package path="asset\tr_event_cv_mapassets.xxx" />
+    <Package path="asset\tr_event_cv.xxx" />
+    <Package path="asset\tr_event_dc_mapassets.xxx" />
+    <Package path="asset\tr_event_dc.xxx" />
+    <Package path="asset\tr_event_jc_mapassets.xxx" />
+    <Package path="asset\tr_event_jc.xxx" />
+    <Package path="asset\tr_event_jng_mapassets.xxx" />
+    <Package path="asset\tr_event_jng.xxx" />
+    <Package path="asset\tr_event_lkt_mapassets.xxx" />
+    <Package path="asset\tr_event_lkt.xxx" />
+    <Package path="asset\tr_event_owm_mapassets.xxx" />
+    <Package path="asset\tr_event_owm.xxx" />
+    <Package path="asset\tr_event_pt_mapassets.xxx" />
+    <Package path="asset\tr_event_pt.xxx" />
+    <Package path="asset\tr_event_qcf_mapassets.xxx" />
+    <Package path="asset\tr_event_qcf.xxx" />
+    <Package path="asset\tr_event_rc_mapassets.xxx" />
+    <Package path="asset\tr_event_rc.xxx" />
+    <Package path="asset\tr_event_sf_mapassets.xxx" />
+    <Package path="asset\tr_event_sf.xxx" />
+    <Package path="asset\tr_event_st_mapassets.xxx" />
+    <Package path="asset\tr_event_st.xxx" />
+    <Package path="asset\trait_alien1_scriptassets.xxx" />
+    <Package path="asset\trait_alien2_scriptassets.xxx" />
+    <Package path="asset\trait_alien3_scriptassets.xxx" />
+    <Package path="asset\trait_aztec1_scriptassets.xxx" />
+    <Package path="asset\trait_aztec2_scriptassets.xxx" />
+    <Package path="asset\trait_aztec3_scriptassets.xxx" />
+    <Package path="asset\trait_boraichodlc1_scriptassets.xxx" />
+    <Package path="asset\trait_boraichodlc2_scriptassets.xxx" />
+    <Package path="asset\trait_boraichodlc3_scriptassets.xxx" />
+    <Package path="asset\trait_cagejr1_scriptassets.xxx" />
+    <Package path="asset\trait_cagejr2_scriptassets.xxx" />
+    <Package path="asset\trait_cagejr3_scriptassets.xxx" />
+    <Package path="asset\trait_ermac1_scriptassets.xxx" />
+    <Package path="asset\trait_ermac2_scriptassets.xxx" />
+    <Package path="asset\trait_ermac3_scriptassets.xxx" />
+    <Package path="asset\trait_goro1_scriptassets.xxx" />
+    <Package path="asset\trait_goro2_scriptassets.xxx" />
+    <Package path="asset\trait_goro3_scriptassets.xxx" />
+    <Package path="asset\trait_jason1_scriptassets.xxx" />
+    <Package path="asset\trait_jason2_scriptassets.xxx" />
+    <Package path="asset\trait_jason3_scriptassets.xxx" />
+    <Package path="asset\trait_jax1_scriptassets.xxx" />
+    <Package path="asset\trait_jax2_scriptassets.xxx" />
+    <Package path="asset\trait_jax3_scriptassets.xxx" />
+    <Package path="asset\trait_jaxjr1_scriptassets.xxx" />
+    <Package path="asset\trait_jaxjr2_scriptassets.xxx" />
+    <Package path="asset\trait_jaxjr3_scriptassets.xxx" />
+    <Package path="asset\trait_johnnycage1_scriptassets.xxx" />
+    <Package path="asset\trait_johnnycage2_scriptassets.xxx" />
+    <Package path="asset\trait_johnnycage3_scriptassets.xxx" />
+    <Package path="asset\trait_kano1_scriptassets.xxx" />
+    <Package path="asset\trait_kano2_scriptassets.xxx" />
+    <Package path="asset\trait_kano3_scriptassets.xxx" />
+    <Package path="asset\trait_kenshi1_scriptassets.xxx" />
+    <Package path="asset\trait_kenshi2_scriptassets.xxx" />
+    <Package path="asset\trait_kenshi3_scriptassets.xxx" />
+    <Package path="asset\trait_kenshijr1_scriptassets.xxx" />
+    <Package path="asset\trait_kenshijr2_scriptassets.xxx" />
+    <Package path="asset\trait_kenshijr3_scriptassets.xxx" />
+    <Package path="asset\trait_kitana1_scriptassets.xxx" />
+    <Package path="asset\trait_kitana2_scriptassets.xxx" />
+    <Package path="asset\trait_kitana3_scriptassets.xxx" />
+    <Package path="asset\trait_kunglao1_scriptassets.xxx" />
+    <Package path="asset\trait_kunglao2_scriptassets.xxx" />
+    <Package path="asset\trait_kunglao3_scriptassets.xxx" />
+    <Package path="asset\trait_kunglaojr1_scriptassets.xxx" />
+    <Package path="asset\trait_kunglaojr2_scriptassets.xxx" />
+    <Package path="asset\trait_kunglaojr3_scriptassets.xxx" />
+    <Package path="asset\trait_ladybug1_scriptassets.xxx" />
+    <Package path="asset\trait_ladybug2_scriptassets.xxx" />
+    <Package path="asset\trait_ladybug3_scriptassets.xxx" />
+    <Package path="asset\trait_leatherface1_scriptassets.xxx" />
+    <Package path="asset\trait_leatherface2_scriptassets.xxx" />
+    <Package path="asset\trait_leatherface3_scriptassets.xxx" />
+    <Package path="asset\trait_liukang1_scriptassets.xxx" />
+    <Package path="asset\trait_liukang2_scriptassets.xxx" />
+    <Package path="asset\trait_liukang3_scriptassets.xxx" />
+    <Package path="asset\trait_mastermale1_scriptassets.xxx" />
+    <Package path="asset\trait_mastermale2_scriptassets.xxx" />
+    <Package path="asset\trait_mastermale3_scriptassets.xxx" />
+    <Package path="asset\trait_mileena1_scriptassets.xxx" />
+    <Package path="asset\trait_mileena2_scriptassets.xxx" />
+    <Package path="asset\trait_mileena3_scriptassets.xxx" />
+    <Package path="asset\trait_nomad1_scriptassets.xxx" />
+    <Package path="asset\trait_nomad2_scriptassets.xxx" />
+    <Package path="asset\trait_nomad3_scriptassets.xxx" />
+    <Package path="asset\trait_predator1_scriptassets.xxx" />
+    <Package path="asset\trait_predator2_scriptassets.xxx" />
+    <Package path="asset\trait_predator3_scriptassets.xxx" />
+    <Package path="asset\trait_quanchi1_scriptassets.xxx" />
+    <Package path="asset\trait_quanchi2_scriptassets.xxx" />
+    <Package path="asset\trait_quanchi3_scriptassets.xxx" />
+    <Package path="asset\trait_raiden1_scriptassets.xxx" />
+    <Package path="asset\trait_raiden2_scriptassets.xxx" />
+    <Package path="asset\trait_raiden3_scriptassets.xxx" />
+    <Package path="asset\trait_reptile1_scriptassets.xxx" />
+    <Package path="asset\trait_reptile2_scriptassets.xxx" />
+    <Package path="asset\trait_reptile3_scriptassets.xxx" />
+    <Package path="asset\trait_scorpion1_scriptassets.xxx" />
+    <Package path="asset\trait_scorpion2_scriptassets.xxx" />
+    <Package path="asset\trait_scorpion3_scriptassets.xxx" />
+    <Package path="asset\trait_shinnok1_scriptassets.xxx" />
+    <Package path="asset\trait_shinnok2_scriptassets.xxx" />
+    <Package path="asset\trait_shinnok3_scriptassets.xxx" />
+    <Package path="asset\trait_sonya1_scriptassets.xxx" />
+    <Package path="asset\trait_sonya2_scriptassets.xxx" />
+    <Package path="asset\trait_sonya3_scriptassets.xxx" />
+    <Package path="asset\trait_subzero1_scriptassets.xxx" />
+    <Package path="asset\trait_subzero2_scriptassets.xxx" />
+    <Package path="asset\trait_subzero3_scriptassets.xxx" />
+    <Package path="asset\trait_tanyadlc1_scriptassets.xxx" />
+    <Package path="asset\trait_tanyadlc2_scriptassets.xxx" />
+    <Package path="asset\trait_tanyadlc3_scriptassets.xxx" />
+    <Package path="asset\trait_tremor1_scriptassets.xxx" />
+    <Package path="asset\trait_tremor2_scriptassets.xxx" />
+    <Package path="asset\trait_tremor3_scriptassets.xxx" />
+    <Package path="asset\trait_triborg1_scriptassets.xxx" />
+    <Package path="asset\trait_triborg2_scriptassets.xxx" />
+    <Package path="asset\trait_triborg3_scriptassets.xxx" />
+    <Package path="asset\tremor_charintro_mapassets.xxx" />
+    <Package path="asset\tremor_charintro.xxx" />
+    <Package path="asset\tremor_fatality1_mapassets.xxx" />
+    <Package path="asset\tremor_fatality1.xxx" />
+    <Package path="asset\tremor_fatality2_mapassets.xxx" />
+    <Package path="asset\tremor_fatality2.xxx" />
+    <Package path="asset\tremor_victory_mapassets.xxx" />
+    <Package path="asset\tremor_victory.xxx" />
+    <Package path="asset\triborg_charintro_mapassets.xxx" />
+    <Package path="asset\triborg_charintro.xxx" />
+    <Package path="asset\triborg_fatality1_mapassets.xxx" />
+    <Package path="asset\triborg_fatality1.xxx" />
+    <Package path="asset\triborg_fatality2_mapassets.xxx" />
+    <Package path="asset\triborg_fatality2.xxx" />
+    <Package path="asset\triborg_victory_mapassets.xxx" />
+    <Package path="asset\triborg_victory.xxx" />
+    <Package path="asset\tui_gridselect.xxx" />
+    <Package path="asset\tui_screenwidgets.xxx" />
+    <Package path="asset\tui_testbed.xxx" />
+    <Package path="asset\tym_fatality_1_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_10_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_11_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_12_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_13_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_2_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_3_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_4_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_5_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_6_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_7_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_8_scriptassets.xxx" />
+    <Package path="asset\tym_fatality_9_scriptassets.xxx" />
+    <Package path="asset\tym_target_amber_scriptassets.xxx" />
+    <Package path="asset\tym_target_amethyst_scriptassets.xxx" />
+    <Package path="asset\tym_target_babyjar_scriptassets.xxx" />
+    <Package path="asset\tym_target_bamboo_scriptassets.xxx" />
+    <Package path="asset\tym_target_birch_scriptassets.xxx" />
+    <Package path="asset\tym_target_brick_scriptassets.xxx" />
+    <Package path="asset\tym_target_coal_scriptassets.xxx" />
+    <Package path="asset\tym_target_concrete_scriptassets.xxx" />
+    <Package path="asset\tym_target_copper_scriptassets.xxx" />
+    <Package path="asset\tym_target_diamond_scriptassets.xxx" />
+    <Package path="asset\tym_target_emerald_scriptassets.xxx" />
+    <Package path="asset\tym_target_faction_bd_scriptassets.xxx" />
+    <Package path="asset\tym_target_faction_bs_scriptassets.xxx" />
+    <Package path="asset\tym_target_faction_lk_scriptassets.xxx" />
+    <Package path="asset\tym_target_faction_sf_scriptassets.xxx" />
+    <Package path="asset\tym_target_faction_wl_scriptassets.xxx" />
+    <Package path="asset\tym_target_fishbowl_scriptassets.xxx" />
+    <Package path="asset\tym_target_gold_scriptassets.xxx" />
+    <Package path="asset\tym_target_iron_scriptassets.xxx" />
+    <Package path="asset\tym_target_mahogany_scriptassets.xxx" />
+    <Package path="asset\tym_target_marble_scriptassets.xxx" />
+    <Package path="asset\tym_target_obsidian_scriptassets.xxx" />
+    <Package path="asset\tym_target_opal_scriptassets.xxx" />
+    <Package path="asset\tym_target_pearl_scriptassets.xxx" />
+    <Package path="asset\tym_target_pighead_scriptassets.xxx" />
+    <Package path="asset\tym_target_pine_scriptassets.xxx" />
+    <Package path="asset\tym_target_platinum_scriptassets.xxx" />
+    <Package path="asset\tym_target_ruby_scriptassets.xxx" />
+    <Package path="asset\tym_target_silver_scriptassets.xxx" />
+    <Package path="asset\tym_target_skull_scriptassets.xxx" />
+    <Package path="asset\tym_target_steel_scriptassets.xxx" />
+    <Package path="asset\tym_target_teak_scriptassets.xxx" />
+    <Package path="asset\tym_target_tin_scriptassets.xxx" />
+    <Package path="asset\tym_target_titanium_scriptassets.xxx" />
+    <Package path="asset\tym_target_topaz_scriptassets.xxx" />
+    <Package path="asset\tym_target_walnut_scriptassets.xxx" />
+    <Package path="asset\ui_b_center_alien.xxx" />
+    <Package path="asset\ui_b_center_all_klassic_ninjas.xxx" />
+    <Package path="asset\ui_b_center_apocalypse_pack.xxx" />
+    <Package path="asset\ui_b_center_boraicho.xxx" />
+    <Package path="asset\ui_b_center_generic_store.xxx" />
+    <Package path="asset\ui_b_center_klassic_ermac_v.xxx" />
+    <Package path="asset\ui_b_center_kombat_pack2.xxx" />
+    <Package path="asset\ui_b_center_kosplay_pack.xxx" />
+    <Package path="asset\ui_b_center_leatherface.xxx" />
+    <Package path="asset\ui_b_center_medieval_pack.xxx" />
+    <Package path="asset\ui_b_center_mobile_unlock.xxx" />
+    <Package path="asset\ui_b_center_the_pit.xxx" />
+    <Package path="asset\ui_b_center_triborg.xxx" />
+    <Package path="asset\ui_b_fac_bd.xxx" />
+    <Package path="asset\ui_b_fac_bs.xxx" />
+    <Package path="asset\ui_b_fac_default.xxx" />
+    <Package path="asset\ui_b_fac_inv_chaos.xxx" />
+    <Package path="asset\ui_b_fac_inv_elder.xxx" />
+    <Package path="asset\ui_b_fac_inv_nether.xxx" />
+    <Package path="asset\ui_b_fac_inv_order.xxx" />
+    <Package path="asset\ui_b_fac_inv_outworld.xxx" />
+    <Package path="asset\ui_b_fac_lk.xxx" />
+    <Package path="asset\ui_b_fac_sf.xxx" />
+    <Package path="asset\ui_b_fac_wl.xxx" />
+    <Package path="asset\ui_b_right_alien_tower01.xxx" />
+    <Package path="asset\ui_b_right_all_heroes.xxx" />
+    <Package path="asset\ui_b_right_all_roster_tower.xxx" />
+    <Package path="asset\ui_b_right_all_villains.xxx" />
+    <Package path="asset\ui_b_right_aprfools_tower.xxx" />
+    <Package path="asset\ui_b_right_boraicho_tower01.xxx" />
+    <Package path="asset\ui_b_right_cassie_tower.xxx" />
+    <Package path="asset\ui_b_right_christmas_tower.xxx" />
+    <Package path="asset\ui_b_right_double_koin.xxx" />
+    <Package path="asset\ui_b_right_dvorah_tower.xxx" />
+    <Package path="asset\ui_b_right_easter_tower.xxx" />
+    <Package path="asset\ui_b_right_ermac_tower.xxx" />
+    <Package path="asset\ui_b_right_erron_black_tower.xxx" />
+    <Package path="asset\ui_b_right_fire_ice_tower.xxx" />
+    <Package path="asset\ui_b_right_generic_tower.xxx" />
+    <Package path="asset\ui_b_right_goro_tower.xxx" />
+    <Package path="asset\ui_b_right_halloween_tower.xxx" />
+    <Package path="asset\ui_b_right_jaqcui_tower.xxx" />
+    <Package path="asset\ui_b_right_jason_tower.xxx" />
+    <Package path="asset\ui_b_right_jax_tower.xxx" />
+    <Package path="asset\ui_b_right_johnny_tower.xxx" />
+    <Package path="asset\ui_b_right_july4_tower.xxx" />
+    <Package path="asset\ui_b_right_kano_tower.xxx" />
+    <Package path="asset\ui_b_right_kenshi_tower.xxx" />
+    <Package path="asset\ui_b_right_kitana_tower.xxx" />
+    <Package path="asset\ui_b_right_kombat_packii01.xxx" />
+    <Package path="asset\ui_b_right_kotal_kahn_tower.xxx" />
+    <Package path="asset\ui_b_right_kung_jin_tower.xxx" />
+    <Package path="asset\ui_b_right_kung_lao_tower.xxx" />
+    <Package path="asset\ui_b_right_leatherface_tower01.xxx" />
+    <Package path="asset\ui_b_right_liu_kang_tower.xxx" />
+    <Package path="asset\ui_b_right_mileena_tower.xxx" />
+    <Package path="asset\ui_b_right_mk1_tower.xxx" />
+    <Package path="asset\ui_b_right_mk2_tower.xxx" />
+    <Package path="asset\ui_b_right_mk3_tower.xxx" />
+    <Package path="asset\ui_b_right_mk4_tower.xxx" />
+    <Package path="asset\ui_b_right_mk9_tower.xxx" />
+    <Package path="asset\ui_b_right_mksm_tower.xxx" />
+    <Package path="asset\ui_b_right_predator_tower.xxx" />
+    <Package path="asset\ui_b_right_quan_chi_tower.xxx" />
+    <Package path="asset\ui_b_right_raiden_tower.xxx" />
+    <Package path="asset\ui_b_right_reptile_tower.xxx" />
+    <Package path="asset\ui_b_right_scorpion_tower.xxx" />
+    <Package path="asset\ui_b_right_shinnok_tower.xxx" />
+    <Package path="asset\ui_b_right_sonya_tower.xxx" />
+    <Package path="asset\ui_b_right_stpats_tower.xxx" />
+    <Package path="asset\ui_b_right_subzero_tower.xxx" />
+    <Package path="asset\ui_b_right_takeda_tower.xxx" />
+    <Package path="asset\ui_b_right_tanya_tower.xxx" />
+    <Package path="asset\ui_b_right_thanksgiving_tower.xxx" />
+    <Package path="asset\ui_b_right_torr_ferra_tower.xxx" />
+    <Package path="asset\ui_b_right_tremor_tower.xxx" />
+    <Package path="asset\ui_b_right_triborg_tower01.xxx" />
+    <Package path="asset\ui_b_right_valentine_tower.xxx" />
+    <Package path="asset\ui_bgnd_bladrag_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_bladrag.xxx" />
+    <Package path="asset\ui_bgnd_broshad_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_broshad.xxx" />
+    <Package path="asset\ui_bgnd_linkuei_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_linkuei.xxx" />
+    <Package path="asset\ui_bgnd_livingtower_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_livingtower.xxx" />
+    <Package path="asset\ui_bgnd_sf_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_sf.xxx" />
+    <Package path="asset\ui_bgnd_speforc_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_speforc.xxx" />
+    <Package path="asset\ui_bgnd_tower_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_tower.xxx" />
+    <Package path="asset\ui_bgnd_whilotu_mapassets.xxx" />
+    <Package path="asset\ui_bgnd_whilotu.xxx" />
+    <Package path="asset\ui_c_buttonlib.xxx" />
+    <Package path="asset\ui_c_ingamefonts_pol_scriptassets.xxx" />
+    <Package path="asset\ui_c_ingamefonts_pol.xxx" />
+    <Package path="asset\ui_c_ingamefonts_rus_scriptassets.xxx" />
+    <Package path="asset\ui_c_ingamefonts_rus.xxx" />
+    <Package path="asset\ui_c_ingamefonts_scriptassets.xxx" />
+    <Package path="asset\ui_c_ingamefonts.xxx" />
+    <Package path="asset\ui_c_subtitles.xxx" />
+    <Package path="asset\ui_c_text_entry_box.xxx" />
+    <Package path="asset\ui_global_dlcdynlighting_mapassets.xxx" />
+    <Package path="asset\ui_global_dlcdynlighting.xxx" />
+    <Package path="asset\ui_i_emoticons.xxx" />
+    <Package path="asset\ui_i_krypt.xxx" />
+    <Package path="asset\ui_i_matchplayback.xxx" />
+    <Package path="asset\ui_i_movelist.xxx" />
+    <Package path="asset\ui_i_permanentui_scriptassets.xxx" />
+    <Package path="asset\ui_i_practicehud.xxx" />
+    <Package path="asset\ui_i_practiceoptions.xxx" />
+    <Package path="asset\ui_i_recorder.xxx" />
+    <Package path="asset\ui_i_testyourluck.xxx" />
+    <Package path="asset\ui_i_testyourmight.xxx" />
+    <Package path="asset\ui_i_towerbanner_alien.xxx" />
+    <Package path="asset\ui_i_towerbanner_aprilfools.xxx" />
+    <Package path="asset\ui_i_towerbanner_boraicho.xxx" />
+    <Package path="asset\ui_i_towerbanner_christmas.xxx" />
+    <Package path="asset\ui_i_towerbanner_easter.xxx" />
+    <Package path="asset\ui_i_towerbanner_fireandice.xxx" />
+    <Package path="asset\ui_i_towerbanner_halloween.xxx" />
+    <Package path="asset\ui_i_towerbanner_jason.xxx" />
+    <Package path="asset\ui_i_towerbanner_july4.xxx" />
+    <Package path="asset\ui_i_towerbanner_kombatpack2.xxx" />
+    <Package path="asset\ui_i_towerbanner_leatherface.xxx" />
+    <Package path="asset\ui_i_towerbanner_mk1.xxx" />
+    <Package path="asset\ui_i_towerbanner_mk2.xxx" />
+    <Package path="asset\ui_i_towerbanner_mk3.xxx" />
+    <Package path="asset\ui_i_towerbanner_mk4.xxx" />
+    <Package path="asset\ui_i_towerbanner_mk9.xxx" />
+    <Package path="asset\ui_i_towerbanner_newyears.xxx" />
+    <Package path="asset\ui_i_towerbanner_predator.xxx" />
+    <Package path="asset\ui_i_towerbanner_shaolinmonks.xxx" />
+    <Package path="asset\ui_i_towerbanner_stpatricks.xxx" />
+    <Package path="asset\ui_i_towerbanner_tanya.xxx" />
+    <Package path="asset\ui_i_towerbanner_thanksgiving.xxx" />
+    <Package path="asset\ui_i_towerbanner_tremor.xxx" />
+    <Package path="asset\ui_i_towerbanner_triborg.xxx" />
+    <Package path="asset\ui_i_towerbanner_valentine.xxx" />
+    <Package path="asset\ui_i_tutorial.xxx" />
+    <Package path="asset\ui_i_universalunlock_jpegs.xxx" />
+    <Package path="asset\ui_i_universalunlock.xxx" />
+    <Package path="asset\ui_k_kombatkard.xxx" />
+    <Package path="asset\ui_k_kombatkardbackgrounds.xxx" />
+    <Package path="asset\ui_k_kombatkardborders.xxx" />
+    <Package path="asset\ui_k_kombatkarddlc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bgnd_385" suffix="1" />
+        <Object id="Bgnd_386" suffix="1" />
+        <Object id="Bgnd_387" suffix="1" />
+        <Object id="Bgnd_388" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_k_kombatkardicons.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Icon_074" suffix="1" />
+        <Object id="Icon_075" suffix="1" />
+        <Object id="Icon_076" suffix="1" />
+        <Object id="Icon_077" suffix="1" />
+        <Object id="Icon_078" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_o_challengeinvite.xxx" />
+    <Package path="asset\ui_o_chatlobby.xxx" />
+    <Package path="asset\ui_o_chatlobbyplayers.xxx" />
+    <Package path="asset\ui_o_chatlobbytop.xxx" />
+    <Package path="asset\ui_o_compladder.xxx" />
+    <Package path="asset\ui_o_compladdertimer.xxx" />
+    <Package path="asset\ui_o_connecting.xxx" />
+    <Package path="asset\ui_o_curtain.xxx" />
+    <Package path="asset\ui_o_endmatchmenu.xxx" />
+    <Package path="asset\ui_o_leaderboard.xxx" />
+    <Package path="asset\ui_o_mainmenu.xxx" />
+    <Package path="asset\ui_o_teambattle.xxx" />
+    <Package path="asset\ui_o_theater.xxx" />
+    <Package path="asset\ui_ps_3dworld.xxx" />
+    <Package path="asset\ui_ps_alien_scriptassets.xxx" />
+    <Package path="asset\ui_ps_arenaselect.xxx" />
+    <Package path="asset\ui_ps_aztec_scriptassets.xxx" />
+    <Package path="asset\ui_ps_boraichodlc_scriptassets.xxx" />
+    <Package path="asset\ui_ps_cagejr_scriptassets.xxx" />
+    <Package path="asset\ui_ps_chargrid_dlc.xxx" />
+    <Package path="asset\ui_ps_chargrid.xxx" />
+    <Package path="asset\ui_ps_ermac_scriptassets.xxx" />
+    <Package path="asset\ui_ps_goro_scriptassets.xxx" />
+    <Package path="asset\ui_ps_jason_scriptassets.xxx" />
+    <Package path="asset\ui_ps_jax_scriptassets.xxx" />
+    <Package path="asset\ui_ps_jaxjr_scriptassets.xxx" />
+    <Package path="asset\ui_ps_johnnycage_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kano_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kenshi_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kenshijr_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kitana_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kunglao_scriptassets.xxx" />
+    <Package path="asset\ui_ps_kunglaojr_scriptassets.xxx" />
+    <Package path="asset\ui_ps_ladderselect.xxx" />
+    <Package path="asset\ui_ps_ladybug_scriptassets.xxx" />
+    <Package path="asset\ui_ps_leatherface_scriptassets.xxx" />
+    <Package path="asset\ui_ps_liukang_scriptassets.xxx" />
+    <Package path="asset\ui_ps_mastermale_scriptassets.xxx" />
+    <Package path="asset\ui_ps_mileena_scriptassets.xxx" />
+    <Package path="asset\ui_ps_nomad_scriptassets.xxx" />
+    <Package path="asset\ui_ps_predator_scriptassets.xxx" />
+    <Package path="asset\ui_ps_quanchi_scriptassets.xxx" />
+    <Package path="asset\ui_ps_raiden_scriptassets.xxx" />
+    <Package path="asset\ui_ps_reptile_scriptassets.xxx" />
+    <Package path="asset\ui_ps_scorpion_scriptassets.xxx" />
+    <Package path="asset\ui_ps_shinnok_scriptassets.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_bladrag_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_bladrag.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_broshad_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_broshad.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_linkuei_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_linkuei.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_speforc_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_speforc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_whilotu_dlc.xxx" />
+    <Package path="asset\ui_ps_single_jpegs_whilotu.xxx" />
+    <Package path="asset\ui_ps_single_jpegs.xxx" />
+    <Package path="asset\ui_ps_sonya_scriptassets.xxx" />
+    <Package path="asset\ui_ps_subzero_scriptassets.xxx" />
+    <Package path="asset\ui_ps_tanyadlc_scriptassets.xxx" />
+    <Package path="asset\ui_ps_tremor_scriptassets.xxx" />
+    <Package path="asset\ui_ps_triborg_scriptassets.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_bladrag_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_bladrag.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_broshad_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_broshad.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_linkuei_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_linkuei.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_speforc_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_speforc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_whilotu_dlc.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs_whilotu.xxx" />
+    <Package path="asset\ui_ps_versus_jpegs.xxx" />
+    <Package path="asset\ui_s_asyncladder.xxx" />
+    <Package path="asset\ui_s_audio_startup.xxx" />
+    <Package path="asset\ui_s_brightness.xxx" />
+    <Package path="asset\ui_s_chapterselect.xxx" />
+    <Package path="asset\ui_s_chaptertitles.xxx" />
+    <Package path="asset\ui_s_connectstatus.xxx" />
+    <Package path="asset\ui_s_controllerconfig.xxx" />
+    <Package path="asset\ui_s_controlleroverlay.xxx" />
+    <Package path="asset\ui_s_eula.xxx" />
+    <Package path="asset\ui_s_factionannounce.xxx" />
+    <Package path="asset\ui_s_factionlanding.xxx" />
+    <Package path="asset\ui_s_factionselect.xxx" />
+    <Package path="asset\ui_s_factionselectbacking.xxx" />
+    <Package path="asset\ui_s_ingamestore.xxx" />
+    <Package path="asset\ui_s_invasionawardscreen.xxx" />
+    <Package path="asset\ui_s_invasionchallengescreen.xxx" />
+    <Package path="asset\ui_s_legal.xxx" />
+    <Package path="asset\ui_s_matchreplay.xxx" />
+    <Package path="asset\ui_s_menuscreen.xxx" />
+    <Package path="asset\ui_s_options.xxx" />
+    <Package path="asset\ui_s_playerselect.xxx" />
+    <Package path="asset\ui_s_screenadjust.xxx" />
+    <Package path="asset\ui_s_storyqte.xxx" />
+    <Package path="asset\ui_s_testyourluck_select.xxx" />
+    <Package path="asset\ui_s_towerasyncendstats.xxx" />
+    <Package path="asset\ui_s_towerendstats.xxx" />
+    <Package path="asset\ui_s_upsell.xxx" />
+    <Package path="asset\ui_s_vendorlogo.xxx" />
+    <Package path="asset\ui_s_wbplaylogin.xxx" />
+    <Package path="asset\ui_s_wbplaytiles.xxx" />
+    <Package path="asset\wl_fatality_scriptassets.xxx" />
+    <Package path="asset\wl_fatality4_a_mapassets.xxx" />
+    <Package path="asset\wl_fatality4_a.xxx" />
+    <Package path="billboards\21944ae6270f47488139085f28aaa22d\ui_b_center_tremor.xxx" />
+    <Package path="billboards\48c8f6b1470642e1bc210e69eb9e2edb\ui_b_center_predator.xxx" />
+    <Package path="billboards\6661fd0a883e493d9cd864f0df37615d\ui_b_center_klassic_pack2.xxx" />
+    <Package path="billboards\6f3e03d2941b4aae9b987b8b8a42f10d\ui_b_center_klassic_ermac.xxx" />
+    <Package path="billboards\73528a951a2b4690b3cf86e6c38cd940\ui_b_center_tremor_bundle.xxx" />
+    <Package path="billboards\7b8599b7c58045f3991a641885acd756\ui_b_center_predator_bundle.xxx" />
+    <Package path="billboards\bdbe95482dbb4c1880ce9da14f779939\ui_b_center_predator_prey_pack.xxx" />
+    <Package path="billboards\d622957e2a90441aa8385d24160055df\ui_b_center_klassic_scorpion.xxx" />
+    <Package path="billboards\ece0d57da84847668902f59e87152428\ui_b_center_klassic_fatalities2.xxx" />
+    <Package path="billboards\fab216f274164f25a77c13e72e7cfe67\ui_b_center_klassic_fatalities.xxx" />
+  </Packages>
+</IdRemapping>

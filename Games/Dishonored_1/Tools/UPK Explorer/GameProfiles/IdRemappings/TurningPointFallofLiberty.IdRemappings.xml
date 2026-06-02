@@ -1,0 +1,1803 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="engine\content\editormaterials.upk" />
+    <Package path="engine\content\editormeshes.upk" />
+    <Package path="engine\content\editorresources.upk" />
+    <Package path="engine\content\engine_mi_shaders.upk" />
+    <Package path="engine\content\enginefonts.upk" />
+    <Package path="engine\content\enginematerials.upk" />
+    <Package path="engine\content\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="engine\content\enginescenes.upk" />
+    <Package path="engine\content\enginevolumetrics.upk" />
+    <Package path="engine\content\maps\entry.upk" />
+    <Package path="engine\content\nodebuddies.upk" />
+    <Package path="engine\content\temp_bsp.upk" />
+    <Package path="engine\content\ui\defaultuiskin.upk" />
+    <Package path="engine\content\ui\testuiscenes.upk" />
+    <Package path="engine\content\ui\uiarcpackage.upk" />
+    <Package path="tpgame\cookedpc\core.u" />
+    <Package path="tpgame\cookedpc\editor.u" />
+    <Package path="tpgame\cookedpc\editormaterials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Anchor" suffix="1" />
+        <Object id="AnimTreeBackGround" suffix="1" />
+        <Object id="CASC_CurveEd" suffix="1" />
+        <Object id="CASC_ModuleEnable" suffix="1" />
+        <Object id="Cascade\CASC_Cross" suffix="1" />
+        <Object id="Cascade\CASC_CurveEd" suffix="1" />
+        <Object id="Cascade\CASC_DisabledModule" suffix="1" />
+        <Object id="Cascade\CASC_ModuleDisable" suffix="1" />
+        <Object id="Cascade\CASC_ModuleEnable" suffix="1" />
+        <Object id="Cascade\CASC_None" suffix="1" />
+        <Object id="Cascade\CASC_Normal" suffix="1" />
+        <Object id="Cascade\CASC_Point" suffix="1" />
+        <Object id="CovergroupIcon" suffix="1" />
+        <Object id="CoverIcons\CoverNodeCrouch" suffix="1" />
+        <Object id="CoverIcons\CoverNodeCrouchLocked" suffix="1" />
+        <Object id="CoverIcons\CoverNodeMid" suffix="1" />
+        <Object id="CoverIcons\CoverNodeMidLocked" suffix="1" />
+        <Object id="CoverIcons\CoverNodeNone" suffix="1" />
+        <Object id="CoverIcons\CoverNodeNoneLocked" suffix="1" />
+        <Object id="CoverIcons\CoverNodeStanding" suffix="1" />
+        <Object id="CoverIcons\CoverNodeStandingLocked" suffix="1" />
+        <Object id="Cross" suffix="1" />
+        <Object id="GreyCheck" suffix="1" />
+        <Object id="Gridpaper" suffix="1" />
+        <Object id="KismetBackground" suffix="1" />
+        <Object id="MaterialsBackground" suffix="1" />
+        <Object id="MatineeGreyGrad" suffix="1" />
+        <Object id="MatineeGroups\MAT_ColorTrack" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Anim" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Director" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Event" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Fade" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Float" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Graph_Off" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Graph_On" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Left_Off" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Left_On" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Move" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Right_Off" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Right_On" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Slomo" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Sound" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_Vector" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_View_Off" suffix="1" />
+        <Object id="MatineeGroups\MAT_Groups_View_On" suffix="1" />
+        <Object id="ParticleSystems\PSysThumbnail_NoImage" suffix="1" />
+        <Object id="ParticleSystems\PSysThumbnail_OOD" suffix="1" />
+        <Object id="SoundCueBackground" suffix="1" />
+        <Object id="TargetIcon" suffix="1" />
+        <Object id="TerrainLayerBrowser\TerrainBallImage" suffix="1" />
+        <Object id="TerrainLayerBrowser\TerrainProp_FoliageOverlay" suffix="1" />
+        <Object id="TerrainLayerBrowser\TerrainProp_FoliageOverlay_Left" suffix="1" />
+        <Object id="TerrainLayerBrowser\TerrainProp_ProceduralOverlay" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_AddLayer_Icon" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_AddMaterial_Icon" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Closed" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Closed_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_DecoLayer" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_DecoLayer_Icon" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_DecoLayer_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_DecoLayer_Pressed" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Decoration_Icon" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Decoration_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Empty" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Foliage_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_HeightMap" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_HeightMap_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Layer_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Lock" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Material_Icon_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Open" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Open_Alpha" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Solid" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_View" suffix="1" />
+        <Object id="TerrainLayerBrowser\TLB_Wireframe" suffix="1" />
+        <Object id="Tick" suffix="1" />
+        <Object id="UnrealEdIcons" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\editormeshes.upk" />
+    <Package path="tpgame\cookedpc\editorresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="2" />
+        <Object id="BadHighlight" suffix="1" />
+        <Object id="Bkgnd" suffix="1" />
+        <Object id="BkgndHi" suffix="1" />
+        <Object id="MaterialArrow" suffix="1" />
+        <Object id="MaterialBackdrop" suffix="1" />
+        <Object id="SpeedTreeLogo" suffix="1" />
+        <Object id="SpeedTreeLogoBig" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\engine.u" />
+    <Package path="tpgame\cookedpc\enginefonts.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LargeFont\Texture2D_25" suffix="1" />
+        <Object id="LargeFont\Texture2D_26" suffix="1" />
+        <Object id="MediumFont\Texture2D_27" suffix="1" />
+        <Object id="SmallFont\Texture2D_28" suffix="1" />
+        <Object id="TinyFont\Texture2D_29" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultDiffuse" suffix="1" />
+        <Object id="DefaultNormal" suffix="1" />
+        <Object id="DefCube_Face" suffix="1" />
+        <Object id="MaterialError" suffix="1" />
+        <Object id="OrientParticle" suffix="1" />
+        <Object id="RandomAngles" suffix="1" />
+        <Object id="SoundCue_SpeakerIcon" suffix="1" />
+        <Object id="TooManyMaterials" suffix="1" />
+        <Object id="UnrealEdIcon_AnimSet" suffix="1" />
+        <Object id="UnrealEdIcon_AnimTree" suffix="1" />
+        <Object id="UnrealEdIcon_CurveEdPresetCurve" suffix="1" />
+        <Object id="UnrealEdIcon_MorphTargetSet" suffix="1" />
+        <Object id="UnrealEdIcon_MorphWeightSequence" suffix="1" />
+        <Object id="UnrealEdIcon_PhysMat" suffix="1" />
+        <Object id="UnrealEdIcon_PostProcessChain" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="2" />
+        <Object id="UnrealEdIcon_Sequence" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ActionCamMove" suffix="1" />
+        <Object id="ActionCamPause" suffix="1" />
+        <Object id="AIScript" suffix="1" />
+        <Object id="Ambientcreatures" suffix="1" />
+        <Object id="Ammo" suffix="1" />
+        <Object id="AnimBlendDirIcon" suffix="1" />
+        <Object id="AnimBlendFlashIcon" suffix="1" />
+        <Object id="AnimBlendIcon" suffix="1" />
+        <Object id="AnimBlendListIcon" suffix="1" />
+        <Object id="AnimDataIcon" suffix="1" />
+        <Object id="AnimPlayerCarat" suffix="1" />
+        <Object id="AnimPlayerTrack" suffix="1" />
+        <Object id="Backdrop" suffix="1" />
+        <Object id="Bad" suffix="3" />
+        <Object id="Basic" suffix="1" />
+        <Object id="Black" suffix="1" />
+        <Object id="BlendedMaterialIcon" suffix="1" />
+        <Object id="Border" suffix="1" />
+        <Object id="BSPVertex" suffix="1" />
+        <Object id="Cloudcast" suffix="1" />
+        <Object id="Console" suffix="1" />
+        <Object id="Corpse" suffix="1" />
+        <Object id="Counter" suffix="1" />
+        <Object id="CoverNodeNone" suffix="1" />
+        <Object id="Cursors\Arrow" suffix="1" />
+        <Object id="Cursors\SplitterHorz" suffix="1" />
+        <Object id="Cursors\SplitterVert" suffix="1" />
+        <Object id="DecoPaint" suffix="1" />
+        <Object id="DecorationList" suffix="1" />
+        <Object id="DefaultTexture" suffix="1" />
+        <Object id="door" suffix="1" />
+        <Object id="Flag1" suffix="1" />
+        <Object id="GRADIENT_Clip" suffix="1" />
+        <Object id="GRADIENT_Fade" suffix="1" />
+        <Object id="Gray" suffix="1" />
+        <Object id="IntrpPnt" suffix="1" />
+        <Object id="LargeVertex" suffix="1" />
+        <Object id="lift_center" suffix="1" />
+        <Object id="lift_exit" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Moveable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Moveable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Moveable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Moveable_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Stationary_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Stationary_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Stationary_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Stationary_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Toggleable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Toggleable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Toggleable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Directional_Toggleable_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Point_Moveable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Moveable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Moveable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Moveable_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Point_Stationary_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Stationary_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Stationary_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Stationary_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Point_Toggleable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Toggleable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Toggleable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Point_Toggleable_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_SkyLight" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Moveable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Moveable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Moveable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Moveable_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Stationary_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Stationary_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Stationary_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Stationary_UserSelected" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Toggleable_Dynamics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Toggleable_DynamicsAndStatics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Toggleable_Statics" suffix="1" />
+        <Object id="LightIcons\Light_Spot_Toggleable_UserSelected" suffix="1" />
+        <Object id="LockLocation" suffix="1" />
+        <Object id="LookTarget" suffix="1" />
+        <Object id="MaterialEditor_A" suffix="1" />
+        <Object id="MaterialEditor_B" suffix="1" />
+        <Object id="MaterialEditor_ControlPanelCap" suffix="1" />
+        <Object id="MaterialEditor_ControlPanelFill" suffix="1" />
+        <Object id="MaterialEditor_Delete" suffix="1" />
+        <Object id="MaterialEditor_Down" suffix="1" />
+        <Object id="MaterialEditor_G" suffix="1" />
+        <Object id="MaterialEditor_LabelBackground" suffix="1" />
+        <Object id="MaterialEditor_LeftHandle" suffix="1" />
+        <Object id="MaterialEditor_R" suffix="1" />
+        <Object id="MaterialEditor_RGBA" suffix="1" />
+        <Object id="MaterialEditor_RightHandle" suffix="1" />
+        <Object id="MaterialEditor_RightHandleOn" suffix="1" />
+        <Object id="MaterialEditor_Up" suffix="1" />
+        <Object id="MaterialTrigger" suffix="1" />
+        <Object id="MatIcon_ChangeScene" suffix="1" />
+        <Object id="MatIcon_Fade" suffix="1" />
+        <Object id="MatIcon_FOV" suffix="1" />
+        <Object id="MatIcon_FX" suffix="1" />
+        <Object id="MatIcon_GameSpeed" suffix="1" />
+        <Object id="MatIcon_MoveCamera" suffix="1" />
+        <Object id="MatIcon_Orientation" suffix="1" />
+        <Object id="MatIcon_PauseCamera" suffix="1" />
+        <Object id="MatIcon_SceneSpeed" suffix="1" />
+        <Object id="MatIcon_Trigger" suffix="1" />
+        <Object id="MatInstActSprite" suffix="1" />
+        <Object id="PathBezier" suffix="1" />
+        <Object id="PathLinear" suffix="1" />
+        <Object id="PathNode" suffix="1" />
+        <Object id="PrefabSprite" suffix="1" />
+        <Object id="Proj_IconMasked" suffix="1" />
+        <Object id="projtex" suffix="1" />
+        <Object id="RedSquareTexture" suffix="1" />
+        <Object id="S_Actor" suffix="1" />
+        <Object id="S_Alarm" suffix="1" />
+        <Object id="S_Ambient" suffix="1" />
+        <Object id="S_AutoAlignToTerrain" suffix="1" />
+        <Object id="S_BezierHandle" suffix="1" />
+        <Object id="S_Camera" suffix="1" />
+        <Object id="S_ClipMarker" suffix="1" />
+        <Object id="S_ClipMarker1" suffix="1" />
+        <Object id="S_ClipMarker2" suffix="1" />
+        <Object id="S_ClipMarker3" suffix="1" />
+        <Object id="S_DisplacementTerrain" suffix="1" />
+        <Object id="S_Emitter" suffix="1" />
+        <Object id="S_FluidSurf" suffix="1" />
+        <Object id="S_FluidSurfOsc" suffix="1" />
+        <Object id="S_Inventory" suffix="1" />
+        <Object id="S_KBSJoint" suffix="1" />
+        <Object id="S_Keypoint" suffix="1" />
+        <Object id="S_KHinge" suffix="1" />
+        <Object id="S_KPrismatic" suffix="1" />
+        <Object id="S_KVehFact" suffix="1" />
+        <Object id="S_Ladder" suffix="1" />
+        <Object id="S_Light" suffix="1" />
+        <Object id="S_Light_DirectionalLight" suffix="1" />
+        <Object id="S_Light_Spotlight" suffix="1" />
+        <Object id="S_LineImpulse" suffix="1" />
+        <Object id="S_MatineeIP" suffix="1" />
+        <Object id="S_MatineeIPSel" suffix="1" />
+        <Object id="S_MatineeTimeMarker" suffix="1" />
+        <Object id="S_NavP" suffix="1" />
+        <Object id="S_Note" suffix="1" />
+        <Object id="S_Pawn" suffix="1" />
+        <Object id="S_Pickup" suffix="1" />
+        <Object id="S_Player" suffix="1" />
+        <Object id="S_PolyMarker" suffix="1" />
+        <Object id="S_RadForce" suffix="1" />
+        <Object id="S_RadImpulse" suffix="1" />
+        <Object id="S_Route" suffix="1" />
+        <Object id="S_SkyLight" suffix="1" />
+        <Object id="S_Teleport" suffix="1" />
+        <Object id="S_Terrain" suffix="1" />
+        <Object id="S_Thruster" suffix="1" />
+        <Object id="S_Trigger" suffix="1" />
+        <Object id="S_Weapon" suffix="1" />
+        <Object id="S_WhiteCircle" suffix="1" />
+        <Object id="S_ZoneInfo" suffix="1" />
+        <Object id="SceneManager" suffix="1" />
+        <Object id="SubActionCameraShake" suffix="1" />
+        <Object id="SubActionFade" suffix="1" />
+        <Object id="SubActionFOV" suffix="1" />
+        <Object id="SubActionGameSpeed" suffix="1" />
+        <Object id="SubActionIndicator" suffix="1" />
+        <Object id="SubActionOrientation" suffix="1" />
+        <Object id="SubActionSceneSpeed" suffix="1" />
+        <Object id="SubActionTrigger" suffix="1" />
+        <Object id="SwchLite" suffix="1" />
+        <Object id="TexCoordGenIcon" suffix="1" />
+        <Object id="TrigSpcl" suffix="1" />
+        <Object id="UnrealEdIcon_Archetype" suffix="1" />
+        <Object id="UnrealEdIcon_Class" suffix="1" />
+        <Object id="UnrealEdIcon_FaceFXAsset" suffix="1" />
+        <Object id="UnrealEdIcon_Font" suffix="1" />
+        <Object id="UnrealEdIcon_PhysAsset" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="3" />
+        <Object id="UnrealEdIcon_Sound" suffix="1" />
+        <Object id="UnrealEdIcon_SoundCue" suffix="1" />
+        <Object id="UnrealEdIcon_StaticMesh" suffix="1" />
+        <Object id="UnrealEdIcon_TerrainLayerSetup" suffix="1" />
+        <Object id="UnrealEdIcon_TerrainMaterial" suffix="1" />
+        <Object id="VolumePath" suffix="1" />
+        <Object id="White" suffix="1" />
+        <Object id="WhiteSquareTexture" suffix="1" />
+        <Object id="WireframeTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\gameframework.u" />
+    <Package path="tpgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="tpgame\cookedpc\guidcache.upk" />
+    <Package path="tpgame\cookedpc\ipdrv.u" />
+    <Package path="tpgame\cookedpc\kynapseprefabs.upk" />
+    <Package path="tpgame\cookedpc\maps\cutscenes\cs_10_subway\cs_10_subway_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\cutscenes\cs_10_subway\cs_10_subway.tpm" />
+    <Package path="tpgame\cookedpc\maps\cutscenes\cs_10_subway\cs_subway_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\cutscenes\cs_11_warehouse\cs_11_warehouse.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd_des_out_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd_des_out.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_ai_intro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_ai_tank_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_ai_tank.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_ai_tank2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_apc.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg01_dstrd.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg01_prstn.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg02_dstrd.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg02_prstn.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg03_dstrd.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_d_bldg03_prstn.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_deadwall.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_1flr.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_1flrprops.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_1stairs.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_2flr.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_2flrprops.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_2stairs.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_wallfill.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_env_wallhole.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_fx_particles.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_hall_dst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_lights_ext.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_lights_skydome.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_post.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_rooftop_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_rooftopprops.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_sh_shell.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_snd_intro_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_snd_intro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_theater.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_view_distant.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_view_escape.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_view_sh.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd1\dcrd1_view_strtlvl.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_bus.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_factory_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_factory.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_facwall2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_in_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_in.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_out_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_out.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_streeta.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_streetb.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_des_tank.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_effects.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_fact_int_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_fact_roof_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_factory_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_01_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_02_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_03_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_04_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_at_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_hideout_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_in_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_in01_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_intersx_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_lighting.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_misc_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_park_01_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_park_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_post.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndfactory_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndfactory.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse02_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse02.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse03_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndhouse03.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndstreets_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sndstreets.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_streets_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_streets01_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_streets02_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_streets03_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_zeppatrol_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd3\dcrd3_zeppatrol_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_bsp_grge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_bsp_jail.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_bsp_surround.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_exit.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_grge_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_grge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_intro_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_intro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_des_jail.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_exterior.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_fx_part.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_post.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sm_chouse.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sm_exterior.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sm_grge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sm_jail.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sm_surround.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_sounds.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd5\dcrd5_streets.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_bg_bombing.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_bg_bombnend.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_bg_ending.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_croom_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_croom.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_croom2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_hall1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_hall2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_outro_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_outro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_roof.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_des_zep.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_enter.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_fx_part.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_hall_before.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_post.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room01.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room02.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room03.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room04.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room05.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room06.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room07.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room99_furn.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_room99.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcrd\dcrd6\dcrd6_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh_ext_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh_gsound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_ext_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_grounds_01.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_grounds_02.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_grounds_03.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_grounds_03a.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_grounds.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_backdrop_02.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_backdrop.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_bsp_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_des_lawn_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_des_lawn.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_introoo.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_introsnd_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_introsnd.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh1\dcwh1_terrain.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh_dynlights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2_music.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2a_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2a_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh2\dcwh2a_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_dw.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_end.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_ovalo.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_rr.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_teargas.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_westwing.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_whback.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp_wwlobby.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_escape_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_escape.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_hall.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_officers.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_teargas_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des_teargas.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh3\dcwh3_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh4\dcwh4_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh5\dcwh5_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh5\dcwh5_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\dcwh\dcwh5\dcwh5_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_anm_amb1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_anm_amb2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_middle_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_middle.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_para1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_roof_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_roof.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_sewer.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets2_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets3_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_streets3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_des_sub.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_frntst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_introst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_rightst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_sewer1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_sewer2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_streets.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone5.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone6.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone7.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone8.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_env_zone9.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_ext_light.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_fx.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_int_light.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_planes.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nybr\nybr6\nybr6_upass_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes_globallights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes_gsound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_apc_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_apc.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_blimp_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_blimp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_civs.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_civs2_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_civs2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_intro_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_intro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_street.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_des_wh.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone1b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone2b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone3b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone3c.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone4.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_env_zone5.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes1\nyes1_soundtemp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_des_station.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_des_subway.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_des_tun_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_des_tun.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_env_zone1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_env_zone2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_env_zone2b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_env_zone3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_env_zone4.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes2\nyes2_soundtemp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes_des_passengers.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_sinkhole.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_sniper_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_sniper.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_train_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_train.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_wfight_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_des_wfight.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone2b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone5.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone6.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone7.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone8.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_env_zone9.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_soundtemp_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyes\nyes3\nyes3_soundtemp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss_sea.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss_transition_a.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_airshow.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_anim_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_anim.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_atmosphere.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bgscripting.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg_frntsides.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_backside.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_deckb1_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_deckb1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_deckb2_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_deckb2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_deckb3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_decktop_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_decktop.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg1_stair.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg2_bsp.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bldg2_deckb2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bridge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bridgedst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bscript_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_bscript.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_city.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_deathfromabove.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_deck2_exp2p.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_des_air.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_des_htl.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_elevator.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_ext_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_fx_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_fx.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_hotel_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_hotelroofdst.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_hotelroofprs.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_htlroof.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_int1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_int2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_rscript.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss1\nyss1_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss_transition_b.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_alleyobjs_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_bg_2_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_bg_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_ext1_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_ext1_lights2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_fx_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_fx.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_interior_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_interior_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_interior_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_interior2_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_lot_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_lot_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_roofobjs_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_roofs_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_roofs_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_street_2_env_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_street_2_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_street_des_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_street_des.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\nyss\nyss3\nyss3_street_env.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\entry_master_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\entry_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\entry_nyss_intro_hack.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\mpentry.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\shell_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\shell\turningpoint_p.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_2ndfl_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_2ndfl.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_airforce1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_bridge_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_bridge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_cutscene.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_spans1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_tower1_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_tower1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_walkways_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_des_walkways.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_bascule.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_bascule2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_bridge.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_bridge2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_controlrm.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_mantle.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_mantleelev.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_shoreline.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_skyline.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_span1_lo.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_span1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_spanelev.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_spiral.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_tower1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_tower2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_towerbase.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_env_walkways.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_music.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_sound1_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_sound1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_sound2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_sound3_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukbr\ukbr1\ukbr1_sound3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl_cha_fill_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_finale_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_finale.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_intro_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_intro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_roof1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_tower1_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_des_tower1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_armoury.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_cath1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_dininghall.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_hallway1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_roof1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_tower1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_env_tower3.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl1\uktl1_spiraltower.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_des_elevator_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_des_elevator.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_des_lab1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_des_lab2_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_des_lab2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_env_dorms.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_env_elevator.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_env_hallway1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_env_lab1.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_env_lab2.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\uktl\uktl2\uktl2_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_cha_fill_lights.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_bombroom_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_bombroom.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_cockpit_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_cockpit.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_crew.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_eng.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_fakes.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_hangar_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_des_hangar.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_elevator.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_bombhall.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_bombroom.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_cockpit.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_crew.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_eng.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_env_hangar.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_master.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_outro.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_sky.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_bombroom.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_cockpit_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_cockpit.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_crew.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_vehicles_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_snd_vehicles.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_sound_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\ukzp_sound.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\unzp_des_vehicles_loc_int.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\unzp_des_vehicles.tpm" />
+    <Package path="tpgame\cookedpc\maps\gamemaps\ukzp\unzp_env_vehicles.tpm" />
+    <Package path="tpgame\cookedpc\maps\othermaps\multiplayer\brkngrnd_mp.tpm" />
+    <Package path="tpgame\cookedpc\maps\othermaps\multiplayer\gasbag_mp.tpm" />
+    <Package path="tpgame\cookedpc\maps\othermaps\multiplayer\labrats_mp.tpm" />
+    <Package path="tpgame\cookedpc\maps\othermaps\multiplayer\theghetto_mp.tpm" />
+    <Package path="tpgame\cookedpc\maps\othermaps\shell\shell_storefront\shell_storefront.tpm" />
+    <Package path="tpgame\cookedpc\nodebuddies.upk" />
+    <Package path="tpgame\cookedpc\onlinesubsystemgamespy.u" />
+    <Package path="tpgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_civilian.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_civilian3.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_civilian4.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_einstein.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_female.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_player.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_weapons.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_animtree_wehrmacht.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_concept.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_bluffing.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_bomb.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_grapple.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_mg48.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_mobility.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_panzerstrike.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_poses.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_core_static.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_multiplayer_melee.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_pl_multiplayer.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_pl_player.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_cutsc_dcrd.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_cutsc_dcwh.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_cutsc_dcwhpr.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_cutsc_ukzp.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_cutscenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_dclink_ambient.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_enc_safeh_pat_ab.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_enc_safehouse.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_encb_courthouse.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_encb_escapescene.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_encb_escapescene2.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_endcutsc_ukbr.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ny_bar_ambient.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ny_escape_ambient2.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ny_escape.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ny_scenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ny_subway.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_scriptedai.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_street_calling.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_street_haras.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_street_offstore.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_streetscenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_uk_scenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ukbr_scenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_ukzp_scenes.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_verticalslice.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_wa_dcrd.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_sc_wa_whitehouse.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_test2.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\anm_weapon_npc.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_gmp_ny_scenes_a.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_gmp_ny_scenes_b.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_barricade_ambient.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_escape_ambient.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_scenes_a.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_scenes_b.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_scenes_c.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_scenes_subway_a.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_ny_scenes_subway_b.upk" />
+    <Package path="tpgame\cookedpc\packages\animation\pat_uktl_scenes_a.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_angelo.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_boids.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_callahan.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_castleton.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_civ_fireman.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_civ_gimps.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_civ_partisan_2.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_civ_partisan.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_civilian_ladies.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_civilianfx.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_conwrk_b.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_dancarson_nyss.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_dead_ppl.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_donovan.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_einstein.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\body_N" suffix="1" />
+        <Object id="Texture\head_N" suffix="1" />
+        <Object id="Textures\body_D" suffix="1" />
+        <Object id="Textures\body_N" suffix="1" />
+        <Object id="Textures\body_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_combat.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_dcrd.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_dcwh.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_grenade.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_hits.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_nybr.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_nyes.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_preload.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_reload.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx_uktl.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ffx.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_hats.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_jackson.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_nat_guard_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\US_National_Guard_A_Helmet_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_nat_guard_off_a.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\body_D" suffix="2" />
+        <Object id="Textures\body_N" suffix="2" />
+        <Object id="Textures\body_S" suffix="2" />
+        <Object id="Textures\head_D" suffix="1" />
+        <Object id="Textures\head_N" suffix="1" />
+        <Object id="Textures\head_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_nazi_gimps.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_nazi_pilot.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_nazi_pres.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\body_D" suffix="1" />
+        <Object id="Texture\body_N" suffix="2" />
+        <Object id="Texture\body_S" suffix="1" />
+        <Object id="Texture\head_N" suffix="2" />
+        <Object id="Texture\head_S" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_nazimechanic.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_nelson.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_newscaster.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\body_D" suffix="2" />
+        <Object id="Texture\body_N" suffix="3" />
+        <Object id="Texture\body_S" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_nightjager.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_paratrooper_a.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_paratrooper_b.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_partisan_2.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_partisan_spy.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\PartisanSpy1_head_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_partisan_st1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Partisan_Body_N_1" suffix="1" />
+        <Object id="Texture\Partisan_Head_N_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_partisan_waiter.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_partisan3.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_partisanspy_2.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_partisanspy_3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_N" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_partisanspy_4.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_peterson.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_physicist.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_player_partisan.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_player_wehr_body.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_policeman.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_shopkeeper_female.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_shopkeeper_male.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ss_grunt.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_ss_officer2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_D" suffix="1" />
+        <Object id="Texture\head_N" suffix="4" />
+        <Object id="Texture\head_S" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_ssmp.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_tech.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_textures_localize.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MultiPlayer\SSOfficer_interiorA_head_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_wehr_panzer.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_avg_2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_D" suffix="2" />
+        <Object id="Texture\head_N" suffix="5" />
+        <Object id="Texture\head_S" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_avg_3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_D" suffix="3" />
+        <Object id="Texture\head_N" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_avg_4.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_D" suffix="4" />
+        <Object id="Texture\head_N" suffix="7" />
+        <Object id="Texture\head_S" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_avg_5.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\head_D" suffix="5" />
+        <Object id="Texture\head_N" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_avg_6.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_riot.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_wehrmacht_sniper.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_whermact_ammo.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_whermact_gear_1.upk" />
+    <Package path="tpgame\cookedpc\packages\character\cha_whermact.upk" />
+    <Package path="tpgame\cookedpc\packages\character\prop_wehrmacht_gear.upk" />
+    <Package path="tpgame\cookedpc\packages\character\ssofficer.upk" />
+    <Package path="tpgame\cookedpc\packages\character\wehrmact_ave.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wehrmacht_Body_D" suffix="1" />
+        <Object id="Wehrmacht_Body_SpecCol" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\character\whermach_body.upk" />
+    <Package path="tpgame\cookedpc\packages\character\wp_mp50.upk" />
+    <Package path="tpgame\cookedpc\packages\design\des_lintemp.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_characters\fx_char_vomit.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\electrical\fx_env_elect_short.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\electrical\fx_env_elevatr_sprks.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\electrical\fx_env_television.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\falling_debris\fx_fallingdbris_01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\fireSmoke03" suffix="1" />
+        <Object id="Tex\fireSmoke03a" suffix="1" />
+        <Object id="Tex\fireSmoke04" suffix="1" />
+        <Object id="Tex\fireSmoke05" suffix="1" />
+        <Object id="Tex\FX_srfTg_drt_blwupD" suffix="1" />
+        <Object id="Tex\rain_LightHalo1" suffix="1" />
+        <Object id="Tex\smokeFire01" suffix="1" />
+        <Object id="Tex\smokeFire02" suffix="1" />
+        <Object id="Tex\smokeFire02a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fog\fx_env_mistfog_02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_CircleRmp1b" suffix="1" />
+        <Object id="Tex\FX_CircleRmp1c" suffix="1" />
+        <Object id="Tex\FX_SecBlmp4Rmp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_dust\fx_env_dustfx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_ENV_Gdust_01" suffix="1" />
+        <Object id="Tex\FX_ENV_Gdust_02" suffix="1" />
+        <Object id="Tex\FX_ENV_Gdust_03" suffix="1" />
+        <Object id="Tex\FX_ENV_Gdust_04" suffix="1" />
+        <Object id="Tex\FX_ENV_Gdust_05" suffix="1" />
+        <Object id="Tex\FX_ENV_Gdust_06" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_fireny\fx_env_firenyc.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_largesmoke1A" suffix="1" />
+        <Object id="Tex\FX_Smoke_PuffA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_insects\fx_env_insects.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_leaves\fx_env_leaves.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_lgtbems\fx_env_lghtbeam.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\darkNoise01" suffix="1" />
+        <Object id="Tex\FineDots01" suffix="1" />
+        <Object id="Tex\FX_BeamCircleRmp1" suffix="1" />
+        <Object id="Tex\FX_CircleRmp1a" suffix="1" />
+        <Object id="Tex\FX_SecBlmp2Rmp1" suffix="1" />
+        <Object id="Tex\lightNoise01" suffix="1" />
+        <Object id="Tex\linesWarpedNoisePan" suffix="1" />
+        <Object id="Tex\nightvison3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_particulat\fx_env_particulate.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_smoke\fx_env_smokblow.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_ENV_fllngDust_01" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_02" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_03" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_04" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_05" suffix="1" />
+        <Object id="Tex\FX_ENV_flm108_L2suv" suffix="1" />
+        <Object id="Tex\FX_ENV_flm108_L3suv" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_trashppr\fx_env_trash.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_water\fx_env_watr_drps.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_water\fx_env_watr_splsh.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\fireSmoke03" suffix="1" />
+        <Object id="Tex\fireSmoke03a" suffix="1" />
+        <Object id="Tex\fireSmoke04" suffix="1" />
+        <Object id="Tex\fireSmoke05" suffix="1" />
+        <Object id="Tex\FX_Dstortion_A1N" suffix="1" />
+        <Object id="Tex\FX_Dstortion_A2N" suffix="1" />
+        <Object id="Tex\FX_Dstortion_A3N" suffix="1" />
+        <Object id="Tex\FX_softCircle01" suffix="1" />
+        <Object id="Tex\FX_softCircle01Invrt" suffix="1" />
+        <Object id="Tex\FX_Tex_Energy_Loop" suffix="1" />
+        <Object id="Tex\rain_LightHalo1" suffix="1" />
+        <Object id="Tex\smokeFire01" suffix="1" />
+        <Object id="Tex\smokeFire02" suffix="1" />
+        <Object id="Tex\smokeFire02a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\fx_env_water\fx_env_watr_spray.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_srfTg_drt_blwupD" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_environmental\smoke\fx_env_smk_stckc.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\fireSmoke03" suffix="1" />
+        <Object id="Tex\fireSmoke03a" suffix="1" />
+        <Object id="Tex\fireSmoke04" suffix="1" />
+        <Object id="Tex\fireSmoke05" suffix="1" />
+        <Object id="Tex\rain_LightHalo1" suffix="1" />
+        <Object id="Tex\smokeFire01" suffix="1" />
+        <Object id="Tex\smokeFire02" suffix="1" />
+        <Object id="Tex\smokeFire02a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_explosions\fx_exp_intrior.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_explosions\fx_exp_shelblast.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_ENV_fllngDust_01" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_02" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_03" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_04" suffix="1" />
+        <Object id="Tex\FX_ENV_fllngDust_05" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_explosions\fx_exp_trkb.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_explosions\fx_exp_trkgb.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_ENV_flm108_L2suv" suffix="2" />
+        <Object id="Tex\sngl_sprk01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_postprocess\fx_postprocess.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\darkNoise01" suffix="2" />
+        <Object id="Tex\FX_Distort_soft" suffix="1" />
+        <Object id="Tex\lightNoise01" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_srftgs_decls.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_srftgs_paper.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_srftgs_plastr.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surfacetags_base_01.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surfacetags_cncret_01.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surfacetags_metal_01.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surfacetags_wood_01.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_blood.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_CircleRmp1a" suffix="2" />
+        <Object id="Tex\FX_CircleRmp1aInvert" suffix="1" />
+        <Object id="Tex\FX_ENV_panFractlTex_A02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_brck_ornge.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_brck_red.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_cndrblk.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_dirt.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_sufacetags\fx_surftgs_glass.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\fireSmoke03" suffix="1" />
+        <Object id="Tex\fireSmoke03a" suffix="1" />
+        <Object id="Tex\fireSmoke04" suffix="1" />
+        <Object id="Tex\fireSmoke05" suffix="1" />
+        <Object id="Tex\rain_LightHalo1" suffix="1" />
+        <Object id="Tex\smokeFire01" suffix="1" />
+        <Object id="Tex\smokeFire02" suffix="1" />
+        <Object id="Tex\smokeFire02a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_vehicles\fx_veh_jetexhaust.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_shckWaver_Distort" suffix="1" />
+        <Object id="Tex\lens_flare01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_vehicles\fx_veh_me626.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_vehicles\fx_veh_tanks.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_beam.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\fireSmoke03" suffix="1" />
+        <Object id="Tex\fireSmoke03a" suffix="1" />
+        <Object id="Tex\fireSmoke04" suffix="1" />
+        <Object id="Tex\fireSmoke05" suffix="1" />
+        <Object id="Tex\FX_CircleRmp1a" suffix="1" />
+        <Object id="Tex\FX_CircleRmp1aInvert" suffix="1" />
+        <Object id="Tex\rain_LightHalo1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_grenades.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_mp50_shels.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_muzlflsh_01.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_muzlflsh_mp50.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_mzflsh_g47.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_mzflsh_var.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_npc_mzfl.upk" />
+    <Package path="tpgame\cookedpc\packages\effects\fx_weapons\fx_wea_tracer.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\action_vignette\actionvignette_basel.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\action_vignette\jessica_ocean_av.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\building_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\checkpoint_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\decal_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\dest_building_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Stairs_Handrail_Iron_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\door_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\env_ps3_specific.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\fence_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\foliage_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\furniture_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\fx_char_para_dp.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\halfbrick.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\HB_001_Piano_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\ladder_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\cutscens\cutsenes_jerry.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcrd\dcrd_andrew.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcrd\dcrd_gi.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcrd\dcrd1_env_dp.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_basel.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_genesis.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\DCWH_Resistance_Banner" suffix="1" />
+        <Object id="Tex\DCWH_Resistance_Banner_N" suffix="1" />
+        <Object id="Tex\DCWH_Resistance_Banner_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_jerry.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_jiwon.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_joon.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_lou.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\dcwh\dcwh_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\multiplayer\brkngrnd_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\multiplayer\gassack_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\multiplayer\labrats_josh.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\multiplayer\theghetto_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_gi.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_jiwon.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\CargoAmmo_D" suffix="1" />
+        <Object id="Tex\CargoAmmo_N" suffix="1" />
+        <Object id="Tex\CargoAmmo_S" suffix="1" />
+        <Object id="Tex\COLN_AlleywayDoor_04_N" suffix="1" />
+        <Object id="Tex\COLN_AlleywayDoor_04_S" suffix="1" />
+        <Object id="Tex\Desk_02D" suffix="1" />
+        <Object id="Tex\Desk_02N" suffix="1" />
+        <Object id="Tex\Desk_02S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_joon.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_lou.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_mario.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_scott_2.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr_scott.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nybr\nybr6_specific.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_andrew.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\HB_012_DiningTable_02_S" suffix="1" />
+        <Object id="Tex\HB_043_SubwayTurnstile_D" suffix="1" />
+        <Object id="Tex\HB_043_SubwayTurnstile_N" suffix="1" />
+        <Object id="Tex\HB_043_SubwayTurnstile_S" suffix="1" />
+        <Object id="Tex\HB_044_SubwayRailingSet_N" suffix="1" />
+        <Object id="Tex\HB_045_SubwayEntranceSign_N" suffix="1" />
+        <Object id="Tex\HB_045_SubwayEntranceSign_S" suffix="1" />
+        <Object id="Tex\HB_047_SubwaySecurityGate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_genesis.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FENC_ChainLink_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_jiwon.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_scott.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_sean.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\FX_BeamCircleRmp1" suffix="1" />
+        <Object id="Tex\FX_SecBlmp2Rmp1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyes\nyes_skybox.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\lightmapfix.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_ak_tex2.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_ak_tex3.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_ak_tex4.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_ak.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Man_Tower_18" suffix="1" />
+        <Object id="Tex\Man_Tower_19" suffix="1" />
+        <Object id="Tex\Man_Tower_20" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_dp.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_gk.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_joonk.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\NYSS_SteelBeam_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_js.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\bucket_D" suffix="1" />
+        <Object id="Tex\bucket_N" suffix="1" />
+        <Object id="Tex\bucket_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_mc.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_mp.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_cnstr_sc.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss_skybox.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\nyss1_harbor.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\skybridge_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Concrete_06_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\nyss\volumetric_effects.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukbr\ukbr_g.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukbr\ukbr_jiwon.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\concrete_D" suffix="1" />
+        <Object id="Tex\NYBR3_Concrete_Grunge_Waterdrop_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukbr\ukbr_josh.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukbr\ukbr_lou.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukbr\ukbr_mario.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\uktl\uktl_jerry.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\uktl\uktl_josh.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\uktl\uktl_lou.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\uktl\uktl_mario.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\UKTL_JP_walkway_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\uktl\uktl_mark.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_andrew.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_jerry.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_lou.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_mario.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\UKZP_Grating_D" suffix="1" />
+        <Object id="Tex\UKZP_Grating_N" suffix="1" />
+        <Object id="Tex\UKZP_Grating_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_reis.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_rick.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\UKZP_platediamond_lhA_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\ukzp\ukzp_seans.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\cinema\cinema.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Grunge_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_adams.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_clipon.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_franklin.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_hancock.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_jackson.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Brick_Painted_01_N" suffix="1" />
+        <Object id="Tex\Brick_Painted_01_S" suffix="1" />
+        <Object id="Tex\Wood_08_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_jefferson.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_lincoln.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_madison.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\colonial\coln_porch_n_entry.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\courthouse_interior\cabinet_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\courthouse_interior\courtroom_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\courthouse_interior\crt_lobby.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\courthouse_interior\desk_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\courthouse_interior\garage_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\GARG_Pillar_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\dcrd1\dcrd1_view_sh_pck.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\federal\fed_nero.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\wood_01_D" suffix="1" />
+        <Object id="Tex\wood_02_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\props\props_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\props\signs_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\safehouse\enca_safeh_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\verticalslice\safehouse\safehouse_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Basement_N" suffix="1" />
+        <Object id="Tex\Basement_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_alley.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\AC_system_S" suffix="1" />
+        <Object id="Tex\Book_N" suffix="1" />
+        <Object id="Tex\Book_S" suffix="1" />
+        <Object id="Tex\Canopy_S" suffix="1" />
+        <Object id="Tex\CargoBox_D" suffix="1" />
+        <Object id="Tex\CargoBox_N" suffix="1" />
+        <Object id="Tex\ConstructionSupport_D" suffix="1" />
+        <Object id="Tex\ConstructionSupport_N" suffix="1" />
+        <Object id="Tex\ConstructionSupport_S" suffix="1" />
+        <Object id="Tex\FENC_ChainLink_01_A" suffix="1" />
+        <Object id="Tex\FENC_ChainLink_01_D" suffix="2" />
+        <Object id="Tex\FENC_ChainLink_01_N" suffix="1" />
+        <Object id="Tex\FENC_ChainLink_01_S" suffix="1" />
+        <Object id="Tex\FireExtinguisher_D" suffix="1" />
+        <Object id="Tex\FireExtinguisher_N" suffix="1" />
+        <Object id="Tex\FireExtinguisher_S" suffix="1" />
+        <Object id="Tex\FURN_Crate_01_N" suffix="1" />
+        <Object id="Tex\FURN_Crate_02_D" suffix="1" />
+        <Object id="Tex\FURN_Crate_02_N" suffix="1" />
+        <Object id="Tex\FURN_Crate_03_N" suffix="1" />
+        <Object id="Tex\FURN_Crate_04_D" suffix="1" />
+        <Object id="Tex\FURN_Crate_04_N" suffix="1" />
+        <Object id="Tex\Garbage_bag_N" suffix="1" />
+        <Object id="Tex\Garbage_can_Cap_D" suffix="1" />
+        <Object id="Tex\Garbage_can_Cap_N" suffix="1" />
+        <Object id="Tex\Garbage_can_D" suffix="1" />
+        <Object id="Tex\Garbage_can_N" suffix="1" />
+        <Object id="Tex\Garbage_can_S" suffix="1" />
+        <Object id="Tex\GARG_WallVent_N" suffix="1" />
+        <Object id="Tex\GARG_WallVent_S" suffix="1" />
+        <Object id="Tex\Metal_S" suffix="1" />
+        <Object id="Tex\MetalRailing_D" suffix="1" />
+        <Object id="Tex\MetalRailing_N" suffix="1" />
+        <Object id="Tex\Offc_FlowerPot_01_A" suffix="1" />
+        <Object id="Tex\Offc_FlowerPot_01_N" suffix="1" />
+        <Object id="Tex\Offc_FlowerPot_01_S" suffix="1" />
+        <Object id="Tex\STRT_Crate_Sml_1_D" suffix="1" />
+        <Object id="Tex\STRT_Crate_Sml_1_N" suffix="1" />
+        <Object id="Tex\STRT_Crate_Sml_1_S" suffix="1" />
+        <Object id="Tex\STRT_EscapeStairs_S" suffix="1" />
+        <Object id="Tex\STRT_Fan_SH" suffix="1" />
+        <Object id="Tex\TECH_ElectricalBox_01_D" suffix="1" />
+        <Object id="Tex\TECH_ElectricalBox_01_N" suffix="1" />
+        <Object id="Tex\TECH_ElectricalBox_01_S" suffix="1" />
+        <Object id="Tex\Telephone_Wood_N" suffix="1" />
+        <Object id="Tex\Telephone_Wood_S" suffix="1" />
+        <Object id="Tex\transformers_N" suffix="1" />
+        <Object id="Tex\transformers_S" suffix="1" />
+        <Object id="Tex\wood_N" suffix="2" />
+        <Object id="Tex\wood_S" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_empirediner.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Mask_01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_indstbldg1.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_indstbldg2.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_indstbldg3.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_resbldg1.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Brick_01_S" suffix="1" />
+        <Object id="Tex\V2_RSDN01_Window_D" suffix="1" />
+        <Object id="Tex\V2_RSDN01_Window_N" suffix="1" />
+        <Object id="Tex\V2_RSDN01_Window_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_resbldg2.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_store.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_streetprop.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\MailBox_N" suffix="1" />
+        <Object id="Tex\MailBox_SH" suffix="1" />
+        <Object id="Tex\Metal_S" suffix="1" />
+        <Object id="Tex\STRT_Bench_01_N" suffix="1" />
+        <Object id="Tex\STRT_NewsDispenser_01_D" suffix="1" />
+        <Object id="Tex\STRT_NewsDispenser_01_N" suffix="1" />
+        <Object id="Tex\STRT_NewsDispenser_01_S" suffix="1" />
+        <Object id="Tex\STRT_ParkingMeter_01_N" suffix="1" />
+        <Object id="Tex\STRT_streetLight_N" suffix="1" />
+        <Object id="Tex\STRT_streetLight_S" suffix="1" />
+        <Object id="Tex\STRT_TrafficLight_4way_Hanging_N" suffix="1" />
+        <Object id="Tex\STRT_TrafficLight_Single_Post_N" suffix="1" />
+        <Object id="Tex\STRT_TreeGrid_N" suffix="1" />
+        <Object id="Tex\STRT_TreeGrid_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\ny2\ny2_streetsurf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Pavers_01_D" suffix="1" />
+        <Object id="Tex\Pavers_01_N" suffix="1" />
+        <Object id="Tex\Pavers_01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_empirestate.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_genbldg01.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\V3_GenBldg01_LOD0_Trim_LedgeCylinder_N" suffix="1" />
+        <Object id="Tex\V3_GenBldg01_LOD0_Window_D" suffix="1" />
+        <Object id="Tex\V3_GenBldg01_LOD0_WindowTop_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_genbldg02.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_genbldg03.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_genbldg05.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_genbldg06.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\double_window_glassFrame_D" suffix="1" />
+        <Object id="Tex\double_window_glassFrame_N" suffix="1" />
+        <Object id="Tex\double_window_glassFrame_S" suffix="1" />
+        <Object id="Tex\Main_column_B3_D" suffix="1" />
+        <Object id="Tex\Main_column_B3_N" suffix="1" />
+        <Object id="Tex\sec_floor_trim_D" suffix="1" />
+        <Object id="Tex\sec_floor_trim_N" suffix="1" />
+        <Object id="Tex\sec_floor_trim_S" suffix="1" />
+        <Object id="Tex\smaller_pillars_N" suffix="1" />
+        <Object id="Tex\smaller_pillars_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_lobby.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_storeint.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\vignettes\v3_ny_flatiron\v3_pkg_streetprop.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\level_specific\z_demo\tp_demo.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\matlib_carpet_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\matlib_env.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Brick_02_N" suffix="1" />
+        <Object id="Tex\Brick_02_S" suffix="1" />
+        <Object id="Tex\carpet_01_S" suffix="1" />
+        <Object id="Tex\carpet_02_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\matlib_ground.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\matlib_stone_env.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\stone_Marble_03_S" suffix="1" />
+        <Object id="Tex\stone_Marble_06_S" suffix="1" />
+        <Object id="Tex\Stone_Rough_Tile_01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\matlib_tile_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\matlib_wood_env.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Wood_02_S" suffix="1" />
+        <Object id="Tex\Wood_04_S" suffix="1" />
+        <Object id="Tex\wood_Siding_1_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\nazi_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\nazi_textures.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\office_env.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\wood_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\road_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\sign_tin_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\sky_env.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_SURF_fract" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\statue_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\street_env.tpk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Metal_D" suffix="1" />
+        <Object id="Tex\Metal_N" suffix="1" />
+        <Object id="Tex\Metal_S" suffix="2" />
+        <Object id="Tex\STRT_EscapeStairs_D" suffix="1" />
+        <Object id="Tex\wood_N" suffix="1" />
+        <Object id="Tex\wood_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\environments\tech_env.tpk" />
+    <Package path="tpgame\cookedpc\packages\environments\television_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\turbosquid.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\vehicles_gas_env.upk" />
+    <Package path="tpgame\cookedpc\packages\environments\wmonument.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\fdiazpack.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\fdiazskinpack.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\hud_materials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Border" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\hud\ui_bonusmenus.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_demomenus.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_gamespy.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_hud.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_mpmenus.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_optionsmenus.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_pausemenu.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_scoreboard.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_spmenus.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_tpfrontend.upk" />
+    <Package path="tpgame\cookedpc\packages\hud\ui_tutorials.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physicalmaterials.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_blood.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_brick_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_cloth_mstr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_cndrblok_mstr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_concrete_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_dirt_master.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_glass_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_metal_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_paper_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_plaster_mstr.upk" />
+    <Package path="tpgame\cookedpc\packages\physicalmaterials\physms_wood_mastr.upk" />
+    <Package path="tpgame\cookedpc\packages\prefabs\ladderprefabs.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_bomb.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_briefcase.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_bundle.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_c4.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_conwrkr_gear.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_parachute.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_partisan_gear.upk" />
+    <Package path="tpgame\cookedpc\packages\props\prop_phys_cloth.upk" />
+    <Package path="tpgame\cookedpc\packages\props\props_mil.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_animals.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_battle.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_drones.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_props.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_stingers.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_amb_weather.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_cutscenes.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ai_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ai.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_dcrd_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_dcrd.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_dcwh_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_dcwh.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nybr_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nybr.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nyes_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nyes.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nyss_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_nyss.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_obsolete.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ukbr_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ukbr.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_uktl_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_uktl.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ukzp_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_ukzp.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_vocal_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dia_vocal.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_explosions.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_fires.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_impacts.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_projectiles.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_stress.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_dst_sweetners.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_bodyfalls.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_footsteps.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_grapple.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_hands.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_misc.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_fol_movement.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_interface.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_music_cue.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_music.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_player.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_atom_bomb.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_bomb.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_doors.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_elevators.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_flashlight.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_night_vision.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_paper.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_parachute.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_pneumatics.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_sprinkler.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_prp_switch.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_sfx_obsolete.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_temp.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_airplanes.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_apc.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_blimp.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_boat.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_car.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_tank.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_train.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_veh_truck.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_ar.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_bullet_by.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_cannon.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_grenade.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_machinegun.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_pistol.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_rifle.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_rocket.upk" />
+    <Package path="tpgame\cookedpc\packages\sounds\s_wpn_smg.upk" />
+    <Package path="tpgame\cookedpc\packages\test\ai_test.tpk" />
+    <Package path="tpgame\cookedpc\packages\tpeditorresources\tp_editormaterials.upk" />
+    <Package path="tpgame\cookedpc\packages\tunedata\tunedata.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\kubelwagen_static.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\tank.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\taxi_black.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\truck_destroyed.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\truck_high.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\truck_physic.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\truck_static.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_civ_car.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Mat\test_D" suffix="1" />
+        <Object id="Text\test_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_civ_truck.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_e_50.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_me_626.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_nazi_apc.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_nazi_bomber.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_nazi_cargotruck.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_nazi_patrol_boat.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\veh_rette_65.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\vehc_nzmltry_air.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\vehc_nzmltry_armr.upk" />
+    <Package path="tpgame\cookedpc\packages\vehicles\vehc_train.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tex\Concrete_04_N" suffix="1" />
+        <Object id="Tex\Concrete_04_S" suffix="1" />
+        <Object id="Tex\Support_Beam_OS_N" suffix="1" />
+        <Object id="Tex\Support_Beam_OS_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\vehicles\vehc_usmltry_air.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_colt45.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_fg44.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_g47.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_g47sniper.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\CM_Floor" suffix="1" />
+        <Object id="Texture\CM_Front" suffix="1" />
+        <Object id="Texture\CM_Left" suffix="1" />
+        <Object id="Texture\CM_Right" suffix="1" />
+        <Object id="Texture\CM_Sky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\weapons\wp_grenade.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_henrybigboy.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_m1.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_m14a.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_mg48.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_panzerstreik.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_pistol_silenced.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\MascchinenPistole_45_Nm_1" suffix="1" />
+        <Object id="Texture\MascchinenPistole_45_SP" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="tpgame\cookedpc\packages\weapons\wp_pistol.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_smokegrenade.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_sterlingsmg.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_stg51.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_thompson.upk" />
+    <Package path="tpgame\cookedpc\packages\weapons\wp_trenchgun.upk" />
+    <Package path="tpgame\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="tpgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="tpgame\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="tpgame\cookedpc\startup_int.upk" />
+    <Package path="tpgame\cookedpc\tpgame_loc_int.u" />
+    <Package path="tpgame\cookedpc\tpgame.u" />
+    <Package path="tpgame\cookedpc\tpgamecontent.u" />
+    <Package path="tpgame\cookedpc\tpgameeditor.u" />
+    <Package path="tpgame\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="tpgame\cookedpc\unrealed.u" />
+    <Package path="tpgame\cookedpc\unrealscripttest.u" />
+  </Packages>
+</IdRemapping>

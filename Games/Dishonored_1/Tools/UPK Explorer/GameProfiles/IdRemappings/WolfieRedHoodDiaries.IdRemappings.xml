@@ -1,0 +1,112 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="woolfegame\cookedpc\core.u" />
+    <Package path="woolfegame\cookedpc\engine.u" />
+    <Package path="woolfegame\cookedpc\gameframework.u" />
+    <Package path="woolfegame\cookedpc\gfxui.u" />
+    <Package path="woolfegame\cookedpc\gfxuieditor.u" />
+    <Package path="woolfegame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="woolfegame\cookedpc\guidcache.upk" />
+    <Package path="woolfegame\cookedpc\ipdrv.u" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_boss_blocking.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_pp_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_pp_boss.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_vis_port.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_harb_vis_warehouse.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_chase_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_chase_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_chase_vis_begin.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_chase_vis_middle.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_toyworkshop.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_mark_vis_market.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_vis_left.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_vis_middle.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_sew_vis_right.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_evidenceroom.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_ghetto_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_ghetto_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_ghetto_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_ghetto_vis.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="woolfegame\cookedpc\maps\city_tut_intro_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_intro_vis.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_slums_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_slums_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_slums_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\city_tut_slums_vis.umap" />
+    <Package path="woolfegame\cookedpc\maps\menu.umap" />
+    <Package path="woolfegame\cookedpc\maps\transition.umap" />
+    <Package path="woolfegame\cookedpc\maps\turntables\guardtt.umap" />
+    <Package path="woolfegame\cookedpc\maps\turntables\piedpipertt.umap" />
+    <Package path="woolfegame\cookedpc\maps\turntables\redridinghoodtt.umap" />
+    <Package path="woolfegame\cookedpc\maps\turntables\teslaguardtt.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_lake_base.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="woolfegame\cookedpc\maps\woods_chase_lake_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_lake_vis.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_chase_vis_middle.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_ending_inner_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_ending_inner_vis.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_ending_outer_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_ending_outer_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_ending_outer_vis.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_floating_base.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_floating_checkpoints.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_floating_domlight.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_floating_secrets.umap" />
+    <Package path="woolfegame\cookedpc\maps\woods_floating_vis_forestedge.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="woolfegame\cookedpc\maps\woods_floating_vis_islands.umap" />
+    <Package path="woolfegame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="woolfegame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="woolfegame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="woolfegame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="woolfegame\cookedpc\startup_loc_int.upk" />
+    <Package path="woolfegame\cookedpc\startup.upk" />
+    <Package path="woolfegame\cookedpc\unrealed.u" />
+    <Package path="woolfegame\cookedpc\windrv.u" />
+    <Package path="woolfegame\cookedpc\woolfegame_loc_int.upk" />
+    <Package path="woolfegame\cookedpc\woolfegame.u" />
+  </Packages>
+</IdRemapping>

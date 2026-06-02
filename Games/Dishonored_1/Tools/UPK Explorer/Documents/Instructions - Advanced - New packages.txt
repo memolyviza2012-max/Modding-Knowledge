@@ -1,0 +1,43 @@
+Introduction
+
+If your game supports things like custom DLCs (new skins etc...), then you'll probably want to make a new package instead of a texture pack.
+The users of your mod will then copy this package into the appropriate folder and follow your instructions to enable the new DLC.
+
+It is not recommended to use this functionality to override the game's "official" packages as it will conflict with other mods.
+It is possible to inject textures directly into the new package, as well as modifiy object properties (such as materials, names, etc...)
+
+Step 1: Set a working folder
+
+	The first thing to do is to set a working folder, for example c:\Workspace.
+	This is where file will be exported to, and textures will be imported from
+
+Step 2: Open a package
+
+	Select advanced mode, and open the package you want to work with, from your game installation folder.
+
+______________________________________________________________________________________________________________________________________
+
+From then on you can either inject textures into your package or modify object properties.
+Both will let you save a copy of the package. You will need to close the package and re-open it if it needs further modification (ex: after injection textures, open the copy to modify the properties)
+______________________________________________________________________________________________________________________________________
+
+
+Step 3: Inject textures (Optional)
+
+	See step 3 and 4 in "Instructions - Texture packs" about exporting and processing your textures.
+	Click on the "Inject textures" tab.
+	You should see your modified texture, and if you inject them in the package it will save a modified copy.
+	No texture pack or TFC files will be created, the textures will be stored within the package to avoid conflicts with other mods in the installation folder.
+	You should close the package at this point. If you need to modify object properties, open the newly created copy.
+	
+Step 4: Editing object properties (Optional)
+	
+	Go to the package tab and you will be able to see the package content.
+	You can edit the names table (your game may or may not support longer names)
+	You can also edit the properties of the objects under the objects tab
+	This is useful if you are making a new custom skin and need to update material values, as well as giving your skin a unique name.
+	Depending on the content of your package, you may also be able to swap meshes within the same package, or even make a mod that has nothing to do with textures... This might make the game crash, or not. You will have to experiment and find out :-)
+	Once you are done you can save a copy of the package.
+	You should close the package, and if you need to inject textures into, open the newly created copy.
+
+You can then upload this new package, and the users of your mod will not need TFC installer as your package already contains all the modified textures and properties.

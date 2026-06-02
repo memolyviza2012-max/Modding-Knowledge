@@ -1,0 +1,15 @@
+﻿Game profiles are .xml files that can be found un the GameProfiles\ directory.
+They are used by both UPK Explorer and TFC installer to:
+- detect the game from the package version/licensee version found in the profile
+- map out the package folders
+- determine where the game's TFCs are located
+- determine what suffix the TFC files (Texture2D_xxx.tfc) will use. Warning: You should not modify this for the original game directories.
+- determine if the game exe needs to be patched for hash check (some game exe contain package names to validate with a checksum, the patcher removes these names so the packages can be modded)
+- enable or disable the use of TFC when generating a texture pack (so the texture pack will be generated with textures that have local only mipmaps)
+
+When a texture pack is created, the game profiles is exported with it, and TFC installer will load that profile when the texture pack is opened.
+
+Game profiles can also be used to exclude some packages or even directories.
+This is useful if you have modded files in your game installation that you do not want to be opened by UPK Explorer or modified by TFC installer.
+
+SampleProfile.xml is provided as documentation and provides examples.

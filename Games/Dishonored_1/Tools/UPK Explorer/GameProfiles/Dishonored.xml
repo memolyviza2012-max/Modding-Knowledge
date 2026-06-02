@@ -1,0 +1,25 @@
+﻿<Game packageFileVersion="801" packageLicenseeVersion="30" TFCMappingFileName="Dishonored" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="756" licenseeVersion="0"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="DishonoredGame\CookedPCConsole" TFCpath="DishonoredGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Dunwall City Trials" TFCMappingFileName="DLC05_DunwallCityTrials">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DishonoredGame\DLC\PCConsole\DLC05" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="The Knife of Dunwall" TFCMappingFileName="DLC06_TheKnifeOfDunwall">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DishonoredGame\DLC\PCConsole\DLC06" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="The Brigmore Witches" TFCMappingFileName="DLC07_TheBrigmoreWitches">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DishonoredGame\DLC\PCConsole\DLC07" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

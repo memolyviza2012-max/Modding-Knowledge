@@ -1,0 +1,20 @@
+﻿<Game packageFileVersion="126" packageLicenseeVersion="1" TFCMappingFileName="Land of the Dead" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="99" licenseeVersion="0"/>
+		<PackageVersion fileVersion="120" licenseeVersion="0"/>
+		<PackageVersion fileVersion="120" licenseeVersion="28"/>
+		<PackageVersion fileVersion="121" licenseeVersion="28"/>
+		<PackageVersion fileVersion="128" licenseeVersion="0"/>
+		<PackageVersion fileVersion="129" licenseeVersion="0"/>
+		<PackageVersion fileVersion="129" licenseeVersion="2"/>
+		<PackageVersion fileVersion="129" licenseeVersion="3"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="System" customTFCStartIndex="0" />
+		<PackageFolder path="Animations" customTFCStartIndex="100" />
+		<PackageFolder path="Levels" customTFCStartIndex="200" />
+		<PackageFolder path="Audio\SoundFX" customTFCStartIndex="300" />
+		<PackageFolder path="Meshes" customTFCStartIndex="400" />
+		<PackageFolder path="Textures" customTFCStartIndex="500" />
+	</PackageFolders>
+</Game>

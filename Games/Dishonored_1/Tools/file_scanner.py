@@ -1,0 +1,78 @@
+"""
+DISHONORED-004: INT Files Scanner
+สแกนไฟล์ .int ทั้งหมด สรุปจำนวนบรรทัดข้อความ เรียงลำดับจากมาก→น้อย
+"""
+import os
+import re
+import csv
+
+SOURCE_DIR = r"F:\SteamLibrary\steamapps\common\Dishonored\DishonoredGame\Localization\INT"
+REPORT_PATH = r"D:\Mod_Workspace\Dishonored_Mod_Workspace\04_output\INT_Files_Report.csv"
+
+print("DISHONORED-004: INT Files Scanner")
+print("=" * 60)
+print(f"Source: {SOURCE_DIR}")
+print()
+
+file_stats = []
+total_files = 0
+skipped = 0
+
+for filename in os.listdir(SOURCE_DIR):
+    if not filename.endswith(".int"):
+        continue
+    
+    total_files += 1
+    filepath = os.path.join(SOURCE_DIR, filename)
+    
+    text_count = 0
+    try:
+        # Try UTF-16LE first (most common for .int files)
+        with open(filepath, "r", encoding="utf-16le") as f:
+            lines = f.readlines()
+    except UnicodeError:
+        try:
+            # Fallback to UTF-8
+            with open(filepath, "r", encoding="utf-8") as f:
+                lines = f.readlines()
+        except Exception:
+            skipped += 1
+            continue
+    except Exception:
+        skipped += 1
+        continue
+    
+    for line in lines:
+        line = line.strip()
+        # Match format: key="value"
+        match = re.match(r'^([^=]+)="([^"]+)"', line)
+        if match and match.group(2).strip():
+            text_count += 1
+    
+    if text_count > 0:
+        file_stats.append({"Filename": filename, "TextLines": text_count})
+
+# Sort from most to least
+file_stats.sort(key=lambda x: x["TextLines"], reverse=True)
+
+# Write CSV
+os.makedirs(os.path.dirname(REPORT_PATH), exist_ok=True)
+with open(REPORT_PATH, "w", newline="", encoding="utf-8") as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=["Filename", "TextLines"])
+    writer.writeheader()
+    writer.writerows(file_stats)
+
+print(f"Total .int files found: {total_files}")
+print(f"Files with text: {len(file_stats)}")
+print(f"Skipped (error): {skipped}")
+print()
+print("=" * 60)
+print("TOP 10 FILES (Most Text Lines)")
+print("=" * 60)
+print(f"{'Rank':<5} {'Filename':<45} {'Lines':>8}")
+print("-" * 60)
+for i, stat in enumerate(file_stats[:10], 1):
+    print(f"{i:<5} {stat['Filename']:<45} {stat['TextLines']:>8}")
+
+print()
+print(f"Full report saved to: {REPORT_PATH}")

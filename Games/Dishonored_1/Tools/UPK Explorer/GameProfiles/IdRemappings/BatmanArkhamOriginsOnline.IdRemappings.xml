@@ -1,0 +1,565 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="bmgame\1\akaudio.upk" />
+    <Package path="bmgame\1\audio_bankrefs.upk" />
+    <Package path="bmgame\1\audio_music.upk" />
+    <Package path="bmgame\1\audio_timer.upk" />
+    <Package path="bmgame\1\blackgate_audio.upk" />
+    <Package path="bmgame\1\blackgate_cellblock_fx.upk" />
+    <Package path="bmgame\1\blackgate_cellblock_oob.upk" />
+    <Package path="bmgame\1\blackgate_cellblock_prisoners.upk" />
+    <Package path="bmgame\1\blackgate_cellblock_reflections.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_cellblock.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Rain\Textures\T_DripSplash02" suffix="1" />
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+        <Object id="MAT_Metal\Mesh\Arch_Catacombs_Walkways_Rustyside_N" suffix="1" />
+        <Object id="MAT_Metal\Mesh\Arch_Catacombs_Walkways_Rustyside_S" suffix="1" />
+        <Object id="OBJ_Medical\OBJ_Medical_PaintedLine1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_clightsnew.upk" />
+    <Package path="bmgame\1\blackgate_endgamereview.upk" />
+    <Package path="bmgame\1\blackgate_gdgigangland_b_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgigangland_h_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgigangland_j_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgigangland_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgihunterhunted_b_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgihunterhunted_h_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgihunterhunted_j_sf.upk" />
+    <Package path="bmgame\1\blackgate_gdgihunterhunted_sf.upk" />
+    <Package path="bmgame\1\blackgate_introbane.upk" />
+    <Package path="bmgame\1\blackgate_introbatman.upk" />
+    <Package path="bmgame\1\blackgate_introjoker.upk" />
+    <Package path="bmgame\1\blackgate_lights_cellblocknew.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_WarningLight_RS\Textures\T_Line" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_lights_courtyardnew.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_lights_solitarynew.upk" />
+    <Package path="bmgame\1\blackgate_lights.upk" />
+    <Package path="bmgame\1\blackgate_loadingscreen.upk" />
+    <Package path="bmgame\1\blackgate_outrobane.upk" />
+    <Package path="bmgame\1\blackgate_outrobatman.upk" />
+    <Package path="bmgame\1\blackgate_outrojoker.upk" />
+    <Package path="bmgame\1\blackgate_script.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EFX_OW\Textures\HorizontalFade" suffix="1" />
+        <Object id="OBJ_Computer\obj_PowerGenerator_Secondary_e" suffix="1" />
+        <Object id="OBJ_TV\OBJ_TV_Screen_NoiseVariant_U" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_solitary_fx.upk" />
+    <Package path="bmgame\1\blackgate_solitary_reflections.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Liquid\fx_waterfallStream1_a" suffix="1" />
+        <Object id="FX_Liquid\fx_waterStream" suffix="1" />
+        <Object id="Gotham_Distance\Gotham_OWMoonClouds" suffix="1" />
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_solitary.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+        <Object id="OBJ_TV\Screen\OBJ_TV_Screen_NoiseVariant_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_spawn_cliffpath_fx.upk" />
+    <Package path="bmgame\1\blackgate_spawn_cliffpath.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_spawn_showers_fx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Rain\Textures\T_DripSplash02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_spawn_showers.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_spotlights.upk" />
+    <Package path="bmgame\1\blackgate_yard_fx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_yard_oob.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Liquid\fx_waterfallStream1_a" suffix="1" />
+        <Object id="FX_Liquid\fx_waterStream" suffix="1" />
+        <Object id="Gotham_Distance\Gotham_OWMoonClouds" suffix="1" />
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_yard_reflections.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate_yard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor_Tiles\Steelworks\Steelworks_Floor_Alpha02b" suffix="1" />
+        <Object id="Gotham_Graffiti\Gotham_Graffiti_01_D" suffix="1" />
+        <Object id="OBJ_Medical\OBJ_Medical_PaintedLine1" suffix="1" />
+        <Object id="OBJ_TV\Screen\OBJ_TV_Screen_NoiseVariant_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\1\blackgate.upk" />
+    <Package path="bmgame\1\blackmarket_b_sf.upk" />
+    <Package path="bmgame\1\blackmarket_h_sf.upk" />
+    <Package path="bmgame\1\blackmarket_j_sf.upk" />
+    <Package path="bmgame\1\bmgame.upk" />
+    <Package path="bmgame\1\boot.upk" />
+    <Package path="bmgame\cookedpcconsole\akaudio.upk" />
+    <Package path="bmgame\cookedpcconsole\audio_bankrefs.upk" />
+    <Package path="bmgame\cookedpcconsole\audio_music.upk" />
+    <Package path="bmgame\cookedpcconsole\audio_timer.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_audio.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_cellblock_fx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_BlackGateFire\Textures\T_FireSequenceGradient_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_cellblock_oob.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_cellblock_prisoners.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_cellblock_reflections.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_D" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_N" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_O" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_cellblock.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BFX_MrFreeze2\Freeze_TrackingLaserMasks" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_D" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_N" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_O" suffix="1" />
+        <Object id="SIGN_Interior\Interior\SIGN_Interior_Font_Dr_Smith" suffix="1" />
+        <Object id="XFX_Ingmar\Textures\Alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_clightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_endgamereview.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgigangland_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgigangland_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgigangland_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgigangland_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgihunterhunted_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgihunterhunted_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgihunterhunted_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_gdgihunterhunted_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_introbane.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_introbatman.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_introjoker.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_lights_cellblocknew.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_lights_courtyardnew.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_lights_solitarynew.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="XFX_Ingmar\Textures\Alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_lights.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_loadingscreen.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_outrobane.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_outrobatman.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_outrojoker.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_script.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_solitary_fx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_BlackGateFire\Textures\T_FireSequenceGradient_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_solitary_reflections.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BFX_MrFreeze2\Freeze_TrackingLaserMasks" suffix="1" />
+        <Object id="FX_BlackGateFire\Textures\T_FireSequenceGradient_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_solitary.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BFX_MrFreeze2\Freeze_TrackingLaserMasks" suffix="1" />
+        <Object id="SIGN_Interior\Interior\SIGN_Interior_Font_Dr_Smith" suffix="1" />
+        <Object id="XFX_Ingmar\Textures\Alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_spawn_cliffpath_fx.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_spawn_cliffpath.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_spawn_showers_fx.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_spawn_showers.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Riddler_ARCH\Textures\Riddler_Room_WallHole01_D" suffix="1" />
+        <Object id="Riddler_ARCH\Textures\Riddler_Room_WallHole01_N" suffix="1" />
+        <Object id="Riddler_ARCH\Textures\Riddler_Room_WallHole01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_spotlights.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_yard_fx.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_BlackGateFire\Textures\T_FireSequenceGradient_03" suffix="1" />
+        <Object id="FX_Wind\Textures\T_FX_Ramp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_yard_oob.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PRI_OOB_Courtyard_01\T_OOB_Courtyard_06_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate_yard_reflections.upk" />
+    <Package path="bmgame\cookedpcconsole\blackgate_yard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BFX_MrFreeze2\Freeze_TrackingLaserMasks" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_D" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_N" suffix="1" />
+        <Object id="PRI_Clutter\T_PRI_hangingstuff_O" suffix="1" />
+        <Object id="SIGN_Interior\Interior\SIGN_Interior_Font_Dr_Smith" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\blackgate.upk" />
+    <Package path="bmgame\cookedpcconsole\blackmarket_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackmarket_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\blackmarket_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\bmgame.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FX_Combat\fx_Trail2" suffix="1" />
+        <Object id="FX_noise\FX_BlackWhite" suffix="1" />
+        <Object id="FX_noise\fx_softedgedcone" suffix="1" />
+        <Object id="FX_WeaponsGL\Textures\T_Gradient02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bmgame\cookedpcconsole\boot.upk" />
+    <Package path="bmgame\cookedpcconsole\char_average_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_facepaint_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_goggles_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hair_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hat_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_hat_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_mask_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_tattoos_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_08_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_09_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bane_upper_10_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_beefy_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_biker_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_black_heavy_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_bones_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_chocolate_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_crash_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_customization_default_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_08_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_09_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_facialhair_10_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_heavy_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_bandana_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_facepaint_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_08_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hair_09_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_hood_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_jacket_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_jacket_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_05_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_08_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_09_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_10_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_mask_11_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_tattoos_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_06_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_07_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_08_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_09_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_joker_upper_10_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_maddog_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_meathead_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_melt_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_mex_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_newbeef_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_none_upper_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_ratface_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_roids_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_samoan_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_scarface_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_skinny_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_thug_shared_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\char_yakuza_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_audio.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_clightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_conveyors.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_cpcentral.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_cploadingbay.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_cpsewer.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_endgamereview.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gargoyles.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgigangland_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgigangland_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgigangland_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgigangland_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgihunterhunted_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgihunterhunted_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgihunterhunted_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_gdgihunterhunted_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_introbane.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_introbatman.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_introjoker.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_lightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_loadingscreen.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_oob.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_optimised_fx.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_outrobane.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_outrobatman.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_outrojoker.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_reflections.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_shell.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_spawnbatman.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_spawnloadingbay.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_spawnrobin.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant_spawnsewer.upk" />
+    <Package path="bmgame\cookedpcconsole\chemplant.upk" />
+    <Package path="bmgame\cookedpcconsole\controllerxbox_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\core.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_batman.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_bg.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_items.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_penguin.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_prestige.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_robin.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_thugs.upk" />
+    <Package path="bmgame\cookedpcconsole\customisation_weapon.upk" />
+    <Package path="bmgame\cookedpcconsole\deathscreen_blackgate.upk" />
+    <Package path="bmgame\cookedpcconsole\deathscreen_chemplant.upk" />
+    <Package path="bmgame\cookedpcconsole\deathscreen_funhouse.upk" />
+    <Package path="bmgame\cookedpcconsole\deathscreen_robotfactory.upk" />
+    <Package path="bmgame\cookedpcconsole\debugfrontend.upk" />
+    <Package path="bmgame\cookedpcconsole\defaultcharactercustomisation_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\defaultheroskins_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\defaultthugweapons_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\defaultweaponskins_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\dlc_retailexclusive_bane_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\dlc_retailexclusive_joker_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\engine.upk" />
+    <Package path="bmgame\cookedpcconsole\entry.upk" />
+    <Package path="bmgame\cookedpcconsole\entry2.upk" />
+    <Package path="bmgame\cookedpcconsole\entry3.upk" />
+    <Package path="bmgame\cookedpcconsole\entry4.upk" />
+    <Package path="bmgame\cookedpcconsole\entry5.upk" />
+    <Package path="bmgame\cookedpcconsole\entry6.upk" />
+    <Package path="bmgame\cookedpcconsole\entry7.upk" />
+    <Package path="bmgame\cookedpcconsole\entry8.upk" />
+    <Package path="bmgame\cookedpcconsole\exit.upk" />
+    <Package path="bmgame\cookedpcconsole\fonts_en.upk" />
+    <Package path="bmgame\cookedpcconsole\fonts_kr.upk" />
+    <Package path="bmgame\cookedpcconsole\fonts_po.upk" />
+    <Package path="bmgame\cookedpcconsole\fonts_ru.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend_audio.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend_enviro.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend_lobby.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend_store.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend_wbid.upk" />
+    <Package path="bmgame\cookedpcconsole\frontend.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_audio.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_bigdrop.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_clightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_ferris.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_fx.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gargoyles.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgigangland_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgigangland_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgigangland_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgigangland_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgihunterhunted_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgihunterhunted_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgihunterhunted_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_gdgihunterhunted_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_introbane.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_introbatman.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_introjoker.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_lightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_objectives.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_oob.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_outrobane.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_outrobatman.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_outrojoker.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_reflections.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_rollercoasteroob.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_rollercoastertracks.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_spawnbane.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_spawnjoker.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse_thefunhouse.upk" />
+    <Package path="bmgame\cookedpcconsole\funhouse.upk" />
+    <Package path="bmgame\cookedpcconsole\gdentry.upk" />
+    <Package path="bmgame\cookedpcconsole\gfxui.upk" />
+    <Package path="bmgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="bmgame\cookedpcconsole\guidcache.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_brightestday_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_earthtwo_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_earthtwoalt_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_first_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_gaslight_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_halloween_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_injustice_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_knightfall_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_new52m_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_roundtable_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_sixties_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\heroskindlc_bm_thrillkiller_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="bmgame\cookedpcconsole\loadscreennotfound_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_bane_pants_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_bane_pants_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_bane_pants_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_bane_pants_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_joker_pants_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_joker_pants_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_joker_pants_03_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\lwr_joker_pants_04_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\mp_dlc_pack_1_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\mp_dlc_pack_2_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\onlinesubsystemsteamworks.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_bane_jumper_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_bane_muscle_vest_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_bane_overlay_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_bane_tshirt_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_bane_vest_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_joker_bandages_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_joker_longsleeve_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_joker_tshirt_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_joker_tshirt_02_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\ovr_joker_vest_01_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_bane_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_bane_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_1_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_10_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_11_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_12_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_13_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_15_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_16_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_17_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_18_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_19_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_2_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_20_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_21_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_22_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_23_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_24_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_25_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_26_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_27_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_28_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_3_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_4_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_5_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_6_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_7_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_8_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_alt_9_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_batman_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_joker_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_joker_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_1_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_2_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_3_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_4_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_5_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_6_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_7_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_alt_8_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_robin_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_thug_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_thugbane_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_thugbane_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_thugjoker_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\playable_thugjoker_std_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="bmgame\cookedpcconsole\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_audio.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_basement_cp1.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_basement_cp3.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_basement_substation.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_clightsnew.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_cogassembly.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_cover.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_cp1.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_cp2.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_cp3.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_fx.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgigangland_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgigangland_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgigangland_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgigangland_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgihunterhunted_b_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgihunterhunted_h_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgihunterhunted_j_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_gdgihunterhunted_sf.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_introbane.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_introbatman.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_introjoker.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_lights.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_loadingscreen.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_outrobane.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_outrobatman.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_outrojoker.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_refchars.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_robots_matinee.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_robots.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory_substation.upk" />
+    <Package path="bmgame\cookedpcconsole\robotfactory.upk" />
+    <Package path="bmgame\cookedpcconsole\sdengine.upk" />
+    <Package path="bmgame\cookedpcconsole\sdsteamengine.upk" />
+    <Package path="bmgame\cookedpcconsole\startup.upk" />
+    <Package path="bmgame\cookedpcconsole\vignette_sf.upk" />
+  </Packages>
+</IdRemapping>

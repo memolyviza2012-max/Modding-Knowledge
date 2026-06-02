@@ -1,0 +1,2444 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="bournegame\cookedps3\aiiu.xxx" />
+    <Package path="bournegame\cookedps3\anim_apartment_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_bludgeon_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_boss_generic_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_interact.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_nav.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_shoot_mg.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_shoot_nw.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_shoot_p.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_shoot_sg.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_stealth.xxx" />
+    <Package path="bournegame\cookedps3\anim_bourne_zipline.xxx" />
+    <Package path="bournegame\cookedps3\anim_deauvage_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_divandelen_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_divandelen_f_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_divandelen_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_farmhouse_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_generic_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_fight_trans.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_nav.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_shoot_mg.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_shoot_p.xxx" />
+    <Package path="bournegame\cookedps3\anim_hench_shoot_sg.xxx" />
+    <Package path="bournegame\cookedps3\anim_lit_univ_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_mar_docks_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_mar_streets_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_mar_streets_f_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_oconner_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_renard_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_renard_f_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_treadstone_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_treadstone_fight.xxx" />
+    <Package path="bournegame\cookedps3\anim_womboati_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_zurich_ambient.xxx" />
+    <Package path="bournegame\cookedps3\anim_zurich_f_ambient.xxx" />
+    <Package path="bournegame\cookedps3\art_pictures_p.xxx" />
+    <Package path="bournegame\cookedps3\bank_vignettepkg.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_ambience.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_auto_car_spline.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_awareness.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_bf_bodyfall.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_bourne_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_bourne_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_castel.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_civ_formal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_civ_heels.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_civ_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_divandelen.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_dockworker.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_manheim.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_marie.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_oconnor.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_police.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_prof.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_soldier.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_foly_solomon.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_bourne_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_bourne_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_castel.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_civ_formal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_civ_heels.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_civ_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_divandelen.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_manheim.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_marie.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_oconnor.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_police.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_prof.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_soldier.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_fs_solomon.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_bourne_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_castel.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_civ_normal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_divandelen.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_manheim.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_oconnor.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_prof.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_soldier.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_chr_rx_solomon.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_cine_womboati.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_civilian.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_communications.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_door.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_dx_dockworker.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_dx_switchboard.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_explo_glass.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_explo_metal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_explo_stone.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_explo_wood.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_explosions.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_fire.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_foley_stealth_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_foley.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_foly_dock_wrkr_guard.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_fs_bourne.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_fs_metal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_fs_wood.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_apc_turret.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_bullet_by.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_genral_purpose.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_heli_turret.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_mg_heavy.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_mg_light_sil.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_mg_light.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_mg_pistol.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_p2000.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_p220.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_p226.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_pistol_drop.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_pistol_hvy.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_pistol_main.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_sg551.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_shotgun_auto.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_shotgun_hv.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_shotgun_sbs.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_shotgun.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_gun_sniper.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_health.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_henchman.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_interface.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_frm_hse_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_frm_hse_house.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_frm_hse_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_frm_hse_outside.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_lit_uni_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_lit_uni_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_lit_uni_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_dock_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_dock_cine.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_dock_dx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_dock_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_dock_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_st_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_st_cine.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_st_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_mar_st_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_apt_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_apt.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_car_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_car_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_car_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_car_stng.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_dar_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_dar_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_dar_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_tre_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_tre_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_tre_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_par_tre_sting.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_dx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_heli_deck.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_low_deck_01.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_low_deck_02.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_main_deck.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_penthouse_deck.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_wom_pool_deck.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_air_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_air_events.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_air_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_ame_amb.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_ame_event.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_ame_mx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_ame_stng.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_level_zur_ame_walla.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_liquid.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_lockpicking.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_melee_hits.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_melee_weapons.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_mx_unlockable.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_player_foley.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_player_rx.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_police_foley.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_book.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_chair.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_cooler.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_crab_cage.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_destr_boat.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_destr_car.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_fire_extgshr.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_glass_cabinet.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_janitor_cart.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_mtl_rope_post.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_railing.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_shovel.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_statue.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_toolbox.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_tractor.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_wood_beam.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_wood_crate.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_wood_ladder.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_prop_wood_railing.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_props.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_radar.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_scrapbook.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_securityguard_french.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_ceramic.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_dirt.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_fabric.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_flesh.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_glass.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_liquid.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_metal.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_plaster.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_plastic.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_stone.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_squibs_wood.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_switches_buttons.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_takedown_stingers.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_takedowns.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_vechicles.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_vehicle_helicopter.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_welding.xxx" />
+    <Package path="bournegame\cookedps3\banklibrary_wombosi_guard.xxx" />
+    <Package path="bournegame\cookedps3\bar_banquet_p.xxx" />
+    <Package path="bournegame\cookedps3\bar_bottles_glass_p.xxx" />
+    <Package path="bournegame\cookedps3\bar_counter_cabinet_p.xxx" />
+    <Package path="bournegame\cookedps3\bar_signs_p.xxx" />
+    <Package path="bournegame\cookedps3\bourne_decals.xxx" />
+    <Package path="bournegame\cookedps3\bourne_physmat_old.xxx" />
+    <Package path="bournegame\cookedps3\bourne_physmat.xxx" />
+    <Package path="bournegame\cookedps3\bourneconceptart_p_ps3.xxx" />
+    <Package path="bournegame\cookedps3\bournecredits_p.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_deu_p.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_esn_p.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_fra_p.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_int_p.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_m_deu.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_m_esn.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_m_fra.xxx" />
+    <Package path="bournegame\cookedps3\bournefelogo_m.xxx" />
+    <Package path="bournegame\cookedps3\bournefrontend.xxx" />
+    <Package path="bournegame\cookedps3\bournefrontendconspiracy.xxx" />
+    <Package path="bournegame\cookedps3\bournehud.xxx" />
+    <Package path="bournegame\cookedps3\bournehudgraphics.xxx" />
+    <Package path="bournegame\cookedps3\bournenative.xxx" />
+    <Package path="bournegame\cookedps3\bournepostprocess_maskscreen_p_ps3.xxx" />
+    <Package path="bournegame\cookedps3\bournepostprocess_p.xxx" />
+    <Package path="bournegame\cookedps3\bourneradar.xxx" />
+    <Package path="bournegame\cookedps3\bournesniperhud.xxx" />
+    <Package path="bournegame\cookedps3\bournestartup_p.xxx" />
+    <Package path="bournegame\cookedps3\bourneuiplatformspecific_ps3.xxx" />
+    <Package path="bournegame\cookedps3\bourneuiskin.xxx" />
+    <Package path="bournegame\cookedps3\bourneunrealedresources.xxx" />
+    <Package path="bournegame\cookedps3\building2.xxx" />
+    <Package path="bournegame\cookedps3\building4.xxx" />
+    <Package path="bournegame\cookedps3\cafe_combined.xxx" />
+    <Package path="bournegame\cookedps3\chr_airportpersonnel_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_allshader.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Eye_Teeth_Blue_CLR" suffix="1" />
+        <Object id="Eye_Teeth_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\chr_archetypes.xxx" />
+    <Package path="bournegame\cookedps3\chr_azar_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_azarhenchmen_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_banquetattendee_male_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_blacksweater_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_default_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_eurocasual_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_facefx_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_jacket_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_leatherjacket_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_materials_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_pocketjacket_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_shaders_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_sweater_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_bourne_wetsuit_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_castel_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_civilian_female_a.xxx" />
+    <Package path="bournegame\cookedps3\chr_civilian_female_b_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_civilian_homeless_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_civilian_male_a.xxx" />
+    <Package path="bournegame\cookedps3\chr_civilian_male_b_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MaleCivilian_Skin_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\chr_civilian_male_c_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_conklin_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_corsicanguard_captain_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_corsicanguard_grunt_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_corsicanguard_sargeant_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_deadbodies_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_divandelen_heavy_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_divandelen_miniboss_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_divandelen_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_dockworker_thugs_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_dockworkers_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_dressmarine_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_euro_merc_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_helicopterpilot_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_manheim_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_marie_longhair_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Marie_Clothes_NORM" suffix="1" />
+        <Object id="Marie_Skin_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\chr_mariekreutz_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_marine_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_azar.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_castel.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_divandelen.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_generic.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_litsoldier.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_manheim.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_mardocks.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_marines.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_marsoldier.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_oconner.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_parcivilian.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_professor.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_renard.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_rensoldier.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_solomon.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_treadstone.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_ussuitedagent_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_meshset_zurcivilian.xxx" />
+    <Package path="bournegame\cookedps3\chr_oconner_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_officesuit_male_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_officeworker_female_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_officeworker_male_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_policeman_fr_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_professor_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_renard_assassin_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_renard_bodyguard_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_renard_miniboss.xxx" />
+    <Package path="bournegame\cookedps3\chr_renard_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_rurik_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_rurikhenchmen_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_solomon_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_suitedagent_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_supermarine_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_treadstone_heavy_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_treadstone_indoor_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_treadstone_miniboss_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_treadstone_outdoor_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_university_police_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_university_security_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_wombosisailordeck_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_wombosisoldier_p.xxx" />
+    <Package path="bournegame\cookedps3\chr_zurich_police_p.xxx" />
+    <Package path="bournegame\cookedps3\churchint_newrooms.xxx" />
+    <Package path="bournegame\cookedps3\churchint_vignette.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_azar.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_bourne_jacket.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_bourne_leather.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_bourne_pocketjacket.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_bourne_sweater.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_bourne_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_conklin.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_divandelen_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_jb_eurocasual.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_mannheim_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_mariekreutz_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_marielonghair_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_professor.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_renard.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_solomon.xxx" />
+    <Package path="bournegame\cookedps3\cine_chr_womsoldiers.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse_fightintro.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse_furniture_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse_gunfightoutro.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse_profoutro.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse_woodpath.xxx" />
+    <Package path="bournegame\cookedps3\cine_frm_hse.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_bi.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_decals.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_explosions.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_farmhouse.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_flesh.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_glass.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_lithuania.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_mar_st.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_mardock.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_mat.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_squibs.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_treadstone.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_weapons.xxx" />
+    <Package path="bournegame\cookedps3\cine_fx_zur_air.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\tireSkids_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\cine_lit_uni_apc.xxx" />
+    <Package path="bournegame\cookedps3\cine_lit_uni_aptexplosion.xxx" />
+    <Package path="bournegame\cookedps3\cine_lit_uni_barringthedoor.xxx" />
+    <Package path="bournegame\cookedps3\cine_lit_uni_rifleassembly.xxx" />
+    <Package path="bournegame\cookedps3\cine_lit_uni_rurickisdown.xxx" />
+    <Package path="bournegame\cookedps3\cine_lit_uni_sniper.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_apt_outro.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_apt.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_boatjumps.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_intro.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_privdock.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_saildock.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_solomonfight.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_dok_warehouse.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_st_barintro.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_st_craneexplosion.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_st_ocondies.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_wom_helipad.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_wom_intro.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_wom_poker.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_wom_solomonsalert.xxx" />
+    <Package path="bournegame\cookedps3\cine_mar_wom.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_apt_outro.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_dar_dgbad.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_church_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_conklin.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_courtyard_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_dom.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_gapjump_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_m2g_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_meetmannheim.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_roofclimb_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_rooftopsniper.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_skylight.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_stairleap_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_surveillance.xxx" />
+    <Package path="bournegame\cookedps3\cine_par_tre_zipline_p.xxx" />
+    <Package path="bournegame\cookedps3\cine_props.xxx" />
+    <Package path="bournegame\cookedps3\cine_weapons.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_ambush.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_boardtram_fail.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_boardtram.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_cargoplane.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_divoutro.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_air_exittram.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_crashskylight.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_falsecompliance.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_hallway.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_jump2cover.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_nutpunch.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_radiograb.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_roomsweep.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame_spotcourtyard.xxx" />
+    <Package path="bournegame\cookedps3\cine_zur_ame.xxx" />
+    <Package path="bournegame\cookedps3\cineset.xxx" />
+    <Package path="bournegame\cookedps3\class_1_fighttree.xxx" />
+    <Package path="bournegame\cookedps3\class_2_fighttree.xxx" />
+    <Package path="bournegame\cookedps3\controllercalibrationui.xxx" />
+    <Package path="bournegame\cookedps3\core.xxx" />
+    <Package path="bournegame\cookedps3\cpr_charprops_p.xxx" />
+    <Package path="bournegame\cookedps3\deauvagefightsets.xxx" />
+    <Package path="bournegame\cookedps3\defaultuiskin.xxx" />
+    <Package path="bournegame\cookedps3\des_africanartifacts_p.xxx" />
+    <Package path="bournegame\cookedps3\des_africanartifacts_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_bathroomprops_p.xxx" />
+    <Package path="bournegame\cookedps3\des_bathroomprops_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_boat_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_chimney_p.xxx" />
+    <Package path="bournegame\cookedps3\des_churchprops_p.xxx" />
+    <Package path="bournegame\cookedps3\des_churchprops_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_construction_p.xxx" />
+    <Package path="bournegame\cookedps3\des_construction_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_crate_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WoodenCrate_NORM" suffix="1" />
+        <Object id="WoodenCrate_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\des_crate_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_destructiblecubemaps_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="genericCUBE_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\des_dock_props_p.xxx" />
+    <Package path="bournegame\cookedps3\des_dock_props_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_door_p.xxx" />
+    <Package path="bournegame\cookedps3\des_door_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_driving_props_p.xxx" />
+    <Package path="bournegame\cookedps3\des_electronics_p.xxx" />
+    <Package path="bournegame\cookedps3\des_electronics_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_fireextinguisher_pfb.xxx" />
+    <Package path="bournegame\cookedps3\des_fireprops_p.xxx" />
+    <Package path="bournegame\cookedps3\des_fireprops_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_fixtures_p.xxx" />
+    <Package path="bournegame\cookedps3\des_fixtures_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_generators_p.xxx" />
+    <Package path="bournegame\cookedps3\des_generators_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_glasswares_p.xxx" />
+    <Package path="bournegame\cookedps3\des_glasswares_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_graveyard__p.xxx" />
+    <Package path="bournegame\cookedps3\des_kitchenappliances_p.xxx" />
+    <Package path="bournegame\cookedps3\des_kitchenappliances_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_kitchenware_p.xxx" />
+    <Package path="bournegame\cookedps3\des_kitchenware_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_officeprops_p.xxx" />
+    <Package path="bournegame\cookedps3\des_officeprops_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_par_apt.xxx" />
+    <Package path="bournegame\cookedps3\des_pottery_p.xxx" />
+    <Package path="bournegame\cookedps3\des_propanetank_p.xxx" />
+    <Package path="bournegame\cookedps3\des_propanetank_pfb.xxx" />
+    <Package path="bournegame\cookedps3\des_railling_p.xxx" />
+    <Package path="bournegame\cookedps3\des_railling_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_scooters_p.xxx" />
+    <Package path="bournegame\cookedps3\des_scooters_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_sculpture_p.xxx" />
+    <Package path="bournegame\cookedps3\des_sculpture_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_storage_p.xxx" />
+    <Package path="bournegame\cookedps3\des_storage_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_street_props_p.xxx" />
+    <Package path="bournegame\cookedps3\des_street_props_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_table_chair_p.xxx" />
+    <Package path="bournegame\cookedps3\des_table_chair_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_trashcontainers_p.xxx" />
+    <Package path="bournegame\cookedps3\des_trashcontainers_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vegetation_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vegetation_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vehicles_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vehicles_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vendingmachines_p.xxx" />
+    <Package path="bournegame\cookedps3\des_vendingmachines_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_wallpictures_p.xxx" />
+    <Package path="bournegame\cookedps3\des_wallpictures_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\des_windows_p.xxx" />
+    <Package path="bournegame\cookedps3\des_windows_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\designermaterials.xxx" />
+    <Package path="bournegame\cookedps3\destructibleprops.xxx" />
+    <Package path="bournegame\cookedps3\divandelenfightsets.xxx" />
+    <Package path="bournegame\cookedps3\dor_metal_p.xxx" />
+    <Package path="bournegame\cookedps3\driving_fx.xxx" />
+    <Package path="bournegame\cookedps3\driving_physmat.xxx" />
+    <Package path="bournegame\cookedps3\drivingbarriers_p.xxx" />
+    <Package path="bournegame\cookedps3\drv_atmospheric_fx.xxx" />
+    <Package path="bournegame\cookedps3\drv_des_buildings_fx.xxx" />
+    <Package path="bournegame\cookedps3\drv_des_props_fx.xxx" />
+    <Package path="bournegame\cookedps3\drv_drivingsurface_fx.xxx" />
+    <Package path="bournegame\cookedps3\drv_quickaction_z7_fx.xxx" />
+    <Package path="bournegame\cookedps3\drv_vehicle_fx.xxx" />
+    <Package path="bournegame\cookedps3\editormaterials.xxx" />
+    <Package path="bournegame\cookedps3\editormeshes.xxx" />
+    <Package path="bournegame\cookedps3\editorresources.xxx" />
+    <Package path="bournegame\cookedps3\ele_boombox_p.xxx" />
+    <Package path="bournegame\cookedps3\ele_computer_p.xxx" />
+    <Package path="bournegame\cookedps3\ele_fusebox_p.xxx" />
+    <Package path="bournegame\cookedps3\ele_tv_p.xxx" />
+    <Package path="bournegame\cookedps3\engine.xxx" />
+    <Package path="bournegame\cookedps3\enginefonts.xxx" />
+    <Package path="bournegame\cookedps3\enginematerials.xxx" />
+    <Package path="bournegame\cookedps3\engineresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\errmessageuiscenes.xxx" />
+    <Package path="bournegame\cookedps3\facefx_npc_dialogue_deu.xxx" />
+    <Package path="bournegame\cookedps3\facefx_npc_dialogue.xxx" />
+    <Package path="bournegame\cookedps3\facefx_npc.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_interior_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_barn_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Shovel_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\frm_hse_barnfield_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_base_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_cinematics_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_cubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_design_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_designfield_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_destructibles.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_exteriorhouse_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_exteriorprops_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_exteriorwindows_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_farm_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door_CLR" suffix="1" />
+        <Object id="woodpanel_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_fightintro_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_foliage_p.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_interiorhouse_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_interiorprops_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_lores_p.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_music_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_navmesh_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_postfx_p.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_professoroutro_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_props_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="couch_CLR" suffix="1" />
+        <Object id="couch_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\frm_hse_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_shared_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpath_art_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathdesign_m.xxx" />
+    <Package path="bournegame\cookedps3\frm_hse_woodpathprops_art_m.xxx" />
+    <Package path="bournegame\cookedps3\fur_door_p.xxx" />
+    <Package path="bournegame\cookedps3\fur_drapes_p.xxx" />
+    <Package path="bournegame\cookedps3\fur_kitchen_p.xxx" />
+    <Package path="bournegame\cookedps3\fur_lobby_p.xxx" />
+    <Package path="bournegame\cookedps3\fur_table_chair_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_bathrm_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_bi_01.xxx" />
+    <Package path="bournegame\cookedps3\fx_camera.xxx" />
+    <Package path="bournegame\cookedps3\fx_electronics_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_explosives.xxx" />
+    <Package path="bournegame\cookedps3\fx_flesh_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_geology_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_glass_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_mat.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Clouds_CLR" suffix="1" />
+        <Object id="Textures\Noise_CLR" suffix="1" />
+        <Object id="Textures\Ripple_NORM" suffix="1" />
+        <Object id="Textures\SmokeThin_CLR" suffix="1" />
+        <Object id="Textures\SmokeTile_CLR" suffix="1" />
+        <Object id="Textures\SmokeTile_NORM" suffix="1" />
+        <Object id="Textures\Steam_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\fx_metal_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_office_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Books\Books_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\fx_snow_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_takedowns.xxx" />
+    <Package path="bournegame\cookedps3\fx_treadstone_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_vegetation_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_water_p.xxx" />
+    <Package path="bournegame\cookedps3\fx_weapons.xxx" />
+    <Package path="bournegame\cookedps3\fx_wood_p.xxx" />
+    <Package path="bournegame\cookedps3\gameframework.xxx" />
+    <Package path="bournegame\cookedps3\glb_achievements_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_apartmentprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_bathroomprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_characterprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_constructionprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_destructibleprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_eurovehicleprops_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_genericcubemaps_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Reflection1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\glb_pickupflag_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_pipes.xxx" />
+    <Package path="bournegame\cookedps3\glb_shadowcard_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_skydomes_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_statuessculptures_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_streetware_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_vendingmachines_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_z3shaders_bps_p.xxx" />
+    <Package path="bournegame\cookedps3\glb_zurich_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GLB_Desk_CLR" suffix="1" />
+        <Object id="SecurityDesk_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\glb_zurich_temp.xxx" />
+    <Package path="bournegame\cookedps3\glb_zurich3_bps_p.xxx" />
+    <Package path="bournegame\cookedps3\globallayer_m.xxx" />
+    <Package path="bournegame\cookedps3\guidcache.xxx" />
+    <Package path="bournegame\cookedps3\helicopter_bell22.xxx" />
+    <Package path="bournegame\cookedps3\henchman.xxx" />
+    <Package path="bournegame\cookedps3\hm_engine.xxx" />
+    <Package path="bournegame\cookedps3\hm_unrealedresources.xxx" />
+    <Package path="bournegame\cookedps3\hmenginematerials.xxx" />
+    <Package path="bournegame\cookedps3\hmnodebuddies.xxx" />
+    <Package path="bournegame\cookedps3\ipdrv.xxx" />
+    <Package path="bournegame\cookedps3\jasonbourne_animtree.xxx" />
+    <Package path="bournegame\cookedps3\jasonbourne.xxx" />
+    <Package path="bournegame\cookedps3\jasonbournefightanimsetpackage.xxx" />
+    <Package path="bournegame\cookedps3\jasonbournefightsets.xxx" />
+    <Package path="bournegame\cookedps3\jasonbournephysics.xxx" />
+    <Package path="bournegame\cookedps3\jasonbourneskelmesh.xxx" />
+    <Package path="bournegame\cookedps3\jasonbournezurichanimset.xxx" />
+    <Package path="bournegame\cookedps3\krystekfightsets.xxx" />
+    <Package path="bournegame\cookedps3\licensed_ads_p.xxx" />
+    <Package path="bournegame\cookedps3\lig_ceiling_p.xxx" />
+    <Package path="bournegame\cookedps3\lig_utility_p.xxx" />
+    <Package path="bournegame\cookedps3\lig_wall_p.xxx" />
+    <Package path="bournegame\cookedps3\lightbeam_pak.xxx" />
+    <Package path="bournegame\cookedps3\lit_buildyve.xxx" />
+    <Package path="bournegame\cookedps3\lit_destructibles_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_distillery_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_modhalls_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_movie_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_newpark.xxx" />
+    <Package path="bournegame\cookedps3\lit_park_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_props_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="glass_cabinet_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\lit_propslib_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_start_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_tower_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apartment_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_apcentrance_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_aptexplosion_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_barringthedoor_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_base_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_designer_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_eastcourt_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_design2_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_library_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_music_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_navmesh_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_newpark_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northcourt_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_northhall_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_postfx_p.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_rurikisdown_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_shared_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_sniper_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_tower_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_towerview_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_art_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_bathart_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_design2_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_uni_westhall_destruct2_m.xxx" />
+    <Package path="bournegame\cookedps3\lit_univ_janitor_animtree.xxx" />
+    <Package path="bournegame\cookedps3\mac_cranes_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="glass_CLR_Dup" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mac_engines_p.xxx" />
+    <Package path="bournegame\cookedps3\mac_forklift_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DockForkLift_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mac_miscpipesvents_p.xxx" />
+    <Package path="bournegame\cookedps3\mac_powergenerators_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_aptfight_env_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="pillow_CLR" suffix="1" />
+        <Object id="Texture\lbeamfalloff01_Dup_Dup" suffix="1" />
+        <Object id="Texture\metal_generic" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_aptfight_env2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="doors_CLR" suffix="1" />
+        <Object id="doors_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_backcourtyardbuilding_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_background_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_bar_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_cornercourtyardbuild_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Fence_CLR" suffix="1" />
+        <Object id="Fence_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_courtyard_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_courtyardbuilds_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CourtmMarbleFloor_CLR" suffix="1" />
+        <Object id="dirt_CLR" suffix="1" />
+        <Object id="MAR_Mapstand_CLR" suffix="1" />
+        <Object id="MAR_Mapstand_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_cubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dock_pak.xxx" />
+    <Package path="bournegame\cookedps3\mar_dockprops_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dockprops1_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_artblockingvolumes_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_artblockingvolumes2_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_artblockingvolumes3_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_atmo_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_audio.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_background_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_base_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatfinale_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boathangar_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_boatjack_cinematic_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_chopper2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z1_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z2_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z3_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z4_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z5_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z6_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z7_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_dest_z8_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_docks2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_doorarchetypes.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_drydock_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_drydockpak1_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_explosion_cinematic_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final3_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_final4_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_finaltrans_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_fx_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_fx.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_intro_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_music.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_nav_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_objectives_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_parkinglot2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_prefabs_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_privdock_background_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_privdock_trans_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_privdocka2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_rooftopapts_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="rooftiles_CLR" suffix="1" />
+        <Object id="rooftiles_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_dok_sailboatstreet_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_sailboatstreet.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="roof_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_dok_saildocks_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_saildocks_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Detail_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_dok_shared_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shared_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_shootout1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_solomonfight_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_supplyship_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_transitiondock_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_tutfight_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouse2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_dok_warehouseint_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_drydock_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_drydock_site_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Book_CLR" suffix="1" />
+        <Object id="mar_apt_door_CLR" suffix="1" />
+        <Object id="mar_apt_door_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_privatea1_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_privatedocks_a2_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_shared_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_sm_courtyard_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt_MASK" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_st_alley_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_alley_destructible_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_alley2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_art2_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_cine2_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_aptint_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_background_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_bar_destructible_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_barintro_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_base_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ1_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_civ2_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_courtyard_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_craneexplosion_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_fx_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_fx.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_music_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_navmesh_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_oconnerdies_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_roof_destructible_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_sailboatstreet_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_saildocks_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_st_shared_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_base_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_bridgehirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cargohirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_heli_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_intro_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_pent_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_rec_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_cine_solomonsalert_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew1hirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_crew2hirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_enginehirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_helipadhirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_kitchenhirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l1destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l1lights_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l2destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l2lights_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l3destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_l3lights_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_ldeckdestructibles_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_lowerdeckl1_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_lowerdeckl2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CrewQuarterWall_CLR" suffix="1" />
+        <Object id="CrewQuarterWall_NORM" suffix="1" />
+        <Object id="Exitsign_CLR" suffix="1" />
+        <Object id="Exitsign_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\mar_wom_lowerdeckl3_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_loweredeckl1_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_loweredeckl2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_loweredeckl3_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_moonpoolhirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_music_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_navmesh_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_officeshirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_penthouseh_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldeckhirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_pooldestructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_postfx_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_rechirez_design_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_restdestructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_shared_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_shared_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_ud_helirest_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udeckdestructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udlightsext_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udlightshel_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_udlightsint_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_upperdeck_ext_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_upperdeck_ext_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_upperdeck_helirest_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_upperdeck_int_art_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_upperdeck_int_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_weatherfx_m.xxx" />
+    <Package path="bournegame\cookedps3\mar_wom_yachtprops_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_yacht_fx_p.xxx" />
+    <Package path="bournegame\cookedps3\mar_yacht_weatherfx_p.xxx" />
+    <Package path="bournegame\cookedps3\mariekreutz_animtree_p.xxx" />
+    <Package path="bournegame\cookedps3\marseilles_streets.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="asphalt_tile2_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\marseillesapartment.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="curio_reflection" suffix="1" />
+        <Object id="liqCabinet_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\movie_postprocess_effects.xxx" />
+    <Package path="bournegame\cookedps3\nodebuddies.xxx" />
+    <Package path="bournegame\cookedps3\off_cabinet_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FILECABINET\filecabinet_CLR" suffix="1" />
+        <Object id="FILECABINET\filecabinet_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\off_copymachine_p.xxx" />
+    <Package path="bournegame\cookedps3\off_desk_chair_p.xxx" />
+    <Package path="bournegame\cookedps3\off_deskprops_p.xxx" />
+    <Package path="bournegame\cookedps3\off_props_p.xxx" />
+    <Package path="bournegame\cookedps3\off_signs_p.xxx" />
+    <Package path="bournegame\cookedps3\onlinesubsystempc.xxx" />
+    <Package path="bournegame\cookedps3\onlinesubsystemps3.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_apart_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_base_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_dest_z1_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_livingroom_p.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_navmesh_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_new_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\par_apt_revised_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_art_zone1.xxx" />
+    <Package path="bournegame\cookedps3\par_car_art_zone2.xxx" />
+    <Package path="bournegame\cookedps3\par_car_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_car_base_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_dialogue_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_industrial_art_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_maps_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_modularbuildings_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\Detail_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_car_modularstreets.xxx" />
+    <Package path="bournegame\cookedps3\par_car_music_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_props_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_props_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_props_zone1.xxx" />
+    <Package path="bournegame\cookedps3\par_car_props_zone2.xxx" />
+    <Package path="bournegame\cookedps3\par_car_props_zone2b.xxx" />
+    <Package path="bournegame\cookedps3\par_car_residential_art_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemaps\sky2_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_car_river_art_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_skydome_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_streetsidewalk_p.xxx" />
+    <Package path="bournegame\cookedps3\par_car_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_tunnelcrash_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_introqa_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_quickaction_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_streets_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_tunnel_lights_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z1_tunnel_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z2_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z2_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z2_streets_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z2_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z3_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z3_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z3_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z3_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z3_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z4_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z4_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z4_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z4_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z4_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_a_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_art_b_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_b_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_b_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_garage_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z5_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_art_b_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_props_b_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z6_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_art_b_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_collision_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_lights_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_props_b_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickaction_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_quickactions_props_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_z7_traffic_m.xxx" />
+    <Package path="bournegame\cookedps3\par_car_zone1_art_p.xxx" />
+    <Package path="bournegame\cookedps3\par_cubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_fightprops_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_banquet_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_base_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_destructables_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_lights.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_dgbad_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_firefight_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_foyer_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_fx_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden0_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden1_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_garden2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_intro_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_intro_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lighting_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_lounge_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_firefight_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum1_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museum2_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museumprops_02_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_museumprops_p.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_music_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_nav_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_post_fx.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_renov_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_shared_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\par_dar_warehouse_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\par_hub_art_p.xxx" />
+    <Package path="bournegame\cookedps3\par_hub_churcha1_p.xxx" />
+    <Package path="bournegame\cookedps3\par_level_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="arearug_NORM" suffix="1" />
+        <Object id="Ceiling_CLR" suffix="1" />
+        <Object id="ceiling_NORM" suffix="1" />
+        <Object id="door2_CLR" suffix="1" />
+        <Object id="door2_NORM" suffix="1" />
+        <Object id="fridge_CLR" suffix="1" />
+        <Object id="generic_SPEC" suffix="1" />
+        <Object id="grate_CLR" suffix="1" />
+        <Object id="grate_NORM" suffix="1" />
+        <Object id="PAR_cube\CubemapFace0" suffix="1" />
+        <Object id="PAR_cube\CubemapFace1" suffix="1" />
+        <Object id="PAR_cube\CubemapFace2" suffix="1" />
+        <Object id="PAR_cube\CubemapFace3" suffix="1" />
+        <Object id="PAR_cube\CubemapFace4" suffix="1" />
+        <Object id="PAR_cube\CubemapFace5" suffix="1" />
+        <Object id="ShadowCard" suffix="1" />
+        <Object id="whitewall_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_scaffolding_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Scaf_Tpage_CLR" suffix="1" />
+        <Object id="Scaf_Tpage_NORM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_shopfronts_p.xxx" />
+    <Package path="bournegame\cookedps3\par_streetcubemap_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_aptint_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_base_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_chrchint_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_chrchintlghts_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_church_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ArchTPage_NORM" suffix="1" />
+        <Object id="ConcreteFloor_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_churchprops_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_courtyard_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_intro_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_mannchrch_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manndeath_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_manngrvyrd_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_roofleap_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_skylight_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_sniper_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_stairleap_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_cine_zipline_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_1_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_2_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_courtyard_fake_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_ext_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_ext2_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_exterior_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cobblestone_CLR" suffix="1" />
+        <Object id="Cobblestone_NORM" suffix="1" />
+        <Object id="curtain_CLR" suffix="1" />
+        <Object id="fusebox_CLR" suffix="1" />
+        <Object id="LIT_brownbrick" suffix="1" />
+        <Object id="Pipes_NORM" suffix="1" />
+        <Object id="RooftopGrunge_CLR" suffix="1" />
+        <Object id="skytop_CLR" suffix="1" />
+        <Object id="tunnelwall_CLR" suffix="1" />
+        <Object id="windows_CLR" suffix="1" />
+        <Object id="windows_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_fx_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_graveyard_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Detail_NORM" suffix="3" />
+        <Object id="dirt_CLR" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_graveyardprops_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Fence_CLR" suffix="2" />
+        <Object id="Fence_NORM" suffix="2" />
+        <Object id="garbage_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_grvista_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Water1_Normal" suffix="1" />
+        <Object id="Water1_Tex" suffix="1" />
+        <Object id="Water2_Normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_grvyrd_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_gyardlights_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_interior_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_lores_meshes_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_music_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_nav_01_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_objectives_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_office_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_passage_dest_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_props_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_1_destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_2_destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_roof_design_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_rooftop2_p.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_shared_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stair_destructible_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stairwell_art_m.xxx" />
+    <Package path="bournegame\cookedps3\par_tre_stairwell_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door_CLR" suffix="2" />
+        <Object id="Door_NORM" suffix="1" />
+        <Object id="Wall_CLR" suffix="1" />
+        <Object id="Wall_NORM" suffix="1" />
+        <Object id="wood_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\par_tre_stairwellceiling_art_m.xxx" />
+    <Package path="bournegame\cookedps3\parkalley.xxx" />
+    <Package path="bournegame\cookedps3\parkprops.xxx" />
+    <Package path="bournegame\cookedps3\performancedashboard.xxx" />
+    <Package path="bournegame\cookedps3\police_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PolicemanFR_Radio_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\prop_fountain.xxx" />
+    <Package path="bournegame\cookedps3\prop_garbage.xxx" />
+    <Package path="bournegame\cookedps3\prop_snackcart.xxx" />
+    <Package path="bournegame\cookedps3\prop_subwaytollgate.xxx" />
+    <Package path="bournegame\cookedps3\prop_vendingmachine.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Snacks" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\sec_fireprops_p.xxx" />
+    <Package path="bournegame\cookedps3\sec_securitycamera_p.xxx" />
+    <Package path="bournegame\cookedps3\sho_entryway_p.xxx" />
+    <Package path="bournegame\cookedps3\sho_shopsign_p.xxx" />
+    <Package path="bournegame\cookedps3\signage.xxx" />
+    <Package path="bournegame\cookedps3\skelmeshactormat_animtree_p.xxx" />
+    <Package path="bournegame\cookedps3\skydomes.xxx" />
+    <Package path="bournegame\cookedps3\soundconfig.xxx" />
+    <Package path="bournegame\cookedps3\soundevents_bodyimpacts.xxx" />
+    <Package path="bournegame\cookedps3\soundevents_dialog.xxx" />
+    <Package path="bournegame\cookedps3\soundevents_footsteps.xxx" />
+    <Package path="bournegame\cookedps3\soundevents_vehicles_bourne.xxx" />
+    <Package path="bournegame\cookedps3\soundevents_vehicles.xxx" />
+    <Package path="bournegame\cookedps3\soundevents.xxx" />
+    <Package path="bournegame\cookedps3\soundparameters.xxx" />
+    <Package path="bournegame\cookedps3\startup_deu.xxx" />
+    <Package path="bournegame\cookedps3\startup_esn.xxx" />
+    <Package path="bournegame\cookedps3\startup_fra.xxx" />
+    <Package path="bournegame\cookedps3\startup_int.xxx" />
+    <Package path="bournegame\cookedps3\startup_ita.xxx" />
+    <Package path="bournegame\cookedps3\sto_barrels_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_cargocontainer_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_construction_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Detail_NORM" suffix="2" />
+        <Object id="Scaf_Tpage_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\sto_crate_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="IceChest\IceChest_NORM" suffix="1" />
+        <Object id="WoodenCrate_CLR" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\sto_dolly_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="handcart_clr" suffix="1" />
+        <Object id="handcart_norm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\sto_fences_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_hardware_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_locker_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_scaffolding_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_shelves_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_tanks_p.xxx" />
+    <Package path="bournegame\cookedps3\sto_trashbins_p.xxx" />
+    <Package path="bournegame\cookedps3\str_barriers_hires_p.xxx" />
+    <Package path="bournegame\cookedps3\str_barriers_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Railing_CLR" suffix="1" />
+        <Object id="Railing_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\str_bench_p.xxx" />
+    <Package path="bournegame\cookedps3\str_fireescape_p.xxx" />
+    <Package path="bournegame\cookedps3\str_garbage_p.xxx" />
+    <Package path="bournegame\cookedps3\str_grafitti_p.xxx" />
+    <Package path="bournegame\cookedps3\str_lamppost_p.xxx" />
+    <Package path="bournegame\cookedps3\str_pedestrianprops_p.xxx" />
+    <Package path="bournegame\cookedps3\str_props_p.xxx" />
+    <Package path="bournegame\cookedps3\str_roadsign_p.xxx" />
+    <Package path="bournegame\cookedps3\thxscreens.xxx" />
+    <Package path="bournegame\cookedps3\tkd_bossdefault.xxx" />
+    <Package path="bournegame\cookedps3\tkd_bossgeneric.xxx" />
+    <Package path="bournegame\cookedps3\tkd_bourne.xxx" />
+    <Package path="bournegame\cookedps3\tkd_bournefighttransition.xxx" />
+    <Package path="bournegame\cookedps3\tkd_death.xxx" />
+    <Package path="bournegame\cookedps3\tkd_deauvage.xxx" />
+    <Package path="bournegame\cookedps3\tkd_divandelen.xxx" />
+    <Package path="bournegame\cookedps3\tkd_henchmandefault.xxx" />
+    <Package path="bournegame\cookedps3\tkd_henchmangeneric.xxx" />
+    <Package path="bournegame\cookedps3\tkd_krystek.xxx" />
+    <Package path="bournegame\cookedps3\tkd_multioppfighttransition.xxx" />
+    <Package path="bournegame\cookedps3\tkd_shooting.xxx" />
+    <Package path="bournegame\cookedps3\tkd_spectator.xxx" />
+    <Package path="bournegame\cookedps3\tkd_treadstone.xxx" />
+    <Package path="bournegame\cookedps3\treadstonefightsets.xxx" />
+    <Package path="bournegame\cookedps3\tutorialuiscenes.xxx" />
+    <Package path="bournegame\cookedps3\usable.xxx" />
+    <Package path="bournegame\cookedps3\ve_archetypes.xxx" />
+    <Package path="bournegame\cookedps3\ve_mini_physics.xxx" />
+    <Package path="bournegame\cookedps3\ve_mini.xxx" />
+    <Package path="bournegame\cookedps3\ve_minianimassets.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt_MASK" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\ve_minimaterialshaders.xxx" />
+    <Package path="bournegame\cookedps3\veg_bush_p.xxx" />
+    <Package path="bournegame\cookedps3\veg_hedges_p.xxx" />
+    <Package path="bournegame\cookedps3\veg_plant_p.xxx" />
+    <Package path="bournegame\cookedps3\veg_pottedplants_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PlantPots_CLR" suffix="1" />
+        <Object id="PlantPots_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\veg_trees_p.xxx" />
+    <Package path="bournegame\cookedps3\veg_treessnow_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_bicycle_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_boat_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Metal_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\veh_cargotruck_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_compact1_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_compact2_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_compact3_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_anim_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_bus_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_compact1_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_dest_pfb_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_eurosuv_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_gigule_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_oldeurocar2_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GiguleTyre_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\veh_drv_policesedan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_policevan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_salooncar_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_sedan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_sedan3_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_sharedassets_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_taxi_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_towtruck_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_train_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_drv_van_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_helicopter_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_oldeuropeancar1_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_oldeuropeancar2_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_oldeuropeancar3_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_policesedan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_policevan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_policewagon_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_renardhelicopter_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_salooncar_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_scooter02_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_scooter1_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_sedan_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_sedan3_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_sharedassets_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_sharedtextures_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_subcompact1_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_subcompact2_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_subcompact3_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_supplyship_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_tank_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_taxicab_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_train_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_van_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_vehiclescubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\veh_wombosihelicopter_p.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_air.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_alarm.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_alley.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_amb_beds.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_amb_dx_street_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_appliance.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_auto.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_beeps.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_bird.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_bodyfall.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_cd_facefx.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_church.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_city.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_cloth.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_construction.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dirt.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dog.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_door.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_amb.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_civilian_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_henchman_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_oconnor_rx.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_switchboard_deu.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_switchboard_esn.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_switchboard_fra.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_switchboard_ita.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_switchboard.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_wom_crewman_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_wom_gen_grunt.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_wom_general_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_wom_merc_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_dx_wom_soldier_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_elec.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_events.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_explosion.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_fire.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_bodyfall.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_bounre_mtl_mvmt.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_bourne_clth.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_bourne_lthr.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_doc_wrkr.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_hand_pats.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_mltry_unfrm.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_nylon_jacket.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_sec_grd.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_stealth_backpack.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley_stealth_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foley.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_foliage.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_footsteps.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_fs_boots.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_fs_stealth_wetsuit.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_glass.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_gun_amb.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_gun.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_helicopter.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_human.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_ice.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_impact.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_impacts_fighting.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_insect.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_interface.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx_02_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx_02.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx_03.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx_04.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx_05.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell_rmx.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_john_powell.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_liquid.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_machine.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_mech.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_metal.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_motor.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_mx_oakenfold_02.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_mx_oakenfold.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_mx_temp.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_mx_universal.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_paper.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_plane.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_plaster.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_plastic.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_radio.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_refrigerator.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_ricochet.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_rope.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_rx_bourne_jeff_pierce.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_siren.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_steam.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_stingers_02.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_stingers_oak.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_stingers.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_stone.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_sub.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_television.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_temp_player.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_thunder.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_train.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_vechicles.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_walla.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_whoosh.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_wind.xxx" />
+    <Package path="bournegame\cookedps3\wavelibrary_wood.xxx" />
+    <Package path="bournegame\cookedps3\weaponphysics.xxx" />
+    <Package path="bournegame\cookedps3\wep_9mm_mg_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Suppressor_CLR" suffix="1" />
+        <Object id="Suppressor_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\wep_autoshotgun_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_book_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_chair_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="chair_CLR" suffix="1" />
+        <Object id="chair_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\wep_chairleg_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_crowbar_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_fireextinguisher_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_grenade.xxx" />
+    <Package path="bournegame\cookedps3\wep_heavyshotgun_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_hmg_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HEAVY_MACHINE_GUN_CLR" suffix="1" />
+        <Object id="HEAVY_MACHINE_GUN_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\wep_huntingshotgun_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_knife_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_leadpipe_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_magazine_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_marinemachinegun_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_nightstick_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_p220.xxx" />
+    <Package path="bournegame\cookedps3\wep_p226r_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Suppressor_NORM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\wep_pipewrench_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_rapidshot_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_rollingpin_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_s550_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_screwdriver_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_sg552_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_sharedcubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_shotgun_m4.xxx" />
+    <Package path="bournegame\cookedps3\wep_shovel_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_silencedpistol_p.xxx" />
+    <Package path="bournegame\cookedps3\wep_ssp226_p.xxx" />
+    <Package path="bournegame\cookedps3\zipline_generic.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airplane_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airplaneprops_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_art_part1_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_dest_p1_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_view_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airside_view_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WoodenCrate_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_airsidecenter_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_airsidecenter_hires_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="stairwell_floor_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_airsidecenter_props_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_ambush_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_a_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_b_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_audio_c_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_barrels_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_base_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_boardingtram_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_cargoplane_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_civilians_animtree.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_des_prefabs_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_divoutro_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_exittram_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_music_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_nav_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parking_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parkinggarage_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_parkinggarage_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="stairwell_wall_NORM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_postfx_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_shared_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_skywalk_civs_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_skywalk_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationa_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Airport_View_Tarmac" suffix="1" />
+        <Object id="Detail_NORM" suffix="1" />
+        <Object id="halls_flr_04_NORM" suffix="1" />
+        <Object id="stairs" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_stationb_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_artlink_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_stationb_tarmac_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_street_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Garage_Concrete_CLR" suffix="1" />
+        <Object id="snow_NORM" suffix="1" />
+        <Object id="snowdirty_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_streetview_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tarmac_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminala_hires_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Clock_CLR" suffix="1" />
+        <Object id="infoBooth_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_terminalafacade_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_art_p1_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_design_p1_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_dest_p1_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_terminalb_hires_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Noise_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_air_tram_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_destruct_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_air_tram_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_ai_implant_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_audio_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b1gapjump_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_lobby_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_loffices_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_b3_roffices_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_balcony_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_base_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_bld1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_cine_roof_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_cinematic_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_courtyard_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_courtyardlights_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_courtyardprops_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_courtyrdpcs_bps_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_courtyrdpcs_bps_temp.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\courtyardGlass_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_ame_courtyrdprps_bps_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_cubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_destructibleprefabs_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_doorarchetypes.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_fx_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightblocks_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lighting_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_cine_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lightsout_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_lobby_props_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_miniboss1_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_modularpieces_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_music_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices1_art_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices1_lights_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices1_props_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices1link_b_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices1link_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices2_props_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_offices3_props_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_postfx_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_radarmaps.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_roof_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_shaders_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_shaders_temp.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_shared_art_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_staticpersistent_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_templights_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m_loc_deu.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m_loc_esn.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m_loc_fra.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m_loc_int.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m_loc_ita.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_wirework_design_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z1destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z2destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3destructibles_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3foyer_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3foyer_bps_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Fountain_CLR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_ame_z3foylights_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3foyprops_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3offices_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3offices_bps_p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\GuardRoom_CLR" suffix="1" />
+        <Object id="Textures\GuardRoom_NORM" suffix="1" />
+        <Object id="Textures\GuardRoom_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="bournegame\cookedps3\zur_ame_z3offices1_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3ofslights_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3ofsprops_bps_m.xxx" />
+    <Package path="bournegame\cookedps3\zur_ame_z3security_bps.xxx" />
+    <Package path="bournegame\cookedps3\zur_cubemaps_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_exteriorprops_p.xxx" />
+    <Package path="bournegame\cookedps3\zur_exteriorvignette_p.xxx" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,13 @@
+﻿<Game packageFileVersion="241" packageLicenseeVersion="71" TFCMappingFileName="Rainbow Six Vegas 2" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="KellerGame\*" TFCpath="KellerGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_MP_Clan.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_MP_RSMenus_Splitscreen.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_r6hud.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_r6hud.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_r6hud_mp.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_r6hud_split.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_SP_RSMenus.uppc</ExcludedFile>
+	<ExcludedFile>KellerGame\CookedPC\Packages\Magma\Magma_Statistics.uppc</ExcludedFile>
+</Game>

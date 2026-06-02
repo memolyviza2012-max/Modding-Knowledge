@@ -1,0 +1,887 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="kellergame\cookedpc\core.uppc" />
+    <Package path="kellergame\cookedpc\editormaterials.uppc" />
+    <Package path="kellergame\cookedpc\editormeshes.uppc" />
+    <Package path="kellergame\cookedpc\editorresources.uppc" />
+    <Package path="kellergame\cookedpc\engine.uppc" />
+    <Package path="kellergame\cookedpc\enginefonts.uppc" />
+    <Package path="kellergame\cookedpc\enginematerials.uppc" />
+    <Package path="kellergame\cookedpc\engineresources.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\ipdrv.uppc" />
+    <Package path="kellergame\cookedpc\maps\entry.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_bsptextures_ceiling.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_bsptextures_floor.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_bsptextures_wall.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_car.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_chopper.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_comcast.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_decal.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_details_aj.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt\00_Dirt00_D" suffix="1" />
+        <Object id="dirt\00_Dirt00_N" suffix="1" />
+        <Object id="dirt\00_Dirt00_Om" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_details_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_door.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_electronics_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_electronics_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_furnitures_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_furnitures_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_industrials_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_industrials_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_light.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_massivead.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_softbodies.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_structureext_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_structureext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_structureint_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_structureint_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_urbanfurniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_vegetations.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_common\00_vehicle.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_01infar.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_01innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_02infar.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_02innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_03infar.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_03innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_04infar.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_04innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_05innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\00_flyby_06innear.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_03innear_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_04innear_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_05innear_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_master_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_sirois.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby_sky.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="VegasMountains\00_VegasMountains01b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_flyby.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_flyby\media\00_helirides_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\00_styles\00_casino.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_01.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+        <Object id="minimaps\minimap_002" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_02b.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_04.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_05.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_06.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_07.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_08.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\01_oldvegas_skydome.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_bsptextures_ceiling.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_bsptextures_floor.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_bsptextures_wall.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_car.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_dirtmapov.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_furnitures_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_furnitures_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_industrials_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_oldvegas_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_oldvegas_04_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_oldvegas_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_skybox.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_structureext_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_structureext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_structureint_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_structureint_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\01_oldvegas\medias\01_vegetations.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_01b.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_02b.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_03b.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_04.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\02_lvu_skybox.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\demo_lvu_04.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_bsptexture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_car.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_deadbodies.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_furniture_aj.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Construction\02_ConstructionCones01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_furniture_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_02_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_03_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_04_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_opt_fakebuildings.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_lvu_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_structureext_aj.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Others\01_WareHouse01c_D" suffix="1" />
+        <Object id="Others\01_WareHouse01c_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_structureext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_structureint_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_structureint_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_vegasbackground.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\02_lvu\medias\02_vehicules.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_01b.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_02a.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_03a.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_04.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="1" />
+        <Object id="minimaps\minimap_004" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_parking.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\03_convention_skydome.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_bsptexturescc.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_convention_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_convention_02_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_electronic.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_flyby_sky.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_furnitures_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_furnitures_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_industrials_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_structureext_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_structureext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_structureint_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_structureint_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_vegetations.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\03_conventioncenter\medias\03_vehicle.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_01a.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="1" />
+        <Object id="minimaps\minimap_003" suffix="1" />
+        <Object id="minimaps\minimap_004" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_01b.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="3" />
+        <Object id="minimaps\minimap_003" suffix="1" />
+        <Object id="minimaps\minimap_004" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_01load.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_02.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_02a.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_03a.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_04.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+        <Object id="minimaps\minimap_002" suffix="2" />
+        <Object id="minimaps\minimap_003" suffix="2" />
+        <Object id="minimaps\minimap_004" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\04_theatre_skybox.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\demo_theatre_04.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_bsptexture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_door.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_electronic.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_flyby_opt.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_structureext.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="04_theater_LogoNeonSign_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_theatre_02_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_theatre_04_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_theatre_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_theatre_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_vegetations.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\04_theatre\medias\04_vehicle.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_01.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="1" />
+        <Object id="minimaps\minimap_003" suffix="1" />
+        <Object id="minimaps\minimap_004" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_01b.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_02b.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\05_desert_skydome.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_bsptextures_wall.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_bsptexutres_floor.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_car.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_desert_03_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_desert_pip.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_desert_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_details_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_details_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_door.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_industrials_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_industrials_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_infrastructure.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Pipes\MatPreset_N" suffix="1" />
+        <Object id="Pipes\MatPreset_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_ldscripting.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_skydomes.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_structureext_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_structureext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_structureint_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_structureint_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\05_desert\medias\05_vehicle.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\06_estate_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\06_estate_01b.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\06_estate_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\06_estate_03.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\06_estate_skybox.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_car.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_door.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_estate_02_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_estate_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_structure_ext_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_structure_ext_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\06_estate\media\06_vegetation.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\0t_picdumidi_01.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+        <Object id="minimaps\minimap_002" suffix="2" />
+        <Object id="minimaps\minimap_003" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\0t_picdumidi_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\0t_picdumidi_03.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="1" />
+        <Object id="minimaps\minimap_003" suffix="1" />
+        <Object id="minimaps\minimap_006" suffix="1" />
+        <Object id="minimaps\minimap_007" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\0t_picdumidi_04.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_decal.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_furnitures_aj.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_furnitures_kz.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_picdumidi_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_picdumidi_01_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_picdumidi_posteffects.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_scripterld.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_structure_ext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\0t_picdumidi\media\0t_structure_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb00_common\mb00_briefing.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb00_common\mb00_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb00_common\mb00_gameplaydata.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb00_common\mb00_th_teams.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\mb01_import.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_bsptextures_wall.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_decal.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dirt\00_DirtBrick02_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_gfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_postprocess.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_skydomes.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_structureext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_urbanfurniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_vegetation.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb01_import\medias\mb01_vehicles.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\mb02_dantes_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_arcade.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_decals.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_electronics.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_industrial.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb02_dantes_01\medias\mb02_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\mb03_neon_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_industrial.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_structure_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb03_neon_01\media\mb03_structureext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\mb04_oil_sm_placeholders.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\mb04_oil.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_decal.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_industrial.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_infrastructure.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Pipes\PAK_05_BackAlleyPipes01d_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_skydomes.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_structureext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_temppack.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_urbanfurniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_vegetation.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb04_oil\medias\mb04_vehicles.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\mb05_chinese.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_chinese_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_decals.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_electronics.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_industrials.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_structure_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb05_chinese\medias\mb05_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\mb06_trainyard.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="1" />
+        <Object id="minimaps\minimap_001" suffix="2" />
+        <Object id="minimaps\minimap_002" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb01_port.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_electronics.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_industrials.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_infrastructure.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_skydomes.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_structureext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_trainyard_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb06_trainyard\medias\mb06_vehicles.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Machinery\PAK_04_CraneContainer01b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\mb07_penthouse_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_bsptextures.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor\Mb07_Carpet01_S" suffix="1" />
+        <Object id="Floor\Mb07_ConcreteFloor01_N" suffix="1" />
+        <Object id="Floor\Mb07_ConcreteFloor01_S" suffix="1" />
+        <Object id="Floor\Mb07_Sidewalk01_N" suffix="1" />
+        <Object id="Floor\Mb07_WoodfloorEXT01_N" suffix="1" />
+        <Object id="Wall\Mb07_Concretewall01_N" suffix="1" />
+        <Object id="Wall\Mb07_Concretewall01_S" suffix="1" />
+        <Object id="Wall\Mb07_ExteriorWall01_N" suffix="1" />
+        <Object id="Wall\Mb07_TileFloor02_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_penthouse_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_structureext.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StructGarage\Mb07_StructBeam01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb07_penthouse_01\medias\mb07_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\mb08_conven_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_electronics.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_structures_ext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_structures_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb08_conven_01\medias\mb08_vegetations.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\mb_09_murdertown.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb_09_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_detail.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_industrial.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_skydomes.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_structure_ext.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="01_Flyby_Industrial_D" suffix="1" />
+        <Object id="Construction\DetailMap01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb09_murdertown\medias\mb09_vehicle.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\mb10_training_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_decals.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_placeholders.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ground\00_Ground04_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_structureext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb10_training_01\medias\mb10_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb11_streets\mb11_streets_01_linkapp.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb11_streets\media\mb11_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb11_streets\media\mp_streets_01_ladders.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb11_streets\media\mp_streets_01_package.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb11_streets\media\mp_streets_01_visual.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\mb12_killhouse.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+        <Object id="minimaps\minimap_002" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\medias\mb12_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\medias\mp_khd_structure_ext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\medias\mp_khd_structure_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\medias\pak_09_khd_sm.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Details\07_MP_Pallet02_D" suffix="1" />
+        <Object id="Details\MP_Streets_Dirt12_D" suffix="1" />
+        <Object id="Details\MP_Streets_Dirt12_Om" suffix="1" />
+        <Object id="Furniture\07_MP_OfficeDesk01_D" suffix="1" />
+        <Object id="Structure_EXT\07_MP_BalcCov_02_D" suffix="1" />
+        <Object id="Structure_EXT\07_MP_WaterTower01b_D" suffix="1" />
+        <Object id="Structure_EXT\MP_Streets_MetalSheetRusty02_D" suffix="1" />
+        <Object id="Structure_EXT\MP_Streets_WoodOldScrap01_D" suffix="1" />
+        <Object id="Structure_INT\07_MP_JR_Blocked_Passage_02a_D" suffix="1" />
+        <Object id="Structure_INT\07_MP_JR_Blocked_Passage_02b_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\medias\pak_09_structure_ext.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb12_killhouse\pak_09_killhousedouble_dlc_visuals.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\mb13_presidio.rmpc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\mb13_fx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\mb13_presidio_visual.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_decals.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_details.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Chairs\BrushedAluminum01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_industrials.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_lights.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceiling\00_Light01_D" suffix="1" />
+        <Object id="Ceiling\00_Light01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_skydome.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_structure_ext.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Structure_EXT\07_MP_FactoryFrontWall02_D" suffix="1" />
+        <Object id="Structure_EXT\07_MP_palisades01_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_structure_int.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Structure_INT\07_MP_WarehouseBuilding02ba_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_vegetation.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb13_presidio\medias\pak_06_vehicules.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_electronics.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\mb14_convent_mlg\medias\mb14_structures_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq_furniture.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq_map_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq_structureint.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq_visual.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\medias\pec_hq.uppc" />
+    <Package path="kellergame\cookedpc\mapsbishop\pec_hq\pec_hq_map.rmpc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\dlc_mp_casino_01.rmpc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\dlc_mp_casino_media.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceiling\00_LightSocket01_D" suffix="1" />
+        <Object id="Ceiling\00_LightSocket01_N" suffix="1" />
+        <Object id="Ceiling\00_LightSocket01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_01_cubemaps.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_bsptextures.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_details.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_dirts.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_doors.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_furnitures.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_lights.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_postfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_sfx.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_structure_ext.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_casino_01\medias\mp_casino_structures_int.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_murdertown_2\dlc_murdertown_2.rmpc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="minimaps\minimap_000" suffix="2" />
+        <Object id="minimaps\minimap_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_murdertown_2\medias\dlc_murdertown_2_medias.uppc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_training_02\dlc_training_02.rmpc" />
+    <Package path="kellergame\cookedpc\mapsdlc\dlc_training_02\medias\dlc_training_02_media.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreecivilian.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeclimb.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreefastrope.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreefirstperson.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreegadgets.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreehelicopter.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeladder.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeplayer.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeragdoll.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreerappel.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreetakecover360.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeterromentalstates.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreethirdperson.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeturret.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeturrettripod.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeweaponmag.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\animation\animtreeweapons.uppc" />
+    <Package path="kellergame\cookedpc\noautosync\camera\rs5cameratrees.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_civilians_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_civilians.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_dead_civilians.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_dialogue.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_facial_generic.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_facial_vo.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_firstperson.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_bombmulti.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_chopper.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_cinematic.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_gadgets.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_hands.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_interaction.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_obstacles.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_reactions.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_rope.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_signals.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_stacking.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_stance.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_takecover360.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_transitions.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_general_weapons.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_jung_gestures.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_jung_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_jung_stance.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_mike_gestures.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_mike_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_mike_stance.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_pec.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_props_gadgets_1st2.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_props_gadgets_3rd.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_props_weapons_1st2.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_props_weapons_3rd.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_russians_mentalstate.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_russians_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_casino.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_common.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_cvc.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_desert.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_e3.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_estate.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_fremont.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_lvu.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_new_dam.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_ovg.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_pic.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_se_theatre.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_terrorist_interaction.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_terrorist_movement.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_terrorist_reactions.uppc" />
+    <Package path="kellergame\cookedpc\packages\animation\anims_terrorists_stance.uppc" />
+    <Package path="kellergame\cookedpc\packages\camera\cameraconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\camera\takecovercameraconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\r6gadgets.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5_characters_lod.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5_charactertemplates.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5_equipmenttemplates.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5accessories.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5chara_assassin.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5dead_bodys.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5eyes.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5hands.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_e3.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_females.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5FemaleE3B_Torso_D" suffix="1" />
+        <Object id="Materials\RS5FemaleWifeE3_torso_D" suffix="1" />
+        <Object id="Materials\RS5TVGirlE3_torso_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_heads.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5_Trish_hair_N" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_head_D" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_head_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_males.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5Deadhost01_legs_D" suffix="1" />
+        <Object id="Materials\RS5Deadhost01_torso_D" suffix="1" />
+        <Object id="Materials\RS5Deadhost02_legs_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_officials.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5host_workers.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Materials\RS5Nerdyt01_torso_N" suffix="1" />
+        <Object id="Materials\RS5Nerdyt01_torso_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5maincharacters.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_armor.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_camo.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_gear_boots.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_01f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_01m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_02f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_02m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_03f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_03m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_04f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_04m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_05f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_05m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_06f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_06m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_07f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_07m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_08f.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_08m.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_head_eye.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_heads_x360.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_legs.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mpcharacters_torso.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5mphands.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_00_common.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_01_oldvegas.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_02_lvu.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_03_convention.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_04_theater.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_05_desert.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_06_estate.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_0t_picdumidi.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_mp_import.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_mp_neon.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5officialtemplates_mp_oil.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5props.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5rainbow.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\rs5weapons.uppc" />
+    <Package path="kellergame\cookedpc\packages\characters_weapons_props\weaponsetups.uppc" />
+    <Package path="kellergame\cookedpc\packages\dare.uppc" />
+    <Package path="kellergame\cookedpc\packages\defaultcharactertemplate.uppc" />
+    <Package path="kellergame\cookedpc\packages\editor\aiicons.uppc" />
+    <Package path="kellergame\cookedpc\packages\editor\k_common_mat.uppc" />
+    <Package path="kellergame\cookedpc\packages\editor\keller_placeholders.uppc" />
+    <Package path="kellergame\cookedpc\packages\editor\kellereditormaterials.uppc" />
+    <Package path="kellergame\cookedpc\packages\editor\kellerresource.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultTexture" suffix="1" />
+        <Object id="S_Emitter" suffix="1" />
+        <Object id="S_SkyLight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\equipmenttemplates_bishop.uppc" />
+    <Package path="kellergame\cookedpc\packages\equipmenttemplates.uppc" />
+    <Package path="kellergame\cookedpc\packages\fppvoicebank.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\accuracyconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\aiconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\configsmanager.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\controlsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\damageconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\fppwalkthroughconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\gadgetsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\handsignalsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\healthconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\impactconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\interactlengthsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\interactlocationsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\miscconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\posteffectsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\radarconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\rappelconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\rs5characteraitemplate.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\soundpriorityconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\takecoverconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\visualconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\gameconfig\weaponsconfig.uppc" />
+    <Package path="kellergame\cookedpc\packages\ingamemovies.uppc" />
+    <Package path="kellergame\cookedpc\packages\keller_sfx.uppc" />
+    <Package path="kellergame\cookedpc\packages\kellerexplosions.uppc" />
+    <Package path="kellergame\cookedpc\packages\kellergenericcubemaps.uppc" />
+    <Package path="kellergame\cookedpc\packages\kellerglasspresets.uppc" />
+    <Package path="kellergame\cookedpc\packages\kellermaterialgameparams.uppc" />
+    <Package path="kellergame\cookedpc\packages\kellermaterialspresets.uppc">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StainC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kellergame\cookedpc\packages\magma\intromovies.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_common.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_fonts.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_loading.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_mp_community.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_mp_outfitting.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_mp_pec.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_mp_rsmenus.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_notification.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_pause.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_r6hud_common.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\magma_settings.uppc" />
+    <Package path="kellergame\cookedpc\packages\magma\menumovies.uppc" />
+    <Package path="kellergame\cookedpc\packages\projectileparams.uppc" />
+    <Package path="kellergame\cookedpc\packages\r6interactiveobjects.uppc" />
+    <Package path="kellergame\cookedpc\packages\rainbowrunmovie.uppc" />
+    <Package path="kellergame\cookedpc\packages\rs5sound.uppc" />
+    <Package path="kellergame\cookedpc\packages\temp\keller_materials.uppc" />
+    <Package path="kellergame\cookedpc\packages\temp\kom.uppc" />
+    <Package path="kellergame\cookedpc\packages\terrocharactertemplate.uppc" />
+    <Package path="kellergame\cookedpc\r6game.uppc" />
+    <Package path="kellergame\cookedpc\shaderbase.uppc" />
+    <Package path="kellergame\script\core.u" />
+    <Package path="kellergame\script\editor.u" />
+    <Package path="kellergame\script\engine.u" />
+    <Package path="kellergame\script\ipdrv.u" />
+    <Package path="kellergame\script\r6game.u" />
+    <Package path="kellergame\script\unrealed.u" />
+  </Packages>
+</IdRemapping>

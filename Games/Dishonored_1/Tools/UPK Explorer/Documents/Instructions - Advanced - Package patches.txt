@@ -1,0 +1,23 @@
+﻿Package patches work just like texture packs and will require TFC installer for installation.
+
+They are highly recommended for modifying the game's original packages, as TFC installer can apply several patches to the same package,
+making your mod compatible with other mods that also use package patches to modify the same packages as long as the edits do not conflict with each other.
+
+It is highly recommended to create patches from a game installation that has no game patches installed,
+If you do not, the users of your mod will need to install the same package patches as you have, and in the same order.
+
+To "Create a game patch", open the game folder in advanced mode.
+Go to the create game patch tab and select make edits to the packages you want to modify.
+Each time you click the "Create a game patch" button, a .PackagePatch file will be created for each of your modified packages.
+You can do that every time you are done editing a package, as each .PackagePatch file is a self-contained patch for the corresponding package.
+That means you can also delete one of the .PackagePatch file from your game patch if you changed your mind about this package being modified.
+
+Just like a texture pack, a game patch can also contains package patches for DLCs, or even combined main game + DLC.
+To do so, simply move your .PackagePatch from the main games and DLCs in the same folder to make them into a single game patch.
+
+Package patches can also include texture packs.
+To do so, either move the files from your texture pack into the same folder as the game patch (xml files can be overwriten)
+Or use the "Create texture pack" tab, which will export the texture pack into the same directory as your game patch.
+When using TFC installer, the packages will be patched first, and then the textures from the texture pack will be injected into it.
+The reason for this is to allow you to add new texture objects to the package, and then use the texture pack part of the patch to inject textures with custom TFCs into it.
+To enable this feature you should create your texture pack from an already patched game so your new textures are available for the texture pack creation.

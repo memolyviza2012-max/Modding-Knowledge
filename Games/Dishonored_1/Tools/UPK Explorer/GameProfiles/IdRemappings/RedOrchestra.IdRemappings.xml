@@ -1,0 +1,362 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\ahz_vehicle_overlays_anm.ukx" />
+    <Package path="animations\allies_ahz_45mm_anm.ukx" />
+    <Package path="animations\allies_ahz_bt7_anm.ukx" />
+    <Package path="animations\allies_ba64_anm.ukx" />
+    <Package path="animations\allies_carrier_anm.ukx" />
+    <Package path="animations\allies_dp28_1st.ukx" />
+    <Package path="animations\allies_dt_1st.ukx" />
+    <Package path="animations\allies_f1nade_1st.ukx" />
+    <Package path="animations\allies_is2_anm.ukx" />
+    <Package path="animations\allies_kv1_anm.ukx" />
+    <Package path="animations\allies_nagant_1st.ukx" />
+    <Package path="animations\allies_nagantscope_1st.ukx" />
+    <Package path="animations\allies_ppd40_1st.ukx" />
+    <Package path="animations\allies_pps43_1st.ukx" />
+    <Package path="animations\allies_ppsh_1st.ukx" />
+    <Package path="animations\allies_ptrd_1st.ukx" />
+    <Package path="animations\allies_rgd1_1st.ukx" />
+    <Package path="animations\allies_su76_anm.ukx" />
+    <Package path="animations\allies_svt40_1st.ukx" />
+    <Package path="animations\allies_t3476_anm.ukx" />
+    <Package path="animations\allies_t3485_anm.ukx" />
+    <Package path="animations\allies_t60_anm.ukx" />
+    <Package path="animations\allies_tt33_1st.ukx" />
+    <Package path="animations\axis_g41_1st.ukx" />
+    <Package path="animations\axis_g43_1st.ukx" />
+    <Package path="animations\axis_granate_1st.ukx" />
+    <Package path="animations\axis_halftrack_anm.ukx" />
+    <Package path="animations\axis_kar98_1st.ukx" />
+    <Package path="animations\axis_luger_1st.ukx" />
+    <Package path="animations\axis_mg34_1st.ukx" />
+    <Package path="animations\axis_mg42_1st.ukx" />
+    <Package path="animations\axis_mp40_1st.ukx" />
+    <Package path="animations\axis_p38_1st.ukx" />
+    <Package path="animations\axis_pantherg_anm.ukx" />
+    <Package path="animations\axis_panzer3_anm.ukx" />
+    <Package path="animations\axis_panzer4f1_anm.ukx" />
+    <Package path="animations\axis_panzer4f2_anm.ukx" />
+    <Package path="animations\axis_panzer4h_anm.ukx" />
+    <Package path="animations\axis_panzerfaust_1st.ukx" />
+    <Package path="animations\axis_stg44_1st.ukx" />
+    <Package path="animations\axis_stug3_anm.ukx" />
+    <Package path="animations\axis_tiger1_anm.ukx" />
+    <Package path="animations\characters_anm.ukx" />
+    <Package path="animations\common_binoc_1st.ukx" />
+    <Package path="animations\common_satchel_1st.ukx" />
+    <Package path="animations\gear_anm.ukx" />
+    <Package path="animations\vehicle_overlays_anm.ukx" />
+    <Package path="animations\weapons3rd_anm.ukx" />
+    <Package path="maps\entry.rom" />
+    <Package path="maps\ro-arad.rom" />
+    <Package path="maps\ro-baksanvalley.rom" />
+    <Package path="maps\ro-barashka.rom" />
+    <Package path="maps\ro-basovka.rom" />
+    <Package path="maps\ro-berezina.rom" />
+    <Package path="maps\ro-blackdayjuly.rom" />
+    <Package path="maps\ro-bondarevo.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\hm0" suffix="1" />
+        <Object id="Terrain\Riverbed1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-danzig.rom" />
+    <Package path="maps\ro-fallenheroes.rom" />
+    <Package path="maps\ro-hedgehog.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\Grass" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-kaukasus.rom" />
+    <Package path="maps\ro-konigsplatz.rom" />
+    <Package path="maps\ro-krasnyioktyabr.rom" />
+    <Package path="maps\ro-krivoirog.rom" />
+    <Package path="maps\ro-kryukovo.rom" />
+    <Package path="maps\ro-kurlandkessel.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DecoLayers\Grass1" suffix="1" />
+        <Object id="Terrain\Terrain1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-leningrad.rom" />
+    <Package path="maps\ro-lyeskrovy.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-mannikkala.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\Heightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-odessa.rom" />
+    <Package path="maps\ro-ogledow.rom" />
+    <Package path="maps\ro-rakowice.rom" />
+    <Package path="maps\ro-smolenskstalemate.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\Terrain2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-stalingradkessel.rom" />
+    <Package path="maps\ro-tcherkassy.rom" />
+    <Package path="maps\ro-tulaoutskirts.rom">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="C\C" suffix="1" />
+        <Object id="Terrain\Base" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ro-zhitomir1941.rom" />
+    <Package path="maps\rointro.rom" />
+    <Package path="sounds\ahz_sounds.uax" />
+    <Package path="sounds\amb_animals.uax" />
+    <Package path="sounds\amb_constructions.uax" />
+    <Package path="sounds\amb_constructionstwo.uax" />
+    <Package path="sounds\amb_destruction.uax" />
+    <Package path="sounds\amb_destruction2.uax" />
+    <Package path="sounds\amb_vehicles.uax" />
+    <Package path="sounds\amb_weather.uax" />
+    <Package path="sounds\amb_weather01.uax" />
+    <Package path="sounds\amb_weather02.uax" />
+    <Package path="sounds\artillery.uax" />
+    <Package path="sounds\inf_player.uax" />
+    <Package path="sounds\inf_weapons_foley_3rd.uax" />
+    <Package path="sounds\inf_weapons_foley.uax" />
+    <Package path="sounds\inf_weapons_foley2.uax" />
+    <Package path="sounds\inf_weapons.uax" />
+    <Package path="sounds\inf_weaponstwo.uax" />
+    <Package path="sounds\miscsounds.uax" />
+    <Package path="sounds\projectilesounds.uax" />
+    <Package path="sounds\romenusounds.uax" />
+    <Package path="sounds\vehicle_engines.uax" />
+    <Package path="sounds\vehicle_enginestwo.uax" />
+    <Package path="sounds\vehicle_hatches.uax" />
+    <Package path="sounds\vehicle_reloads.uax" />
+    <Package path="sounds\vehicle_weapons.uax" />
+    <Package path="sounds\voice_ger_infantry.uax" />
+    <Package path="sounds\voice_ger_vehicle.uax" />
+    <Package path="sounds\voice_sov_infantry.uax" />
+    <Package path="sounds\voice_sov_vehicle.uax" />
+    <Package path="staticmeshes\allies_ahz_guns_stc.usx" />
+    <Package path="staticmeshes\allies_ahz_static_mesh_stc.usx" />
+    <Package path="staticmeshes\allies_ahz_vehicles_stc.usx" />
+    <Package path="staticmeshes\allies_vehicles_stc.usx" />
+    <Package path="staticmeshes\ammorounds1stsm.usx" />
+    <Package path="staticmeshes\aradsm.usx" />
+    <Package path="staticmeshes\axis_vehicles_stc.usx" />
+    <Package path="staticmeshes\baksanvalleysm.usx" />
+    <Package path="staticmeshes\barashkasm.usx" />
+    <Package path="staticmeshes\basovkasm.usx" />
+    <Package path="staticmeshes\bdj_vehicles_stc.usx" />
+    <Package path="staticmeshes\bondarevosm.usx" />
+    <Package path="staticmeshes\civilvehicles_sm.usx" />
+    <Package path="staticmeshes\danzigsm.usx" />
+    <Package path="staticmeshes\debugobjects.usx" />
+    <Package path="staticmeshes\destructiblessm.usx" />
+    <Package path="staticmeshes\detailsm.usx" />
+    <Package path="staticmeshes\effectssm.usx" />
+    <Package path="staticmeshes\fallenherossm_buildings.usx" />
+    <Package path="staticmeshes\fallenherossm.usx" />
+    <Package path="staticmeshes\furnituresm.usx" />
+    <Package path="staticmeshes\hedgehogsm.usx" />
+    <Package path="staticmeshes\hemispheressm.usx" />
+    <Package path="staticmeshes\industrysm.usx" />
+    <Package path="staticmeshes\karpezosmovesm.usx" />
+    <Package path="staticmeshes\kaukasussm.usx" />
+    <Package path="staticmeshes\kesselsm.usx" />
+    <Package path="staticmeshes\konigsplatz_appartmentsm.usx" />
+    <Package path="staticmeshes\konigsplatzsm.usx" />
+    <Package path="staticmeshes\krasnyism.usx" />
+    <Package path="staticmeshes\krivoirogsm.usx" />
+    <Package path="staticmeshes\landscapesm.usx" />
+    <Package path="staticmeshes\levelspecificsm.usx" />
+    <Package path="staticmeshes\lyeskrovysm_two.usx" />
+    <Package path="staticmeshes\lyeskrovysm.usx" />
+    <Package path="staticmeshes\militaryalliessm.usx" />
+    <Package path="staticmeshes\militaryaxissm.usx" />
+    <Package path="staticmeshes\militarysm.usx" />
+    <Package path="staticmeshes\odessasm.usx" />
+    <Package path="staticmeshes\ogledowsm.usx" />
+    <Package path="staticmeshes\pitomniksm.usx" />
+    <Package path="staticmeshes\placeholdersm.usx" />
+    <Package path="staticmeshes\ponyrism.usx" />
+    <Package path="staticmeshes\reichstagsm.usx" />
+    <Package path="staticmeshes\religioussm.usx" />
+    <Package path="staticmeshes\ruralsm.usx" />
+    <Package path="staticmeshes\scaleactors.usx" />
+    <Package path="staticmeshes\shawjarad_sm.usx" />
+    <Package path="staticmeshes\shawjbondarevo_sm.usx" />
+    <Package path="staticmeshes\specialeffectssm.usx" />
+    <Package path="staticmeshes\trainsm.usx" />
+    <Package path="staticmeshes\urbansm.usx" />
+    <Package path="staticmeshes\vegetationsm.usx" />
+    <Package path="staticmeshes\weaponpickupsm.usx" />
+    <Package path="system\ahz_rovehicles.u" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui2k4.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\roammo.u" />
+    <Package path="system\rocustom.u" />
+    <Package path="system\roeffects.u" />
+    <Package path="system\roengine.u" />
+    <Package path="system\rogame.u" />
+    <Package path="system\rointerface.u" />
+    <Package path="system\roinventory.u" />
+    <Package path="system\roroles.u" />
+    <Package path="system\rovehicles.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\unrealgame.u" />
+    <Package path="system\utv2004c.u" />
+    <Package path="system\utv2004s.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\xadmin.u" />
+    <Package path="system\xgame.u" />
+    <Package path="system\xinterface.u" />
+    <Package path="system\xvoting.u" />
+    <Package path="system\xwebadmin.u" />
+    <Package path="textures\allies_ahz_destroyed_gun_tex.utx" />
+    <Package path="textures\allies_ahz_destroyed_vehicles_tex.utx" />
+    <Package path="textures\allies_ahz_guns_tex.utx" />
+    <Package path="textures\allies_ahz_vehicles_tex.utx" />
+    <Package path="textures\allies_destroyed_vehicles_tex.utx" />
+    <Package path="textures\allies_vehicles_tex.utx" />
+    <Package path="textures\allies_vehicles_tex2.utx" />
+    <Package path="textures\arad_t.utx" />
+    <Package path="textures\architecture_t.utx" />
+    <Package path="textures\architecture_t2.utx" />
+    <Package path="textures\axis_destroyed_vehicles_tex.utx" />
+    <Package path="textures\axis_vehicles_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="int_vehicles\Stug3_INT_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\axis_vehicles_tex2.utx" />
+    <Package path="textures\baksanvalley_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="JPM_Terrain\brokensnow" suffix="1" />
+        <Object id="JPM_Terrain\decograss" suffix="1" />
+        <Object id="JPM_Terrain\decorock" suffix="1" />
+        <Object id="JPM_Terrain\Grass" suffix="1" />
+        <Object id="JPM_Terrain\JPM_terrainmap" suffix="1" />
+        <Object id="JPM_Terrain\mud" suffix="1" />
+        <Object id="JPM_Terrain\smallstones" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\barashka_t.utx" />
+    <Package path="textures\basovka_t.utx" />
+    <Package path="textures\bdj_vehicles_tex.utx" />
+    <Package path="textures\bondarevo_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cubemap\Face0" suffix="1" />
+        <Object id="Cubemap\Face1" suffix="1" />
+        <Object id="Cubemap\Face2" suffix="1" />
+        <Object id="Cubemap\Face3" suffix="1" />
+        <Object id="Cubemap\Face4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\characters_tex.utx" />
+    <Package path="textures\civilvehicles_smt.utx" />
+    <Package path="textures\danzig_t.utx" />
+    <Package path="textures\danzig_t2.utx" />
+    <Package path="textures\danzig_t3.utx" />
+    <Package path="textures\destructiblessmt.utx" />
+    <Package path="textures\detailsmt.utx" />
+    <Package path="textures\detailtextures_t.utx" />
+    <Package path="textures\effects_tex.utx" />
+    <Package path="textures\fallenheros_lightmaps.utx" />
+    <Package path="textures\fallenheros_t.utx" />
+    <Package path="textures\fallenheros2_t.utx" />
+    <Package path="textures\furnituresmt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Kitchen\Bowl" suffix="1" />
+        <Object id="Kitchen\Cup" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\g15lcd.utx" />
+    <Package path="textures\g15lcdfonts.utx" />
+    <Package path="textures\gear_tex.utx" />
+    <Package path="textures\gup_vehicles_tex.utx" />
+    <Package path="textures\hedgehog_t.utx" />
+    <Package path="textures\hemispheres_smt.utx" />
+    <Package path="textures\industrysmt.utx" />
+    <Package path="textures\interfaceart_ahz_tex.utx" />
+    <Package path="textures\interfaceart_tex.utx" />
+    <Package path="textures\interfaceart2_tex.utx" />
+    <Package path="textures\karpezosmove_t.utx" />
+    <Package path="textures\kaukasus_t.utx" />
+    <Package path="textures\kessel_t.utx" />
+    <Package path="textures\konigs_cubemaps.utx" />
+    <Package path="textures\konigsplatz_t.utx" />
+    <Package path="textures\krasnyi_cubemaps.utx" />
+    <Package path="textures\krasnyioktyabr_t.utx" />
+    <Package path="textures\krivoirog_t.utx" />
+    <Package path="textures\landscape_t.utx" />
+    <Package path="textures\landscapesmt.utx" />
+    <Package path="textures\levelspecificsmt.utx" />
+    <Package path="textures\loadscreenru.utx" />
+    <Package path="textures\lyeskrovy_t.utx" />
+    <Package path="textures\menubackground.utx" />
+    <Package path="textures\militaryalliessmt.utx" />
+    <Package path="textures\militaryaxissmt.utx" />
+    <Package path="textures\militarysmt.utx" />
+    <Package path="textures\odessa_t.utx" />
+    <Package path="textures\odessa_two_t.utx" />
+    <Package path="textures\ogledow_t.utx" />
+    <Package path="textures\overheadmaps.utx" />
+    <Package path="textures\pitomnik_t.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="JPM_foliage\JPM_grass_alpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\placeholder_t.utx" />
+    <Package path="textures\placeholdersmt.utx" />
+    <Package path="textures\ponyri_t.utx" />
+    <Package path="textures\reichstag_smt.utx" />
+    <Package path="textures\religioussmt.utx" />
+    <Package path="textures\rofonts.utx" />
+    <Package path="textures\rofontstwo.utx" />
+    <Package path="textures\rointerfaceart.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="deathicons\buttsmack" suffix="1" />
+        <Object id="deathicons\Generic" suffix="1" />
+        <Object id="deathicons\germgrenade" suffix="1" />
+        <Object id="deathicons\knife" suffix="1" />
+        <Object id="deathicons\mine" suffix="1" />
+        <Object id="deathicons\roadkill" suffix="1" />
+        <Object id="deathicons\rusgrenade" suffix="1" />
+        <Object id="deathicons\satchel" suffix="1" />
+        <Object id="deathicons\Strike" suffix="1" />
+        <Object id="HUD\CriticalMsgBackground" suffix="1" />
+        <Object id="Menu\button_normal" suffix="1" />
+        <Object id="Menu\ROGammaSet" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ruralsmt.utx" />
+    <Package path="textures\scopeshaders.utx" />
+    <Package path="textures\shawjarad_t.utx" />
+    <Package path="textures\shawjbondarevo_t.utx" />
+    <Package path="textures\sizeref_tex.utx" />
+    <Package path="textures\specialeffects.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Coronas\Corona1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\trainsmt.utx" />
+    <Package path="textures\urbansmt.utx" />
+    <Package path="textures\vegetation.utx" />
+    <Package path="textures\vegetationsmt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\kaukdeco1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\vehicle_optic.utx" />
+    <Package path="textures\weapon_overlays.utx" />
+    <Package path="textures\weapons1st_tex.utx" />
+    <Package path="textures\weapons1st_tex2.utx" />
+    <Package path="textures\weapons3rd_tex.utx" />
+  </Packages>
+</IdRemapping>

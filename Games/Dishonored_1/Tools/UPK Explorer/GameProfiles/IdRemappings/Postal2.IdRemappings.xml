@@ -1,0 +1,1535 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\animals.ukx" />
+    <Package path="animations\aw_heads.ukx" />
+    <Package path="animations\aw7_edweapons.ukx" />
+    <Package path="animations\aw7_weapons.ukx" />
+    <Package path="animations\aw7characters.ukx" />
+    <Package path="animations\awanimals.ukx" />
+    <Package path="animations\awcharacters.ukx" />
+    <Package path="animations\awgary_characters.ukx" />
+    <Package path="animations\awweaponanim.ukx" />
+    <Package path="animations\characters.ukx" />
+    <Package path="animations\easteranims.ukx" />
+    <Package path="animations\ed_animations.ukx" />
+    <Package path="animations\ed_weapons.ukx" />
+    <Package path="animations\fp_weapons.ukx" />
+    <Package path="animations\fuarms.ukx" />
+    <Package path="animations\gary_characters.ukx" />
+    <Package path="animations\halloweeen_anims.ukx" />
+    <Package path="animations\heads.ukx" />
+    <Package path="animations\krotchy_characters.ukx" />
+    <Package path="animations\morecharacters.ukx" />
+    <Package path="animations\moreheads.ukx" />
+    <Package path="animations\mp_characters.ukx" />
+    <Package path="animations\mp_gary_characters.ukx" />
+    <Package path="animations\mp_mesh_characters.ukx" />
+    <Package path="animations\mp_strippers.ukx" />
+    <Package path="animations\mp_weapons.ukx" />
+    <Package path="animations\nicks_catsilencer.ukx" />
+    <Package path="animations\p2r_anims_d.ukx" />
+    <Package path="animations\patch1_fp_weapons.ukx" />
+    <Package path="animations\reopeningjune2016anim.ukx" />
+    <Package path="animations\stpatricksanim.ukx" />
+    <Package path="animations\xedanims.ukx" />
+    <Package path="maps\awstartup.fuk" />
+    <Package path="maps\awstartuplogo.fuk" />
+    <Package path="maps\brewery.fuk" />
+    <Package path="maps\bridge.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="maps\church.fuk" />
+    <Package path="maps\compound.fuk" />
+    <Package path="maps\cowpasture.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\DeadGrassLayer" suffix="2" />
+        <Object id="Alphamaps\DirtLayer" suffix="1" />
+        <Object id="Alphamaps\LiveGrassLayer" suffix="1" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="maps\credits.fuk" />
+    <Package path="maps\dogpound.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\GrassLayer" suffix="3" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="maps\easterarena.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\GrassLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\eastmall.fuk" />
+    <Package path="maps\elephantpreserve.fuk" />
+    <Package path="maps\entry.fuk" />
+    <Package path="maps\estates-test.fuk" />
+    <Package path="maps\estates.fuk" />
+    <Package path="maps\forest.fuk" />
+    <Package path="maps\gayfish.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="3" />
+        <Object id="heightmaps\TerrainHeightmap2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\gayfish2.fuk" />
+    <Package path="maps\greenbelt1.fuk" />
+    <Package path="maps\greenbelt2.fuk" />
+    <Package path="maps\highlands.fuk" />
+    <Package path="maps\homeatnight.fuk" />
+    <Package path="maps\hospital.fuk" />
+    <Package path="maps\industry.fuk" />
+    <Package path="maps\industry2.fuk" />
+    <Package path="maps\intro.fuk" />
+    <Package path="maps\junkyard.fuk" />
+    <Package path="maps\library1.fuk" />
+    <Package path="maps\library2.fuk" />
+    <Package path="maps\lowerparadise.fuk" />
+    <Package path="maps\lowerparadise2.fuk" />
+    <Package path="maps\lowerparadise3.fuk" />
+    <Package path="maps\militarybase.fuk" />
+    <Package path="maps\militarybase2.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\militarybase3.fuk" />
+    <Package path="maps\militarybase4.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\movieintro.fuk" />
+    <Package path="maps\movieoutro.fuk" />
+    <Package path="maps\moviepigeons.fuk" />
+    <Package path="maps\mpdgt-asylum.fuk" />
+    <Package path="maps\mpdgt-boneyard.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\mpdgt-cemetery.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\mpdgt-icehole.fuk" />
+    <Package path="maps\mpdgt-meatworld.fuk" />
+    <Package path="maps\mpdgt-monsoon.fuk" />
+    <Package path="maps\mpdgt-napalm.fuk" />
+    <Package path="maps\mpdgt-piquant.fuk" />
+    <Package path="maps\mpdgt-shantytown.fuk" />
+    <Package path="maps\mpdgt-trainyard.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mps-intifada.fuk" />
+    <Package path="maps\mps-ponderous.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\GrassLayer" suffix="2" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\mps-redlight.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AsphaltLayer" suffix="1" />
+        <Object id="Alphamaps\DeadGrassLayer" suffix="1" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="maps\mps-splinterfoundry.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\napalm.fuk" />
+    <Package path="maps\ngt-brewery.fuk" />
+    <Package path="maps\ngt-church.fuk" />
+    <Package path="maps\ngt-compound.fuk" />
+    <Package path="maps\ngt-easterarena.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\GrassLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\ngt-eastmall.fuk" />
+    <Package path="maps\ngt-estates.fuk" />
+    <Package path="maps\ngt-forest.fuk" />
+    <Package path="maps\ngt-greenbelt1.fuk" />
+    <Package path="maps\ngt-greenbelt2.fuk" />
+    <Package path="maps\ngt-highlands.fuk" />
+    <Package path="maps\ngt-homeatnight.fuk" />
+    <Package path="maps\ngt-industry.fuk" />
+    <Package path="maps\ngt-industry2.fuk" />
+    <Package path="maps\ngt-intro.fuk" />
+    <Package path="maps\ngt-junkyard.fuk" />
+    <Package path="maps\ngt-library1.fuk" />
+    <Package path="maps\ngt-library2.fuk" />
+    <Package path="maps\ngt-napalm.fuk" />
+    <Package path="maps\ngt-parade.fuk" />
+    <Package path="maps\ngt-parcelcenter.fuk" />
+    <Package path="maps\ngt-police.fuk" />
+    <Package path="maps\ngt-rwsblock.fuk" />
+    <Package path="maps\ngt-slaughterhouse.fuk" />
+    <Package path="maps\ngt-suburbs-1.fuk" />
+    <Package path="maps\ngt-suburbs-2.fuk" />
+    <Package path="maps\ngt-suburbs-3.fuk" />
+    <Package path="maps\ngt-suburbs-4.fuk" />
+    <Package path="maps\ngt-torabora.fuk" />
+    <Package path="maps\ngt-underhub.fuk" />
+    <Package path="maps\ngt-westmall.fuk" />
+    <Package path="maps\parade.fuk" />
+    <Package path="maps\parcelcenter.fuk" />
+    <Package path="maps\police.fuk" />
+    <Package path="maps\rwsblock.fuk" />
+    <Package path="maps\slaughterhouse.fuk" />
+    <Package path="maps\startup-halloween.fuk" />
+    <Package path="maps\startup-mp.fuk" />
+    <Package path="maps\startup.fuk" />
+    <Package path="maps\startuplogo.fuk" />
+    <Package path="maps\startupmovie.fuk" />
+    <Package path="maps\suburbs-1.fuk" />
+    <Package path="maps\suburbs-2.fuk" />
+    <Package path="maps\suburbs-3.fuk" />
+    <Package path="maps\suburbs-4.fuk" />
+    <Package path="maps\testsubtitlesspam.fuk" />
+    <Package path="maps\torabora.fuk" />
+    <Package path="maps\trainingcamp-part1.fuk" />
+    <Package path="maps\trainingcamp-part2.fuk" />
+    <Package path="maps\trainingcamp-part3.fuk" />
+    <Package path="maps\trainingcamp2.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="maps\trainingcamp3.fuk" />
+    <Package path="maps\trainingcamp4.fuk" />
+    <Package path="maps\underhub.fuk" />
+    <Package path="maps\vinceshouse.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="4" />
+        <Object id="Alphamaps\AlphaLayer2" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer3" suffix="2" />
+        <Object id="Alphamaps\AlphaLayer4" suffix="1" />
+        <Object id="Alphamaps\road" suffix="1" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="maps\westmall.fuk" />
+    <Package path="paradise lost\animations\ed_weaponstoo.ukx" />
+    <Package path="paradise lost\animations\hart.ukx" />
+    <Package path="paradise lost\animations\hellgate.ukx" />
+    <Package path="paradise lost\animations\lawmancharacters.ukx" />
+    <Package path="paradise lost\animations\mrd_pl_anims.ukx" />
+    <Package path="paradise lost\animations\pl_katana_anims.ukx" />
+    <Package path="paradise lost\animations\pl_lavalamp.ukx" />
+    <Package path="paradise lost\animations\pl_revolver_mesh.ukx" />
+    <Package path="paradise lost\animations\pl_weapons_anims.ukx" />
+    <Package path="paradise lost\animations\pl_win_1887.ukx" />
+    <Package path="paradise lost\animations\pl-introanims.ukx" />
+    <Package path="paradise lost\animations\planimals.ukx" />
+    <Package path="paradise lost\animations\plbucket.ukx" />
+    <Package path="paradise lost\animations\plcharacters.ukx" />
+    <Package path="paradise lost\animations\plfuarms.ukx" />
+    <Package path="paradise lost\animations\plheads.ukx" />
+    <Package path="paradise lost\animations\plshockingextras.ukx" />
+    <Package path="paradise lost\animations\plweedwhackermesh.ukx" />
+    <Package path="paradise lost\animations\revanim.ukx" />
+    <Package path="paradise lost\animations\revrobofactoryanims.ukx" />
+    <Package path="paradise lost\animations\revwormanim.ukx" />
+    <Package path="paradise lost\maps\brewery.fuk" />
+    <Package path="paradise lost\maps\crashtest.fuk" />
+    <Package path="paradise lost\maps\entry.fuk" />
+    <Package path="paradise lost\maps\hospital.fuk" />
+    <Package path="paradise lost\maps\militarybase4.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-bandithideout.fuk" />
+    <Package path="paradise lost\maps\pl-brewery.fuk" />
+    <Package path="paradise lost\maps\pl-church.fuk" />
+    <Package path="paradise lost\maps\pl-colemancave.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Layer1" suffix="1" />
+        <Object id="Alphamaps\Layer2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-compound.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Compound\zo_compound_terrain" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-credits.fuk" />
+    <Package path="paradise lost\maps\pl-eastmall.fuk" />
+    <Package path="paradise lost\maps\pl-endofmonday.fuk" />
+    <Package path="paradise lost\maps\pl-endofthursday.fuk" />
+    <Package path="paradise lost\maps\pl-estates.fuk" />
+    <Package path="paradise lost\maps\pl-finalboss.fuk" />
+    <Package path="paradise lost\maps\pl-forest.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Forest\forestheight" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-greenbelt1.fuk" />
+    <Package path="paradise lost\maps\pl-greenbelt2.fuk" />
+    <Package path="paradise lost\maps\pl-hell_ent.fuk" />
+    <Package path="paradise lost\maps\pl-hell_part1.fuk" />
+    <Package path="paradise lost\maps\pl-hell_part2.fuk" />
+    <Package path="paradise lost\maps\pl-highlands.fuk" />
+    <Package path="paradise lost\maps\pl-industry.fuk" />
+    <Package path="paradise lost\maps\pl-industry2.fuk" />
+    <Package path="paradise lost\maps\pl-intro.fuk" />
+    <Package path="paradise lost\maps\pl-junkyard.fuk" />
+    <Package path="paradise lost\maps\pl-junkyardarena-apoc.fuk" />
+    <Package path="paradise lost\maps\pl-junkyardarena.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Milk" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-meadow.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CliffLayer" suffix="1" />
+        <Object id="Alphamaps\DeadGrassLayer" suffix="3" />
+        <Object id="Alphamaps\GroundRockLayer" suffix="1" />
+        <Object id="Alphamaps\LiveGrassLayer" suffix="2" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-outro-ac.fuk" />
+    <Package path="paradise lost\maps\pl-outro.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-robofact.fuk" />
+    <Package path="paradise lost\maps\pl-rwsblock.fuk" />
+    <Package path="paradise lost\maps\pl-saloon.fuk" />
+    <Package path="paradise lost\maps\pl-suburbs-1.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="map1L0" suffix="1" />
+        <Object id="map1L1" suffix="1" />
+        <Object id="map1L7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-suburbs-2.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sub2\posto-alt" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-suburbs-3.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Burbs\burbs1-ht" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\pl-suburbs-4.fuk" />
+    <Package path="paradise lost\maps\pl-torabora.fuk" />
+    <Package path="paradise lost\maps\pl-underhub.fuk" />
+    <Package path="paradise lost\maps\pl-westmall.fuk" />
+    <Package path="paradise lost\maps\pl-winterwonderland.fuk" />
+    <Package path="paradise lost\maps\police.fuk" />
+    <Package path="paradise lost\maps\startup-apocalypse.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\maps\startup.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\sounds\britmaledialog.uax" />
+    <Package path="paradise lost\sounds\dialogjohn.uax" />
+    <Package path="paradise lost\sounds\labmonkeydialog.uax" />
+    <Package path="paradise lost\sounds\pisstrap-movement.uax" />
+    <Package path="paradise lost\sounds\pisstrapdialog.uax" />
+    <Package path="paradise lost\sounds\pl_beanbagsounds.uax" />
+    <Package path="paradise lost\sounds\pl_flashgrenadesound.uax" />
+    <Package path="paradise lost\sounds\pl_weaponsnd.uax" />
+    <Package path="paradise lost\sounds\pl_weedwhackersounds.uax" />
+    <Package path="paradise lost\sounds\pl-ambience.uax" />
+    <Package path="paradise lost\sounds\pl-dialog.uax" />
+    <Package path="paradise lost\sounds\pl-dialog2.uax" />
+    <Package path="paradise lost\sounds\pl-dialog3.uax" />
+    <Package path="paradise lost\sounds\pl-itemsounds.uax" />
+    <Package path="paradise lost\sounds\pl-levelsounds.uax" />
+    <Package path="paradise lost\sounds\pl-meadow_snd.uax" />
+    <Package path="paradise lost\sounds\pl-placeholdersfx.uax" />
+    <Package path="paradise lost\sounds\pl-tylerwav.uax" />
+    <Package path="paradise lost\sounds\planimalsounds.uax" />
+    <Package path="paradise lost\sounds\pldialogsurvivalist.uax" />
+    <Package path="paradise lost\sounds\plweapons.uax" />
+    <Package path="paradise lost\sounds\revgccso.uax" />
+    <Package path="paradise lost\sounds\revwormso.uax" />
+    <Package path="paradise lost\sounds\tempminigunsounds.uax" />
+    <Package path="paradise lost\sounds\wmalelawmendialog.uax" />
+    <Package path="paradise lost\staticmeshes\desertmesh.usx" />
+    <Package path="paradise lost\staticmeshes\gccmod.usx" />
+    <Package path="paradise lost\staticmeshes\growmeshes.usx" />
+    <Package path="paradise lost\staticmeshes\hammer.usx" />
+    <Package path="paradise lost\staticmeshes\hart_lvl_trans.usx" />
+    <Package path="paradise lost\staticmeshes\militaryriflemesh.usx" />
+    <Package path="paradise lost\staticmeshes\mrd_pl_mesh.usx" />
+    <Package path="paradise lost\staticmeshes\mrt_hellprops.usx" />
+    <Package path="paradise lost\staticmeshes\photo_fix.usx" />
+    <Package path="paradise lost\staticmeshes\pl_ed_mesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_envmesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_guitarmesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_lod_meshes_fg.usx" />
+    <Package path="paradise lost\staticmeshes\pl_miscmeshes.usx" />
+    <Package path="paradise lost\staticmeshes\pl_mrt.usx" />
+    <Package path="paradise lost\staticmeshes\pl_optimized.usx" />
+    <Package path="paradise lost\staticmeshes\pl_placeholdermesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_tylermesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_tylermesh2.usx" />
+    <Package path="paradise lost\staticmeshes\pl_weapons_mesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl_weedwhackerstatics.usx" />
+    <Package path="paradise lost\staticmeshes\pl_western.usx" />
+    <Package path="paradise lost\staticmeshes\pl-apocconqend_sm.usx" />
+    <Package path="paradise lost\staticmeshes\pl-ariddesert.usx" />
+    <Package path="paradise lost\staticmeshes\pl-brewery_sm.usx" />
+    <Package path="paradise lost\staticmeshes\pl-details.usx" />
+    <Package path="paradise lost\staticmeshes\pl-finalbossmeshes.usx" />
+    <Package path="paradise lost\staticmeshes\pl-interiormeshes.usx" />
+    <Package path="paradise lost\staticmeshes\pl-kamekmesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl-meadow_sm.usx" />
+    <Package path="paradise lost\staticmeshes\pl-nuclearwintermesh.usx" />
+    <Package path="paradise lost\staticmeshes\pl-rainyfoliagemesh.usx" />
+    <Package path="paradise lost\staticmeshes\plcharactermeshes.usx" />
+    <Package path="paradise lost\staticmeshes\plpickupmesh.usx" />
+    <Package path="paradise lost\staticmeshes\revmodels01.usx" />
+    <Package path="paradise lost\staticmeshes\revmodels02.usx" />
+    <Package path="paradise lost\staticmeshes\revrobofactmod.usx" />
+    <Package path="paradise lost\staticmeshes\revsysmodels.usx" />
+    <Package path="paradise lost\system\(name_conflict)_plgame.u" />
+    <Package path="paradise lost\system\plbase.u" />
+    <Package path="paradise lost\system\plfx.u" />
+    <Package path="paradise lost\system\plgame.u" />
+    <Package path="paradise lost\system\plinventory.u" />
+    <Package path="paradise lost\system\plpawns.u" />
+    <Package path="paradise lost\system\plshell.u" />
+    <Package path="paradise lost\system\revskr01.u" />
+    <Package path="paradise lost\system\revskr02.u" />
+    <Package path="paradise lost\textures\bossrushtex.utx" />
+    <Package path="paradise lost\textures\cocktex.utx" />
+    <Package path="paradise lost\textures\desert.utx" />
+    <Package path="paradise lost\textures\fallbackmaterialspl.utx" />
+    <Package path="paradise lost\textures\gcctex.utx" />
+    <Package path="paradise lost\textures\growroom.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="spliff" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\hart_level_trans.utx" />
+    <Package path="paradise lost\textures\helltex.utx" />
+    <Package path="paradise lost\textures\katanatex.utx" />
+    <Package path="paradise lost\textures\lavalamp_tex.utx" />
+    <Package path="paradise lost\textures\mrd_pl_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Burbs\burbs1-ht" suffix="2" />
+        <Object id="Compound\zo_compound_terrain" suffix="2" />
+        <Object id="Forest\forestheight" suffix="1" />
+        <Object id="Forest\forestL0b" suffix="1" />
+        <Object id="Forest\forestL1" suffix="1" />
+        <Object id="Forest\forestL3" suffix="1" />
+        <Object id="Forest\forestL5" suffix="1" />
+        <Object id="Forest\forestL7" suffix="1" />
+        <Object id="heightmaps\zo_green_terrain" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\mrt_hell.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer1" suffix="1" />
+        <Object id="rockpilediffuse" suffix="1" />
+        <Object id="rustymetal_panels01" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\mrt_winter.utx" />
+    <Package path="paradise lost\textures\p2_detail.utx" />
+    <Package path="paradise lost\textures\p2interiortex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Goods_set_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\phpostalbabes.utx" />
+    <Package path="paradise lost\textures\pl_buckettex.utx" />
+    <Package path="paradise lost\textures\pl_craptrap.utx" />
+    <Package path="paradise lost\textures\pl_dac.utx" />
+    <Package path="paradise lost\textures\pl_ed_tex.utx" />
+    <Package path="paradise lost\textures\pl_env.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cloudysky_2048" suffix="1" />
+        <Object id="darkblue_solid" suffix="1" />
+        <Object id="gray_solid" suffix="1" />
+        <Object id="starrysky" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl_hart.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PL_JunkyardArena\PL_JunkyarsdArenaTERR" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl_hart2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Compound\zo_compound_terrain" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl_mrtex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="lamp_lit_red" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl_placeholdertex.utx" />
+    <Package path="paradise lost\textures\pl_product.utx" />
+    <Package path="paradise lost\textures\pl_wester.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="couch_03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl_win_1887_tex.utx" />
+    <Package path="paradise lost\textures\pl-apocconqend_t.utx" />
+    <Package path="paradise lost\textures\pl-brewery_t.utx" />
+    <Package path="paradise lost\textures\pl-detailstex.utx" />
+    <Package path="paradise lost\textures\pl-emittertex.utx" />
+    <Package path="paradise lost\textures\pl-introtex.utx" />
+    <Package path="paradise lost\textures\pl-kamektex.utx" />
+    <Package path="paradise lost\textures\pl-marketsigns.utx" />
+    <Package path="paradise lost\textures\pl-marphytex.utx" />
+    <Package path="paradise lost\textures\pl-marphytex2.utx" />
+    <Package path="paradise lost\textures\pl-meadow_t.utx" />
+    <Package path="paradise lost\textures\pl-meshskins.utx" />
+    <Package path="paradise lost\textures\pl-miscmeshtex.utx" />
+    <Package path="paradise lost\textures\pl-nuclearwinter.utx" />
+    <Package path="paradise lost\textures\pl-rainyfoliage.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\zo_green_terrain" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\pl-startup.utx" />
+    <Package path="paradise lost\textures\pl-terrainheightmaps.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\darocks" suffix="1" />
+        <Object id="Alphamaps\dastreet" suffix="1" />
+        <Object id="Alphamaps\home_dirtlay" suffix="1" />
+        <Object id="Alphamaps\main_layer" suffix="1" />
+        <Object id="Burbs\burbs1-ht" suffix="3" />
+        <Object id="Highlands\zo_high_alpha1" suffix="1" />
+        <Object id="Highlands\zo_highlands_heightmap" suffix="1" />
+        <Object id="Highlands\zo_highlands_heightmap2" suffix="1" />
+        <Object id="map1L0" suffix="2" />
+        <Object id="map1L1" suffix="2" />
+        <Object id="map1L3" suffix="1" />
+        <Object id="map1L5" suffix="1" />
+        <Object id="map1L7" suffix="2" />
+        <Object id="parade\paradeL1" suffix="1" />
+        <Object id="parade\paradeL5" suffix="1" />
+        <Object id="rwsblock\rws_block" suffix="1" />
+        <Object id="sub2\map2L0" suffix="1" />
+        <Object id="sub2\map2L0b" suffix="1" />
+        <Object id="sub2\map2L3" suffix="1" />
+        <Object id="sub2\map2L5" suffix="1" />
+        <Object id="sub2\map2L7" suffix="1" />
+        <Object id="sub2\posto-alt" suffix="2" />
+        <Object id="sub4\map4L3" suffix="1" />
+        <Object id="sub4\map4L5" suffix="1" />
+        <Object id="sub4\map4L7" suffix="1" />
+        <Object id="sub4\newthing" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\plachievementicons.utx" />
+    <Package path="paradise lost\textures\planimalskins.utx" />
+    <Package path="paradise lost\textures\plbystanderskins.utx" />
+    <Package path="paradise lost\textures\plcharacterskins.utx" />
+    <Package path="paradise lost\textures\plfxskins.utx" />
+    <Package path="paradise lost\textures\plguitartex.utx" />
+    <Package path="paradise lost\textures\plhud.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Map\Hate_Group1Pic" suffix="1" />
+        <Object id="Map\Hate_Group2Pic" suffix="1" />
+        <Object id="Map\Hate_Group3Pic" suffix="1" />
+        <Object id="Map\Hate_Group4Pic" suffix="1" />
+        <Object id="Map\Hate_Group5Pic" suffix="1" />
+        <Object id="Map\map_day1" suffix="1" />
+        <Object id="Map\MAP_Day2" suffix="1" />
+        <Object id="Map\MAP_Day3" suffix="1" />
+        <Object id="Map\MAP_Day4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="paradise lost\textures\plpickuptex.utx" />
+    <Package path="paradise lost\textures\plvendingmenutextures.utx" />
+    <Package path="paradise lost\textures\plweedwhackertex.utx" />
+    <Package path="paradise lost\textures\projectortextures.utx" />
+    <Package path="paradise lost\textures\revolvertex.utx" />
+    <Package path="paradise lost\textures\revrobofactorytex.utx" />
+    <Package path="paradise lost\textures\revsys.utx" />
+    <Package path="paradise lost\textures\revtextures01.utx" />
+    <Package path="paradise lost\textures\revtextures02.utx" />
+    <Package path="paradise lost\textures\revwormtex.utx" />
+    <Package path="paradise lost\textures\shockingextra.utx" />
+    <Package path="paradise lost\textures\surfacetypetest.utx" />
+    <Package path="paradise lost\textures\zo_cmpd.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CubeMaps\zo_exposedwall_projector1" suffix="1" />
+        <Object id="CubeMaps\zo_exposedwall_projector2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\animations\animals.ukx" />
+    <Package path="sharethepain\animations\characters.ukx" />
+    <Package path="sharethepain\animations\fp_weapons.ukx" />
+    <Package path="sharethepain\animations\gary_characters.ukx" />
+    <Package path="sharethepain\animations\heads.ukx" />
+    <Package path="sharethepain\animations\krotchy_characters.ukx" />
+    <Package path="sharethepain\animations\mp_characters.ukx" />
+    <Package path="sharethepain\animations\mp_gary_characters.ukx" />
+    <Package path="sharethepain\animations\mp_mesh_characters.ukx" />
+    <Package path="sharethepain\animations\mp_strippers.ukx" />
+    <Package path="sharethepain\animations\mp_weapons.ukx" />
+    <Package path="sharethepain\animations\patch1_fp_weapons.ukx" />
+    <Package path="sharethepain\animations\smeg_weapons.ukx" />
+    <Package path="sharethepain\maps\entry.fuk" />
+    <Package path="sharethepain\maps\mpdgt-asylum.fuk" />
+    <Package path="sharethepain\maps\mpdgt-boneyard.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\mpdgt-cemetery.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="heightmaps\TerrainHeightmap" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\mpdgt-icehole.fuk" />
+    <Package path="sharethepain\maps\mpdgt-meatworld.fuk" />
+    <Package path="sharethepain\maps\mpdgt-monsoon.fuk" />
+    <Package path="sharethepain\maps\mpdgt-napalm.fuk" />
+    <Package path="sharethepain\maps\mpdgt-piquant.fuk" />
+    <Package path="sharethepain\maps\mpdgt-shantytown.fuk" />
+    <Package path="sharethepain\maps\mpdgt-trainyard.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\mps-intifada.fuk" />
+    <Package path="sharethepain\maps\mps-ponderous.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\GrassLayer" suffix="2" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\mps-redlight.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AsphaltLayer" suffix="1" />
+        <Object id="Alphamaps\DeadGrassLayer" suffix="1" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\mps-splinterfoundry.fuk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\maps\startup.fuk" />
+    <Package path="sharethepain\sounds\ambientsounds.uax" />
+    <Package path="sharethepain\sounds\animalsounds.uax" />
+    <Package path="sharethepain\sounds\arcade.uax" />
+    <Package path="sharethepain\sounds\dudedialog.uax" />
+    <Package path="sharethepain\sounds\garydialog.uax" />
+    <Package path="sharethepain\sounds\habibdialog.uax" />
+    <Package path="sharethepain\sounds\jail.uax" />
+    <Package path="sharethepain\sounds\krotchydialog.uax" />
+    <Package path="sharethepain\sounds\levelsounds.uax" />
+    <Package path="sharethepain\sounds\levelsoundstoo.uax" />
+    <Package path="sharethepain\sounds\levelsoundstrois.uax" />
+    <Package path="sharethepain\sounds\menusounds.uax" />
+    <Package path="sharethepain\sounds\miscsounds.uax" />
+    <Package path="sharethepain\sounds\moremiscsounds.uax" />
+    <Package path="sharethepain\sounds\movies.uax" />
+    <Package path="sharethepain\sounds\mpannouncer.uax" />
+    <Package path="sharethepain\sounds\mpannouncer1.uax" />
+    <Package path="sharethepain\sounds\mpsounds.uax" />
+    <Package path="sharethepain\sounds\protestors.uax" />
+    <Package path="sharethepain\sounds\quietmiscsounds.uax" />
+    <Package path="sharethepain\sounds\redneckdialog.uax" />
+    <Package path="sharethepain\sounds\rwslogo.uax" />
+    <Package path="sharethepain\sounds\slawterhaus.uax" />
+    <Package path="sharethepain\sounds\superweaponsounds.uax" />
+    <Package path="sharethepain\sounds\vendacuredialog.uax" />
+    <Package path="sharethepain\sounds\vincedialog.uax" />
+    <Package path="sharethepain\sounds\weaponsounds.uax" />
+    <Package path="sharethepain\sounds\wfemaledialog.uax" />
+    <Package path="sharethepain\sounds\wifedialog.uax" />
+    <Package path="sharethepain\sounds\wmaledialog.uax" />
+    <Package path="sharethepain\staticmeshes\ben_mesh.usx" />
+    <Package path="sharethepain\staticmeshes\boltons.usx" />
+    <Package path="sharethepain\staticmeshes\dj-protostuff.usx" />
+    <Package path="sharethepain\staticmeshes\furniture-stv.usx" />
+    <Package path="sharethepain\staticmeshes\josh_mesh.usx" />
+    <Package path="sharethepain\staticmeshes\library-sw.usx" />
+    <Package path="sharethepain\staticmeshes\mex_ghetto.usx" />
+    <Package path="sharethepain\staticmeshes\mex_props.usx" />
+    <Package path="sharethepain\staticmeshes\mpmeshes.usx" />
+    <Package path="sharethepain\staticmeshes\p2-details.usx" />
+    <Package path="sharethepain\staticmeshes\p2-outdoors-sw.usx" />
+    <Package path="sharethepain\staticmeshes\patch1_mesh.usx" />
+    <Package path="sharethepain\staticmeshes\redneeeeck.usx" />
+    <Package path="sharethepain\staticmeshes\rwsproductmesh.usx" />
+    <Package path="sharethepain\staticmeshes\smegmesh.usx" />
+    <Package path="sharethepain\staticmeshes\spewmesh.usx" />
+    <Package path="sharethepain\staticmeshes\stuff.usx" />
+    <Package path="sharethepain\staticmeshes\stv_suburbs.usx" />
+    <Package path="sharethepain\staticmeshes\stv-protocrap.usx" />
+    <Package path="sharethepain\staticmeshes\superweaponmeshes.usx" />
+    <Package path="sharethepain\staticmeshes\timb_mesh.usx" />
+    <Package path="sharethepain\staticmeshes\tp_weapons.usx" />
+    <Package path="sharethepain\staticmeshes\trans-stv.usx" />
+    <Package path="sharethepain\staticmeshes\zo_asylummeshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_boneyard_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_generic.usx" />
+    <Package path="sharethepain\staticmeshes\zo_greenbelt_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_highland_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_industry_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_machinery.usx" />
+    <Package path="sharethepain\staticmeshes\zo_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_monsoon_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_napalmdm.usx" />
+    <Package path="sharethepain\staticmeshes\zo_natural.usx" />
+    <Package path="sharethepain\staticmeshes\zo_redlight_meshes.usx" />
+    <Package path="sharethepain\staticmeshes\zo_timber.usx" />
+    <Package path="sharethepain\staticmeshes\zo_tora.usx" />
+    <Package path="sharethepain\system\aipack.u" />
+    <Package path="sharethepain\system\basefx.u" />
+    <Package path="sharethepain\system\basepeople.u" />
+    <Package path="sharethepain\system\core.u" />
+    <Package path="sharethepain\system\editor.u" />
+    <Package path="sharethepain\system\engine.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ConsoleFont\ConsoleFont_PageA" suffix="1" />
+        <Object id="DefaultTexture" suffix="1" />
+        <Object id="MediumFont\MediumFont_PageA" suffix="1" />
+        <Object id="Proj_Icon" suffix="1" />
+        <Object id="S_Ambient" suffix="1" />
+        <Object id="S_DecorationList" suffix="1" />
+        <Object id="S_Door" suffix="1" />
+        <Object id="S_Emitter" suffix="1" />
+        <Object id="S_Interp" suffix="1" />
+        <Object id="S_KBSJoint" suffix="1" />
+        <Object id="S_KConeLimit" suffix="1" />
+        <Object id="S_Keypoint" suffix="1" />
+        <Object id="S_KHinge" suffix="1" />
+        <Object id="S_Ladder" suffix="1" />
+        <Object id="S_LiftCenter" suffix="1" />
+        <Object id="S_LiftExit" suffix="1" />
+        <Object id="S_Light" suffix="1" />
+        <Object id="S_LookTarget" suffix="1" />
+        <Object id="S_MaterialTrigger" suffix="1" />
+        <Object id="S_Note" suffix="1" />
+        <Object id="S_Player" suffix="1" />
+        <Object id="S_SceneManager" suffix="1" />
+        <Object id="S_Teleport" suffix="1" />
+        <Object id="S_TerrainInfo" suffix="1" />
+        <Object id="S_Trigger" suffix="1" />
+        <Object id="S_ZoneInfo" suffix="1" />
+        <Object id="SmallFont\SmallFont_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\system\fire.u" />
+    <Package path="sharethepain\system\fpsgame.u" />
+    <Package path="sharethepain\system\fx.u" />
+    <Package path="sharethepain\system\gametypes.u" />
+    <Package path="sharethepain\system\inventory.u" />
+    <Package path="sharethepain\system\ipdrv.u" />
+    <Package path="sharethepain\system\moregame.u">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skins\FlagAnimTex" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\system\multibase.u" />
+    <Package path="sharethepain\system\multigame.u" />
+    <Package path="sharethepain\system\multistuff.u" />
+    <Package path="sharethepain\system\people.u" />
+    <Package path="sharethepain\system\postal2game.u" />
+    <Package path="sharethepain\system\shell.u" />
+    <Package path="sharethepain\system\stpextras.u" />
+    <Package path="sharethepain\system\stpextrastoo.u" />
+    <Package path="sharethepain\system\strippers.u" />
+    <Package path="sharethepain\system\ubrowser.u" />
+    <Package path="sharethepain\system\udebugmenu.u" />
+    <Package path="sharethepain\system\unrealed.u" />
+    <Package path="sharethepain\system\utbrowser.u" />
+    <Package path="sharethepain\system\utserveradmin.u" />
+    <Package path="sharethepain\system\uweb.u" />
+    <Package path="sharethepain\system\uwindow.u" />
+    <Package path="sharethepain\textures\animalskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cat_Orange" suffix="1" />
+        <Object id="Elephant" suffix="1" />
+        <Object id="Monkey256" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\ben_skins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Misc\lowrider_ben" suffix="1" />
+        <Object id="Misc\vase01_ben" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\boltonskins.utx" />
+    <Package path="sharethepain\textures\breaktex.utx" />
+    <Package path="sharethepain\textures\buyscreen.utx" />
+    <Package path="sharethepain\textures\chameleonskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BystandersM\MM__018__Avg_M_Jacket_Pants" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\chamelheadskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Special\BurnVictim" suffix="1" />
+        <Object id="Special\Dude" suffix="1" />
+        <Object id="Special\Gary" suffix="1" />
+        <Object id="Special\Gimp" suffix="1" />
+        <Object id="Special\Habib" suffix="1" />
+        <Object id="Special\Kumquat" suffix="1" />
+        <Object id="Special\UncleDave" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\chamelheadskins2.utx" />
+    <Package path="sharethepain\textures\dj-proto.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Sign_All" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\gamecustom.utx" />
+    <Package path="sharethepain\textures\genfx.utx" />
+    <Package path="sharethepain\textures\hudpack.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Icons\Icon_Inv_Alternator" suffix="1" />
+        <Object id="Icons\Icon_Inv_Bass_Sniffer" suffix="1" />
+        <Object id="Icons\Icon_Inv_Cat" suffix="1" />
+        <Object id="Icons\Icon_Inv_Catnip" suffix="1" />
+        <Object id="Icons\Icon_Inv_Chompy" suffix="1" />
+        <Object id="Icons\Icon_Inv_Citation" suffix="1" />
+        <Object id="Icons\icon_inv_Clipboard" suffix="1" />
+        <Object id="Icons\Icon_Inv_CopUniform" suffix="1" />
+        <Object id="Icons\Icon_Inv_Crack" suffix="1" />
+        <Object id="Icons\Icon_Inv_DogTreats" suffix="1" />
+        <Object id="Icons\Icon_Inv_Doughnut" suffix="1" />
+        <Object id="Icons\Icon_Inv_DudeUniform" suffix="1" />
+        <Object id="Icons\icon_inv_emptyhands" suffix="1" />
+        <Object id="Icons\Icon_Inv_Food" suffix="1" />
+        <Object id="Icons\Icon_inv_GaryBook" suffix="1" />
+        <Object id="Icons\Icon_Inv_Gift" suffix="1" />
+        <Object id="Icons\Icon_Inv_GimpUniform" suffix="1" />
+        <Object id="Icons\icon_inv_KevlarHeavy" suffix="1" />
+        <Object id="Icons\Icon_Inv_Krotchy" suffix="1" />
+        <Object id="Icons\icon_inv_Largemouth" suffix="1" />
+        <Object id="Icons\Icon_Inv_LibraryBook" suffix="1" />
+        <Object id="Icons\Icon_Inv_Map" suffix="1" />
+        <Object id="Icons\Icon_Inv_Matches" suffix="1" />
+        <Object id="Icons\Icon_Inv_Newspaper" suffix="1" />
+        <Object id="Icons\Icon_Inv_Package" suffix="1" />
+        <Object id="Icons\Icon_Inv_Paycheck" suffix="1" />
+        <Object id="Icons\Icon_Inv_Penicillin" suffix="1" />
+        <Object id="Icons\icon_inv_Piranah" suffix="1" />
+        <Object id="Icons\Icon_Inv_Pizza" suffix="1" />
+        <Object id="Icons\Icon_Inv_Steaks" suffix="1" />
+        <Object id="Icons\Icon_Special_Vest" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Baton" suffix="1" />
+        <Object id="Icons\Icon_Weapon_CowHead" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Gascan" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Grenade" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Launcher" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Machinegun" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Molotov" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Napalm" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Pistol" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Rifle" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Scissors" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Shotgun" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Shovel" suffix="1" />
+        <Object id="Icons\Icon_Weapon_Tazer" suffix="1" />
+        <Object id="Icons\Rocket_Cam_Icon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\josh-textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="foilage\shrub_branches" suffix="1" />
+        <Object id="foilage\shrub_branches alpha" suffix="1" />
+        <Object id="Misc\compscreen1" suffix="1" />
+        <Object id="Misc\compscreen2" suffix="1" />
+        <Object id="Misc\compscreen3" suffix="1" />
+        <Object id="sale_signs\bass_sniffer_sign" suffix="1" />
+        <Object id="sale_signs\cats_sign" suffix="1" />
+        <Object id="sale_signs\doughnuts_sign" suffix="1" />
+        <Object id="sale_signs\fast_food_sign" suffix="1" />
+        <Object id="sale_signs\fast_food_sign2" suffix="1" />
+        <Object id="sale_signs\fast_food_sign3" suffix="1" />
+        <Object id="sale_signs\fast_food_sign4" suffix="1" />
+        <Object id="sale_signs\genade_sign" suffix="1" />
+        <Object id="sale_signs\health_pipe_sign" suffix="1" />
+        <Object id="sale_signs\kevlar_sign" suffix="1" />
+        <Object id="sale_signs\machine_gun_sign" suffix="1" />
+        <Object id="sale_signs\pistol_sign" suffix="1" />
+        <Object id="sale_signs\rifle_sign" suffix="1" />
+        <Object id="sale_signs\shotgun_sign" suffix="1" />
+        <Object id="signs\Citations_Here" suffix="1" />
+        <Object id="signs\File_Room" suffix="1" />
+        <Object id="signs\Gary_Billboard" suffix="1" />
+        <Object id="signs\Lost_book1" suffix="1" />
+        <Object id="signs\Lost_book2" suffix="1" />
+        <Object id="signs\Lost_Citation" suffix="1" />
+        <Object id="signs\Welcome_to_Paradise_meshtex" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\joshtest.utx" />
+    <Package path="sharethepain\textures\mex_height.utx" />
+    <Package path="sharethepain\textures\mex_pack1.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Doors\mex_door_blotchypaint" suffix="1" />
+        <Object id="Doors\mex_door_brownsteel" suffix="1" />
+        <Object id="Doors\mex_door_metalstain" suffix="1" />
+        <Object id="Fencing\mex_fence_crisscrossgrimey1" suffix="1" />
+        <Object id="Fencing\mex_woodcrisscross_masked" suffix="1" />
+        <Object id="mex_2colorbrick" suffix="1" />
+        <Object id="mex_aluminum_nonxdent" suffix="1" />
+        <Object id="mex_boltplate" suffix="1" />
+        <Object id="mex_burnt-trim" suffix="1" />
+        <Object id="mex_checkertile" suffix="1" />
+        <Object id="mex_design2_lrgXsupport" suffix="1" />
+        <Object id="mex_diamondrooftile" suffix="1" />
+        <Object id="mex_dirtygrimeconcrete" suffix="1" />
+        <Object id="mex_drippybricks" suffix="1" />
+        <Object id="mex_dustyblotchybricks" suffix="1" />
+        <Object id="mex_greycinderbricks" suffix="1" />
+        <Object id="mex_gunkyconcrete" suffix="1" />
+        <Object id="mex_honeycombstucco" suffix="1" />
+        <Object id="mex_metalpanelstrips" suffix="1" />
+        <Object id="mex_metalstairgrate" suffix="1" />
+        <Object id="mex_muddyconcrete" suffix="1" />
+        <Object id="mex_particleboard" suffix="1" />
+        <Object id="mex_plywood" suffix="1" />
+        <Object id="mex_plywood_rail" suffix="1" />
+        <Object id="mex_plywood1" suffix="1" />
+        <Object id="mex_roof_roundvent" suffix="1" />
+        <Object id="mex_wherehousetin" suffix="1" />
+        <Object id="mex_wiremesh" suffix="1" />
+        <Object id="mex_wiremeshlight_square" suffix="1" />
+        <Object id="mex_woodenplanks_1" suffix="1" />
+        <Object id="mex_woodenshutter1" suffix="1" />
+        <Object id="rws\zo_rws_entry1" suffix="1" />
+        <Object id="windows\mex_window_condemned" suffix="1" />
+        <Object id="windows\mex_window_curtain1" suffix="1" />
+        <Object id="windows\mex_window_paintedcondemned" suffix="1" />
+        <Object id="woodshredtrim2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\movietextures.utx" />
+    <Package path="sharethepain\textures\mp_fparms.utx" />
+    <Package path="sharethepain\textures\mp_misc.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Logos\PoweredByGameSpy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\mp_teams.utx" />
+    <Package path="sharethepain\textures\mparms.utx" />
+    <Package path="sharethepain\textures\mpfx.utx" />
+    <Package path="sharethepain\textures\mphud.utx" />
+    <Package path="sharethepain\textures\mpskins.utx" />
+    <Package path="sharethepain\textures\nathans.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Inventory\CrackInv" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Alternator" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Catnip" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Citation" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Food" suffix="2" />
+        <Object id="Inventory\Icon_inv_GaryBook" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Gift" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Krotchy" suffix="1" />
+        <Object id="Inventory\Icon_Inv_LibraryBook" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Map" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Newspaper" suffix="2" />
+        <Object id="Inventory\Icon_Inv_Steaks" suffix="1" />
+        <Object id="Inventory\Icon_Weapon_CowHead" suffix="1" />
+        <Object id="Inventory\Icon_Weapon_Launcher" suffix="1" />
+        <Object id="Inventory\Icon_Weapon_Molotov" suffix="1" />
+        <Object id="Inventory\Icon_Weapon_Scissors" suffix="1" />
+        <Object id="Inventory\matches-1" suffix="1" />
+        <Object id="Inventory\MilkInv" suffix="2" />
+        <Object id="Inventory\MoneyInv" suffix="2" />
+        <Object id="Inventory\paycheckinv" suffix="1" />
+        <Object id="Inventory\pistolinv" suffix="1" />
+        <Object id="Inventory\shotguninv" suffix="1" />
+        <Object id="Inventory\TreeInv" suffix="1" />
+        <Object id="Inventory\zipper" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\p2fonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Fancy12\Fancy12_PageA" suffix="1" />
+        <Object id="Fancy15\Fancy15_PageA" suffix="1" />
+        <Object id="Fancy19\Fancy19_PageA" suffix="1" />
+        <Object id="Fancy19\Fancy19_PageB" suffix="1" />
+        <Object id="Fancy24\Fancy24_PageA" suffix="1" />
+        <Object id="Fancy30\Fancy30_PageA" suffix="1" />
+        <Object id="Fancy30\Fancy30_PageB" suffix="1" />
+        <Object id="Fancy30\Fancy30_PageC" suffix="1" />
+        <Object id="Fancy38\Fancy38_PageA" suffix="1" />
+        <Object id="Fancy38\Fancy38_PageB" suffix="1" />
+        <Object id="Fancy38\Fancy38_PageC" suffix="1" />
+        <Object id="Fancy38\Fancy38_PageD" suffix="1" />
+        <Object id="Fancy38\Fancy38_PageE" suffix="1" />
+        <Object id="Fancy48\Fancy48_PageA" suffix="1" />
+        <Object id="Fancy48\Fancy48_PageB" suffix="1" />
+        <Object id="Fancy48\Fancy48_PageC" suffix="1" />
+        <Object id="Fancy48\Fancy48_PageD" suffix="1" />
+        <Object id="Plain10\Plain10_PageA" suffix="1" />
+        <Object id="Plain12\Plain12_PageA" suffix="1" />
+        <Object id="Plain15\Plain15_PageA" suffix="1" />
+        <Object id="Plain19\Plain19_PageA" suffix="1" />
+        <Object id="Plain24\Plain24_PageA" suffix="1" />
+        <Object id="Plain30\Plain30_PageA" suffix="1" />
+        <Object id="Plain30\Plain30_PageB" suffix="1" />
+        <Object id="Plain38\Plain38_PageA" suffix="1" />
+        <Object id="Plain38\Plain38_PageB" suffix="1" />
+        <Object id="Plain38\Plain38_PageC" suffix="1" />
+        <Object id="Plain48\Plain48_PageA" suffix="1" />
+        <Object id="Plain48\Plain48_PageB" suffix="1" />
+        <Object id="Plain48\Plain48_PageC" suffix="1" />
+        <Object id="Plain48\Plain48_PageD" suffix="1" />
+        <Object id="Plain5\Plain5_PageA" suffix="1" />
+        <Object id="Plain6\Plain6_PageA" suffix="1" />
+        <Object id="Plain8\Plain8_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\p2lookandfeel.utx" />
+    <Package path="sharethepain\textures\p2misc_full.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Load\loading1" suffix="1" />
+        <Object id="Load\loading2" suffix="1" />
+        <Object id="Load\loading3" suffix="1" />
+        <Object id="Load\loading4" suffix="1" />
+        <Object id="Load\loading5" suffix="1" />
+        <Object id="Map\map_day1" suffix="2" />
+        <Object id="Map\MAP_Day2" suffix="2" />
+        <Object id="Map\MAP_Day3" suffix="2" />
+        <Object id="Map\MAP_Day4" suffix="2" />
+        <Object id="Map\MAP_Day5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\p2misc.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Background\flames" suffix="2" />
+        <Object id="Background\Vital_Keys" suffix="2" />
+        <Object id="Logos\rws" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\p2smallfonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bold12\Bold12_PageA" suffix="1" />
+        <Object id="Plain10\Plain10_PageA" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\patch1_skins.utx" />
+    <Package path="sharethepain\textures\redneck.utx" />
+    <Package path="sharethepain\textures\rwsproducttex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="jenny" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\slaughterhouse-sw.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Details\meatworld" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\smegskins.utx" />
+    <Package path="sharethepain\textures\spew.utx" />
+    <Package path="sharethepain\textures\stuffskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flashlight_lens_timb" suffix="1" />
+        <Object id="Items\grenade3_timb" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\stv-3.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Other\ARMORY-stv" suffix="1" />
+        <Object id="Other\BEWARE-SW" suffix="1" />
+        <Object id="Other\INTHEEVENTOFFIRE" suffix="1" />
+        <Object id="Other\sw_grossmans_arcade" suffix="1" />
+        <Object id="Other\sw_joeslibrary" suffix="1" />
+        <Object id="Other\TICKETBOX-1-SW" suffix="1" />
+        <Object id="Other\TICKETBOX-2-SW" suffix="1" />
+        <Object id="Other\UPPERLEVELS-SW" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\stv-dmheight.utx" />
+    <Package path="sharethepain\textures\stv-height-1b.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="burbs1-ht" suffix="1" />
+        <Object id="sub4\height-sub4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\stv2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="brick\bricks-multipurple" suffix="1" />
+        <Object id="Signage\dropbox_sw" suffix="1" />
+        <Object id="Signage\HABIB_SIGN_SW" suffix="1" />
+        <Object id="Signage\rws" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\superweapontex.utx" />
+    <Package path="sharethepain\textures\tempheight.utx" />
+    <Package path="sharethepain\textures\timb.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="picket\protest1" suffix="1" />
+        <Object id="picket\protest10" suffix="1" />
+        <Object id="picket\protest11" suffix="1" />
+        <Object id="picket\protest12" suffix="1" />
+        <Object id="picket\protest13" suffix="1" />
+        <Object id="picket\protest14" suffix="1" />
+        <Object id="picket\protest15" suffix="1" />
+        <Object id="picket\protest16" suffix="1" />
+        <Object id="picket\protest17" suffix="1" />
+        <Object id="picket\protest18" suffix="1" />
+        <Object id="picket\protest19" suffix="1" />
+        <Object id="picket\protest2" suffix="1" />
+        <Object id="picket\protest20" suffix="1" />
+        <Object id="picket\protest21" suffix="1" />
+        <Object id="picket\protest3" suffix="1" />
+        <Object id="picket\protest4" suffix="1" />
+        <Object id="picket\protest5" suffix="1" />
+        <Object id="picket\protest6" suffix="1" />
+        <Object id="picket\protest7" suffix="1" />
+        <Object id="picket\protest8" suffix="1" />
+        <Object id="picket\protest9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\uwindowfonts.utx" />
+    <Package path="sharethepain\textures\weaponskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="clipboard_timb" suffix="1" />
+        <Object id="molotov_label3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\zo_asylumtex.utx" />
+    <Package path="sharethepain\textures\zo_boneyardtex.utx" />
+    <Package path="sharethepain\textures\zo_cmpd.utx" />
+    <Package path="sharethepain\textures\zo_courtyardtex.utx" />
+    <Package path="sharethepain\textures\zo_greenbelt.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Other\zo_foa_iou" suffix="1" />
+        <Object id="Shrubbery\zo_umbrella_mask" suffix="1" />
+        <Object id="Shrubbery\zo_weed_one" suffix="1" />
+        <Object id="Shrubbery\zo_weed_two" suffix="1" />
+        <Object id="WIndows_and_Doors\WhiteArchedDoor-JL" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\zo_highlands.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="church\zo_churchdoor3" suffix="1" />
+        <Object id="Headstones\zo_rose" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\zo_industrial.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="metals\zo_graytruss1" suffix="1" />
+        <Object id="metals\zo_graytruss2" suffix="1" />
+        <Object id="metals\zo_rudymesh_fixed" suffix="1" />
+        <Object id="metals\zo_rustygrate" suffix="1" />
+        <Object id="metals\zo_truss" suffix="1" />
+        <Object id="Other\zo_kennel" suffix="1" />
+        <Object id="Other\zo_kennel_fence_mask" suffix="1" />
+        <Object id="Other\zo_wirebundle" suffix="1" />
+        <Object id="trim\zo_crackola_proj" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\zo_lumber_height.utx" />
+    <Package path="sharethepain\textures\zo_machineryskins.utx" />
+    <Package path="sharethepain\textures\zo_mesh_skins.utx" />
+    <Package path="sharethepain\textures\zo_monsoontex.utx" />
+    <Package path="sharethepain\textures\zo_napalm.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="mall\zo_mall_gunsign" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sharethepain\textures\zo_red_tex.utx" />
+    <Package path="sharethepain\textures\zo_skies.utx" />
+    <Package path="sharethepain\textures\zo_smeg.utx" />
+    <Package path="sharethepain\textures\zo_tora_height.utx" />
+    <Package path="sounds\ambientsounds.uax" />
+    <Package path="sounds\animalsounds.uax" />
+    <Package path="sounds\arcade.uax" />
+    <Package path="sounds\aw_introsoundtrack.uax" />
+    <Package path="sounds\aw_outrosoundtrack.uax" />
+    <Package path="sounds\aw_pigeonssoundtrack.uax" />
+    <Package path="sounds\aw7sounds.uax" />
+    <Package path="sounds\awdialog.uax" />
+    <Package path="sounds\awsoundfx.uax" />
+    <Package path="sounds\bfemaledialog.uax" />
+    <Package path="sounds\bmaledialog.uax" />
+    <Package path="sounds\dudedialog.uax" />
+    <Package path="sounds\eastersounds.uax" />
+    <Package path="sounds\edweaponsounds.uax" />
+    <Package path="sounds\fanaticdialog.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\garydialog.uax" />
+    <Package path="sounds\gmaledialog.uax" />
+    <Package path="sounds\habibdialog.uax" />
+    <Package path="sounds\jail.uax" />
+    <Package path="sounds\krotchydialog.uax" />
+    <Package path="sounds\levelsounds.uax" />
+    <Package path="sounds\levelsoundsfo.uax" />
+    <Package path="sounds\levelsoundstoo.uax" />
+    <Package path="sounds\levelsoundstrois.uax" />
+    <Package path="sounds\menusounds.uax" />
+    <Package path="sounds\mfemaledialog.uax" />
+    <Package path="sounds\mikejdialog.uax" />
+    <Package path="sounds\miscsounds.uax" />
+    <Package path="sounds\mmaledialog.uax" />
+    <Package path="sounds\moremiscsounds.uax" />
+    <Package path="sounds\movies.uax" />
+    <Package path="sounds\mpannouncer.uax" />
+    <Package path="sounds\mpannouncer1.uax" />
+    <Package path="sounds\mpsounds.uax" />
+    <Package path="sounds\protestors.uax" />
+    <Package path="sounds\quietmiscsounds.uax" />
+    <Package path="sounds\redneckdialog.uax" />
+    <Package path="sounds\reopeningjune2016so.uax" />
+    <Package path="sounds\rwslogo.uax" />
+    <Package path="sounds\slawterhaus.uax" />
+    <Package path="sounds\stpatricksdaysounds.uax" />
+    <Package path="sounds\vendacuredialog.uax" />
+    <Package path="sounds\vincedialog.uax" />
+    <Package path="sounds\vincedialog2.uax" />
+    <Package path="sounds\weaponsounds.uax" />
+    <Package path="sounds\weaponsoundstoo.uax" />
+    <Package path="sounds\wfemalealtdialog.uax" />
+    <Package path="sounds\wfemaledialog.uax" />
+    <Package path="sounds\wifedialog.uax" />
+    <Package path="sounds\wmalealtdialog.uax" />
+    <Package path="sounds\wmaledialog.uax" />
+    <Package path="sounds\xitemsounds.uax" />
+    <Package path="staticmeshes\aw_meshes.usx" />
+    <Package path="staticmeshes\aw7edmesh.usx" />
+    <Package path="staticmeshes\aw7mesh.usx" />
+    <Package path="staticmeshes\aw7meshtoo.usx" />
+    <Package path="staticmeshes\awpeoplestatic.usx" />
+    <Package path="staticmeshes\awweaponstatic.usx" />
+    <Package path="staticmeshes\ben_mesh.usx" />
+    <Package path="staticmeshes\boltons_package.usx" />
+    <Package path="staticmeshes\boltons.usx" />
+    <Package path="staticmeshes\dj-protostuff.usx" />
+    <Package path="staticmeshes\ed_tpmeshes.usx" />
+    <Package path="staticmeshes\furniture-stv.usx" />
+    <Package path="staticmeshes\halloweeen_mesh.usx" />
+    <Package path="staticmeshes\halloween2014.usx" />
+    <Package path="staticmeshes\hart_p2meshes.usx" />
+    <Package path="staticmeshes\introbox_mesh.usx" />
+    <Package path="staticmeshes\josh_mesh.usx" />
+    <Package path="staticmeshes\jw_meshes.usx" />
+    <Package path="staticmeshes\library-sw.usx" />
+    <Package path="staticmeshes\lod_meshes_fg.usx" />
+    <Package path="staticmeshes\mex_ghetto.usx" />
+    <Package path="staticmeshes\mex_props.usx" />
+    <Package path="staticmeshes\mpmeshes.usx" />
+    <Package path="staticmeshes\mrt_easterprops.usx" />
+    <Package path="staticmeshes\mrt_holidays.usx" />
+    <Package path="staticmeshes\p2_optimized.usx" />
+    <Package path="staticmeshes\p2_vehicles.usx" />
+    <Package path="staticmeshes\p2-details.usx" />
+    <Package path="staticmeshes\p2-outdoors-sw.usx" />
+    <Package path="staticmeshes\p2emeshes.usx" />
+    <Package path="staticmeshes\p2r_meshes_d.usx" />
+    <Package path="staticmeshes\patch1_mesh.usx" />
+    <Package path="staticmeshes\pb_meshes.usx" />
+    <Package path="staticmeshes\postedmeshes.usx" />
+    <Package path="staticmeshes\redneeeeck.usx" />
+    <Package path="staticmeshes\reopeningjune2016mod.usx" />
+    <Package path="staticmeshes\revmodels01.usx" />
+    <Package path="staticmeshes\revsysmodels.usx" />
+    <Package path="staticmeshes\rwsproductmesh.usx" />
+    <Package path="staticmeshes\spewmesh.usx" />
+    <Package path="staticmeshes\stpatricksmesh.usx" />
+    <Package path="staticmeshes\stuff.usx" />
+    <Package path="staticmeshes\stv_suburbs.usx" />
+    <Package path="staticmeshes\stv-protocrap.usx" />
+    <Package path="staticmeshes\timb_mesh.usx" />
+    <Package path="staticmeshes\tp_weapons.usx" />
+    <Package path="staticmeshes\trans-stv.usx" />
+    <Package path="staticmeshes\valentinemesh.usx" />
+    <Package path="staticmeshes\vending.usx" />
+    <Package path="staticmeshes\xgoremesh.usx" />
+    <Package path="staticmeshes\xpatchmesh.usx" />
+    <Package path="staticmeshes\zo_asylummeshes.usx" />
+    <Package path="staticmeshes\zo_basemeshes.usx" />
+    <Package path="staticmeshes\zo_boneyard_meshes.usx" />
+    <Package path="staticmeshes\zo_bridgemeshes.usx" />
+    <Package path="staticmeshes\zo_generic.usx" />
+    <Package path="staticmeshes\zo_greenbelt_meshes.usx" />
+    <Package path="staticmeshes\zo_hell_mesh.usx" />
+    <Package path="staticmeshes\zo_highland_meshes.usx" />
+    <Package path="staticmeshes\zo_industry_meshes.usx" />
+    <Package path="staticmeshes\zo_machinery.usx" />
+    <Package path="staticmeshes\zo_meshes.usx" />
+    <Package path="staticmeshes\zo_mine.usx" />
+    <Package path="staticmeshes\zo_monsoon_meshes.usx" />
+    <Package path="staticmeshes\zo_napalmdm.usx" />
+    <Package path="staticmeshes\zo_natural.usx" />
+    <Package path="staticmeshes\zo_pasturemeshes.usx" />
+    <Package path="staticmeshes\zo_poundmesh.usx" />
+    <Package path="staticmeshes\zo_redlight_meshes.usx" />
+    <Package path="staticmeshes\zo_timber.usx" />
+    <Package path="staticmeshes\zo_tora.usx" />
+    <Package path="staticmeshes\zo_townmesh.usx" />
+    <Package path="system\aipack.u" />
+    <Package path="system\aweffects.u" />
+    <Package path="system\awgame.u" />
+    <Package path="system\awinventory.u" />
+    <Package path="system\awpawns.u" />
+    <Package path="system\awpstuff.u" />
+    <Package path="system\awpstufftoo.u" />
+    <Package path="system\awshell.u" />
+    <Package path="system\awwrapgame.u" />
+    <Package path="system\basefx.u" />
+    <Package path="system\basepeople.u" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\edstuff.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\fire.u" />
+    <Package path="system\fpsgame.u" />
+    <Package path="system\fx.u" />
+    <Package path="system\fx2.u" />
+    <Package path="system\gametypes.u" />
+    <Package path="system\inventory.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\moregame.u" />
+    <Package path="system\multibase.u" />
+    <Package path="system\multigame.u" />
+    <Package path="system\multistuff.u" />
+    <Package path="system\p2r.u" />
+    <Package path="system\people.u" />
+    <Package path="system\postal2extras.u" />
+    <Package path="system\postal2game.u" />
+    <Package path="system\postal2holidays.u" />
+    <Package path="system\postalarcade.u" />
+    <Package path="system\reopeningjune2016scr.u" />
+    <Package path="system\shell.u" />
+    <Package path="system\ubrowser.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\utbrowser.u" />
+    <Package path="system\utserveradmin.u" />
+    <Package path="system\uweb.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\achievementicons.utx" />
+    <Package path="textures\animalskins.utx" />
+    <Package path="textures\apriltex.utx" />
+    <Package path="textures\aw_characters.utx" />
+    <Package path="textures\aw_local.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="signs\Armory" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\aw_productname.utx" />
+    <Package path="textures\aw_textures.utx" />
+    <Package path="textures\aw7_bio.utx" />
+    <Package path="textures\aw7_edzombies.utx" />
+    <Package path="textures\aw7edtex.utx" />
+    <Package path="textures\aw7tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\estates_dastreet" suffix="1" />
+        <Object id="Alphamaps\estates_dirtlay" suffix="1" />
+        <Object id="Alphamaps\estates_grass" suffix="1" />
+        <Object id="Alphamaps\estates_height" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\awhud.utx" />
+    <Package path="textures\awweaponskins.utx" />
+    <Package path="textures\ben_skins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Misc\lowrider_ben" suffix="1" />
+        <Object id="Misc\vase01_ben" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\boltons_tex.utx" />
+    <Package path="textures\boltonskins.utx" />
+    <Package path="textures\buttonicons.utx" />
+    <Package path="textures\buyscreen.utx" />
+    <Package path="textures\chameleonskins.utx" />
+    <Package path="textures\chameleonskins2.utx" />
+    <Package path="textures\chamelheadskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Special\BurnVictim" suffix="1" />
+        <Object id="Special\Dude" suffix="1" />
+        <Object id="Special\Gary" suffix="1" />
+        <Object id="Special\Gimp" suffix="1" />
+        <Object id="Special\Habib" suffix="1" />
+        <Object id="Special\Kumquat" suffix="1" />
+        <Object id="Special\UncleDave" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\chamelheadskins2.utx" />
+    <Package path="textures\classicicons.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Inventory\Icon_Inv_CopUniform" suffix="1" />
+        <Object id="Inventory\Icon_Special_Vest" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\dj-proto.utx" />
+    <Package path="textures\dlcbanner.utx" />
+    <Package path="textures\eastertextures.utx" />
+    <Package path="textures\ed_weaponskins.utx" />
+    <Package path="textures\edhud.utx" />
+    <Package path="textures\fallbackmaterials.utx" />
+    <Package path="textures\gamecustom.utx" />
+    <Package path="textures\genfx.utx" />
+    <Package path="textures\halloweeen_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TTbag" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\hammertex.utx" />
+    <Package path="textures\hart_bookcasetex.utx" />
+    <Package path="textures\hospital-sw.utx" />
+    <Package path="textures\hudpack.utx" />
+    <Package path="textures\introbox_textures.utx" />
+    <Package path="textures\jakemattest.utx" />
+    <Package path="textures\jakews.utx" />
+    <Package path="textures\josh-textures.utx" />
+    <Package path="textures\joshtest.utx" />
+    <Package path="textures\jw_textures.utx" />
+    <Package path="textures\materialswitches.utx" />
+    <Package path="textures\mex_height.utx" />
+    <Package path="textures\mex_pack1.utx" />
+    <Package path="textures\movietextures.utx" />
+    <Package path="textures\mp_fparms.utx" />
+    <Package path="textures\mp_misc.utx" />
+    <Package path="textures\mp_teams.utx" />
+    <Package path="textures\mparms.utx" />
+    <Package path="textures\mpfx.utx" />
+    <Package path="textures\mphud.utx" />
+    <Package path="textures\mpskins.utx" />
+    <Package path="textures\mrt_cave.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BigRock_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mrt_easter.utx" />
+    <Package path="textures\mrt_halloween.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="pumpkin_01" suffix="1" />
+        <Object id="sword_diffuse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\mrt_hell.utx" />
+    <Package path="textures\mrt_stpatricks.utx" />
+    <Package path="textures\mrt_valentine.utx" />
+    <Package path="textures\nathans.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Inventory\Icon_Inv_Food" suffix="1" />
+        <Object id="Inventory\Icon_Inv_Newspaper" suffix="1" />
+        <Object id="Inventory\MilkInv" suffix="1" />
+        <Object id="Inventory\MoneyInv" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\p2_optimized_txt.utx" />
+    <Package path="textures\p2credits_tex.utx" />
+    <Package path="textures\p2devmat.utx" />
+    <Package path="textures\p2etextures.utx" />
+    <Package path="textures\p2fonts.utx" />
+    <Package path="textures\p2lookandfeel.utx" />
+    <Package path="textures\p2misc_full.utx" />
+    <Package path="textures\p2misc-halloween.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Logos\postal2underlined" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\p2misc.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Background\flames" suffix="1" />
+        <Object id="Background\Vital_Keys" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\p2r_tex_d.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cars\security_car" suffix="1" />
+        <Object id="cars\security_car_burnt" suffix="1" />
+        <Object id="cars\security_car_vandalized" suffix="1" />
+        <Object id="cars\security_car_vandalized_burnt" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\p2smallfonts.utx" />
+    <Package path="textures\patch1_skins.utx" />
+    <Package path="textures\pb_materialsw.utx" />
+    <Package path="textures\pb_textures.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\1" suffix="1" />
+        <Object id="Alphamaps\2" suffix="1" />
+        <Object id="heightmaps\TerrainHeightmap" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="textures\pl_env.utx" />
+    <Package path="textures\posted.utx" />
+    <Package path="textures\redneck.utx" />
+    <Package path="textures\reopeningjune2016tex.utx" />
+    <Package path="textures\revsuntex.utx" />
+    <Package path="textures\rwsproducttex.utx" />
+    <Package path="textures\slaughterhouse-sw.utx" />
+    <Package path="textures\spew.utx" />
+    <Package path="textures\startup_hires.utx" />
+    <Package path="textures\stuffskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flashlight_lens_timb" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\stv-3.utx" />
+    <Package path="textures\stv-dmheight.utx" />
+    <Package path="textures\stv-height-1b.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sub4\height-sub4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\stv2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="brick\bricks-multipurple" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\tempheight.utx" />
+    <Package path="textures\timb.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\vend_atf.utx" />
+    <Package path="textures\weaponskins_bloody.utx" />
+    <Package path="textures\weaponskins.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="molotov_label3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\xbloodandgore.utx" />
+    <Package path="textures\xpatchtex.utx" />
+    <Package path="textures\xvendingtex.utx" />
+    <Package path="textures\zo_asylumtex.utx" />
+    <Package path="textures\zo_base.utx" />
+    <Package path="textures\zo_boneyardtex.utx" />
+    <Package path="textures\zo_bridgetex.utx" />
+    <Package path="textures\zo_cmpd.utx" />
+    <Package path="textures\zo_courtyardtex.utx" />
+    <Package path="textures\zo_greenbelt.utx" />
+    <Package path="textures\zo_helltex.utx" />
+    <Package path="textures\zo_highlands.utx" />
+    <Package path="textures\zo_industrial.utx" />
+    <Package path="textures\zo_lumber_height.utx" />
+    <Package path="textures\zo_machineryskins.utx" />
+    <Package path="textures\zo_mesh_skins.utx" />
+    <Package path="textures\zo_minetex.utx" />
+    <Package path="textures\zo_monsoontex.utx" />
+    <Package path="textures\zo_napalm.utx" />
+    <Package path="textures\zo_pasturetex.utx" />
+    <Package path="textures\zo_poundtex.utx" />
+    <Package path="textures\zo_red_tex.utx" />
+    <Package path="textures\zo_skies.utx" />
+    <Package path="textures\zo_smeg.utx" />
+    <Package path="textures\zo_tora_height.utx" />
+    <Package path="textures\zo_town_tex.utx" />
+  </Packages>
+</IdRemapping>

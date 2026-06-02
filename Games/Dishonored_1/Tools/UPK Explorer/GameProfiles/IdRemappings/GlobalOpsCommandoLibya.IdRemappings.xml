@@ -1,0 +1,363 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="go_game\cookedpc\_gtgame\architektura\arabowy_domek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\architektura.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="statek_sufit_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynek_glowny.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="drzwi_n" suffix="1" />
+        <Object id="szyby_D" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_bunkier.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="hala_dach_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_chatki.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dach_n" suffix="2" />
+        <Object id="drzwi_n" suffix="2" />
+        <Object id="szopa_drewniana_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_drewniane.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_miasto.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_ruiny.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki_sciany.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\budynki.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\drogi.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\groty.upk" />
+    <Package path="go_game\cookedpc\_gtgame\architektura\most.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_ak47.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_at4.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_dragunov.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_dynamit.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_dzialko.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_granat.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_m16.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_mina.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_mini.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_mortar_m224.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_shotgun_m1014.upk" />
+    <Package path="go_game\cookedpc\_gtgame\bronie\b_ump45.upk" />
+    <Package path="go_game\cookedpc\_gtgame\decale\elementy_decale.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki_go_soundgrupy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_baza_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_intro_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_jaskinie_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_lotnisko_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_miasto_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_misrata_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_poscig_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_statek_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_wioska_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_dialogi_zima_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_guds_pope_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\deu\dzwieki_guds_west_deu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_ak47.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_ambient.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_antonov.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_atv.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_benelli.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_brdm.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_cialo.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_czolg.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_baza_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_intro_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_jaskinie_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_lotnisko_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_miasto_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_misrata_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_poscig_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_statek_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_wioska_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dialogi_zima_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_dragunov.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_eventy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_gracz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_granat.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_ahmed_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_ochrona_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_pope_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_rusek_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_west_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_guds_zolnierz_cue.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_helikopter.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_interfejs.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_kamaz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_kompan.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_krzyki_ahmed.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_krzyki_pope.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_krzyki_rusek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_krzyki_west.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_krzyki_zolnierz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_lodz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_m16.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_m2hb.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_materialy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_merc.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_minimi.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_motorowka.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_mozdzierz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_multiplayer.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka_jaskinie.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka_lotnisko.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka_menu.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka_wioska.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka_zima.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_muzyka.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_pojazdy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_rpg.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_statek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_tigr.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_toyota.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\dzwieki_ump45.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_baza.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_intro.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_jaskinie.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_lotnisko.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_miasto.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_misrata.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_poscig.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_statek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_wioska.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_dialogi_zima.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_ahmed.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_ochrona.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_pope.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_rusek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_west.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\int\dzwieki_guds_zolnierz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\dzwieki\soundmodes.upk" />
+    <Package path="go_game\cookedpc\_gtgame\efekty\efekty_czasteczkowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\efekty\efekty_ekran.upk" />
+    <Package path="go_game\cookedpc\_gtgame\efekty\efekty_kamery.upk" />
+    <Package path="go_game\cookedpc\_gtgame\efekty\efekty_multi.upk" />
+    <Package path="go_game\cookedpc\_gtgame\efekty\z_efekty_snieg.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_bazarowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_betonowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_drewniane.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_drzwi.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_kanaly.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_ogrodzeniowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_otoczeniowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_pomieszczen.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_prefaby.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_srodowiskowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\elementy_stalowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\hud\go_credits.upk" />
+    <Package path="go_game\cookedpc\_gtgame\hud\gt_hud.upk" />
+    <Package path="go_game\cookedpc\_gtgame\hud\p_menu_nasze.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tick" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\mapy\00_gt_intro\gt_intro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\gt_zima_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_kosciol_kismet_4_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_magazyn_kismet_2_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_most_kismet_3_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_przejazd_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_statek_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\01_gt_zima\statek_level_tutorial_kismet_1_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\02_gt_statek\gt_statek_gora_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\02_gt_statek\gt_statek_maszynownia_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\02_gt_statek\gt_statek_poscig_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\02_gt_statek\gt_statek_przod_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\03_gt_gruzja\gt_gruzja_hangar_hela_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\03_gt_gruzja\gt_gruzja_hela_lata_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\03_gt_gruzja\gt_gruzja_intro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\03_gt_gruzja\gt_gruzja_konwoj_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\03_gt_gruzja\gt_gruzja_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_czolg1_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_czolg2_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_czolg3_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_intro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_kanaly_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\04_gt_village\gt_village_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\05_gt_jaskinie\gt_jaskinie_baza_kismet_6_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\05_gt_jaskinie\gt_jaskinie_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\05_gt_jaskinie\gt_jaskinie_poczatek_kismet_1_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\05_gt_jaskinie\gt_jaskinie_poczatek_kismet_2_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\05_gt_jaskinie\gt_jaskinie_poczatek_kismet_3_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_a_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_b_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_c_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_d_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_e_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_f_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_g_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\06_gt_miasto\gt_miasto_intro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_baza_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_dlugi_most_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_mozdzierze_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_outro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_pociag_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_poczatek_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\07_gt_poscig\gt_poscig_wioska_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_czolg_faza1_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_czolg_faza2_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_czolg_faza3_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_czolg_faza4_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_czolg_skrypty_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_intro_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_podziemie_p2_skrypty_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_podziemie_skrypty_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_teren.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_ucieczka_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\08_gt_baza\gt_baza_wejscie_pod_skrypt_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_czolg_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_plac_hela1_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_plac_hela2_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_poczatek_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_poscig_antek_koluje_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lot_poscig_antek_srodek_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\mapy\09_gt_lotnisko\gt_lotnisko_loc_int.upk" />
+    <Package path="go_game\cookedpc\_gtgame\materialy_fizyczne.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_antonov.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_apacz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_brdm.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_czolg.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_f16.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_hela.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_kamaz.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_lodz_patrolowa.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_merc.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_motorowka.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_quad.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_ratrak.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_statek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_tigr.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\p_toyota.upk" />
+    <Package path="go_game\cookedpc\_gtgame\pojazdy\pojazdy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_abdul_razruhan.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="oczy_C" suffix="2" />
+        <Object id="oczy_N" suffix="2" />
+        <Object id="oczy_S" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_arab.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MaskA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_bodyguard.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_bohaterka.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="kurtka_C" suffix="1" />
+        <Object id="kurtka_N" suffix="1" />
+        <Object id="kurtka_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_iranski_wojownik.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_naukowcy.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_postac_glowna1.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_postac_glowna2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="oczy_C" suffix="1" />
+        <Object id="oczy_N" suffix="1" />
+        <Object id="oczy_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_puchaty_wojownik.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_rosyjski_wojownik.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_rusek.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_terrorysta_ahmed1.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_terrorysta_ahmed2.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_terrorysta_ahmed3.upk" />
+    <Package path="go_game\cookedpc\_gtgame\postacie\p_wiktor.upk" />
+    <Package path="go_game\cookedpc\_gtgame\skrzynki_itp.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Skrzynki_d" suffix="1" />
+        <Object id="Skrzynki_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\statek\kosciol.upk" />
+    <Package path="go_game\cookedpc\_gtgame\statek\statek_maszynownia.upk" />
+    <Package path="go_game\cookedpc\_gtgame\statek\statek_panele_sterowania.upk" />
+    <Package path="go_game\cookedpc\_gtgame\statek\z_budynki_chatki.upk" />
+    <Package path="go_game\cookedpc\_gtgame\statek\z_elementy_betonowe.upk" />
+    <Package path="go_game\cookedpc\_gtgame\statek\z_materialy_zastepcze.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cegla_duza" suffix="1" />
+        <Object id="cegla_duza_N" suffix="1" />
+        <Object id="dach_D" suffix="1" />
+        <Object id="dach_n" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\statek\z_skrzynki_itp.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="skrzynia_C" suffix="1" />
+        <Object id="skrzynia_n" suffix="1" />
+        <Object id="skrzynia2_C" suffix="1" />
+        <Object id="skrzynia2_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\_gtgame\statek\z_teren.upk" />
+    <Package path="go_game\cookedpc\_gtgame\szlaban_pociety.upk" />
+    <Package path="go_game\cookedpc\_gtgame\teren\rosliny1.upk" />
+    <Package path="go_game\cookedpc\_gtgame\teren\teren_afgan.upk" />
+    <Package path="go_game\cookedpc\_gtgame\teren\teren_materials.upk" />
+    <Package path="go_game\cookedpc\_gtgame\znaki_drogowe.upk" />
+    <Package path="go_game\cookedpc\core.u" />
+    <Package path="go_game\cookedpc\editor.u" />
+    <Package path="go_game\cookedpc\editormaterials.upk" />
+    <Package path="go_game\cookedpc\editormeshes.upk" />
+    <Package path="go_game\cookedpc\editorresources.upk" />
+    <Package path="go_game\cookedpc\engine.u" />
+    <Package path="go_game\cookedpc\enginefonts.upk" />
+    <Package path="go_game\cookedpc\enginematerials.upk" />
+    <Package path="go_game\cookedpc\enginemeshes.upk" />
+    <Package path="go_game\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="go_game\cookedpc\enginescenes.upk" />
+    <Package path="go_game\cookedpc\enginesounds.upk" />
+    <Package path="go_game\cookedpc\gameframework.u" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_ahmedg_sf.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_ochronag_sf.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_postac1g_sf_loc_int.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_postac1g_sf.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_postac2g_sf_loc_int.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_postac2g_sf.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_rusekg_sf.upk" />
+    <Package path="go_game\cookedpc\generatedguds\gud_guddata_zolnierzg_sf.upk" />
+    <Package path="go_game\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="go_game\cookedpc\go_editor.u" />
+    <Package path="go_game\cookedpc\go_game_loc_int.upk" />
+    <Package path="go_game\cookedpc\go_game.u" />
+    <Package path="go_game\cookedpc\go_gamecontent.u" />
+    <Package path="go_game\cookedpc\gtgame.u" />
+    <Package path="go_game\cookedpc\guidcache.upk" />
+    <Package path="go_game\cookedpc\ipdrv.u" />
+    <Package path="go_game\cookedpc\localcontenttagsindex.upk" />
+    <Package path="go_game\cookedpc\mpcontent\gtgame_deathmatch_sf.upk" />
+    <Package path="go_game\cookedpc\mpcontent\gtgame_domination_sf.upk" />
+    <Package path="go_game\cookedpc\mpcontent\gtgame_tdm_sf.upk" />
+    <Package path="go_game\cookedpc\nodebuddies.upk" />
+    <Package path="go_game\cookedpc\refcontenttagsindex.upk" />
+    <Package path="go_game\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="go_game\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="go_game\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="go_game\cookedpc\startup_cze.upk" />
+    <Package path="go_game\cookedpc\startup_deu.upk" />
+    <Package path="go_game\cookedpc\startup_esn.upk" />
+    <Package path="go_game\cookedpc\startup_fra.upk" />
+    <Package path="go_game\cookedpc\startup_int.upk" />
+    <Package path="go_game\cookedpc\startup_ita.upk" />
+    <Package path="go_game\cookedpc\startup_pol.upk" />
+    <Package path="go_game\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="go_game\cookedpc\ui\testuiscenes.upk" />
+    <Package path="go_game\cookedpc\ui\uiarcpackage.upk" />
+    <Package path="go_game\cookedpc\unrealed.u" />
+    <Package path="go_game\cookedpc\unrealscripttest.u" />
+  </Packages>
+</IdRemapping>

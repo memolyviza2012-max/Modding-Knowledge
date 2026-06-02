@@ -1,0 +1,2758 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="unrealengine3\mohagame\cookedpc\a8_backdrop_building.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_backdrop_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_backdrop_props.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_basetextures.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_debris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_decals.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_dv_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_ea_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_fixed.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_Decal_013_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\a8_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_material.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_props_building.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="MaterialInstance\T_Stair_Stone_Exterior_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\a8_props_civilian.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_Verandah_Baluster_NM" suffix="1" />
+        <Object id="Texture\T_Verandah_Ground_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\a8_protomat.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8_trash.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_BG_Tree_Group" suffix="1" />
+        <Object id="T_Decal_012_CM" suffix="1" />
+        <Object id="T_DV_Terrain_Relic_02_NM" suffix="1" />
+        <Object id="T_Floor_Wood_Gray_CM" suffix="1" />
+        <Object id="T_Foliage_Bulrush_01" suffix="1" />
+        <Object id="T_Foliage_Grass_01_CM" suffix="1" />
+        <Object id="T_Foliage_Grass_02_CM" suffix="1" />
+        <Object id="T_Foliage_Shrub_009_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\a8_vfx_smokeflame.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_backdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_building.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_decal.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_props_building.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_props.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_roofs.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8dv_terrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_backdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_buildings.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_church_ea.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_decals.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_sky.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_terrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\a8th_tiles.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_aaa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_aaanimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_airdropanimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_cover.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_coveranimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_deathanimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_fixedfire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_fixedfireanimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_human.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_humananimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_melee.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_meleeanimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_mmg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_mmganimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_navigationoir.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_navigationoiranimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_ai_ragdoll.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_briefings.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_death.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_ava.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_camera.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_fac.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_flk.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_gags.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_itp_player.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_mar.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_nep.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_player_brf.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_igc_training.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\anim_mp_humananimset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_ava_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_ava_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_ava_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_ava_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_frontend_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_frontend_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld04.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld05.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld06.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld08.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_aliaid_ussld09.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_geofficers.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_gersld01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_gersld02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_gersld03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_gespecial.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_heerinfantry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_itbs01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_itbs02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_itbs03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_itbs04.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_dia_axsaid_waffenssinfantry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_gcm_mixsnapshot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_hus_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_hus_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_hus_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_hus_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_leveltrans_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_leveltrans_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locavalanche_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locavalanche_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locavalanche_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locavalanche_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locavalanche.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locfrontend_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locfrontend_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locfrontend_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locfrontend_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locfrontend.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_lochusky_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_lochusky_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_lochusky_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_lochusky_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_lochusky.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locleveltrans_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locleveltrans_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locleveltrans_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locleveltrans_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locleveltrans.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmarketgarden_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmarketgarden_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmarketgarden_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmarketgarden_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmarketgarden.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmultiplayer_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmultiplayer_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmultiplayer_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmultiplayer_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locmultiplayer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locneptune_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locneptune_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locneptune_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locneptune_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locneptune.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_loctraining_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_loctraining_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_loctraining_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_loctraining_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_loctraining.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity01_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity01_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity01_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity01_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity02_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity02_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity02_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity02_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_locvarsity02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mg_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mg_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mg_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mg_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mp_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mp_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_mp_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_nep_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_nep_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_nep_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_nep_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_tra_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_tra_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var01_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var01_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var01_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var01_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var02_fakewav.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var02_music.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var02_pluginchaintemplate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_var02_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\aud_weapons_all_soundriot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_amphitheatre_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_amphitheatre_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_amphitheatre_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_amphitheatre_des.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_bg_architecture.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_bg_backdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_bg_basetextures.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_bg_ruins.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_loc_fra.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LocGameCommon\AvalancheSlides\PaestumSlide_CommCenterPhotoLarge_CM" suffix="1" />
+        <Object id="LocGameCommon\AvalancheSlides\PaestumSlide_MotorPoolPhotoLarge_CM" suffix="1" />
+        <Object id="LocGameCommon\AvalancheSlides\PaestumSlide_PhotoTopLargeHeat_CM" suffix="1" />
+        <Object id="LocGameCommon\AvalancheSlides\Slide6_Munitions" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_cinematics_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\ripPaper" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_csquare_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_csquare_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_csquare_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_global_des_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_global_des_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_global_des.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_hilltop_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_hilltop_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_hilltop_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_motorpool_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_motorpool_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_motorpool_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+        <Object id="GCm_BG_Danger\Books_DE_Horizontal_01_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_des_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_des_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_rtemple_des.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_vfx_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_vfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_pes_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_proto_fuelflaregag.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_s_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_s_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_88muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_ammocrateexp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_ammofireball.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_artilleryimpact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_bombingrun.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_c4.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_fallingdebris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_flare.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_fueldump.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_halftrackexp3.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_igc_boxexplosion.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_igc_dustpuff.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_igc_headshot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_igc4clouds.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="noiseFiltered" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_lrgfuelspillfire.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_p51bomb.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_radiosparks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_smallfire_1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flame_anim3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_smallfire_10.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_smallfire_11.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_smallfire_13.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_smallfire_2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flame_anim3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_tankfire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_temple.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_texture_flame.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+        <Object id="FireTest2" suffix="3" />
+        <Object id="flame" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_texture_misc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sampledNormals03" suffix="1" />
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ava_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dustUP04" suffix="1" />
+        <Object id="Noise" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_airdroplit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\base_remagen_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\core.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\dedicatedserver.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\defaultuiskin.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\dv_s_audio_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\dv_s_audio.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ea_props.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_Chair_Rustic_CM" suffix="1" />
+        <Object id="Texture\T_Chair_Rustic_Lg_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\eakynapse.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\editormaterials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\editormeshes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\editormonkeyspawner.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\editorresources.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\engine.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\enginecurvetextures.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\enginefonts.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\enginematerials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\engineresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="Black" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+        <Object id="White" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_architecture.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Gravel_Ruins_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_catwalks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_factory_buildings.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_ldock.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_machinery.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_shacks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_steelmill_buildings.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_bg_terrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_ambientsmoke_2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_biggun_destruction.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_bunkersmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_chemexp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_panzerzug_destruction.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_tank_drop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\fac_vfx_textures_smoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flak_vfx_explosions.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flak_vfx_shockwave.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_ammostoragepiles.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_city.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_elec.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_ext.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_middle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_architecture_sewer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_basetextures.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_bkd_smoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_cover.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_munitions.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_bg_pipes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_ambientsmoke_2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_controlpanel.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_finalsmoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_igc_sparks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_igc_sparks2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_itp_fire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_steam.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_textures_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="puff_base18A" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\flk_vfx_theend.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\frontendmap.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gameframework.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gc_vfx_chunksostuff.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gc_vfx_tankimpact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gc_vfx_textures_chunks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gc_vfx_tmp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_archetypes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_architecture_ext.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_architecture_mil.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_architecture.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_basetextures.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_bodies.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_containers.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_danger_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Banner_CM_SS" suffix="1" />
+        <Object id="Binders_DE_CM" suffix="1" />
+        <Object id="Books_DE_Horizontal_01_CM" suffix="1" />
+        <Object id="Crate_Cluster_CM_SS" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace0" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace1" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace2" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace3" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace4" suffix="1" />
+        <Object id="Env_TownHall\CubemapFace5" suffix="1" />
+        <Object id="Env_TownHallNegX" suffix="1" />
+        <Object id="Env_TownHallNegY" suffix="1" />
+        <Object id="Env_TownHallNegZ" suffix="1" />
+        <Object id="Env_TownHallPosX" suffix="1" />
+        <Object id="Env_TownHallPosY" suffix="1" />
+        <Object id="Env_TownHallPosZ" suffix="1" />
+        <Object id="propaganda_leaflet" suffix="1" />
+        <Object id="Rem_Env_TH_X" suffix="1" />
+        <Object id="Rem_Env_Town_Hall\CubemapFace0" suffix="1" />
+        <Object id="ripPaper" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_danger.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_debris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_decals_02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_decals.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_electronics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_aagun.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_flak_88mm.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_flak_twin128.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_pickups.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_searchlight.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_eqp_searchlightbeam.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_examplematerials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_fuelpuddle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_furniture.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_lightvolumes.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GodRay_Falloff" suffix="1" />
+        <Object id="WorkLight_LightCard" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_machinery.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_military_cover.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_military_hq.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_military_props.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_mm_btx_sheets.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_mm_sets_briefingroom.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Border" suffix="1" />
+        <Object id="BR_Wood_CM" suffix="1" />
+        <Object id="Weapon_Upgrade_Crate_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_munitions.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_parachute.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_props_civilian.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterCan_cm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_props_work.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Fan_Industrial_CM" suffix="1" />
+        <Object id="Fan_Industrial_NM" suffix="1" />
+        <Object id="Fan_Industrial_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_protomat_multiplayer.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="NULL_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_protomat.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CloudMasks" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_scaffolding.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_trash.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Door_Metal_LG_CM" suffix="1" />
+        <Object id="Map_Glass_CM" suffix="1" />
+        <Object id="Map_Glass_NM" suffix="1" />
+        <Object id="Plate_Military_CM" suffix="1" />
+        <Object id="Plate_Military_NM" suffix="1" />
+        <Object id="Plate_Military_SM" suffix="1" />
+        <Object id="Shell_Artillery_105mm_sm" suffix="1" />
+        <Object id="Shell_Flak_128mm_sm" suffix="1" />
+        <Object id="Supply_Crate_DE_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_utilities.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_bg_vehicle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_bane_small.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_bane.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_falsch.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_heerinfantry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_heerofficer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_soldierpanzer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_soldiertropical.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_ssinfantry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_de_ssofficer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_eyeball.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_andre.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_bane.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_ben.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_felix.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_jerry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_lutz.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_mike.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_mirko.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_panzer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_rob.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_simon.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_de_toque.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_it_jason.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_beau.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_bobby.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_boyd.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_jose.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_matt.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_nathan.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_peter.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_setzer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_toby.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_tom.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_head_us_wirth.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_helmets.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_it_blackshirt.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_mp_gear.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_us_17thairborne.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_us_infantry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_chr_us_soldierairborne.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_editor_mp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_icn_obj_triggers.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_physmaterials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_proto_bspmaterials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_proto_coverblocks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_htrack.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_ju87d.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_kubel.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_opelblitz.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_panzerzug.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_de_tiger.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_protomat.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_us_fleet.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_us_p40.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_us_sherman.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vcl_us_willys.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_c47wpara.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_cementhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_clothhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_clouds.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="cloud3" suffix="1" />
+        <Object id="noiseFiltered" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_decalimpact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_dirthit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_expbarrel.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_fe_contrails.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_glassbllthit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_glint.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_itaparatroopercluster.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_masonrykick.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_materials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_meleeimpact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_sandbaghit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_stonehit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_tankdirt.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_texture_flame.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+        <Object id="FireTest2" suffix="1" />
+        <Object id="flame" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_texture_misc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="debris04" suffix="1" />
+        <Object id="noiseHF" suffix="1" />
+        <Object id="noiseHF_SRGB" suffix="1" />
+        <Object id="sampledNormals03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dustUP04" suffix="1" />
+        <Object id="Noise" suffix="2" />
+        <Object id="noiseHF" suffix="1" />
+        <Object id="noiseHF_SRGB" suffix="1" />
+        <Object id="puff06" suffix="1" />
+        <Object id="smoke02HICon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vfx_trainingsmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_vh_us_c47.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_g43.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_k98.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_mauser.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_mg42.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_mp40.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_panzerschreck.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_stg44.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_de_stickgrenade.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_emptyshells.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_mp_altfire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_protomat.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_reflect.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_sniperscopeoverlay.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_1903sniper.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_bar1918.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_compb.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_fraggrenade.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_gammon.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_garand.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_hellbox.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_itp_ripline.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_m12shotgun.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_m18_recoilless.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_m1911a1_pistol.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_paper.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_parachute.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_thompson.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\gcm_wpn_us_vm_parachute.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_arsenali.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_backdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Concrete_Sidewlk_CM" suffix="1" />
+        <Object id="Wall_Stone_Mortar_Bricks_Dirt_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_dropflag.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_gatehouse.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_loggia.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_props.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_residential.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_bg_terrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_vfx_ambientsmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_vfx_leaves.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\her_vfx_loggiasmoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Plume_02_CM" suffix="1" />
+        <Object id="PlumeMask_02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\her_vfx_watereffects.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="drop" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hud.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceil_Plaster_CM" suffix="1" />
+        <Object id="Ceil_Plaster_NM" suffix="1" />
+        <Object id="Floor_Marble_CM" suffix="1" />
+        <Object id="Grnd_Brick_Fan_CM" suffix="1" />
+        <Object id="Grnd_Brick_Street_DirtSide00_CM" suffix="1" />
+        <Object id="Grnd_Dirt_Rocky_CM" suffix="1" />
+        <Object id="Grnd_Stone_Cobble_NM" suffix="1" />
+        <Object id="Roof_Tile_Dirty_CM" suffix="1" />
+        <Object id="Roof_Tile_Dirty_NM" suffix="1" />
+        <Object id="Wall_MarbleBlocks_Fnd_CM" suffix="1" />
+        <Object id="Wall_Plaster_Stone_01_Grf_CM" suffix="1" />
+        <Object id="Wall_Stone_Brick_Grf_CM" suffix="1" />
+        <Object id="Wall_Stone_Packed_CM" suffix="1" />
+        <Object id="Wall_Stone_Packed_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_bkd_fairway.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SkyAlpha" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_btx_ground.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_hpr_village.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_lightvolumes.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Dust" suffix="1" />
+        <Object id="Noise" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_citywalls.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_doors.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_facades.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Blcny_Rustic_256_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_ground.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_interiors.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_rooftops.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_mpc_windows.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_pr_setdressing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_set_facade_church.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_set_tower.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_mm_set_townhall.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_nat_pr_trees.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Cypress_Tree_02_CM" suffix="1" />
+        <Object id="Cypress_Tree_02_sparse_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_ter_church.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_ter_fway.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terr_Fairway_Ocean_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_bg_trash.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Rubble_Core_CM" suffix="1" />
+        <Object id="Rubble_Core_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_bane_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_falsch_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_heerinfantry_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_heerofficer_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_panzer_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_ssinfantry_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_ssofficer_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_de_tropical_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_eye_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_hand_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_head_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_it_blackshirt_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_protomat.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_reflect.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_softened_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Texture\DE_Bane_SM" suffix="1" />
+        <Object id="Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+        <Object id="Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+        <Object id="Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_softened.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_us_17thairborne_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_us_infantry_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_chr_us_soldierairborne_tex.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_e1_village_airdrop_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_e1_village_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_aid.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_cinematics_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_countrattck_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_countrattck_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_countrattck_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_design_main_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_design_main_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_design_main.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hamlet_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hamlet_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hamlet_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hillhouses_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hillhouses_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_hillhouses_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_market_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_market_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_market_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_negate_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_negate_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_negate_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Banner_CM_SS" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace0" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace1" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace2" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace3" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace4" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHall\CubemapFace5" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallNegX" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallNegY" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallNegZ" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallPosX" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallPosY" suffix="1" />
+        <Object id="GCm_BG_Danger\Env_TownHallPosZ" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_swresidence_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_swresidence_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_swresidence_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_townhall_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_townhall_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_townhall_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_tplaza_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_tplaza_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_tplaza_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_vfx_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_vfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_m1_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_s_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_s_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_1911a_pistol_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_aagunsmoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FireTest2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_aamuzzleflash2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AA_muzzle_v6a" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_bar_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_bloodhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_bodyhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_brickhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_c4.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_chambersmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_concretehit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_cuttcompensator.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_decalimpact.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="concreteHIT_nm" suffix="1" />
+        <Object id="concreteHIT2_nm" suffix="1" />
+        <Object id="glassHIT_nm" suffix="1" />
+        <Object id="glassHIT2_nm" suffix="1" />
+        <Object id="plstrHIT_nm" suffix="1" />
+        <Object id="plstrHIT3_nm" suffix="1" />
+        <Object id="plstrHIT4_nm" suffix="1" />
+        <Object id="sandbagHIT_nm" suffix="1" />
+        <Object id="woodHIT_nm" suffix="1" />
+        <Object id="woodHIT02_nm" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_dirthit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_dirtkickxaxis.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_flak_far.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_flak_hero.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_fog.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_footstep.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_g43_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_gammon.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_glass.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_grenade.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_grenadeblur.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_halftrackexp3.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_halftsmokeonly.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_haycart.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_k98_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_m1_garand_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_m18_recoilless.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_m1903sprngfld_mzzle.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hgradient" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_m1grenadetrail.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_masonrykick.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_mauser_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_metalhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_mortarhit.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="debris04" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_mp40muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_mtlhitinplane.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_muzzsmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_npc_mg42muz.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flash_bang_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_npcm1_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_npcshotgun_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_npcthompsonmuzzleflash.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flash_bang_001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_oilfire_1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dome" suffix="1" />
+        <Object id="FireTest2" suffix="2" />
+        <Object id="sampledNormals03" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_panzerschreck.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_paratrooper.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\US_C47_Card_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_planeexp.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="muzzle_sideflip" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_planeexpitp.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="muzzle_sideflip" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_planefiresmoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="brick_loop" suffix="1" />
+        <Object id="muzzle_sideflip" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_planefiresmokewspace.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="brick_loop" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_plasterhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_sandbaghit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_skytrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_smallfire_4.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flame_anim3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_smallfire_5.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flame_anim3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_specenv.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_srchlt.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_stg44_muzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tankcoaxialmuz.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="flash_bang_001" suffix="1" />
+        <Object id="MG42_center" suffix="1" />
+        <Object id="MG42_side" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tankhit.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="debris04" suffix="2" />
+        <Object id="FireTest2" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tankmainmuzzle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tanksmoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_texture_flame.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="1" />
+        <Object id="FireTest2" suffix="1" />
+        <Object id="flame" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_texture_misc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dustUP04" suffix="2" />
+        <Object id="sampledNormals03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dustUP04" suffix="1" />
+        <Object id="Noise" suffix="1" />
+        <Object id="puff06" suffix="1" />
+        <Object id="smoke02HICon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_thompsonfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_thompsonmuzzleflash.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tracer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_tracerls.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_treaddirt.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_widesmalllfire_1.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus_vfx_woodhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\hus2_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\igc_mar_nij_editorgagproxy.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\igc_nep_azv_editorgagproxy.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ipdrv.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\itp_ava_pes_extraart.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\locgamecommon_fra.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AvalancheSlides\PaestumSlide_CommCenterPhotoLarge_CM" suffix="1" />
+        <Object id="AvalancheSlides\PaestumSlide_MotorPoolPhotoLarge_CM" suffix="1" />
+        <Object id="AvalancheSlides\PaestumSlide_PhotoTopLargeHeat_CM" suffix="1" />
+        <Object id="AvalancheSlides\Slide6_Munitions" suffix="1" />
+        <Object id="Factory_Slides\FactorySlide_EntrancePhotoLarge_CM" suffix="1" />
+        <Object id="Factory_Slides\FactorySlide_PhotoTopMapLargeB_CM" suffix="1" />
+        <Object id="Factory_Slides\FactorySlide_PhotoTopMapLargeDZ_CM" suffix="1" />
+        <Object id="Factory_Slides\FactorySlide_TankPhotoLarge_CM" suffix="1" />
+        <Object id="Factory_Slides\FactorySlide_TanksFBPhotoLarge_CM" suffix="1" />
+        <Object id="Weapons\WeaponLoadout_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\locgamecommon.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\map3d.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_bg_mm_pr_setdressing.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bracket_Metal_NM" suffix="1" />
+        <Object id="Bucket_Metal_Large_CM" suffix="1" />
+        <Object id="Bucket_Metal_Large_NM" suffix="1" />
+        <Object id="Bus_Civilian_Damaged_NM" suffix="1" />
+        <Object id="Bus_Civilian_Damaged_SM" suffix="1" />
+        <Object id="Chandelier_01_01_NM" suffix="1" />
+        <Object id="Chandelier_01_02_NM" suffix="1" />
+        <Object id="chandelier_02_01_NM" suffix="1" />
+        <Object id="chandelier_02_02_NM" suffix="1" />
+        <Object id="Clothes_Hung_NM" suffix="1" />
+        <Object id="Fairway_Boat_01_01_CM" suffix="1" />
+        <Object id="Fairway_Boat_01_NM" suffix="1" />
+        <Object id="Fairway_Boat_01_SM" suffix="1" />
+        <Object id="Heater_01_CM" suffix="1" />
+        <Object id="Heater_01_SM" suffix="1" />
+        <Object id="Ladder_Portable_CM" suffix="1" />
+        <Object id="Ladder_Portable_NM" suffix="1" />
+        <Object id="Mail_Box_01_cm" suffix="1" />
+        <Object id="Mail_Box_01_nm" suffix="1" />
+        <Object id="Powerline_Pole_01_CM" suffix="1" />
+        <Object id="Powerline_Pole_01_NM" suffix="1" />
+        <Object id="Powerline_Pole_01_SM" suffix="1" />
+        <Object id="Statue_01_NM" suffix="1" />
+        <Object id="Statue_01_SM" suffix="1" />
+        <Object id="Statue_02_NM" suffix="1" />
+        <Object id="Statue_02_SM" suffix="1" />
+        <Object id="Tractor_01_CM" suffix="1" />
+        <Object id="Tractor_01_NM" suffix="1" />
+        <Object id="Tractor_01_SM" suffix="1" />
+        <Object id="Wagon_HorseDrawn_CM" suffix="1" />
+        <Object id="Wagon_HorseDrawn_NM" suffix="1" />
+        <Object id="Wagon_HorseDrawn_SM" suffix="1" />
+        <Object id="Wheelbarrow_Wooden_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_backdrop.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_Default_DM" suffix="1" />
+        <Object id="Texture\T_Tree_far" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall_Plaster_Grf_CM" suffix="1" />
+        <Object id="Wall_Plaster_Grf_NM" suffix="1" />
+        <Object id="Wall_Plaster_Upf_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_church_architecture.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_Floor_Tile_Square_Dirty_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_bridge.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Concrete_Broken_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_buildings.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WallFront_Residential_01_CM" suffix="1" />
+        <Object id="WallFront_Residential_01_NM" suffix="1" />
+        <Object id="WallFront_Residential_01_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_floors.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_roofs.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_stairs.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_walls_ext.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_market_walls_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Wall_Interior_Cover01" suffix="1" />
+        <Object id="Wall_Interior_Doorway_Broken01" suffix="1" />
+        <Object id="Wall_Interior_Doorway_Broken02" suffix="1" />
+        <Object id="Wall_Interior_Doorway_Clean" suffix="1" />
+        <Object id="Wall_Interior_Stairwell" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_river.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_roads.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Brick_Street_Trim01_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_sewers.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_suburbs_floors.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bg_suburbs_walls_ext.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bridge_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bridge_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bridge_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_bridgeapt_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cinematics_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cruins_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cruins_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_cruins_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_des_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_des_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_des.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_pickup_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_pickup_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_global_pickup.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_market_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_market_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_market_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_suburbs_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_suburbs_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_suburbs_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_nij_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_ambientsmoke_2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_ambientsmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_burningcar.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_dust.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_igc_sparks.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_pztrail.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_smallfire_2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_smallfire_3.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_smallfire_4.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_smallfire_5.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_smoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_tankhitsdebris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_texture_misc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mar_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Noise" suffix="1" />
+        <Object id="puff06" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\menu_test.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_briefingroom.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld04.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld05.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_aliaid_ussld06.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_gersld01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_gersld02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_gersld03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_gersld04.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_itbs01.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_itbs02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_itbs03.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_axsaid_itbs04.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_briefingroom.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx_igc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_facefx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc_pa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\moha_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohaeditor.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohaenginematerials.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohaentry.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohagame_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohagame_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LocGameCommon\Weapons\WeaponLoadout_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mohagame.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohagamenonnative.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mohauiskin.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_airborne_objective.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ava_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_flak_far.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_flakhero.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_groundfire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_smokeplume.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_tankfire.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_texture_flame.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_texture_misc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_dv_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_VH_Cicada_ExhaustSmoke_SL" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_bg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_fac_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_her_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hud_resources.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_hus_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_mg_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_bg_mm_tunnel.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Dirt_Ruins_CM" suffix="1" />
+        <Object id="Grnd_Gravel_Ruins" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_nep_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_remagen_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_remagen_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_scoreboard.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_th_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_th_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_thc_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\mp_thc_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_thc_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ui_common.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ui_ingamemenu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\mp_ui_medals.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Weapon_1" suffix="1" />
+        <Object id="Weapon_2" suffix="1" />
+        <Object id="Weapon_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_beach_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_beach_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_beach_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_beach_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_casemate_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_casemate_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_casemate_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cinematics_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerOfficer_Body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cottage_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cottage_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_cottage_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_design_main_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_design_main_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_design_main.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+        <Object id="GCm_BG_Danger\Books_DE_Horizontal_01_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_tasteoftrenches_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_tasteoftrenches_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_tasteoftrenches_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_trenches_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_trenches_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_trenches_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_n_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_n_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_n_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_s_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_HeerInfantry_Body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_s_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_twr_s_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_azv_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_beach_front_assault.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_architecture.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Floor_Wood_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_debris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_fairway.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_BarbedWire_CM" suffix="1" />
+        <Object id="Texture\T_Default_DM" suffix="1" />
+        <Object id="Texture\T_DetailNormal_Stone_NM" suffix="1" />
+        <Object id="Texture\T_Mid_Field" suffix="1" />
+        <Object id="Texture\T_TH_Sky_Dark001" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_militaryprops.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_lightvolumes.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Dust" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_pr_set_casemate.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_pr_set_pillbox_beach.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_pr_set_stables.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_set_beach_spectacle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_set_destroyed_barn.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_set_tower.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TrenchDirtWall_CM" suffix="1" />
+        <Object id="TrenchDirtWall_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_mm_set_trenches.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_nat_btx_ground.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Dirt_Road_CM" suffix="1" />
+        <Object id="Grnd_Dirt_Sand_CM" suffix="1" />
+        <Object id="Grnd_Dirt_Sand_NM" suffix="1" />
+        <Object id="Grnd_Hay_Terrain_CM" suffix="1" />
+        <Object id="Grnd_Hay_Terrain_NM" suffix="1" />
+        <Object id="TrenchDirtWall_CM" suffix="2" />
+        <Object id="TrenchDirtWall_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_nat_terrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_props_civilian.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_ter_middle.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_ter_tot.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_ter_twr_n.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_ter_twr_s.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_bg_trenches.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_s_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_s_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_150mm.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_artilleryimpact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_beach_fog.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_bunkersmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_greensmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_igcsmoke.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_mortarhit.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="debris04" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_sand_impact.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_ships.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_shockwave.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_skytrain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_texture_flame.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="fireball02" suffix="2" />
+        <Object id="flame" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_texture_misc.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="sampledNormals03" suffix="1" />
+        <Object id="sphere_depth_02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_texture_smoke.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="dustUP04" suffix="1" />
+        <Object id="T_VH_Cicada_ExhaustSmoke_SL" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_transformerexp.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="electric03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_verysmallfire_1.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_verysmallfire_2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_verysmallfire_3.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_water_splash.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\nep_vfx_widefire_1.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WaterDistortion" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\onlinesubsystempc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\plasma.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\postprocessmaterialpackage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ragdollaudio.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_basetextures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Brick_Rough_CM" suffix="1" />
+        <Object id="Grnd_Brick_Rough_NM" suffix="1" />
+        <Object id="Roof_Shingles_CM" suffix="1" />
+        <Object id="Roof_Shingles_NM" suffix="1" />
+        <Object id="T_Tree_CommonAsh_Leaves_CM" suffix="1" />
+        <Object id="T_Wall_outdoor_yellow_Plaster_02_Nm" suffix="1" />
+        <Object id="T_Wall_outdoor_yellow_Plaster_02_Sm" suffix="1" />
+        <Object id="Wall_Interior_Plain_NM" suffix="1" />
+        <Object id="Wall_TownHall_Int_01_CM" suffix="1" />
+        <Object id="Wall_TownHall_Int_01_NM" suffix="1" />
+        <Object id="Wall_TownHall_Int_02_CM" suffix="1" />
+        <Object id="Wall_TownHall_Int_02_NM" suffix="1" />
+        <Object id="Wood_Int_CM" suffix="1" />
+        <Object id="Wood_Int_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_dcl_bullet_holes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_bld.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Archway_CM" suffix="1" />
+        <Object id="Archway_NM" suffix="1" />
+        <Object id="Rug_Floor_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_bldinterior.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_btx_ground.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_btx_walls_ext.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_btx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_ground.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_mpc_pipes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_mpc_windows.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Reflection" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_nat_terrain.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_DV_FarHill_02_CM" suffix="1" />
+        <Object id="Tree_Oak_Branch_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_pr_tmp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_pr.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Awning_Red_CM" suffix="1" />
+        <Object id="chimney_CM" suffix="1" />
+        <Object id="chimney_NM" suffix="1" />
+        <Object id="Grounding_Pole_CM" suffix="1" />
+        <Object id="Grounding_Pole_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_str.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_mm_walls.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_nat_btx_water.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_nat_pr.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_nat_sky_tmp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_nat_tre_tmp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\rem_bg_protomat.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="NULL_CM" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\rem_proto_mm_obj.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_endofgame_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_endofgame.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell_stats.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\shell.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_dia.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_audio.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_env_fore.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\th_s_stream_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_dia.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_audio.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_env_fore.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\thc_s_stream_foliage.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_bg_cluster.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_bg_fairway.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grnd_Concrete_Road_CM" suffix="1" />
+        <Object id="Texture\T_Decal_01_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_bg_text.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_itp_bg_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_cinematics_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_designmain.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_fairwaya8_light.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_fairwaya8_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_fairwaya8.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_global_aff.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_light.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop1.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop2_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop2_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop2.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop3_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pop3.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pr_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pr_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_pr.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\tra_jmp_windvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\training_bg_tmpassets.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_bootsequence.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_common.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_commonresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\UI_TX_Tabs" suffix="1" />
+        <Object id="Textures\UI_TX_tabs_focused" suffix="1" />
+        <Object id="Textures\UI_TX_XboxB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_credits.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_debug.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_fonts.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LucidaBr_8B\LucidaBr_8B_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_maps.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="HUD_HuskyMap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_menumodules.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UT_TX_Textbox32x256" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_motiongraphicsvfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_leaderboard.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_serverlist.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_serverlisticons.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_startup.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_stats.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_mp_teamandweapon.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_options.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_parachuteawards.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_pause.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_pausemenu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_pccontrol.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_popups.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_profilepopup.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_resources.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_selectcampaign.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_shellstartup.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_stats.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_titles.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_transitionscreens.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_buttons_ps3.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_demo.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_extras.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_loadingscreen_default.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_loadingscreens.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_medals.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Md1_DistServCross" suffix="1" />
+        <Object id="Md10_EAMCampaignMedal" suffix="1" />
+        <Object id="Md11_GoodConductMedal" suffix="1" />
+        <Object id="Md12_PresUnitCitation" suffix="1" />
+        <Object id="Md13_MeritUnitCitation" suffix="1" />
+        <Object id="Md14_CombatInfBadge" suffix="1" />
+        <Object id="Md15_ParaBadge" suffix="1" />
+        <Object id="Md2_DistServMedal" suffix="1" />
+        <Object id="Md3_SilverStar" suffix="1" />
+        <Object id="Md4_LegionOfMerit" suffix="1" />
+        <Object id="Md5_SoldiersMedal" suffix="1" />
+        <Object id="Md6_BronzeStar" suffix="1" />
+        <Object id="Md7_PurpleHeart" suffix="1" />
+        <Object id="Md8_WW2VictoryMedal" suffix="1" />
+        <Object id="Md9_AmCampaignMedal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_tx_rank.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Rank_Allied_BrigGen" suffix="1" />
+        <Object id="Rank_Allied_Captain" suffix="1" />
+        <Object id="Rank_Allied_Colonel" suffix="1" />
+        <Object id="Rank_Allied_Corporal" suffix="1" />
+        <Object id="Rank_Allied_FirstLieut" suffix="1" />
+        <Object id="Rank_Allied_Gen" suffix="1" />
+        <Object id="Rank_Allied_LieutCol" suffix="1" />
+        <Object id="Rank_Allied_LieutGen" suffix="1" />
+        <Object id="Rank_Allied_Major" suffix="1" />
+        <Object id="Rank_Allied_MajorGen" suffix="1" />
+        <Object id="Rank_Allied_PFC" suffix="1" />
+        <Object id="Rank_Allied_Sergeant" suffix="1" />
+        <Object id="Rank_Axis_BrigGen" suffix="1" />
+        <Object id="Rank_Axis_Captain" suffix="1" />
+        <Object id="Rank_Axis_Colonel" suffix="1" />
+        <Object id="Rank_Axis_Corporal" suffix="1" />
+        <Object id="Rank_Axis_FirstLieut" suffix="1" />
+        <Object id="Rank_Axis_Gen" suffix="1" />
+        <Object id="Rank_Axis_LieutCol" suffix="1" />
+        <Object id="Rank_Axis_LieutGen" suffix="1" />
+        <Object id="Rank_Axis_Major" suffix="1" />
+        <Object id="Rank_Axis_MajorGen" suffix="1" />
+        <Object id="Rank_Axis_PFC" suffix="1" />
+        <Object id="Rank_Axis_Sergeant" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\ui_weapons_art.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_weapons.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\ui_weaponsloadout.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\unrealscripttest.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_bg_backdrop.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_Tree_Group" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_loc_fra.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LocGameCommon\Factory_Slides\FactorySlide_EntrancePhotoLarge_CM" suffix="1" />
+        <Object id="LocGameCommon\Factory_Slides\FactorySlide_PhotoTopMapLargeB_CM" suffix="1" />
+        <Object id="LocGameCommon\Factory_Slides\FactorySlide_PhotoTopMapLargeDZ_CM" suffix="1" />
+        <Object id="LocGameCommon\Factory_Slides\FactorySlide_TankPhotoLarge_CM" suffix="1" />
+        <Object id="LocGameCommon\Factory_Slides\FactorySlide_TanksFBPhotoLarge_CM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_chemfac_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_chemfac_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_chemfac_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_cinematics_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_global_des_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_global_des_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_global_des.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_vfx_bloodhit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_vfx_tracer.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp_vfx_tracer02.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_ldocks_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_ldocks_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_ldocks_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_railyard_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_railyard_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_railyard_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_steelmill_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_steelmill_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_steelmill_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_tankfac_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_tankfac_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_tankfac_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fac_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_fkt_cc.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_airdrop.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_bg_backdrop.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\T_TH_Sky_Dark001" suffix="2" />
+        <Object id="Texture\T_TH_Sky_Round001" suffix="1" />
+        <Object id="Texture\T_Tree_Group" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_lighting_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_lighting_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_lighting.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing_stream.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_briefing.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_cinematics_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_cinematics_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_cinematics.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_design_main_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_design_main_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_design_main.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_electrical_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_electrical_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_electrical_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_exterior_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_exterior_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_exterior_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_gunlevels_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_gunlevels_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_gunlevels_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_debris.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_lit_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_lit.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_bottom_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_bottom_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_bottom_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_middle_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_middle_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_middle_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_top_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_top_ai_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_Bane_SM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_SoldierSSInfantry_NM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_mainshaft_top_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_p_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GCm_BG_Danger\Banner_CM_SS" suffix="1" />
+        <Object id="GCm_BG_Danger\Binders_DE_CM" suffix="1" />
+        <Object id="GCm_BG_Danger\Books_DE_Horizontal_01_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_p_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_p.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_roof_ai_loc_hrd.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_CM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_NM" suffix="1" />
+        <Object id="Hus_Chr_Softened\Texture\DE_falsch_body_SM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_roof_ai_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_roof_ai.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed_loc_deu.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed_loc_fra.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed_loc_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed_loc_spa.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_delayed.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_ita_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_ita.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_itp_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_itp.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_otg_loc_int.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx_async_otg.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_sfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_flk_vfx.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\var_itp_mm_lightvolumes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\vfx_dogfightplanes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\vfx_specplanes.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\viewmodel_animset.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\viewmodel_animtree.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\viewmodel_arms_axis.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\viewmodel_arms.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\viewmodel_mesh.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\weapon_proto.xxx" />
+    <Package path="unrealengine3\mohagame\cookedpc\weapon_trash.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="compreflect\CubemapFace0" suffix="1" />
+        <Object id="compreflect\CubemapFace1" suffix="1" />
+        <Object id="compreflect\CubemapFace2" suffix="1" />
+        <Object id="compreflect\CubemapFace3" suffix="1" />
+        <Object id="compreflect\CubemapFace4" suffix="1" />
+        <Object id="compreflect\CubemapFace5" suffix="1" />
+      </Objects>
+    </Package>
+  </Packages>
+</IdRemapping>

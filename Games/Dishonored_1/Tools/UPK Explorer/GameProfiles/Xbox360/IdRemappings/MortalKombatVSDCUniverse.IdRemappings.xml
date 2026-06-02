@@ -1,0 +1,2430 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="asset\attr_attract.xxx" />
+    <Package path="asset\bgnd_apokolips.xxx" />
+    <Package path="asset\bgnd_batcave.xxx" />
+    <Package path="asset\bgnd_calibration.xxx" />
+    <Package path="asset\bgnd_charactertest.xxx" />
+    <Package path="asset\bgnd_characterviewer.xxx" />
+    <Package path="asset\bgnd_fortressofsolitude.xxx" />
+    <Package path="asset\bgnd_gothamcity.xxx" />
+    <Package path="asset\bgnd_graveyard_v2.xxx" />
+    <Package path="asset\bgnd_hell.xxx" />
+    <Package path="asset\bgnd_island.xxx" />
+    <Package path="asset\bgnd_metropolis.xxx" />
+    <Package path="asset\bgnd_oansenate.xxx" />
+    <Package path="asset\bgnd_spacestation.xxx" />
+    <Package path="asset\bgnd_specialforces.xxx" />
+    <Package path="asset\bgnd_temple.xxx" />
+    <Package path="asset\bgnd_testparticles.xxx" />
+    <Package path="asset\bgnd_throneroom.xxx" />
+    <Package path="asset\bgnd_wushi_academy.xxx" />
+    <Package path="asset\char_baraka.xxx" />
+    <Package path="asset\char_basemale_medium.xxx" />
+    <Package path="asset\char_batman.xxx" />
+    <Package path="asset\char_catwoman.xxx" />
+    <Package path="asset\char_darkkahn.xxx" />
+    <Package path="asset\char_darkseid.xxx" />
+    <Package path="asset\char_deathstroke.xxx" />
+    <Package path="asset\char_flash.xxx" />
+    <Package path="asset\char_greenlantern.xxx" />
+    <Package path="asset\char_jax.xxx" />
+    <Package path="asset\char_joker.xxx" />
+    <Package path="asset\char_kano.xxx" />
+    <Package path="asset\char_kitana.xxx" />
+    <Package path="asset\char_lexluthor.xxx" />
+    <Package path="asset\char_liukang.xxx" />
+    <Package path="asset\char_raiden.xxx" />
+    <Package path="asset\char_scorpion.xxx" />
+    <Package path="asset\char_shangtsung.xxx" />
+    <Package path="asset\char_shaokahn.xxx" />
+    <Package path="asset\char_shazam.xxx" />
+    <Package path="asset\char_sonya.xxx" />
+    <Package path="asset\char_subzero.xxx" />
+    <Package path="asset\char_superman.xxx" />
+    <Package path="asset\char_wonderwoman.xxx" />
+    <Package path="asset\core.xxx" />
+    <Package path="asset\dc001-dc010.xxx" />
+    <Package path="asset\dc011-dc020.xxx" />
+    <Package path="asset\dc021-dc030.xxx" />
+    <Package path="asset\dc031-dc040.xxx" />
+    <Package path="asset\dc041-dc050.xxx" />
+    <Package path="asset\dc051-dc060.xxx" />
+    <Package path="asset\editormaterials.xxx" />
+    <Package path="asset\empty_map.xxx" />
+    <Package path="asset\engine.xxx" />
+    <Package path="asset\fightingart.xxx" />
+    <Package path="asset\fmodaudio.xxx" />
+    <Package path="asset\fx_apokolips.xxx" />
+    <Package path="asset\fx_baraka.xxx" />
+    <Package path="asset\fx_batcave.xxx" />
+    <Package path="asset\fx_batman.xxx" />
+    <Package path="asset\fx_catwoman.xxx" />
+    <Package path="asset\fx_character.xxx" />
+    <Package path="asset\fx_darkkahn.xxx" />
+    <Package path="asset\fx_darkseid.xxx" />
+    <Package path="asset\fx_deathstroke.xxx" />
+    <Package path="asset\fx_flash.xxx" />
+    <Package path="asset\fx_fortressofsolitude.xxx" />
+    <Package path="asset\fx_gotham.xxx" />
+    <Package path="asset\fx_graveyard.xxx" />
+    <Package path="asset\fx_greenlantern.xxx" />
+    <Package path="asset\fx_hell.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Boulder" suffix="1" />
+        <Object id="Textures\Boulder02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_impact.xxx" />
+    <Package path="asset\fx_jax.xxx" />
+    <Package path="asset\fx_joker.xxx" />
+    <Package path="asset\fx_kano.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Beam08_greypack" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_kitana.xxx" />
+    <Package path="asset\fx_lexluthor.xxx" />
+    <Package path="asset\fx_liukang.xxx" />
+    <Package path="asset\fx_metropolis.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\GenericNoise_Nmap" suffix="1" />
+        <Object id="Textures\safetyGlassCracked_diffuse" suffix="1" />
+        <Object id="Textures\SafetyGlassCracked_normal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_oansenate.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\safetyGlassBroken_diffuse" suffix="1" />
+        <Object id="Textures\safetyGlassCracked_diffuse" suffix="2" />
+        <Object id="Textures\SafetyGlassCracked_normal" suffix="2" />
+        <Object id="Textures\safetyGlassReflection_diffuse" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_rage.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\LensFX_01_graypack" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_raiden.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\EnergyGlow_graypack" suffix="1" />
+        <Object id="Textures\Engery_Animation" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_scorpion.xxx" />
+    <Package path="asset\fx_shang_tsung.xxx" />
+    <Package path="asset\fx_shaokahn.xxx" />
+    <Package path="asset\fx_shazam.xxx" />
+    <Package path="asset\fx_sonya.xxx" />
+    <Package path="asset\fx_spacestation.xxx" />
+    <Package path="asset\fx_specialforces.xxx" />
+    <Package path="asset\fx_subzero.xxx" />
+    <Package path="asset\fx_superman.xxx" />
+    <Package path="asset\fx_temple.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\cloudScroll2_diffuse" suffix="1" />
+        <Object id="Textures\smoke03_alpha" suffix="1" />
+        <Object id="Textures\sparks_texture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\fx_throneroom.xxx" />
+    <Package path="asset\fx_wonderwoman.xxx" />
+    <Package path="asset\loadscreen_dc01_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="1" />
+        <Object id="screen_01" suffix="1" />
+        <Object id="screen_02" suffix="1" />
+        <Object id="screen_03" suffix="1" />
+        <Object id="screen_04" suffix="1" />
+        <Object id="screen_05" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc01_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_06" suffix="1" />
+        <Object id="screen_07" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc02_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="3" />
+        <Object id="screen_01" suffix="3" />
+        <Object id="screen_02" suffix="3" />
+        <Object id="screen_03" suffix="3" />
+        <Object id="screen_04" suffix="3" />
+        <Object id="screen_05" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc02_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="2" />
+        <Object id="screen_01" suffix="2" />
+        <Object id="screen_02" suffix="2" />
+        <Object id="screen_03" suffix="2" />
+        <Object id="screen_04" suffix="2" />
+        <Object id="screen_05" suffix="2" />
+        <Object id="screen_06" suffix="2" />
+        <Object id="screen_07" suffix="2" />
+        <Object id="screen_08" suffix="1" />
+        <Object id="screen_09" suffix="1" />
+        <Object id="screen_10" suffix="1" />
+        <Object id="screen_11" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc04_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="5" />
+        <Object id="screen_01" suffix="5" />
+        <Object id="screen_02" suffix="5" />
+        <Object id="screen_03" suffix="5" />
+        <Object id="screen_04" suffix="5" />
+        <Object id="screen_05" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc04_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="4" />
+        <Object id="screen_01" suffix="4" />
+        <Object id="screen_02" suffix="4" />
+        <Object id="screen_03" suffix="4" />
+        <Object id="screen_04" suffix="4" />
+        <Object id="screen_05" suffix="4" />
+        <Object id="screen_06" suffix="3" />
+        <Object id="screen_07" suffix="3" />
+        <Object id="screen_08" suffix="2" />
+        <Object id="screen_09" suffix="2" />
+        <Object id="screen_10" suffix="2" />
+        <Object id="screen_11" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc05_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="7" />
+        <Object id="screen_01" suffix="7" />
+        <Object id="screen_02" suffix="7" />
+        <Object id="screen_03" suffix="7" />
+        <Object id="screen_04" suffix="7" />
+        <Object id="screen_05" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc05_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="6" />
+        <Object id="screen_01" suffix="6" />
+        <Object id="screen_02" suffix="6" />
+        <Object id="screen_03" suffix="6" />
+        <Object id="screen_04" suffix="6" />
+        <Object id="screen_05" suffix="6" />
+        <Object id="screen_06" suffix="4" />
+        <Object id="screen_07" suffix="4" />
+        <Object id="screen_08" suffix="3" />
+        <Object id="screen_09" suffix="3" />
+        <Object id="screen_10" suffix="3" />
+        <Object id="screen_11" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc09_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="9" />
+        <Object id="screen_01" suffix="9" />
+        <Object id="screen_02" suffix="9" />
+        <Object id="screen_03" suffix="9" />
+        <Object id="screen_04" suffix="9" />
+        <Object id="screen_05" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc09_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="8" />
+        <Object id="screen_01" suffix="8" />
+        <Object id="screen_02" suffix="8" />
+        <Object id="screen_03" suffix="8" />
+        <Object id="screen_04" suffix="8" />
+        <Object id="screen_05" suffix="8" />
+        <Object id="screen_06" suffix="5" />
+        <Object id="screen_07" suffix="5" />
+        <Object id="screen_08" suffix="4" />
+        <Object id="screen_09" suffix="4" />
+        <Object id="screen_10" suffix="4" />
+        <Object id="screen_11" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc10_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="11" />
+        <Object id="screen_01" suffix="11" />
+        <Object id="screen_02" suffix="11" />
+        <Object id="screen_03" suffix="11" />
+        <Object id="screen_04" suffix="11" />
+        <Object id="screen_05" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc10_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="10" />
+        <Object id="screen_01" suffix="10" />
+        <Object id="screen_02" suffix="10" />
+        <Object id="screen_03" suffix="10" />
+        <Object id="screen_04" suffix="10" />
+        <Object id="screen_05" suffix="10" />
+        <Object id="screen_06" suffix="6" />
+        <Object id="screen_07" suffix="6" />
+        <Object id="screen_08" suffix="5" />
+        <Object id="screen_09" suffix="5" />
+        <Object id="screen_10" suffix="5" />
+        <Object id="screen_11" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc11_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="13" />
+        <Object id="screen_01" suffix="13" />
+        <Object id="screen_02" suffix="13" />
+        <Object id="screen_03" suffix="13" />
+        <Object id="screen_04" suffix="13" />
+        <Object id="screen_05" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc11_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="12" />
+        <Object id="screen_01" suffix="12" />
+        <Object id="screen_02" suffix="12" />
+        <Object id="screen_03" suffix="12" />
+        <Object id="screen_04" suffix="12" />
+        <Object id="screen_05" suffix="12" />
+        <Object id="screen_06" suffix="7" />
+        <Object id="screen_07" suffix="7" />
+        <Object id="screen_08" suffix="6" />
+        <Object id="screen_09" suffix="6" />
+        <Object id="screen_10" suffix="6" />
+        <Object id="screen_11" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc14_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="15" />
+        <Object id="screen_01" suffix="15" />
+        <Object id="screen_02" suffix="15" />
+        <Object id="screen_03" suffix="15" />
+        <Object id="screen_04" suffix="15" />
+        <Object id="screen_05" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc14_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="14" />
+        <Object id="screen_01" suffix="14" />
+        <Object id="screen_02" suffix="14" />
+        <Object id="screen_03" suffix="14" />
+        <Object id="screen_04" suffix="14" />
+        <Object id="screen_05" suffix="14" />
+        <Object id="screen_06" suffix="8" />
+        <Object id="screen_07" suffix="8" />
+        <Object id="screen_08" suffix="7" />
+        <Object id="screen_09" suffix="7" />
+        <Object id="screen_10" suffix="7" />
+        <Object id="screen_11" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc18_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="17" />
+        <Object id="screen_01" suffix="17" />
+        <Object id="screen_02" suffix="17" />
+        <Object id="screen_03" suffix="17" />
+        <Object id="screen_04" suffix="17" />
+        <Object id="screen_05" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc18_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="16" />
+        <Object id="screen_01" suffix="16" />
+        <Object id="screen_02" suffix="16" />
+        <Object id="screen_03" suffix="16" />
+        <Object id="screen_04" suffix="16" />
+        <Object id="screen_05" suffix="16" />
+        <Object id="screen_06" suffix="9" />
+        <Object id="screen_07" suffix="9" />
+        <Object id="screen_08" suffix="8" />
+        <Object id="screen_09" suffix="8" />
+        <Object id="screen_10" suffix="8" />
+        <Object id="screen_11" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc21_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="19" />
+        <Object id="screen_01" suffix="19" />
+        <Object id="screen_02" suffix="19" />
+        <Object id="screen_03" suffix="19" />
+        <Object id="screen_04" suffix="19" />
+        <Object id="screen_05" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc21_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="18" />
+        <Object id="screen_01" suffix="18" />
+        <Object id="screen_02" suffix="18" />
+        <Object id="screen_03" suffix="18" />
+        <Object id="screen_04" suffix="18" />
+        <Object id="screen_05" suffix="18" />
+        <Object id="screen_06" suffix="10" />
+        <Object id="screen_07" suffix="10" />
+        <Object id="screen_08" suffix="9" />
+        <Object id="screen_09" suffix="9" />
+        <Object id="screen_10" suffix="9" />
+        <Object id="screen_11" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc29_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="21" />
+        <Object id="screen_01" suffix="21" />
+        <Object id="screen_02" suffix="21" />
+        <Object id="screen_03" suffix="21" />
+        <Object id="screen_04" suffix="21" />
+        <Object id="screen_05" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc29_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="20" />
+        <Object id="screen_01" suffix="20" />
+        <Object id="screen_02" suffix="20" />
+        <Object id="screen_03" suffix="20" />
+        <Object id="screen_04" suffix="20" />
+        <Object id="screen_05" suffix="20" />
+        <Object id="screen_06" suffix="11" />
+        <Object id="screen_07" suffix="11" />
+        <Object id="screen_08" suffix="10" />
+        <Object id="screen_09" suffix="10" />
+        <Object id="screen_10" suffix="10" />
+        <Object id="screen_11" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc29_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="23" />
+        <Object id="screen_01" suffix="23" />
+        <Object id="screen_02" suffix="23" />
+        <Object id="screen_03" suffix="23" />
+        <Object id="screen_04" suffix="23" />
+        <Object id="screen_05" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc29_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="22" />
+        <Object id="screen_01" suffix="22" />
+        <Object id="screen_02" suffix="22" />
+        <Object id="screen_03" suffix="22" />
+        <Object id="screen_04" suffix="22" />
+        <Object id="screen_05" suffix="22" />
+        <Object id="screen_06" suffix="12" />
+        <Object id="screen_07" suffix="12" />
+        <Object id="screen_08" suffix="11" />
+        <Object id="screen_09" suffix="11" />
+        <Object id="screen_10" suffix="11" />
+        <Object id="screen_11" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc31_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="25" />
+        <Object id="screen_01" suffix="25" />
+        <Object id="screen_02" suffix="25" />
+        <Object id="screen_03" suffix="25" />
+        <Object id="screen_04" suffix="25" />
+        <Object id="screen_05" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc31_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="24" />
+        <Object id="screen_01" suffix="24" />
+        <Object id="screen_02" suffix="24" />
+        <Object id="screen_03" suffix="24" />
+        <Object id="screen_04" suffix="24" />
+        <Object id="screen_05" suffix="24" />
+        <Object id="screen_06" suffix="13" />
+        <Object id="screen_07" suffix="13" />
+        <Object id="screen_08" suffix="12" />
+        <Object id="screen_09" suffix="12" />
+        <Object id="screen_10" suffix="12" />
+        <Object id="screen_11" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc35_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="27" />
+        <Object id="screen_01" suffix="27" />
+        <Object id="screen_02" suffix="27" />
+        <Object id="screen_03" suffix="27" />
+        <Object id="screen_04" suffix="27" />
+        <Object id="screen_05" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc35_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="26" />
+        <Object id="screen_01" suffix="26" />
+        <Object id="screen_02" suffix="26" />
+        <Object id="screen_03" suffix="26" />
+        <Object id="screen_04" suffix="26" />
+        <Object id="screen_05" suffix="26" />
+        <Object id="screen_06" suffix="14" />
+        <Object id="screen_07" suffix="14" />
+        <Object id="screen_08" suffix="13" />
+        <Object id="screen_09" suffix="13" />
+        <Object id="screen_10" suffix="13" />
+        <Object id="screen_11" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc37_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="29" />
+        <Object id="screen_01" suffix="29" />
+        <Object id="screen_02" suffix="29" />
+        <Object id="screen_03" suffix="29" />
+        <Object id="screen_04" suffix="29" />
+        <Object id="screen_05" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc37_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="28" />
+        <Object id="screen_01" suffix="28" />
+        <Object id="screen_02" suffix="28" />
+        <Object id="screen_03" suffix="28" />
+        <Object id="screen_04" suffix="28" />
+        <Object id="screen_05" suffix="28" />
+        <Object id="screen_06" suffix="15" />
+        <Object id="screen_07" suffix="15" />
+        <Object id="screen_08" suffix="14" />
+        <Object id="screen_09" suffix="14" />
+        <Object id="screen_10" suffix="14" />
+        <Object id="screen_11" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc38_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="31" />
+        <Object id="screen_01" suffix="31" />
+        <Object id="screen_02" suffix="31" />
+        <Object id="screen_03" suffix="31" />
+        <Object id="screen_04" suffix="31" />
+        <Object id="screen_05" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc38_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="30" />
+        <Object id="screen_01" suffix="30" />
+        <Object id="screen_02" suffix="30" />
+        <Object id="screen_03" suffix="30" />
+        <Object id="screen_04" suffix="30" />
+        <Object id="screen_05" suffix="30" />
+        <Object id="screen_06" suffix="16" />
+        <Object id="screen_07" suffix="16" />
+        <Object id="screen_08" suffix="15" />
+        <Object id="screen_09" suffix="15" />
+        <Object id="screen_10" suffix="15" />
+        <Object id="screen_11" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc40_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="33" />
+        <Object id="screen_01" suffix="33" />
+        <Object id="screen_02" suffix="33" />
+        <Object id="screen_03" suffix="33" />
+        <Object id="screen_04" suffix="33" />
+        <Object id="screen_05" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc40_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="32" />
+        <Object id="screen_01" suffix="32" />
+        <Object id="screen_02" suffix="32" />
+        <Object id="screen_03" suffix="32" />
+        <Object id="screen_04" suffix="32" />
+        <Object id="screen_05" suffix="32" />
+        <Object id="screen_06" suffix="17" />
+        <Object id="screen_07" suffix="17" />
+        <Object id="screen_08" suffix="16" />
+        <Object id="screen_09" suffix="16" />
+        <Object id="screen_10" suffix="16" />
+        <Object id="screen_11" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc42_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="35" />
+        <Object id="screen_01" suffix="35" />
+        <Object id="screen_02" suffix="35" />
+        <Object id="screen_03" suffix="35" />
+        <Object id="screen_04" suffix="35" />
+        <Object id="screen_05" suffix="35" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc42_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="34" />
+        <Object id="screen_01" suffix="34" />
+        <Object id="screen_02" suffix="34" />
+        <Object id="screen_03" suffix="34" />
+        <Object id="screen_04" suffix="34" />
+        <Object id="screen_05" suffix="34" />
+        <Object id="screen_06" suffix="18" />
+        <Object id="screen_07" suffix="18" />
+        <Object id="screen_08" suffix="17" />
+        <Object id="screen_09" suffix="17" />
+        <Object id="screen_10" suffix="17" />
+        <Object id="screen_11" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc44_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="37" />
+        <Object id="screen_01" suffix="37" />
+        <Object id="screen_02" suffix="37" />
+        <Object id="screen_03" suffix="37" />
+        <Object id="screen_04" suffix="37" />
+        <Object id="screen_05" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc44_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="36" />
+        <Object id="screen_01" suffix="36" />
+        <Object id="screen_02" suffix="36" />
+        <Object id="screen_03" suffix="36" />
+        <Object id="screen_04" suffix="36" />
+        <Object id="screen_05" suffix="36" />
+        <Object id="screen_06" suffix="19" />
+        <Object id="screen_07" suffix="19" />
+        <Object id="screen_08" suffix="18" />
+        <Object id="screen_09" suffix="18" />
+        <Object id="screen_10" suffix="18" />
+        <Object id="screen_11" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc47_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="39" />
+        <Object id="screen_01" suffix="39" />
+        <Object id="screen_02" suffix="39" />
+        <Object id="screen_03" suffix="39" />
+        <Object id="screen_04" suffix="39" />
+        <Object id="screen_05" suffix="39" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc47_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="38" />
+        <Object id="screen_01" suffix="38" />
+        <Object id="screen_02" suffix="38" />
+        <Object id="screen_03" suffix="38" />
+        <Object id="screen_04" suffix="38" />
+        <Object id="screen_05" suffix="38" />
+        <Object id="screen_06" suffix="20" />
+        <Object id="screen_07" suffix="20" />
+        <Object id="screen_08" suffix="19" />
+        <Object id="screen_09" suffix="19" />
+        <Object id="screen_10" suffix="19" />
+        <Object id="screen_11" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="41" />
+        <Object id="screen_01" suffix="41" />
+        <Object id="screen_02" suffix="41" />
+        <Object id="screen_03" suffix="41" />
+        <Object id="screen_04" suffix="41" />
+        <Object id="screen_05" suffix="41" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="40" />
+        <Object id="screen_01" suffix="40" />
+        <Object id="screen_02" suffix="40" />
+        <Object id="screen_03" suffix="40" />
+        <Object id="screen_04" suffix="40" />
+        <Object id="screen_05" suffix="40" />
+        <Object id="screen_06" suffix="21" />
+        <Object id="screen_07" suffix="21" />
+        <Object id="screen_08" suffix="20" />
+        <Object id="screen_09" suffix="20" />
+        <Object id="screen_10" suffix="20" />
+        <Object id="screen_11" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="43" />
+        <Object id="screen_01" suffix="43" />
+        <Object id="screen_02" suffix="43" />
+        <Object id="screen_03" suffix="43" />
+        <Object id="screen_04" suffix="43" />
+        <Object id="screen_05" suffix="43" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="42" />
+        <Object id="screen_01" suffix="42" />
+        <Object id="screen_02" suffix="42" />
+        <Object id="screen_03" suffix="42" />
+        <Object id="screen_04" suffix="42" />
+        <Object id="screen_05" suffix="42" />
+        <Object id="screen_06" suffix="22" />
+        <Object id="screen_07" suffix="22" />
+        <Object id="screen_08" suffix="21" />
+        <Object id="screen_09" suffix="21" />
+        <Object id="screen_10" suffix="21" />
+        <Object id="screen_11" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="45" />
+        <Object id="screen_01" suffix="45" />
+        <Object id="screen_02" suffix="45" />
+        <Object id="screen_03" suffix="45" />
+        <Object id="screen_04" suffix="45" />
+        <Object id="screen_05" suffix="45" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc51_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="44" />
+        <Object id="screen_01" suffix="44" />
+        <Object id="screen_02" suffix="44" />
+        <Object id="screen_03" suffix="44" />
+        <Object id="screen_04" suffix="44" />
+        <Object id="screen_05" suffix="44" />
+        <Object id="screen_06" suffix="23" />
+        <Object id="screen_07" suffix="23" />
+        <Object id="screen_08" suffix="22" />
+        <Object id="screen_09" suffix="22" />
+        <Object id="screen_10" suffix="22" />
+        <Object id="screen_11" suffix="22" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc52_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="47" />
+        <Object id="screen_01" suffix="47" />
+        <Object id="screen_02" suffix="47" />
+        <Object id="screen_03" suffix="47" />
+        <Object id="screen_04" suffix="47" />
+        <Object id="screen_05" suffix="47" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc52_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="46" />
+        <Object id="screen_01" suffix="46" />
+        <Object id="screen_02" suffix="46" />
+        <Object id="screen_03" suffix="46" />
+        <Object id="screen_04" suffix="46" />
+        <Object id="screen_05" suffix="46" />
+        <Object id="screen_06" suffix="24" />
+        <Object id="screen_07" suffix="24" />
+        <Object id="screen_08" suffix="23" />
+        <Object id="screen_09" suffix="23" />
+        <Object id="screen_10" suffix="23" />
+        <Object id="screen_11" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc53_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="49" />
+        <Object id="screen_01" suffix="49" />
+        <Object id="screen_02" suffix="49" />
+        <Object id="screen_03" suffix="49" />
+        <Object id="screen_04" suffix="49" />
+        <Object id="screen_05" suffix="49" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc53_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="48" />
+        <Object id="screen_01" suffix="48" />
+        <Object id="screen_02" suffix="48" />
+        <Object id="screen_03" suffix="48" />
+        <Object id="screen_04" suffix="48" />
+        <Object id="screen_05" suffix="48" />
+        <Object id="screen_06" suffix="25" />
+        <Object id="screen_07" suffix="25" />
+        <Object id="screen_08" suffix="24" />
+        <Object id="screen_09" suffix="24" />
+        <Object id="screen_10" suffix="24" />
+        <Object id="screen_11" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc59_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="51" />
+        <Object id="screen_01" suffix="51" />
+        <Object id="screen_02" suffix="51" />
+        <Object id="screen_03" suffix="51" />
+        <Object id="screen_04" suffix="51" />
+        <Object id="screen_05" suffix="51" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_dc59_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="50" />
+        <Object id="screen_01" suffix="50" />
+        <Object id="screen_02" suffix="50" />
+        <Object id="screen_03" suffix="50" />
+        <Object id="screen_04" suffix="50" />
+        <Object id="screen_05" suffix="50" />
+        <Object id="screen_06" suffix="26" />
+        <Object id="screen_07" suffix="26" />
+        <Object id="screen_08" suffix="25" />
+        <Object id="screen_09" suffix="25" />
+        <Object id="screen_10" suffix="25" />
+        <Object id="screen_11" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk01_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="53" />
+        <Object id="screen_01" suffix="53" />
+        <Object id="screen_02" suffix="53" />
+        <Object id="screen_03" suffix="53" />
+        <Object id="screen_04" suffix="53" />
+        <Object id="screen_05" suffix="53" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk01_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="52" />
+        <Object id="screen_01" suffix="52" />
+        <Object id="screen_02" suffix="52" />
+        <Object id="screen_03" suffix="52" />
+        <Object id="screen_04" suffix="52" />
+        <Object id="screen_05" suffix="52" />
+        <Object id="screen_06" suffix="27" />
+        <Object id="screen_07" suffix="27" />
+        <Object id="screen_08" suffix="26" />
+        <Object id="screen_09" suffix="26" />
+        <Object id="screen_10" suffix="26" />
+        <Object id="screen_11" suffix="26" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk01_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="55" />
+        <Object id="screen_01" suffix="55" />
+        <Object id="screen_02" suffix="55" />
+        <Object id="screen_03" suffix="55" />
+        <Object id="screen_04" suffix="55" />
+        <Object id="screen_05" suffix="55" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk01_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="54" />
+        <Object id="screen_01" suffix="54" />
+        <Object id="screen_02" suffix="54" />
+        <Object id="screen_03" suffix="54" />
+        <Object id="screen_04" suffix="54" />
+        <Object id="screen_05" suffix="54" />
+        <Object id="screen_06" suffix="28" />
+        <Object id="screen_07" suffix="28" />
+        <Object id="screen_08" suffix="27" />
+        <Object id="screen_09" suffix="27" />
+        <Object id="screen_10" suffix="27" />
+        <Object id="screen_11" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk05_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="57" />
+        <Object id="screen_01" suffix="57" />
+        <Object id="screen_02" suffix="57" />
+        <Object id="screen_03" suffix="57" />
+        <Object id="screen_04" suffix="57" />
+        <Object id="screen_05" suffix="57" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk05_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="56" />
+        <Object id="screen_01" suffix="56" />
+        <Object id="screen_02" suffix="56" />
+        <Object id="screen_03" suffix="56" />
+        <Object id="screen_04" suffix="56" />
+        <Object id="screen_05" suffix="56" />
+        <Object id="screen_06" suffix="29" />
+        <Object id="screen_07" suffix="29" />
+        <Object id="screen_08" suffix="28" />
+        <Object id="screen_09" suffix="28" />
+        <Object id="screen_10" suffix="28" />
+        <Object id="screen_11" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk09_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="59" />
+        <Object id="screen_01" suffix="59" />
+        <Object id="screen_02" suffix="59" />
+        <Object id="screen_03" suffix="59" />
+        <Object id="screen_04" suffix="59" />
+        <Object id="screen_05" suffix="59" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk09_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="58" />
+        <Object id="screen_01" suffix="58" />
+        <Object id="screen_02" suffix="58" />
+        <Object id="screen_03" suffix="58" />
+        <Object id="screen_04" suffix="58" />
+        <Object id="screen_05" suffix="58" />
+        <Object id="screen_06" suffix="30" />
+        <Object id="screen_07" suffix="30" />
+        <Object id="screen_08" suffix="29" />
+        <Object id="screen_09" suffix="29" />
+        <Object id="screen_10" suffix="29" />
+        <Object id="screen_11" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk10_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="61" />
+        <Object id="screen_01" suffix="61" />
+        <Object id="screen_02" suffix="61" />
+        <Object id="screen_03" suffix="61" />
+        <Object id="screen_04" suffix="61" />
+        <Object id="screen_05" suffix="61" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk10_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="60" />
+        <Object id="screen_01" suffix="60" />
+        <Object id="screen_02" suffix="60" />
+        <Object id="screen_03" suffix="60" />
+        <Object id="screen_04" suffix="60" />
+        <Object id="screen_05" suffix="60" />
+        <Object id="screen_06" suffix="31" />
+        <Object id="screen_07" suffix="31" />
+        <Object id="screen_08" suffix="30" />
+        <Object id="screen_09" suffix="30" />
+        <Object id="screen_10" suffix="30" />
+        <Object id="screen_11" suffix="30" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk10_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="63" />
+        <Object id="screen_01" suffix="63" />
+        <Object id="screen_02" suffix="63" />
+        <Object id="screen_03" suffix="63" />
+        <Object id="screen_04" suffix="63" />
+        <Object id="screen_05" suffix="63" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk10_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="62" />
+        <Object id="screen_01" suffix="62" />
+        <Object id="screen_02" suffix="62" />
+        <Object id="screen_03" suffix="62" />
+        <Object id="screen_04" suffix="62" />
+        <Object id="screen_05" suffix="62" />
+        <Object id="screen_06" suffix="32" />
+        <Object id="screen_07" suffix="32" />
+        <Object id="screen_08" suffix="31" />
+        <Object id="screen_09" suffix="31" />
+        <Object id="screen_10" suffix="31" />
+        <Object id="screen_11" suffix="31" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk13_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="65" />
+        <Object id="screen_01" suffix="65" />
+        <Object id="screen_02" suffix="65" />
+        <Object id="screen_03" suffix="65" />
+        <Object id="screen_04" suffix="65" />
+        <Object id="screen_05" suffix="65" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk13_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="64" />
+        <Object id="screen_01" suffix="64" />
+        <Object id="screen_02" suffix="64" />
+        <Object id="screen_03" suffix="64" />
+        <Object id="screen_04" suffix="64" />
+        <Object id="screen_05" suffix="64" />
+        <Object id="screen_06" suffix="33" />
+        <Object id="screen_07" suffix="33" />
+        <Object id="screen_08" suffix="32" />
+        <Object id="screen_09" suffix="32" />
+        <Object id="screen_10" suffix="32" />
+        <Object id="screen_11" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk15_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="67" />
+        <Object id="screen_01" suffix="67" />
+        <Object id="screen_02" suffix="67" />
+        <Object id="screen_03" suffix="67" />
+        <Object id="screen_04" suffix="67" />
+        <Object id="screen_05" suffix="67" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk15_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="66" />
+        <Object id="screen_01" suffix="66" />
+        <Object id="screen_02" suffix="66" />
+        <Object id="screen_03" suffix="66" />
+        <Object id="screen_04" suffix="66" />
+        <Object id="screen_05" suffix="66" />
+        <Object id="screen_06" suffix="34" />
+        <Object id="screen_07" suffix="34" />
+        <Object id="screen_08" suffix="33" />
+        <Object id="screen_09" suffix="33" />
+        <Object id="screen_10" suffix="33" />
+        <Object id="screen_11" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="69" />
+        <Object id="screen_01" suffix="69" />
+        <Object id="screen_02" suffix="69" />
+        <Object id="screen_03" suffix="69" />
+        <Object id="screen_04" suffix="69" />
+        <Object id="screen_05" suffix="69" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="68" />
+        <Object id="screen_01" suffix="68" />
+        <Object id="screen_02" suffix="68" />
+        <Object id="screen_03" suffix="68" />
+        <Object id="screen_04" suffix="68" />
+        <Object id="screen_05" suffix="68" />
+        <Object id="screen_06" suffix="35" />
+        <Object id="screen_07" suffix="35" />
+        <Object id="screen_08" suffix="34" />
+        <Object id="screen_09" suffix="34" />
+        <Object id="screen_10" suffix="34" />
+        <Object id="screen_11" suffix="34" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="71" />
+        <Object id="screen_01" suffix="71" />
+        <Object id="screen_02" suffix="71" />
+        <Object id="screen_03" suffix="71" />
+        <Object id="screen_04" suffix="71" />
+        <Object id="screen_05" suffix="71" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="70" />
+        <Object id="screen_01" suffix="70" />
+        <Object id="screen_02" suffix="70" />
+        <Object id="screen_03" suffix="70" />
+        <Object id="screen_04" suffix="70" />
+        <Object id="screen_05" suffix="70" />
+        <Object id="screen_06" suffix="36" />
+        <Object id="screen_07" suffix="36" />
+        <Object id="screen_08" suffix="35" />
+        <Object id="screen_09" suffix="35" />
+        <Object id="screen_10" suffix="35" />
+        <Object id="screen_11" suffix="35" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="73" />
+        <Object id="screen_01" suffix="73" />
+        <Object id="screen_02" suffix="73" />
+        <Object id="screen_03" suffix="73" />
+        <Object id="screen_04" suffix="73" />
+        <Object id="screen_05" suffix="73" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="72" />
+        <Object id="screen_01" suffix="72" />
+        <Object id="screen_02" suffix="72" />
+        <Object id="screen_03" suffix="72" />
+        <Object id="screen_04" suffix="72" />
+        <Object id="screen_05" suffix="72" />
+        <Object id="screen_06" suffix="37" />
+        <Object id="screen_07" suffix="37" />
+        <Object id="screen_08" suffix="36" />
+        <Object id="screen_09" suffix="36" />
+        <Object id="screen_10" suffix="36" />
+        <Object id="screen_11" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_04_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="75" />
+        <Object id="screen_01" suffix="75" />
+        <Object id="screen_02" suffix="75" />
+        <Object id="screen_03" suffix="75" />
+        <Object id="screen_04" suffix="75" />
+        <Object id="screen_05" suffix="75" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_04.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="74" />
+        <Object id="screen_01" suffix="74" />
+        <Object id="screen_02" suffix="74" />
+        <Object id="screen_03" suffix="74" />
+        <Object id="screen_04" suffix="74" />
+        <Object id="screen_05" suffix="74" />
+        <Object id="screen_06" suffix="38" />
+        <Object id="screen_07" suffix="38" />
+        <Object id="screen_08" suffix="37" />
+        <Object id="screen_09" suffix="37" />
+        <Object id="screen_10" suffix="37" />
+        <Object id="screen_11" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_05_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="77" />
+        <Object id="screen_01" suffix="77" />
+        <Object id="screen_02" suffix="77" />
+        <Object id="screen_03" suffix="77" />
+        <Object id="screen_04" suffix="77" />
+        <Object id="screen_05" suffix="77" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_05.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="76" />
+        <Object id="screen_01" suffix="76" />
+        <Object id="screen_02" suffix="76" />
+        <Object id="screen_03" suffix="76" />
+        <Object id="screen_04" suffix="76" />
+        <Object id="screen_05" suffix="76" />
+        <Object id="screen_06" suffix="39" />
+        <Object id="screen_07" suffix="39" />
+        <Object id="screen_08" suffix="38" />
+        <Object id="screen_09" suffix="38" />
+        <Object id="screen_10" suffix="38" />
+        <Object id="screen_11" suffix="38" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_06_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="79" />
+        <Object id="screen_01" suffix="79" />
+        <Object id="screen_02" suffix="79" />
+        <Object id="screen_03" suffix="79" />
+        <Object id="screen_04" suffix="79" />
+        <Object id="screen_05" suffix="79" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk17_06.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="78" />
+        <Object id="screen_01" suffix="78" />
+        <Object id="screen_02" suffix="78" />
+        <Object id="screen_03" suffix="78" />
+        <Object id="screen_04" suffix="78" />
+        <Object id="screen_05" suffix="78" />
+        <Object id="screen_06" suffix="40" />
+        <Object id="screen_07" suffix="40" />
+        <Object id="screen_08" suffix="39" />
+        <Object id="screen_09" suffix="39" />
+        <Object id="screen_10" suffix="39" />
+        <Object id="screen_11" suffix="39" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk18_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="81" />
+        <Object id="screen_01" suffix="81" />
+        <Object id="screen_02" suffix="81" />
+        <Object id="screen_03" suffix="81" />
+        <Object id="screen_04" suffix="81" />
+        <Object id="screen_05" suffix="81" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk18_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="80" />
+        <Object id="screen_01" suffix="80" />
+        <Object id="screen_02" suffix="80" />
+        <Object id="screen_03" suffix="80" />
+        <Object id="screen_04" suffix="80" />
+        <Object id="screen_05" suffix="80" />
+        <Object id="screen_06" suffix="41" />
+        <Object id="screen_07" suffix="41" />
+        <Object id="screen_08" suffix="40" />
+        <Object id="screen_09" suffix="40" />
+        <Object id="screen_10" suffix="40" />
+        <Object id="screen_11" suffix="40" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="83" />
+        <Object id="screen_01" suffix="83" />
+        <Object id="screen_02" suffix="83" />
+        <Object id="screen_03" suffix="83" />
+        <Object id="screen_04" suffix="83" />
+        <Object id="screen_05" suffix="83" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="82" />
+        <Object id="screen_01" suffix="82" />
+        <Object id="screen_02" suffix="82" />
+        <Object id="screen_03" suffix="82" />
+        <Object id="screen_04" suffix="82" />
+        <Object id="screen_05" suffix="82" />
+        <Object id="screen_06" suffix="42" />
+        <Object id="screen_07" suffix="42" />
+        <Object id="screen_08" suffix="41" />
+        <Object id="screen_09" suffix="41" />
+        <Object id="screen_10" suffix="41" />
+        <Object id="screen_11" suffix="41" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="85" />
+        <Object id="screen_01" suffix="85" />
+        <Object id="screen_02" suffix="85" />
+        <Object id="screen_03" suffix="85" />
+        <Object id="screen_04" suffix="85" />
+        <Object id="screen_05" suffix="85" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="84" />
+        <Object id="screen_01" suffix="84" />
+        <Object id="screen_02" suffix="84" />
+        <Object id="screen_03" suffix="84" />
+        <Object id="screen_04" suffix="84" />
+        <Object id="screen_05" suffix="84" />
+        <Object id="screen_06" suffix="43" />
+        <Object id="screen_07" suffix="43" />
+        <Object id="screen_08" suffix="42" />
+        <Object id="screen_09" suffix="42" />
+        <Object id="screen_10" suffix="42" />
+        <Object id="screen_11" suffix="42" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="87" />
+        <Object id="screen_01" suffix="87" />
+        <Object id="screen_02" suffix="87" />
+        <Object id="screen_03" suffix="87" />
+        <Object id="screen_04" suffix="87" />
+        <Object id="screen_05" suffix="87" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk19_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="86" />
+        <Object id="screen_01" suffix="86" />
+        <Object id="screen_02" suffix="86" />
+        <Object id="screen_03" suffix="86" />
+        <Object id="screen_04" suffix="86" />
+        <Object id="screen_05" suffix="86" />
+        <Object id="screen_06" suffix="44" />
+        <Object id="screen_07" suffix="44" />
+        <Object id="screen_08" suffix="43" />
+        <Object id="screen_09" suffix="43" />
+        <Object id="screen_10" suffix="43" />
+        <Object id="screen_11" suffix="43" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk21_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="89" />
+        <Object id="screen_01" suffix="89" />
+        <Object id="screen_02" suffix="89" />
+        <Object id="screen_03" suffix="89" />
+        <Object id="screen_04" suffix="89" />
+        <Object id="screen_05" suffix="89" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk21_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="88" />
+        <Object id="screen_01" suffix="88" />
+        <Object id="screen_02" suffix="88" />
+        <Object id="screen_03" suffix="88" />
+        <Object id="screen_04" suffix="88" />
+        <Object id="screen_05" suffix="88" />
+        <Object id="screen_06" suffix="45" />
+        <Object id="screen_07" suffix="45" />
+        <Object id="screen_08" suffix="44" />
+        <Object id="screen_09" suffix="44" />
+        <Object id="screen_10" suffix="44" />
+        <Object id="screen_11" suffix="44" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk22_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="91" />
+        <Object id="screen_01" suffix="91" />
+        <Object id="screen_02" suffix="91" />
+        <Object id="screen_03" suffix="91" />
+        <Object id="screen_04" suffix="91" />
+        <Object id="screen_05" suffix="91" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk22_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="90" />
+        <Object id="screen_01" suffix="90" />
+        <Object id="screen_02" suffix="90" />
+        <Object id="screen_03" suffix="90" />
+        <Object id="screen_04" suffix="90" />
+        <Object id="screen_05" suffix="90" />
+        <Object id="screen_06" suffix="46" />
+        <Object id="screen_07" suffix="46" />
+        <Object id="screen_08" suffix="45" />
+        <Object id="screen_09" suffix="45" />
+        <Object id="screen_10" suffix="45" />
+        <Object id="screen_11" suffix="45" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk25_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="93" />
+        <Object id="screen_01" suffix="93" />
+        <Object id="screen_02" suffix="93" />
+        <Object id="screen_03" suffix="93" />
+        <Object id="screen_04" suffix="93" />
+        <Object id="screen_05" suffix="93" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk25_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="92" />
+        <Object id="screen_01" suffix="92" />
+        <Object id="screen_02" suffix="92" />
+        <Object id="screen_03" suffix="92" />
+        <Object id="screen_04" suffix="92" />
+        <Object id="screen_05" suffix="92" />
+        <Object id="screen_06" suffix="47" />
+        <Object id="screen_07" suffix="47" />
+        <Object id="screen_08" suffix="46" />
+        <Object id="screen_09" suffix="46" />
+        <Object id="screen_10" suffix="46" />
+        <Object id="screen_11" suffix="46" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk25_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="95" />
+        <Object id="screen_01" suffix="95" />
+        <Object id="screen_02" suffix="95" />
+        <Object id="screen_03" suffix="95" />
+        <Object id="screen_04" suffix="95" />
+        <Object id="screen_05" suffix="95" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk25_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="94" />
+        <Object id="screen_01" suffix="94" />
+        <Object id="screen_02" suffix="94" />
+        <Object id="screen_03" suffix="94" />
+        <Object id="screen_04" suffix="94" />
+        <Object id="screen_05" suffix="94" />
+        <Object id="screen_06" suffix="48" />
+        <Object id="screen_07" suffix="48" />
+        <Object id="screen_08" suffix="47" />
+        <Object id="screen_09" suffix="47" />
+        <Object id="screen_10" suffix="47" />
+        <Object id="screen_11" suffix="47" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk26_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="97" />
+        <Object id="screen_01" suffix="97" />
+        <Object id="screen_02" suffix="97" />
+        <Object id="screen_03" suffix="97" />
+        <Object id="screen_04" suffix="97" />
+        <Object id="screen_05" suffix="97" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk26_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="96" />
+        <Object id="screen_01" suffix="96" />
+        <Object id="screen_02" suffix="96" />
+        <Object id="screen_03" suffix="96" />
+        <Object id="screen_04" suffix="96" />
+        <Object id="screen_05" suffix="96" />
+        <Object id="screen_06" suffix="49" />
+        <Object id="screen_07" suffix="49" />
+        <Object id="screen_08" suffix="48" />
+        <Object id="screen_09" suffix="48" />
+        <Object id="screen_10" suffix="48" />
+        <Object id="screen_11" suffix="48" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk27_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="99" />
+        <Object id="screen_01" suffix="99" />
+        <Object id="screen_02" suffix="99" />
+        <Object id="screen_03" suffix="99" />
+        <Object id="screen_04" suffix="99" />
+        <Object id="screen_05" suffix="99" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk27_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="98" />
+        <Object id="screen_01" suffix="98" />
+        <Object id="screen_02" suffix="98" />
+        <Object id="screen_03" suffix="98" />
+        <Object id="screen_04" suffix="98" />
+        <Object id="screen_05" suffix="98" />
+        <Object id="screen_06" suffix="50" />
+        <Object id="screen_07" suffix="50" />
+        <Object id="screen_08" suffix="49" />
+        <Object id="screen_09" suffix="49" />
+        <Object id="screen_10" suffix="49" />
+        <Object id="screen_11" suffix="49" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk27_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="101" />
+        <Object id="screen_01" suffix="101" />
+        <Object id="screen_02" suffix="101" />
+        <Object id="screen_03" suffix="101" />
+        <Object id="screen_04" suffix="101" />
+        <Object id="screen_05" suffix="101" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk27_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="100" />
+        <Object id="screen_01" suffix="100" />
+        <Object id="screen_02" suffix="100" />
+        <Object id="screen_03" suffix="100" />
+        <Object id="screen_04" suffix="100" />
+        <Object id="screen_05" suffix="100" />
+        <Object id="screen_06" suffix="51" />
+        <Object id="screen_07" suffix="51" />
+        <Object id="screen_08" suffix="50" />
+        <Object id="screen_09" suffix="50" />
+        <Object id="screen_10" suffix="50" />
+        <Object id="screen_11" suffix="50" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk30_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="103" />
+        <Object id="screen_01" suffix="103" />
+        <Object id="screen_02" suffix="103" />
+        <Object id="screen_03" suffix="103" />
+        <Object id="screen_04" suffix="103" />
+        <Object id="screen_05" suffix="103" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk30_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="102" />
+        <Object id="screen_01" suffix="102" />
+        <Object id="screen_02" suffix="102" />
+        <Object id="screen_03" suffix="102" />
+        <Object id="screen_04" suffix="102" />
+        <Object id="screen_05" suffix="102" />
+        <Object id="screen_06" suffix="52" />
+        <Object id="screen_07" suffix="52" />
+        <Object id="screen_08" suffix="51" />
+        <Object id="screen_09" suffix="51" />
+        <Object id="screen_10" suffix="51" />
+        <Object id="screen_11" suffix="51" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk31_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="105" />
+        <Object id="screen_01" suffix="105" />
+        <Object id="screen_02" suffix="105" />
+        <Object id="screen_03" suffix="105" />
+        <Object id="screen_04" suffix="105" />
+        <Object id="screen_05" suffix="105" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk31_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="104" />
+        <Object id="screen_01" suffix="104" />
+        <Object id="screen_02" suffix="104" />
+        <Object id="screen_03" suffix="104" />
+        <Object id="screen_04" suffix="104" />
+        <Object id="screen_05" suffix="104" />
+        <Object id="screen_06" suffix="53" />
+        <Object id="screen_07" suffix="53" />
+        <Object id="screen_08" suffix="52" />
+        <Object id="screen_09" suffix="52" />
+        <Object id="screen_10" suffix="52" />
+        <Object id="screen_11" suffix="52" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk31_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="107" />
+        <Object id="screen_01" suffix="107" />
+        <Object id="screen_02" suffix="107" />
+        <Object id="screen_03" suffix="107" />
+        <Object id="screen_04" suffix="107" />
+        <Object id="screen_05" suffix="107" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk31_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="106" />
+        <Object id="screen_01" suffix="106" />
+        <Object id="screen_02" suffix="106" />
+        <Object id="screen_03" suffix="106" />
+        <Object id="screen_04" suffix="106" />
+        <Object id="screen_05" suffix="106" />
+        <Object id="screen_06" suffix="54" />
+        <Object id="screen_07" suffix="54" />
+        <Object id="screen_08" suffix="53" />
+        <Object id="screen_09" suffix="53" />
+        <Object id="screen_10" suffix="53" />
+        <Object id="screen_11" suffix="53" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk32_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="109" />
+        <Object id="screen_01" suffix="109" />
+        <Object id="screen_02" suffix="109" />
+        <Object id="screen_03" suffix="109" />
+        <Object id="screen_04" suffix="109" />
+        <Object id="screen_05" suffix="109" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk32_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="108" />
+        <Object id="screen_01" suffix="108" />
+        <Object id="screen_02" suffix="108" />
+        <Object id="screen_03" suffix="108" />
+        <Object id="screen_04" suffix="108" />
+        <Object id="screen_05" suffix="108" />
+        <Object id="screen_06" suffix="55" />
+        <Object id="screen_07" suffix="55" />
+        <Object id="screen_08" suffix="54" />
+        <Object id="screen_09" suffix="54" />
+        <Object id="screen_10" suffix="54" />
+        <Object id="screen_11" suffix="54" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk33_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="111" />
+        <Object id="screen_01" suffix="111" />
+        <Object id="screen_02" suffix="111" />
+        <Object id="screen_03" suffix="111" />
+        <Object id="screen_04" suffix="111" />
+        <Object id="screen_05" suffix="111" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk33_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="110" />
+        <Object id="screen_01" suffix="110" />
+        <Object id="screen_02" suffix="110" />
+        <Object id="screen_03" suffix="110" />
+        <Object id="screen_04" suffix="110" />
+        <Object id="screen_05" suffix="110" />
+        <Object id="screen_06" suffix="56" />
+        <Object id="screen_07" suffix="56" />
+        <Object id="screen_08" suffix="55" />
+        <Object id="screen_09" suffix="55" />
+        <Object id="screen_10" suffix="55" />
+        <Object id="screen_11" suffix="55" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="113" />
+        <Object id="screen_01" suffix="113" />
+        <Object id="screen_02" suffix="113" />
+        <Object id="screen_03" suffix="113" />
+        <Object id="screen_04" suffix="113" />
+        <Object id="screen_05" suffix="113" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="112" />
+        <Object id="screen_01" suffix="112" />
+        <Object id="screen_02" suffix="112" />
+        <Object id="screen_03" suffix="112" />
+        <Object id="screen_04" suffix="112" />
+        <Object id="screen_05" suffix="112" />
+        <Object id="screen_06" suffix="57" />
+        <Object id="screen_07" suffix="57" />
+        <Object id="screen_08" suffix="56" />
+        <Object id="screen_09" suffix="56" />
+        <Object id="screen_10" suffix="56" />
+        <Object id="screen_11" suffix="56" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_02_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="115" />
+        <Object id="screen_01" suffix="115" />
+        <Object id="screen_02" suffix="115" />
+        <Object id="screen_03" suffix="115" />
+        <Object id="screen_04" suffix="115" />
+        <Object id="screen_05" suffix="115" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_02.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="114" />
+        <Object id="screen_01" suffix="114" />
+        <Object id="screen_02" suffix="114" />
+        <Object id="screen_03" suffix="114" />
+        <Object id="screen_04" suffix="114" />
+        <Object id="screen_05" suffix="114" />
+        <Object id="screen_06" suffix="58" />
+        <Object id="screen_07" suffix="58" />
+        <Object id="screen_08" suffix="57" />
+        <Object id="screen_09" suffix="57" />
+        <Object id="screen_10" suffix="57" />
+        <Object id="screen_11" suffix="57" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_03_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="117" />
+        <Object id="screen_01" suffix="117" />
+        <Object id="screen_02" suffix="117" />
+        <Object id="screen_03" suffix="117" />
+        <Object id="screen_04" suffix="117" />
+        <Object id="screen_05" suffix="117" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk35_03.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="116" />
+        <Object id="screen_01" suffix="116" />
+        <Object id="screen_02" suffix="116" />
+        <Object id="screen_03" suffix="116" />
+        <Object id="screen_04" suffix="116" />
+        <Object id="screen_05" suffix="116" />
+        <Object id="screen_06" suffix="59" />
+        <Object id="screen_07" suffix="59" />
+        <Object id="screen_08" suffix="58" />
+        <Object id="screen_09" suffix="58" />
+        <Object id="screen_10" suffix="58" />
+        <Object id="screen_11" suffix="58" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk44_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="119" />
+        <Object id="screen_01" suffix="119" />
+        <Object id="screen_02" suffix="119" />
+        <Object id="screen_03" suffix="119" />
+        <Object id="screen_04" suffix="119" />
+        <Object id="screen_05" suffix="119" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk44_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="118" />
+        <Object id="screen_01" suffix="118" />
+        <Object id="screen_02" suffix="118" />
+        <Object id="screen_03" suffix="118" />
+        <Object id="screen_04" suffix="118" />
+        <Object id="screen_05" suffix="118" />
+        <Object id="screen_06" suffix="60" />
+        <Object id="screen_07" suffix="60" />
+        <Object id="screen_08" suffix="59" />
+        <Object id="screen_09" suffix="59" />
+        <Object id="screen_10" suffix="59" />
+        <Object id="screen_11" suffix="59" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk47_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="121" />
+        <Object id="screen_01" suffix="121" />
+        <Object id="screen_02" suffix="121" />
+        <Object id="screen_03" suffix="121" />
+        <Object id="screen_04" suffix="121" />
+        <Object id="screen_05" suffix="121" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk47_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="120" />
+        <Object id="screen_01" suffix="120" />
+        <Object id="screen_02" suffix="120" />
+        <Object id="screen_03" suffix="120" />
+        <Object id="screen_04" suffix="120" />
+        <Object id="screen_05" suffix="120" />
+        <Object id="screen_06" suffix="61" />
+        <Object id="screen_07" suffix="61" />
+        <Object id="screen_08" suffix="60" />
+        <Object id="screen_09" suffix="60" />
+        <Object id="screen_10" suffix="60" />
+        <Object id="screen_11" suffix="60" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk54_01_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="123" />
+        <Object id="screen_01" suffix="123" />
+        <Object id="screen_02" suffix="123" />
+        <Object id="screen_03" suffix="123" />
+        <Object id="screen_04" suffix="123" />
+        <Object id="screen_05" suffix="123" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_mk54_01.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="122" />
+        <Object id="screen_01" suffix="122" />
+        <Object id="screen_02" suffix="122" />
+        <Object id="screen_03" suffix="122" />
+        <Object id="screen_04" suffix="122" />
+        <Object id="screen_05" suffix="122" />
+        <Object id="screen_06" suffix="62" />
+        <Object id="screen_07" suffix="62" />
+        <Object id="screen_08" suffix="61" />
+        <Object id="screen_09" suffix="61" />
+        <Object id="screen_10" suffix="61" />
+        <Object id="screen_11" suffix="61" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_n.xxx" />
+    <Package path="asset\loadscreen_playerselect_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="125" />
+        <Object id="screen_01" suffix="125" />
+        <Object id="screen_02" suffix="125" />
+        <Object id="screen_03" suffix="125" />
+        <Object id="screen_04" suffix="125" />
+        <Object id="screen_05" suffix="125" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen_playerselect.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="screen_00" suffix="124" />
+        <Object id="screen_01" suffix="124" />
+        <Object id="screen_02" suffix="124" />
+        <Object id="screen_03" suffix="124" />
+        <Object id="screen_04" suffix="124" />
+        <Object id="screen_05" suffix="124" />
+        <Object id="screen_06" suffix="63" />
+        <Object id="screen_07" suffix="63" />
+        <Object id="screen_08" suffix="62" />
+        <Object id="screen_09" suffix="62" />
+        <Object id="screen_10" suffix="62" />
+        <Object id="screen_11" suffix="62" />
+      </Objects>
+    </Package>
+    <Package path="asset\loadscreen.xxx" />
+    <Package path="asset\localizedart_eng.xxx" />
+    <Package path="asset\localizedart_fre.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BREAKER" suffix="1" />
+        <Object id="breaker_lr" suffix="1" />
+        <Object id="FIRSTHIT" suffix="1" />
+        <Object id="FIRSTHIT_lr" suffix="1" />
+        <Object id="KOUNTER" suffix="1" />
+        <Object id="KOUNTER_lr" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\localizedart_ger.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BREAKER" suffix="2" />
+        <Object id="breaker_lr" suffix="2" />
+        <Object id="FIRSTHIT" suffix="2" />
+        <Object id="FIRSTHIT_lr" suffix="2" />
+        <Object id="KOUNTER" suffix="2" />
+        <Object id="KOUNTER_lr" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\localizedart_ita.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BREAKER" suffix="3" />
+        <Object id="breaker_lr" suffix="3" />
+        <Object id="FIRSTHIT" suffix="3" />
+        <Object id="FIRSTHIT_lr" suffix="3" />
+        <Object id="KOUNTER" suffix="3" />
+        <Object id="KOUNTER_lr" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="asset\localizedart_spa.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BREAKER" suffix="4" />
+        <Object id="breaker_lr" suffix="4" />
+        <Object id="FIRSTHIT" suffix="4" />
+        <Object id="FIRSTHIT_lr" suffix="4" />
+        <Object id="KOUNTER" suffix="4" />
+        <Object id="KOUNTER_lr" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="asset\mk001-mk010.xxx" />
+    <Package path="asset\mk011-mk020.xxx" />
+    <Package path="asset\mk021-mk030.xxx" />
+    <Package path="asset\mk031-mk040.xxx" />
+    <Package path="asset\mk041-mk050.xxx" />
+    <Package path="asset\mk051-mk060.xxx" />
+    <Package path="asset\mk8_fx_environmentmatlibrary.xxx" />
+    <Package path="asset\mk8game.xxx" />
+    <Package path="asset\mwycinema.xxx" />
+    <Package path="asset\mwyengine.xxx" />
+    <Package path="asset\mwygraphics.xxx" />
+    <Package path="asset\mwymovieplayer.xxx" />
+    <Package path="asset\mwyui.xxx" />
+    <Package path="asset\reverbpresets.xxx" />
+    <Package path="asset\snd_fightfx1.xxx" />
+    <Package path="asset\snd_foley_cape.xxx" />
+    <Package path="asset\snd_foley_cloth.xxx" />
+    <Package path="asset\snd_foley_dkkn.xxx" />
+    <Package path="asset\snd_foley_leather.xxx" />
+    <Package path="asset\snd_foley_lite_equip.xxx" />
+    <Package path="asset\snd_foley_metal.xxx" />
+    <Package path="asset\snd_mus_apokolips.xxx" />
+    <Package path="asset\snd_mus_batcave.xxx" />
+    <Package path="asset\snd_mus_fatality.xxx" />
+    <Package path="asset\snd_mus_fortress.xxx" />
+    <Package path="asset\snd_mus_gothamcity.xxx" />
+    <Package path="asset\snd_mus_graveyard.xxx" />
+    <Package path="asset\snd_mus_hell.xxx" />
+    <Package path="asset\snd_mus_island.xxx" />
+    <Package path="asset\snd_mus_metropolis.xxx" />
+    <Package path="asset\snd_mus_oansenate.xxx" />
+    <Package path="asset\snd_mus_spacestation.xxx" />
+    <Package path="asset\snd_mus_specialforces.xxx" />
+    <Package path="asset\snd_mus_temple.xxx" />
+    <Package path="asset\snd_mus_throneroom.xxx" />
+    <Package path="asset\snd_mus_ui.xxx" />
+    <Package path="asset\snd_mus_vo_endings_fra.xxx" />
+    <Package path="asset\snd_mus_vo_endings_ger.xxx" />
+    <Package path="asset\snd_mus_vo_endings_ita.xxx" />
+    <Package path="asset\snd_mus_vo_endings_spa.xxx" />
+    <Package path="asset\snd_mus_vo_endings.xxx" />
+    <Package path="asset\snd_mus_wushi.xxx" />
+    <Package path="asset\snd_sfx_apokolips.xxx" />
+    <Package path="asset\snd_sfx_bara.xxx" />
+    <Package path="asset\snd_sfx_batcave.xxx" />
+    <Package path="asset\snd_sfx_batm.xxx" />
+    <Package path="asset\snd_sfx_capt.xxx" />
+    <Package path="asset\snd_sfx_catw.xxx" />
+    <Package path="asset\snd_sfx_dark.xxx" />
+    <Package path="asset\snd_sfx_deat.xxx" />
+    <Package path="asset\snd_sfx_dkkn.xxx" />
+    <Package path="asset\snd_sfx_flas.xxx" />
+    <Package path="asset\snd_sfx_fortress.xxx" />
+    <Package path="asset\snd_sfx_gothamcity.xxx" />
+    <Package path="asset\snd_sfx_graveyard.xxx" />
+    <Package path="asset\snd_sfx_gree.xxx" />
+    <Package path="asset\snd_sfx_hell.xxx" />
+    <Package path="asset\snd_sfx_island.xxx" />
+    <Package path="asset\snd_sfx_jax.xxx" />
+    <Package path="asset\snd_sfx_joke.xxx" />
+    <Package path="asset\snd_sfx_kano.xxx" />
+    <Package path="asset\snd_sfx_kita.xxx" />
+    <Package path="asset\snd_sfx_lexl.xxx" />
+    <Package path="asset\snd_sfx_liuk.xxx" />
+    <Package path="asset\snd_sfx_met.xxx" />
+    <Package path="asset\snd_sfx_oansenate.xxx" />
+    <Package path="asset\snd_sfx_raid.xxx" />
+    <Package path="asset\snd_sfx_rooftop.xxx" />
+    <Package path="asset\snd_sfx_scor.xxx" />
+    <Package path="asset\snd_sfx_shan.xxx" />
+    <Package path="asset\snd_sfx_shao.xxx" />
+    <Package path="asset\snd_sfx_shaz.xxx" />
+    <Package path="asset\snd_sfx_sony.xxx" />
+    <Package path="asset\snd_sfx_spacestation.xxx" />
+    <Package path="asset\snd_sfx_spforces.xxx" />
+    <Package path="asset\snd_sfx_subz.xxx" />
+    <Package path="asset\snd_sfx_supe.xxx" />
+    <Package path="asset\snd_sfx_temple.xxx" />
+    <Package path="asset\snd_sfx_throneroom.xxx" />
+    <Package path="asset\snd_sfx_wond.xxx" />
+    <Package path="asset\snd_sfx_wushi.xxx" />
+    <Package path="asset\snd_surface_concrete.xxx" />
+    <Package path="asset\snd_surface_dirt.xxx" />
+    <Package path="asset\snd_surface_grass.xxx" />
+    <Package path="asset\snd_surface_grate.xxx" />
+    <Package path="asset\snd_surface_ice.xxx" />
+    <Package path="asset\snd_surface_mat.xxx" />
+    <Package path="asset\snd_surface_metal.xxx" />
+    <Package path="asset\snd_surface_plastic.xxx" />
+    <Package path="asset\snd_surface_tile.xxx" />
+    <Package path="asset\snd_surface_water.xxx" />
+    <Package path="asset\snd_ui_in_game.xxx" />
+    <Package path="asset\snd_ui_shell.xxx" />
+    <Package path="asset\snd_vo_anno_shell.xxx" />
+    <Package path="asset\snd_vo_anno.xxx" />
+    <Package path="asset\snd_vo_bara.xxx" />
+    <Package path="asset\snd_vo_batm.xxx" />
+    <Package path="asset\snd_vo_capt.xxx" />
+    <Package path="asset\snd_vo_catw.xxx" />
+    <Package path="asset\snd_vo_dark.xxx" />
+    <Package path="asset\snd_vo_dc003_deat_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc003_deat_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc003_deat_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc003_deat_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc003_deat_trans.xxx" />
+    <Package path="asset\snd_vo_dc005_catw_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc005_catw_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc005_catw_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc005_catw_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc005_catw_trans.xxx" />
+    <Package path="asset\snd_vo_dc006_flas_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc006_flas_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc006_flas_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc006_flas_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc006_flas_trans.xxx" />
+    <Package path="asset\snd_vo_dc009_scor_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc009_scor_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc009_scor_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc009_scor_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc009_scor_trans.xxx" />
+    <Package path="asset\snd_vo_dc011_batm_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc011_batm_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc011_batm_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc011_batm_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc011_batm_trans.xxx" />
+    <Package path="asset\snd_vo_dc012_liuk_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc012_liuk_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc012_liuk_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc012_liuk_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc012_liuk_trans.xxx" />
+    <Package path="asset\snd_vo_dc015_raid_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc015_raid_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc015_raid_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc015_raid_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc015_raid_trans.xxx" />
+    <Package path="asset\snd_vo_dc019_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc019_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc019_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc019_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc019_shan_trans.xxx" />
+    <Package path="asset\snd_vo_dc021_kita_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc021_kita_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc021_kita_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc021_kita_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc021_kita_trans.xxx" />
+    <Package path="asset\snd_vo_dc023_subz_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc023_subz_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc023_subz_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc023_subz_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc023_subz_trans.xxx" />
+    <Package path="asset\snd_vo_dc025_wond_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc025_wond_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc025_wond_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc025_wond_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc025_wond_trans.xxx" />
+    <Package path="asset\snd_vo_dc028_lexl_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc028_lexl_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc028_lexl_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc028_lexl_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc028_lexl_trans.xxx" />
+    <Package path="asset\snd_vo_dc031_jax_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc031_jax_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc031_jax_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc031_jax_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc031_jax_trans.xxx" />
+    <Package path="asset\snd_vo_dc032_gree_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc032_gree_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc032_gree_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc032_gree_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc032_gree_trans.xxx" />
+    <Package path="asset\snd_vo_dc034_capt_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc034_capt_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc034_capt_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc034_capt_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc034_capt_trans.xxx" />
+    <Package path="asset\snd_vo_dc037_scor_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc037_scor_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc037_scor_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc037_scor_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc037_scor_trans.xxx" />
+    <Package path="asset\snd_vo_dc038_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc038_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc038_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc038_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc038_shan_trans.xxx" />
+    <Package path="asset\snd_vo_dc039_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc039_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc039_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc039_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc039_shan_trans.xxx" />
+    <Package path="asset\snd_vo_dc043_joke_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc043_joke_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc043_joke_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc043_joke_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc043_joke_trans.xxx" />
+    <Package path="asset\snd_vo_dc044_joke_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc044_joke_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc044_joke_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc044_joke_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc044_joke_trans.xxx" />
+    <Package path="asset\snd_vo_dc046_joke_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc046_joke_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc046_joke_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc046_joke_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc046_joke_trans.xxx" />
+    <Package path="asset\snd_vo_dc048_joke_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc048_joke_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc048_joke_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc048_joke_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc048_joke_trans.xxx" />
+    <Package path="asset\snd_vo_dc051_lexl_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc051_lexl_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc051_lexl_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc051_lexl_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc051_lexl_trans.xxx" />
+    <Package path="asset\snd_vo_dc053_lexl_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc053_lexl_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc053_lexl_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc053_lexl_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc053_lexl_trans.xxx" />
+    <Package path="asset\snd_vo_dc054_flas_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc054_flas_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc054_flas_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc054_flas_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc054_flas_trans.xxx" />
+    <Package path="asset\snd_vo_dc057_lexl_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc057_lexl_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc057_lexl_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc057_lexl_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc057_lexl_trans.xxx" />
+    <Package path="asset\snd_vo_dc058_batm_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc058_batm_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc058_batm_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc058_batm_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc058_batm_trans.xxx" />
+    <Package path="asset\snd_vo_dc060_supe_trans_fra.xxx" />
+    <Package path="asset\snd_vo_dc060_supe_trans_ger.xxx" />
+    <Package path="asset\snd_vo_dc060_supe_trans_ita.xxx" />
+    <Package path="asset\snd_vo_dc060_supe_trans_spa.xxx" />
+    <Package path="asset\snd_vo_dc060_supe_trans.xxx" />
+    <Package path="asset\snd_vo_deat.xxx" />
+    <Package path="asset\snd_vo_dkkn.xxx" />
+    <Package path="asset\snd_vo_flas.xxx" />
+    <Package path="asset\snd_vo_gree.xxx" />
+    <Package path="asset\snd_vo_jax.xxx" />
+    <Package path="asset\snd_vo_joke.xxx" />
+    <Package path="asset\snd_vo_kano.xxx" />
+    <Package path="asset\snd_vo_kita.xxx" />
+    <Package path="asset\snd_vo_lexl.xxx" />
+    <Package path="asset\snd_vo_liuk.xxx" />
+    <Package path="asset\snd_vo_mk003_subz_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk003_subz_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk003_subz_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk003_subz_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk003_subz_trans.xxx" />
+    <Package path="asset\snd_vo_mk004_scor_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk004_scor_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk004_scor_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk004_scor_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk004_scor_trans.xxx" />
+    <Package path="asset\snd_vo_mk005_liuk_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk005_liuk_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk005_liuk_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk005_liuk_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk005_liuk_trans.xxx" />
+    <Package path="asset\snd_vo_mk007_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk007_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk007_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk007_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk007_shan_trans.xxx" />
+    <Package path="asset\snd_vo_mk009_catw_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk009_catw_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk009_catw_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk009_catw_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk009_catw_trans.xxx" />
+    <Package path="asset\snd_vo_mk011_bara_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk011_bara_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk011_bara_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk011_bara_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk011_bara_trans.xxx" />
+    <Package path="asset\snd_vo_mk014_sony_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk014_sony_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk014_sony_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk014_sony_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk014_sony_trans.xxx" />
+    <Package path="asset\snd_vo_mk015_sony_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk015_sony_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk015_sony_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk015_sony_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk015_sony_trans.xxx" />
+    <Package path="asset\snd_vo_mk017_lexl_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk017_lexl_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk017_lexl_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk017_lexl_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk017_lexl_trans.xxx" />
+    <Package path="asset\snd_vo_mk019_jax_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk019_jax_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk019_jax_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk019_jax_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk019_jax_trans.xxx" />
+    <Package path="asset\snd_vo_mk020_wond_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk020_wond_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk020_wond_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk020_wond_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk020_wond_trans.xxx" />
+    <Package path="asset\snd_vo_mk022_raid_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk022_raid_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk022_raid_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk022_raid_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk022_raid_trans.xxx" />
+    <Package path="asset\snd_vo_mk025_deat_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk025_deat_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk025_deat_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk025_deat_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk025_deat_trans.xxx" />
+    <Package path="asset\snd_vo_mk027_subz_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk027_subz_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk027_subz_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk027_subz_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk027_subz_trans.xxx" />
+    <Package path="asset\snd_vo_mk031_scor_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk031_scor_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk031_scor_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk031_scor_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk031_scor_trans.xxx" />
+    <Package path="asset\snd_vo_mk035_scor_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk035_scor_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk035_scor_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk035_scor_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk035_scor_trans.xxx" />
+    <Package path="asset\snd_vo_mk036_kita_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk036_kita_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk036_kita_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk036_kita_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk036_kita_trans.xxx" />
+    <Package path="asset\snd_vo_mk044_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk044_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk044_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk044_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk044_shan_trans.xxx" />
+    <Package path="asset\snd_vo_mk045_liuk_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk045_liuk_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk045_liuk_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk045_liuk_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk045_liuk_trans.xxx" />
+    <Package path="asset\snd_vo_mk046_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk046_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk046_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk046_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk046_shan_trans.xxx" />
+    <Package path="asset\snd_vo_mk048_shan_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk048_shan_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk048_shan_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk048_shan_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk048_shan_trans.xxx" />
+    <Package path="asset\snd_vo_mk051_raid_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk051_raid_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk051_raid_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk051_raid_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk051_raid_trans.xxx" />
+    <Package path="asset\snd_vo_mk052_raid_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk052_raid_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk052_raid_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk052_raid_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk052_raid_trans.xxx" />
+    <Package path="asset\snd_vo_mk054_supe_trans_fra.xxx" />
+    <Package path="asset\snd_vo_mk054_supe_trans_ger.xxx" />
+    <Package path="asset\snd_vo_mk054_supe_trans_ita.xxx" />
+    <Package path="asset\snd_vo_mk054_supe_trans_spa.xxx" />
+    <Package path="asset\snd_vo_mk054_supe_trans.xxx" />
+    <Package path="asset\snd_vo_raid.xxx" />
+    <Package path="asset\snd_vo_scor.xxx" />
+    <Package path="asset\snd_vo_shan.xxx" />
+    <Package path="asset\snd_vo_shao.xxx" />
+    <Package path="asset\snd_vo_sony.xxx" />
+    <Package path="asset\snd_vo_subz.xxx" />
+    <Package path="asset\snd_vo_supe.xxx" />
+    <Package path="asset\snd_vo_wond.xxx" />
+    <Package path="asset\startup.xxx" />
+    <Package path="asset\systemart.xxx" />
+    <Package path="asset\testscreen.xxx" />
+    <Package path="asset\ui_c_box_2options.xxx" />
+    <Package path="asset\ui_c_buttonlib_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Accept" suffix="1" />
+        <Object id="Alert" suffix="1" />
+        <Object id="back" suffix="1" />
+        <Object id="Comma" suffix="1" />
+        <Object id="DDown" suffix="1" />
+        <Object id="DLeft" suffix="1" />
+        <Object id="DRight" suffix="1" />
+        <Object id="DUp" suffix="1" />
+        <Object id="hand2hand" suffix="1" />
+        <Object id="Jump" suffix="1" />
+        <Object id="jump_f" suffix="1" />
+        <Object id="LShoulder" suffix="1" />
+        <Object id="LThumb" suffix="1" />
+        <Object id="Lthumb_UD" suffix="1" />
+        <Object id="LTrigger" suffix="1" />
+        <Object id="minus" suffix="1" />
+        <Object id="plus" suffix="1" />
+        <Object id="RLeft" suffix="1" />
+        <Object id="RShoulder" suffix="1" />
+        <Object id="RThumb" suffix="1" />
+        <Object id="Rthumb_LR" suffix="1" />
+        <Object id="Rthumb_UD" suffix="1" />
+        <Object id="RTrigger" suffix="1" />
+        <Object id="RUp" suffix="1" />
+        <Object id="Select" suffix="1" />
+        <Object id="Start" suffix="1" />
+        <Object id="weapon" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_c_buttonlib.xxx" />
+    <Package path="asset\ui_c_fade_in.xxx" />
+    <Package path="asset\ui_c_fade_out.xxx" />
+    <Package path="asset\ui_c_msg_box_lg_n.xxx" />
+    <Package path="asset\ui_c_msg_box_lg.xxx" />
+    <Package path="asset\ui_c_msg_box_med_n.xxx" />
+    <Package path="asset\ui_c_msg_box_med.xxx" />
+    <Package path="asset\ui_c_msg_box_side_n.xxx" />
+    <Package path="asset\ui_c_msg_box_side.xxx" />
+    <Package path="asset\ui_c_msg_box_small_n.xxx" />
+    <Package path="asset\ui_c_msg_box_small.xxx" />
+    <Package path="asset\ui_c_white_fade_in.xxx" />
+    <Package path="asset\ui_c_white_fade_out.xxx" />
+    <Package path="asset\ui_gotham_rooftop.xxx" />
+    <Package path="asset\ui_i_experttraining_n.xxx" />
+    <Package path="asset\ui_i_experttraining.xxx" />
+    <Package path="asset\ui_i_gamesaveicon_n.xxx" />
+    <Package path="asset\ui_i_gamesaveicon.xxx" />
+    <Package path="asset\ui_i_movelist_n.xxx" />
+    <Package path="asset\ui_i_movelist.xxx" />
+    <Package path="asset\ui_i_pause_menu_dual_n.xxx" />
+    <Package path="asset\ui_i_pause_menu_dual.xxx" />
+    <Package path="asset\ui_i_pause_menu_n.xxx" />
+    <Package path="asset\ui_i_pause_menu.xxx" />
+    <Package path="asset\ui_i_practice_hud_n.xxx" />
+    <Package path="asset\ui_i_practice_hud.xxx" />
+    <Package path="asset\ui_o_chatpad_n.xxx" />
+    <Package path="asset\ui_o_chatpad.xxx" />
+    <Package path="asset\ui_o_connecting_n.xxx" />
+    <Package path="asset\ui_o_connecting.xxx" />
+    <Package path="asset\ui_o_createroom_n.xxx" />
+    <Package path="asset\ui_o_createroom.xxx" />
+    <Package path="asset\ui_o_joinroom.xxx" />
+    <Package path="asset\ui_o_lan_announcement.xxx" />
+    <Package path="asset\ui_o_lan_chatroom_n.xxx" />
+    <Package path="asset\ui_o_lan_chatroom.xxx" />
+    <Package path="asset\ui_o_lan_main_n.xxx" />
+    <Package path="asset\ui_o_lan_main.xxx" />
+    <Package path="asset\ui_o_leaderboards_n.xxx" />
+    <Package path="asset\ui_o_leaderboards.xxx" />
+    <Package path="asset\ui_o_main_n.xxx" />
+    <Package path="asset\ui_o_main.xxx" />
+    <Package path="asset\ui_o_mainmenu_n.xxx" />
+    <Package path="asset\ui_o_mainmenu.xxx" />
+    <Package path="asset\ui_o_match_n.xxx" />
+    <Package path="asset\ui_o_match.xxx" />
+    <Package path="asset\ui_o_news.xxx" />
+    <Package path="asset\ui_o_onlinestatus_n.xxx" />
+    <Package path="asset\ui_o_onlinestatus.xxx" />
+    <Package path="asset\ui_o_playerprofile_n.xxx" />
+    <Package path="asset\ui_o_playerprofile.xxx" />
+    <Package path="asset\ui_o_rankedmatch_n.xxx" />
+    <Package path="asset\ui_o_rankedmatch.xxx" />
+    <Package path="asset\ui_o_readnews.xxx" />
+    <Package path="asset\ui_o_rematch_n.xxx" />
+    <Package path="asset\ui_o_rematch.xxx" />
+    <Package path="asset\ui_ps_arenaselect_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="big_apokolips" suffix="1" />
+        <Object id="big_batcave" suffix="1" />
+        <Object id="big_fortressofsolitude" suffix="1" />
+        <Object id="big_gothamcity" suffix="1" />
+        <Object id="big_graveyard" suffix="1" />
+        <Object id="big_graveyard_V2" suffix="1" />
+        <Object id="big_hell" suffix="1" />
+        <Object id="big_island" suffix="1" />
+        <Object id="big_metropolis" suffix="1" />
+        <Object id="big_oansenate" suffix="1" />
+        <Object id="big_spacestation" suffix="1" />
+        <Object id="big_specialforces" suffix="1" />
+        <Object id="big_temple" suffix="1" />
+        <Object id="big_throneroom" suffix="1" />
+        <Object id="big_wushi_academy" suffix="1" />
+        <Object id="thumb_apokolips" suffix="1" />
+        <Object id="thumb_batcave" suffix="1" />
+        <Object id="thumb_fortressofsolitude" suffix="1" />
+        <Object id="thumb_gothamcity" suffix="1" />
+        <Object id="thumb_graveyard" suffix="1" />
+        <Object id="thumb_graveyard_V2" suffix="1" />
+        <Object id="thumb_hell" suffix="1" />
+        <Object id="thumb_island" suffix="1" />
+        <Object id="thumb_metropolis" suffix="1" />
+        <Object id="thumb_oansenate" suffix="1" />
+        <Object id="thumb_spacestation" suffix="1" />
+        <Object id="thumb_specialforces" suffix="1" />
+        <Object id="thumb_temple" suffix="1" />
+        <Object id="thumb_throneroom" suffix="1" />
+        <Object id="thumb_wushi_academy" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_ps_arenaselect.xxx" />
+    <Package path="asset\ui_ps_ladder_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bg_apokolips" suffix="1" />
+        <Object id="bg_batcave" suffix="1" />
+        <Object id="bg_fortressofsolitude" suffix="1" />
+        <Object id="bg_gothamcity" suffix="1" />
+        <Object id="bg_graveyard_v2" suffix="1" />
+        <Object id="bg_hell" suffix="1" />
+        <Object id="bg_island" suffix="1" />
+        <Object id="bg_metropolis" suffix="1" />
+        <Object id="bg_oansenate" suffix="1" />
+        <Object id="bg_spacestation" suffix="1" />
+        <Object id="bg_specialforces" suffix="1" />
+        <Object id="bg_temple" suffix="1" />
+        <Object id="bg_throneroom" suffix="1" />
+        <Object id="bg_wushi_academy" suffix="1" />
+        <Object id="ladder_baraka" suffix="1" />
+        <Object id="ladder_batman" suffix="1" />
+        <Object id="ladder_catwoman" suffix="1" />
+        <Object id="ladder_darkkahn" suffix="1" />
+        <Object id="ladder_darkseid" suffix="1" />
+        <Object id="ladder_deathstroke" suffix="1" />
+        <Object id="ladder_deathstroke_f" suffix="1" />
+        <Object id="ladder_flash" suffix="1" />
+        <Object id="ladder_greenlantern" suffix="1" />
+        <Object id="ladder_jax" suffix="1" />
+        <Object id="ladder_joker" suffix="1" />
+        <Object id="ladder_kano" suffix="1" />
+        <Object id="ladder_kano_f" suffix="1" />
+        <Object id="ladder_kitana" suffix="1" />
+        <Object id="ladder_lexluthor" suffix="1" />
+        <Object id="ladder_liukang" suffix="1" />
+        <Object id="ladder_raiden" suffix="1" />
+        <Object id="ladder_scorpion" suffix="1" />
+        <Object id="ladder_shangtsung" suffix="1" />
+        <Object id="ladder_shaokahn" suffix="1" />
+        <Object id="ladder_shazam" suffix="1" />
+        <Object id="ladder_sonya" suffix="1" />
+        <Object id="ladder_subzero" suffix="1" />
+        <Object id="ladder_superman" suffix="1" />
+        <Object id="ladder_wonderwoman" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_ps_ladder.xxx" />
+    <Package path="asset\ui_ps_ladderselect_n.xxx" />
+    <Package path="asset\ui_ps_ladderselect.xxx" />
+    <Package path="asset\ui_ps_vs_n.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="bg_apokolips" suffix="1" />
+        <Object id="bg_batcave" suffix="1" />
+        <Object id="bg_fortressofsolitude" suffix="1" />
+        <Object id="bg_gothamcity" suffix="1" />
+        <Object id="bg_graveyard_v2" suffix="1" />
+        <Object id="bg_hell" suffix="1" />
+        <Object id="bg_island" suffix="1" />
+        <Object id="bg_metropolis" suffix="1" />
+        <Object id="bg_oansenate" suffix="1" />
+        <Object id="bg_spacestation" suffix="1" />
+        <Object id="bg_specialforces" suffix="1" />
+        <Object id="bg_temple" suffix="1" />
+        <Object id="bg_throneroom" suffix="1" />
+        <Object id="bg_wushi_academy" suffix="1" />
+        <Object id="ladder_baraka" suffix="1" />
+        <Object id="ladder_batman" suffix="1" />
+        <Object id="ladder_catwoman" suffix="1" />
+        <Object id="ladder_darkkahn" suffix="3" />
+        <Object id="ladder_darkseid" suffix="3" />
+        <Object id="ladder_deathstroke" suffix="1" />
+        <Object id="ladder_deathstroke_f" suffix="1" />
+        <Object id="ladder_flash" suffix="1" />
+        <Object id="ladder_greenlantern" suffix="1" />
+        <Object id="ladder_jax" suffix="1" />
+        <Object id="ladder_joker" suffix="1" />
+        <Object id="ladder_kano" suffix="1" />
+        <Object id="ladder_kano_f" suffix="1" />
+        <Object id="ladder_kitana" suffix="1" />
+        <Object id="ladder_lexluthor" suffix="1" />
+        <Object id="ladder_liukang" suffix="1" />
+        <Object id="ladder_raiden" suffix="1" />
+        <Object id="ladder_scorpion" suffix="1" />
+        <Object id="ladder_shangtsung" suffix="1" />
+        <Object id="ladder_shaokahn" suffix="3" />
+        <Object id="ladder_shazam" suffix="1" />
+        <Object id="ladder_sonya" suffix="1" />
+        <Object id="ladder_subzero" suffix="1" />
+        <Object id="ladder_superman" suffix="1" />
+        <Object id="ladder_wonderwoman" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_ps_vs.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ladder_darkkahn" suffix="2" />
+        <Object id="ladder_darkseid" suffix="2" />
+        <Object id="ladder_shaokahn" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="asset\ui_s_attract_n.xxx" />
+    <Package path="asset\ui_s_attract.xxx" />
+    <Package path="asset\ui_s_bioviewer_n.xxx" />
+    <Package path="asset\ui_s_bioviewer.xxx" />
+    <Package path="asset\ui_s_characterviewer_n.xxx" />
+    <Package path="asset\ui_s_characterviewer.xxx" />
+    <Package path="asset\ui_s_chooseside_n.xxx" />
+    <Package path="asset\ui_s_chooseside.xxx" />
+    <Package path="asset\ui_s_congrats_n.xxx" />
+    <Package path="asset\ui_s_congrats.xxx" />
+    <Package path="asset\ui_s_endingviewer_n.xxx" />
+    <Package path="asset\ui_s_endingviewer.xxx" />
+    <Package path="asset\ui_s_kredits_n.xxx" />
+    <Package path="asset\ui_s_kredits.xxx" />
+    <Package path="asset\ui_s_krypt.xxx" />
+    <Package path="asset\ui_s_legal_n.xxx" />
+    <Package path="asset\ui_s_legal.xxx" />
+    <Package path="asset\ui_s_mainmenu_n.xxx" />
+    <Package path="asset\ui_s_mainmenu.xxx" />
+    <Package path="asset\ui_s_options_n.xxx" />
+    <Package path="asset\ui_s_options.xxx" />
+    <Package path="asset\ui_s_vendorlogo_n.xxx" />
+    <Package path="asset\ui_s_vendorlogo.xxx" />
+    <Package path="asset\ui_s_vendorlogo2_n.xxx" />
+    <Package path="asset\ui_s_vendorlogo2.xxx" />
+  </Packages>
+</IdRemapping>

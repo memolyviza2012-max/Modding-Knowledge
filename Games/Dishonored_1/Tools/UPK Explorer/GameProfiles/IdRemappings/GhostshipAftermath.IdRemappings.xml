@@ -1,0 +1,991 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\core.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\engine.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\gameframework.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\gfxui.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\guidcache.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\ipdrv.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathalexisstart_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathalexisstart.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathalexisstart2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathalexisstart2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathend1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathend1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathstart_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathstart.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathstart2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftarmathstart2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1empty_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1empty.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1zerog_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftcargohold1zerog.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck4_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck4.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck5_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck5.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck6_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck6.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck7_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftengdeck7.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2sim_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2sim.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2simend_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck2simend.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck3h1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck3h1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck4_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck4.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck5_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck5.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck6_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck6.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck7_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopdeck7.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2boss_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2boss.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2rend_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftophangar2rend.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopmac_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopmac.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopsac_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftopsac.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck4_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck4.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck5_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck5.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck6_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck6.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck7_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftpsdeck7.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim01_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim01.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim02_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim02.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim06_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim06.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim07_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim07.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim08_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftsim08.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v4_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart1v4.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart4_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart4.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart5_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart5.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart5b_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-aftstart5b.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdie_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdie.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdieast_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdieast.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdiechal3_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdiechal3.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdieo2_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakdieo2.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfe_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfe.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfecreds_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfecreds.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ghostship\GSAflogo_I1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfemenu_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zakfemenu.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zaksurvive_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\gs-zaksurvive.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\startup.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\substanceair.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\substanceaired.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\udkbase.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\unrealed.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\uteditor.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\utgamecontent.u" />
+    <Package path="ghostshipaftermathvr\udkgame\cookedpc\windrv.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\core.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\engine.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\gameframework.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\gfxui.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\guidcache.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\ipdrv.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftcargohold1_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftcargohold1.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck1_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck1.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck2_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck2.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck3_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck3.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck4_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck4.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck5_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck5.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck6_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck6.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck7_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftengdeck7.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-afthfstart_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-afthfstart.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck1_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck1.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck2_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck2.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck3_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck3.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck3h1_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck3h1.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck4_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck4.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck5_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck5.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck6_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck6.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck7_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopdeck7.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftophangar2_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftophangar2.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopmac_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopmac.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopsac_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftopsac.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck2_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck2.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck3_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck3.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck4_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck4.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck5_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck5.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck6_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck6.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck7_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-aftpsdeck7.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdie_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdie.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdieast_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdieast.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdieo2_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakdieo2.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfe_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfe.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ghostship\GSAFinalControls_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFE_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFENew_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFErESUME_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOpt3d_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptAA_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptInvertMouse_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptMenu_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptRes_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptVolume_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptVsync_I1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfecreds_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfecreds.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ghostship\GSAflogo_I1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfemenu_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zakfemenu.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ghostship\GSAFinalControls_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFE_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFENew_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalFErESUME_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOpt3d_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptAA_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptInvertMouse_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptMenu_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptRes_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptVolume_I1" suffix="1" />
+        <Object id="Ghostship\GSAFinalOptVsync_I1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zaksurvive_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\gs-zaksurvive.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\startup.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\substanceair.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\substanceaired.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\udkbase.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\unrealed.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="gsahasslefree\udkgame\cookedpc\uteditor.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\utgamecontent.u" />
+    <Package path="gsahasslefree\udkgame\cookedpc\windrv.u" />
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathalexisstart_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathalexisstart.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipV7\OperationsBorderMedicalB" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathalexisstart2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathalexisstart2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipV7\OperationsBorderMedicalB" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathend1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathend1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathstart_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathstart.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathstart2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftarmathstart2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1empty_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1empty.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1zerog_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftcargohold1zerog.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck3_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck3.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftermathPK3\Textures\EngineeringBorderMedical" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck4_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck4.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck5_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck5.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck6_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck6.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck7_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftengdeck7.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftoinstant_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftoinstant.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftoinstant2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftoinstant2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2sim_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2sim.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2simend_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck2simend.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck3_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck3.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks2\Textures\GrafitiNoEscapePodsLeft" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSAftPaks3\Textures\WallWordHeStoleMyPistol" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyBehindU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyWatchThem" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck3h1_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck3h1.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck4_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck4.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\OperationsBorderMedical" suffix="1" />
+        <Object id="GshipV7\OperationsBorderMedicalB" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck5_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck5.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck6_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck6.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck7_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopdeck7.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftophangar2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftophangar2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftophangar2boss_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftophangar2boss.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopmac_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopmac.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftopsac_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftopsac.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck3_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck3.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueDiff" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueNorm" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueSpec" suffix="1" />
+        <Object id="GSAftPaks2\Textures\GrafitiNoEscapePodsLeft" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck4_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck4.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck5_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck5.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueDiff" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueNorm" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\poolCueSpec" suffix="1" />
+        <Object id="GSAftPaks2\Textures\GrafitiNoEscapePodsLeft" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyBehindU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck6_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck6.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks2\Textures\GrafitiNoEscapePodsLeft" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck7_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftpsdeck7.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj11" suffix="1" />
+        <Object id="GSAftPaks3\Textures\ASMIRVDobj18" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftsim01_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftsim01.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="UN_Rock\SM\Materials\T_UN_Rock_SM_Blackspire01_Grad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftsim02_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftsim02.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="UN_Rock\SM\Materials\T_UN_Rock_SM_Blackspire01_Grad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftsim06_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftsim06.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftsim07_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftsim07.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftsim08_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftsim08.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FoliageDemo\Materials\T_Rain_Stream_M" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v3_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v3.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipPsl\Textures\WordingGolly" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v4_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart1v4.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart4_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart4.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Envy_Level_Effects\Materials\T_Necris_Nano_Slime_Drip01" suffix="1" />
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GSAftPaks3\Textures\WallWordHeStoleMyPistol" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyBehindU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCstalkerRun" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyWatchThem" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart5_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart5.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-aftstart5b_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-aftstart5b.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSAftermathPK1\Textures\HelmDisWeapoPlasmaPistolST" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorder" suffix="1" />
+        <Object id="GshipV7\Materials\OperationsBorderM" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderArmory" suffix="1" />
+        <Object id="GshipV7\Textures\OperationsBorderComHq" suffix="1" />
+        <Object id="gsnew1\Textures\GSBloodyCornerU" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_N" suffix="1" />
+        <Object id="LT_Trims\BSP\Materials\T_LT_Trims_BSP_Organic01_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakdie_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakdie.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakdieast_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakdieast.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakdieinstant_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakdieinstant.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakdieo2_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakdieo2.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakdieonssac_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakdieonssac.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakfe_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakfe.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNBnewT\Textures\NewGScreds123" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakfecreds_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakfecreds.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNBnewT\Textures\NewGScreds123" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zakfemenu_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zakfemenu.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNBnewT\Textures\NewGScreds123" suffix="1" />
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\gs-zaksurvive_loc_int.upk" />
+    <Package path="udkgame\cookedpc\maps\gs-zaksurvive.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GSNweaps\Textures\Target1Blu" suffix="1" />
+        <Object id="GSNweaps\Textures\Target2Blu" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\maps\ut3\envyentry.udk" />
+    <Package path="udkgame\cookedpc\maps\ut3\udkfrontendmap.udk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\ut3\gfx\udkfrontend.upk" />
+    <Package path="udkgame\cookedpc\uteditor.u" />
+    <Package path="udkgame\cookedpc\utgamecontent.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

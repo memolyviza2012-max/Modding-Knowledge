@@ -1,0 +1,17 @@
+Start: 2115, End: 2687
+
+def clean_llm_output(text):
+    """ตัด <think> และ </think> ออกจาก output ของ LLM"""
+    # ลบ <think>...</think> แบบ multiline
+    cleaned = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL)
+    # ลบ <  แบบ lone tags ที่อาจตกค้าง
+    cleaned = re.sub(r"<think>\s*", "", cleaned)
+    cleaned = re.sub(r"\s*</think>", "", cleaned)
+    # ตัด whitespaces ซ้ำ
+    cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
+    return cleaned.strip()
+
+
+# ==========================================
+# 3. UI Dictionary (บังคับแก้คำสั้นในเมนู)
+# ==========================================

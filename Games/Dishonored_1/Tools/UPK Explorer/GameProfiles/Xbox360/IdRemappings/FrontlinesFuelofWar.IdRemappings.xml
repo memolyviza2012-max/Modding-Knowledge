@@ -1,0 +1,1396 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="gcgame\cookedxenon\a_character_health.xxx" />
+    <Package path="gcgame\cookedxenon\a_charactermovement.xxx" />
+    <Package path="gcgame\cookedxenon\a_collisions.xxx" />
+    <Package path="gcgame\cookedxenon\a_destruction.xxx" />
+    <Package path="gcgame\cookedxenon\a_glo_ambientsounds_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_glo_ambientsounds.xxx" />
+    <Package path="gcgame\cookedxenon\a_ingame_dialogue_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_ingame_dialogue_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_ingame_dialogue_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_ingame_dialogue_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_ingame_dialogue.xxx" />
+    <Package path="gcgame\cookedxenon\a_music_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_music.xxx" />
+    <Package path="gcgame\cookedxenon\a_music2.xxx" />
+    <Package path="gcgame\cookedxenon\a_nis_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_nis.xxx" />
+    <Package path="gcgame\cookedxenon\a_projectiles.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_battlechatter_hsu.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_battlechatter_raphael.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_battlechatter_richz.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_battlechatter_yev.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_battlechatter.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_commander_vo_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_commander_vo_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_commander_vo_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_commander_vo_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_commander_vo.xxx" />
+    <Package path="gcgame\cookedxenon\a_rs_weapons.xxx" />
+    <Package path="gcgame\cookedxenon\a_scripted_elements_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_scripted_elements_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_scripted_elements_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_scripted_elements_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_scripted_elements.xxx" />
+    <Package path="gcgame\cookedxenon\a_ui.xxx" />
+    <Package path="gcgame\cookedxenon\a_vehicle_globaluse.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhc_bus_militia.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhc_trk_heavy.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhc_trk_light.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_apc_mediumarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_hel_attackheli.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_jep_lightarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_jet_fighter.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_tnk_antiair.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_tnk_artillery.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhr_tnk_heavyarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_apc_mediumarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_hel_attackheli.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_hel_mediumheli.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_jep_lightarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_jet_fighter.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_parachute.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_tnk_antiair.xxx" />
+    <Package path="gcgame\cookedxenon\a_vhw_tnk_heavyarmor.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_billm_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_billm_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_billm_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_billm_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_billm.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_brianh_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_brianh_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_brianh_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_brianh_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_brianh.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_davea_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_davea_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_davea_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_davea_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_davea.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_dennism_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_dennism_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_dennism_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_dennism_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_dennism.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_hughw_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_hughw_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_hughw_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_hughw_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_hughw.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jimv_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jimv_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jimv_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jimv_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jimv.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_johnm_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_johnm_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_johnm_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_johnm_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_johnm.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jtindle_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jtindle_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jtindle_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jtindle_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_jtindle.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_noosh_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_noosh_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_noosh_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_noosh_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_noosh.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_battlechatter.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_vehiclechatter_cue.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_vehiclechatter_fra.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_vehiclechatter_ita.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_vehiclechatter_spa.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_vehiclechatter.xxx" />
+    <Package path="gcgame\cookedxenon\a_wc_weapons.xxx" />
+    <Package path="gcgame\cookedxenon\a_weapons_globaluse.xxx" />
+    <Package path="gcgame\cookedxenon\a_wpr_dep_rc_c4car.xxx" />
+    <Package path="gcgame\cookedxenon\a_wpr_dep_rcdroneheli.xxx" />
+    <Package path="gcgame\cookedxenon\a_wpw_dep_rcdroneassault.xxx" />
+    <Package path="gcgame\cookedxenon\a_wpw_dep_rcdroneheli.xxx" />
+    <Package path="gcgame\cookedxenon\a_wpw_dep_rcdronemortar.xxx" />
+    <Package path="gcgame\cookedxenon\animprefab.xxx" />
+    <Package path="gcgame\cookedxenon\burningcity_package.xxx" />
+    <Package path="gcgame\cookedxenon\chc_01_reporter.xxx" />
+    <Package path="gcgame\cookedxenon\chc_aianimations.xxx" />
+    <Package path="gcgame\cookedxenon\chc_niscamera.xxx" />
+    <Package path="gcgame\cookedxenon\chc_physics.xxx" />
+    <Package path="gcgame\cookedxenon\chc_playeranimations.xxx" />
+    <Package path="gcgame\cookedxenon\chr_01_rus.xxx" />
+    <Package path="gcgame\cookedxenon\chr_02_chi.xxx" />
+    <Package path="gcgame\cookedxenon\chr_03_mil.xxx" />
+    <Package path="gcgame\cookedxenon\chr_headgear.xxx" />
+    <Package path="gcgame\cookedxenon\chr_roles.xxx" />
+    <Package path="gcgame\cookedxenon\chw_01_us.xxx" />
+    <Package path="gcgame\cookedxenon\chw_02_uk.xxx" />
+    <Package path="gcgame\cookedxenon\chw_headgear.xxx" />
+    <Package path="gcgame\cookedxenon\chw_nis.xxx" />
+    <Package path="gcgame\cookedxenon\chw_roles.xxx" />
+    <Package path="gcgame\cookedxenon\core.xxx" />
+    <Package path="gcgame\cookedxenon\debug.xxx" />
+    <Package path="gcgame\cookedxenon\dec_dynamic.xxx" />
+    <Package path="gcgame\cookedxenon\defaultuiskin.xxx" />
+    <Package path="gcgame\cookedxenon\dest_wall.xxx" />
+    <Package path="gcgame\cookedxenon\editormaterials.xxx" />
+    <Package path="gcgame\cookedxenon\editormeshes.xxx" />
+    <Package path="gcgame\cookedxenon\editorresources.xxx" />
+    <Package path="gcgame\cookedxenon\engine.xxx" />
+    <Package path="gcgame\cookedxenon\enginefonts.xxx" />
+    <Package path="gcgame\cookedxenon\enginematerials.xxx" />
+    <Package path="gcgame\cookedxenon\engineresources.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\env_decals.xxx" />
+    <Package path="gcgame\cookedxenon\env_reflections.xxx" />
+    <Package path="gcgame\cookedxenon\eua_mudhuts.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="White" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\eua_town.xxx" />
+    <Package path="gcgame\cookedxenon\fl-gnaw_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-gnaw_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-gnaw_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-gnaw_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-gnaw.xxx" />
+    <Package path="gcgame\cookedxenon\fl-invasion_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-invasion_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-invasion_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-invasion_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-invasion.xxx" />
+    <Package path="gcgame\cookedxenon\fl-mountaintop_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-mountaintop_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-mountaintop_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-mountaintop_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-mountaintop.xxx" />
+    <Package path="gcgame\cookedxenon\fl-oilfield_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-oilfield_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-oilfield_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-oilfield_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-oilfield.xxx" />
+    <Package path="gcgame\cookedxenon\fl-roundabout_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-roundabout_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-roundabout_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-roundabout_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-roundabout.xxx" />
+    <Package path="gcgame\cookedxenon\fl-solarfarm_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-solarfarm_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-solarfarm_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-solarfarm_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-solarfarm_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\fl-solarfarm.xxx" />
+    <Package path="gcgame\cookedxenon\fl-street_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-street_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-street_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-street_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-street.xxx" />
+    <Package path="gcgame\cookedxenon\fl-village_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\fl-village_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\fl-village_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\fl-village_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\fl-village.xxx" />
+    <Package path="gcgame\cookedxenon\fol_arid.xxx" />
+    <Package path="gcgame\cookedxenon\fol_civilization.xxx" />
+    <Package path="gcgame\cookedxenon\fol_temperate.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="largeRock1" suffix="1" />
+        <Object id="largeRock3" suffix="1" />
+        <Object id="RootAlpha" suffix="1" />
+        <Object id="Temperate_Rock" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\fx_decals.xxx" />
+    <Package path="gcgame\cookedxenon\fx_environment.xxx" />
+    <Package path="gcgame\cookedxenon\fx_explosions.xxx" />
+    <Package path="gcgame\cookedxenon\fx_impact.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tarp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\fx_lighting.xxx" />
+    <Package path="gcgame\cookedxenon\fx_liquid.xxx" />
+    <Package path="gcgame\cookedxenon\fx_nis.xxx" />
+    <Package path="gcgame\cookedxenon\fx_nuketemp.xxx" />
+    <Package path="gcgame\cookedxenon\fx_vehicles.xxx" />
+    <Package path="gcgame\cookedxenon\fx_weapons.xxx" />
+    <Package path="gcgame\cookedxenon\gameframework.xxx" />
+    <Package path="gcgame\cookedxenon\gcbasegame_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\gcbasegame.xxx" />
+    <Package path="gcgame\cookedxenon\gceditorresources.xxx" />
+    <Package path="gcgame\cookedxenon\gcengineeditorresources.xxx" />
+    <Package path="gcgame\cookedxenon\gcgame.xxx" />
+    <Package path="gcgame\cookedxenon\gcgameentry.xxx" />
+    <Package path="gcgame\cookedxenon\gcgamelobby.xxx" />
+    <Package path="gcgame\cookedxenon\gcgamematerials.xxx" />
+    <Package path="gcgame\cookedxenon\gcgametransition.xxx" />
+    <Package path="gcgame\cookedxenon\gcuiskin.xxx" />
+    <Package path="gcgame\cookedxenon\gcweapontables.xxx" />
+    <Package path="gcgame\cookedxenon\glo_electricaldecor.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="satelliteDish_02_C" suffix="1" />
+        <Object id="smallFloodLight_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\glo_fences.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="concertinaWire" suffix="1" />
+        <Object id="n3_grass2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\glo_furniture.xxx" />
+    <Package path="gcgame\cookedxenon\glo_signs.xxx" />
+    <Package path="gcgame\cookedxenon\glo_streetdecor.xxx" />
+    <Package path="gcgame\cookedxenon\glo_vehicles.xxx" />
+    <Package path="gcgame\cookedxenon\glo.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="eyePiece" suffix="1" />
+        <Object id="Square" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\globalcookedbulkdatainfos.upk" />
+    <Package path="gcgame\cookedxenon\gnaw_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_audio_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_audio_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_audio_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_audio_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_audio.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_fx.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_integration.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="2" />
+        <Object id="FrontLine_0" suffix="1" />
+        <Object id="FrontLine_1" suffix="1" />
+        <Object id="FrontLine_2" suffix="1" />
+        <Object id="FrontLine_3" suffix="1" />
+        <Object id="FrontLine_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\gnaw_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\gnaw.xxx" />
+    <Package path="gcgame\cookedxenon\ind_cranes.xxx" />
+    <Package path="gcgame\cookedxenon\ind_decor.xxx" />
+    <Package path="gcgame\cookedxenon\ind_factory.xxx" />
+    <Package path="gcgame\cookedxenon\ind_oiltown.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="modfactorymetal01_c" suffix="1" />
+        <Object id="prefabModelectrical" suffix="1" />
+        <Object id="prefabModmetal03" suffix="1" />
+        <Object id="solarPanelroof_c" suffix="1" />
+        <Object id="warehouseSiding04_c" suffix="1" />
+        <Object id="warehouseSiding13_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ind_pipes.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="IND_pipesLarge8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ind_refineries.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="IND_pipes" suffix="1" />
+        <Object id="IND_pipesLarge3" suffix="1" />
+        <Object id="IND_pipesLarge8" suffix="2" />
+        <Object id="IND_pipesLargeinner" suffix="1" />
+        <Object id="Roof" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ind_towers_comm.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="smokeStackConcrete_C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ind_towers_water.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="pipes10" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ind_trainstructures.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_art_hidden.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_audio.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_fx.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_integration.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_no_collision.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="3" />
+        <Object id="frontline0" suffix="1" />
+        <Object id="frontline1" suffix="1" />
+        <Object id="frontline2" suffix="1" />
+        <Object id="frontline3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\invasion_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\invasion_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\invasion.xxx" />
+    <Package path="gcgame\cookedxenon\ipdrv.xxx" />
+    <Package path="gcgame\cookedxenon\leveldesigntools.xxx" />
+    <Package path="gcgame\cookedxenon\mil_coalition.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="WCMMilitarytower_C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\mil_redstar.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_audio.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_fx.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_integration.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="4" />
+        <Object id="frontline0" suffix="2" />
+        <Object id="frontline1" suffix="2" />
+        <Object id="frontline2" suffix="2" />
+        <Object id="frontline3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\mountaintop_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\mountaintop.xxx" />
+    <Package path="gcgame\cookedxenon\mp_village.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="5" />
+        <Object id="frontline0" suffix="3" />
+        <Object id="frontline1" suffix="3" />
+        <Object id="frontline2" suffix="3" />
+        <Object id="frontline3" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n1_fx.xxx" />
+    <Package path="gcgame\cookedxenon\n1_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="6" />
+        <Object id="FrontLine_0" suffix="2" />
+        <Object id="FrontLine_1" suffix="2" />
+        <Object id="FrontLine_2" suffix="2" />
+        <Object id="FrontLine_3" suffix="2" />
+        <Object id="FrontLine_4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n1_skyterrain.xxx" />
+    <Package path="gcgame\cookedxenon\n2_dropoff.xxx" />
+    <Package path="gcgame\cookedxenon\n2_fx.xxx" />
+    <Package path="gcgame\cookedxenon\n2_music_fr1.xxx" />
+    <Package path="gcgame\cookedxenon\n2_music_fr2.xxx" />
+    <Package path="gcgame\cookedxenon\n2_music_fr3.xxx" />
+    <Package path="gcgame\cookedxenon\n2_music_fr4.xxx" />
+    <Package path="gcgame\cookedxenon\n2_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="7" />
+        <Object id="frontline0" suffix="4" />
+        <Object id="frontline1" suffix="4" />
+        <Object id="frontline2" suffix="4" />
+        <Object id="frontline3" suffix="4" />
+        <Object id="frontline4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n3_fx_a.xxx" />
+    <Package path="gcgame\cookedxenon\n3_fx_b.xxx" />
+    <Package path="gcgame\cookedxenon\n3_fx.xxx" />
+    <Package path="gcgame\cookedxenon\n3_music_fr1.xxx" />
+    <Package path="gcgame\cookedxenon\n3_music_fr2.xxx" />
+    <Package path="gcgame\cookedxenon\n3_music_fr3.xxx" />
+    <Package path="gcgame\cookedxenon\n3_music_fr5.xxx" />
+    <Package path="gcgame\cookedxenon\n3_music_fr6.xxx" />
+    <Package path="gcgame\cookedxenon\n3_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="8" />
+        <Object id="frontline0" suffix="5" />
+        <Object id="frontline1" suffix="5" />
+        <Object id="frontline2" suffix="5" />
+        <Object id="frontline3" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n4_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="9" />
+        <Object id="frontline0" suffix="6" />
+        <Object id="frontline1" suffix="6" />
+        <Object id="frontline2" suffix="6" />
+        <Object id="frontline3" suffix="6" />
+        <Object id="frontline4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n6_fx.xxx" />
+    <Package path="gcgame\cookedxenon\n6_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="10" />
+        <Object id="frontline0" suffix="7" />
+        <Object id="frontline1" suffix="7" />
+        <Object id="frontline2" suffix="7" />
+        <Object id="frontline3" suffix="7" />
+        <Object id="frontline4" suffix="3" />
+        <Object id="frontline5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n6_package2.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="tankfactoryMetalgrate01_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n7_audio.xxx" />
+    <Package path="gcgame\cookedxenon\n7_final_lside.xxx" />
+    <Package path="gcgame\cookedxenon\n7_final_obj_inner.xxx" />
+    <Package path="gcgame\cookedxenon\n7_final_rside.xxx" />
+    <Package path="gcgame\cookedxenon\n7_fx.xxx" />
+    <Package path="gcgame\cookedxenon\n7_integration.xxx" />
+    <Package path="gcgame\cookedxenon\n7_integration2.xxx" />
+    <Package path="gcgame\cookedxenon\n7_nisa.xxx" />
+    <Package path="gcgame\cookedxenon\n7_nisb.xxx" />
+    <Package path="gcgame\cookedxenon\n7_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="11" />
+        <Object id="frontline0" suffix="8" />
+        <Object id="frontline1" suffix="8" />
+        <Object id="frontline2" suffix="8" />
+        <Object id="frontline3" suffix="8" />
+        <Object id="frontline4" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\n7_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\n7_skyobjects.xxx" />
+    <Package path="gcgame\cookedxenon\n8_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="12" />
+        <Object id="frontline0" suffix="9" />
+        <Object id="frontline1" suffix="9" />
+        <Object id="frontline2" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\nis_sp-n1a.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n1b.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n3a_deploy.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n3c.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n4a.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n4b.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n6a.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n6b.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n7a.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n7b.xxx" />
+    <Package path="gcgame\cookedxenon\nis_sp-n8a.xxx" />
+    <Package path="gcgame\cookedxenon\nis4a_streaming.xxx" />
+    <Package path="gcgame\cookedxenon\nis4b_streaming.xxx" />
+    <Package path="gcgame\cookedxenon\nis6_brokenwall.xxx" />
+    <Package path="gcgame\cookedxenon\nis6_wall.xxx" />
+    <Package path="gcgame\cookedxenon\nis6a_streaming.xxx" />
+    <Package path="gcgame\cookedxenon\nis6b_streaming.xxx" />
+    <Package path="gcgame\cookedxenon\nodebuddies.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_audio.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_fx.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_integration.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="13" />
+        <Object id="FrontLine_0" suffix="3" />
+        <Object id="FrontLine_1" suffix="3" />
+        <Object id="FrontLine_2" suffix="3" />
+        <Object id="FrontLine_3" suffix="3" />
+        <Object id="FrontLine_4" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\oilfield_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\oilfield.xxx" />
+    <Package path="gcgame\cookedxenon\onlinesubsystemlive.xxx" />
+    <Package path="gcgame\cookedxenon\persistent_sky1.xxx" />
+    <Package path="gcgame\cookedxenon\pm_damagetables.xxx" />
+    <Package path="gcgame\cookedxenon\pm_library.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_audio.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_fx.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_integration.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="14" />
+        <Object id="frontline0" suffix="10" />
+        <Object id="frontline1" suffix="10" />
+        <Object id="frontline2" suffix="10" />
+        <Object id="frontline3" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\roundabout_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\roundabout.xxx" />
+    <Package path="gcgame\cookedxenon\rus_city.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_audio.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_clouds.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_content.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_fx.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_integration.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\solarfarm_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1_nis1a2.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n1b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a_additionambientaudio.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b_additionambientaudio.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n2b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_ambient_audio.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_nis_deploy_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_nis_deploy_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_nis_deploy_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_nis_deploy_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3_nis_deploy.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n3b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n4b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6_exterior.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6_lowercenterhallway.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6_streaminglighting.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6_warehouseinterior.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n6b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7_fl80_tower.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n7b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8_ambientaudio.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8a_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8a_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8a_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8a_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8a.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8b_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8b_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8b_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8b_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8b.xxx" />
+    <Package path="gcgame\cookedxenon\sp-n8c.xxx" />
+    <Package path="gcgame\cookedxenon\sp-street_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-street_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-street_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-street_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-street.xxx" />
+    <Package path="gcgame\cookedxenon\sp-village_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\sp-village_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\sp-village_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\sp-village_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\sp-village.xxx" />
+    <Package path="gcgame\cookedxenon\sp6_ambientaudio.xxx" />
+    <Package path="gcgame\cookedxenon\startup_fra.xxx" />
+    <Package path="gcgame\cookedxenon\startup_int.xxx" />
+    <Package path="gcgame\cookedxenon\startup_ita.xxx" />
+    <Package path="gcgame\cookedxenon\startup_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stn_roads.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="oilfieldRoad" suffix="1" />
+        <Object id="oilfieldRoad_corner" suffix="1" />
+        <Object id="oilfieldRoad_corner_N" suffix="1" />
+        <Object id="oilfieldRoad_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\stn_sky_hemi.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="hemisphere_sky\giantstorm2" suffix="1" />
+        <Object id="hemisphere_sky\N-6sky" suffix="1" />
+        <Object id="hemisphere_sky\newoilfield" suffix="1" />
+        <Object id="hemisphere_sky\newsunset" suffix="1" />
+        <Object id="hemisphere_sky\overcastdawn" suffix="1" />
+        <Object id="hemisphere_sky\overcaststormy" suffix="1" />
+        <Object id="hemisphere_sky\sunrisebigcloud2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\stn_sky.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="barcode" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\stn_skyterrain.xxx" />
+    <Package path="gcgame\cookedxenon\stn_terraindetails.xxx" />
+    <Package path="gcgame\cookedxenon\stream_armory.xxx" />
+    <Package path="gcgame\cookedxenon\stream_basin1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_coalitioncopterstart.xxx" />
+    <Package path="gcgame\cookedxenon\stream_commbldg1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_commbunker.xxx" />
+    <Package path="gcgame\cookedxenon\stream_entryroad.xxx" />
+    <Package path="gcgame\cookedxenon\stream_fabinterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_final_blocker.xxx" />
+    <Package path="gcgame\cookedxenon\stream_forwardcommandpost.xxx" />
+    <Package path="gcgame\cookedxenon\stream_frontline1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_gameentry_credits.xxx" />
+    <Package path="gcgame\cookedxenon\stream_gameentry_glossary.xxx" />
+    <Package path="gcgame\cookedxenon\stream_industrialbase1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_leftaaplatform.xxx" />
+    <Package path="gcgame\cookedxenon\stream_listeningpost.xxx" />
+    <Package path="gcgame\cookedxenon\stream_midbase_back.xxx" />
+    <Package path="gcgame\cookedxenon\stream_midbase_farside.xxx" />
+    <Package path="gcgame\cookedxenon\stream_midbase_island.xxx" />
+    <Package path="gcgame\cookedxenon\stream_midbase1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_mindefss.xxx" />
+    <Package path="gcgame\cookedxenon\stream_mininf_lower.xxx" />
+    <Package path="gcgame\cookedxenon\stream_motorpool.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_aa_approach.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_armory_exterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_armory1interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_armory2interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_audio01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_audio02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_audio03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_audio04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_audio05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsound06.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_backsoundtower.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_crashsite_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_crashsite_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_crashsite_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_crashsite_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_crashsite.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_electric_plaza.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_guardtowerinterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_helihack.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_industrialbase2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_motorpool_approach.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_motorpool_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_motorpool_right.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_near_aa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_pit_crashsite.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_rebarrack_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_rebarrack_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_rebarrack_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_rebarrack_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_rebarrack.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_refinery_back_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_refinery2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_startui.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_storage_front.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_storage_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_storage.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_town_armory_right.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_town_center.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_town_large.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_town_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_town_right.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_training_area.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_wcbase_center.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_wcbase_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1_wcbase_right.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1a_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n1b_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_commtrailer.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_dropoff_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_dropoff_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_dropoff_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_dropoff_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_dropoff.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_frontline01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_persistent.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_village.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2_villageoutskirts.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2a_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n2b_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n3_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n3_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n3_unloadedblockers.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_artbasics.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_artillery1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_artillery2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_artillery3.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_artillery4.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_c1bridge.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_cosbasics.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_cosmodrome0.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_cosmodrome1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_cosmodrome2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_graveyard.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_graveyard2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music01_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music01_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music01_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music01_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music06.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_music07.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_nisnuke.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_nuke_post_revert.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_nuke_postprocess.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_nuke1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_nuke2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_outro_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_outro_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_outro_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_outro_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rocket1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rocket2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rockettowers_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rockettowers_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rockettowers_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rockettowers_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_rockettowers.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_saltflats1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_saltflats2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_saltflats3.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4_subpersistent.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4a_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n4b_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_airlock.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_basin.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_bsplower.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_bspupper.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_entrancetunnel.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_hallwayleft.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_hallwayright.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_interiorcenter.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_interiorcentermiddle.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_interiorleft.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_interiorright.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_interiorrightback.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_launchcontrol.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_leftstairwell.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_middletowers.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music02_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music02_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music02_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music02_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_music06.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_rightaaplatform.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_rightstairwell.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_serverroom.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6_silo.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n6a_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_centown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_downtown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_east.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_eurobuildings.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_f70_ltown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_f90_hill.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70_activec.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70_lback.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70_rback.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70_rmid.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70_rtown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70vo_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70vo_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70vo_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70vo_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl70vo.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80_leftbridge.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80_ltown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80_rightbridge.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80_rutown.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80vo_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80vo_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80vo_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80vo_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl80vo.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl90_bl.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl90_br.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl90_fort.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl90_start.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_fl90.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_hqexterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_hqinterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music01_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music01_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music01_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music01_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music05_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music05_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music05_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music05_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music06_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music06_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music06_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music06_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_music06.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_north.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_northa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_outro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_south.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_terrain1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_towbig.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_townhill.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7_west.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n7b_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_canal.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_canalalleys.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_canalsouth.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centavenn.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centavens.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centaves2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centralavemid.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centralavenorth.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_centralavesouth.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_citycrossst.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_counterattack.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_crashsite.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_distantbuildings.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgent2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgentrance.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgfar_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgfar_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgfar_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgfar_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgfar.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbrdgstreet.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbridge.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbridgeshacks.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastbridgesw.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastparking.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_eastparking2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl0.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8middle.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_fl8miliplaza2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_intro_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_intro_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_intro_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_intro_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_intro.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_killplaza.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_killplaza2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbrdgentrance.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge3_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge3_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge3_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge3_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge3.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridge4.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_midbridgefar.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_miliplazafar.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindef_low2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindef_lower.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindef_upper.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefint.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefmilinw.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefmiliplaza.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefmilisw.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefplaza.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefplazane.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefplazanw.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefs2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefse.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefsidealley.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mindefsouth.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininf_roof.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininf_salley.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfappr2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfapproach.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininflow3.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfouter2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfsouth.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfsouth2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_mininfstairs.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_ministerofdef.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_minofdefense.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_minofinformation.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music01.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music02.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music03.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music04.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music05.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music06.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music07.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music08.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_music09.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_notmindef.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_plazaoutline.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_wcstart_left.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_wcstart_r2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_wcstart_right.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_wcstart.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8_wcstart2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8a_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8b_carpet.xxx" />
+    <Package path="gcgame\cookedxenon\stream_n8b_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\stream_persistentintegration.xxx" />
+    <Package path="gcgame\cookedxenon\stream_powerstation.xxx" />
+    <Package path="gcgame\cookedxenon\stream_refinery1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_refinery3.xxx" />
+    <Package path="gcgame\cookedxenon\stream_righttankchoke.xxx" />
+    <Package path="gcgame\cookedxenon\stream_systemsintinterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankdrop_loc_fra.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankdrop_loc_int.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankdrop_loc_ita.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankdrop_loc_spa.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankdrop.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tankfactory1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_backarea.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_backexit.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_center.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_frontgate.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_reargate.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_reargaterear.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_reargatetankbays.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_tankbays.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_trainentrance.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_walls_b.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tf_walls.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower1_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower3_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower5_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower6_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower7_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower8_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_tower9_interior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_towerbase1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_towerdestroy.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_backroad.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_bridgeentrance.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_center.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_distant.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_eastammodump.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_frontgate.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_leftfrontshacks.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_parkinglot.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_schoolinterior.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_walls.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town_westammodump.xxx" />
+    <Package path="gcgame\cookedxenon\stream_town2.xxx" />
+    <Package path="gcgame\cookedxenon\stream_townback1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_trainevent1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_wcbase1.xxx" />
+    <Package path="gcgame\cookedxenon\stream_wcstart1.xxx" />
+    <Package path="gcgame\cookedxenon\street_audio.xxx" />
+    <Package path="gcgame\cookedxenon\street_fx.xxx" />
+    <Package path="gcgame\cookedxenon\street_integration.xxx" />
+    <Package path="gcgame\cookedxenon\street_package.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\street_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\street_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\street.xxx" />
+    <Package path="gcgame\cookedxenon\supplydepots.xxx" />
+    <Package path="gcgame\cookedxenon\ui_cinematic.xxx" />
+    <Package path="gcgame\cookedxenon\ui_common.xxx" />
+    <Package path="gcgame\cookedxenon\ui_creditplates.xxx" />
+    <Package path="gcgame\cookedxenon\ui_extras.xxx" />
+    <Package path="gcgame\cookedxenon\ui_flow.xxx" />
+    <Package path="gcgame\cookedxenon\ui_fonts.xxx" />
+    <Package path="gcgame\cookedxenon\ui_frontend.xxx" />
+    <Package path="gcgame\cookedxenon\ui_frontendasync.xxx" />
+    <Package path="gcgame\cookedxenon\ui_genericpopups.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_factions.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_loadouts.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_roles.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_timeline.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_vehicle.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary_weapons.xxx" />
+    <Package path="gcgame\cookedxenon\ui_glossary.xxx" />
+    <Package path="gcgame\cookedxenon\ui_hostgame.xxx" />
+    <Package path="gcgame\cookedxenon\ui_hud_textures.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grid" suffix="1" />
+        <Object id="Line" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ui_hud.xxx" />
+    <Package path="gcgame\cookedxenon\ui_ingamemenus.xxx" />
+    <Package path="gcgame\cookedxenon\ui_joingame_filters.xxx" />
+    <Package path="gcgame\cookedxenon\ui_joingame.xxx" />
+    <Package path="gcgame\cookedxenon\ui_leaderboards_details.xxx" />
+    <Package path="gcgame\cookedxenon\ui_loadscreens_fra.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="1" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ui_loadscreens_ita.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="2" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ui_loadscreens_spa.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="3" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\ui_loadscreens.xxx" />
+    <Package path="gcgame\cookedxenon\ui_login.xxx" />
+    <Package path="gcgame\cookedxenon\ui_mapdetails.xxx" />
+    <Package path="gcgame\cookedxenon\ui_mapoptions.xxx" />
+    <Package path="gcgame\cookedxenon\ui_minimap.xxx" />
+    <Package path="gcgame\cookedxenon\ui_movietextures.xxx" />
+    <Package path="gcgame\cookedxenon\ui_multiplayer.xxx" />
+    <Package path="gcgame\cookedxenon\ui_n1a_cinematic.xxx" />
+    <Package path="gcgame\cookedxenon\ui_onlineleaderboards.xxx" />
+    <Package path="gcgame\cookedxenon\ui_options.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pause.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_anvil.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_captains.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_darkness.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_graveyard.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_history.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_livingq.xxx" />
+    <Package path="gcgame\cookedxenon\ui_pausepics_mountain.xxx" />
+    <Package path="gcgame\cookedxenon\ui_ps3buttons.xxx" />
+    <Package path="gcgame\cookedxenon\ui_quickmatch_filters.xxx" />
+    <Package path="gcgame\cookedxenon\ui_quickmatch.xxx" />
+    <Package path="gcgame\cookedxenon\ui_retailermaps.xxx" />
+    <Package path="gcgame\cookedxenon\ui_squad.xxx" />
+    <Package path="gcgame\cookedxenon\ui_vehiclehuds.xxx" />
+    <Package path="gcgame\cookedxenon\ui_weaponhuds.xxx" />
+    <Package path="gcgame\cookedxenon\vh_common.xxx" />
+    <Package path="gcgame\cookedxenon\vh_parachute.xxx" />
+    <Package path="gcgame\cookedxenon\vhc_bus_militia.xxx" />
+    <Package path="gcgame\cookedxenon\vhc_car_police.xxx" />
+    <Package path="gcgame\cookedxenon\vhc_suv_rover.xxx" />
+    <Package path="gcgame\cookedxenon\vhc_trk_heavy.xxx" />
+    <Package path="gcgame\cookedxenon\vhc_trk_light.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_apc_mediumarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_dep_empdevice.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_dep_minigun.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_dep_rcdroneheli_assault.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_dep_rcdroneheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_dep_sentrygun.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_hel_attackheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_hel_medheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_jep_lightarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_jet_fighter.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_mnt_stationaryaa.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_tnk_antiair.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_tnk_artillery.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_tnk_heavyarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhr_uav_dronebomber.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_apc_antiair.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_apc_mediumarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_dep_empdevice.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_dep_grenadelauncher.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_dep_railgun.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_dep_rcdroneassault.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_dep_rcdronemortar.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_hel_attackheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_hel_gunship.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_hel_medheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_hel_transportheli.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_jep_lightarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_jet_fighter.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_tnk_heavyarmor.xxx" />
+    <Package path="gcgame\cookedxenon\vhw_uav_dronebomber.xxx" />
+    <Package path="gcgame\cookedxenon\village_art_extra.xxx" />
+    <Package path="gcgame\cookedxenon\village_audio.xxx" />
+    <Package path="gcgame\cookedxenon\village_fx.xxx" />
+    <Package path="gcgame\cookedxenon\village_integration.xxx" />
+    <Package path="gcgame\cookedxenon\village_painvols.xxx" />
+    <Package path="gcgame\cookedxenon\village_skylight.xxx" />
+    <Package path="gcgame\cookedxenon\village.xxx" />
+    <Package path="gcgame\cookedxenon\wc1_statics.xxx" />
+    <Package path="gcgame\cookedxenon\wc2_statics.xxx" />
+    <Package path="gcgame\cookedxenon\wc3_statics.xxx" />
+    <Package path="gcgame\cookedxenon\wc4_statics.xxx" />
+    <Package path="gcgame\cookedxenon\wc6_statics.xxx" />
+    <Package path="gcgame\cookedxenon\wc8_statics.xxx" />
+    <Package path="gcgame\cookedxenon\weaponpickups.xxx" />
+    <Package path="gcgame\cookedxenon\wpc_exp_democharge_1p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Timer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpc_exp_democharge.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_atw_rocketlauncher_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_atw_rocketlauncher.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_empdevice_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_empdevice.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_C" suffix="1" />
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_E" suffix="1" />
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_N" suffix="1" />
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpr_dep_minigun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_minigun.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdronecar_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdronecar.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdroneheli_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdroneheli_assault_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdroneheli_assault.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcdroneheli.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcremote_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_rcremote.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_sentrygun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_sentrygun.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_stand_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_dep_stand.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_emp_grenade_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_emp_rocketlauncher_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_emp_rocketlauncher.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_c4_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_c4.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_grenade_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_grenade.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_landmine_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_landmine.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_exp_proxymine_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_hmg_assault_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_hmg_assault.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_mnt_stationarymg_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_mnt_stationarymg.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_pis_handgun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_pis_handgun.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_assault_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_assault.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_shotgun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_shotgun.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_smg_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_smg.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_sniper_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_rif_sniper.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_sup_airstriketarget.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_sup_torch_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpr_sup_torch.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_atw_rocketlauncher_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_atw_rocketlauncher.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_empdevice_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_empdevice.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_DEP_EmpDevice_1p_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpw_dep_grenadelauncher_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_grenadelauncher.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_railgun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_railgun.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdroneassault_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdroneassault.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdroneheli_1p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_DEP_RCDroneHeli_Blades" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdroneheli.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdronemortar_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcdronemortar.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcremote_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_rcremote.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_stand_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_dep_stand.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_emp_grenade_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_emp_rocketlauncher_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_emp_rocketlauncher.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_c4_1p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_EXP_C4_C" suffix="1" />
+        <Object id="Textures\TX_WPW_EXP_C4_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpw_exp_c4.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_grenade_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_grenade.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_landmine_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_landmine.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_proxymine_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_exp_proxymine.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_hmg_assault_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_hmg_assault.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_mnt_stationarymg_1p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_MNT_stationryMG_1p_C" suffix="1" />
+        <Object id="Textures\TX_WPW_MNT_stationryMG_1p_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpw_mnt_stationarymg.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_pis_handgun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_pis_handgun.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_assault_1p.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GlassCube" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedxenon\wpw_rif_assault.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_shotgun_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_shotgun.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_smg_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_smg.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_sniper_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_rif_sniper.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_sup_airstriketarget_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_sup_airstriketarget.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_sup_revive_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_sup_torch_1p.xxx" />
+    <Package path="gcgame\cookedxenon\wpw_sup_torch.xxx" />
+  </Packages>
+</IdRemapping>

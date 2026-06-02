@@ -1,0 +1,15 @@
+﻿<Game packageFileVersion="727" packageLicenseeVersion="78" TFCMappingFileName="Bioshock Infinite" platform="Switch" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<ExcludedFile>XGame\CookedNX_FR\Core.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\Engine.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\GFXUI.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\IpDrv.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\KynapseEngine.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\OnlineSubSystemNX.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\Startup.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\Startup_LOC_INT.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\XCore.xxx</ExcludedFile>
+	<ExcludedFile>XGame\CookedNX_FR\XEntry_p.xxx</ExcludedFile>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="XGame\CookedNX_FR" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

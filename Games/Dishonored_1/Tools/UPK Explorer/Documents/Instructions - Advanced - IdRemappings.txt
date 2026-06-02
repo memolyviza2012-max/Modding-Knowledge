@@ -1,0 +1,13 @@
+﻿Most games store the same textures as duplicate objects in several packages, for performance reasons.
+UPK Explorer attemps to group these identical textures together by identifying the textures using a generated name (which is group path\object name).
+However there are cases where the generated Id would actually group together textures that are not duplicates.
+This is where the IdRemappings.xml comes in. If no IdRemappings.xml can be found for your game under GameProfiles\IdRemappings, a new one will be generated when openining the game.
+It will log all package names as well as texture names that should not be grouped together.
+
+When generating a texture pack, the IdRemappings is copied to the texture pack folder, and TFC installer will use it to inject the correct textures.
+
+When you open a game with UPK Explorer that has a package that is not in the mappings file, you will be warned that your IdRemappings file might not be up to date.
+
+There are two possibilities here:
+- if this is a modded package (like a new skin you downloaded), you should exclude that file from your game profile (See Game profiles instructions)
+- if this is an official package (following a game update...), you should delete your IdRemappings files, and the next time you will open the game, a new one will be generated for you.

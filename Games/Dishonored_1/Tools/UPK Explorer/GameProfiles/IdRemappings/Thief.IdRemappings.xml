@@ -1,0 +1,1470 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="thiefgame\cookedpcng\akaudio.u" />
+    <Package path="thiefgame\cookedpcng\broadcast.u" />
+    <Package path="thiefgame\cookedpcng\core.u" />
+    <Package path="thiefgame\cookedpcng\engine.u" />
+    <Package path="thiefgame\cookedpcng\gameframework.u" />
+    <Package path="thiefgame\cookedpcng\gfxui.u" />
+    <Package path="thiefgame\cookedpcng\globalpersistentcookerdata.upk" />
+    <Package path="thiefgame\cookedpcng\guidcache.upk" />
+    <Package path="thiefgame\cookedpcng\kynapseengine.u" />
+    <Package path="thiefgame\cookedpcng\maps\000\entry\000_entry.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\entry\000_transition_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\mainmenu\000_mainmenu_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\mainmenu\000_mainmenu_x-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\mainmenu\000_mainmenu_x-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\mainmenu\000_mainmenu_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-combat_freak.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-combat_ms.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-combat_ttg.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-death_arrows.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-death_dogs.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-death_drown.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-death_falling.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-death.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-pickpocket_ttg.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-pickpocket.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-reveal.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-td_civ.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\cinesert\000_cinesert-td_ttg.umap" />
+    <Package path="thiefgame\cookedpcng\maps\000\prog\menus\000_prog_menus_mainmenu.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_birds-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge00-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge00-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge00-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_bridge01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_fakebridge-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_fakebridge-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_fakemansion-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_fakemansion-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion03-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansion03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_mansionsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_rooftopssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_sharedbridge01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_sharedgarden01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_streets01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_streets01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_streets01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_streetssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans03-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_trans03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\a\005_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\005\persistent\005_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_01_streetally-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_01_streetally-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_01_streetally-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_02_courtyard-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_02_courtyard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_02_courtyard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_03_jewelery-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_03_jewelery-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_03_jewelery-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_03_jewelerysas-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_03_jewelerysas-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_04_cityhub_mods-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_04_cityhub_mods-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_04_cityhub_mods-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_cityhubsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_fake_clocktower-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_jeweleryareasnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas00-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas00-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas00-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_sas01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_streetsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-ibr.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\a\010_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\010\persistent\010_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_assemblyline-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_atelier-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_atelier-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_atelier-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_dustyard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_factoryinside-fake.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_factoryouteryard-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_factoryouteryard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_factorysnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_fake-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_frontgate-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_furnace-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_furnace-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_furnace-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_gatehouse-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_gatehouse-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_gatehouse-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_inneryard-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_inneryard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_inneryard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_inneryardsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_linetrans02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_manufacturing-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_manufacturing-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_manufacturing-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_outeryard-cine.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_outeryard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_outeryardsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_sharedint01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventin-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventin-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventin-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventout-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventout-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_ventout-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-npcref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\a\021_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\021\persistent\021_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_cine-xiaottgroom.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_flib-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_flib-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_flib-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_flibsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_hob-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_3_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_hob-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_hob-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_hobsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01a-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01a-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01a-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01b-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01b-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas01b-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas03-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sas03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretarea-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretarea-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretarea-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretpassage-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretpassage-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_secretpassage-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sewers-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sewers-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sewers-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sewerssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sharedflib.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sharedhob.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_sharedsewers.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_ttgroom-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-npcref1.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\a\035_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\035\persistent\035_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcelevator-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcelevator-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcelevator-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_archouse-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_archouse-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_archouse-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_archouse-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_archousesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arckeeppuz-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcnpc-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcstudy-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_3_IBRAtlasTexture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcstudy-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arcstudy-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arctrans-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arctrans-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_arctrans-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chase-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chase-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chasep0-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chasep1-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chasep3-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_chasep4-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_crowd-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_crowd-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_crowd-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_garden-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_garden-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_garden-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_garden-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_garden-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_keeplow-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_keeplow-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_roadblock-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_roadblock-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_roadblock-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_rooftops-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="5" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture2" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_rooftops-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_rooftops-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_rooftopssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_sas_00-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_sas_00-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_sas_00-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_sharedchase01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_sharedrooftops01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_studychasesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\a\040_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_boilerroom-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_boilerroom-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_boilerroom-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_cine-symbolfalls.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_echo-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_echo-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_echo-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_elevatorshaft-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_elevatorshaft-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_elevatorshaft-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_elevatorsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_engineroom-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_engineroom-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_engineroom-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_gravenprison-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_gravenprison-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_gravenprison-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepentry-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepentry-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepentry-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keeplobby-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keeplobby-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keeplobby-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepstairwell-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepstairwell-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_keepstairwell-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_loadingbay-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_loadingbay-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_loadingbay-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_lowerkeepsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_officefloors-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_officefloors-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_officefloors-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_pipes-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_pipes-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_pipes-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_safepuzzle-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_safepuzzle-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_safepuzzle-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_safesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_echo-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_echo-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_echo-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_epiccollapse-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_epiccollapse-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sas_epiccollapse-ld2.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sharedlowerkeep01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sharedupperkeep01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_sharedwaterfront01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfront01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfront01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfront02-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="6" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfront02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfront02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_waterfrontsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\b\040_b_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_epiccollapse-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_epiccollapse-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_faketown-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_faketown-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-staticld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\c\040_c_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\persistent\040_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\persistent\040_b_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\040\persistent\040_c_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_center-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_center-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_female-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_female-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_male-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asyl_male-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asylum_exterior-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="7" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asylum_inside-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_asylum_treatment-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_cine-introboat.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_cliffs-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_cliffs-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_corridor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_corridor-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_corridor-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_courtyard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_courtyard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_descent-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_descent-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoentrance-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoentrance-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoentrance-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoexit-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoexit-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoexit-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoreveal-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoreveal-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echoreveal-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echotorture-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_echotorture-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_entrance-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_entrance-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_entrance-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_exteriorsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_fall-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_fall-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_fall-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_freakalertcontrol.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_interior1snd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_interior2snd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_sastreatment-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_sastreatment-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_thefallsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_treatment-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_treatment-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_walkway-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_walkway-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_walkway-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\a\055_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\055\persistent\055_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_atticbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_atticbuffer-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_atticbuffer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_baroncinematic_fake.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_baroncinematic_mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_baroncinematic-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_baroncinematic.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_basementbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_basementbuffer-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_basementbuffer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_courtyard-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_courtyard-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="8" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="7" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_7_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_courtyard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_courtyardsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_exterior-kyn.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_exterior-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_fakext-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_fakextbridge-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_fakextbridge-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior-kyn.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior-phys.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior-ta-shared.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior01-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior02-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior03-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interior03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_interiorsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_leftwingfloor2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_leftwingfloor2-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_leftwingfloor2-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_secretpassage-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_secretpassage-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_secretpassage-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_secretpassage-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_tower-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_tower-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_tower-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_towerbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_towerbuffer-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_towerbuffer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_towersnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-so.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\a\060_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior-ta-shared.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior03-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior05-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior05-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interior05-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_interiorssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_labbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_labbuffer-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_labbuffer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_laboratory-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_laboratory-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_laboratory-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_labsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_ritualchamber-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_ritualchamber-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_ritualchamber-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_tower-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_tower-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_tower-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_towerbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_towerbuffer-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-staticld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\b\060_b_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\persistent\060_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\060\persistent\060_b_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_collapse-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_collapse-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_collapse-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_docks-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_docks-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_docks-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_docks-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_drawbridge-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_drawbridge-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_drawbridge-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_drawtocollapsesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_fakecity-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_fakecity-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_junction-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_junction-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_junction-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_junctiontorooftopsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_rooftops-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_rooftops-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_rooftops-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_sewers-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_sewers-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_sewers-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_sewers-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_sewerstostreetssnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_streets-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_streets-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_streets-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_underbridge-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_underbridge-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_underbridge-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_underbridge-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-so.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\a\065_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\065\persistent\065_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_belltower-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_belltower-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_belltower-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_cathedralsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_ceremony-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_ceremony-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_city01-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_12_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_6_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_city01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_city01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_citysnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_courtyard-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="5" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_10_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_6_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_7_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_8_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_9_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_courtyard-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_courtyard-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_courtyardsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_echoes-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_echoes-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_echoes-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_elevator-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_endpitsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_extfake-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_extfake-skybox.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_freakalertcontrol.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_loadingds-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_loadingds-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_loadingds-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitcath-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_12_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_13_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_13_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitcath-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitcath-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitcath-npcelevator.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitendvnav-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitendvnav-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitendvnav-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitfake-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitfake-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitlayers-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitlayers-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitproces-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitproces-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitsas-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_pitsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_rotunda-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_rotundasnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasbacke-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasbacke-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasbacke-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasnarthex-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasnarthex-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sasnarthex-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_saspassage-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture0" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_saspassage-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_saspassage-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sharedendpit01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_sharedpit01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_tower-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="11" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="8" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="6" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture1" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture2" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_3_IBRAtlasTexture0" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_tower-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_tower-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_towersnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans01surf-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans01surf-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans01surf-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans02surf-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans02surf-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_trans02surf-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_ttgfight.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-ibr.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\a\070_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\070\persistent\070_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bchapel-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bchapel-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bengine-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bengine-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bengine-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_blockerstor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_blockerstor-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddle-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddle-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddle-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddlestor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddlestor-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_bmiddlestor-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_boatenginesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_boatmiddlesnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_caves-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_caves-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_caves-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_caves&amp;cliffsnd-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_cliff-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_cliff-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_cliff-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_fakeboat-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_fakeboat-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_fakecliff-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_sasbstairs-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_sasbstairs-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_sasbstairs-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_saselevator-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_saselevator-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_saselevator-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\a\081_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bchapel-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bchapel-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bchapele2-ghosts.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bchapele2-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_benginestor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_benginestor-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_benginestor-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bfrozengraven-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_blockerstor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bmiddle-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bmiddlestor-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bmiddlestore2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bmiddlestore2-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_bmiddlestore2-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-ibr.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-ref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\b\081_b_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\persistent\081_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\081\persistent\081_b1_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_cine-1enter.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_cine-2jenev.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_cine-3jenev.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_cine-6qob.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_map-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\clockt\666_clockt_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture0" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture1" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture2" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-staticld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\alfoa\666_sideq_alfoa_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_customer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_customer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_ext-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_ext-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_extalley-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_extalley-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_lobby-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_lobby-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_lobby-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_mainvault-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_mainvault-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="5" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture1" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="5" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture1" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_6_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_7_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_8_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_9_IBRAtlasTexture0" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_9_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\bank\666_sideq_bank_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_8_IBRAtlasTexture0" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_8_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\barb\666_sideq_barb_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_9_IBRAtlasTexture0" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-so.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-staticld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\clockw\666_sideq_clockw_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_15_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_16_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\collect\666_sideq_collect_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_17_IBRAtlasTexture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\lenny\666_sideq_lenny_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_map-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_map-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_map-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_26_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_26_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sideq\pawnb\666_sideq_pawnb_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-arts.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-int.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblebank-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-int.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblecenter-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblegravey-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-int.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblenorth-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-int.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_bubblesouthe-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_chapel-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_chapel-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_chapel-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-blackalley-01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r1a.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r1b.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r2a.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r2b.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r3a.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-r3b.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_cine-sickwillydead.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint01-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint01-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint02-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint02-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint03-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint03-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint03-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint04-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint05-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint06-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint06-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint06-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint06-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint07-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint08-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint08-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint08-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint08-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint08-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint09-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint09-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint09-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint09-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint09-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint10-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint10-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint10-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint10-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint10-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint11-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint11-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint11-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint11-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint11-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint12-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint12-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint12-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint12-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint12-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint13-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint13-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint13-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint13-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint13-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint14-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint14-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint14-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_genint14-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-1.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-2.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-3.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-4.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-5.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-6.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_npcref-7.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-gravey-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-gravey-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-north-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-north-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-southe-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_sas-southe-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-base-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-base-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-basea-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-basea-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-baseb-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-baseb-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-rdc-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_tavern-rdc-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="7" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_3_IBRAtlasTexture0" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture0" suffix="5" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture1" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_4_IBRAtlasTexture2" suffix="2" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture0" suffix="6" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_5_IBRAtlasTexture1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-ibr01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture0" suffix="12" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture1" suffix="9" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_0_IBRAtlasTexture2" suffix="3" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture0" suffix="8" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_1_IBRAtlasTexture1" suffix="4" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture0" suffix="6" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_2_IBRAtlasTexture1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-locations.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-mapicons.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-props-ng.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-so.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_z-questbasso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_z-questhector.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_z-questmanager.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\1\666_sm_1_z-questvittori.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sm\persistent\666_sm_1_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleext-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-map.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-pd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_bubbleint-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint01-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint01-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint02-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_genint02-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-echo-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-echo01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-echo02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-echo03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-props.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_mill-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint01-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint02-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint02-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint02-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint03-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint03-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint03-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint04-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint05-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint06-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint06-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint06-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint06-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint06-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint07-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint07-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint07-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint07-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint08-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint08-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint08-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint08-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint09-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint09-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint09-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint09-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint09-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint10-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint10-loot.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint10-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_specint10-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_tavern-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_tavern-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_tavern-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_tavern-pso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_tavern-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-goals.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_30_IBRAtlasTexture0" suffix="1" />
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_30_IBRAtlasTexture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-locations.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-npcref.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-props-ng.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-so.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-cine-r1.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-cine-r2.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-cine-r3.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-cine-r3b.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-questbasso.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-questhector.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-questmanager.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\a\666_sq_a_z-questvittori.umap" />
+    <Package path="thiefgame\cookedpcng\maps\666\sq\persistent\666_sq_a_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_common-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_ghost-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_hob-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_hob-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_hob-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_hobe2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_sas01b-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_sas01b-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_sharedhob.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-ibr.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="TheWorld\PersistentLevel\ImageReflectionRoom_3_IBRAtlasTexture0" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\b\000_cm_b_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_basementbuffer-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_basementbuffer-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_chain-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_common-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_ghost-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior-phys.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior01-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior01-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior02-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior02-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior03-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interior03-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interiore2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_interiore2-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_leftwingfloor2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_leftwingfloor2-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_leftwingfloor2-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_sharedinterior.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-lcmap.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\c\000_cm_c_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_asylum_inside-art.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="LA_000_Ext_PropL\Barrel-Large-01_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_asylum_inside-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_asylum_insidee2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_common-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_ghost-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_sharedasylum.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_treatment-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_treatment-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_treatmente2-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_treatmente2-ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_walkway-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_walkway-mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_x-art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_x-flow.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_x-maps.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_x-snd.umap" />
+    <Package path="thiefgame\cookedpcng\maps\cm\d\000_cm_d_x-staticlig.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_art.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_ld.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_light.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_mood.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_part01.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_persistent.umap" />
+    <Package path="thiefgame\cookedpcng\maps\pr\entercity_benchmark\entercity_benchmark_props.umap" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_agrasylumskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_agrcivskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_agrgravenskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_alphonsoskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_architectskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_archwifeskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_asylumskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_barrshieldskndef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_beardedladyskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_beggarcinskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_beggarmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_bennyskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_blossomskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civavgfemskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civavgmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civcookskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civlrfemaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civlrmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civmaidskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civpoormaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civrichbutlersdef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civrichfemskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civrichmalemasskdef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civrichmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_civworkerskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_crossbowmanskdef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_deadmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_doctorskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_freakskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_gravenmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_grcaptskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_grchosenskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_grcrossbowskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_grxpguardskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_mercexpcrossbowdef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_mercexpguarddef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_merctaverndef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_petalskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_petalskindefnude_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_plaguedoctorskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_prostituteskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_richnudemaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_rookieskidef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_scarletskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_thugskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_ttgskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_wadminfemaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_wadminmaleskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_wadminofficersdef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_wcaptainskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_xiaoxiaoskindef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\ai\skindefinitions\prog_ai_xpguardskidef_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo021_1_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo021_2_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo035_1_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo035_2_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo055_1_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo055_2_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo055_3_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo055_4_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo060_1_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echo060_2_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\echo\prog_gui_echoloading_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_bank.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_cm_b.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_cm_c.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_cm_d.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_ct01.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hideout.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r0.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r1.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r2.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r3.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r4.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r5.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_hub_r6.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m000.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m010.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m020.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m030.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m040a.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m040b.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m050.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m060a.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m060b.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m065.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m070.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m080a.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_m080b.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_sirensrest.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_sm.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_sq01.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\loadingscreens\prog_gui_loading_tavern.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_fonts_jp.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_fonts.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_loadingscreens.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_macrosticrings_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mbankloots_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mbutterflyjewelry_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mcameojewelry_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mfloraljewelry_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mmementomori_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mmissionloots_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_mplaques_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_msnakejewelry_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\prog_gui_muniqueloots_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_060_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_acrosticring_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_butterfly_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_cameo_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_challenge_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_consumables_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_difficulty_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_ector_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_floral_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_greystone_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_item_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_journalmenu_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_m4_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_memento_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_mission_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_paintings_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_snake_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_sq_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_temp_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_tutorial_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_uniqueloot_sf.upk" />
+    <Package path="thiefgame\cookedpcng\packages\prog\gui\sf\prog_gui_sf_upgrades_sf.upk" />
+    <Package path="thiefgame\cookedpcng\platformmanagerpc.u" />
+    <Package path="thiefgame\cookedpcng\refshadercachenixxes-pc-d3d-sm4.upk" />
+    <Package path="thiefgame\cookedpcng\refshadercachenixxes-pc-d3d-sm5.upk" />
+    <Package path="thiefgame\cookedpcng\startup_int.upk" />
+    <Package path="thiefgame\cookedpcng\thiefgame.u" />
+  </Packages>
+</IdRemapping>

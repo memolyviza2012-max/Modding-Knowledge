@@ -1,0 +1,59 @@
+﻿This file describes the file format used when exporting objects. This descriptor is only for version 12 (latest version)
+
+Object export file structure:
+	Tag FString (always "ObjectExportData")
+	FileVersion Int32: The version of the object export file
+	GameId FString (default = "None"): Used to select the correct game profile
+	PackageVersion Int32: Used to select the correct game profile
+	LienseeVersion Int32: Used to select the correct game profile
+	Platform EPlatforms: Used to select the correct game profile
+	Data: ObjectData: Main object data
+	Children TArray(of ObjectData): All the child objects that were exported with the main object.
+	
+ObjectData:
+	GroupPath FString: Id of the object
+	ObjectExportData ObjectExportData
+	LocalOffsetRecords TArray(Of LocalOffsetRecord): Package file offsets used in the SerializedData
+	NameEntries TArray(Of NameEntryExport): References used in the SerializedData
+	ObjectReferences TArray(Of ObjectReferenceEntryExport): References used in the SerializedData
+	ObjectClass FString
+	SerializedData TArray(of Byte)
+	UnsupportedDataSize Int32
+	
+ObjectExportData: Export table entry
+	NameEntries TArray(Of NameEntryExport): References used in the SerializedData
+	ObjectReferences TArray(Of ObjectReferenceEntryExport): References used in the SerializedData
+	SerializedData TArray(of Byte)
+	
+LocalOffsetRecord:
+	Position Int64
+	Is64Bits Byte
+
+NameEntryExport:
+	Index Int32
+	Value FString
+
+ObjectReferenceEntryExport:
+	Index Int32 (if Index < 0: Import entry. If Index > 0: Export entry)
+	IdString FString
+	FullPath FSTring (only if Index < 0)
+	ClassName FString
+	ClassPackage FString (only if Index < 0)
+
+EPlatforms: Int32 Enum
+	Unknown = -1
+	PC = 0
+	PS3 = 1
+	PS4 = 2
+	XBox360 = 3
+	Switch = 4
+	WiiU = 5
+
+FString: Null terminated string, either ANSI or Unicode.
+	EncodedLenght Int32.
+	ANSIChars: Byte[]. Only if EncodeLenght > 0. Count is EncodeLenght. Last char is 0
+	UnicodeChars: UInt16[]. Only if EncodeLenght < 0. Count is -EncodedLenght. Last char is 00
+
+TArray: Array that contains [Count] items
+	Count Int32
+	Items TItem[]

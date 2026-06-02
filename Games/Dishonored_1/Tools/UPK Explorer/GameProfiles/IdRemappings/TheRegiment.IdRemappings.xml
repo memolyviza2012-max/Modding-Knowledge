@@ -1,0 +1,844 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\cciv.ukx" />
+    <Package path="animations\csas.ukx" />
+    <Package path="animations\wpan.ukx" />
+    <Package path="maps\embp1.sas" />
+    <Package path="maps\embp2.sas" />
+    <Package path="maps\embp3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance16\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance28\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\entry.sas" />
+    <Package path="maps\frmp1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance33\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\frmp2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance2\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\frmp3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\frontend.sas" />
+    <Package path="maps\krmp1_1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance1\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp1_2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance10\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance3\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture4" suffix="2" />
+        <Object id="StaticMeshInstance5\Texture5" suffix="2" />
+        <Object id="StaticMeshInstance7\Texture7" suffix="1" />
+        <Object id="StaticMeshInstance8\Texture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp1_3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance10\Texture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp1_4.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance16\Texture7" suffix="1" />
+        <Object id="StaticMeshInstance161\Texture76" suffix="1" />
+        <Object id="StaticMeshInstance162\Texture77" suffix="1" />
+        <Object id="StaticMeshInstance163\Texture78" suffix="1" />
+        <Object id="StaticMeshInstance17\Texture8" suffix="1" />
+        <Object id="StaticMeshInstance328\Texture169" suffix="1" />
+        <Object id="StaticMeshInstance340\Texture179" suffix="1" />
+        <Object id="StaticMeshInstance343\Texture181" suffix="1" />
+        <Object id="StaticMeshInstance344\Texture182" suffix="1" />
+        <Object id="StaticMeshInstance345\Texture183" suffix="1" />
+        <Object id="StaticMeshInstance346\Texture184" suffix="1" />
+        <Object id="StaticMeshInstance347\Texture185" suffix="1" />
+        <Object id="StaticMeshInstance60\Texture38" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance16\Texture12" suffix="1" />
+        <Object id="StaticMeshInstance17\Texture13" suffix="1" />
+        <Object id="StaticMeshInstance18\Texture14" suffix="1" />
+        <Object id="StaticMeshInstance19\Texture15" suffix="1" />
+        <Object id="StaticMeshInstance262\Texture93" suffix="1" />
+        <Object id="StaticMeshInstance263\Texture94" suffix="1" />
+        <Object id="StaticMeshInstance264\Texture95" suffix="1" />
+        <Object id="StaticMeshInstance265\Texture96" suffix="1" />
+        <Object id="StaticMeshInstance266\Texture97" suffix="1" />
+        <Object id="StaticMeshInstance267\Texture98" suffix="1" />
+        <Object id="StaticMeshInstance268\Texture99" suffix="1" />
+        <Object id="StaticMeshInstance3\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance46\Texture26" suffix="1" />
+        <Object id="StaticMeshInstance47\Texture27" suffix="1" />
+        <Object id="StaticMeshInstance48\Texture28" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance27\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance44\Texture3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="3" />
+        <Object id="StaticMeshInstance1\Texture1" suffix="2" />
+        <Object id="StaticMeshInstance2\Texture2" suffix="2" />
+        <Object id="StaticMeshInstance3\Texture3" suffix="2" />
+        <Object id="StaticMeshInstance4\Texture4" suffix="3" />
+        <Object id="StaticMeshInstance5\Texture5" suffix="3" />
+        <Object id="StaticMeshInstance6\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_4.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance44\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance47\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance8\Texture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_5.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="4" />
+        <Object id="StaticMeshInstance1\Texture1" suffix="3" />
+        <Object id="StaticMeshInstance10\Texture10" suffix="1" />
+        <Object id="StaticMeshInstance109\Texture95" suffix="1" />
+        <Object id="StaticMeshInstance11\Texture11" suffix="1" />
+        <Object id="StaticMeshInstance110\Texture96" suffix="1" />
+        <Object id="StaticMeshInstance111\Texture97" suffix="1" />
+        <Object id="StaticMeshInstance112\Texture98" suffix="1" />
+        <Object id="StaticMeshInstance113\Texture99" suffix="1" />
+        <Object id="StaticMeshInstance114\Texture100" suffix="1" />
+        <Object id="StaticMeshInstance115\Texture101" suffix="1" />
+        <Object id="StaticMeshInstance117\Texture102" suffix="1" />
+        <Object id="StaticMeshInstance118\Texture103" suffix="1" />
+        <Object id="StaticMeshInstance119\Texture104" suffix="1" />
+        <Object id="StaticMeshInstance120\Texture105" suffix="1" />
+        <Object id="StaticMeshInstance121\Texture106" suffix="1" />
+        <Object id="StaticMeshInstance122\Texture107" suffix="1" />
+        <Object id="StaticMeshInstance123\Texture108" suffix="1" />
+        <Object id="StaticMeshInstance124\Texture109" suffix="1" />
+        <Object id="StaticMeshInstance125\Texture110" suffix="1" />
+        <Object id="StaticMeshInstance126\Texture111" suffix="1" />
+        <Object id="StaticMeshInstance127\Texture112" suffix="1" />
+        <Object id="StaticMeshInstance128\Texture113" suffix="1" />
+        <Object id="StaticMeshInstance129\Texture114" suffix="1" />
+        <Object id="StaticMeshInstance130\Texture115" suffix="1" />
+        <Object id="StaticMeshInstance131\Texture116" suffix="1" />
+        <Object id="StaticMeshInstance132\Texture117" suffix="1" />
+        <Object id="StaticMeshInstance133\Texture118" suffix="1" />
+        <Object id="StaticMeshInstance134\Texture119" suffix="1" />
+        <Object id="StaticMeshInstance135\Texture120" suffix="1" />
+        <Object id="StaticMeshInstance136\Texture121" suffix="1" />
+        <Object id="StaticMeshInstance137\Texture122" suffix="1" />
+        <Object id="StaticMeshInstance154\Texture123" suffix="1" />
+        <Object id="StaticMeshInstance155\Texture124" suffix="1" />
+        <Object id="StaticMeshInstance156\Texture125" suffix="1" />
+        <Object id="StaticMeshInstance159\Texture126" suffix="1" />
+        <Object id="StaticMeshInstance160\Texture127" suffix="1" />
+        <Object id="StaticMeshInstance161\Texture128" suffix="1" />
+        <Object id="StaticMeshInstance162\Texture129" suffix="1" />
+        <Object id="StaticMeshInstance163\Texture130" suffix="1" />
+        <Object id="StaticMeshInstance164\Texture131" suffix="1" />
+        <Object id="StaticMeshInstance165\Texture132" suffix="1" />
+        <Object id="StaticMeshInstance166\Texture133" suffix="1" />
+        <Object id="StaticMeshInstance168\Texture134" suffix="1" />
+        <Object id="StaticMeshInstance169\Texture135" suffix="1" />
+        <Object id="StaticMeshInstance170\Texture136" suffix="1" />
+        <Object id="StaticMeshInstance171\Texture137" suffix="1" />
+        <Object id="StaticMeshInstance172\Texture138" suffix="1" />
+        <Object id="StaticMeshInstance173\Texture139" suffix="1" />
+        <Object id="StaticMeshInstance174\Texture140" suffix="1" />
+        <Object id="StaticMeshInstance175\Texture141" suffix="1" />
+        <Object id="StaticMeshInstance176\Texture142" suffix="1" />
+        <Object id="StaticMeshInstance177\Texture143" suffix="1" />
+        <Object id="StaticMeshInstance178\Texture144" suffix="1" />
+        <Object id="StaticMeshInstance179\Texture145" suffix="1" />
+        <Object id="StaticMeshInstance19\Texture18" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture2" suffix="3" />
+        <Object id="StaticMeshInstance20\Texture19" suffix="1" />
+        <Object id="StaticMeshInstance21\Texture20" suffix="1" />
+        <Object id="StaticMeshInstance22\Texture21" suffix="1" />
+        <Object id="StaticMeshInstance23\Texture22" suffix="1" />
+        <Object id="StaticMeshInstance25\Texture23" suffix="1" />
+        <Object id="StaticMeshInstance26\Texture24" suffix="1" />
+        <Object id="StaticMeshInstance27\Texture25" suffix="1" />
+        <Object id="StaticMeshInstance28\Texture26" suffix="1" />
+        <Object id="StaticMeshInstance29\Texture27" suffix="1" />
+        <Object id="StaticMeshInstance30\Texture28" suffix="1" />
+        <Object id="StaticMeshInstance31\Texture29" suffix="1" />
+        <Object id="StaticMeshInstance32\Texture30" suffix="1" />
+        <Object id="StaticMeshInstance33\Texture31" suffix="1" />
+        <Object id="StaticMeshInstance34\Texture32" suffix="1" />
+        <Object id="StaticMeshInstance35\Texture33" suffix="1" />
+        <Object id="StaticMeshInstance36\Texture34" suffix="1" />
+        <Object id="StaticMeshInstance37\Texture35" suffix="1" />
+        <Object id="StaticMeshInstance38\Texture36" suffix="1" />
+        <Object id="StaticMeshInstance39\Texture37" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture4" suffix="4" />
+        <Object id="StaticMeshInstance40\Texture38" suffix="1" />
+        <Object id="StaticMeshInstance41\Texture39" suffix="1" />
+        <Object id="StaticMeshInstance42\Texture40" suffix="1" />
+        <Object id="StaticMeshInstance43\Texture41" suffix="1" />
+        <Object id="StaticMeshInstance44\Texture42" suffix="1" />
+        <Object id="StaticMeshInstance45\Texture43" suffix="1" />
+        <Object id="StaticMeshInstance47\Texture45" suffix="1" />
+        <Object id="StaticMeshInstance48\Texture46" suffix="1" />
+        <Object id="StaticMeshInstance49\Texture47" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture5" suffix="4" />
+        <Object id="StaticMeshInstance50\Texture48" suffix="1" />
+        <Object id="StaticMeshInstance51\Texture49" suffix="1" />
+        <Object id="StaticMeshInstance52\Texture50" suffix="1" />
+        <Object id="StaticMeshInstance53\Texture51" suffix="1" />
+        <Object id="StaticMeshInstance54\Texture52" suffix="1" />
+        <Object id="StaticMeshInstance55\Texture53" suffix="1" />
+        <Object id="StaticMeshInstance56\Texture54" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture6" suffix="2" />
+        <Object id="StaticMeshInstance7\Texture7" suffix="3" />
+        <Object id="StaticMeshInstance8\Texture8" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp2_6.sas" />
+    <Package path="maps\krmp2_7.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance101\Texture9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp3_1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="3" />
+        <Object id="StaticMeshInstance21\Texture16" suffix="1" />
+        <Object id="StaticMeshInstance235\Texture154" suffix="1" />
+        <Object id="StaticMeshInstance236\Texture155" suffix="1" />
+        <Object id="StaticMeshInstance24\Texture18" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp3_2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance10\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance11\Texture7" suffix="1" />
+        <Object id="StaticMeshInstance12\Texture8" suffix="1" />
+        <Object id="StaticMeshInstance13\Texture9" suffix="1" />
+        <Object id="StaticMeshInstance14\Texture10" suffix="1" />
+        <Object id="StaticMeshInstance143\Texture42" suffix="1" />
+        <Object id="StaticMeshInstance15\Texture11" suffix="1" />
+        <Object id="StaticMeshInstance16\Texture12" suffix="2" />
+        <Object id="StaticMeshInstance17\Texture13" suffix="2" />
+        <Object id="StaticMeshInstance18\Texture14" suffix="2" />
+        <Object id="StaticMeshInstance2\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance20\Texture15" suffix="1" />
+        <Object id="StaticMeshInstance21\Texture16" suffix="2" />
+        <Object id="StaticMeshInstance22\Texture17" suffix="1" />
+        <Object id="StaticMeshInstance23\Texture18" suffix="1" />
+        <Object id="StaticMeshInstance3\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp3_3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="5" />
+        <Object id="StaticMeshInstance10\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance105\Texture68" suffix="1" />
+        <Object id="StaticMeshInstance18\Texture9" suffix="1" />
+        <Object id="StaticMeshInstance19\Texture10" suffix="1" />
+        <Object id="StaticMeshInstance192\Texture110" suffix="1" />
+        <Object id="StaticMeshInstance21\Texture12" suffix="1" />
+        <Object id="StaticMeshInstance22\Texture13" suffix="1" />
+        <Object id="StaticMeshInstance51\Texture31" suffix="1" />
+        <Object id="StaticMeshInstance76\Texture45" suffix="1" />
+        <Object id="StaticMeshInstance77\Texture46" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp4_1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="6" />
+        <Object id="StaticMeshInstance35\Texture18" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance8\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp4_2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="4" />
+        <Object id="StaticMeshInstance10\Texture1" suffix="2" />
+        <Object id="StaticMeshInstance109\Texture71" suffix="1" />
+        <Object id="StaticMeshInstance11\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance110\Texture72" suffix="1" />
+        <Object id="StaticMeshInstance115\Texture73" suffix="1" />
+        <Object id="StaticMeshInstance116\Texture74" suffix="1" />
+        <Object id="StaticMeshInstance117\Texture75" suffix="1" />
+        <Object id="StaticMeshInstance118\Texture76" suffix="1" />
+        <Object id="StaticMeshInstance119\Texture77" suffix="1" />
+        <Object id="StaticMeshInstance120\Texture78" suffix="1" />
+        <Object id="StaticMeshInstance121\Texture79" suffix="1" />
+        <Object id="StaticMeshInstance122\Texture80" suffix="1" />
+        <Object id="StaticMeshInstance123\Texture81" suffix="1" />
+        <Object id="StaticMeshInstance124\Texture82" suffix="1" />
+        <Object id="StaticMeshInstance125\Texture83" suffix="1" />
+        <Object id="StaticMeshInstance126\Texture84" suffix="1" />
+        <Object id="StaticMeshInstance127\Texture85" suffix="1" />
+        <Object id="StaticMeshInstance128\Texture86" suffix="1" />
+        <Object id="StaticMeshInstance13\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance136\Texture91" suffix="1" />
+        <Object id="StaticMeshInstance15\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance170\Texture96" suffix="1" />
+        <Object id="StaticMeshInstance172\Texture97" suffix="1" />
+        <Object id="StaticMeshInstance176\Texture98" suffix="1" />
+        <Object id="StaticMeshInstance177\Texture99" suffix="1" />
+        <Object id="StaticMeshInstance178\Texture100" suffix="1" />
+        <Object id="StaticMeshInstance18\Texture9" suffix="2" />
+        <Object id="StaticMeshInstance19\Texture10" suffix="2" />
+        <Object id="StaticMeshInstance192\Texture110" suffix="2" />
+        <Object id="StaticMeshInstance195\Texture111" suffix="1" />
+        <Object id="StaticMeshInstance196\Texture112" suffix="1" />
+        <Object id="StaticMeshInstance197\Texture113" suffix="1" />
+        <Object id="StaticMeshInstance198\Texture114" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture1" suffix="2" />
+        <Object id="StaticMeshInstance20\Texture11" suffix="1" />
+        <Object id="StaticMeshInstance209\Texture122" suffix="1" />
+        <Object id="StaticMeshInstance21\Texture12" suffix="2" />
+        <Object id="StaticMeshInstance210\Texture123" suffix="1" />
+        <Object id="StaticMeshInstance211\Texture124" suffix="1" />
+        <Object id="StaticMeshInstance212\Texture125" suffix="1" />
+        <Object id="StaticMeshInstance213\Texture126" suffix="1" />
+        <Object id="StaticMeshInstance22\Texture13" suffix="2" />
+        <Object id="StaticMeshInstance24\Texture14" suffix="1" />
+        <Object id="StaticMeshInstance25\Texture15" suffix="1" />
+        <Object id="StaticMeshInstance26\Texture16" suffix="1" />
+        <Object id="StaticMeshInstance27\Texture17" suffix="1" />
+        <Object id="StaticMeshInstance28\Texture18" suffix="1" />
+        <Object id="StaticMeshInstance29\Texture19" suffix="1" />
+        <Object id="StaticMeshInstance30\Texture20" suffix="1" />
+        <Object id="StaticMeshInstance31\Texture21" suffix="1" />
+        <Object id="StaticMeshInstance32\Texture22" suffix="1" />
+        <Object id="StaticMeshInstance33\Texture23" suffix="1" />
+        <Object id="StaticMeshInstance34\Texture24" suffix="1" />
+        <Object id="StaticMeshInstance35\Texture25" suffix="1" />
+        <Object id="StaticMeshInstance36\Texture26" suffix="1" />
+        <Object id="StaticMeshInstance37\Texture27" suffix="1" />
+        <Object id="StaticMeshInstance38\Texture28" suffix="1" />
+        <Object id="StaticMeshInstance39\Texture29" suffix="1" />
+        <Object id="StaticMeshInstance43\Texture30" suffix="1" />
+        <Object id="StaticMeshInstance51\Texture31" suffix="2" />
+        <Object id="StaticMeshInstance56\Texture32" suffix="1" />
+        <Object id="StaticMeshInstance59\Texture33" suffix="1" />
+        <Object id="StaticMeshInstance60\Texture34" suffix="1" />
+        <Object id="StaticMeshInstance61\Texture35" suffix="1" />
+        <Object id="StaticMeshInstance64\Texture36" suffix="1" />
+        <Object id="StaticMeshInstance65\Texture37" suffix="1" />
+        <Object id="StaticMeshInstance67\Texture38" suffix="1" />
+        <Object id="StaticMeshInstance68\Texture39" suffix="1" />
+        <Object id="StaticMeshInstance69\Texture40" suffix="1" />
+        <Object id="StaticMeshInstance70\Texture41" suffix="1" />
+        <Object id="StaticMeshInstance71\Texture42" suffix="1" />
+        <Object id="StaticMeshInstance72\Texture43" suffix="1" />
+        <Object id="StaticMeshInstance73\Texture44" suffix="1" />
+        <Object id="StaticMeshInstance76\Texture45" suffix="2" />
+        <Object id="StaticMeshInstance77\Texture46" suffix="2" />
+        <Object id="StaticMeshInstance78\Texture47" suffix="1" />
+        <Object id="StaticMeshInstance79\Texture48" suffix="1" />
+        <Object id="StaticMeshInstance80\Texture49" suffix="1" />
+        <Object id="StaticMeshInstance81\Texture50" suffix="1" />
+        <Object id="StaticMeshInstance82\Texture51" suffix="1" />
+        <Object id="StaticMeshInstance83\Texture52" suffix="1" />
+        <Object id="StaticMeshInstance84\Texture53" suffix="1" />
+        <Object id="StaticMeshInstance85\Texture54" suffix="1" />
+        <Object id="StaticMeshInstance86\Texture55" suffix="1" />
+        <Object id="StaticMeshInstance87\Texture56" suffix="1" />
+        <Object id="StaticMeshInstance88\Texture57" suffix="1" />
+        <Object id="StaticMeshInstance89\Texture58" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance90\Texture59" suffix="1" />
+        <Object id="StaticMeshInstance92\Texture61" suffix="1" />
+        <Object id="StaticMeshInstance93\Texture62" suffix="1" />
+        <Object id="StaticMeshInstance94\Texture63" suffix="1" />
+        <Object id="StaticMeshInstance95\Texture64" suffix="1" />
+        <Object id="StaticMeshInstance98\Texture65" suffix="1" />
+        <Object id="StaticMeshInstance99\Texture66" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\krmp4_3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="7" />
+        <Object id="StaticMeshInstance1\Texture0" suffix="5" />
+        <Object id="StaticMeshInstance11\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture1" suffix="3" />
+        <Object id="StaticMeshInstance27\Texture19" suffix="1" />
+        <Object id="StaticMeshInstance3\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture2" suffix="2" />
+        <Object id="StaticMeshInstance56\Texture35" suffix="1" />
+        <Object id="StaticMeshInstance57\Texture36" suffix="1" />
+        <Object id="StaticMeshInstance58\Texture37" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture4" suffix="2" />
+        <Object id="StaticMeshInstance83\Texture57" suffix="1" />
+        <Object id="StaticMeshInstance84\Texture58" suffix="1" />
+        <Object id="StaticMeshInstance85\Texture59" suffix="1" />
+        <Object id="StaticMeshInstance86\Texture60" suffix="1" />
+        <Object id="StaticMeshInstance87\Texture61" suffix="1" />
+        <Object id="StaticMeshInstance88\Texture62" suffix="1" />
+        <Object id="StaticMeshInstance89\Texture63" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture2" suffix="2" />
+        <Object id="StaticMeshInstance90\Texture64" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_emb_abandoned.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="6" />
+        <Object id="StaticMeshInstance10\Texture1" suffix="3" />
+        <Object id="StaticMeshInstance4\Texture3" suffix="2" />
+        <Object id="StaticMeshInstance9\Texture0" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_emb_ground.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="8" />
+        <Object id="StaticMeshInstance12\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance13\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance194\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_frmp1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance23\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture0" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_frmp2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance2\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance289\Texture10" suffix="1" />
+        <Object id="StaticMeshInstance4\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance7\Texture1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_frmp3.sas" />
+    <Package path="maps\mp_parp1_b2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance263\Texture23" suffix="1" />
+        <Object id="StaticMeshInstance264\Texture24" suffix="1" />
+        <Object id="StaticMeshInstance265\Texture25" suffix="1" />
+        <Object id="StaticMeshInstance266\Texture26" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_parp1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="7" />
+        <Object id="StaticMeshInstance10\Texture0" suffix="3" />
+        <Object id="StaticMeshInstance2\Texture1" suffix="4" />
+        <Object id="StaticMeshInstance289\Texture10" suffix="2" />
+        <Object id="StaticMeshInstance4\Texture2" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_parp2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="9" />
+        <Object id="StaticMeshInstance1\Texture1" suffix="4" />
+        <Object id="StaticMeshInstance100\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture2" suffix="4" />
+        <Object id="StaticMeshInstance22\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance327\Texture31" suffix="1" />
+        <Object id="StaticMeshInstance328\Texture32" suffix="1" />
+        <Object id="StaticMeshInstance329\Texture33" suffix="1" />
+        <Object id="StaticMeshInstance330\Texture34" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance83\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance91\Texture10" suffix="1" />
+        <Object id="StaticMeshInstance93\Texture11" suffix="1" />
+        <Object id="StaticMeshInstance99\Texture4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_parp3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance14\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance3\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance356\Texture103" suffix="1" />
+        <Object id="StaticMeshInstance50\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance7\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance8\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance9\Texture6" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_tbep1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1\Texture0" suffix="8" />
+        <Object id="StaticMeshInstance2\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance377\Texture53" suffix="1" />
+        <Object id="StaticMeshInstance378\Texture54" suffix="1" />
+        <Object id="StaticMeshInstance379\Texture55" suffix="1" />
+        <Object id="StaticMeshInstance380\Texture56" suffix="1" />
+        <Object id="StaticMeshInstance381\Texture57" suffix="1" />
+        <Object id="StaticMeshInstance382\Texture58" suffix="1" />
+        <Object id="StaticMeshInstance97\Texture12" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_tbep2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance57\Texture0" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\mp_tbep3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance19\Texture0" suffix="1" />
+        <Object id="StaticMeshInstance52\Texture41" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\parp1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="10" />
+        <Object id="StaticMeshInstance1\Texture1" suffix="5" />
+        <Object id="StaticMeshInstance10\Texture10" suffix="2" />
+        <Object id="StaticMeshInstance11\Texture11" suffix="2" />
+        <Object id="StaticMeshInstance12\Texture12" suffix="1" />
+        <Object id="StaticMeshInstance13\Texture13" suffix="1" />
+        <Object id="StaticMeshInstance14\Texture14" suffix="1" />
+        <Object id="StaticMeshInstance15\Texture15" suffix="1" />
+        <Object id="StaticMeshInstance16\Texture16" suffix="1" />
+        <Object id="StaticMeshInstance17\Texture17" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture2" suffix="5" />
+        <Object id="StaticMeshInstance3\Texture3" suffix="3" />
+        <Object id="StaticMeshInstance4\Texture4" suffix="5" />
+        <Object id="StaticMeshInstance5\Texture5" suffix="5" />
+        <Object id="StaticMeshInstance6\Texture6" suffix="3" />
+        <Object id="StaticMeshInstance7\Texture7" suffix="4" />
+        <Object id="StaticMeshInstance8\Texture8" suffix="2" />
+        <Object id="StaticMeshInstance9\Texture9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\parp2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="11" />
+        <Object id="StaticMeshInstance1\Texture0" suffix="9" />
+        <Object id="StaticMeshInstance10\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance1193\Texture288" suffix="1" />
+        <Object id="StaticMeshInstance1220\Texture301" suffix="1" />
+        <Object id="StaticMeshInstance1222\Texture302" suffix="1" />
+        <Object id="StaticMeshInstance15\Texture8" suffix="1" />
+        <Object id="StaticMeshInstance19\Texture1" suffix="1" />
+        <Object id="StaticMeshInstance2\Texture1" suffix="5" />
+        <Object id="StaticMeshInstance20\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance225\Texture68" suffix="1" />
+        <Object id="StaticMeshInstance24\Texture7" suffix="1" />
+        <Object id="StaticMeshInstance27\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance276\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance28\Texture1" suffix="2" />
+        <Object id="StaticMeshInstance3\Texture2" suffix="2" />
+        <Object id="StaticMeshInstance42\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\parp3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance0\Texture0" suffix="12" />
+        <Object id="StaticMeshInstance1\Texture0" suffix="10" />
+        <Object id="StaticMeshInstance1835\Texture319" suffix="1" />
+        <Object id="StaticMeshInstance24\Texture2" suffix="1" />
+        <Object id="StaticMeshInstance25\Texture3" suffix="1" />
+        <Object id="StaticMeshInstance26\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance27\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance28\Texture6" suffix="1" />
+        <Object id="StaticMeshInstance29\Texture7" suffix="1" />
+        <Object id="StaticMeshInstance30\Texture8" suffix="1" />
+        <Object id="StaticMeshInstance33\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance4\Texture2" suffix="4" />
+        <Object id="StaticMeshInstance5\Texture0" suffix="3" />
+        <Object id="StaticMeshInstance6\Texture3" suffix="2" />
+        <Object id="StaticMeshInstance7\Texture1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\tbep1.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance1139\Texture82" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture0" suffix="4" />
+        <Object id="StaticMeshInstance6\Texture1" suffix="3" />
+        <Object id="StaticMeshInstance7\Texture2" suffix="2" />
+        <Object id="StaticMeshInstance9\Texture0" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\tbep2.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance14\Texture0" suffix="2" />
+        <Object id="StaticMeshInstance353\Texture35" suffix="1" />
+        <Object id="StaticMeshInstance4173\Texture360" suffix="1" />
+        <Object id="StaticMeshInstance4174\Texture361" suffix="1" />
+        <Object id="StaticMeshInstance5\Texture0" suffix="5" />
+        <Object id="StaticMeshInstance55\Texture4" suffix="1" />
+        <Object id="StaticMeshInstance56\Texture5" suffix="1" />
+        <Object id="StaticMeshInstance6\Texture1" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\tbep3.sas">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="StaticMeshInstance2\Texture0" suffix="3" />
+        <Object id="StaticMeshInstance3\Texture1" suffix="2" />
+        <Object id="StaticMeshInstance697\Texture21" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sounds\ambassador.uax" />
+    <Package path="sounds\announcer.uax" />
+    <Package path="sounds\announcermain.uax" />
+    <Package path="sounds\automessage.uax" />
+    <Package path="sounds\blueone.uax" />
+    <Package path="sounds\blueonea.uax" />
+    <Package path="sounds\blueoneb.uax" />
+    <Package path="sounds\blueonec.uax" />
+    <Package path="sounds\bluetwo.uax" />
+    <Package path="sounds\con_ambiences.uax" />
+    <Package path="sounds\coughs.uax" />
+    <Package path="sounds\defhurt.uax" />
+    <Package path="sounds\embterrorist1.uax" />
+    <Package path="sounds\embterrorist2.uax" />
+    <Package path="sounds\explo.uax" />
+    <Package path="sounds\farmterrorist1.uax" />
+    <Package path="sounds\farmterrorist2.uax" />
+    <Package path="sounds\gamesounds.uax" />
+    <Package path="sounds\gui.uax" />
+    <Package path="sounds\hostage1.uax" />
+    <Package path="sounds\hostage2.uax" />
+    <Package path="sounds\hostage3.uax" />
+    <Package path="sounds\hostage4.uax" />
+    <Package path="sounds\hostage5.uax" />
+    <Package path="sounds\hostage6.uax" />
+    <Package path="sounds\imp.uax" />
+    <Package path="sounds\malesounds.uax" />
+    <Package path="sounds\mm_ambiences.uax" />
+    <Package path="sounds\mm_footsteps.uax" />
+    <Package path="sounds\mm_front_end.uax" />
+    <Package path="sounds\mm_generic.uax" />
+    <Package path="sounds\mm_impacts.uax" />
+    <Package path="sounds\mm_scripts.uax" />
+    <Package path="sounds\mm_training.uax" />
+    <Package path="sounds\mm_trigger_volumes.uax" />
+    <Package path="sounds\mm_weapons.uax" />
+    <Package path="sounds\parterrorist1.uax" />
+    <Package path="sounds\parterrorist2.uax" />
+    <Package path="sounds\redone.uax" />
+    <Package path="sounds\redtwo.uax" />
+    <Package path="sounds\runtimeinterfacesounds.uax" />
+    <Package path="sounds\sasannouncer.uax" />
+    <Package path="sounds\sassounds.uax" />
+    <Package path="sounds\sastrooper.uax" />
+    <Package path="sounds\saszeroalpha.uax" />
+    <Package path="sounds\screams.uax" />
+    <Package path="sounds\spotter.uax" />
+    <Package path="sounds\steps.uax" />
+    <Package path="sounds\terrorist_gen.uax" />
+    <Package path="sounds\trn_generic.uax" />
+    <Package path="sounds\trn_p1_1.uax" />
+    <Package path="sounds\trn_p1_2.uax" />
+    <Package path="sounds\trn_p1_3.uax" />
+    <Package path="sounds\trn_p1_4.uax" />
+    <Package path="sounds\trn_p2_1.uax" />
+    <Package path="sounds\trn_p2_2.uax" />
+    <Package path="sounds\trn_p2_3.uax" />
+    <Package path="sounds\trn_p2_4.uax" />
+    <Package path="sounds\trn_p2_5.uax" />
+    <Package path="sounds\trn_p2_6.uax" />
+    <Package path="sounds\trn_p2_7.uax" />
+    <Package path="sounds\trn_p3_1.uax" />
+    <Package path="sounds\trn_p3_2.uax" />
+    <Package path="sounds\trn_p3_3.uax" />
+    <Package path="sounds\trn_p4_1.uax" />
+    <Package path="sounds\trn_p4_2.uax" />
+    <Package path="sounds\trn_p4_3.uax" />
+    <Package path="sounds\tubeterrorist1.uax" />
+    <Package path="sounds\tubeterrorist2.uax" />
+    <Package path="sounds\warfareexplosion.uax" />
+    <Package path="sounds\warfaresteps.uax" />
+    <Package path="sounds\weapons.uax" />
+    <Package path="sounds\weaponsounds.uax" />
+    <Package path="staticmeshes\embobjsm.usx" />
+    <Package path="staticmeshes\embwrlsm.usx" />
+    <Package path="staticmeshes\frmsm.usx" />
+    <Package path="staticmeshes\frmwrlsm.usx" />
+    <Package path="staticmeshes\frmwrlsmm1.usx" />
+    <Package path="staticmeshes\frmwrlsmm2.usx" />
+    <Package path="staticmeshes\frmwrlsmm3.usx" />
+    <Package path="staticmeshes\godlmgmikesm.usx" />
+    <Package path="staticmeshes\godlmgronniesm.usx" />
+    <Package path="staticmeshes\krmsm.usx" />
+    <Package path="staticmeshes\materials_sm.usx" />
+    <Package path="staticmeshes\parobjsm.usx" />
+    <Package path="staticmeshes\parobjsmm2.usx" />
+    <Package path="staticmeshes\parobjsmm3.usx" />
+    <Package path="staticmeshes\parwrlsm.usx" />
+    <Package path="staticmeshes\parwrlsmm2.usx" />
+    <Package path="staticmeshes\parwrlsmm3.usx" />
+    <Package path="staticmeshes\sfxsm.usx" />
+    <Package path="staticmeshes\tbesm.usx" />
+    <Package path="staticmeshes\tbesmshot4.usx" />
+    <Package path="staticmeshes\tbewrlsmm2.usx" />
+    <Package path="staticmeshes\treesm.usx" />
+    <Package path="staticmeshes\vehsm.usx" />
+    <Package path="staticmeshes\wpsm.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\editor.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\gui.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\saschars.u" />
+    <Package path="system\saseffects.u" />
+    <Package path="system\sasgame.u" />
+    <Package path="system\sasgui.u" />
+    <Package path="system\sasmpgame.u" />
+    <Package path="system\sasscript.u" />
+    <Package path="system\sastraining.u" />
+    <Package path="system\sasweapondamage.u" />
+    <Package path="system\sasweapons.u" />
+    <Package path="system\udebugmenu.u" />
+    <Package path="system\unrealed.u" />
+    <Package path="system\uwindow.u" />
+    <Package path="textures\birds.utx" />
+    <Package path="textures\cameras.utx" />
+    <Package path="textures\ccivtx_ps2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(parl)CC32_Top" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ccivtx.utx" />
+    <Package path="textures\csastx_ps2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="CS01V1" suffix="1" />
+        <Object id="CS01V2" suffix="1" />
+        <Object id="CS01V3" suffix="1" />
+        <Object id="CS01V5" suffix="1" />
+        <Object id="CS01V6" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\csastx.utx" />
+    <Package path="textures\ctertx_ps2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(Emb)CT14_Shoes_V2" suffix="1" />
+        <Object id="PS2Texture\(KillRoom)CT41_Shoes" suffix="1" />
+        <Object id="PS2Texture\(parl)CC33_Head_V2_PS2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ctertx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="parl\CC33_Head_V2" suffix="1" />
+        <Object id="PS2Texture\(parl)CC33_Head_V2" suffix="1" />
+        <Object id="PS2Texture\(parl)CT34_Trousers" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ecm2shot4.utx" />
+    <Package path="textures\editortx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="S_ZoneInfo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\embobjtx.utx" />
+    <Package path="textures\embwrltx.utx" />
+    <Package path="textures\frmtx.utx" />
+    <Package path="textures\frmwrltx.utx" />
+    <Package path="textures\frmwrltxm2.utx" />
+    <Package path="textures\frmwrltxm3.utx" />
+    <Package path="textures\godlmg_miketx.utx" />
+    <Package path="textures\godlmg_ronnietx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ObV10_Oldcar\GranadaMk1_body1" suffix="1" />
+        <Object id="ObV10_Oldcar\GranadaMk1_body2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\guicontent.utx" />
+    <Package path="textures\guifonts.utx" />
+    <Package path="textures\hudtx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(AwardIcons)Award01_HHunter" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award02_Honcho" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award03_Hatchet" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award04_Frosty" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award05_Ninja" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award06_Bowler" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award07_DTap" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award08_ICap" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award09_Brut" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award10_Exec" suffix="1" />
+        <Object id="PS2Texture\(AwardIcons)Award11_Bobby" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\interfacecontent.utx" />
+    <Package path="textures\intro_characters.utx" />
+    <Package path="textures\jannumberstx.utx" />
+    <Package path="textures\jm-particl2.utx" />
+    <Package path="textures\krmtx.utx" />
+    <Package path="textures\materials.utx" />
+    <Package path="textures\parobjtx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="glass\ObP_glass" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\parobjtxm2.utx" />
+    <Package path="textures\parobjtxm3.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(glass)ObP_glass" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\parwrltx.utx" />
+    <Package path="textures\parwrltxm2.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(ref)WrP001v1_riverside_PS2" suffix="1" />
+        <Object id="ref\WrP001v1_riverside_PS2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\parwrltxm3.utx" />
+    <Package path="textures\portal.utx" />
+    <Package path="textures\ps2fonts.utx" />
+    <Package path="textures\reflect.utx" />
+    <Package path="textures\sasfonts.utx" />
+    <Package path="textures\sfxtx.utx" />
+    <Package path="textures\tbetx.utx" />
+    <Package path="textures\tbewrltxm2.utx" />
+    <Package path="textures\teamsymbols_ut2003.utx" />
+    <Package path="textures\treetx.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="PS2Texture\(Tree_BeechTree)ObE224_Leaves_PS2" suffix="1" />
+        <Object id="Tree_BeechTree\ObE224_Leaves_PS2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\ut2003fonts.utx" />
+    <Package path="textures\uwindowfonts.utx" />
+    <Package path="textures\vehtx.utx" />
+    <Package path="textures\verdanafonts.utx" />
+    <Package path="textures\warfarefonts.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FontMono800x600\FontMono800x600_PageADXT" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\weapnames.utx" />
+    <Package path="textures\willfonts.utx" />
+    <Package path="textures\wptx.utx" />
+  </Packages>
+</IdRemapping>

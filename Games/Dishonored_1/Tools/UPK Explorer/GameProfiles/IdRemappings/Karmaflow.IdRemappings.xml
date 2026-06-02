@@ -1,0 +1,167 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="kfgame\cookedpc\akaudio.u" />
+    <Package path="kfgame\cookedpc\core.u" />
+    <Package path="kfgame\cookedpc\engine.u" />
+    <Package path="kfgame\cookedpc\gameframework.u" />
+    <Package path="kfgame\cookedpc\gfxui.u" />
+    <Package path="kfgame\cookedpc\gfxuieditor.u" />
+    <Package path="kfgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="kfgame\cookedpc\guidcache.upk" />
+    <Package path="kfgame\cookedpc\ipdrv.u" />
+    <Package path="kfgame\cookedpc\kfgame.u" />
+    <Package path="kfgame\cookedpc\maps\kf-envyentry.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_bridge.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_climax.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_collectibles.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_conductorfight.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_innertower.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_lighting.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_pw.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_spiritworld.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t1.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t2.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t3p1.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t3p2.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t4.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_t5.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_throneroom.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_towerexterior.kf" />
+    <Package path="kfgame\cookedpc\maps\world1\kf-w1_treetops.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf_w2_staticmeshes.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_1stshaman.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_2ndshaman.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_3rdshaman.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_4thshaman.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_climax.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_collectibles.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_golem.kf">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_353" suffix="1" />
+        <Object id="Texture2D_355" suffix="1" />
+        <Object id="Texture2D_356" suffix="1" />
+        <Object id="Texture2D_357" suffix="1" />
+        <Object id="Texture2D_358" suffix="1" />
+        <Object id="Texture2D_359" suffix="1" />
+        <Object id="Texture2D_363" suffix="1" />
+        <Object id="Texture2D_364" suffix="1" />
+        <Object id="Texture2D_365" suffix="1" />
+        <Object id="Texture2D_366" suffix="1" />
+        <Object id="Texture2D_367" suffix="1" />
+        <Object id="Texture2D_368" suffix="1" />
+        <Object id="Texture2D_370" suffix="1" />
+        <Object id="Texture2D_371" suffix="1" />
+        <Object id="Texture2D_372" suffix="1" />
+        <Object id="Texture2D_374" suffix="1" />
+        <Object id="Texture2D_375" suffix="1" />
+        <Object id="Texture2D_376" suffix="1" />
+        <Object id="Texture2D_377" suffix="1" />
+        <Object id="Texture2D_378" suffix="1" />
+        <Object id="Texture2D_379" suffix="1" />
+        <Object id="Texture2D_380" suffix="1" />
+        <Object id="Texture2D_381" suffix="1" />
+        <Object id="Texture2D_382" suffix="1" />
+        <Object id="Texture2D_384" suffix="1" />
+        <Object id="Texture2D_385" suffix="1" />
+        <Object id="Texture2D_386" suffix="1" />
+        <Object id="Texture2D_387" suffix="1" />
+        <Object id="Texture2D_388" suffix="1" />
+        <Object id="Texture2D_389" suffix="1" />
+        <Object id="Texture2D_390" suffix="1" />
+        <Object id="Texture2D_391" suffix="1" />
+        <Object id="Texture2D_392" suffix="1" />
+        <Object id="Texture2D_394" suffix="1" />
+        <Object id="Texture2D_395" suffix="1" />
+        <Object id="Texture2D_396" suffix="1" />
+        <Object id="Texture2D_397" suffix="1" />
+        <Object id="Texture2D_398" suffix="1" />
+        <Object id="Texture2D_399" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_highgrass.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_lighting.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_rockthrowevents.kf" />
+    <Package path="kfgame\cookedpc\maps\world2\kf-w2_swamppuzzletemp.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_bullies.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_climax.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_lighting.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_pw.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_cinematics.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_collectables.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_decoration.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_lighting.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_maze.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_pw.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_seagiantmaze.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_subtitles.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sea_walls-floor.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_birdgoddessfight.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_collectibles.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_p1.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_p2.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_p3.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_sky_p4.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_subtitles.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3_world_intro.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3-sky-p5.kf" />
+    <Package path="kfgame\cookedpc\maps\world3\kf-w3-sky-p6.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_babyroom.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_chase.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_climax.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_collectibles.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_core.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_lighting.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_pw.kf">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_resonatecave.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_ruinedcity.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_ruinedcityp1.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_ruinedcityp2.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_saltlake.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_subtitles.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_tunnelrailing.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_undergroundcityp1.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_undergroundcityp2.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_wallsandceilings.kf" />
+    <Package path="kfgame\cookedpc\maps\world4\kf-w4_wallsandceilingsp2.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\extraleveldingen.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_audio.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_climax.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_conductor.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_decoration.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_dissonancecubes.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_golem.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_heart.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_meetingplace.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_pw.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_start.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_subtitles.kf" />
+    <Package path="kfgame\cookedpc\maps\world5\kf-w5_twins.kf" />
+    <Package path="kfgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="kfgame\cookedpc\packages\scaleform.upk" />
+    <Package path="kfgame\cookedpc\packages\udkfonts.upk" />
+    <Package path="kfgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="kfgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="kfgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="kfgame\cookedpc\startup_loc_int.upk" />
+    <Package path="kfgame\cookedpc\startup.upk" />
+    <Package path="kfgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="kfgame\cookedpc\udkbase.u" />
+    <Package path="kfgame\cookedpc\unrealed.u" />
+    <Package path="kfgame\cookedpc\utgame.u" />
+    <Package path="kfgame\cookedpc\utgamecontent.u" />
+    <Package path="kfgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,57 @@
+This tool was originally made by FCH823 for Dishonored and later expanded to other games thanks to the help and motivation of Wastelander121
+
+Authors:
+FCH823: Functional requirements, software development
+Wastelander121: Functional requirements, testing, research
+
+Special thanks:
+Gildor for UE Viewer source code: https://www.gildor.org/. 
+This allowed me to understand how to read Unreal 3 UPK/TFC files
+
+Eliot for the UE-Explorer source code: https://eliotvu.com/portfolio/view/21/ue-explorer.
+This allowed me to understand how to read objects of type Class, Property etc... as well as parse scripts
+
+The authors of this article for XCom:EU 2012: https://wiki.nexusmods.com/index.php/Modifying_Textures_without_TexMod_-_XCOM:EU_2012
+This allowed me to undertand how to modify UE3 packages and create the first version of the tool for Dishonored
+
+pashok6798 for the PS4 texture encoding/decoding algorithm: https://github.com/pashok6798/TTG_Tools/tree/master (original algorithm by daemon1 and tge)
+This allowed me to create my own implementation
+
+thethiny for MK11-PackageExtractor source code: https://github.com/thethiny/MK11-PackageExtractor
+This helped me to create my own implementation of the Mortal Kombat 11 package parser
+
+thethiny and ermaccer for support in testing Injustice 2 / Mortal Kombat 11
+
+Dageron for the XBox360 texture decoding whose implementation can be found in various projects around the web
+Together with Gildor's decoding algorithm, this allowed me to create my own code for encoding/decoding
+
+NeverAloneInTheAsylum for the help with the integrity check
+
+Supercoolsonic for helping with adding support for A Hat in Time's skeletal meshes
+
+FrancisLouis, LinkOFF7, Lyall and Weez for figuring out how to access Shadows of the Damned: Hella Remastered package files and what compression method they used.
+
+stricq for the texture decoding source code: https://github.com/stricq/UPKManager
+This helped me to create my own implementation of the texture decoding/encoding for "Blade and Soul"
+
+DaZombieKiller for figuring out the package header parser for XCOM: Chimera Squad
+
+h3x3r for figuring out part of the TFC table of content for Singularity
+
+I also used a number of .Net libraries, so credits to:
+Nominom for BCnEncoder.NET : https://github.com/Nominom/BCnEncoder.NET
+SixLabors for ImageSharp https://github.com/SixLabors/ImageSharp
+Aloneguid for IronCompress https://github.com/aloneguid/ironcompress
+Zyborg for zlib.net https://github.com/zyborg/zlib.net
+zivillian for Lzo.net https://github.com/zivillian/lzo.net
+NotOfficer for oodle.NET https://github.com/NotOfficer/Oodle.NET
+NAudio: https://github.com/naudio
+The developers of YAXlib: https://github.com/YAXLib/YAXLib
+
+Official links to this tool (v2.0.0.0+):
+https://www.nexusmods.com/site/mods/587
+https://www.nexusmods.com/site/mods/588
+
+Official links to my original Dishonored only version of this tool (v1.0.0.0):
+https://www.nexusmods.com/dishonored/mods/49
+https://www.nexusmods.com/dishonored/mods/50

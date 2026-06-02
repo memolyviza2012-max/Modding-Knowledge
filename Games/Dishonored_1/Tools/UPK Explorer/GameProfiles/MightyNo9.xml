@@ -1,0 +1,17 @@
+﻿<Game packageFileVersion="869" packageLicenseeVersion="0" TFCMappingFileName="Mighty No. 9" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="MN9Game\CookedPCConsole" customTFCStartIndex="0"/>
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Ray" TFCMappingFileName="Ray">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\Ray" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Retro Hero" TFCMappingFileName="RetroHero">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\RetroHero" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

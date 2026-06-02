@@ -1,0 +1,559 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="animations\rma_aircraft.ukx" />
+    <Package path="animations\rma_ambient.ukx" />
+    <Package path="animations\rma_bosnia_weapons.ukx" />
+    <Package path="animations\rma_bosnia.ukx" />
+    <Package path="animations\rma_characters.ukx" />
+    <Package path="animations\rma_cinematics.ukx" />
+    <Package path="animations\rma_congo.ukx" />
+    <Package path="animations\rma_demo.ukx" />
+    <Package path="animations\rma_levels.ukx" />
+    <Package path="animations\rma_paris.ukx" />
+    <Package path="animations\rma_pv_weapons.ukx" />
+    <Package path="animations\rma_russ_weapons.ukx" />
+    <Package path="animations\rma_russia.ukx" />
+    <Package path="animations\rma_syria.ukx" />
+    <Package path="animations\sfrm_animprops.ukx" />
+    <Package path="maps\c00_syria_1.sfr" />
+    <Package path="maps\c00_syria_2.sfr" />
+    <Package path="maps\c01_congo_1.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\cliffffss" suffix="2" />
+        <Object id="Alphamaps\dirt" suffix="3" />
+        <Object id="Heightmaps\Bridge_height" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\c01_congo_1b.sfr" />
+    <Package path="maps\c01_congo_2.sfr" />
+    <Package path="maps\c02_kaz_1.sfr" />
+    <Package path="maps\c02_kaz_2.sfr" />
+    <Package path="maps\c02_kaz_3.sfr" />
+    <Package path="maps\c02_kaz_3b.sfr" />
+    <Package path="maps\c02_kaz_4.sfr" />
+    <Package path="maps\c03_chechnya_1.sfr" />
+    <Package path="maps\c03_chechnya_2.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt" suffix="4" />
+        <Object id="Alphamaps\rubble" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\c03_chechnya_3.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt" suffix="6" />
+        <Object id="Alphamaps\ground_rubble" suffix="1" />
+        <Object id="Alphamaps\muck" suffix="1" />
+        <Object id="Alphamaps\soil" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\c03_chechnya_4.sfr" />
+    <Package path="maps\c03_chechnya_5.sfr" />
+    <Package path="maps\c04_syria_1.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\rubble" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\c04_syria_2.sfr" />
+    <Package path="maps\c04_syria_2b.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\c04_syria_3.sfr" />
+    <Package path="maps\c04_syria_4.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="2" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="maps\c05_paris_1.sfr" />
+    <Package path="maps\c05_paris_2.sfr" />
+    <Package path="maps\c05_paris_3.sfr" />
+    <Package path="maps\c05_paris_4.sfr" />
+    <Package path="maps\c05_paris_5.sfr" />
+    <Package path="maps\entry.sfr" />
+    <Package path="maps\m01_c_32_congomist.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m01_c_8_southamerica.sfr" />
+    <Package path="maps\m01_td_16_southamerica.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer_A" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer_C" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer_E" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer_F" suffix="1" />
+        <Object id="Alphamaps\AlphaLayer_G" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_c_16_compound.sfr" />
+    <Package path="maps\m02_c_16_deltabase.sfr" />
+    <Package path="maps\m02_c_16_thegap.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\cliffffss" suffix="1" />
+        <Object id="Alphamaps\dirrrttt" suffix="1" />
+        <Object id="Alphamaps\grasss" suffix="1" />
+        <Object id="Heightmaps\Bridge_height" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_c_16_towers.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer_A" suffix="2" />
+        <Object id="Alphamaps\AlphaLayer_B" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_c_32_backhills.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\snow" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_c_32_forest.sfr" />
+    <Package path="maps\m02_c_32_station.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\asphalt" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_td_16_compound.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Multi_Layer_B" suffix="1" />
+        <Object id="Alphamaps\MULTI_Layer_C" suffix="1" />
+        <Object id="Alphamaps\MULTI_Layer_D" suffix="1" />
+        <Object id="Alphamaps\MULTILayer_A" suffix="1" />
+        <Object id="Heightmaps\MULTIHeightmap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_td_16_deltabase.sfr" />
+    <Package path="maps\m02_td_16_institution.sfr" />
+    <Package path="maps\m02_td_16_labs.sfr" />
+    <Package path="maps\m02_td_32_station.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\asphalt" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m02_v_16_deltabase.sfr" />
+    <Package path="maps\m03_c_32_bunkers.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt_floor" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_c_32_crossing.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\AlphaLayer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_c_32_hospital.sfr" />
+    <Package path="maps\m03_td_16_bridge.sfr" />
+    <Package path="maps\m03_td_16_church.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_td_16_merclab.sfr" />
+    <Package path="maps\m03_td_32_fortress.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Banyan_XZ" suffix="1" />
+        <Object id="Alphamaps\Banyan_YZ" suffix="1" />
+        <Object id="Alphamaps\Cliff_sharp" suffix="1" />
+        <Object id="Alphamaps\Cliff_sharp_X" suffix="1" />
+        <Object id="Alphamaps\DECO_Grass_01" suffix="1" />
+        <Object id="Alphamaps\Deco_TallGrass" suffix="1" />
+        <Object id="Alphamaps\dirt_floor" suffix="2" />
+        <Object id="Alphamaps\Weed_Grass" suffix="1" />
+        <Object id="Heightmaps\TheGround" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_td_32_hospital.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\Rubble_one" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_td_8_gallery.sfr" />
+    <Package path="maps\m03_v_16_church.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\CliffA" suffix="1" />
+        <Object id="Alphamaps\Deco_trees" suffix="1" />
+        <Object id="Alphamaps\dirt" suffix="5" />
+        <Object id="Alphamaps\grass" suffix="1" />
+        <Object id="Alphamaps\Shrubz_A" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="maps\m03_v_16_oilrig.sfr" />
+    <Package path="maps\m04_c_16_hotel.sfr" />
+    <Package path="maps\m04_c_32_desert.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirttop" suffix="1" />
+        <Object id="Heightmaps\caveheightmap" suffix="1" />
+        <Object id="Heightmaps\TerrainHeightmap" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="maps\m04_c_32_docks.sfr" />
+    <Package path="maps\m04_td_16_bazaar.sfr" />
+    <Package path="maps\m04_td_16_factory.sfr" />
+    <Package path="maps\m04_td_16_hotel.sfr" />
+    <Package path="maps\m04_td_32_desertnight.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Heightmaps\TerrainHeightmap" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="maps\m04_td_32_docks.sfr" />
+    <Package path="maps\m04_td_8_courtyard.sfr">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Alphamaps\dirt" suffix="2" />
+        <Object id="Alphamaps\Sand" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="maps\m04_v_16_syrianights.sfr" />
+    <Package path="maps\m05_td_16_streets.sfr" />
+    <Package path="maps\m05_td_16_subway.sfr" />
+    <Package path="maps\m05_td_8_paris.sfr" />
+    <Package path="maps\m05_v_16_bigstreets.sfr" />
+    <Package path="maps\m05_v_16_souterrain.sfr" />
+    <Package path="maps\m05_v_16_streets.sfr" />
+    <Package path="maps\m05_v_16_subway.sfr" />
+    <Package path="maps\menu_map.sfr" />
+    <Package path="sounds\ai_dialog_arab.uax" />
+    <Package path="sounds\alarms.uax" />
+    <Package path="sounds\ambience_bosnia.uax" />
+    <Package path="sounds\ambience_congo.uax" />
+    <Package path="sounds\ambience_marine.uax" />
+    <Package path="sounds\ambience_paris.uax" />
+    <Package path="sounds\ambience_room.uax" />
+    <Package path="sounds\ambience_russia.uax" />
+    <Package path="sounds\ambience_syria.uax" />
+    <Package path="sounds\battle_stream.uax" />
+    <Package path="sounds\body_falls.uax" />
+    <Package path="sounds\bosnia_special.uax" />
+    <Package path="sounds\brass.uax" />
+    <Package path="sounds\bullet_bys.uax" />
+    <Package path="sounds\bullet_impacts.uax" />
+    <Package path="sounds\buttons.uax" />
+    <Package path="sounds\city_sounds.uax" />
+    <Package path="sounds\collisions.uax" />
+    <Package path="sounds\congo_special.uax" />
+    <Package path="sounds\cut_scenes.uax" />
+    <Package path="sounds\dc1053.uax" />
+    <Package path="sounds\dialog_bosnia.uax" />
+    <Package path="sounds\dialog_city.uax" />
+    <Package path="sounds\dialog_congo.uax" />
+    <Package path="sounds\dialog_delta.uax" />
+    <Package path="sounds\dialog_intro.uax" />
+    <Package path="sounds\dialog_new.uax" />
+    <Package path="sounds\dialog_outro.uax" />
+    <Package path="sounds\dialog_paris.uax" />
+    <Package path="sounds\dialog_russia.uax" />
+    <Package path="sounds\dialog_syria.uax" />
+    <Package path="sounds\dist_explosions.uax" />
+    <Package path="sounds\doors_syria.uax" />
+    <Package path="sounds\drips.uax" />
+    <Package path="sounds\fire.uax" />
+    <Package path="sounds\footsteps.uax" />
+    <Package path="sounds\heli_demo.uax" />
+    <Package path="sounds\hit_reactions.uax" />
+    <Package path="sounds\interface.uax" />
+    <Package path="sounds\kaz_special.uax" />
+    <Package path="sounds\mp8_syria.uax" />
+    <Package path="sounds\music_transitions.uax" />
+    <Package path="sounds\paris_special.uax" />
+    <Package path="sounds\pipes_steam.uax" />
+    <Package path="sounds\radio_clicks.uax" />
+    <Package path="sounds\rain_thunder.uax" />
+    <Package path="sounds\random_battle.uax" />
+    <Package path="sounds\rus_intro.uax" />
+    <Package path="sounds\russia_special.uax" />
+    <Package path="sounds\sfrm_battle_sounds.uax" />
+    <Package path="sounds\sfrm_destructibles.uax" />
+    <Package path="sounds\sfrm_doors.uax" />
+    <Package path="sounds\sfrm_explosions.uax" />
+    <Package path="sounds\sfrm_machinery.uax" />
+    <Package path="sounds\sfrm_projectiles.uax" />
+    <Package path="sounds\sfrm_weaponsounds.uax" />
+    <Package path="sounds\sparks.uax" />
+    <Package path="sounds\switches_terminals.uax" />
+    <Package path="sounds\syria_special.uax" />
+    <Package path="sounds\testreverb.uax" />
+    <Package path="sounds\vehicles.uax" />
+    <Package path="sounds\water.uax" />
+    <Package path="sounds\weapon_sounds_enemy.uax" />
+    <Package path="sounds\weapon_sounds.uax" />
+    <Package path="sounds\wind.uax" />
+    <Package path="staticmeshes\amd_meshes.usx" />
+    <Package path="staticmeshes\c01_congo_1a_meshes.usx" />
+    <Package path="staticmeshes\c01_congo_dm.usx" />
+    <Package path="staticmeshes\c01_congo_meshes.usx" />
+    <Package path="staticmeshes\c01_congotrees.usx" />
+    <Package path="staticmeshes\c02_kaz_1ab_meshes.usx" />
+    <Package path="staticmeshes\c02_kaz_2a_meshes.usx" />
+    <Package path="staticmeshes\c02_kaz_3a_meshes.usx" />
+    <Package path="staticmeshes\c02_kaz_4a_meshes.usx" />
+    <Package path="staticmeshes\c02_kaz_5a_meshes.usx" />
+    <Package path="staticmeshes\c02_kaz_6a_meshes.usx" />
+    <Package path="staticmeshes\c02_russia_1a_meshes.usx" />
+    <Package path="staticmeshes\c02_russia_2a_meshes.usx" />
+    <Package path="staticmeshes\c02_russia_cinematics_props.usx" />
+    <Package path="staticmeshes\c02_russia_vehicles.usx" />
+    <Package path="staticmeshes\c02_russian_generic_meshes.usx" />
+    <Package path="staticmeshes\c02russia_trees.usx" />
+    <Package path="staticmeshes\c02russia3dressing.usx" />
+    <Package path="staticmeshes\c02russia3fixed.usx" />
+    <Package path="staticmeshes\c02russia4dressing.usx" />
+    <Package path="staticmeshes\c03_bosnia_1a_meshes.usx" />
+    <Package path="staticmeshes\c03_bosnia_2a_meshes.usx" />
+    <Package path="staticmeshes\c03_bosnia_3ab_meshes.usx" />
+    <Package path="staticmeshes\c03_bosnia_3c_meshes.usx" />
+    <Package path="staticmeshes\c03_bosnia_4ab.usx" />
+    <Package path="staticmeshes\c03_bosnia_4cde.usx" />
+    <Package path="staticmeshes\c03_bosnia_trees.usx" />
+    <Package path="staticmeshes\c03_chechnya_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_1a_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_1bc_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_2b_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_2c_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_3a_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_4a_meshes.usx" />
+    <Package path="staticmeshes\c04_syria_props.usx" />
+    <Package path="staticmeshes\c05_dm_paris_4_meshes.usx" />
+    <Package path="staticmeshes\c05_paris_2a_meshes.usx" />
+    <Package path="staticmeshes\c05_paris_2c_meshes.usx" />
+    <Package path="staticmeshes\c05_paris_3a_meshes.usx" />
+    <Package path="staticmeshes\c05_paris_4_meshes.usx" />
+    <Package path="staticmeshes\co_opmeshes.usx" />
+    <Package path="staticmeshes\common_destructibles.usx" />
+    <Package path="staticmeshes\common_dressing.usx" />
+    <Package path="staticmeshes\defaultmeshes.usx" />
+    <Package path="staticmeshes\demo_buildings.usx" />
+    <Package path="staticmeshes\demo_prop.usx" />
+    <Package path="staticmeshes\m_oilrig.usx" />
+    <Package path="staticmeshes\m03_church.usx" />
+    <Package path="staticmeshes\muzzleflashes3d_m.usx" />
+    <Package path="staticmeshes\russia_props.usx" />
+    <Package path="staticmeshes\sfrm_attachment_meshes.usx" />
+    <Package path="staticmeshes\sfrm_buildings.usx" />
+    <Package path="staticmeshes\sfrm_carrier_meshes.usx" />
+    <Package path="staticmeshes\sfrm_jm_props.usx" />
+    <Package path="staticmeshes\sfrm_multiplayer_meshes.usx" />
+    <Package path="staticmeshes\sfrm_pickups.usx" />
+    <Package path="staticmeshes\sfrm_prop.usx" />
+    <Package path="staticmeshes\sfrm_russia_mp_meshes.usx" />
+    <Package path="staticmeshes\sfrm_sfx_meshes.usx" />
+    <Package path="staticmeshes\sfrm_vehicles.usx" />
+    <Package path="staticmeshes\sfrm_weapon_meshes.usx" />
+    <Package path="staticmeshes\sorm_paris_train.usx" />
+    <Package path="system\core.u" />
+    <Package path="system\destructibles.u" />
+    <Package path="system\engine.u" />
+    <Package path="system\gameplay.u" />
+    <Package path="system\ipdrv.u" />
+    <Package path="system\pawns.u" />
+    <Package path="system\reverb.u" />
+    <Package path="system\weapons.u" />
+    <Package path="system\zombieai.u" />
+    <Package path="system\zombieanimation.u" />
+    <Package path="system\zombieeffects.u" />
+    <Package path="system\zombieengine.u" />
+    <Package path="system\zombiegame.u" />
+    <Package path="system\zombievehicles.u" />
+    <Package path="textures\ac_sixtyfour.utx" />
+    <Package path="textures\amd_tex.utx" />
+    <Package path="textures\c02russia_trees_tex.utx" />
+    <Package path="textures\demo_prop_tex.utx" />
+    <Package path="textures\demo_syria_tex.utx" />
+    <Package path="textures\editorfont.utx" />
+    <Package path="textures\final_pass.utx" />
+    <Package path="textures\hardwareshaders.utx" />
+    <Package path="textures\muzzleflashes.utx" />
+    <Package path="textures\paris_4_temp_tex.utx" />
+    <Package path="textures\russia_animatics_cam_tex.utx" />
+    <Package path="textures\sf-shaders.utx" />
+    <Package path="textures\sfrm_bosnia_char_tex.utx" />
+    <Package path="textures\sfrm_bosnia_prop_tex.utx" />
+    <Package path="textures\sfrm_bosnia_sfx_tex.utx" />
+    <Package path="textures\sfrm_bosnia_tex_bad.utx" />
+    <Package path="textures\sfrm_bosnia_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Walls\peely" suffix="1" />
+        <Object id="Wood\oldwood" suffix="1" />
+        <Object id="Wood\pier" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_characters_char_tex.utx" />
+    <Package path="textures\sfrm_characters_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="NPC\delta_commander_body" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_cinematic_tex.utx" />
+    <Package path="textures\sfrm_congo_char_tex.utx" />
+    <Package path="textures\sfrm_congo_dm_tex.utx" />
+    <Package path="textures\sfrm_congo_prop_tex.utx" />
+    <Package path="textures\sfrm_congo_sfx_tex.utx" />
+    <Package path="textures\sfrm_congo_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Terrain\wetmuck" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_destructibles_tex.utx" />
+    <Package path="textures\sfrm_imp_tex.utx" />
+    <Package path="textures\sfrm_jm_tex.utx" />
+    <Package path="textures\sfrm_multiplayer_tex.utx" />
+    <Package path="textures\sfrm_muzzleflashes_tex.utx" />
+    <Package path="textures\sfrm_paris_char_tex.utx" />
+    <Package path="textures\sfrm_paris_prop_tex.utx" />
+    <Package path="textures\sfrm_paris_sfx_tex.utx" />
+    <Package path="textures\sfrm_paris_tex.utx" />
+    <Package path="textures\sfrm_pickups_ee.utx" />
+    <Package path="textures\sfrm_pickups_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="pickups\ammocan" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_prop_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SetDressing\PalmTrees" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_russia_char_tex.utx" />
+    <Package path="textures\sfrm_russia_mp_delta.utx" />
+    <Package path="textures\sfrm_russia_prop_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decorations\cardboard_one" suffix="1" />
+        <Object id="Decorations\radar" suffix="1" />
+        <Object id="parachute\para_parachute" suffix="1" />
+        <Object id="parachute\para_string" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_russia_remodel.utx" />
+    <Package path="textures\sfrm_russia_sfx_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Light\dustA" suffix="1" />
+        <Object id="Projectors\level4_proj" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_russia_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Ceilings\asbestos" suffix="1" />
+        <Object id="Decorations\railing" suffix="1" />
+        <Object id="Floors\coldcement" suffix="1" />
+        <Object id="Floors\floortileX" suffix="1" />
+        <Object id="Metal\magmetalB" suffix="1" />
+        <Object id="Metal\magmetalC" suffix="1" />
+        <Object id="Walls\metalcem" suffix="1" />
+        <Object id="Walls\metalcemb" suffix="1" />
+        <Object id="Walls\multiplytest" suffix="1" />
+        <Object id="Wood\woodslats" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_sfx_particles.utx" />
+    <Package path="textures\sfrm_sfx_projectors.utx" />
+    <Package path="textures\sfrm_sfx_sky_water.utx" />
+    <Package path="textures\sfrm_syria_char_tex.utx" />
+    <Package path="textures\sfrm_syria_full_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="detailmaps\det03" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_syria_plants_tex.utx" />
+    <Package path="textures\sfrm_syria_prop_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Decorations\grasshut" suffix="1" />
+        <Object id="Decorations\trellis" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_syria_sfx_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="water\shipwater" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_syria_tex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Walls\wall5_syr" suffix="1" />
+        <Object id="Windows\wnd04" suffix="1" />
+        <Object id="Wood\WoodPanel" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sfrm_temp.utx" />
+    <Package path="textures\sfrm_vehicles_tex.utx" />
+    <Package path="textures\sfrm_weaptex.utx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="AK\AK74" suffix="1" />
+        <Object id="AK\ak74_128A" suffix="1" />
+        <Object id="AK\AK74_black" suffix="1" />
+        <Object id="AK\ak74_black_128a" suffix="1" />
+        <Object id="CZ\PV_CZ" suffix="1" />
+        <Object id="CZ\PV_CZ_128a" suffix="1" />
+        <Object id="DE\PV_DE" suffix="1" />
+        <Object id="DE\PV_DE_128a" suffix="1" />
+        <Object id="DRAGUNOV\PV_DRAGUNOV" suffix="1" />
+        <Object id="DRAGUNOV\PV_DRAGUNOV_128a" suffix="1" />
+        <Object id="FAMAS\PV_FAMAS" suffix="1" />
+        <Object id="FAMAS\PV_FAMAS_128a" suffix="1" />
+        <Object id="FlashBang\FlashBang" suffix="1" />
+        <Object id="G36\G36" suffix="1" />
+        <Object id="G36\PV_G36_128a" suffix="1" />
+        <Object id="Grenade\Grenade" suffix="1" />
+        <Object id="Groza\PV_GROZA" suffix="1" />
+        <Object id="Groza\PV_groza_128a" suffix="1" />
+        <Object id="hands\tex_hands" suffix="1" />
+        <Object id="hands\tex_hands_bosnia" suffix="1" />
+        <Object id="hands\tex_hands_congo" suffix="1" />
+        <Object id="hands\tex_hands_russ" suffix="1" />
+        <Object id="HK69\HK69" suffix="1" />
+        <Object id="Knife\PV_KNIFE" suffix="1" />
+        <Object id="laser\clouds" suffix="1" />
+        <Object id="laser\falloff" suffix="1" />
+        <Object id="laser\laserA" suffix="1" />
+        <Object id="M249\m249_A" suffix="1" />
+        <Object id="M249\m249_A_128a" suffix="1" />
+        <Object id="M249\m249_b" suffix="1" />
+        <Object id="M4\M4" suffix="1" />
+        <Object id="M4\M4_128a" suffix="1" />
+        <Object id="M4\M4_black" suffix="1" />
+        <Object id="M4\M4_jungle" suffix="1" />
+        <Object id="M4\m4shell" suffix="1" />
+        <Object id="M4\tex_M4" suffix="1" />
+        <Object id="M4\tex_m4_128a" suffix="1" />
+        <Object id="MP5\PV_MP5" suffix="1" />
+        <Object id="MP5\PV_MP5_128a" suffix="1" />
+        <Object id="MSG90\MSG90" suffix="1" />
+        <Object id="MSG90\msg90_128a" suffix="1" />
+        <Object id="NEOSTEAD\PV_NEOSTEAD" suffix="1" />
+        <Object id="NEOSTEAD\PV_NEOSTEAD_128A" suffix="1" />
+        <Object id="pickups\GearAttachment" suffix="1" />
+        <Object id="PV_MP7\PV_MP7" suffix="1" />
+        <Object id="Quad50\quad50_gun" suffix="1" />
+        <Object id="RPG\PV_RPG" suffix="1" />
+        <Object id="RPG\RPG" suffix="1" />
+        <Object id="RPG\RPG_128a" suffix="1" />
+        <Object id="RPK\pv_rpk" suffix="1" />
+        <Object id="RPK\PV_RPK_128a" suffix="1" />
+        <Object id="RYS\RYS" suffix="1" />
+        <Object id="RYS\RYS_128a" suffix="1" />
+        <Object id="Scopes\Bscope_base" suffix="1" />
+        <Object id="Scopes\scopegloss" suffix="1" />
+        <Object id="Scopes\ScopeTex" suffix="1" />
+        <Object id="Shotgun\PV_SHOTGUN" suffix="1" />
+        <Object id="Shotgun\PV_SHOTGUN_128a" suffix="1" />
+        <Object id="Shotgun\shotshell" suffix="1" />
+        <Object id="Slam\lcd_g" suffix="1" />
+        <Object id="Slam\lcd_r" suffix="1" />
+        <Object id="Slam\Slam" suffix="1" />
+        <Object id="socom\socom_tex" suffix="1" />
+        <Object id="socom\socom_tex_128a" suffix="1" />
+        <Object id="tracers\tracer2" suffix="1" />
+        <Object id="tracers\tracer2_b" suffix="1" />
+        <Object id="UZI\PV_UZI" suffix="1" />
+        <Object id="UZI\PV_UZI_128a" suffix="1" />
+        <Object id="zsu_23\PV_ZSU" suffix="1" />
+        <Object id="ZSU\ZSU" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="textures\sorm_paris_train_tex.utx" />
+    <Package path="textures\zombie_ai.utx" />
+    <Package path="textures\zombiefonts4.utx" />
+    <Package path="textures\zombiehud.utx" />
+    <Package path="textures\zombieloadscreen.utx" />
+  </Packages>
+</IdRemapping>

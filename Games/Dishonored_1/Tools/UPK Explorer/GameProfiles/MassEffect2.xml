@@ -1,0 +1,122 @@
+﻿<Game packageFileVersion="512" packageLicenseeVersion="130" TFCMappingFileName="Mass Effect 2" enableCustomTFCs="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="BioGame\CookedPC" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Aegis pack" TFCMappingFileName="DLC_CER_02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CER_02\*" TFCpath="BioGame\DLC\DLC_CER_02\CookedPC" customTFCStartIndex="1000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Arc Projector" TFCMappingFileName="DLC_CER_Arc">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CER_Arc\*" TFCpath="BioGame\DLC\DLC_CER_Arc\CookedPC" customTFCStartIndex="2000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Arrival" TFCMappingFileName="DLC_EXP_Part02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Part02\*" TFCpath="BioGame\DLC\DLC_EXP_Part02\CookedPC" customTFCStartIndex="3000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Cerberus Armor\Eviscerator Shotgun" TFCMappingFileName="DLC_PRE_Cerberus">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_Cerberus\*" TFCpath="BioGame\DLC\DLC_PRE_Cerberus\CookedPC" customTFCStartIndex="4000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Collectors Edition" TFCMappingFileName="DLC_PRE_Collectors">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_Collectors\*" TFCpath="BioGame\DLC\DLC_PRE_Collectors\CookedPC" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Dragon Age Pack" TFCMappingFileName="DLC_PRE_DA">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_DA\*" TFCpath="BioGame\DLC\DLC_PRE_DA\CookedPC" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Equilizer Pack" TFCMappingFileName="DLC_MCR_03">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_MCR_03\*" TFCpath="BioGame\DLC\DLC_MCR_03\CookedPC" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Firepower Pack" TFCMappingFileName="DLC_MCR_01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_MCR_01\*" TFCpath="BioGame\DLC\DLC_MCR_01\CookedPC" customTFCStartIndex="8000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Firewalker Pack" TFCMappingFileName="DLC_UNC_Hammer01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_UNC_Hammer01\*" TFCpath="BioGame\DLC\DLC_UNC_Hammer01\CookedPC" customTFCStartIndex="9000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Genesis" TFCMappingFileName="DLC_DHME1">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_DHME1\*" TFCpath="BioGame\DLC\DLC_DHME1\CookedPC" customTFCStartIndex="10000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Incissor Sniper Rifle" TFCMappingFileName="DLC_PRE_Incisor">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_Incisor\*" TFCpath="BioGame\DLC\DLC_PRE_Incisor\CookedPC" customTFCStartIndex="11000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Inferno Armor" TFCMappingFileName="DLC_PRE_General">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_General\*" TFCpath="BioGame\DLC\DLC_PRE_General\CookedPC" customTFCStartIndex="12000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Kasumi" TFCMappingFileName="DLC_HEN_MT">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_HEN_MT\*" TFCpath="BioGame\DLC\DLC_HEN_MT\CookedPC" customTFCStartIndex="13000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Lair of the Shadow Broker" TFCMappingFileName="DLC_EXP_Part01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_EXP_Part01\*" TFCpath="BioGame\DLC\DLC_EXP_Part01\CookedPC" customTFCStartIndex="14000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Normandy Crash Site" TFCMappingFileName="DLC_UNC_Moment01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_UNC_Moment01\*" TFCpath="BioGame\DLC\DLC_UNC_Moment01\CookedPC" customTFCStartIndex="15000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Overlord" TFCMappingFileName="DLC_UNC_Pack01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_UNC_Pack01\*" TFCpath="BioGame\DLC\DLC_UNC_Pack01\CookedPC" customTFCStartIndex="16000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Recon Hood" TFCMappingFileName="DLC_PRO_Pepper02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRO_Pepper02\*" TFCpath="BioGame\DLC\DLC_PRO_Pepper02\CookedPC" customTFCStartIndex="17000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Sentry Interface" TFCMappingFileName="DLC_PRO_Gulp01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRO_Gulp01\*" TFCpath="BioGame\DLC\DLC_PRO_Gulp01\CookedPC" customTFCStartIndex="18000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Skin Pack 1" TFCMappingFileName="DLC_CON_Pack01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_Pack01\*" TFCpath="BioGame\DLC\DLC_CON_Pack01\CookedPC" customTFCStartIndex="19000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Skin Pack 2" TFCMappingFileName="DLC_CON_Pack02">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_CON_Pack02\*" TFCpath="BioGame\DLC\DLC_CON_Pack02\CookedPC" customTFCStartIndex="20000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Terminus Armor" TFCMappingFileName="DLC_PRE_Gamestop">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRE_Gamestop\*" TFCpath="BioGame\DLC\DLC_PRE_Gamestop\CookedPC" customTFCStartIndex="21000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Umbra Visor" TFCMappingFileName="DLC_PRO_Pepper01">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_PRO_Pepper01\*" TFCpath="BioGame\DLC\DLC_PRO_Pepper01\CookedPC" customTFCStartIndex="22000" />
+			</PackageFolders>
+		</DLC>
+		<DLC displayName="Zaeed" TFCMappingFileName="DLC_HEN_VT">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="BioGame\DLC\DLC_HEN_VT\*" TFCpath="BioGame\DLC\DLC_HEN_VT\CookedPC" customTFCStartIndex="23000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>

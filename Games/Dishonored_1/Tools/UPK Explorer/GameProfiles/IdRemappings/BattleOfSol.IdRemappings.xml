@@ -1,0 +1,578 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="solexodusgame\content\add_factory.upk" />
+    <Package path="solexodusgame\content\cockpit.upk" />
+    <Package path="solexodusgame\content\cockpitcod.upk" />
+    <Package path="solexodusgame\content\cos_add-ii.upk" />
+    <Package path="solexodusgame\content\cos_add.upk" />
+    <Package path="solexodusgame\content\cos_fighters.upk" />
+    <Package path="solexodusgame\content\cos_frigate.upk" />
+    <Package path="solexodusgame\content\credits.upk" />
+    <Package path="solexodusgame\content\dawnshammer.upk" />
+    <Package path="solexodusgame\content\dialogbox.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DialogBoxBlueGlow" suffix="1" />
+        <Object id="FE_Cursor" suffix="1" />
+        <Object id="FE_CursorGlow" suffix="1" />
+        <Object id="MD_ButtonNorm" suffix="2" />
+        <Object id="MD_ButtonSelected" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\frontend_assets.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="BlueGlow" suffix="1" />
+        <Object id="FE_Cursor" suffix="3" />
+        <Object id="FE_CursorGlow" suffix="3" />
+        <Object id="FE_TS_Ember" suffix="1" />
+        <Object id="FE_TS_ExodusTextFGGlow" suffix="1" />
+        <Object id="FE_TS_SOLTextSunBG03" suffix="1" />
+        <Object id="OP_CheckboxTickedBlue" suffix="1" />
+        <Object id="OP_CheckboxTickedGold" suffix="1" />
+        <Object id="OP_CheckboxUntickedBlue" suffix="1" />
+        <Object id="OP_CheckboxUntickedGold" suffix="1" />
+        <Object id="OP_DropdownIdle" suffix="1" />
+        <Object id="OP_DropdownSel" suffix="1" />
+        <Object id="OP_ScrollbarArrowDownIdle" suffix="1" />
+        <Object id="OP_ScrollbarArrowDownSel" suffix="1" />
+        <Object id="OP_ScrollbarArrowUpIdle" suffix="1" />
+        <Object id="OP_ScrollbarArrowUpSel" suffix="1" />
+        <Object id="OP_ScrollbarBGIdle" suffix="1" />
+        <Object id="OP_ScrollbarKnobIdle" suffix="1" />
+        <Object id="OP_ScrollbarKnobSel" suffix="1" />
+        <Object id="OP_SliderBGIdle" suffix="1" />
+        <Object id="OP_SliderKnobIdle" suffix="1" />
+        <Object id="OP_SliderKnobSel" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\hud_assets_cod.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SOL_HUD_0" suffix="1" />
+        <Object id="SOL_HUD_100" suffix="1" />
+        <Object id="SOL_HUD_50" suffix="1" />
+        <Object id="SOL_HUD_CenterBottom" suffix="1" />
+        <Object id="SOL_HUD_CenterIconAmmo" suffix="1" />
+        <Object id="SOL_HUD_CenterIconMissiles" suffix="1" />
+        <Object id="SOL_HUD_CenterIconThruster" suffix="1" />
+        <Object id="SOL_HUD_CenterReticleSquare" suffix="1" />
+        <Object id="SOL_HUD_CenterReticleX" suffix="1" />
+        <Object id="SOL_HUD_CenterSpeedBG" suffix="1" />
+        <Object id="SOL_HUD_GibberishText01" suffix="2" />
+        <Object id="SOL_HUD_RadarAnimLines" suffix="2" />
+        <Object id="SOL_HUD_RadarCorners" suffix="2" />
+        <Object id="SOL_HUD_RadarDetail02" suffix="1" />
+        <Object id="SOL_HUD_RadarSweep" suffix="2" />
+        <Object id="SOL_HUD_ShipADPRed" suffix="1" />
+        <Object id="SOL_HUD_ShipHealthGlow" suffix="1" />
+        <Object id="SOL_HUD_ShipHealthIcon" suffix="1" />
+        <Object id="SOL_HUD_ShipHealthIconRed" suffix="1" />
+        <Object id="SOL_HUD_ShipHealthIconYellow" suffix="1" />
+        <Object id="SOL_HUD_ShipProfileRedGlow" suffix="1" />
+        <Object id="SOL_HUD_ShipProfileRedTxtBG" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIcon01" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIcon02" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIcon03" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIcon04" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIcon05" suffix="1" />
+        <Object id="SOL_HUD_Waveform" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\hud_assets.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FE_Cursor" suffix="2" />
+        <Object id="FE_CursorGlow" suffix="2" />
+        <Object id="MD_ButtonNorm" suffix="1" />
+        <Object id="MD_ButtonSelected" suffix="2" />
+        <Object id="OP_SelectionBG" suffix="1" />
+        <Object id="SOL_HUD_AlliedHealthGlow" suffix="1" />
+        <Object id="SOL_HUD_AssistCrossGray" suffix="1" />
+        <Object id="SOL_HUD_AssistCrossGrayGlow" suffix="1" />
+        <Object id="SOL_HUD_AssistCrossRed" suffix="1" />
+        <Object id="SOL_HUD_AssistCrossRedGlow" suffix="1" />
+        <Object id="SOL_HUD_AssistCrossRedLockon" suffix="1" />
+        <Object id="SOL_HUD_AssistDescriptor" suffix="1" />
+        <Object id="SOL_HUD_AssistDescriptorGray" suffix="1" />
+        <Object id="SOL_HUD_CenterBaked" suffix="1" />
+        <Object id="SOL_HUD_CenterMeterAmmo" suffix="1" />
+        <Object id="SOL_HUD_CenterMeterThruster" suffix="1" />
+        <Object id="SOL_HUD_CenterSides" suffix="1" />
+        <Object id="SOL_HUD_CenterSlideBG" suffix="1" />
+        <Object id="SOL_HUD_CheckboxBlue" suffix="1" />
+        <Object id="SOL_HUD_CheckboxGreen" suffix="1" />
+        <Object id="SOL_HUD_Circles01" suffix="1" />
+        <Object id="SOL_HUD_Circles02" suffix="1" />
+        <Object id="SOL_HUD_Circles03" suffix="1" />
+        <Object id="SOL_HUD_Circles04" suffix="1" />
+        <Object id="SOL_HUD_Circles05" suffix="1" />
+        <Object id="SOL_HUD_DamageIndicatorMain" suffix="1" />
+        <Object id="SOL_HUD_DashAccent" suffix="1" />
+        <Object id="SOL_HUD_DashAccentLarge" suffix="1" />
+        <Object id="SOL_HUD_ETSArrowBlue" suffix="1" />
+        <Object id="SOL_HUD_ETSArrowYellow" suffix="1" />
+        <Object id="SOL_HUD_ETSBottom" suffix="1" />
+        <Object id="SOL_HUD_ETSGlow01" suffix="1" />
+        <Object id="SOL_HUD_ETSMiddle" suffix="1" />
+        <Object id="SOL_HUD_ExclamationBlue" suffix="1" />
+        <Object id="SOL_HUD_ExclamationRed" suffix="1" />
+        <Object id="SOL_HUD_ExclamationYellow" suffix="1" />
+        <Object id="SOL_HUD_FuelTankRed" suffix="1" />
+        <Object id="SOL_HUD_FuelTankYellow" suffix="1" />
+        <Object id="SOL_HUD_GibberishText01" suffix="1" />
+        <Object id="SOL_HUD_GlowBox" suffix="1" />
+        <Object id="SOL_HUD_GlowGeneric" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGBlue" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGBlueAdd" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGRed" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGRedAdd" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGYellow" suffix="1" />
+        <Object id="SOL_HUD_IndicatorBGYellowAdd" suffix="1" />
+        <Object id="SOL_HUD_IndicatorPatternRed" suffix="1" />
+        <Object id="SOL_HUD_IntroTextBG" suffix="1" />
+        <Object id="SOL_HUD_LeadIndicatorRed" suffix="1" />
+        <Object id="SOL_HUD_LeadIndicatorYellow" suffix="1" />
+        <Object id="SOL_HUD_MissileGlow" suffix="1" />
+        <Object id="SOL_HUD_OffScreenArrowGray" suffix="1" />
+        <Object id="SOL_HUD_OffScreenArrowGreen" suffix="1" />
+        <Object id="SOL_HUD_OffScreenArrowPurple" suffix="1" />
+        <Object id="SOL_HUD_OffScreenArrowRed" suffix="1" />
+        <Object id="SOL_HUD_OffScreenArrowYellow" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGrayCrate" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenADP" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenAtlas" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenCrate" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenHades" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenHerc" suffix="1" />
+        <Object id="SOL_HUD_OffScreenGreenTrans" suffix="1" />
+        <Object id="SOL_HUD_OffScreenMainGray" suffix="1" />
+        <Object id="SOL_HUD_OffScreenMainGreen" suffix="1" />
+        <Object id="SOL_HUD_OffScreenMainPurple" suffix="1" />
+        <Object id="SOL_HUD_OffScreenMainRed" suffix="1" />
+        <Object id="SOL_HUD_OffScreenMainYellow" suffix="1" />
+        <Object id="SOL_HUD_OffScreenNuclearMissile" suffix="1" />
+        <Object id="SOL_HUD_OffScreenPurpleWaypoint" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedADP" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedCannon" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedCarrier" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedCore" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedDrone" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedElite" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedFighter" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedFrigate" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedFrigate_NoCannon" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedFuelTank" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedMissile" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedTorpedo" suffix="1" />
+        <Object id="SOL_HUD_OffScreenRedTurret" suffix="1" />
+        <Object id="SOL_HUD_OffScreenYellowADP" suffix="1" />
+        <Object id="SOL_HUD_OffScreenYellowCrate" suffix="1" />
+        <Object id="SOL_HUD_OffScreenYellowFuelTank" suffix="1" />
+        <Object id="SOL_HUD_OverheatBG" suffix="1" />
+        <Object id="SOL_HUD_PanelSelector" suffix="1" />
+        <Object id="SOL_HUD_PortraitAdjutant" suffix="1" />
+        <Object id="SOL_HUD_PortraitAric" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGGray" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGRed" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGStreakRed" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGStreakTeal" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGStreakWhite" suffix="1" />
+        <Object id="SOL_HUD_PortraitBGTeal" suffix="1" />
+        <Object id="SOL_HUD_PortraitCal" suffix="1" />
+        <Object id="SOL_HUD_PortraitCassi" suffix="1" />
+        <Object id="SOL_HUD_PortraitCmdrDavid" suffix="1" />
+        <Object id="SOL_HUD_PortraitCommander" suffix="1" />
+        <Object id="SOL_HUD_PortraitCorvetteCpt01" suffix="1" />
+        <Object id="SOL_HUD_PortraitCorvetteCpt02" suffix="1" />
+        <Object id="SOL_HUD_PortraitCoSFighter" suffix="1" />
+        <Object id="SOL_HUD_PortraitDanny" suffix="1" />
+        <Object id="SOL_HUD_PortraitDrPudovkin" suffix="1" />
+        <Object id="SOL_HUD_PortraitEastColRep01" suffix="1" />
+        <Object id="SOL_HUD_PortraitElena" suffix="1" />
+        <Object id="SOL_HUD_PortraitFemaleCapt01" suffix="1" />
+        <Object id="SOL_HUD_PortraitFemaleCapt02" suffix="1" />
+        <Object id="SOL_HUD_PortraitFemaleCapt03" suffix="1" />
+        <Object id="SOL_HUD_PortraitGeneric" suffix="1" />
+        <Object id="SOL_HUD_PortraitHideki" suffix="1" />
+        <Object id="SOL_HUD_PortraitJoe" suffix="1" />
+        <Object id="SOL_HUD_PortraitLtCommander" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF01NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF01Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF02NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF02Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF03NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF03Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF04NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotF04Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotGeneric" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM01NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM01Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM02NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM02Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM03NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM03Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM04NoMask" suffix="1" />
+        <Object id="SOL_HUD_PortraitPilotM04Visor" suffix="1" />
+        <Object id="SOL_HUD_PortraitRefineryRep" suffix="1" />
+        <Object id="SOL_HUD_PortraitWestColRep01" suffix="1" />
+        <Object id="SOL_HUD_RadarAnimLines" suffix="1" />
+        <Object id="SOL_HUD_RadarBlueDotRing" suffix="1" />
+        <Object id="SOL_HUD_RadarCorners" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotLg" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotLgDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotLgUp" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotMed" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotMedDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotMedUp" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotSm" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotSmDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGrayDotSmUp" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotLg" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotLgDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotLgUp" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotMed" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotMedDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotMedUp" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotRing" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotSm" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotSmDn" suffix="1" />
+        <Object id="SOL_HUD_RadarGreenDotSmUp" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotLg" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotLgDn" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotLgUp" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotSm" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotSmDn" suffix="1" />
+        <Object id="SOL_HUD_RadarOrangeDotSmUp" suffix="1" />
+        <Object id="SOL_HUD_RadarPurpleDotSm" suffix="1" />
+        <Object id="SOL_HUD_RadarPurpleDotSmDn" suffix="1" />
+        <Object id="SOL_HUD_RadarPurpleDotSmUp" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotLg" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotLgDn" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotLgUp" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotMed" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotMedDn" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotMedUp" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotSm" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotSmDn" suffix="1" />
+        <Object id="SOL_HUD_RadarRedDotSmUp" suffix="1" />
+        <Object id="SOL_HUD_RadarSweep" suffix="1" />
+        <Object id="SOL_HUD_RadialDpad" suffix="1" />
+        <Object id="SOL_HUD_RadialSel" suffix="1" />
+        <Object id="SOL_HUD_RadialSlice" suffix="1" />
+        <Object id="SOL_HUD_ShipADPGreen" suffix="1" />
+        <Object id="SOL_HUD_ShipADPYellow" suffix="1" />
+        <Object id="SOL_HUD_ShipAlliedAtlas" suffix="1" />
+        <Object id="SOL_HUD_ShipAlliedHades" suffix="1" />
+        <Object id="SOL_HUD_ShipAlliedHerc" suffix="1" />
+        <Object id="SOL_HUD_ShipAlliedTransport" suffix="1" />
+        <Object id="SOL_HUD_ShipCODFighterElite" suffix="1" />
+        <Object id="SOL_HUD_ShipCore" suffix="1" />
+        <Object id="SOL_HUD_ShipCoSBomber" suffix="1" />
+        <Object id="SOL_HUD_ShipCoSCarrier" suffix="1" />
+        <Object id="SOL_HUD_ShipCoSMissile" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSCannon" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSFighter" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSFrigate" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSFrigate_NoCannon" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSTorpedo" suffix="1" />
+        <Object id="SOL_HUD_ShipCotSTurret" suffix="1" />
+        <Object id="SOL_HUD_ShipCrateGray" suffix="1" />
+        <Object id="SOL_HUD_ShipCrateGreen" suffix="1" />
+        <Object id="SOL_HUD_ShipCrateYellow" suffix="1" />
+        <Object id="SOL_HUD_ShipDroneClosed" suffix="1" />
+        <Object id="SOL_HUD_ShipDroneOpen" suffix="1" />
+        <Object id="SOL_HUD_ShipMissileLauncher" suffix="1" />
+        <Object id="SOL_HUD_ShipTank" suffix="1" />
+        <Object id="SOL_HUD_TargetIcon" suffix="1" />
+        <Object id="SOL_HUD_TextArrow" suffix="1" />
+        <Object id="SOL_HUD_TimerBar" suffix="1" />
+        <Object id="SOL_HUD_TimerBarRed" suffix="1" />
+        <Object id="SOL_HUD_TimerBG" suffix="1" />
+        <Object id="SOL_HUD_TimerBGRed" suffix="1" />
+        <Object id="SOL_HUD_TooltipDescriptionBG" suffix="1" />
+        <Object id="SOL_HUD_TooltipHeaderBG" suffix="1" />
+        <Object id="SOL_HUD_TooltipInfoIconBG" suffix="1" />
+        <Object id="SOL_HUD_TopWarningBG" suffix="1" />
+        <Object id="SOL_HUD_TopWarningBorder" suffix="1" />
+        <Object id="SOL_HUD_TriangleGray" suffix="1" />
+        <Object id="SOL_HUD_TriangleRed" suffix="1" />
+        <Object id="SOL_HUD_VArrowGreen01" suffix="1" />
+        <Object id="SOL_HUD_VArrowGreen02" suffix="1" />
+        <Object id="SOL_HUD_VArrowGreen03" suffix="1" />
+        <Object id="SOL_HUD_VArrowGreen04" suffix="1" />
+        <Object id="SOL_HUD_VArrowGreen05" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed01" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed02" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed03" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed04" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed05" suffix="1" />
+        <Object id="SOL_HUD_VArrowRed06" suffix="1" />
+        <Object id="SOL_HUD_WarningBG" suffix="1" />
+        <Object id="SOL_HUD_WarningExclamation" suffix="1" />
+        <Object id="SOL_HUD_WarningHashes" suffix="1" />
+        <Object id="SOL_HUD_WarningHashesYellow" suffix="1" />
+        <Object id="SOL_HUD_WarningOverheatBG" suffix="1" />
+        <Object id="SOL_HUD_Waveform" suffix="1" />
+        <Object id="SOL_HUD_WaypointGlow" suffix="1" />
+        <Object id="SOL_HUD_WaypointIndicator" suffix="1" />
+        <Object id="TempHackPattern01" suffix="1" />
+        <Object id="TempHackPattern02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\hud_cod.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SOL_HUD_ShipHealthIcon" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\hud_hades.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SOL_HUD_CenterSpeedBG" suffix="2" />
+        <Object id="SOL_HUD_ShipHealthIcon" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\intro_sequence.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FE_TS_Ember" suffix="2" />
+        <Object id="FE_TS_ExodusTextFGGlow" suffix="2" />
+        <Object id="FE_TS_SOLTextSunBG03" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\laserturret.upk" />
+    <Package path="solexodusgame\content\legacy\cos_carrier.upk" />
+    <Package path="solexodusgame\content\legacy\projectiles.upk" />
+    <Package path="solexodusgame\content\legacy\sol_objects_legacy.upk" />
+    <Package path="solexodusgame\content\legacy\sol_prefab.upk" />
+    <Package path="solexodusgame\content\legacy\sol_skyboxes_legacy.upk" />
+    <Package path="solexodusgame\content\legacy\sol_spacestation_legacy.upk" />
+    <Package path="solexodusgame\content\legacy\sol_temple.upk" />
+    <Package path="solexodusgame\content\legacy\sol_trash.upk" />
+    <Package path="solexodusgame\content\load_screen.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FE_MS_BlueBG" suffix="1" />
+        <Object id="MS_HeaderBG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="solexodusgame\content\localshadercache-pc-d3d-sm5.upk" />
+    <Package path="solexodusgame\content\maps\deletedredirectors.upk" />
+    <Package path="solexodusgame\content\maps\map_deepspace1.sol" />
+    <Package path="solexodusgame\content\maps\map_deepspace2.sol" />
+    <Package path="solexodusgame\content\maps\map_deepspace3.sol" />
+    <Package path="solexodusgame\content\maps\map_deepspace4.sol" />
+    <Package path="solexodusgame\content\maps\map_diamondnebula.sol" />
+    <Package path="solexodusgame\content\maps\map_emeraldnebula.sol" />
+    <Package path="solexodusgame\content\maps\map_mission0.sol" />
+    <Package path="solexodusgame\content\maps\map_mission01.sol" />
+    <Package path="solexodusgame\content\maps\map_mission02.sol" />
+    <Package path="solexodusgame\content\maps\map_mission03.sol" />
+    <Package path="solexodusgame\content\maps\map_mission04.sol" />
+    <Package path="solexodusgame\content\maps\map_mission04a.sol" />
+    <Package path="solexodusgame\content\maps\map_mission05.sol" />
+    <Package path="solexodusgame\content\maps\map_mission05a.sol" />
+    <Package path="solexodusgame\content\maps\map_mission06.sol" />
+    <Package path="solexodusgame\content\maps\map_mission07.sol" />
+    <Package path="solexodusgame\content\maps\map_mission08.sol" />
+    <Package path="solexodusgame\content\maps\map_mission08a.sol" />
+    <Package path="solexodusgame\content\maps\map_mission09.sol" />
+    <Package path="solexodusgame\content\maps\map_mission10.sol" />
+    <Package path="solexodusgame\content\maps\map_mission11.sol" />
+    <Package path="solexodusgame\content\maps\map_mission12.sol" />
+    <Package path="solexodusgame\content\maps\map_mission13.sol">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\PosY" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\maps\map_mission14.sol" />
+    <Package path="solexodusgame\content\maps\map_mission14a.sol" />
+    <Package path="solexodusgame\content\maps\map_mission15_android.sol" />
+    <Package path="solexodusgame\content\maps\map_mission15.sol" />
+    <Package path="solexodusgame\content\maps\map_mission15a_android.sol" />
+    <Package path="solexodusgame\content\maps\map_mission15a.sol" />
+    <Package path="solexodusgame\content\maps\map_neptune.sol" />
+    <Package path="solexodusgame\content\maps\map_neptuneatmosphere.sol" />
+    <Package path="solexodusgame\content\maps\map_newearth.sol" />
+    <Package path="solexodusgame\content\maps\map_outsidesol.sol" />
+    <Package path="solexodusgame\content\maps\map_pluto_empty.sol" />
+    <Package path="solexodusgame\content\maps\map_saturn.sol" />
+    <Package path="solexodusgame\content\maps\map_titan.sol" />
+    <Package path="solexodusgame\content\maps\map_triton.sol" />
+    <Package path="solexodusgame\content\maps\map_uranus.sol">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\PosY" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\maps\sol_fe_map_mission0.sol" />
+    <Package path="solexodusgame\content\missiondebriefing.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FE_Cursor" suffix="2" />
+        <Object id="FE_CursorGlow" suffix="2" />
+        <Object id="FE_MS_SubHeader" suffix="1" />
+        <Object id="MD_Background1" suffix="1" />
+        <Object id="MD_ButtonDisabled" suffix="1" />
+        <Object id="MD_ButtonDown" suffix="1" />
+        <Object id="MD_ButtonNorm" suffix="1" />
+        <Object id="MD_ButtonSelected" suffix="3" />
+        <Object id="MD_LetterboxBG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\options.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ButtonDepressed" suffix="1" />
+        <Object id="ButtonDisabled" suffix="1" />
+        <Object id="ButtonNormal" suffix="1" />
+        <Object id="ButtonSelected" suffix="1" />
+        <Object id="FE_Cursor" suffix="1" />
+        <Object id="FE_CursorGlow" suffix="1" />
+        <Object id="MD_Background1" suffix="2" />
+        <Object id="MD_LetterboxBG" suffix="2" />
+        <Object id="OP_CheckboxTickedBlue" suffix="2" />
+        <Object id="OP_CheckboxTickedDisabled" suffix="1" />
+        <Object id="OP_CheckboxTickedDown" suffix="1" />
+        <Object id="OP_CheckboxTickedGold" suffix="2" />
+        <Object id="OP_CheckboxUntickedBlue" suffix="2" />
+        <Object id="OP_CheckboxUntickedDisabled" suffix="1" />
+        <Object id="OP_CheckboxUntickedDown" suffix="1" />
+        <Object id="OP_CheckboxUntickedGold" suffix="2" />
+        <Object id="OP_CustomizationBG" suffix="1" />
+        <Object id="OP_DropdownIdle" suffix="2" />
+        <Object id="OP_DropdownListitemIdle" suffix="1" />
+        <Object id="OP_DropdownListitemSel" suffix="1" />
+        <Object id="OP_DropdownSel" suffix="2" />
+        <Object id="OP_JoyOptionsBG" suffix="1" />
+        <Object id="OP_Notch" suffix="1" />
+        <Object id="OP_ScrollbarArrowDownDisabled" suffix="1" />
+        <Object id="OP_ScrollbarArrowDownDown" suffix="1" />
+        <Object id="OP_ScrollbarArrowDownIdle" suffix="2" />
+        <Object id="OP_ScrollbarArrowDownSel" suffix="2" />
+        <Object id="OP_ScrollbarArrowUpDisabled" suffix="1" />
+        <Object id="OP_ScrollbarArrowUpDown" suffix="1" />
+        <Object id="OP_ScrollbarArrowUpIdle" suffix="2" />
+        <Object id="OP_ScrollbarArrowUpSel" suffix="2" />
+        <Object id="OP_ScrollbarBGDisabled" suffix="1" />
+        <Object id="OP_ScrollbarBGDown" suffix="1" />
+        <Object id="OP_ScrollbarBGIdle" suffix="2" />
+        <Object id="OP_ScrollbarBGSel" suffix="1" />
+        <Object id="OP_ScrollbarKnobDisabled" suffix="1" />
+        <Object id="OP_ScrollbarKnobDown" suffix="1" />
+        <Object id="OP_ScrollbarKnobIdle" suffix="2" />
+        <Object id="OP_ScrollbarKnobSel" suffix="2" />
+        <Object id="OP_SelectionBG" suffix="2" />
+        <Object id="OP_SliderBGDisabled" suffix="1" />
+        <Object id="OP_SliderBGDown" suffix="1" />
+        <Object id="OP_SliderBGIdle" suffix="2" />
+        <Object id="OP_SliderBGOver" suffix="1" />
+        <Object id="OP_SliderKnobDisabled" suffix="1" />
+        <Object id="OP_SliderKnobDown" suffix="1" />
+        <Object id="OP_SliderKnobIdle" suffix="2" />
+        <Object id="OP_SliderKnobSel" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\outro_sequence.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FE_TS_Ember" suffix="3" />
+        <Object id="FE_TS_ExodusTextFGGlow" suffix="3" />
+        <Object id="FE_TS_SOLTextSunBG03" suffix="3" />
+        <Object id="Scene13BG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="solexodusgame\content\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="solexodusgame\content\sol_autodefenseplatform.upk" />
+    <Package path="solexodusgame\content\sol_fuel-refinery.upk" />
+    <Package path="solexodusgame\content\sol_impactfx.upk" />
+    <Package path="solexodusgame\content\sol_level_effects.upk" />
+    <Package path="solexodusgame\content\sol_lf.upk" />
+    <Package path="solexodusgame\content\sol_objects.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Transition" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\sol_projectiles.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\t_spark" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="solexodusgame\content\sol_ship_debris.upk" />
+    <Package path="solexodusgame\content\sol_ships_fx.upk" />
+    <Package path="solexodusgame\content\sol_ships.upk" />
+    <Package path="solexodusgame\content\sol_skyboxes.upk" />
+    <Package path="solexodusgame\content\sol_spacestation.upk" />
+    <Package path="solexodusgame\content\soundclassesandmodes.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_extra_music.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m00.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m002.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m01.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m02.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m03.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m04.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m05.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m06.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m07.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m08.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music_m09.upk" />
+    <Package path="solexodusgame\content\sounds\music\sol_music.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_common.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission01.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission02.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission03.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission04.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission06.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_env_mission07.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_bomber.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_carrier.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_drone.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_fighter.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_frigate.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_cod_gunship.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_common.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_defenseplatform.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_transport.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_ucs_atlas.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_ucs_hades.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ship_ucs_hercules.upk" />
+    <Package path="solexodusgame\content\sounds\sfx\sol_sfx_ui_theme.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_cots_fighter.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_cots_turrets.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_generic.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_hades.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_transport.upk" />
+    <Package path="solexodusgame\content\sounds\vehicle\sol_vehicle_ucs_atlas.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m00_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m01_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m02_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m03_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m04_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m04a_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m05_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m05a_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m06_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m07_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m08_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m08a_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m09_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m10_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m11_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m12_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m13_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m14_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m14a_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m15_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_m15a_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_mxx_vo.upk" />
+    <Package path="solexodusgame\content\sounds\vo\sol_vo_cues.upk" />
+    <Package path="solexodusgame\content\station-juno.upk" />
+    <Package path="solexodusgame\content\ucs_hades_fx.upk" />
+    <Package path="solexodusgame\content\ucs_hades.upk" />
+    <Package path="solexodusgame\content\ucs_hercules.upk" />
+    <Package path="solexodusgame\script\core.u" />
+    <Package path="solexodusgame\script\engine.u" />
+    <Package path="solexodusgame\script\gameframework.u" />
+    <Package path="solexodusgame\script\gfxui.u" />
+    <Package path="solexodusgame\script\gfxuieditor.u" />
+    <Package path="solexodusgame\script\ipdrv.u" />
+    <Package path="solexodusgame\script\onlinesubsystemgamecircle.u" />
+    <Package path="solexodusgame\script\onlinesubsystemlive.u" />
+    <Package path="solexodusgame\script\onlinesubsystempc.u" />
+    <Package path="solexodusgame\script\onlinesubsystemsteamworks.u" />
+    <Package path="solexodusgame\script\solexodusgame.u" />
+    <Package path="solexodusgame\script\unrealed.u" />
+    <Package path="solexodusgame\script\windrv.u" />
+  </Packages>
+</IdRemapping>

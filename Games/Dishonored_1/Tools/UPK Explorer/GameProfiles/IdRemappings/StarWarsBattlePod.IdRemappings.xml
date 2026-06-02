@@ -1,0 +1,608 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="swarcgame\cookedpcconsole\akaudio.upk" />
+    <Package path="swarcgame\cookedpcconsole\core.upk" />
+    <Package path="swarcgame\cookedpcconsole\engine.upk" />
+    <Package path="swarcgame\cookedpcconsole\gameframework.upk" />
+    <Package path="swarcgame\cookedpcconsole\gfxui.upk" />
+    <Package path="swarcgame\cookedpcconsole\globalpersistentcookerdata.upk" />
+    <Package path="swarcgame\cookedpcconsole\guidcache.upk" />
+    <Package path="swarcgame\cookedpcconsole\ipdrv.upk" />
+    <Package path="swarcgame\cookedpcconsole\onlinesubsystempc.upk" />
+    <Package path="swarcgame\cookedpcconsole\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="swarcgame\cookedpcconsole\startup_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\startup.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01_lighting.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01_stage1_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01_stage1_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01_stage1.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_00_canyonv2.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_background_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_7" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_battlebeyond.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_chase_02_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_chase_02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_lighting_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_02_ewokbase.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+        <Object id="Texture2D_84" suffix="1" />
+        <Object id="Texture2D_85" suffix="1" />
+        <Object id="Texture2D_86" suffix="1" />
+        <Object id="Texture2D_88" suffix="1" />
+        <Object id="Texture2D_89" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+        <Object id="Texture2D_90" suffix="1" />
+        <Object id="Texture2D_92" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_04_river.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_chase 02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_chase 03.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_chase02_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_chase03_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03_light.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract03.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04_lighting.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04_stage1_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04_stage1_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04_stage1.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_attract04.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_continue.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_00_canyonv2.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_00_intro_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_background_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_101" suffix="1" />
+        <Object id="Texture2D_103" suffix="1" />
+        <Object id="Texture2D_105" suffix="1" />
+        <Object id="Texture2D_117" suffix="1" />
+        <Object id="Texture2D_121" suffix="1" />
+        <Object id="Texture2D_122" suffix="1" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_136" suffix="1" />
+        <Object id="Texture2D_137" suffix="1" />
+        <Object id="Texture2D_17" suffix="3" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_33" suffix="2" />
+        <Object id="Texture2D_38" suffix="2" />
+        <Object id="Texture2D_64" suffix="2" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_76" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_battlebeyond.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_bg_art_boss.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="4" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="4" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_20" suffix="3" />
+        <Object id="Texture2D_21" suffix="4" />
+        <Object id="Texture2D_22" suffix="3" />
+        <Object id="Texture2D_23" suffix="3" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_25" suffix="2" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_27" suffix="2" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_30" suffix="2" />
+        <Object id="Texture2D_36" suffix="2" />
+        <Object id="Texture2D_37" suffix="2" />
+        <Object id="Texture2D_38" suffix="3" />
+        <Object id="Texture2D_39" suffix="2" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_40" suffix="2" />
+        <Object id="Texture2D_41" suffix="2" />
+        <Object id="Texture2D_42" suffix="2" />
+        <Object id="Texture2D_43" suffix="2" />
+        <Object id="Texture2D_44" suffix="2" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_47" suffix="2" />
+        <Object id="Texture2D_48" suffix="2" />
+        <Object id="Texture2D_49" suffix="2" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_51" suffix="2" />
+        <Object id="Texture2D_52" suffix="2" />
+        <Object id="Texture2D_53" suffix="2" />
+        <Object id="Texture2D_54" suffix="2" />
+        <Object id="Texture2D_55" suffix="2" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_8" suffix="3" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_boss_01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_boss_battlebeyond.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_chase_01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_chase_01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_chase_02_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_chase_02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_dogfight_01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_dogfight_01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_intropath_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_12" suffix="4" />
+        <Object id="Texture2D_15" suffix="4" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_19" suffix="3" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_20" suffix="4" />
+        <Object id="Texture2D_23" suffix="4" />
+        <Object id="Texture2D_24" suffix="3" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_32" suffix="2" />
+        <Object id="Texture2D_36" suffix="3" />
+        <Object id="Texture2D_39" suffix="3" />
+        <Object id="Texture2D_40" suffix="3" />
+        <Object id="Texture2D_41" suffix="3" />
+        <Object id="Texture2D_42" suffix="3" />
+        <Object id="Texture2D_43" suffix="3" />
+        <Object id="Texture2D_44" suffix="3" />
+        <Object id="Texture2D_45" suffix="2" />
+        <Object id="Texture2D_46" suffix="2" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="5" />
+        <Object id="Texture2D_8" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_intropath.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_lighting_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_outro_space.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_sm_art_boss.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_success_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m02b_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_00_intro_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_00_intropath.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_00_rebelbase.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="4" />
+        <Object id="Texture2D_12" suffix="5" />
+        <Object id="Texture2D_13" suffix="4" />
+        <Object id="Texture2D_14" suffix="4" />
+        <Object id="Texture2D_15" suffix="5" />
+        <Object id="Texture2D_17" suffix="5" />
+        <Object id="Texture2D_18" suffix="4" />
+        <Object id="Texture2D_19" suffix="4" />
+        <Object id="Texture2D_2" suffix="4" />
+        <Object id="Texture2D_20" suffix="5" />
+        <Object id="Texture2D_21" suffix="5" />
+        <Object id="Texture2D_22" suffix="4" />
+        <Object id="Texture2D_25" suffix="3" />
+        <Object id="Texture2D_26" suffix="3" />
+        <Object id="Texture2D_27" suffix="3" />
+        <Object id="Texture2D_28" suffix="2" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_37" suffix="3" />
+        <Object id="Texture2D_38" suffix="4" />
+        <Object id="Texture2D_39" suffix="4" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_46" suffix="3" />
+        <Object id="Texture2D_47" suffix="3" />
+        <Object id="Texture2D_48" suffix="3" />
+        <Object id="Texture2D_49" suffix="3" />
+        <Object id="Texture2D_5" suffix="5" />
+        <Object id="Texture2D_6" suffix="5" />
+        <Object id="Texture2D_7" suffix="6" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_01_forest.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="6" />
+        <Object id="Texture2D_10" suffix="5" />
+        <Object id="Texture2D_14" suffix="5" />
+        <Object id="Texture2D_15" suffix="6" />
+        <Object id="Texture2D_16" suffix="4" />
+        <Object id="Texture2D_17" suffix="6" />
+        <Object id="Texture2D_18" suffix="5" />
+        <Object id="Texture2D_19" suffix="5" />
+        <Object id="Texture2D_2" suffix="5" />
+        <Object id="Texture2D_20" suffix="6" />
+        <Object id="Texture2D_21" suffix="6" />
+        <Object id="Texture2D_22" suffix="5" />
+        <Object id="Texture2D_23" suffix="5" />
+        <Object id="Texture2D_24" suffix="4" />
+        <Object id="Texture2D_29" suffix="3" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_30" suffix="3" />
+        <Object id="Texture2D_31" suffix="2" />
+        <Object id="Texture2D_32" suffix="3" />
+        <Object id="Texture2D_33" suffix="3" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_38" suffix="5" />
+        <Object id="Texture2D_4" suffix="5" />
+        <Object id="Texture2D_40" suffix="4" />
+        <Object id="Texture2D_41" suffix="4" />
+        <Object id="Texture2D_42" suffix="4" />
+        <Object id="Texture2D_44" suffix="4" />
+        <Object id="Texture2D_45" suffix="3" />
+        <Object id="Texture2D_46" suffix="4" />
+        <Object id="Texture2D_47" suffix="4" />
+        <Object id="Texture2D_48" suffix="4" />
+        <Object id="Texture2D_49" suffix="4" />
+        <Object id="Texture2D_5" suffix="6" />
+        <Object id="Texture2D_50" suffix="2" />
+        <Object id="Texture2D_55" suffix="3" />
+        <Object id="Texture2D_56" suffix="2" />
+        <Object id="Texture2D_57" suffix="2" />
+        <Object id="Texture2D_6" suffix="6" />
+        <Object id="Texture2D_63" suffix="2" />
+        <Object id="Texture2D_7" suffix="7" />
+        <Object id="Texture2D_8" suffix="6" />
+        <Object id="Texture2D_9" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_02_ewokbase.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_48" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_68" suffix="1" />
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_71" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_78" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+        <Object id="Texture2D_80" suffix="1" />
+        <Object id="Texture2D_81" suffix="1" />
+        <Object id="Texture2D_84" suffix="1" />
+        <Object id="Texture2D_85" suffix="1" />
+        <Object id="Texture2D_86" suffix="1" />
+        <Object id="Texture2D_88" suffix="1" />
+        <Object id="Texture2D_89" suffix="1" />
+        <Object id="Texture2D_9" suffix="1" />
+        <Object id="Texture2D_90" suffix="1" />
+        <Object id="Texture2D_92" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_04_river.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="2" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="2" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_06_impbase .upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="7" />
+        <Object id="Texture2D_106" suffix="1" />
+        <Object id="Texture2D_13" suffix="5" />
+        <Object id="Texture2D_14" suffix="6" />
+        <Object id="Texture2D_16" suffix="5" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_22" suffix="6" />
+        <Object id="Texture2D_29" suffix="4" />
+        <Object id="Texture2D_31" suffix="3" />
+        <Object id="Texture2D_32" suffix="4" />
+        <Object id="Texture2D_33" suffix="4" />
+        <Object id="Texture2D_35" suffix="2" />
+        <Object id="Texture2D_37" suffix="4" />
+        <Object id="Texture2D_4" suffix="6" />
+        <Object id="Texture2D_40" suffix="5" />
+        <Object id="Texture2D_41" suffix="5" />
+        <Object id="Texture2D_42" suffix="5" />
+        <Object id="Texture2D_43" suffix="4" />
+        <Object id="Texture2D_50" suffix="3" />
+        <Object id="Texture2D_51" suffix="3" />
+        <Object id="Texture2D_56" suffix="3" />
+        <Object id="Texture2D_6" suffix="7" />
+        <Object id="Texture2D_64" suffix="3" />
+        <Object id="Texture2D_65" suffix="1" />
+        <Object id="Texture2D_66" suffix="1" />
+        <Object id="Texture2D_67" suffix="2" />
+        <Object id="Texture2D_69" suffix="2" />
+        <Object id="Texture2D_7" suffix="8" />
+        <Object id="Texture2D_72" suffix="2" />
+        <Object id="Texture2D_73" suffix="1" />
+        <Object id="Texture2D_8" suffix="7" />
+        <Object id="Texture2D_9" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_08_bunker.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="8" />
+        <Object id="Texture2D_10" suffix="6" />
+        <Object id="Texture2D_11" suffix="4" />
+        <Object id="Texture2D_12" suffix="6" />
+        <Object id="Texture2D_15" suffix="7" />
+        <Object id="Texture2D_17" suffix="7" />
+        <Object id="Texture2D_18" suffix="6" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_27" suffix="4" />
+        <Object id="Texture2D_28" suffix="3" />
+        <Object id="Texture2D_29" suffix="5" />
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_30" suffix="4" />
+        <Object id="Texture2D_31" suffix="4" />
+        <Object id="Texture2D_32" suffix="5" />
+        <Object id="Texture2D_38" suffix="6" />
+        <Object id="Texture2D_39" suffix="5" />
+        <Object id="Texture2D_4" suffix="7" />
+        <Object id="Texture2D_40" suffix="6" />
+        <Object id="Texture2D_45" suffix="4" />
+        <Object id="Texture2D_47" suffix="5" />
+        <Object id="Texture2D_5" suffix="7" />
+        <Object id="Texture2D_53" suffix="3" />
+        <Object id="Texture2D_55" suffix="4" />
+        <Object id="Texture2D_56" suffix="4" />
+        <Object id="Texture2D_6" suffix="8" />
+        <Object id="Texture2D_61" suffix="2" />
+        <Object id="Texture2D_63" suffix="3" />
+        <Object id="Texture2D_69" suffix="3" />
+        <Object id="Texture2D_7" suffix="9" />
+        <Object id="Texture2D_70" suffix="1" />
+        <Object id="Texture2D_71" suffix="2" />
+        <Object id="Texture2D_72" suffix="3" />
+        <Object id="Texture2D_8" suffix="8" />
+        <Object id="Texture2D_80" suffix="2" />
+        <Object id="Texture2D_81" suffix="2" />
+        <Object id="Texture2D_82" suffix="1" />
+        <Object id="Texture2D_83" suffix="1" />
+        <Object id="Texture2D_84" suffix="2" />
+        <Object id="Texture2D_85" suffix="2" />
+        <Object id="Texture2D_86" suffix="2" />
+        <Object id="Texture2D_87" suffix="1" />
+        <Object id="Texture2D_88" suffix="2" />
+        <Object id="Texture2D_89" suffix="2" />
+        <Object id="Texture2D_9" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase 01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase 02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase 03.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase02_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_chase03_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_dogfight01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_dogfight01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m03_light.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_boss_geo.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_ch01_geo.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_chase_01_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_chase_01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_chase_02_collisions.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_chase_02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_deathstar_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_dogfight_01.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_dogfight_02.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_dstrench_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_lighting.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_stagebg_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_superlaser_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_m05_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_lighting.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage0.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage0b.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage1_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage1_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage1.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage2_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage2_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage2_lgt.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage2.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage4_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage4_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_stage4.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_yavhangar_art.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_9" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b_yavhangarlgt.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission01b.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission02b_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission02b.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission03.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_lighting.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage0_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage0.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage1_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage1.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage2_1_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage2_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage2_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage2.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage2b_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage3_art.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage3_coll.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage3_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_stage3.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04_vfx.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission04.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission05_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_mission05.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_missionselect.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_resultsscreen.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_splashscreen.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarc_testmode.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarcfonts_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarcfonts.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarcgame_loc_int.upk" />
+    <Package path="swarcgame\cookedpcconsole\swarcgame.upk" />
+    <Package path="swarcgame\cookedpcconsole\windrv.upk" />
+  </Packages>
+</IdRemapping>

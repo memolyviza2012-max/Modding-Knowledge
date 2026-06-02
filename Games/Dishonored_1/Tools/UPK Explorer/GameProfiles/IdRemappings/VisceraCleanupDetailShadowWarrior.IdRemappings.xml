@@ -1,0 +1,157 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="udkgame\cookedpc\core.u" />
+    <Package path="udkgame\cookedpc\editorlandscaperesources.upk" />
+    <Package path="udkgame\cookedpc\editormaterials.upk" />
+    <Package path="udkgame\cookedpc\editormeshes.upk" />
+    <Package path="udkgame\cookedpc\editorresources.upk" />
+    <Package path="udkgame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="udkgame\cookedpc\engine.u" />
+    <Package path="udkgame\cookedpc\enginebuildings.upk" />
+    <Package path="udkgame\cookedpc\enginedebugmaterials.upk" />
+    <Package path="udkgame\cookedpc\enginefonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="SmallFont\Texture2D_28" suffix="1" />
+        <Object id="TinyFont\Texture2D_29" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\enginefonts.upk" />
+    <Package path="udkgame\cookedpc\enginematerials.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\enginemeshes.upk" />
+    <Package path="udkgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\enginesounds.upk" />
+    <Package path="udkgame\cookedpc\enginevolumetrics.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions01.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions02.upk" />
+    <Package path="udkgame\cookedpc\functions\engine_materialfunctions03.upk" />
+    <Package path="udkgame\cookedpc\gameframework.u" />
+    <Package path="udkgame\cookedpc\gfxui.u" />
+    <Package path="udkgame\cookedpc\gfxuieditor.u" />
+    <Package path="udkgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="udkgame\cookedpc\guidcache.upk" />
+    <Package path="udkgame\cookedpc\ipdrv.u" />
+    <Package path="udkgame\cookedpc\maps\exampleentry.udk" />
+    <Package path="udkgame\cookedpc\maps\templates\template_afternoon.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_midday.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_morning.umap" />
+    <Package path="udkgame\cookedpc\maps\templates\template_night.umap" />
+    <Package path="udkgame\cookedpc\maptemplateindex.upk" />
+    <Package path="udkgame\cookedpc\maptemplates.upk" />
+    <Package path="udkgame\cookedpc\materialtemplates.upk" />
+    <Package path="udkgame\cookedpc\mobileenginematerials.upk" />
+    <Package path="udkgame\cookedpc\mobileresources.upk" />
+    <Package path="udkgame\cookedpc\nodebuddies.upk" />
+    <Package path="udkgame\cookedpc\onlinesubsystemgamecenter.u" />
+    <Package path="udkgame\cookedpc\onlinesubsystempc.u" />
+    <Package path="udkgame\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="udkgame\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="udkgame\cookedpc\rscore.u" />
+    <Package path="udkgame\cookedpc\rscore\rs_ui_main.upk" />
+    <Package path="udkgame\cookedpc\rsgcore.u" />
+    <Package path="udkgame\cookedpc\savegamestate.u" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_sw_audio.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swartifacts_tex.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swartifacts.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swmuz_physics.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swmuz_tex.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swmuz_tex2.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swmuz.upk" />
+    <Package path="udkgame\cookedpc\shadow\environments\env_swwater.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\a_sw_vo_01.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_shadow_punchout.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_sw_archetypes.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_sw_audio.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_sw_machines.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_sw_placeholders.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_swdebris.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_swgore.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_swtools.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_swviscera_tex.upk" />
+    <Package path="udkgame\cookedpc\shadow\gameplay\gp_swviscera.upk" />
+    <Package path="udkgame\cookedpc\shadow\maps\sw_temple.udk" />
+    <Package path="udkgame\cookedpc\shadow\maps\vc_office_sw.udk" />
+    <Package path="udkgame\cookedpc\shadow\maps\vcsw_frontend.udk" />
+    <Package path="udkgame\cookedpc\shadow\music\mu_swmusic.upk" />
+    <Package path="udkgame\cookedpc\shadow\ui\ui_vcsr_main.upk" />
+    <Package path="udkgame\cookedpc\shadow\ui\ui_vcsw_main.upk" />
+    <Package path="udkgame\cookedpc\shared\blobshadow.upk" />
+    <Package path="udkgame\cookedpc\shared\envyeditorresources.upk" />
+    <Package path="udkgame\cookedpc\shared\gameplaceholders.upk" />
+    <Package path="udkgame\cookedpc\shared\interactive_meshes.upk" />
+    <Package path="udkgame\cookedpc\shared\soundclassesandmodes.upk" />
+    <Package path="udkgame\cookedpc\shared\speechrecognition.upk" />
+    <Package path="udkgame\cookedpc\shared\testanimphys.upk" />
+    <Package path="udkgame\cookedpc\shared\udk_apexdamagemap.upk" />
+    <Package path="udkgame\cookedpc\shared\udkfonts.upk" />
+    <Package path="udkgame\cookedpc\shared\udkgfxunittests.upk" />
+    <Package path="udkgame\cookedpc\shared\ui_fonts_final.upk" />
+    <Package path="udkgame\cookedpc\shared\utexamplecrowd.upk" />
+    <Package path="udkgame\cookedpc\startup_loc_int.upk" />
+    <Package path="udkgame\cookedpc\startup.upk" />
+    <Package path="udkgame\cookedpc\substanceair.u" />
+    <Package path="udkgame\cookedpc\substanceaired.u" />
+    <Package path="udkgame\cookedpc\udkbase_loc_int.upk" />
+    <Package path="udkgame\cookedpc\udkbase.u" />
+    <Package path="udkgame\cookedpc\unrealed.u" />
+    <Package path="udkgame\cookedpc\vcdswgame.u" />
+    <Package path="udkgame\cookedpc\viscera\characters\ch_janitor01_gibs.upk" />
+    <Package path="udkgame\cookedpc\viscera\characters\ch_janitor01.upk" />
+    <Package path="udkgame\cookedpc\viscera\characters\ch_janitor02.upk" />
+    <Package path="udkgame\cookedpc\viscera\effects\fx_lensflares.upk" />
+    <Package path="udkgame\cookedpc\viscera\effects\fx_props.upk" />
+    <Package path="udkgame\cookedpc\viscera\effects\fx_screeneffects.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_all.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_decals01.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_general01.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_office_sw.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_office.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_station01_tex.upk" />
+    <Package path="udkgame\cookedpc\viscera\environments\env_station01.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\arch_medical.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\fx_tools.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\fx_vc_general.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\fx_vc_scorches.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_archetypes.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_audio_passa.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_blood_01.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_blood_02.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_bloodgraffiti.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_objects.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_player.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_punchout.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_tools.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Incinerator\T_GP_IncineratorDrum_D" suffix="1" />
+        <Object id="Incinerator\T_GP_IncineratorDrum_S" suffix="1" />
+        <Object id="Incinerator\T_GP_IncineratorMain_D" suffix="1" />
+        <Object id="Incinerator\T_GP_IncineratorMain_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_tools2.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_tools3.upk" />
+    <Package path="udkgame\cookedpc\viscera\gameplay\gp_viscera.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_broom.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_fonts.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_interactives.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_interactivescenes.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_janitorconsole.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_main.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_mapimages.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_test.upk" />
+    <Package path="udkgame\cookedpc\viscera\ui\ui_vc_vendor.upk" />
+    <Package path="udkgame\cookedpc\visceragame.u" />
+    <Package path="udkgame\cookedpc\visceragamecontent.u" />
+    <Package path="udkgame\cookedpc\visceraui.u" />
+    <Package path="udkgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

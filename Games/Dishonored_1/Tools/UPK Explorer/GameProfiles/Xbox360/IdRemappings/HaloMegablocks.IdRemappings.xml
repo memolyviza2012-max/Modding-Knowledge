@@ -1,0 +1,93 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="megahalogame\cookedxbox360\akaudio.xxx" />
+    <Package path="megahalogame\cookedxbox360\cognition.xxx" />
+    <Package path="megahalogame\cookedxbox360\core.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_audio.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_bsp.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_landscape.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_minorpodc.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_nav.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_wb_ara.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_wb_collision.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_wb_jpm.xxx" />
+    <Package path="megahalogame\cookedxbox360\demo_wb_jsp.xxx" />
+    <Package path="megahalogame\cookedxbox360\engine.xxx" />
+    <Package path="megahalogame\cookedxbox360\fx_besieged1.xxx" />
+    <Package path="megahalogame\cookedxbox360\gameframework.xxx" />
+    <Package path="megahalogame\cookedxbox360\gfxui.xxx" />
+    <Package path="megahalogame\cookedxbox360\globalpersistentcookerdata.upk" />
+    <Package path="megahalogame\cookedxbox360\grip_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineFonts\SmallFont\Texture2D_28" suffix="1" />
+        <Object id="UI_FontLibrary\Font_ObjectiveMarker\Font_ObjectiveMarker_PageA" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\F_GlowPrimary\Texture2D_4" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\F_GlowSecondary\Texture2D_3" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Huge\Texture2D_77" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Large\Texture2D_78" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Medium\Texture2D_79" suffix="1" />
+        <Object id="UI_Fonts_Final\HUD\MF_Small\Texture2D_80" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_35" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_36" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_38" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_39" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_40" suffix="1" />
+        <Object id="UI_Fonts_Final\menus\Fonts_AmbexHeavyOblique\Texture2D_49" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="megahalogame\cookedxbox360\grip.xxx" />
+    <Package path="megahalogame\cookedxbox360\guidcache.xxx" />
+    <Package path="megahalogame\cookedxbox360\gwnavengine.xxx" />
+    <Package path="megahalogame\cookedxbox360\ipdrv.xxx" />
+    <Package path="megahalogame\cookedxbox360\loadingscreen_loc_int.xxx" />
+    <Package path="megahalogame\cookedxbox360\loadingscreen.xxx" />
+    <Package path="megahalogame\cookedxbox360\main_menu_demo.xxx" />
+    <Package path="megahalogame\cookedxbox360\main_menu.xxx" />
+    <Package path="megahalogame\cookedxbox360\matinee_spawnintro.xxx" />
+    <Package path="megahalogame\cookedxbox360\megahalogame.xxx" />
+    <Package path="megahalogame\cookedxbox360\mi_besieged_demo.xxx" />
+    <Package path="megahalogame\cookedxbox360\onlinesubsystemlive.xxx" />
+    <Package path="megahalogame\cookedxbox360\potion_console.xxx" />
+    <Package path="megahalogame\cookedxbox360\startup_loc_int.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="EngineFonts\SmallFont\Texture2D_28" suffix="1" />
+        <Object id="UI_FontLibrary\Font_ObjectiveMarker\Font_ObjectiveMarker_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="megahalogame\cookedxbox360\startup.xxx" />
+    <Package path="megahalogame\cookedxbox360\turretstrapswalls.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkbase.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkfonts_loc_int.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkfonts.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkfrontend_loc_int.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkfrontend.xxx" />
+    <Package path="megahalogame\cookedxbox360\udkfrontendmap.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360besieged_demo_persistent.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_audio.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_bsp.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_landscape.xxx">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="megahalogame\cookedxbox360\ued360demo_minorpodc.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_nav.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_wb_ara.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_wb_collision.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_wb_jpm.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360demo_wb_jsp.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360fx_besieged1.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360matinee_spawnintro.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360mi_besieged_demo.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360potion_console.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360turretstrapswalls.xxx" />
+    <Package path="megahalogame\cookedxbox360\ued360wb_demo.xxx" />
+    <Package path="megahalogame\cookedxbox360\utgame.xxx" />
+    <Package path="megahalogame\cookedxbox360\verticalslicepersistent.xxx" />
+    <Package path="megahalogame\cookedxbox360\wb_demo.xxx" />
+  </Packages>
+</IdRemapping>

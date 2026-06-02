@@ -1,0 +1,160 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="astronautsgame\cookedpc\astronautsgame_loc_int.upk" />
+    <Package path="astronautsgame\cookedpc\astronautsgame.u" />
+    <Package path="astronautsgame\cookedpc\core.u" />
+    <Package path="astronautsgame\cookedpc\engine.u" />
+    <Package path="astronautsgame\cookedpc\gameframework.u" />
+    <Package path="astronautsgame\cookedpc\gfxui.u" />
+    <Package path="astronautsgame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="astronautsgame\cookedpc\guidcache.upk" />
+    <Package path="astronautsgame\cookedpc\ipdrv.u" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_begining_f1.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_begining_f2.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_begining_m.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_bridge_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_bridge_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\1_bridge_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_road_f1.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_road_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_road_trees_2.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_road_trees.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_road_treesbb.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_train_station_f2_trees.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\2_train_station_f2_treesbb.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\3_train_station_f1.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\3_train_station_f2.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\3_train_station_low.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\3_train_station_m.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="2" />
+        <Object id="Texture2D_109" suffix="1" />
+        <Object id="Texture2D_111" suffix="1" />
+        <Object id="Texture2D_115" suffix="1" />
+        <Object id="Texture2D_119" suffix="1" />
+        <Object id="Texture2D_120" suffix="1" />
+        <Object id="Texture2D_128" suffix="1" />
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_130" suffix="1" />
+        <Object id="Texture2D_132" suffix="1" />
+        <Object id="Texture2D_136" suffix="1" />
+        <Object id="Texture2D_139" suffix="1" />
+        <Object id="Texture2D_140" suffix="1" />
+        <Object id="Texture2D_62" suffix="1" />
+        <Object id="Texture2D_96" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="astronautsgame\cookedpc\maps\master_level\3_train_station_trees.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\5_mine_s_elevatorup.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\5_mine_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\5_mine_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\6_samotnia_m.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_70" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="astronautsgame\cookedpc\maps\master_level\6_samotnia_s_ending.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\6_samotnia_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\6_samotnia_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\7_dam_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\7_dam_s_elevatorup.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\7_dam_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\7_dam_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\8_pod_tama_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\8_pod_tama2_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\8_pod_tama2_treesbb.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_carters_interior_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_f1.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_f2.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_f2outer.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_low.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_m.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_135" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="1" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_27" suffix="2" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_292" suffix="1" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="2" />
+        <Object id="Texture2D_4" suffix="2" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_55" suffix="1" />
+        <Object id="Texture2D_62" suffix="2" />
+        <Object id="Texture2D_63" suffix="1" />
+        <Object id="Texture2D_64" suffix="1" />
+        <Object id="Texture2D_67" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_93" suffix="1" />
+        <Object id="Texture2D_94" suffix="1" />
+        <Object id="Texture2D_95" suffix="1" />
+        <Object id="Texture2D_98" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_town_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\9_wang_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\audio\audio_a.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\collisions.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\landscapes_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\lvl_p.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_realburned_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_realunderground_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_realundergroundburned_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_t.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_vision_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mansion_visionburned_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\mines_t.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\outro_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_alchemist_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_alchemist_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_alchemist_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_astronaut_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_astronaut_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_caves_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_caves_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_caves_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_ed_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_ed_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_ed_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_edv2_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_witch_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_witch_s_solved.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_witch_s.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playground_witchreal_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\master_level\playgroundcavesunderwater_m.umap" />
+    <Package path="astronautsgame\cookedpc\maps\menu\menu.umap" />
+    <Package path="astronautsgame\cookedpc\onlinesubsystempc.u" />
+    <Package path="astronautsgame\cookedpc\startup_loc_int.upk" />
+    <Package path="astronautsgame\cookedpc\startup.upk" />
+    <Package path="astronautsgame\cookedpc\unrealed.u" />
+    <Package path="astronautsgame\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

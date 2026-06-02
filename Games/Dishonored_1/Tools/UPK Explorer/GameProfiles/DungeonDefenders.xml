@@ -1,0 +1,12 @@
+﻿<Game packageFileVersion="678" packageLicenseeVersion="2" TFCMappingFileName="Dungeon Defenders" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="625" licenseeVersion="0"/>
+		<PackageVersion fileVersion="674" licenseeVersion="0"/>
+		<PackageVersion fileVersion="677" licenseeVersion="0"/>
+		<PackageVersion fileVersion="678" licenseeVersion="0"/>
+		<PackageVersion fileVersion="679" licenseeVersion="2"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="UDKGame\CookedPCConsole\*" TFCpath="UDKGame\CookedPCConsole" customTFCStartIndex="0" />
+	</PackageFolders>
+</Game>

@@ -1,0 +1,26 @@
+﻿<Game packageFileVersion="127" packageLicenseeVersion="29" displayName="Brothers in Arms: Road to Hill 30" TFCMappingFileName="BrothersInArmsRoadToHill30" enableUpdateStats="False" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageVersions yaxlib:realtype="UPK.Utils.GameProfiles.PackageVersion[]">
+		<PackageVersion fileVersion="127" licenseeVersion="10"/>
+		<PackageVersion fileVersion="127" licenseeVersion="18"/>
+		<PackageVersion fileVersion="127" licenseeVersion="22"/>
+		<PackageVersion fileVersion="127" licenseeVersion="24"/>
+		<PackageVersion fileVersion="127" licenseeVersion="29"/>
+		<PackageVersion fileVersion="127" licenseeVersion="31"/>
+		<PackageVersion fileVersion="127" licenseeVersion="32"/>
+		<PackageVersion fileVersion="127" licenseeVersion="33"/>
+		<PackageVersion fileVersion="127" licenseeVersion="35"/>
+		<PackageVersion fileVersion="127" licenseeVersion="36"/>
+		<PackageVersion fileVersion="127" licenseeVersion="37"/>
+		<PackageVersion fileVersion="127" licenseeVersion="38"/>
+		<PackageVersion fileVersion="127" licenseeVersion="39"/>
+	</PackageVersions>
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="System" customTFCStartIndex="0" />
+		<PackageFolder path="Animation" customTFCStartIndex="100" />
+		<PackageFolder path="Cues" customTFCStartIndex="200" />
+		<PackageFolder path="Maps" customTFCStartIndex="300" />
+		<PackageFolder path="sound" customTFCStartIndex="400" />
+		<PackageFolder path="StaticMesh" customTFCStartIndex="500" />
+		<PackageFolder path="Texture" customTFCStartIndex="600" />
+	</PackageFolders>
+</Game>

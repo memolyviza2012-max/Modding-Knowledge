@@ -1,0 +1,1388 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="rpgtacgame\content\fonts.upk" />
+    <Package path="rpgtacgame\content\himekosutoricontent.upk" />
+    <Package path="rpgtacgame\content\himekosutoricontent2.upk" />
+    <Package path="rpgtacgame\content\himekosutoricontent3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Icons\Scroll" suffix="1" />
+        <Object id="Particles\BowDraw_PS\ThumbnailTexture" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\himekosutoricontent4.upk" />
+    <Package path="rpgtacgame\content\himekosutoricontent5.upk" />
+    <Package path="rpgtacgame\content\himekosutoricontentnew.upk" />
+    <Package path="rpgtacgame\content\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="rpgtacgame\content\localshadercache-pc-d3d-sm5.upk" />
+    <Package path="rpgtacgame\content\localshadercache-pc-opengl.upk" />
+    <Package path="rpgtacgame\content\maps\hs_legal.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_01.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_02.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_03.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_04.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_05.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_06.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_07.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_08.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_09.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_10.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_11.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_12.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_13.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_14.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_15.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_16.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_17.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_18.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_19.umap" />
+    <Package path="rpgtacgame\content\maps\hs_squad_20.umap" />
+    <Package path="rpgtacgame\content\maps\hs_startmenu.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_base.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_anvilgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="6" />
+        <Object id="Texture2D_1" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_cave01.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_cave02.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_crystal_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="16" />
+        <Object id="Texture2D_1" suffix="18" />
+        <Object id="Texture2D_2" suffix="14" />
+        <Object id="Texture2D_3" suffix="7" />
+        <Object id="Texture2D_4" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_desert01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="22" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_desertarena.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="25" />
+        <Object id="Texture2D_1" suffix="28" />
+        <Object id="Texture2D_2" suffix="24" />
+        <Object id="Texture2D_3" suffix="13" />
+        <Object id="Texture2D_4" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_desertbadland.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="29" />
+        <Object id="Texture2D_3" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_desertpyramid.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="35" />
+        <Object id="Texture2D_1" suffix="40" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_deserttomb.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_desertwall.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="44" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="44" />
+        <Object id="Texture2D_3" suffix="32" />
+        <Object id="Texture2D_4" suffix="27" />
+        <Object id="Texture2D_5" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_final.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="52" />
+        <Object id="Texture2D_1" suffix="59" />
+        <Object id="Texture2D_10" suffix="10" />
+        <Object id="Texture2D_11" suffix="8" />
+        <Object id="Texture2D_2" suffix="49" />
+        <Object id="Texture2D_3" suffix="35" />
+        <Object id="Texture2D_4" suffix="31" />
+        <Object id="Texture2D_5" suffix="18" />
+        <Object id="Texture2D_6" suffix="17" />
+        <Object id="Texture2D_7" suffix="15" />
+        <Object id="Texture2D_8" suffix="16" />
+        <Object id="Texture2D_9" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest01day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest01night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest02_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest02.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="54" />
+        <Object id="Texture2D_1" suffix="62" />
+        <Object id="Texture2D_2" suffix="51" />
+        <Object id="Texture2D_3" suffix="37" />
+        <Object id="Texture2D_4" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_forest02night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_ice_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="57" />
+        <Object id="Texture2D_1" suffix="67" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_iceforest_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="56" />
+        <Object id="Texture2D_1" suffix="66" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_lavabridge.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="58" />
+        <Object id="Texture2D_1" suffix="68" />
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="40" />
+        <Object id="Texture2D_4" suffix="36" />
+        <Object id="Texture2D_5" suffix="22" />
+        <Object id="Texture2D_6" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_lavacave01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="59" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="55" />
+        <Object id="Texture2D_3" suffix="41" />
+        <Object id="Texture2D_4" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_necropolis.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="60" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_01_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="3" />
+        <Object id="Texture2D_1" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_01nigh.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_03.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="7" />
+        <Object id="Texture2D_1" suffix="9" />
+        <Object id="Texture2D_2" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_03day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_03nigh.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_04.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="9" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="7" />
+        <Object id="Texture2D_3" suffix="3" />
+        <Object id="Texture2D_4" suffix="4" />
+        <Object id="Texture2D_5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_04day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains_04nigh.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains02.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="61" />
+        <Object id="Texture2D_10" suffix="11" />
+        <Object id="Texture2D_2" suffix="56" />
+        <Object id="Texture2D_3" suffix="42" />
+        <Object id="Texture2D_4" suffix="38" />
+        <Object id="Texture2D_5" suffix="23" />
+        <Object id="Texture2D_6" suffix="22" />
+        <Object id="Texture2D_7" suffix="19" />
+        <Object id="Texture2D_8" suffix="20" />
+        <Object id="Texture2D_9" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains02day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_plains02night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_sewer_01.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_sewer_boss_01.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_shadowforest1.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="21" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_shadowpillars.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="24" />
+        <Object id="Texture2D_1" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_shadowplains1.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="28" />
+        <Object id="Texture2D_1" suffix="32" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_shadowplains2.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="33" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="31" />
+        <Object id="Texture2D_3" suffix="18" />
+        <Object id="Texture2D_4" suffix="19" />
+        <Object id="Texture2D_5" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_sunrisegate1.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="37" />
+        <Object id="Texture2D_1" suffix="42" />
+        <Object id="Texture2D_2" suffix="34" />
+        <Object id="Texture2D_3" suffix="22" />
+        <Object id="Texture2D_4" suffix="21" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_battlefield_sunrisegate2.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="41" />
+        <Object id="Texture2D_1" suffix="45" />
+        <Object id="Texture2D_2" suffix="37" />
+        <Object id="Texture2D_3" suffix="24" />
+        <Object id="Texture2D_4" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_bellamycamp.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="49" />
+        <Object id="Texture2D_2" suffix="42" />
+        <Object id="Texture2D_3" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_bellamytalk.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland_enchanter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland_tavern_npcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_boreland.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="45" />
+        <Object id="Texture2D_1" suffix="50" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_cribbin.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_dialogext.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="50" />
+        <Object id="Texture2D_1" suffix="57" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_dialogint.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_dialogint2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_dialogint3.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword_rubble.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candleandsword.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="49" />
+        <Object id="Texture2D_1" suffix="56" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_candlekeep_insidetimegate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candlekeep_morgan.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candlekeep_rubble.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candlekeep_salah.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_candlekeep_timegate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_alhajar.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="19" />
+        <Object id="Texture2D_1" suffix="22" />
+        <Object id="Texture2D_2" suffix="18" />
+        <Object id="Texture2D_3" suffix="10" />
+        <Object id="Texture2D_4" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_alhajarclan.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_alhajarnpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_anvilgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="26" />
+        <Object id="Texture2D_1" suffix="29" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_cactusday.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_cactusnight.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_cactusranch.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="34" />
+        <Object id="Texture2D_2" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_grandnecropolis.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="32" />
+        <Object id="Texture2D_1" suffix="37" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_hampi.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="38" />
+        <Object id="Texture2D_2" suffix="33" />
+        <Object id="Texture2D_3" suffix="21" />
+        <Object id="Texture2D_4" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_hampiclans.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_hampiday.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_hampinight.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_jabal_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_jabal_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_jabalsahri.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="47" />
+        <Object id="Texture2D_2" suffix="40" />
+        <Object id="Texture2D_3" suffix="27" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_pyramidgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="54" />
+        <Object id="Texture2D_16" suffix="5" />
+        <Object id="Texture2D_19" suffix="5" />
+        <Object id="Texture2D_2" suffix="46" />
+        <Object id="Texture2D_6" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_pyramidinterior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_pyramidwiggle.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_ramliyah_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_ramliyah_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_ramliyah_palace.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_ramliyah.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="5" />
+        <Object id="Texture2D_1" suffix="5" />
+        <Object id="Texture2D_2" suffix="3" />
+        <Object id="Texture2D_3" suffix="2" />
+        <Object id="Texture2D_4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_ramliyahtavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_rockgate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_scrapyard_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_scrapyard_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_scrapyard.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="11" />
+        <Object id="Texture2D_1" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_scrapyardcastle.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_scrapyardworkshop.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_timegateencounter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_timegateflashback.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatmosque.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshali_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshali_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshali.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="18" />
+        <Object id="Texture2D_1" suffix="20" />
+        <Object id="Texture2D_2" suffix="16" />
+        <Object id="Texture2D_3" suffix="9" />
+        <Object id="Texture2D_4" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshaligov_hari.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshaligovernor.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatshalitavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desert_wahatworkshop.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desertwall_dialog.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desertworld_01_sandstorm.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_desertworld_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="13" />
+        <Object id="Texture2D_1" suffix="15" />
+        <Object id="Texture2D_10" suffix="4" />
+        <Object id="Texture2D_11" suffix="3" />
+        <Object id="Texture2D_12" suffix="2" />
+        <Object id="Texture2D_14" suffix="3" />
+        <Object id="Texture2D_15" suffix="4" />
+        <Object id="Texture2D_16" suffix="1" />
+        <Object id="Texture2D_17" suffix="2" />
+        <Object id="Texture2D_19" suffix="3" />
+        <Object id="Texture2D_2" suffix="10" />
+        <Object id="Texture2D_20" suffix="3" />
+        <Object id="Texture2D_21" suffix="2" />
+        <Object id="Texture2D_22" suffix="3" />
+        <Object id="Texture2D_23" suffix="3" />
+        <Object id="Texture2D_24" suffix="2" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="3" />
+        <Object id="Texture2D_27" suffix="2" />
+        <Object id="Texture2D_28" suffix="2" />
+        <Object id="Texture2D_29" suffix="1" />
+        <Object id="Texture2D_3" suffix="4" />
+        <Object id="Texture2D_30" suffix="1" />
+        <Object id="Texture2D_31" suffix="1" />
+        <Object id="Texture2D_32" suffix="1" />
+        <Object id="Texture2D_33" suffix="1" />
+        <Object id="Texture2D_34" suffix="1" />
+        <Object id="Texture2D_35" suffix="1" />
+        <Object id="Texture2D_36" suffix="1" />
+        <Object id="Texture2D_37" suffix="1" />
+        <Object id="Texture2D_38" suffix="1" />
+        <Object id="Texture2D_39" suffix="1" />
+        <Object id="Texture2D_4" suffix="5" />
+        <Object id="Texture2D_40" suffix="1" />
+        <Object id="Texture2D_5" suffix="3" />
+        <Object id="Texture2D_6" suffix="2" />
+        <Object id="Texture2D_7" suffix="4" />
+        <Object id="Texture2D_8" suffix="5" />
+        <Object id="Texture2D_9" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_empiresgraveyard_interact.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_epilogue_shadowtimegate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_epilogue.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_fairyforest_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="34" />
+        <Object id="Texture2D_1" suffix="39" />
+        <Object id="Texture2D_2" suffix="32" />
+        <Object id="Texture2D_3" suffix="20" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_grandnecropolis_interior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_grenafylki_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_grenafylki_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_grenafylki_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_grenafylki.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="42" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="6" />
+        <Object id="Texture2D_2" suffix="39" />
+        <Object id="Texture2D_3" suffix="26" />
+        <Object id="Texture2D_4" suffix="25" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_alchemist.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_argument1.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_argument2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_candleandsword.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_candleandsword2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_occupation.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_outfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_halgdalir.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="1" />
+        <Object id="Texture2D_1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife3_interior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife3_interior2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife4_interior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife4_interior0.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife4_interior2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_houseoflife4_skeleton.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_alchemist.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_alchemist2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_altar.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_blacksmith.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_castle_sidewalls.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_castle.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_castlecouncil.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_library.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_library2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_library3.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_library4.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_library5.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_outfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_warcouncil.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_wizardtower.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_worldgate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_worldgatecribbin.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_worldgatefight.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach_worldgatenpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_icyreach.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperial_enchanter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperial_outfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperial_palace_kiyomori.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperial_palace_npc_1.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperial_palace.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperialcity_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_imperialcity_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_lavabridge_npcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_lavabridge_npcs2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_memorial_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_memorial_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_memorial.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="20" />
+        <Object id="Texture2D_1" suffix="23" />
+        <Object id="Texture2D_2" suffix="19" />
+        <Object id="Texture2D_3" suffix="11" />
+        <Object id="Texture2D_4" suffix="12" />
+        <Object id="Texture2D_5" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_openingcredits.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsum_keep.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsuma_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsuma_fightclub.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsuma_keep_npc.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsuma_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_satsuma.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="29" />
+        <Object id="Texture2D_1" suffix="31" />
+        <Object id="Texture2D_2" suffix="26" />
+        <Object id="Texture2D_4" suffix="16" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_candlekeepcutscene.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_candlekeepinterior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_candlekeepnpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_candlekeepoutpost.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="46" />
+        <Object id="Texture2D_1" suffix="51" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_caravan_01_ittihad.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_caravan_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="47" />
+        <Object id="Texture2D_1" suffix="53" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_empiresgravecrib.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_empiresgraveint.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_empiresgravesetup.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_empiresgraveyard.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="3" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_3" suffix="1" />
+        <Object id="Texture2D_4" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+        <Object id="Texture2D_8" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_halgdalirdemons.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_halgdalirgate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_icygate_cribbin.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_icyreach_worldgate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_icyreach.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="8" />
+        <Object id="Texture2D_1" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_madness.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_pyramidgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="12" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_2" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_pyramidinterior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_ruins2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_southpoint.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="17" />
+        <Object id="Texture2D_1" suffix="19" />
+        <Object id="Texture2D_2" suffix="15" />
+        <Object id="Texture2D_3" suffix="8" />
+        <Object id="Texture2D_4" suffix="9" />
+        <Object id="Texture2D_5" suffix="5" />
+        <Object id="Texture2D_6" suffix="5" />
+        <Object id="Texture2D_7" suffix="7" />
+        <Object id="Texture2D_8" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_spx_lodge.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_spx_lodge2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_sunrisehouseofdead.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_swordkeepexterior.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="23" />
+        <Object id="Texture2D_1" suffix="24" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_swordkeepinterior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_utakawagateint.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_utakawagateint2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow_utokawagate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="30" />
+        <Object id="Texture2D_1" suffix="33" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_world_02.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="36" />
+        <Object id="Texture2D_1" suffix="41" />
+        <Object id="Texture2D_12" suffix="3" />
+        <Object id="Texture2D_14" suffix="5" />
+        <Object id="Texture2D_15" suffix="5" />
+        <Object id="Texture2D_16" suffix="3" />
+        <Object id="Texture2D_17" suffix="5" />
+        <Object id="Texture2D_18" suffix="4" />
+        <Object id="Texture2D_19" suffix="4" />
+        <Object id="Texture2D_2" suffix="35" />
+        <Object id="Texture2D_3" suffix="23" />
+        <Object id="Texture2D_4" suffix="22" />
+        <Object id="Texture2D_5" suffix="11" />
+        <Object id="Texture2D_6" suffix="10" />
+        <Object id="Texture2D_7" suffix="11" />
+        <Object id="Texture2D_8" suffix="12" />
+        <Object id="Texture2D_9" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_world_03.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="43" />
+        <Object id="Texture2D_1" suffix="1" />
+        <Object id="Texture2D_10" suffix="7" />
+        <Object id="Texture2D_11" suffix="5" />
+        <Object id="Texture2D_12" suffix="4" />
+        <Object id="Texture2D_13" suffix="3" />
+        <Object id="Texture2D_14" suffix="6" />
+        <Object id="Texture2D_15" suffix="6" />
+        <Object id="Texture2D_16" suffix="4" />
+        <Object id="Texture2D_17" suffix="6" />
+        <Object id="Texture2D_2" suffix="43" />
+        <Object id="Texture2D_3" suffix="30" />
+        <Object id="Texture2D_4" suffix="26" />
+        <Object id="Texture2D_5" suffix="13" />
+        <Object id="Texture2D_6" suffix="12" />
+        <Object id="Texture2D_7" suffix="12" />
+        <Object id="Texture2D_8" suffix="13" />
+        <Object id="Texture2D_9" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_world_04.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="48" />
+        <Object id="Texture2D_1" suffix="55" />
+        <Object id="Texture2D_10" suffix="8" />
+        <Object id="Texture2D_11" suffix="6" />
+        <Object id="Texture2D_12" suffix="5" />
+        <Object id="Texture2D_13" suffix="4" />
+        <Object id="Texture2D_14" suffix="7" />
+        <Object id="Texture2D_2" suffix="47" />
+        <Object id="Texture2D_3" suffix="33" />
+        <Object id="Texture2D_4" suffix="29" />
+        <Object id="Texture2D_5" suffix="16" />
+        <Object id="Texture2D_6" suffix="15" />
+        <Object id="Texture2D_7" suffix="13" />
+        <Object id="Texture2D_8" suffix="14" />
+        <Object id="Texture2D_9" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow_world_05.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="51" />
+        <Object id="Texture2D_1" suffix="58" />
+        <Object id="Texture2D_10" suffix="9" />
+        <Object id="Texture2D_11" suffix="7" />
+        <Object id="Texture2D_12" suffix="6" />
+        <Object id="Texture2D_13" suffix="5" />
+        <Object id="Texture2D_2" suffix="48" />
+        <Object id="Texture2D_3" suffix="34" />
+        <Object id="Texture2D_4" suffix="30" />
+        <Object id="Texture2D_5" suffix="17" />
+        <Object id="Texture2D_6" suffix="16" />
+        <Object id="Texture2D_7" suffix="14" />
+        <Object id="Texture2D_8" suffix="15" />
+        <Object id="Texture2D_9" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_anvilgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="4" />
+        <Object id="Texture2D_1" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_anvilmemory.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_anviloutfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_anvilworldgate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="10" />
+        <Object id="Texture2D_2" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_sunrisebarracks.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_sunrisegate.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="10" />
+        <Object id="Texture2D_1" suffix="12" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_sunrisescholars.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow1_sunrisescholars2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow3_houseoflife_crypt.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow3_houseoflife.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="15" />
+        <Object id="Texture2D_2" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_barriers.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_dholaviragate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_dholaviraoutpost.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="27" />
+        <Object id="Texture2D_1" suffix="30" />
+        <Object id="Texture2D_2" suffix="25" />
+        <Object id="Texture2D_3" suffix="14" />
+        <Object id="Texture2D_4" suffix="15" />
+        <Object id="Texture2D_5" suffix="8" />
+        <Object id="Texture2D_6" suffix="7" />
+        <Object id="Texture2D_7" suffix="9" />
+        <Object id="Texture2D_8" suffix="10" />
+        <Object id="Texture2D_9" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_halgdalircribbin.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_halgdaliroutpost.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_16" suffix="2" />
+        <Object id="Texture2D_17" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow4_houseoflife.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="38" />
+        <Object id="Texture2D_3" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_shadow5_crypt.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow5_house_int.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_shadow5_houseoflife.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="39" />
+        <Object id="Texture2D_1" suffix="43" />
+        <Object id="Texture2D_2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_snow_druidgrove_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_druidgrove_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_druidgrove.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="64" />
+        <Object id="Texture2D_2" suffix="53" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpoint.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="2" />
+        <Object id="Texture2D_1" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointday.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointenchanter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointlodge.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointnight.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointoutfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_southpointtavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snow_spx_fightnpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_snowworld_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="53" />
+        <Object id="Texture2D_1" suffix="60" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_snowworld_02.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="55" />
+        <Object id="Texture2D_1" suffix="63" />
+        <Object id="Texture2D_2" suffix="52" />
+        <Object id="Texture2D_3" suffix="38" />
+        <Object id="Texture2D_4" suffix="34" />
+        <Object id="Texture2D_5" suffix="20" />
+        <Object id="Texture2D_6" suffix="19" />
+        <Object id="Texture2D_7" suffix="17" />
+        <Object id="Texture2D_8" suffix="18" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_southpoint_bridge.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_southpoint_brokenbridge.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_bedroom.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_castle.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_castleattac2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_castleattack.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_chapel.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_chapelnpc.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_chapelnpc2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_daynpc.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_dungeon.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_dungeonbell.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_fires.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_gate.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_gate2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_gateambush.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_gatenpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_library.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_library2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_market.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_marketnpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_memory_2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_memory.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_nightnpc.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_refugees.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_salahbusy.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_salahready.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_sewer_giant.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_sewer_giant1.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_sewerescape.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_sewerloot.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_study.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_tavern2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_tavern2npcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_tavernnpcs.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_tower.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls_transitions.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_sunrisefalls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="14" />
+        <Object id="Texture2D_10" suffix="3" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_14" suffix="2" />
+        <Object id="Texture2D_15" suffix="3" />
+        <Object id="Texture2D_17" suffix="1" />
+        <Object id="Texture2D_18" suffix="2" />
+        <Object id="Texture2D_19" suffix="2" />
+        <Object id="Texture2D_2" suffix="9" />
+        <Object id="Texture2D_20" suffix="2" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="2" />
+        <Object id="Texture2D_23" suffix="2" />
+        <Object id="Texture2D_24" suffix="1" />
+        <Object id="Texture2D_25" suffix="1" />
+        <Object id="Texture2D_26" suffix="2" />
+        <Object id="Texture2D_7" suffix="3" />
+        <Object id="Texture2D_8" suffix="4" />
+        <Object id="Texture2D_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_swordkeep_int.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_swordkeep_int2.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_swordkeep_int3.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_tomboftheweepinggod.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_tunnels_dialog.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_utakawa_alchemist.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_utakawa_bathhouse.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_utakawa_blacksmith.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_utakawa_outfitter.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_utakawa_weaponshop.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_emperor.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_emperorguard.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_guards.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_interior.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_kiyomori.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_winterpalace_tunnels.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_world_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_13" suffix="1" />
+        <Object id="Texture2D_14" suffix="1" />
+        <Object id="Texture2D_15" suffix="2" />
+        <Object id="Texture2D_18" suffix="1" />
+        <Object id="Texture2D_19" suffix="1" />
+        <Object id="Texture2D_2" suffix="6" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+        <Object id="Texture2D_23" suffix="1" />
+        <Object id="Texture2D_25" suffix="2" />
+        <Object id="Texture2D_26" suffix="1" />
+        <Object id="Texture2D_27" suffix="1" />
+        <Object id="Texture2D_28" suffix="1" />
+        <Object id="Texture2D_4" suffix="3" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_45" suffix="1" />
+        <Object id="Texture2D_47" suffix="1" />
+        <Object id="Texture2D_49" suffix="1" />
+        <Object id="Texture2D_50" suffix="1" />
+        <Object id="Texture2D_6" suffix="1" />
+        <Object id="Texture2D_7" suffix="2" />
+        <Object id="Texture2D_8" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_world_yamatai.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="14" />
+        <Object id="Texture2D_1" suffix="16" />
+        <Object id="Texture2D_10" suffix="5" />
+        <Object id="Texture2D_11" suffix="4" />
+        <Object id="Texture2D_2" suffix="11" />
+        <Object id="Texture2D_3" suffix="5" />
+        <Object id="Texture2D_4" suffix="6" />
+        <Object id="Texture2D_6" suffix="3" />
+        <Object id="Texture2D_7" suffix="5" />
+        <Object id="Texture2D_8" suffix="6" />
+        <Object id="Texture2D_9" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_druidday.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_druidgrove.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="21" />
+        <Object id="Texture2D_2" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_druidnight.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_fishhook_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_fishhook_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_fishhook.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="26" />
+        <Object id="Texture2D_2" suffix="23" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_imperial_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_imperial_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_imperial_tavern.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_imperialcity.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="31" />
+        <Object id="Texture2D_1" suffix="35" />
+        <Object id="Texture2D_2" suffix="28" />
+        <Object id="Texture2D_3" suffix="15" />
+        <Object id="Texture2D_4" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_utakawa_day.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_utakawa_night.umap" />
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_utokawa.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_0" suffix="40" />
+        <Object id="Texture2D_1" suffix="44" />
+        <Object id="Texture2D_2" suffix="36" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\main_yamatai_winterpalace.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="48" />
+        <Object id="Texture2D_2" suffix="41" />
+        <Object id="Texture2D_3" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\main\mainsunrisefalls_worldgate.umap" />
+    <Package path="rpgtacgame\content\maps\rpgtacentry.umap" />
+    <Package path="rpgtacgame\content\maps\rpgtacgameover.umap" />
+    <Package path="rpgtacgame\content\maps\rpgtacsquadmain.umap" />
+    <Package path="rpgtacgame\content\maps\templates\template_base.umap" />
+    <Package path="rpgtacgame\content\maps\templates\template_battlefield.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_6" suffix="13" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\templates\template_town.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="52" />
+        <Object id="Texture2D_2" suffix="45" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\maps\templates\template_worldmap.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_4" suffix="28" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\prefabs.upk" />
+    <Package path="rpgtacgame\content\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="rpgtacgame\content\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="rpgtacgame\content\refshadercache-pc-opengl.upk" />
+    <Package path="rpgtacgame\content\rpgtaccaves.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Ground1" suffix="2" />
+        <Object id="Textures\Ground1_nmp" suffix="2" />
+        <Object id="Textures\Ground2" suffix="2" />
+        <Object id="Textures\Ground2_nmp" suffix="2" />
+        <Object id="Textures\Ground3" suffix="1" />
+        <Object id="Textures\Ground3_nmp" suffix="1" />
+        <Object id="Textures\Ground4" suffix="1" />
+        <Object id="Textures\Ground4_nmp" suffix="1" />
+        <Object id="Textures\Ground5" suffix="1" />
+        <Object id="Textures\Ground5_nmp" suffix="1" />
+        <Object id="Textures\Wall1" suffix="1" />
+        <Object id="Textures\Wall1_nmp" suffix="1" />
+        <Object id="Textures\Wood_elements1" suffix="1" />
+        <Object id="Textures\Wood_elements1_nmp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtaccaves2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Roots1" suffix="1" />
+        <Object id="Textures\Roots1_nmp" suffix="1" />
+        <Object id="Textures\Spiderweb" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtaccaves3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\fire1" suffix="1" />
+        <Object id="Textures\smoke1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtaccity2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Checkerboard" suffix="1" />
+        <Object id="Textures\Ground1" suffix="3" />
+        <Object id="Textures\Ground1_nmp" suffix="3" />
+        <Object id="Textures\Ground2" suffix="3" />
+        <Object id="Textures\Ground2_nmp" suffix="3" />
+        <Object id="Textures\Ground3" suffix="2" />
+        <Object id="Textures\Ground3_nmp" suffix="2" />
+        <Object id="Textures\Ground4" suffix="2" />
+        <Object id="Textures\Ground4_nmp" suffix="2" />
+        <Object id="Textures\Ground5" suffix="2" />
+        <Object id="Textures\Ground5_nmp" suffix="2" />
+        <Object id="Textures\Ground6" suffix="1" />
+        <Object id="Textures\Ground6_nmp" suffix="1" />
+        <Object id="Textures\Rocks" suffix="2" />
+        <Object id="Textures\Rocks_nmp" suffix="1" />
+        <Object id="Textures\Top" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtaccontent.upk" />
+    <Package path="rpgtacgame\content\rpgtacdesert.upk" />
+    <Package path="rpgtacgame\content\rpgtacdesert2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\sand" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacdungeons.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Rock1" suffix="1" />
+        <Object id="Textures\Rock1_nmp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacdungeons2.upk" />
+    <Package path="rpgtacgame\content\rpgtacgraveyard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Ground1" suffix="1" />
+        <Object id="Textures\Ground1_nmp" suffix="1" />
+        <Object id="Textures\Ground2" suffix="1" />
+        <Object id="Textures\Ground2_nmp" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacgraveyard2.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Rocks" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacinteriors.upk" />
+    <Package path="rpgtacgame\content\rpgtacinteriors2.upk" />
+    <Package path="rpgtacgame\content\rpgtacjapanese.upk" />
+    <Package path="rpgtacgame\content\rpgtacmenu.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Pointer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacparticles.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\ground_01" suffix="1" />
+        <Object id="Textures\ground_07" suffix="1" />
+        <Object id="Textures\ground_08" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="rpgtacgame\content\rpgtacrocks.upk" />
+    <Package path="rpgtacgame\content\rpgtacworld2.upk" />
+    <Package path="rpgtacgame\content\rpgtacworldmountains.upk" />
+    <Package path="rpgtacgame\content\sobeledgecontent.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic2.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic3.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic4.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic5.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic6.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic7.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorimusic8.upk" />
+    <Package path="rpgtacgame\content\sounds\int\himekosutorivoices.upk" />
+    <Package path="rpgtacgame\content\sounds\int\sounds.upk" />
+    <Package path="rpgtacgame\content\sounds\int\sounds2.upk" />
+    <Package path="rpgtacgame\content\sounds\int\sounds3.upk" />
+    <Package path="rpgtacgame\content\sounds\soundclassesandmodes.upk" />
+    <Package path="rpgtacgame\content\srvmenu.upk" />
+    <Package path="rpgtacgame\script\core.u" />
+    <Package path="rpgtacgame\script\engine.u" />
+    <Package path="rpgtacgame\script\gameframework.u" />
+    <Package path="rpgtacgame\script\gfxui.u" />
+    <Package path="rpgtacgame\script\gfxuieditor.u" />
+    <Package path="rpgtacgame\script\ipdrv.u" />
+    <Package path="rpgtacgame\script\onlinesubsystemgamecircle.u" />
+    <Package path="rpgtacgame\script\onlinesubsystemlive.u" />
+    <Package path="rpgtacgame\script\onlinesubsystempc.u" />
+    <Package path="rpgtacgame\script\onlinesubsystemsteamworks.u" />
+    <Package path="rpgtacgame\script\rpgtacgame.u" />
+    <Package path="rpgtacgame\script\srvgame.u" />
+    <Package path="rpgtacgame\script\unrealed.u" />
+    <Package path="rpgtacgame\script\windrv.u" />
+    <Package path="srvgame\content\maps\srv_base.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_e.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_e1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_e2.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_n.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_n1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_n2.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_s.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_s1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_s2.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_w.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_w1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingforest_w2.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_e.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_e1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_n.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_n1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_s.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_s1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_w.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockinghills_w1.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingsunrise_e.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingsunrise_n.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingsunrise_s.umap" />
+    <Package path="srvgame\content\maps\srv_random_blockingsunrise_w.umap" />
+    <Package path="srvgame\content\maps\srv_random_desert_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_8" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_desertcactusranch.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_15" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_desertforest_0.umap" />
+    <Package path="srvgame\content\maps\srv_random_deserthills_0.umap" />
+    <Package path="srvgame\content\maps\srv_random_deserthillsforest_0.umap" />
+    <Package path="srvgame\content\maps\srv_random_desertmountain_0.umap" />
+    <Package path="srvgame\content\maps\srv_random_desertnecropolis.umap" />
+    <Package path="srvgame\content\maps\srv_random_desertoasis.umap" />
+    <Package path="srvgame\content\maps\srv_random_desertramliyah.umap" />
+    <Package path="srvgame\content\maps\srv_random_desertscrapyard.umap" />
+    <Package path="srvgame\content\maps\srv_random_grass_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="17" />
+        <Object id="Texture2D_2" suffix="12" />
+        <Object id="Texture2D_3" suffix="6" />
+        <Object id="Texture2D_4" suffix="7" />
+        <Object id="Texture2D_5" suffix="4" />
+        <Object id="Texture2D_6" suffix="4" />
+        <Object id="Texture2D_7" suffix="6" />
+        <Object id="Texture2D_8" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grassabandonedtower.umap" />
+    <Package path="srvgame\content\maps\srv_random_grasscathedral.umap" />
+    <Package path="srvgame\content\maps\srv_random_grassellismuir.umap" />
+    <Package path="srvgame\content\maps\srv_random_grassfairyforest.umap" />
+    <Package path="srvgame\content\maps\srv_random_grassfishhook.umap" />
+    <Package path="srvgame\content\maps\srv_random_grassforest_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="25" />
+        <Object id="Texture2D_2" suffix="22" />
+        <Object id="Texture2D_3" suffix="12" />
+        <Object id="Texture2D_4" suffix="13" />
+        <Object id="Texture2D_5" suffix="7" />
+        <Object id="Texture2D_6" suffix="6" />
+        <Object id="Texture2D_7" suffix="8" />
+        <Object id="Texture2D_8" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grasshauntedmansion.umap" />
+    <Package path="srvgame\content\maps\srv_random_grasshills_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="46" />
+        <Object id="Texture2D_2" suffix="38" />
+        <Object id="Texture2D_3" suffix="25" />
+        <Object id="Texture2D_4" suffix="24" />
+        <Object id="Texture2D_5" suffix="12" />
+        <Object id="Texture2D_6" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grasshillsforest_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="36" />
+        <Object id="Texture2D_2" suffix="30" />
+        <Object id="Texture2D_3" suffix="17" />
+        <Object id="Texture2D_4" suffix="18" />
+        <Object id="Texture2D_5" suffix="9" />
+        <Object id="Texture2D_6" suffix="8" />
+        <Object id="Texture2D_7" suffix="10" />
+        <Object id="Texture2D_8" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grassimperialcity.umap" />
+    <Package path="srvgame\content\maps\srv_random_grassmountain_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_3" suffix="31" />
+        <Object id="Texture2D_5" suffix="15" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grasspagoda.umap" />
+    <Package path="srvgame\content\maps\srv_random_grasssatsuma.umap" />
+    <Package path="srvgame\content\maps\srv_random_grasssunrisefalls.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="61" />
+        <Object id="Texture2D_2" suffix="50" />
+        <Object id="Texture2D_3" suffix="36" />
+        <Object id="Texture2D_4" suffix="32" />
+        <Object id="Texture2D_5" suffix="19" />
+        <Object id="Texture2D_6" suffix="18" />
+        <Object id="Texture2D_7" suffix="16" />
+        <Object id="Texture2D_8" suffix="17" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grassturkeyhollow.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="65" />
+        <Object id="Texture2D_2" suffix="54" />
+        <Object id="Texture2D_3" suffix="39" />
+        <Object id="Texture2D_4" suffix="35" />
+        <Object id="Texture2D_5" suffix="21" />
+        <Object id="Texture2D_6" suffix="20" />
+        <Object id="Texture2D_7" suffix="18" />
+        <Object id="Texture2D_8" suffix="19" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_grassutakawa.umap" />
+    <Package path="srvgame\content\maps\srv_random_grasswizardtower.umap" />
+    <Package path="srvgame\content\maps\srv_random_snow_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_6" suffix="9" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowdruidgrove.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_27" suffix="3" />
+        <Object id="Texture2D_28" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowforest_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_32" suffix="2" />
+        <Object id="Texture2D_33" suffix="2" />
+        <Object id="Texture2D_9" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowgrenafylki.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_38" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowhalgdalir.umap" />
+    <Package path="srvgame\content\maps\srv_random_snowhills_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_43" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowhillsforest_0.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_13" suffix="2" />
+        <Object id="Texture2D_48" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowicyreach.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_14" suffix="4" />
+        <Object id="Texture2D_53" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_random_snowmountain_0.umap" />
+    <Package path="srvgame\content\maps\srv_random_snowsouthpoint.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_17" suffix="4" />
+        <Object id="Texture2D_18" suffix="3" />
+        <Object id="Texture2D_22" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\srv_randombase.umap" />
+    <Package path="srvgame\content\maps\srv_sunrisefalls.umap" />
+    <Package path="srvgame\content\maps\srv_world_01.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="69" />
+        <Object id="Texture2D_10" suffix="12" />
+        <Object id="Texture2D_11" suffix="9" />
+        <Object id="Texture2D_12" suffix="7" />
+        <Object id="Texture2D_13" suffix="6" />
+        <Object id="Texture2D_14" suffix="8" />
+        <Object id="Texture2D_15" suffix="7" />
+        <Object id="Texture2D_16" suffix="6" />
+        <Object id="Texture2D_17" suffix="7" />
+        <Object id="Texture2D_18" suffix="5" />
+        <Object id="Texture2D_19" suffix="6" />
+        <Object id="Texture2D_2" suffix="57" />
+        <Object id="Texture2D_20" suffix="4" />
+        <Object id="Texture2D_21" suffix="3" />
+        <Object id="Texture2D_22" suffix="5" />
+        <Object id="Texture2D_23" suffix="4" />
+        <Object id="Texture2D_25" suffix="3" />
+        <Object id="Texture2D_26" suffix="4" />
+        <Object id="Texture2D_27" suffix="4" />
+        <Object id="Texture2D_28" suffix="4" />
+        <Object id="Texture2D_29" suffix="2" />
+        <Object id="Texture2D_3" suffix="43" />
+        <Object id="Texture2D_32" suffix="3" />
+        <Object id="Texture2D_33" suffix="3" />
+        <Object id="Texture2D_34" suffix="2" />
+        <Object id="Texture2D_35" suffix="2" />
+        <Object id="Texture2D_36" suffix="2" />
+        <Object id="Texture2D_37" suffix="2" />
+        <Object id="Texture2D_38" suffix="3" />
+        <Object id="Texture2D_39" suffix="2" />
+        <Object id="Texture2D_4" suffix="39" />
+        <Object id="Texture2D_40" suffix="2" />
+        <Object id="Texture2D_41" suffix="1" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="2" />
+        <Object id="Texture2D_44" suffix="2" />
+        <Object id="Texture2D_45" suffix="2" />
+        <Object id="Texture2D_46" suffix="1" />
+        <Object id="Texture2D_47" suffix="2" />
+        <Object id="Texture2D_48" suffix="2" />
+        <Object id="Texture2D_49" suffix="2" />
+        <Object id="Texture2D_50" suffix="2" />
+        <Object id="Texture2D_56" suffix="1" />
+        <Object id="Texture2D_57" suffix="1" />
+        <Object id="Texture2D_58" suffix="1" />
+        <Object id="Texture2D_9" suffix="12" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\test_tilingnormals.umap" />
+    <Package path="srvgame\content\maps\tutorial_0_1.umap">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_1" suffix="70" />
+        <Object id="Texture2D_2" suffix="58" />
+      </Objects>
+    </Package>
+    <Package path="srvgame\content\maps\tutorial_base.umap" />
+    <Package path="srvgame\content\maps\tutorial_n1_0.umap" />
+    <Package path="srvgame\content\maps\tutorial_n1_1.umap" />
+    <Package path="srvgame\content\srvcontent.upk" />
+    <Package path="srvgame\content\srvmap.upk" />
+    <Package path="srvgame\content\srvworldcontent.upk" />
+    <Package path="srvgame\content\testsrvcontent.upk" />
+  </Packages>
+</IdRemapping>

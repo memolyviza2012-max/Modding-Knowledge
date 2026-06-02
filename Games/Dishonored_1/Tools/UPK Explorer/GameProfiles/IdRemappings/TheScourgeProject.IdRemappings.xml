@@ -1,0 +1,1383 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_banshee\anim_alien_banshee.upk" />
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_digger_new\anim_alien_digger_new.upk" />
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_maiden\anim_alien_maiden.upk" />
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_scavenger_new\anim_alien_scavenger_new.upk" />
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_stalker\anim_alien_stalker.upk" />
+    <Package path="scourgegame\cookedpc\anim\alien\anim_alien_strider_new\anim_alien_strider_new.upk" />
+    <Package path="scourgegame\cookedpc\anim\cutscene\anim_cutscene_base\anim_cutscene_base.upk" />
+    <Package path="scourgegame\cookedpc\anim\cutscene\anim_cutscene_levels\anim_cs_mocap.upk" />
+    <Package path="scourgegame\cookedpc\anim\cutscene\anim_cutscene_phases\anim_tank_phase.upk" />
+    <Package path="scourgegame\cookedpc\anim\cutscene\anim_cutscene_scientist\anim_npc_scientist.upk" />
+    <Package path="scourgegame\cookedpc\anim\cutscene\anim_cutscene_tech\anim_npc_tech.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_alphasighting1_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_alphasighting2_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_ambrosia_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_bansheeintro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_bansheeoutro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_blurintro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_bluroutro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_diggerintro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_doubldiggerintro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_lilhtrans1_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_lilithintro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_lilithoutro_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_nogaripatrol_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\cs_phaseout_fx.upk" />
+    <Package path="scourgegame\cookedpc\anim\facefx_anim\facefx_anim.upk" />
+    <Package path="scourgegame\cookedpc\anim\flashback\anim_fb_mocap.upk" />
+    <Package path="scourgegame\cookedpc\anim\tp\anim_tp_male_menu\anim_tp_male_menu.upk" />
+    <Package path="scourgegame\cookedpc\anim\tp\anim_tp_male_neutral\anim_tp_male_neutral_animtree.upk" />
+    <Package path="scourgegame\cookedpc\anim\tp\anim_tp_male_neutral\anim_tp_male_neutral.upk" />
+    <Package path="scourgegame\cookedpc\anim\weapon\anim_weapon\anim_weapon.upk" />
+    <Package path="scourgegame\cookedpc\basic_shaders\basic_shaders_special_ccd.upk" />
+    <Package path="scourgegame\cookedpc\basic_shaders\basic_shaders.upk" />
+    <Package path="scourgegame\cookedpc\basic_shaders\common_detail_normals.upk" />
+    <Package path="scourgegame\cookedpc\brushes\decals\br_de_signals\br_de_signals.upk" />
+    <Package path="scourgegame\cookedpc\brushes\natural\br_na_rocks\br_na_rocks.upk" />
+    <Package path="scourgegame\cookedpc\brushes\natural\br_na_terrain\br_na_terrain.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_barrels\br_ob_barrels.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_boxes\br_ob_boxes.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_covers\br_ob_covers.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_fences\br_ob_rire_fence.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_lamps\br_ob_lamps.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_mechanical\br_ob_mechanical.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_pipes\br_ob_pipes.upk" />
+    <Package path="scourgegame\cookedpc\brushes\objects\br_ob_small_details\br_ob_small_details.upk" />
+    <Package path="scourgegame\cookedpc\brushes\structures\br_st_fixtures\br_st_fixtures.upk" />
+    <Package path="scourgegame\cookedpc\brushes\structures\br_st_floors\br_st_floors.upk" />
+    <Package path="scourgegame\cookedpc\brushes\structures\br_st_walls\br_st_walls.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_banshee\cha_alien_banshee.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_digger_new\cha_alien_digger_new.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_maiden\cha_alien_maiden.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_scavenger_new\cha_alien_scavenger_new.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_scavenger\cha_alien_scavenger.upk" />
+    <Package path="scourgegame\cookedpc\cha\alien\cha_alien_strider_new\cha_alien_strider_new.upk" />
+    <Package path="scourgegame\cookedpc\cha\cha_physics.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_amp\cha_main_amp.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_assassin\cha_main_assassin.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_mass\cha_main_mass.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_tank\cha_main_tank.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_techie\cha_main_techie.upk" />
+    <Package path="scourgegame\cookedpc\cha\main\cha_main_veteran\cha_main_veteran.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_blur\cha_npc_blur.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Accessories_Spec_Gloss" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_lilith\cha_main_lilith.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_ns\cha_npc_ns_tex3.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Accesories_01_DIFF" suffix="1" />
+        <Object id="Textures\Accesories_01_NORMAL" suffix="1" />
+        <Object id="Textures\Accesories_01_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_ns\cha_npc_ns_tex4.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_ns\cha_npc_ns.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_reisbeck\cha_npc_reisbeck.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_russian\cha_npc_russian.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_scientist\cha_npc_scientist.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\cha_npc_technician\cha_npc_technician.upk" />
+    <Package path="scourgegame\cookedpc\cha\npc\dead\dead.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Scientist_SPEC_GLOSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\cha\npc\heads\cha_npc_heads_nsf\cha_npc_heads_nsf.upk" />
+    <Package path="scourgegame\cookedpc\cha\other\cha_other_operator.upk" />
+    <Package path="scourgegame\cookedpc\cha\other\cha_other_scientist.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Mascara_Traje" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\core.u" />
+    <Package path="scourgegame\cookedpc\editormaterials.upk" />
+    <Package path="scourgegame\cookedpc\editormeshes.upk" />
+    <Package path="scourgegame\cookedpc\editorresources.upk" />
+    <Package path="scourgegame\cookedpc\engine_mi_shaders.upk" />
+    <Package path="scourgegame\cookedpc\engine.u" />
+    <Package path="scourgegame\cookedpc\enginefonts.upk" />
+    <Package path="scourgegame\cookedpc\enginematerials.upk" />
+    <Package path="scourgegame\cookedpc\enginemeshes.upk" />
+    <Package path="scourgegame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\enginescenes.upk" />
+    <Package path="scourgegame\cookedpc\enginesounds.upk" />
+    <Package path="scourgegame\cookedpc\enginevolumetrics.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\bushes\nat_bus_nogari_plant.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\bushes\nat_bushes.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\rocks\nat_ro_caves_01_text.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\rocks\nat_ro_caves_01.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\rocks\nat_ro_rocks_002.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\scourge\nat_sc_scourge.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\sky\nat_sky_afternoon_001.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\sky\nat_sky_clouds_002.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\sky\nat_sky_clouds_003.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\terrain\nat_te_terrain_plants.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\terrain\nat_te_terrains.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\trees\trees.upk" />
+    <Package path="scourgegame\cookedpc\env\nature\wheater\nat_we_light_001.upk" />
+    <Package path="scourgegame\cookedpc\env\props\ctf\flag\ctf_flag.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_antenna\pro_antenna.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_artifacts\pro_artifacts_02.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_artifacts\pro_artifacts.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_banners\pro_banners.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_barrels\pro_barrels_02.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_barrels\pro_barrels_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="New_Barrels\Texture\DIFF_Big_Cylindrical_container" suffix="1" />
+        <Object id="New_Barrels\Texture\MP2_barrel_A_DIFF" suffix="1" />
+        <Object id="New_Barrels\Texture\MP2_barrel_B_DIFF" suffix="1" />
+        <Object id="New_Barrels\Texture\SPEC_Big_Cylindrical_container" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_barrels\pro_barrels_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_barrels\pro_barrels.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_002_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\lightbox_DIFF" suffix="1" />
+        <Object id="Textures\lightbox_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_002_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_002.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_003_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Supplies_Box_Atlas_01_DIFF" suffix="1" />
+        <Object id="Textures\Supplies_Box_Atlas_01_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_003_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_boxes\pro_boxes_003.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_cables\pro_cables_steam_tubes.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_cables\pro_cables.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_consoles\pro_consoles_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Biogoth_Console_01_DNA_ILU" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_consoles\pro_consoles_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_consoles\pro_consoles.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_containers\pro_containers.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_covers\pro_covers.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_debris\pro_debris.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_decals\pro_decals_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Caution_Decal" suffix="1" />
+        <Object id="Textures\LEVEL1_Decal" suffix="1" />
+        <Object id="Textures\levelA_decal" suffix="1" />
+        <Object id="Textures\levelB_decal" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_decals\pro_decals_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_decals\pro_decals.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display_02_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Ambrosia_Filtering" suffix="1" />
+        <Object id="Textures\Countdown_Gas_00" suffix="1" />
+        <Object id="Textures\Countdown_Num00" suffix="1" />
+        <Object id="Textures\Countdown_Num10" suffix="1" />
+        <Object id="Textures\Countdown_Num100" suffix="1" />
+        <Object id="Textures\Countdown_Num20" suffix="1" />
+        <Object id="Textures\Countdown_Num30" suffix="1" />
+        <Object id="Textures\Countdown_Num40" suffix="1" />
+        <Object id="Textures\Countdown_Num50" suffix="1" />
+        <Object id="Textures\Countdown_Num60" suffix="1" />
+        <Object id="Textures\Countdown_Num70" suffix="1" />
+        <Object id="Textures\Countdown_Num80" suffix="1" />
+        <Object id="Textures\Countdown_Num90" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display_02_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display_02.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\1b" suffix="1" />
+        <Object id="Texture\2b" suffix="1" />
+        <Object id="Texture\advertisement_01" suffix="1" />
+        <Object id="Texture\human_perfection" suffix="1" />
+        <Object id="Texture\Roll" suffix="1" />
+        <Object id="Texture\Roll_02" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_display\pro_display.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_doors\biogoth_doors.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_doors\pro_doors.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_fans\pro_fans.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_fences\pro_fences_02.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_fences\pro_fences.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_furniture_lab_001\pro_furniture_lab_001.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_furniture_lab_001\pro_furniture_lab_002.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_furniture\pro_furniture.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_generators\pro_generators.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_generic_furniture\pro_generic_furniture.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_grids\pro_grids.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_lamps\pro_lamps.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_machinery\pro_crane.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_machinery\pro_machinery_mines.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_machinery\pro_machinery.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechanical.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mecharm_anim.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mecharm.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechbiogoth.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechconvbelt.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechdome.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechelevators.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_mechanical\pro_mechincinerator.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_metal_pipes\pro_metal_pipes.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_ornamental\pro_statue.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_pickups\pro_pickups_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture\Dna_DIFF" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_pickups\pro_pickups_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_pickups\pro_pickups.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_power_plant\pro_power_plant.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_signals\pro_signals_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Decal_Numbers_TABCN" suffix="1" />
+        <Object id="Textures\signs_01_DIFF" suffix="1" />
+        <Object id="Textures\signs_01_EMI" suffix="1" />
+        <Object id="Textures\signs_01_SPEC" suffix="1" />
+        <Object id="Textures\signs_02_DIFF" suffix="1" />
+        <Object id="Textures\signs_02_EMI" suffix="1" />
+        <Object id="Textures\signs_02_SPEC" suffix="1" />
+        <Object id="Textures\signs_03_DIFF" suffix="1" />
+        <Object id="Textures\signs_03_EMI" suffix="1" />
+        <Object id="Textures\signs_03_SPEC" suffix="1" />
+        <Object id="Textures\signs_04_DIFF" suffix="1" />
+        <Object id="Textures\signs_04_EMI" suffix="1" />
+        <Object id="Textures\signs_04_SPEC" suffix="1" />
+        <Object id="Textures\signs_05_DIFF" suffix="1" />
+        <Object id="Textures\signs_05_EMI" suffix="1" />
+        <Object id="Textures\signs_05_SPEC" suffix="1" />
+        <Object id="Textures\signs_LEVEL_DIFF" suffix="1" />
+        <Object id="Textures\signs_LEVEL_EMI" suffix="1" />
+        <Object id="Textures\signs_LEVEL_SPEC" suffix="1" />
+        <Object id="Textures\signs_LEVELB_DIFF" suffix="1" />
+        <Object id="Textures\signs_LEVELB_EMI" suffix="1" />
+        <Object id="Textures\signs_LEVELB_SPEC" suffix="1" />
+        <Object id="Textures\Subway_Signs_DIFF" suffix="1" />
+        <Object id="Textures\Subway_Signs_EMI" suffix="1" />
+        <Object id="Textures\Subway_Signs_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_signals\pro_signals_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_signals\pro_signals.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_vehicles\anim_drop_ship.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_vehicles\pro_vehicles_dropship\pro_vehicles_dropship_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_vehicles\pro_vehicles_dropship\pro_vehicles_dropship.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_vehicles\pro_vehicles.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_warfare\pro_warfare_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\weapon_storage_spec" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pro_warfare\pro_warfare_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_warfare\pro_warfare.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_windows\pro_windows_biogoth_001.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pro_wood\pro_wood.upk" />
+    <Package path="scourgegame\cookedpc\env\props\props_electricalboxes\props_electricalboxes.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pto_elevators\pro_elevators_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Mine_Elevator_DIFF" suffix="1" />
+        <Object id="Textures\Mine_Elevator_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\pto_elevators\pro_elevators_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\pto_elevators\pro_elevators.upk" />
+    <Package path="scourgegame\cookedpc\env\props\signal\props_signals_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tectures\Numbers_indigo" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\props\signal\props_signals_text.upk" />
+    <Package path="scourgegame\cookedpc\env\props\signal\props_signals.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\bsptextures\sh_ht_biogoth_bsp.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\ceilings\biogoth_ceilings\st_ht_biogoth_ceilings_001.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\floors\st_ht_floors_granite_floor.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\floors\st_ht_floors_metal_floor.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\floors\st_ht_ggranitefloor_tex01.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\floors\st_ht_industrial_floors.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\floors\st_ht_office_floors.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\platforms\st_ht_platforms_bio_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\emergency_barrier_DIFF" suffix="1" />
+        <Object id="Textures\emergency_barrier_SPEC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\structures\hitech\platforms\st_ht_platforms_bio_text.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\platforms\st_ht_platforms_biogoth.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\platforms\st_ht_platforms_stairs_001.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\sh_ht_biogoth_walls_shaders.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_bgoth_indoor_colum_optim.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_bio_int_colms_text01.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_indoor_columns.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_indoor_text01.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_indoor.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_textures_01.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_textures_02.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_textures_03.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_walls_text01.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_walls_text02.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\512_map_NRM" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth_walls.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_biogoth\st_ht_biogoth.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_cargo_station\st_ht_cargo_station_2.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_cargo_station\st_ht_cargo_station_text_001.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_cargo_station\st_ht_cargo_station_text_002.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_cargo_station\st_ht_cargo_station.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_ceramics\st_ht_ceramics.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_garden_walls\st_ht_garden_walls.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_outdoors_factory_02\st_ht_outdoors_factory_02.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_outdoors_factory\st_ht_outdoors_factory.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_walls_corridor\st_ht_walls_corridor.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_walls_mines\st_ht_walls_mines.upk" />
+    <Package path="scourgegame\cookedpc\env\structures\hitech\walls\st_ht_walls_vstripes\st_ht_walls_vstripes002.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_ability\fx_ability.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_banshee\fx_banshee.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_creeper\fx_creeper.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_digger\fx_digger.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\fx_environment_2.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\fx_environment.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\fx_laserscaner.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\fx_prggass.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\fx_weather.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_environment\videoeclipse.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_general_interiors\fx_general_interior.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_blood_splash.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_decals.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_impact_aliens.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_impact_humans_mat.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_impact_humans.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_tracer.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fx_weap_comun.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_impacts\fximpact.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_red_dot_laser\fx_red_dot_laser.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_reflex_sight\fx_reflex_sight.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_sield\fx_sield.upk" />
+    <Package path="scourgegame\cookedpc\fx\fx_weapon_acc\fx_weapon_acc.upk" />
+    <Package path="scourgegame\cookedpc\fx\hudmarcos.upk" />
+    <Package path="scourgegame\cookedpc\gameframework.u" />
+    <Package path="scourgegame\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="scourgegame\cookedpc\gui\interface\qoss_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Dna" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\interface\qoss_text.upk" />
+    <Package path="scourgegame\cookedpc\gui\interface\qoss.upk" />
+    <Package path="scourgegame\cookedpc\gui\interface\scourgegamehud.upk" />
+    <Package path="scourgegame\cookedpc\gui\interface\scourgegui_hudresources.upk" />
+    <Package path="scourgegame\cookedpc\gui\interface\scourgegui_hudresours_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\GLMode" suffix="1" />
+        <Object id="Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="Textures\icons_archivements" suffix="1" />
+        <Object id="Textures\icons_unlockable" suffix="1" />
+        <Object id="Textures\icons_unlockable_MASK" suffix="1" />
+        <Object id="Textures\icons_unlockable_NOALPHA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\interface\scourgegui_hudresours_text.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\gui_gamemode_images.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\multiplayerimages.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scggui_ckimg_1_high_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\1_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scggui_ckimg_1_high_text.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scggui_ckimg_3_high_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\3_1" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scggui_ckimg_3_high_text.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourge_ui.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegameui.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_1_high.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\1_0" suffix="1" />
+        <Object id="Textures\1_10" suffix="1" />
+        <Object id="Textures\1_11" suffix="1" />
+        <Object id="Textures\1_2" suffix="1" />
+        <Object id="Textures\1_3" suffix="1" />
+        <Object id="Textures\1_4" suffix="1" />
+        <Object id="Textures\1_5" suffix="1" />
+        <Object id="Textures\1_6" suffix="1" />
+        <Object id="Textures\1_7" suffix="1" />
+        <Object id="Textures\1_8" suffix="1" />
+        <Object id="Textures\1_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_1.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_2_high.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\2_1" suffix="1" />
+        <Object id="Textures\2_10" suffix="1" />
+        <Object id="Textures\2_11" suffix="1" />
+        <Object id="Textures\2_12" suffix="1" />
+        <Object id="Textures\2_13" suffix="1" />
+        <Object id="Textures\2_14" suffix="1" />
+        <Object id="Textures\2_2" suffix="1" />
+        <Object id="Textures\2_3" suffix="1" />
+        <Object id="Textures\2_4" suffix="1" />
+        <Object id="Textures\2_5" suffix="1" />
+        <Object id="Textures\2_6" suffix="1" />
+        <Object id="Textures\2_7" suffix="1" />
+        <Object id="Textures\2_8" suffix="1" />
+        <Object id="Textures\2_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_2.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_3_high.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\3_2" suffix="1" />
+        <Object id="Textures\3_3" suffix="1" />
+        <Object id="Textures\3_4" suffix="1" />
+        <Object id="Textures\3_5" suffix="1" />
+        <Object id="Textures\3_6" suffix="1" />
+        <Object id="Textures\3_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_3.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_4_high.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\4_1" suffix="1" />
+        <Object id="Textures\4_10" suffix="1" />
+        <Object id="Textures\4_2" suffix="1" />
+        <Object id="Textures\4_3" suffix="1" />
+        <Object id="Textures\4_4" suffix="1" />
+        <Object id="Textures\4_5" suffix="1" />
+        <Object id="Textures\4_6" suffix="1" />
+        <Object id="Textures\4_7" suffix="1" />
+        <Object id="Textures\4_8" suffix="1" />
+        <Object id="Textures\4_9" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimages_4.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimg_1_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\1_1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimg_1_text.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\1_1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimg_3_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\3_1" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_chkpimg_3_text.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\3_1" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_fbimages.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_fonts_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Font\Hud_Font_Medium2\Hud_Font_Medium2_PageA" suffix="1" />
+        <Object id="Font\Hud_Font_Small\Hud_Font_Small_PageA" suffix="1" />
+        <Object id="Font\Hud_Font_Tiny\Hud_Font_Tiny_PageA" suffix="1" />
+        <Object id="Font\MicroGammaDE_10\MicroGammaDE_10_PageA" suffix="1" />
+        <Object id="Font\MicroGammaDE_12\MicroGammaDE_12_PageA" suffix="1" />
+        <Object id="Font\MicroGammaDE_14\MicroGammaDE_14_PageA" suffix="1" />
+        <Object id="Font\MicroGammaDE_14\MicroGammaDE_14_PageB" suffix="1" />
+        <Object id="Font\Verdana11\Verdana11_PageA" suffix="1" />
+        <Object id="Font\Verdana13\Verdana13_PageA" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_fonts.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_layoutcommon.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_layoutfrontend.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_layouthud.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_ps3.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_resources_text_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Main_Title" suffix="1" />
+        <Object id="Textures\PlayerCardBig_BG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_resources_text.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_resources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\icons_unlockable" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_resourcesereaseme.upk" />
+    <Package path="scourgegame\cookedpc\gui\menu\scourgegui_videos.upk" />
+    <Package path="scourgegame\cookedpc\guidcache.upk" />
+    <Package path="scourgegame\cookedpc\ipdrv.u" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_frontend_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_frontend_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_frontend.sew" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_mainmenu_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_mainmenu_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\frontend\entry_mainmenu.sew" />
+    <Package path="scourgegame\cookedpc\maps\frontend\transition_seamless.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_alphasighting1_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_alphasighting1_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_alphasighting1.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_ambrosia_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_ambrosia_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_ambrosia.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_nogaripatrol_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_nogaripatrol_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\cutscenes\cs_l1_nogaripatrol.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_dlights_01.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l0_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_sb_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_sb_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_exterior_sb.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_landscape_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_parking_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_parking_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_parking_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_0_pod_crash_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio_fx_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio_fx_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_bio.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_ext_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_ext_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_ext.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_sb_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_sb_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_sb.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_side_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_side_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_1_entrance_side.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_gate_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_gate_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_gate_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_gate.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_hub_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_hub_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_hub.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_l_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_l_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_l_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_2_security_sb.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_3_garden_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_elevator.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_flat1_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_flat1_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_flat1.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin_sb.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_4_admin.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_dlights_01.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_landscape_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_obj.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_speeches_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_speeches_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l1_dejavu\l1_speeches.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\cutscenes\cs_l2_alphasighting2_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\cutscenes\cs_l2_alphasighting2_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\cutscenes\cs_l2_alphasighting2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\cutscenes\l2_2_alphasighting4.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_ent_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_entb_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_entb_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_entb_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_cut.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_fx_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_fx_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_l2_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_l2_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_l2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_gen_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab1_wallpaths.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab2_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lab3_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labb_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labb_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labb_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labs_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labs_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_labs_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_landscape_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_1_lift_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_fx_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_fx_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_crane_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_dropship_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_dropship_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_dropship_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_plat2_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_plat2_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_plat2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_platdown.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_platnostream_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_platnostream_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_platnostream.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext1_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext1_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext1_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext1_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_ext1_sky_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants0_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants0_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants0_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants0_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants1_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants1_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants1_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plants1_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plantup_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plantup_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plantup_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plantup_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_plantup_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_silos_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_silos_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_silos_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_tocrane_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_tocrane_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_2_tocrane_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes1_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes1_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes1_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes1_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes2_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes2_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_pipes2_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_1a.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_1b.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_1c.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_1d.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat1_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat1_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat1_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat2_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat2_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat2_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vat2_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vatcor_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vatcor_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_3_vatcor_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_belts_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_4_boss2_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_obj_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_obj_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_obj.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_sky.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_speeches_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_speeches_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_amb_speeches.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_ambrosia_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_ambrosia_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_ambrosia_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_belts_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_boss_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_cranes_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_cut_dropship.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_dlights_01.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_dlights_02.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_entrance_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_exit_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_exit_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_exit_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_exterior_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_flashbacks.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_generatorroom_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_har1_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_har2_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_har3_music.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_harvest_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_harvest_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_harvest_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_labs_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_misc.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_objectives.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_pipes_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_plants_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_sky.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_speeches_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_speeches_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_speeches.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_to_silos_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_to_silos_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_to_silos_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_to_silos_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l2_harvest\l2_vats_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_blurintro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_blurintro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_blurintro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_bluroutro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_bluroutro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_bluroutro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_diggerintro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_diggerintro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_diggerintro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_dropship_destroy.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\cutscenes\cs_l3_refuellinggas.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_decon_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_decon_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_decon_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_1_seca_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_l_2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_refuel_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_2_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_3_secb_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_drop_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_drop_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_drop_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_drop_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_drop_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_4_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_crash_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_5_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_digger_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_6_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_train_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_train_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_7_train_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_dlights_01.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_exterior_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_1.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_2_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_2_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_3.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_music_4.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_doors_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_doors_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_s_objectives.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_speeches_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_speeches_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p_speeches.sew" />
+    <Package path="scourgegame\cookedpc\maps\l3_detour\l3_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_bansheeintro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_bansheeintro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_bansheeintro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_doublediggerintro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithintro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithintro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithintro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithoutro_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithoutro_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithoutro.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithtransition_2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_lilithtransition.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_nest_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_nest_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\cutscenes\cs_l4_nest.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_elevator_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_elevator_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_elevator.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_1_train_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_cave_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_antesala_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_up_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_up_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_cave_up_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_digger_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_low_cave_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_low_cave_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_low_cave_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_elevator_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_elevator_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_elevator.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_nest_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_power_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_elevator_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_elevator_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_elevator.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_2_valley_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_control_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_ent_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_fx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_l_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_l_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_l.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_3_lilith_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_fx_combat_kis_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_fx_combat_kis_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_fx_combat_kis.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_s_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_s_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_s.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_4_banshee_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_dlights_01.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_doors.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_elevator_trick.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_music_1.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_music_2.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_music_3.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_objectives.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_p_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_p_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="QOSS_Text\Textures\Dna" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_p.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_speeches_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_speeches_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\l4_speeches.sew" />
+    <Package path="scourgegame\cookedpc\maps\l4_abyss\mypackage.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest_new_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest_new_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest_new.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_latest.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_pickups_dm.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\cavern_pickups.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\ctf_cavern_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\ctf_cavern_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\ctf_cavern.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\dm_cavern_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\dm_cavern_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\dm_cavern.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\frontier_cavern_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\frontier_cavern_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\frontier_cavern.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\new_cavern_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\tdm_cavern_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\tdm_cavern_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\cavern\tdm_cavern.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\ctf_epsilon_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\ctf_epsilon_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\ctf_epsilon.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon_pickups_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon_pickups_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon_pickups.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\dm_epsilon.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\epsilon_pickups.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\frontier_epsilon_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\frontier_epsilon_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\frontier_epsilon.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_0_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_0_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_0.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_1_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_1_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_1.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_2_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_2_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\multi_lab_2.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon_sfx_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon_sfx_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\epsilon\tdm_epsilon.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\ctf_outpost_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\ctf_outpost_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\ctf_outpost.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost_pickups_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost_pickups_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost_pickups.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\dm_outpost.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\frontier_outpost_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\frontier_outpost_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\frontier_outpost.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\outpost_env_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\outpost_env_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\outpost_env.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\outpost_sfx.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archievements_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_archivements" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost_pickups_loc_int.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost_pickups_loc_rus.upk" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost_pickups.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\outpost\tdm_outpost.sew" />
+    <Package path="scourgegame\cookedpc\maps\multiplayer\paulmader_dm_tdm_frontier\pm_labs.upk" />
+    <Package path="scourgegame\cookedpc\nodebuddies.upk" />
+    <Package path="scourgegame\cookedpc\onlinesubsystemgamespy.u" />
+    <Package path="scourgegame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="scourgegame\cookedpc\packages\dsg_contextcomms.upk" />
+    <Package path="scourgegame\cookedpc\packages\dsg_gameplay.upk" />
+    <Package path="scourgegame\cookedpc\packages\dsg_prototype.upk" />
+    <Package path="scourgegame\cookedpc\packages\dsg_wi.upk" />
+    <Package path="scourgegame\cookedpc\packages\flashbacksmp1.upk" />
+    <Package path="scourgegame\cookedpc\packages\generic_textures.upk" />
+    <Package path="scourgegame\cookedpc\packages\l2_agenda_package.upk" />
+    <Package path="scourgegame\cookedpc\packages\mosstests.upk" />
+    <Package path="scourgegame\cookedpc\packages\nogari-troop-cargov2.upk" />
+    <Package path="scourgegame\cookedpc\packages\physicalmaterialscarlitos.upk" />
+    <Package path="scourgegame\cookedpc\packages\snd_mp1_nogari.upk" />
+    <Package path="scourgegame\cookedpc\packages\soundmodes.upk" />
+    <Package path="scourgegame\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="scourgegame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="scourgegame\cookedpc\refshadercache-pc-d3d-sm4.upk" />
+    <Package path="scourgegame\cookedpc\scourgeeditor.u" />
+    <Package path="scourgegame\cookedpc\scourgegame_loc_int.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_Fonts\Font\Hud_Font_Medium2\Hud_Font_Medium2_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_12\MicroGammaDE_12_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_14\MicroGammaDE_14_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_14\MicroGammaDE_14_PageB" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\scourgegame_loc_rus.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_unlockable" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\scourgegame.u" />
+    <Package path="scourgegame\cookedpc\scourgegamecontent.u" />
+    <Package path="scourgegame\cookedpc\scourgeunittestingframework.u" />
+    <Package path="scourgegame\cookedpc\scourgeunittests.u" />
+    <Package path="scourgegame\cookedpc\sound\aud_ambience_02.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_ambience.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_banshee.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_digger.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_echo.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_nogari.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_qoss.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_scavenger.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cha_strider.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_common_dialog.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_common_sounds.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cutscene_l1.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cutscene_l2.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cutscene_l3.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_cutscene_l4.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_demo_2.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_demo_music_1.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_dialog_l1.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_dialog_l2.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_dialog_l3.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_dialog_l4.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_fts_echo.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_gdc_voices.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_gdc.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_generic_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_imp_bullet.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l0_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l1_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l1_sfx.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l2_amb_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l2_har1_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l2_har3_music.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l2_sound1.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l3_music_2.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l3_music_3.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l3_sfx.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l4_music_2.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l4_music_3.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_l4_sfx.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_sfx.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_wpn_balistic.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_wpn_common.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_wpn_energy.upk" />
+    <Package path="scourgegame\cookedpc\sound\aud_wpn_fx.upk" />
+    <Package path="scourgegame\cookedpc\sound\demo_music_09\aud_l2_music_demo09_1.upk" />
+    <Package path="scourgegame\cookedpc\sound\demo_music_09\aud_l2_music_demo09_2.upk" />
+    <Package path="scourgegame\cookedpc\sound\demo_music_09\aud_l2_music_demo09_3.upk" />
+    <Package path="scourgegame\cookedpc\sound\demo_music_09\aud_l2_music_demo09_4.upk" />
+    <Package path="scourgegame\cookedpc\sound\demo_music_09\aud_l2_music_demo09.upk" />
+    <Package path="scourgegame\cookedpc\sound\lyon2008\aud_lyon2008_barks.upk" />
+    <Package path="scourgegame\cookedpc\sound\scsoundgrouparchetypes.upk" />
+    <Package path="scourgegame\cookedpc\sound\sudbankarchetypes.upk" />
+    <Package path="scourgegame\cookedpc\sounds\amb_mch_elevator.upk" />
+    <Package path="scourgegame\cookedpc\sounds\amb_mch_general.upk" />
+    <Package path="scourgegame\cookedpc\sounds\badsound_temp.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_cha_echo_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_cha_qoss_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_common_dialog_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_dialog_l1_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_dialog_l2_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_dialog_l3_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\int\aud_dialog_l4_wav.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_cha_echo_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_cha_qoss_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_common_dialog_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_dialog_l1_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_dialog_l2_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_dialog_l3_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\rus\aud_dialog_l4_wav_rus.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_cha_soldier.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_fts_strider.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_map_tubular.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_ak47.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_gralauncher40mm.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_m4.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_melees.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_minimi.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_mp5.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_shotgun.upk" />
+    <Package path="scourgegame\cookedpc\sounds\snd_wpn_socompistol.upk" />
+    <Package path="scourgegame\cookedpc\startup_int.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="ScourgeGUI_ChkPImg_1_Text\Textures\1_1" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\Hud_Font_Medium2\Hud_Font_Medium2_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\Hud_Font_Small\Hud_Font_Small_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\Hud_Font_Tiny\Hud_Font_Tiny_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_10\MicroGammaDE_10_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_12\MicroGammaDE_12_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_14\MicroGammaDE_14_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\MicroGammaDE_14\MicroGammaDE_14_PageB" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\Verdana11\Verdana11_PageA" suffix="1" />
+        <Object id="ScourgeGUI_Fonts\Font\Verdana13\Verdana13_PageA" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_unlockable_MASK" suffix="1" />
+        <Object id="ScourgeGUI_HUDResours_Text\Textures\icons_unlockable_NOALPHA" suffix="1" />
+        <Object id="ScourgeGUI_Resources_Text\Textures\Main_Title" suffix="1" />
+        <Object id="ScourgeGUI_Resources_Text\Textures\PlayerCardBig_BG" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="scourgegame\cookedpc\startup_rus.upk" />
+    <Package path="scourgegame\cookedpc\system\flashback.upk" />
+    <Package path="scourgegame\cookedpc\system\physicalmaterials.upk" />
+    <Package path="scourgegame\cookedpc\system\sceditorresources.upk" />
+    <Package path="scourgegame\cookedpc\system\scourgepostprocess.upk" />
+    <Package path="scourgegame\cookedpc\test\ake_shaders.upk" />
+    <Package path="scourgegame\cookedpc\test\deathmatch\test_objects.upk" />
+    <Package path="scourgegame\cookedpc\test\facefx_test.upk" />
+    <Package path="scourgegame\cookedpc\test\forest_2\fx_demo_pack.upk" />
+    <Package path="scourgegame\cookedpc\test\forest_2\trees_demo.upk" />
+    <Package path="scourgegame\cookedpc\test\leveldesign\scg_gameplaymarkup.upk" />
+    <Package path="scourgegame\cookedpc\test\omar_head.upk" />
+    <Package path="scourgegame\cookedpc\test\snd_facefx_test.upk" />
+    <Package path="scourgegame\cookedpc\test\test_cube.upk" />
+    <Package path="scourgegame\cookedpc\ui\defaultuiskin.upk" />
+    <Package path="scourgegame\cookedpc\ui\testuiscenes.upk" />
+    <Package path="scourgegame\cookedpc\ui\uiarcpackage.upk" />
+    <Package path="scourgegame\cookedpc\unrealed.u" />
+    <Package path="scourgegame\cookedpc\unrealscripttest.u" />
+    <Package path="scourgegame\cookedpc\weap\common_cm\common_cm.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_accesories\weap_accesories.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_ak74\weap_ak74.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_gatlink\weap_gatlink.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_grenades\grenade.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_grenades\weap_grenade_emp.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_grenades\weap_grenade.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_handgun\weap_handgun.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_lightmachinegun\weap_lightmachinegun.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_m4\weap_m4.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_mp5\weap_mp5.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_nogariassaultrifle\weap_nogariassaultrifle.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_nogarihandgun\weap_nogarihandgun.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_nogarishootgun\weap_nogarishootgun.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_nogarisniperrifle\weap_nogarisniperrifle.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_nogarisubmachine\weap_nogarisubmachine.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_rocketlauncher\weap_rocketlauncher.upk" />
+    <Package path="scourgegame\cookedpc\weap\weap_sniperrifle\weap_sniperrifle.upk" />
+  </Packages>
+</IdRemapping>

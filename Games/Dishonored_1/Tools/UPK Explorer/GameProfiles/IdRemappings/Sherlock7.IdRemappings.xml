@@ -1,0 +1,1977 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="sh7game\cookedpc\core.u" />
+    <Package path="sh7game\cookedpc\engine.u" />
+    <Package path="sh7game\cookedpc\fdk.u" />
+    <Package path="sh7game\cookedpc\gameframework.u" />
+    <Package path="sh7game\cookedpc\gfxui.u" />
+    <Package path="sh7game\cookedpc\gfxuieditor.u" />
+    <Package path="sh7game\cookedpc\globalpersistentcookerdata.upk" />
+    <Package path="sh7game\cookedpc\guidcache.upk" />
+    <Package path="sh7game\cookedpc\ipdrv.u" />
+    <Package path="sh7game\cookedpc\maps\cab.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_ag_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_blbox.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_co22_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d01_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d01.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d02_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d02.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d03_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d03.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d11_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d11.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d12_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_d12.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_demo_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_dr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_hall.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_light.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_mr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_safe.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby_good_boy.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby3_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby4_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby5_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_toby6_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\abbeygrange\sub_ag_abbgr_yard.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\ag_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baken\sub_ag_baken_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baken\sub_ag_baken_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baken\sub_ag_baken_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baken\sub_ag_baken_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baken\sub_ag_baken_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_arope.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_cswig_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d04_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d04.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d05_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d05.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d13_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d13.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d14_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_d14.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_qtecr_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_qtecr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\baker\sub_ag_baker_reg.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\loc_ag_abbgr_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\loc_ag_baken_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_ag\loc_ag_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bb_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_ab.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_ad.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_as.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_d29_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_d29.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_glass.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_icekn.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_knife.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_map.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_mold.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_photo.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_plast.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_pulse.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\baker\sub_bb_baker_sknif.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bb_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_braz.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_btns.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_corr_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_corr_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_corr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d01_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d01.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d02_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d02.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d03_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_d03.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_elems.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_frig_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_frig.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_hall_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_hall.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\bloodbath\sub_bb_baths_light.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_brdg.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_field_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_fresc.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_gstrp.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_shed_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\excav\sub_bb_excav_shoot.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_baths_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_cave_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_excav_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_polst_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\loc_bb_tunn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d04_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d04.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d05_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d05.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d15_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d15.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d17_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d17.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d18_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_d18.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\policestation\sub_bb_polst_prnew.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_cave_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_cave_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_cave_light.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_cave_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_coop_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_scale.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_templ_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_templ_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bb\tunnel\sub_bb_tunn_templ.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_bp_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_chlt.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_chml.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_chmlt.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d04_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d04.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d09_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d09.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d10_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d10.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d14_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d14.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d15_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d15.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d18_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_d18.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_fight_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_fight.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_intro_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_intro.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\baker\sub_bp_baker_slist.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_boot1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_d01_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_d01.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_d02_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_d02.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_dbd_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_enter_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_plock.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_shplg.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpet_tobac.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_d03_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_d03.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_d17_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_d17.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\blackpeter\sub_bp_blpn_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\bp_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_d05_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_d05.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_int_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_int_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_int.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\butcher_shop\sub_bp_butsh_tharp.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_blpet_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_blpn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_butsh_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_polst_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\loc_bp_pub_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d08_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d08.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d11_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d11.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d13_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d13.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d16_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_d16.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\police_station\sub_bp_polst_paper.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_armwr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_awr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_d12_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_d12.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_qtewr_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_bp\pub\sub_bp_pub_qtewr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_fi_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_fi\loc_fi_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_fi\sub_fi_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_hm_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\bakef\sub_hm_bakef_d17_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\bakef\sub_hm_bakef_d17.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\bakef\sub_hm_bakef_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\bakef\sub_hm_bakef_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baken\sub_hm_baken_ah.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baken\sub_hm_baken_d00_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baken\sub_hm_baken_d00.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baken\sub_hm_baken_level_hairs.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baken\sub_hm_baken_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_d08_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_d08.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_d15_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_d15.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\baker\sub_hm_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circn\sub_hm_circn_d14_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circn\sub_hm_circn_d14.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circn\sub_hm_circn_gpwd.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circn\sub_hm_circn_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circn\sub_hm_circn_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_chai1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d09#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d09#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d09#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d09#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#3_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_d10#3.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\circs\sub_hm_circs_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_book_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_climb_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_climb.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_climbim.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_csflash_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d01_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d01.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#3_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#3.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#4_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d02#4.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d03_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d03.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d04_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d04.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d05_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d05.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#3_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#3.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#4_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#4.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#5_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#5.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#6_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_d16#6.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_jackt_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_lamps.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_level_passhigh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_marrow.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_shooterim.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_turneriim_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_walln.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\halfmoon\sub_hm_hmstr_wally.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\hm_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\jwlry\sub_hm_jwlry_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\jwlry\sub_hm_jwlry_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\jwlry\sub_hm_jwlry_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\jwlry\sub_hm_jwlry_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_bakef_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_baken_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_circn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_circs_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_hmstr_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_jwlry_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_manni_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_mansn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\loc_hm_polsn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_d11_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_d11.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_d13_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_d13.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\manni\sub_hm_manni_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_level_imag1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_lock.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\mansn\sub_hm_mansn_manor.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d12_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_d12.udk" />
+    <Package path="sh7game\cookedpc\maps\case_hm\polsn\sub_hm_polsn_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_kg_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_ba.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d02_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d02.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d17_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d17.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d19_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_d19.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_md284_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\baker\sub_kg_baker_plant.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_bldn.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_colr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_colrl.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_cor1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_cor2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d13#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d13#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d13#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d13#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d14#1_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d14#1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d14#2_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d14#2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d15_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_d15.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_desrt_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_desrt.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_dir_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_dir.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_grh2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_grhh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_grhou_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_grhou.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_jungl.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_k242_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_lab_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_lab.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_labh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_lev2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_lev3_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_lev3.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_level_soun2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_level_soun3.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_light.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_marbl.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md048_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md124_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md261_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md271_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md290_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_md98_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_offh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_offic_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_offic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_pdor2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_phono.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_prt1_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_prt1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_prt2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_starter.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_swamp.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_swlow.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kewgardens\sub_kg_kewg_timel.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\kg_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\loc_kg_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\loc_kg_kewg_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\loc_kg_polst_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\loc_kg_sect_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_autp1.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_autp2.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d08_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d08.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d16_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d16.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d18_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d18.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d20_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_d20.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\polst\sub_kg_polst_md273_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_cages.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d10_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d10.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d11_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d11.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d21_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_d21.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_light.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_opium.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_pdor.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_wtscd_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_kg\sect\sub_kg_sect_wtscd.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_int.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\maps\case_tr_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\baker\sub_tr_baker_d12_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\baker\sub_tr_baker_d12.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\baker\sub_tr_baker_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\baker\sub_tr_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\beach\sub_tr_beach_roulb.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_baker_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_beach_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_mines_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_swtch_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_trstb_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_trstc_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_trstd_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_trste_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\loc_tr_trstn_p.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_boxg.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_dyna.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_level.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_roulm.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\mine\sub_tr_mines_table.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_2" suffix="1" />
+        <Object id="Texture2D_3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\switch\sub_tr_swtch_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\tr_deduction_board.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d01_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d01.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d02_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d02.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d05_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_d05.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="1" />
+        <Object id="Texture2D_11" suffix="1" />
+        <Object id="Texture2D_2" suffix="2" />
+        <Object id="Texture2D_42" suffix="1" />
+        <Object id="Texture2D_43" suffix="1" />
+        <Object id="Texture2D_44" suffix="1" />
+        <Object id="Texture2D_5" suffix="1" />
+        <Object id="Texture2D_51" suffix="1" />
+        <Object id="Texture2D_52" suffix="1" />
+        <Object id="Texture2D_53" suffix="1" />
+        <Object id="Texture2D_54" suffix="1" />
+        <Object id="Texture2D_60" suffix="1" />
+        <Object id="Texture2D_61" suffix="1" />
+        <Object id="Texture2D_7" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_lgppr.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_lrob.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationb\sub_tr_trstb_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_d04_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_d04.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_d08_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_d08.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_69" suffix="1" />
+        <Object id="Texture2D_70" suffix="1" />
+        <Object id="Texture2D_72" suffix="1" />
+        <Object id="Texture2D_85" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_locc.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationc\sub_tr_trstc_smcab.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_cigar.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d06_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d06.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d07_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d07.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d14_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_d14.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_dfin.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_263" suffix="1" />
+        <Object id="Texture2D_264" suffix="1" />
+        <Object id="Texture2D_265" suffix="1" />
+        <Object id="Texture2D_266" suffix="1" />
+        <Object id="Texture2D_269" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_mex_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_mxsht_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_mxsht.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_pole.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstationd\sub_tr_trstd_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_d03_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_d03.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_d09_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_d09.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_10" suffix="2" />
+        <Object id="Texture2D_11" suffix="2" />
+        <Object id="Texture2D_12" suffix="1" />
+        <Object id="Texture2D_20" suffix="1" />
+        <Object id="Texture2D_21" suffix="1" />
+        <Object id="Texture2D_22" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_navmesh.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_rmap.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trste_roule.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_d13_cintx.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_d13.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_level_doors.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_level_logic.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\case_tr\trainstatione\sub_tr_trstn_level.udk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Texture2D_126" suffix="1" />
+        <Object id="Texture2D_128" suffix="1" />
+        <Object id="Texture2D_130" suffix="1" />
+        <Object id="Texture2D_144" suffix="1" />
+        <Object id="Texture2D_145" suffix="1" />
+        <Object id="Texture2D_149" suffix="1" />
+        <Object id="Texture2D_181" suffix="1" />
+        <Object id="Texture2D_185" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_dress.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level_dany.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level_mess.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level_passhigh.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level_troph.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baken_level.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_archv.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_dress.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level_dany.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level_mess.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level_passhigh.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level_troph.udk" />
+    <Package path="sh7game\cookedpc\maps\common\baker\sub_baker_level.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polsn_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polsn_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polsn_level.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polst_level_pass.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polst_level_sound.udk" />
+    <Package path="sh7game\cookedpc\maps\common\police_station\sub_polst_level.udk" />
+    <Package path="sh7game\cookedpc\maps\mainmenu.udk" />
+    <Package path="sh7game\cookedpc\maps\mainmenu2.udk" />
+    <Package path="sh7game\cookedpc\maps\mainmenu3.udk" />
+    <Package path="sh7game\cookedpc\maps\mainmenucontainer.udk" />
+    <Package path="sh7game\cookedpc\onlinesubsystempc.u" />
+    <Package path="sh7game\cookedpc\onlinesubsystemsteamworks.u" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_10_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_12_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_13_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_14_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_15_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_16_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_17_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_3_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_4_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_5_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_6_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_7_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_8_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_9_sf.upk" />
+    <Package path="sh7game\cookedpc\packages\sound\level_music\level_music_sf.upk" />
+    <Package path="sh7game\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="sh7game\cookedpc\refshadercache-pc-d3d-sm5.upk" />
+    <Package path="sh7game\cookedpc\refshadercache-pc-opengl.upk" />
+    <Package path="sh7game\cookedpc\sh7editor.u" />
+    <Package path="sh7game\cookedpc\sh7game.u" />
+    <Package path="sh7game\cookedpc\sh7gamecontent.u" />
+    <Package path="sh7game\cookedpc\sh7gamepuzzles.u" />
+    <Package path="sh7game\cookedpc\startup_loc_chs.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_czh.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_deu.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_esn.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_fra.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_int.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_ita.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_jpn.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_kor.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_pol.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_rus.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_tur.upk" />
+    <Package path="sh7game\cookedpc\startup_loc_ukr.upk" />
+    <Package path="sh7game\cookedpc\startup.upk" />
+    <Package path="sh7game\cookedpc\suits\acrobat_default_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_body_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_body_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_body_S" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_l_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_l_M" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_l_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_l_S" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_l_SSS" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_r_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_r_M" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_r_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_r_S" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_hand_r_SSS" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_blur_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_M" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_S" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_head_SSS" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_legs_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_legs_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_legs_S" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_scarf_D" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_scarf_N" suffix="1" />
+        <Object id="chr_acrobat\Textures\T_acrobat_scarf_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\australian_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_australian\Textures\T_australian_hat_D" suffix="1" />
+        <Object id="chr_australian\Textures\T_australian_hat_N" suffix="1" />
+        <Object id="chr_australian\Textures\T_australian_hat_S" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\beckett_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_D" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\chefb_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\chefc_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\chefd_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master2_hat_D" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master2_hat_N" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master2_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\chefe_e_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\crocker_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\foley_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_hair_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_hair_N" suffix="1" />
+        <Object id="HM_Base\Textures\T_HM_safe_key_D" suffix="1" />
+        <Object id="HM_Base\Textures\T_HM_safe_key_N" suffix="1" />
+        <Object id="HM_Base\Textures\T_HM_safe_key_S" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\garrow_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\guard_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\hudson_facedecoration_sf.upk" />
+    <Package path="sh7game\cookedpc\suits\hurtley_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\inspector_default_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_inspector\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_inspector\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_D" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_blur_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_contract_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_D" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_expand_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_M" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_S" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_head_SSS" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_S" suffix="1" />
+        <Object id="chr_inspector\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\inspector_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="chr_inspector\Textures\T_inspector_hat_D" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_hat_N" suffix="1" />
+        <Object id="chr_inspector\Textures\T_inspector_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\judith_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\lady_facedecoration_sf.upk" />
+    <Package path="sh7game\cookedpc\suits\marrow_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\marrow_m03_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\mycroft_facedecoration_sf.upk" />
+    <Package path="sh7game\cookedpc\suits\neligan_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_john_neligan\Textures\T_neligan_hat_D" suffix="1" />
+        <Object id="chr_john_neligan\Textures\T_neligan_hat_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\passenger_default_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_angry_passanger_hand_D" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_angry_passanger_hand_SSS" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_D" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_blur_N" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_D" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_M" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_N" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_S" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_head_SSS" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_N" suffix="1" />
+        <Object id="chr_passenger4\Textures\T_passenger4_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\passenger_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\passer_facedecoration_sf.upk" />
+    <Package path="sh7game\cookedpc\suits\pitkin_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master_fat_chain_D" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master_fat_chain_N" suffix="1" />
+        <Object id="chr_station_masters\Textures\T_station_master_fat_chain_S" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_m00_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set0\T_policeman2_head_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_m01_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set1\T_policeman2_head-m01_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_m02_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set2\T_policeman2_head-m02_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_m03_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set3\T_policeman2_head-m03_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\policeman_m04_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-facture1" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-finalmask" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\chr_policeman2_body-s-high_CIN" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_body_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Cloth\T_policeman2_hat_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_blur_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_D" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_M" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_N" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_S" suffix="1" />
+        <Object id="chr_policeman\Textures\Set4\T_policeman2_head-m04_SSS" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_afterparty_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_dirt_tile_D" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_patrick_legs_D" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_patrick_legs_facture1_D" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_patrick_legs_M" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_patrick_legs_N" suffix="1" />
+        <Object id="chr_patrick_cairns\Textures\T_patrick_legs_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_bandit_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_dense_moustache_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_dense_moustache_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_chief_sect\Textures\T_chief_beard_D" suffix="1" />
+        <Object id="chr_chief_sect\Textures\T_chief_beard_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_hair_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_hair_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_sherlock_hair_new2_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_sherlock_hair_new2_N" suffix="1" />
+        <Object id="shared_materials\Textures\cubemap_c03" suffix="1" />
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_Glass_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_Glass_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_farmer_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoor_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoorblack_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoorbrown_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoorgreen_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_green_f1" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoorgrey_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N-grey_CIN" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_indoorlight_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_pulse_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_indoor_body_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_robe_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_sailor_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_sherlock_sailor_legs_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_sherlock_sailor_legs_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_sherlock_sailor_legs_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\sherlock_unbuttoned_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_blur_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_contract_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_D" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_expand_N" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_N_strong" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_S" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_chr_sherlock_head_SSS" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_sherlock\Textures\T_Snarl_Cheeks_M" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\toby_toby_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="chr_toby\Textures\T_toby_D" suffix="1" />
+        <Object id="chr_toby\Textures\T_toby_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\turner_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="shared_materials\Textures\T_clouds" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_rust_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneDetail_N" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_D" suffix="1" />
+        <Object id="shared_materials\Textures\T_StoneTemplate_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\watson_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_D" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_hat_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\watson_outdoor_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\Hair\T_eyelashes_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hair\T_mid_dense_moustache_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\Hands\T_man_hand_SSS" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_blur_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interior2_D_dirty" suffix="1" />
+        <Object id="All_CharacterShader\Textures\MouthInterior\T_mouth_interiorDir" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric01_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_base_fabric02_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_D" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_M" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_Eye_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_N2" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_eye_S" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_skin_detail_N_height" suffix="1" />
+        <Object id="chr_watson\Textures\T_Bridge_Mouth_Chin_Neck_M" suffix="1" />
+        <Object id="chr_watson\Textures\T_Forehead_Eyes_M" suffix="1" />
+        <Object id="chr_watson\Textures\T_Snarl_Cheeks_M" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_blur_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_contract_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_D" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_expand_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_M" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_S" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_head_SSS" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_D" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_facture1" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_facture2" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_M" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_S" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_tiled_D" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_tiled_N" suffix="1" />
+        <Object id="chr_watson\Textures\T_watson_outdoor_body_tiled_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\white_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\suits\wiggins_facedecoration_sf.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="All_CharacterShader\Textures\T_cloth_detail_N" suffix="1" />
+        <Object id="All_CharacterShader\Textures\T_metall_detail_N" suffix="1" />
+        <Object id="chr_wiggins\Textures\T_wiggins_D" suffix="1" />
+        <Object id="chr_wiggins\Textures\T_wiggins_N" suffix="1" />
+        <Object id="chr_wiggins\Textures\T_wiggins_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="sh7game\cookedpc\udkbase.u" />
+    <Package path="sh7game\cookedpc\unrealed.u" />
+    <Package path="sh7game\cookedpc\uteditor.u" />
+    <Package path="sh7game\cookedpc\windrv.u" />
+  </Packages>
+</IdRemapping>

@@ -1,0 +1,1780 @@
+<IdRemapping xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+  <Packages yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.PackageRemapping[]">
+    <Package path="gcgame\cookedpc\audio\a_character_health.upk" />
+    <Package path="gcgame\cookedpc\audio\a_charactermovement.upk" />
+    <Package path="gcgame\cookedpc\audio\a_collisions.upk" />
+    <Package path="gcgame\cookedpc\audio\a_destruction.upk" />
+    <Package path="gcgame\cookedpc\audio\a_dlc_2.upk" />
+    <Package path="gcgame\cookedpc\audio\a_dlc.upk" />
+    <Package path="gcgame\cookedpc\audio\a_glo_ambientsounds_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\a_glo_ambientsounds.upk" />
+    <Package path="gcgame\cookedpc\audio\a_loadlevelaudio.upk" />
+    <Package path="gcgame\cookedpc\audio\a_music_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\a_music_mp.upk" />
+    <Package path="gcgame\cookedpc\audio\a_music.upk" />
+    <Package path="gcgame\cookedpc\audio\a_music2.upk" />
+    <Package path="gcgame\cookedpc\audio\a_projectiles.upk" />
+    <Package path="gcgame\cookedpc\audio\a_rs_battlechatter_hsu.upk" />
+    <Package path="gcgame\cookedpc\audio\a_rs_battlechatter_raphael.upk" />
+    <Package path="gcgame\cookedpc\audio\a_rs_battlechatter_richz.upk" />
+    <Package path="gcgame\cookedpc\audio\a_rs_battlechatter_yev.upk" />
+    <Package path="gcgame\cookedpc\audio\a_rs_battlechatter.upk" />
+    <Package path="gcgame\cookedpc\audio\a_ui.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_ingame_dialogue_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_rs_commander_vo_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_scripted_elements_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_billm_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_brianh_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_davea_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_dennism_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_hughw_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_jimv_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_johnm_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_jtindle_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_battlechatter_noosh_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\deu\a_wc_vehiclechatter_deu.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_ingame_dialogue_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_rs_commander_vo_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_scripted_elements_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_billm_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_brianh_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_davea_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_dennism_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_hughw_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_jimv_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_johnm_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_jtindle_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_battlechatter_noosh_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\fra\a_wc_vehiclechatter_fra.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_ingame_dialogue_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_ingame_dialogue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_nis_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_nis.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_rs_commander_vo_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_rs_commander_vo.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_scripted_elements_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_scripted_elements.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_billm_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_billm.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_brianh_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_brianh.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_davea_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_davea.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_dennism_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_dennism.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_hughw_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_hughw.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_jimv_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_jimv.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_johnm_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_johnm.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_jtindle_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_jtindle.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_noosh_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter_noosh.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_battlechatter.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_vehiclechatter_cue.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\int\a_wc_vehiclechatter.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_ingame_dialogue_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_rs_commander_vo_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_scripted_elements_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_billm_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_brianh_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_davea_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_dennism_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_hughw_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_jimv_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_johnm_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_jtindle_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_battlechatter_noosh_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\ita\a_wc_vehiclechatter_ita.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_ingame_dialogue_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_rs_commander_vo_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_scripted_elements_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_billm_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_brianh_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_davea_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_dennism_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_hughw_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_jimv_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_johnm_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_jtindle_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_noosh_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_battlechatter_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\localization\spa\a_wc_vehiclechatter_spa.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vehicle_globaluse.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhc_bus_militia.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhc_car_compact.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhc_trk_heavy.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhc_trk_light.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_apc_mediumarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_hel_attackheli.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_hel_mediumheli.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_jep_lightarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_jet_fighter.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_tnk_antiair.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_tnk_artillery.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhr_tnk_heavyarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_apc_mediumarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_hel_attackheli.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_hel_mediumheli.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_jep_lightarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_jet_fighter.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_parachute.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_tnk_antiair.upk" />
+    <Package path="gcgame\cookedpc\audio\vehicles\a_vhw_tnk_heavyarmor.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_rs_weapons.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wc_weapons.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_weapons_globaluse.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wpr_dep_rc_c4car.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wpr_dep_rcdroneheli.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wpw_dep_rcdroneassault.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wpw_dep_rcdroneheli.upk" />
+    <Package path="gcgame\cookedpc\audio\weapons\a_wpw_dep_rcdronemortar.upk" />
+    <Package path="gcgame\cookedpc\characters\chc_01_reporter.upk" />
+    <Package path="gcgame\cookedpc\characters\chc_aianimations.upk" />
+    <Package path="gcgame\cookedpc\characters\chc_niscamera.upk" />
+    <Package path="gcgame\cookedpc\characters\chc_physics.upk" />
+    <Package path="gcgame\cookedpc\characters\chc_playeranimations.upk" />
+    <Package path="gcgame\cookedpc\characters\chr_01_rus.upk" />
+    <Package path="gcgame\cookedpc\characters\chr_02_chi.upk" />
+    <Package path="gcgame\cookedpc\characters\chr_03_mil.upk" />
+    <Package path="gcgame\cookedpc\characters\chr_headgear.upk" />
+    <Package path="gcgame\cookedpc\characters\chr_roles.upk" />
+    <Package path="gcgame\cookedpc\characters\chw_01_us.upk" />
+    <Package path="gcgame\cookedpc\characters\chw_02_uk.upk" />
+    <Package path="gcgame\cookedpc\characters\chw_headgear.upk" />
+    <Package path="gcgame\cookedpc\characters\chw_nis.upk" />
+    <Package path="gcgame\cookedpc\characters\chw_roles.upk" />
+    <Package path="gcgame\cookedpc\collision\pm_damagetables.upk" />
+    <Package path="gcgame\cookedpc\collision\pm_library.upk" />
+    <Package path="gcgame\cookedpc\core.u" />
+    <Package path="gcgame\cookedpc\debug\debug.upk" />
+    <Package path="gcgame\cookedpc\decals\dec_dynamic.upk" />
+    <Package path="gcgame\cookedpc\defaultuiskin.upk" />
+    <Package path="gcgame\cookedpc\destructibles\wall\dest_wall.upk" />
+    <Package path="gcgame\cookedpc\dlc\dlc_statics.upk" />
+    <Package path="gcgame\cookedpc\dlc\dlc01_loadscreens_deu.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_DLCDefault" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc01_loadscreens_fra.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_DLCDefault" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc01_loadscreens_ita.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_DLCDefault" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc01_loadscreens_spa.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="T_DLCDefault" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc01_loadscreens.upk" />
+    <Package path="gcgame\cookedpc\dlc\dlc03_loadscreens_deu.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FFOW_Hindsight_Loadscreen" suffix="1" />
+        <Object id="FFOW_Infiltration_Loadscreen" suffix="1" />
+        <Object id="FFOW_Sunder_Loadscreen" suffix="1" />
+        <Object id="FFOW_WideAwake_Loadscreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc03_loadscreens_fra.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FFOW_Hindsight_Loadscreen" suffix="2" />
+        <Object id="FFOW_Infiltration_Loadscreen" suffix="2" />
+        <Object id="FFOW_Sunder_Loadscreen" suffix="2" />
+        <Object id="FFOW_WideAwake_Loadscreen" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc03_loadscreens_ita.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FFOW_Hindsight_Loadscreen" suffix="3" />
+        <Object id="FFOW_Infiltration_Loadscreen" suffix="3" />
+        <Object id="FFOW_Sunder_Loadscreen" suffix="3" />
+        <Object id="FFOW_WideAwake_Loadscreen" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc03_loadscreens_spa.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="FFOW_Hindsight_Loadscreen" suffix="4" />
+        <Object id="FFOW_Infiltration_Loadscreen" suffix="4" />
+        <Object id="FFOW_Sunder_Loadscreen" suffix="4" />
+        <Object id="FFOW_WideAwake_Loadscreen" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\dlc\dlc03_loadscreens.upk" />
+    <Package path="gcgame\cookedpc\dlc\vhr_jep_lightarmor_rocket.upk" />
+    <Package path="gcgame\cookedpc\dlc\vhr_jet_bomber.upk" />
+    <Package path="gcgame\cookedpc\dlc\vhw_jep_lightarmor_rocket.upk" />
+    <Package path="gcgame\cookedpc\dlc\vhw_jet_bomber.upk" />
+    <Package path="gcgame\cookedpc\dlc\wpc_aaw_rocketlauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\dlc\wpc_aaw_rocketlauncher.upk" />
+    <Package path="gcgame\cookedpc\dlc\wpw_rif_autoshotgun_1p.upk" />
+    <Package path="gcgame\cookedpc\dlc\wpw_rif_autoshotgun.upk" />
+    <Package path="gcgame\cookedpc\editor.u" />
+    <Package path="gcgame\cookedpc\editor\gceditorresources.upk" />
+    <Package path="gcgame\cookedpc\editormaterials.upk" />
+    <Package path="gcgame\cookedpc\editormeshes.upk" />
+    <Package path="gcgame\cookedpc\editorresources.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_decals.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_environment.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_explosions.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_impact.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_lighting.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_liquid.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_nis.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_nuketemp.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_vehicles.upk" />
+    <Package path="gcgame\cookedpc\effects\fx_weapons.upk" />
+    <Package path="gcgame\cookedpc\engine.u" />
+    <Package path="gcgame\cookedpc\enginefonts.upk" />
+    <Package path="gcgame\cookedpc\enginematerials.upk" />
+    <Package path="gcgame\cookedpc\engineresources.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Bad" suffix="1" />
+        <Object id="UnrealEdIcon_Prefab" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\game\gcweapontables.upk" />
+    <Package path="gcgame\cookedpc\gameframework.u" />
+    <Package path="gcgame\cookedpc\gcbasegame.u" />
+    <Package path="gcgame\cookedpc\gcengineeditorresources.upk" />
+    <Package path="gcgame\cookedpc\gcgame.u" />
+    <Package path="gcgame\cookedpc\gcgamecontent.u" />
+    <Package path="gcgame\cookedpc\gcgamelobby.u" />
+    <Package path="gcgame\cookedpc\globalcookedbulkdatainfos.upk" />
+    <Package path="gcgame\cookedpc\ipdrv.u" />
+    <Package path="gcgame\cookedpc\localshadercache-pc-d3d-sm2.upk" />
+    <Package path="gcgame\cookedpc\localshadercache-pc-d3d-sm3.upk" />
+    <Package path="gcgame\cookedpc\maps\gcgameentry.map" />
+    <Package path="gcgame\cookedpc\maps\gcgametransition.map" />
+    <Package path="gcgame\cookedpc\maps\leveldesigntools.upk" />
+    <Package path="gcgame\cookedpc\maps\mp\burningcity\burningcity_package.upk" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\fl-gnaw.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\gnaw\gnaw.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\fl-invasion.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_art_hidden.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_no_collision.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="2" />
+        <Object id="frontline0" suffix="1" />
+        <Object id="frontline1" suffix="1" />
+        <Object id="frontline2" suffix="1" />
+        <Object id="frontline3" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\invasion\invasion.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\fl-mountaintop.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="3" />
+        <Object id="frontline0" suffix="2" />
+        <Object id="frontline1" suffix="2" />
+        <Object id="frontline2" suffix="2" />
+        <Object id="frontline3" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\mountaintop\mountaintop.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\fl-oilfield.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="4" />
+        <Object id="FrontLine_0" suffix="1" />
+        <Object id="FrontLine_1" suffix="1" />
+        <Object id="FrontLine_2" suffix="1" />
+        <Object id="FrontLine_3" suffix="1" />
+        <Object id="FrontLine_4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\oilfield\oilfield.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\base_hill.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\base_mid_small.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\base_west.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard_reverb.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard_terrain.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\boneyard.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="5" />
+        <Object id="frontline0" suffix="3" />
+        <Object id="frontline1" suffix="3" />
+        <Object id="frontline2" suffix="3" />
+        <Object id="frontline3" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\fl-boneyard.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\hidden.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\pipe_bridge.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\rocket_small.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\rocket.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\boneyard\trench.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-boneyard\cq-boneyard.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-gnaw\cq-gnaw.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-hindsight\cq-hindsight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-infiltration\cq-infiltration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-invasion\cq-invasion.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-mountaintop\cq-mountaintop.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-oilfield\cq-oilfield.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-roundabout\cq-roundabout.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-solarfarm\cq-solarfarm.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-street\cq-street.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-sunder\cq-sunder.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-village\cq-village.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\cq\cq-wideawake\cq-wideawake.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\fl-hindsight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_ld_art.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_ld_gameplay.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_nairstrip.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_nbridges.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_nheli.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="6" />
+        <Object id="frontline0" suffix="4" />
+        <Object id="frontline1" suffix="4" />
+        <Object id="frontline2" suffix="4" />
+        <Object id="frontline3" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_removal.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_rocks.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_rsbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_rsheli.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_rssupply.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_terrain.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_wcbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_wccom.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight_wchanger.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\hindsight\hindsight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\fl-infiltration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\infiltration.upk" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\infiltration\stream_n6mp_bsplower.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\fl-sunder.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_bigcranebase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_dockbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_militarybase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_oiltankbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_optimizations.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_outskirts.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_pipes.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_reverb.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_rsmainbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_terrain.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_train.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder_wcmainbase.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\sunder\sunder.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="7" />
+        <Object id="frontline0" suffix="5" />
+        <Object id="frontline1" suffix="5" />
+        <Object id="frontline2" suffix="5" />
+        <Object id="frontline3" suffix="5" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\fl-wideawake.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_bsp.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_forrest_n.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_forrest_s.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_rs_e.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_rs_ne.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_rs_nw.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_rs_tunnel.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_rs_w.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_terrain.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_wc_e.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_wc_w.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_wcbasese.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake_wcbasesw.map" />
+    <Package path="gcgame\cookedpc\maps\mp\postrelease\wideawake\wideawake.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="8" />
+        <Object id="frontline0" suffix="6" />
+        <Object id="frontline1" suffix="6" />
+        <Object id="frontline2" suffix="6" />
+        <Object id="frontline3" suffix="6" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\fl-roundabout.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="9" />
+        <Object id="frontline0" suffix="7" />
+        <Object id="frontline1" suffix="7" />
+        <Object id="frontline2" suffix="7" />
+        <Object id="frontline3" suffix="7" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\roundabout\roundabout.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="10" />
+        <Object id="FrontLine_0" suffix="2" />
+        <Object id="FrontLine_1" suffix="2" />
+        <Object id="FrontLine_2" suffix="2" />
+        <Object id="FrontLine_3" suffix="2" />
+        <Object id="FrontLine_4" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\fl-solarfarm.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_clouds.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_content.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\solarfarm\solarfarm_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\fl-street.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\sp-street.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="11" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\street\street_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\street\street.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\fl-village.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\mp_village.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="12" />
+        <Object id="frontline0" suffix="8" />
+        <Object id="frontline1" suffix="8" />
+        <Object id="frontline2" suffix="8" />
+        <Object id="frontline3" suffix="8" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\sp-village.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_art_extra.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_audio.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_fx.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_integration.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\mp\village\village.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\n1_fx.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\n1_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="13" />
+        <Object id="FrontLine_0" suffix="3" />
+        <Object id="FrontLine_1" suffix="3" />
+        <Object id="FrontLine_2" suffix="3" />
+        <Object id="FrontLine_3" suffix="3" />
+        <Object id="FrontLine_4" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp1\n1_skyterrain.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1_nis1a2.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1a.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\sp-n1b.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_frontline1.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_industrialbase1.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_aa_approach.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_armory_exterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_armory1interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_armory2interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_audio01.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_audio02.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_audio03.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_audio04.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_audio05.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound01.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound02.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound03.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound04.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound05.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsound06.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_backsoundtower.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_crashsite.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_electric_plaza.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_guardtowerinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_industrialbase2.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_motorpool_approach.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_motorpool_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_motorpool_right.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_near_aa.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_pit_crashsite.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_rebarrack.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_refinery_back_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_refinery2.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_startui.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_storage_front.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_storage_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_storage.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_town_armory_right.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_town_center.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_town_large.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_town_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_town_right.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_training_area.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_wcbase_center.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_wcbase_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1_wcbase_right.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1a_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_n1b_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_refinery1.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_refinery3.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_towerbase1.map" />
+    <Package path="gcgame\cookedpc\maps\sp1\stream_wcbase1.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_dropoff.upk" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_fx.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_music_fr1.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_music_fr2.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_music_fr3.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_music_fr4.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\n2_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="14" />
+        <Object id="frontline0" suffix="9" />
+        <Object id="frontline1" suffix="9" />
+        <Object id="frontline2" suffix="9" />
+        <Object id="frontline3" suffix="9" />
+        <Object id="frontline4" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_additionambientaudio.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2a.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_additionambientaudio.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\sp-n2b.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_commtrailer.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_dropoff.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_frontline01.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_persistent.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_village.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2_villageoutskirts.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2a_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp2\stream_n2b_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_fx_a.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_fx_b.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_fx.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_music_fr1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_music_fr2.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_music_fr3.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_music_fr5.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_music_fr6.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\n3_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="15" />
+        <Object id="frontline0" suffix="10" />
+        <Object id="frontline1" suffix="10" />
+        <Object id="frontline2" suffix="10" />
+        <Object id="frontline3" suffix="10" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp3\nis_sp-n3a_deploy.upk" />
+    <Package path="gcgame\cookedpc\maps\sp3\persistent_sky1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_ambient_audio.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3_nis_deploy.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3a.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\sp-n3b.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_basin1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_commbldg1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_entryroad.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_fabinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_midbase_back.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_midbase_farside.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_midbase_island.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_midbase1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_n3_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_n3_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_n3_unloadedblockers.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_persistentintegration.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_systemsintinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankdrop.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tankfactory1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_backarea.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_backexit.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_center.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_frontgate.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_reargate.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_reargaterear.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_reargatetankbays.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_tankbays.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_trainentrance.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_walls_b.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_tf_walls.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_backroad.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_bridgeentrance.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_center.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_distant.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_eastammodump.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_frontgate.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_leftfrontshacks.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_parkinglot.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_schoolinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_walls.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town_westammodump.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_town2.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_townback1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_trainevent1.map" />
+    <Package path="gcgame\cookedpc\maps\sp3\stream_wcstart1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\n4_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="16" />
+        <Object id="frontline0" suffix="11" />
+        <Object id="frontline1" suffix="11" />
+        <Object id="frontline2" suffix="11" />
+        <Object id="frontline3" suffix="11" />
+        <Object id="frontline4" suffix="2" />
+        <Object id="frontline5" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp4\nis_sp-n4a.upk" />
+    <Package path="gcgame\cookedpc\maps\sp4\nis_sp-n4b.upk" />
+    <Package path="gcgame\cookedpc\maps\sp4\nis4a_streaming.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\nis4b_streaming.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4a.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\sp-n4b.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_artbasics.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_artillery1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_artillery2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_artillery3.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_artillery4.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_c1bridge.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_cosbasics.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_cosmodrome0.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_cosmodrome1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_cosmodrome2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_graveyard.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_graveyard2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music01.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music02.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music03.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music04.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music05.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music06.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_music07.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_nisnuke.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_nuke_post_revert.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_nuke_postprocess.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_nuke1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_nuke2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rocket1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rocket2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_rockettowers.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_saltflats1.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_saltflats2.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_saltflats3.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4_subpersistent.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4a_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp4\stream_n4b_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\n6_fx.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\n6_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="17" />
+        <Object id="frontline0" suffix="12" />
+        <Object id="frontline1" suffix="12" />
+        <Object id="frontline2" suffix="12" />
+        <Object id="frontline3" suffix="12" />
+        <Object id="frontline4" suffix="3" />
+        <Object id="frontline5" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp6\n6_package2.upk" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis_sp-n6a.upk" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis_sp-n6b.upk" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis6_brokenwall.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis6_wall.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis6a_streaming.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\nis6b_streaming.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6_exterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6_lowercenterhallway.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6_streaminglighting.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6_warehouseinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6a.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp-n6b.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\sp6_ambientaudio.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_armory.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_coalitioncopterstart.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_commbunker.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_final_blocker.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_forwardcommandpost.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_leftaaplatform.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_listeningpost.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_motorpool.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_airlock.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_basin.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_bsplower.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_bspupper.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_entrancetunnel.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_hallwayleft.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_hallwayright.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_interiorcenter.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_interiorcentermiddle.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_interiorleft.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_interiorright.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_interiorrightback.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_launchcontrol.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_leftstairwell.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_middletowers.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music01.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music02.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music03.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music04.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music05.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_music06.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_rightaaplatform.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_rightstairwell.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_serverroom.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6_silo.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_n6a_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_powerstation.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_righttankchoke.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower1_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower3_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower5_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower6_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower7_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower8_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_tower9_interior.map" />
+    <Package path="gcgame\cookedpc\maps\sp6\stream_towerdestroy.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_audio.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_final_lside.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_final_obj_inner.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_final_rside.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_fx.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_integration.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_integration2.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_nisa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_nisb.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="18" />
+        <Object id="frontline0" suffix="13" />
+        <Object id="frontline1" suffix="13" />
+        <Object id="frontline2" suffix="13" />
+        <Object id="frontline3" suffix="13" />
+        <Object id="frontline4" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp7\n7_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\n7_skyobjects.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\nis_sp-n7a.upk" />
+    <Package path="gcgame\cookedpc\maps\sp7\nis_sp-n7b.upk" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7_fl80_tower.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7a.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\sp-n7b.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_centown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_downtown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_east.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_eurobuildings.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_f70_ltown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_f90_hill.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70_activec.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70_lback.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70_rback.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70_rmid.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70_rtown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl70vo.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80_leftbridge.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80_ltown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80_rightbridge.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80_rutown.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl80vo.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl90_bl.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl90_br.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl90_fort.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl90_start.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_fl90.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_hqexterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_hqinterior.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music01.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music02.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music03.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music04.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music05.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_music06.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_north.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_northa.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_south.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_terrain1.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_towbig.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_townhill.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7_west.map" />
+    <Package path="gcgame\cookedpc\maps\sp7\stream_n7b_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\n8_package.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="basemap" suffix="19" />
+        <Object id="frontline0" suffix="14" />
+        <Object id="frontline1" suffix="14" />
+        <Object id="frontline2" suffix="14" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\maps\sp8\nis_sp-n8a.upk" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8_ambientaudio.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8_skylight.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8a.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\sp-n8b.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_mindefss.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_mininf_lower.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_canal.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_canalalleys.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_canalsouth.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centavenn.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centavens.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centaves2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centralavemid.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centralavenorth.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_centralavesouth.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_citycrossst.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_counterattack.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_crashsite.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_distantbuildings.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgent2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgentrance.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgfar.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbrdgstreet.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbridge.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbridgeshacks.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastbridgesw.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastparking.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_eastparking2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl0.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8middle.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_fl8miliplaza2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_intro.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_killplaza.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_killplaza2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbrdgentrance.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge3.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridge4.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_midbridgefar.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_miliplazafar.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindef_low2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindef_lower.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindef_upper.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefint.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefmilinw.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefmiliplaza.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefmilisw.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefplaza.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefplazane.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefplazanw.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefs2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefse.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefsidealley.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mindefsouth.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininf_roof.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininf_salley.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfappr2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfapproach.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininflow3.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter_loc_deu.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter_loc_fra.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter_loc_int.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter_loc_ita.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter_loc_spa.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfouter2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfsouth.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfsouth2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_mininfstairs.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_ministerofdef.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_minofdefense.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_minofinformation.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music01.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music02.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music03.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music04.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music05.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music06.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music07.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music08.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_music09.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_notmindef.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_outro.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_plazaoutline.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_wcstart_left.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_wcstart_r2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_wcstart_right.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_wcstart.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8_wcstart2.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8a_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8b_carpet.map" />
+    <Package path="gcgame\cookedpc\maps\sp8\stream_n8b_painvols.map" />
+    <Package path="gcgame\cookedpc\maps\st_ge_credits.map" />
+    <Package path="gcgame\cookedpc\maps\st_ge_glossary.map" />
+    <Package path="gcgame\cookedpc\materials\env_decals.upk" />
+    <Package path="gcgame\cookedpc\materials\env_reflections.upk" />
+    <Package path="gcgame\cookedpc\materials\gcgamematerials.upk" />
+    <Package path="gcgame\cookedpc\nis\nis_sp-n1a.upk" />
+    <Package path="gcgame\cookedpc\nis\nis_sp-n1b.upk" />
+    <Package path="gcgame\cookedpc\nis\nis_sp-n3c.upk" />
+    <Package path="gcgame\cookedpc\nodebuddies.upk" />
+    <Package path="gcgame\cookedpc\onlinesubsystemlive.u" />
+    <Package path="gcgame\cookedpc\refshadercache-pc-d3d-sm2.upk" />
+    <Package path="gcgame\cookedpc\refshadercache-pc-d3d-sm3.upk" />
+    <Package path="gcgame\cookedpc\startup_deu.upk" />
+    <Package path="gcgame\cookedpc\startup_fra.upk" />
+    <Package path="gcgame\cookedpc\startup_int.upk" />
+    <Package path="gcgame\cookedpc\startup_ita.upk" />
+    <Package path="gcgame\cookedpc\startup_spa.upk" />
+    <Package path="gcgame\cookedpc\statics\animprefab.upk" />
+    <Package path="gcgame\cookedpc\statics\glo.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="eyePiece" suffix="1" />
+        <Object id="Square" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\mil_coalition.upk" />
+    <Package path="gcgame\cookedpc\statics\mil_redstar.upk" />
+    <Package path="gcgame\cookedpc\statics\sta\eua_mudhuts.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Tarp" suffix="1" />
+        <Object id="White" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sta\eua_town.upk" />
+    <Package path="gcgame\cookedpc\statics\sta\ind_factory.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="tankfactoryMetalgrate01_c" suffix="1" />
+        <Object id="WCMMilitarytower_C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sta\ind_oiltown.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="modfactorymetal01_c" suffix="1" />
+        <Object id="prefabModelectrical" suffix="1" />
+        <Object id="prefabModmetal03" suffix="1" />
+        <Object id="solarPanelroof_c" suffix="1" />
+        <Object id="warehouseSiding04_c" suffix="1" />
+        <Object id="warehouseSiding13_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sta\ind_refineries.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="IND_pipesLarge8" suffix="1" />
+        <Object id="Roof" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sta\ind_towers_comm.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="smokeStackConcrete_C" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sta\ind_towers_water.upk" />
+    <Package path="gcgame\cookedpc\statics\sta\ind_trainstructures.upk" />
+    <Package path="gcgame\cookedpc\statics\sta\rus_city.upk" />
+    <Package path="gcgame\cookedpc\statics\stn\fol_arid.upk" />
+    <Package path="gcgame\cookedpc\statics\stn\fol_civilization.upk" />
+    <Package path="gcgame\cookedpc\statics\stn\fol_temperate.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="largeRock1" suffix="1" />
+        <Object id="largeRock3" suffix="1" />
+        <Object id="RootAlpha" suffix="1" />
+        <Object id="Temperate_Rock" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\stn\stn_roads.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="oilfieldRoad" suffix="1" />
+        <Object id="oilfieldRoad_corner" suffix="1" />
+        <Object id="oilfieldRoad_corner_N" suffix="1" />
+        <Object id="oilfieldRoad_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\stn\stn_sky_hemi.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="hemisphere_sky\giantstorm2" suffix="1" />
+        <Object id="hemisphere_sky\N-6sky" suffix="1" />
+        <Object id="hemisphere_sky\newoilfield" suffix="1" />
+        <Object id="hemisphere_sky\newsunset" suffix="1" />
+        <Object id="hemisphere_sky\overcastdawn" suffix="1" />
+        <Object id="hemisphere_sky\overcaststormy" suffix="1" />
+        <Object id="hemisphere_sky\sunrisebigcloud2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\stn\stn_sky.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="barcode" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\stn\stn_skyterrain.upk" />
+    <Package path="gcgame\cookedpc\statics\stn\stn_terraindetails.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\glo_electricaldecor.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="satelliteDish_02_C" suffix="1" />
+        <Object id="smallFloodLight_c" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sto\glo_fences.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="concertinaWire" suffix="1" />
+        <Object id="n3_grass2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\sto\glo_furniture.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\glo_signs.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\glo_streetdecor.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\glo_vehicles.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\ind_cranes.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\ind_decor.upk" />
+    <Package path="gcgame\cookedpc\statics\sto\ind_pipes.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="IND_pipes" suffix="1" />
+        <Object id="IND_pipesLarge3" suffix="1" />
+        <Object id="IND_pipesLarge8" suffix="2" />
+        <Object id="pipes10" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\statics\supplydepots.upk" />
+    <Package path="gcgame\cookedpc\statics\wc1_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\wc2_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\wc3_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\wc4_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\wc6_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\wc8_statics.upk" />
+    <Package path="gcgame\cookedpc\statics\weaponpickups.upk" />
+    <Package path="gcgame\cookedpc\ui\gcuiskin.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_changedetails.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_chatfonts_chi.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_chatfonts_jpn.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_cinematic.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_common.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_creditplates.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_extras.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_flow.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_fonts.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_frontend.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_frontendasync.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="UITextures\Level_Select_DLC" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_genericpopups.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_factions.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_loadouts.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_roles.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_timeline.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_vehicle.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary_weapons.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_glossary.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_hostgame.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_hud_textures.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Grid" suffix="1" />
+        <Object id="Line" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_hud.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_ingamemenus.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_joingame_filters.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_joingame_version2.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_joingame.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_leaderboards_details.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_loadscreens_deu.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="1" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="1" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="1" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_loadscreens_fra.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="2" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="2" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="2" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="2" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_loadscreens_ita.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="3" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="3" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="3" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="3" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_loadscreens_spa.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="DefaultLoadScreen" suffix="4" />
+        <Object id="Multiplayer_Gnaw_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Invasion_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Mountaintop_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Oilfield_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Roundabout_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Solarfarm_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Street_Loadscreen" suffix="4" />
+        <Object id="Multiplayer_Village_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_Anvil_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_Anvil2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_CaptainsOfIndustry2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_DarknessFalls_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_DarknessFalls2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_Graveyard_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_Graveyard2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_HistoryRepeats_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_HistoryRepeats2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_LivingQuarter_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_LivingQuarter2_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_MountainKing_Loadscreen" suffix="4" />
+        <Object id="SinglePlayerMap_MountainKing2_Loadscreen" suffix="4" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_loadscreens.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_login.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_mapdetails.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_mapoptions.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_minimap.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_minimapuncapturable.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Objective_ring2" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_movietextures.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_multiplayer.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_n1a_cinematic.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_onlineleaderboards.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Rank_Captain" suffix="1" />
+        <Object id="Textures\Rank_Colonel" suffix="1" />
+        <Object id="Textures\Rank_Corporal" suffix="1" />
+        <Object id="Textures\Rank_Major" suffix="1" />
+        <Object id="Textures\Rank_Private" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\ui\ui_options.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pause.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_anvil.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_captains.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_darkness.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_graveyard.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_history.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_livingq.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_pausepics_mountain.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_ps3buttons.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_quickmatch_filters.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_quickmatch.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_retailermaps.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_squad.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_vehiclehuds.upk" />
+    <Package path="gcgame\cookedpc\ui\ui_weaponhuds.upk" />
+    <Package path="gcgame\cookedpc\unrealed.u" />
+    <Package path="gcgame\cookedpc\unrealscripttest.u" />
+    <Package path="gcgame\cookedpc\vehicles\vh_common.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vh_parachute.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhc_bus_militia.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhc_car_police.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhc_suv_rover.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhc_trk_heavy.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhc_trk_light.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_apc_mediumarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_dep_empdevice.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_dep_minigun.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_dep_rcdroneheli_assault.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_dep_rcdroneheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_dep_sentrygun.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_hel_attackheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_hel_medheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_jep_lightarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_jet_fighter.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_mnt_stationaryaa.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_tnk_antiair.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_tnk_artillery.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_tnk_heavyarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhr_uav_dronebomber.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_apc_antiair.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_apc_mediumarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_dep_empdevice.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_dep_grenadelauncher.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_dep_railgun.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_dep_rcdroneassault.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_dep_rcdronemortar.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_hel_attackheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_hel_gunship.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_hel_medheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_hel_transportheli.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_jep_lightarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_jet_fighter.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_tnk_heavyarmor.upk" />
+    <Package path="gcgame\cookedpc\vehicles\vhw_uav_dronebomber.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpc_exp_democharge_1p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\Timer" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpc_exp_democharge.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_atw_rocketlauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_atw_rocketlauncher.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_empdevice_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_empdevice.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_C" suffix="1" />
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_E" suffix="1" />
+        <Object id="Textures\TX_WPR_DEP_EmpDevice_1p_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_minigun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_minigun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdronecar_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdronecar.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdroneheli_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdroneheli_assault_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdroneheli_assault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcdroneheli.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcremote_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_rcremote.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_sentrygun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_sentrygun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_stand_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_dep_stand.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_emp_grenade_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_emp_rocketlauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_emp_rocketlauncher.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_c4_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_c4.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_grenade_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_grenade.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_landmine_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_landmine.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_exp_proxymine_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_hmg_assault_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_hmg_assault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_mnt_stationarymg_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_mnt_stationarymg.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_pis_handgun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_pis_handgun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_assault_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_assault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_shotgun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_shotgun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_smg_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_smg.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_sniper_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_rif_sniper.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_sup_airstriketarget.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_sup_torch_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpr_sup_torch.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_atw_rocketlauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_atw_rocketlauncher.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_empdevice_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_empdevice.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_DEP_EmpDevice_1p_E" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_grenadelauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_grenadelauncher.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_railgun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_railgun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdroneassault_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdroneassault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdroneheli_1p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_DEP_RCDroneHeli_Blades" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdroneheli.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdronemortar_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcdronemortar.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcremote_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_rcremote.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_stand_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_dep_stand.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_emp_grenade_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_emp_rocketlauncher_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_emp_rocketlauncher.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_c4_1p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_EXP_C4_C" suffix="1" />
+        <Object id="Textures\TX_WPW_EXP_C4_S" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_c4.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_grenade_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_grenade.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_landmine_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_landmine.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_proxymine_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_exp_proxymine.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_hmg_assault_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_hmg_assault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_mnt_stationarymg_1p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="Textures\TX_WPW_MNT_stationryMG_1p_C" suffix="1" />
+        <Object id="Textures\TX_WPW_MNT_stationryMG_1p_N" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpw_mnt_stationarymg.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_pis_handgun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_pis_handgun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_assault_1p.upk">
+      <Objects yaxlib:realtype="UPK.Utils.GameProfiles.IdRemappings.ObjectRemapping[]">
+        <Object id="GlassCube" suffix="1" />
+      </Objects>
+    </Package>
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_assault.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_shotgun_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_shotgun.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_smg_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_smg.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_sniper_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_rif_sniper.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_sup_airstriketarget_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_sup_airstriketarget.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_sup_revive_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_sup_torch_1p.upk" />
+    <Package path="gcgame\cookedpc\weapons\wpw_sup_torch.upk" />
+  </Packages>
+</IdRemapping>

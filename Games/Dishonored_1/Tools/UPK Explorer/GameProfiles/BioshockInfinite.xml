@@ -1,0 +1,22 @@
+﻿<Game packageFileVersion="727" packageLicenseeVersion="75" TFCMappingFileName="Bioshock Infinite" packageRecompression="Partial" deleteUCSFiles="True" TOCFilePath="XGame\PCConsoleTOC_FR.txt" xmlns:yaxlib="http://www.sinairv.com/yaxlib/">
+	<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+		<PackageFolder path="XGame\CookedPCConsole_FR" customTFCStartIndex="0" />
+	</PackageFolders>
+	<DLCs yaxlib:realtype="UPK.Utils.GameProfiles.DLC[]">
+		<DLC displayName="Clash in the Clouds" TFCMappingFileName="DLCA">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\DLCA\*" TFCpath="DLC\DLCA\CookedPCConsole_FR" customTFCpath="XGame\CookedPCConsole_FR" customTFCStartIndex="5000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Burial At Sea 1" TFCMappingFileName="DLCB">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\DLCB\*" TFCpath="DLC\DLCB\CookedPCConsole_FR" customTFCpath="XGame\CookedPCConsole_FR" customTFCStartIndex="6000" />
+			</PackageFolders>
+		</DLC>
+			<DLC displayName="Burial At Sea 2" TFCMappingFileName="DLCC">
+			<PackageFolders yaxlib:realtype="UPK.Utils.GameProfiles.PackageFolder[]">
+				<PackageFolder path="DLC\DLCC\*" TFCpath="DLC\DLCC\CookedPCConsole_FR" customTFCpath="XGame\CookedPCConsole_FR" customTFCStartIndex="7000" />
+			</PackageFolders>
+		</DLC>
+	</DLCs>
+</Game>
