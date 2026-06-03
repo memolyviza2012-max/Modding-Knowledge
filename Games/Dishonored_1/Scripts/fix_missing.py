@@ -3,7 +3,7 @@ import os, sys, time, threading
 import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
-GEMINI_API_KEY = "AIzaSyD_Py1DrYEWkJYxzqggGZel_DvtcKDDZtU"
+GEMINI_API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 
 BATCH_SIZE = 10

@@ -34,7 +34,7 @@ TH_DIR = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\Localization\TH'
 REPORT_PATH = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\translate_corrupt_report.txt'
 
 # API Key from MEMORY
-GEMINI_API_KEY = "AIzaSyDR_4LQTf__v1-8WKLbs42fYQjcT6Ibx7o"
+GEMINI_API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 
 BATCH_SIZE = 80

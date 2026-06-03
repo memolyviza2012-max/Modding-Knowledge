@@ -6,7 +6,7 @@ import json
 
 TH_DIR = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\Localization\TH'
 INT_DIR = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\Localization\INT'
-API_KEY = 'AIzaSyCyW-M_-dyfOEeDevVpZLQnIFfD99efyOw'
+API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 
 PARTIAL_FILES = [
     'AudioGraph_Twk.int',

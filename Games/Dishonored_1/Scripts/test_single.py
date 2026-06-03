@@ -12,7 +12,7 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 warnings.filterwarnings("ignore")
 
-GEMINI_API_KEY = "AIzaSyCyW-M_-dyfOEeDevVpZLQnIFfD99efyOw"
+GEMINI_API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 
 INT_PATH = r"D:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\CookedPCConsole\L_Distillery_Ext_Script\L_Distillery_Ext_Script_INT.yaml"

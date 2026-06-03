@@ -6,7 +6,7 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 warnings.filterwarnings("ignore")
 
-GEMINI_API_KEY = "AIzaSyCyW-M_-dyfOEeDevVpZLQnIFfD99efyOw"
+GEMINI_API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 genai.configure(api_key=GEMINI_API_KEY)
 
 TEST_FILE = r"D:\Mod_Workspace\Dishonored_Mod_Workspace\02_translated\Localization\INT\DLC07_Blueprints_twk.int"

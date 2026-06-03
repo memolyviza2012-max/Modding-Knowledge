@@ -3,7 +3,7 @@ import os, urllib.request, json, time
 
 TH_DIR = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\Localization\TH'
 INT_DIR = r'E:\Mod_Workspace\Dishonored_Mod_Workspace\03_working\Localization\INT'
-API_KEY = 'AIzaSyDR_4LQTf__v1-8WKLbs42fYQjcT6Ibx7o'
+API_KEY = __import__("os").environ.get("GEMINI_API_KEY", "")
 
 FILES = {
     'AudioGraph_Twk.int': 9,
