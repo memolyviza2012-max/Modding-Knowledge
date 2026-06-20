@@ -1,31 +1,43 @@
-# Modding Knowledge Base
-Welcome to my personal modding knowledge base. This repository is categorized into Engine-specific research and General Modding Techniques.
+# 🧠 Modding Knowledge Base (ศูนย์รวมคัมภีร์การทำ Mod)
 
-## Directory Structure
+ยินดีต้อนรับสู่ **Modding Knowledge Base** คลังความรู้ส่วนตัวที่รวบรวมเทคนิค งานวิจัย สคริปต์ และ "คัมภีร์" (Bibles) สำหรับการทำ Mod เกม โดยเฉพาะอย่างยิ่ง **การทำ Mod แปลภาษาไทย (Thai Localization)** และการดัดแปลงกลไกการทำงานของเอนจินเกมต่างๆ
 
-### 🎮 Engines (Engine-Specific Knowledge)
-
-#### Frostbite Engine
-- **[Mass Effect: Andromeda](Engines/Frostbite/MassEffectAndromeda/)**
-  - [Thai Localization Guide](Engines/Frostbite/MassEffectAndromeda/MEA_Thai_Localization_Guide.md) - Comprehensive guide on Glyph Swapping, ZWSP Word-Wrap, and Binary `.res` encoding to bypass engine limitations.
-  - [Localization Scripts](Engines/Frostbite/MassEffectAndromeda/Scripts/) - Python tools for encoding/decoding `.res` files, TTF font swapping, and modifying glyph Y-axis.
-
-- **[Dead Space Remake](Engines/Frostbite/DeadSpaceRemake/)**
-  - [Font Replacement Strategy](Engines/Frostbite/DeadSpaceRemake/Font_Replacement_Strategy.md) - Techniques for replacing and injecting custom fonts.
+โปรเจกต์นี้ถูกออกแบบมาให้เป็น **"สมองกลส่วนกลาง"** ที่ไม่ได้อัปเดตโดยมนุษย์เพียงอย่างเดียว แต่ทำงานร่วมกับ **AI Assistant** อย่างใกล้ชิด เมื่อใดก็ตามที่เราค้นพบเทคนิคใหม่ สามารถแคร็กไฟล์เกมได้ หรือสร้างเครื่องมือใหม่ๆ ขึ้นมาในโปรเจกต์ใดก็ตาม AI จะทำการบันทึก สรุปผล และส่งความรู้นั้น (Knowledge Item - KI) กลับมาเก็บไว้ที่ Repository แห่งนี้โดยอัตโนมัติ เพื่อให้เป็นรากฐานความรู้ที่สามารถนำไปประยุกต์ใช้กับเกมอื่นๆ ในอนาคตได้ทันที
 
 ---
 
-### 🛠️ Techniques (General Modding Techniques)
+## 📂 โครงสร้างการจัดเก็บข้อมูล (Directory Structure)
 
-#### [Hooking and Proxy](Techniques/Hooking_and_Proxy/)
-- **Proxy DLL Template**: Boilerplate code for creating proxy DLLs (like `dxgi.dll` or `dinput8.dll`) to load custom code into a game process.
-- **MinHook Blueprint**: Implementations and best practices for using MinHook to intercept and modify game functions.
+ข้อมูลในคลังความรู้นี้ถูกแบ่งออกเป็น 3 หมวดหมู่หลัก เพื่อให้ง่ายต่อการสืบค้นและนำไปใช้งาน:
 
-#### [Memory Scanning](Techniques/Memory_Scanning/)
-- **Pattern Scanner**: Tools and techniques for finding dynamic memory addresses using byte pattern scanning (AOB scanning).
+### 🎮 Games (เจาะลึกเฉพาะเกม)
+รวบรวม "คัมภีร์" และคู่มือการทำ Mod แบบ Step-by-Step ของเกมต่างๆ ที่เคยผ่านการวิจัยมาแล้ว เช่น:
+- **Dead Island 2** - คู่มือการสร้าง Mod ภาษาไทยและระบบจัดการสคริปต์เสียงแบบสมบูรณ์
+- **Dishonored 1** - การจัดการไฟล์และเทคนิคต่างๆ
+- **Dying Light 2** - Modding Wiki
+- **XCOM: Enemy Unknown** - การเจาะระบบฟอนต์ภาษาไทยของ Unreal Engine และขั้นตอนการทำ Mod
+- **Deus Ex: Mankind Divided**, **Marvel's Guardians of the Galaxy**, **Space Hulk: Deathwing** ฯลฯ
 
-#### [Data Parsing](Techniques/Data_Parsing/)
-- **Lightweight JSON Parser**: A minimal C++ JSON parser designed for reading mod configuration files without heavy dependencies.
+### ⚙️ Engines (เจาะลึกระดับเอนจินเกม)
+ความรู้ที่ผูกติดกับตัวเอนจินเกม ซึ่งมักจะสามารถนำไปใช้กับเกมอื่นที่สร้างด้วยเอนจินเดียวกันได้:
+- **Frostbite Engine** 
+  - *Mass Effect: Andromeda* - การสลับโครงสร้างฟอนต์ (Glyph Swapping), การบังคับตัดคำ (ZWSP Word-Wrap) และการแก้ไขไฟล์ `.res` ด้วย Hex/Binary
+  - *Dead Space Remake* - กลยุทธ์การแทนที่และแทรกฟอนต์แบบ Custom
+- **Fledge Engine** (The Surge) - โครงสร้างและแนวทางเฉพาะของเอนจิน Fledge
+- **Unreal Engine** - เทคนิคทางเลือกสำหรับฟอนต์ในเอนจินรุ่นเก่า (Older Font Fallback)
 
-#### [Build and Deployment](Techniques/Build_and_Deployment/)
-- **Deployment Script**: Automated scripts for compiling mods, copying them to the game directory, and launching the game for testing.
+### 🛠️ Techniques (เทคนิคการทำ Mod ทั่วไป)
+รวบรวมเทคนิคและเครื่องมือที่เป็นสากล สามารถนำไปปรับใช้ได้กับแทบทุกเกม:
+- **AI Modding** - แนวทางการเขียน Prompt ขั้นเทพ (Master Prompt Guide) และโปรโตคอลการอัปโหลดความรู้ของ AI
+- **Getting Started** - พื้นฐานสำหรับมือใหม่ เช่น การเริ่มทำ Localization, เครื่องมือที่จำเป็น (Tools of the Trade), พื้นฐานการทำ Font Modding
+- **Hooking and Proxy** - การเขียน Proxy DLL (เช่น `dxgi.dll` หรือ `dinput8.dll`) และการใช้ MinHook เพื่อแทรกแซงการทำงานของเกมในระดับหน่วยความจำ
+- **Memory Scanning** - เครื่องมือค้นหาและจัดการ Address ด้วย AOB (Array of Bytes) Scanning
+- **Data Parsing & Build Automation** - ตัวอ่าน JSON แบบเบา (Lightweight Parser) สำหรับโหลด Config ของ Mod และสคริปต์อัตโนมัติสำหรับการแพ็คและทดสอบ Mod
+
+---
+
+## 🤖 AI Knowledge Syncing
+Repository นี้ทำงานด้วย **Global Rule** ของ AI:
+> "Whenever a new 'Bible', 'Knowledge Item (KI)', or tutorial guide is created or updated... it MUST be automatically copied and organized into this repository."
+
+ด้วยระบบนี้ ฐานข้อมูลที่นี่จะฉลาดขึ้น เติบโตขึ้น และอัปเดตอยู่เสมอตามโปรเจกต์ใหม่ๆ ที่เราได้ทำร่วมกันครับ!
