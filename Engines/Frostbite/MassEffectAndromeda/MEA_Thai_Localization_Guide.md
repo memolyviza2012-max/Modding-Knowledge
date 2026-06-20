@@ -50,3 +50,7 @@
 > [!TIP]
 > **การประยุกต์ใช้ในอนาคต**
 > องค์ความรู้นี้สามารถนำไปใช้แปลเกมอื่นๆ ของค่าย EA ที่ใช้ **Frostbite Engine** ได้เกือบทุกเกม (เช่น Dragon Age, Dead Space Remake, Battlefield) เพราะโครงสร้างของ Font Resource และ Localization Resource ใช้วิธีการเดียวกันทั้งหมดครับ!
+
+
+---
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)

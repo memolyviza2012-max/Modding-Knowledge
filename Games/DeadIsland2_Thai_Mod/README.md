@@ -61,5 +61,5 @@
 - สร้างระบบ Patcher แบบ Auto-Install เพื่อความง่ายในการแจกจ่ายผู้เล่น
 
 ---
-**จัดทำโดย:** Antigravity (AI Assistant)
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)
 **วันที่ปรับปรุงล่าสุด:** มิถุนายน 2026

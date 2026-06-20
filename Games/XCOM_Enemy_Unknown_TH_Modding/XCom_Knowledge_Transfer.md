@@ -29,3 +29,7 @@
 ## 5. การพัฒนา Tooling (Installer & Translator)
 - **การแปล:** ใช้ Python + DeepSeek AI (ผ่าน API) ช่วยแปลไฟล์ .int ซึ่งสามารถแปลข้อความได้เป็นหมื่นบรรทัดในเวลาไม่นาน
 - **การติดตั้ง:** ควรเขียนเป็นโปรแกรม .exe ด้วย Python (Tkinter + PyInstaller) เพื่อให้ตัวติดตั้งสามารถค้นหาที่อยู่เกมใน Registry (Steam) และ Copy ไฟล์ทั้งในโฟลเดอร์เกมและโฟลเดอร์ Documents ได้อัตโนมัติ เพื่อลดภาระของผู้ใช้ (เพราะระบบเกม XCOM ซับซ้อนเกินกว่าจะลงแบบ Manual ได้อย่างแม่นยำ 100%)
+
+
+---
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)

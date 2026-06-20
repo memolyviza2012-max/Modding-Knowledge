@@ -1,61 +1,65 @@
-# 🎮 Dishonored 1 (2012) - Modding & Localization Guide
+# 🎮 Dishonored 1 (2012) - คู่มือการม็อดและแปลภาษา
 
-This repository contains the accumulated knowledge, tools, and scripts required to successfully mod and localize **Dishonored 1 (PC, Steam)**. 
-Dishonored utilizes a highly modified **Unreal Engine 3** framework that presents unique challenges for modders, particularly regarding byte order and UI fonts.
-
----
-
-## 🏗️ 1. Technical Constraints & Engine Specifications
-
-The primary hurdle in modding Dishonored is that its package files (`.upk`) are compiled using a **Big-Endian Byte Order**. Standard UE3 modding tools (which assume Little-Endian architecture) will fail to read or unpack these files correctly.
-
-* **Impact:** Custom Python scripts (like `binary_be.py` and `upkreader_be.py` included in the `Tools` folder) must be used to handle byte-swapping when reading or writing strings to the `.upk` files.
+คลังข้อมูลนี้รวบรวมความรู้ เครื่องมือ และสคริปต์ที่จำเป็นในการม็อดและแปลภาษาเกม **Dishonored 1 (PC, Steam)** ได้อย่างสมบูรณ์
+Dishonored ใช้โครงสร้างของ **Unreal Engine 3** ที่ถูกดัดแปลงมาอย่างหนัก ซึ่งสร้างความท้าทายให้แก่ม็อดเดอร์อย่างมาก โดยเฉพาะในเรื่องของลำดับไบต์ (Byte order) และฟอนต์หน้าจอ UI
 
 ---
 
-## 🔤 2. Localization Structure (Text Injection)
+## 🏗️ 1. ข้อจำกัดทางเทคนิคและข้อมูลจำเพาะของเอนจิน
 
-In-game text, subtitles, and object names are embedded inside `.upk` packages within the `CookedPCConsole` and `DLC` directories.
+อุปสรรคหลักในการม็อดเกม Dishonored คือไฟล์แพ็กเกจ (`.upk`) ของมันถูกคอมไพล์มาด้วยระบบ **Big-Endian Byte Order** ซึ่งทำให้เครื่องมือม็อด UE3 ทั่วไป (ที่ถูกสร้างมาสำหรับระบบ Little-Endian) ไม่สามารถอ่านหรือแตกไฟล์เหล่านี้ได้อย่างถูกต้อง
 
-- **String Format:** The engine expects **UTF-16LE** encoding.
-- **String Length Rule:** In Unreal Engine 3, if a string uses 2 bytes per character (which is required for non-Latin characters like Thai, Russian, or Asian languages), the engine's internal String Length integer **must be a negative number** (e.g., a 10-character string will have a length integer of `-11` to account for the Null Terminator).
-- **Tooling:** The provided `subedit.py` (inside `Tools/dishonored-toolkit`) automatically calculates this negative length and safely writes the binary data back into the UPK.
-
-### ⚠️ Common Issue: "??????" Corrupted Text
-If a text editor saves your extracted `.yaml` translation files in the wrong encoding (e.g., ANSI instead of UTF-8), or if your extraction script encounters unrecognized characters, the game text will render as `?????`.
-* **Fix:** You must replace the corrupted lines with the original English text (or a clean backup) in the `.yaml` file before packing again. Packing a corrupted file will cause the game to crash or render gibberish permanently in that package.
+* **ผลกระทบ:** คุณจำเป็นต้องใช้สคริปต์ Python ที่เขียนขึ้นมาเฉพาะ (เช่น `binary_be.py` และ `upkreader_be.py` ที่อยู่ในโฟลเดอร์ `Tools`) เพื่อจัดการการสลับไบต์ (byte-swapping) เวลาที่คุณจะอ่านหรือเขียนสตริงข้อความกลับเข้าไปในไฟล์ `.upk`
 
 ---
 
-## 🎨 3. UI and Font Modification (Scaleform GFx)
+## 🔤 2. โครงสร้างการแปลภาษา (การฝังข้อความ / Text Injection)
 
-Dishonored uses **Scaleform GFx (Flash/SWF)** to render its menus, UI, and fonts.
-While you can open the `.upk` or `.gfx` files in **JPEXS Free Flash Decompiler** to view the internal `.swf` structure, **you cannot simply click "Save" in JPEXS**. JPEXS does not natively understand the proprietary Big-Endian UE3 container and will throw a saving error.
+ข้อความในเกม ซับไตเติล และชื่อสิ่งของต่างๆ ถูกฝังอยู่ข้างในไฟล์แพ็กเกจ `.upk` ซึ่งอยู่ในโฟลเดอร์ `CookedPCConsole` และ `DLC`
 
-### How to Inject Custom Fonts
-There are two primary methods to inject new TrueType (`.ttf`) fonts into the game:
+- **รูปแบบข้อความ:** เอนจินต้องการข้อความที่ถูกเข้ารหัสแบบ **UTF-16LE**
+- **กฎความยาวข้อความ (String Length Rule):** ใน Unreal Engine 3 หากข้อความใช้ 2 ไบต์ต่อ 1 ตัวอักษร (ซึ่งเป็นภาคบังคับสำหรับอักษรที่ไม่ใช่ละติน เช่น ไทย รัสเซีย หรือภาษาเอเชีย) ตัวเลขบอกความยาวอักษรที่อยู่ในเอนจิน **ต้องเป็นตัวเลขติดลบ** (เช่น ข้อความความยาว 10 ตัวอักษร จะต้องถูกตั้งค่าความยาวเป็น `-11` เพื่อเผื่อที่ให้ Null Terminator ด้วย)
+- **เครื่องมือช่วยเหลือ:** ไฟล์ `subedit.py` (ในโฟลเดอร์ `Tools/dishonored-toolkit`) สามารถคำนวณตัวเลขติดลบนี้ให้อัตโนมัติและเขียนข้อมูลไบนารีกลับลงไปใน UPK ได้อย่างปลอดภัย
 
-1. **The Automated Method (Recommended):**
-   Use the `fontEdit.py` script provided in `Tools/dishonored-toolkit`. This tool bypasses JPEXS entirely. It reads your `.ttf` font, generates a Texture2D atlas (`.dds`), calculates the glyph mapping, and injects it directly into the game's UI `.upk` files.
+### ⚠️ ปัญหาที่พบบ่อย: ข้อความพังกลายเป็น "??????"
+หากโปรแกรม Text Editor ของคุณเผลอเซฟไฟล์แปล `.yaml` ด้วยการเข้ารหัสที่ผิด (เช่น เผลอเซฟเป็น ANSI แทนที่จะเป็น UTF-8) หรือหากสคริปต์แตกไฟล์ไปเจอตัวอักษรที่มันอ่านไม่ออก ข้อความในเกมจะแสดงผลเป็น `?????` ทันที
+* **วิธีแก้:** คุณต้องหาบรรทัดที่พังในไฟล์ `.yaml` แล้วแทนที่มันด้วยข้อความภาษาอังกฤษต้นฉบับ (หรือเอาจากไฟล์สำรอง) ก่อนที่จะแพ็กกลับเข้าไป หากคุณฝืนแพ็กไฟล์ที่พังเข้าไป เกมอาจจะแครชหรือข้อความกลายเป็นภาษาต่างดาวอย่างถาวรในแพ็กเกจนั้น
+
+---
+
+## 🎨 3. การดัดแปลง UI และฟอนต์ (Scaleform GFx)
+
+Dishonored ใช้ระบบ **Scaleform GFx (Flash/SWF)** ในการวาดเมนู UI และฟอนต์
+แม้ว่าคุณจะสามารถเปิดไฟล์ `.upk` หรือ `.gfx` ด้วยโปรแกรม **JPEXS Free Flash Decompiler** เพื่อดูโครงสร้าง `.swf` ข้างในได้ แต่ **คุณไม่สามารถกด "Save" ในโปรแกรม JPEXS ตรงๆ ได้** เนื่องจาก JPEXS ไม่รู้จักคอนเทนเนอร์แบบ Big-Endian UE3 ของเกมนี้ และมันจะแจ้งเตือน Error ทันทีเวลาเซฟ
+
+### วิธีการฝังฟอนต์ใหม่
+มี 2 วิธีหลักๆ ในการนำฟอนต์ TrueType (`.ttf`) ใหม่ใส่เข้าไปในเกม:
+
+1. **วิธีอัตโนมัติ (แนะนำ):**
+   ใช้สคริปต์ `fontEdit.py` ที่อยู่ใน `Tools/dishonored-toolkit` เครื่องมือนี้จะข้ามการทำงานของ JPEXS ไปเลย มันจะอ่านไฟล์ `.ttf` ของคุณ สร้างแผ่นรูปภาพฟอนต์ Texture2D (`.dds`) คำนวณการโยงพิกัด (glyph mapping) และฝังกลับเข้าไปในไฟล์ UI `.upk` ของเกมให้โดยตรง
    
-2. **The Manual Extract & Patch Method:**
-   - Run `unpack.py` to extract the `.upk` container into individual files.
-   - Find the extracted `.SwfMovie` file and open it in **JPEXS**.
-   - Make your font or UI modifications, then use JPEXS's "Save As" feature to save a new file (e.g., append `_patched` to the name).
-   - Run `python patch.py [Original_File.upk]` to recalculate byte offsets and safely re-inject your patched `.SwfMovie` back into the UPK container.
+2. **วิธีแตกไฟล์และแพตช์ด้วยตัวเอง (Manual):**
+   - รัน `unpack.py` เพื่อแตกคอนเทนเนอร์ `.upk` ออกมาเป็นไฟล์ย่อยๆ
+   - หาไฟล์ `.SwfMovie` ที่ถูกแตกออกมาแล้วเปิดมันด้วย **JPEXS**
+   - จัดการดัดแปลงฟอนต์หรือ UI ตามต้องการ จากนั้นใช้ฟังก์ชัน "Save As" ของ JPEXS เซฟไฟล์ใหม่ (เช่น ตั้งชื่อต่อท้ายด้วย `_patched`)
+   - รันคำสั่ง `python patch.py [Original_File.upk]` เพื่อคำนวณออฟเซ็ตไบต์ใหม่ และฉีดไฟล์ `.SwfMovie` ที่คุณแก้เสร็จแล้ว กลับเข้าไปในคอนเทนเนอร์ UPK เดิมอย่างปลอดภัย
 
 ---
 
-## 📁 4. Provided Tools and Scripts
+## 📁 4. เครื่องมือและสคริปต์ที่เตรียมไว้ให้
 
-Included in this directory are two folders that contain everything needed to build a complete mod:
+ในโฟลเดอร์นี้มีอีก 2 โฟลเดอร์ที่บรรจุทุกสิ่งที่คุณต้องใช้ในการสร้างม็อดอย่างครบถ้วน:
 
-### 🛠️ `Tools/`
-Contains the core low-level utilities:
-- **`decompress.exe`**: A standalone executable used to decompress LZO-compressed UPK files before any hex editing can take place.
-- **`dishonored-toolkit`**: A comprehensive suite of Python scripts designed specifically for this game. It handles Big-Endian binary parsing, font generation (`fontEdit.py`), and YAML-based text injection (`subedit.py`).
+### 🛠️ โฟลเดอร์ `Tools/`
+เก็บรวมโปรแกรมอรรถประโยชน์ระดับลึก (low-level utilities):
+- **`decompress.exe`**: โปรแกรมสำหรับใช้คลายการบีบอัด LZO ของไฟล์ UPK ก่อนที่คุณจะสามารถแก้ไขข้อมูลฐานสิบหก (hex editing) ใดๆ ได้
+- **`dishonored-toolkit`**: ชุดเครื่องมือสคริปต์ Python ที่ถูกสร้างมาเพื่อเกมนี้โดยเฉพาะ มันสามารถจัดการอ่านไบนารีแบบ Big-Endian, สร้างฟอนต์ (`fontEdit.py`), และฝังข้อความด้วยไฟล์ YAML (`subedit.py`) ได้
 
-### 💻 `Scripts/`
-Contains automation scripts used for bulk processing during a full localization project:
-- **`pack_all.py`**: A macro script that crawls through your entire translation workspace, decompresses the original `.upk` files, runs `subedit.py` to inject your translated `.yaml` files, and outputs the final, game-ready `.upk` files into a release folder.
-- **`check_yaml_all.py`**: A validation script that scans all `.yaml` translation files for YAML syntax errors or corrupted encoding (like `?????`) before you initiate the lengthy build process.
+### 💻 โฟลเดอร์ `Scripts/`
+รวบรวมสคริปต์อัตโนมัติที่ใช้รันเพื่อประมวลผลไฟล์จำนวนมากๆ ในช่วงที่ทำโปรเจกต์แปลภาษา:
+- **`pack_all.py`**: สคริปต์มาโครที่จะวิ่งเข้าไปหาไฟล์ทั้งหมดในระบบ, จัดการคลายบีบอัด `.upk` ต้นฉบับ, รัน `subedit.py` เพื่อฝังไฟล์แปล `.yaml`, และส่งออกไฟล์ `.upk` ที่พร้อมใช้งานในเกม ไปยังโฟลเดอร์สำหรับแจกจ่าย (release)
+- **`check_yaml_all.py`**: สคริปต์ตรวจสอบความถูกต้อง ที่จะสแกนไฟล์แปล `.yaml` ทั้งหมดเพื่อหาจุดที่เขียนผิดไวยากรณ์ (Syntax) หรือจุดที่เข้ารหัสพัง (เช่น `?????`) ก่อนที่คุณจะเริ่มรันกระบวนการบิลด์เกมที่กินเวลายาวนาน
+
+
+---
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)

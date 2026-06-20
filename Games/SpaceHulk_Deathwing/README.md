@@ -88,4 +88,4 @@
 3. เข้าเกม และสนุกกับภาษาไทยแบบเต็มรูปแบบ!
 
 ---
-*Created and optimized for Thai Modding Community by Antigravity (AI Modding Assistant).*
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)

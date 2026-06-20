@@ -61,3 +61,7 @@
 - **`DyingLight2_Thai_Studio`**: โปรแกรมการแปลที่เชื่อมโยงกับ `Deploy_Mod.py` แปลเสร็จ -> กดเซฟ -> ดับเบิลคลิก Deploy -> ไฟล์วิ่งเข้าเกมพร้อมทดสอบทันที!
 
 > *จบหลักสูตรการ Mod ภาษาไทย Dying Light 2 อย่างสมบูรณ์แบบ* 🚀
+
+
+---
+**จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)
