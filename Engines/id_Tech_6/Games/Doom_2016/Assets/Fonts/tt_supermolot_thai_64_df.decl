@@ -1,0 +1,22 @@
+{
+transmap	fonts/tt_supermolot_thai/64_df.tga$borderclamp$alpha
+stageprogram	fontoutlineglowshadow
+fontfxparms	0.000000
+fontfxoutlinecolor	{ 0.000000, 0.000000, 0.000000, 1.000000 }
+fontfxglowcolor	{ 0.000000, 0.000000, 0.000000, 1.000000 }
+fontfxglowparms	0.000000
+lightprojatlasscalebias	0.000000
+lightfalloffatlasscalebias	0.000000
+decalsatlasalbedoscalebias	0.000000
+decalsatlasspecularscalebias	0.000000
+decalsatlasnormalscalebias	0.000000
+virtualtexturefeedbackfloat	{ 1.000000, 2048.000000, 245760.000000, 16.000000 }
+physicalfilterparms	physicalvmtrfilterparms
+minlodmap	_black
+pagetablemap	_vmtrpagetable
+physicalmappingsmap	_physicalvmtrmappings
+physicalpagesmaparray0	_physicalvmtrpages0
+physicalpagesmaparray1	_physicalvmtrpages0
+physicalpagesmap4	_black
+physicalpagesprtmap4	_black
+}

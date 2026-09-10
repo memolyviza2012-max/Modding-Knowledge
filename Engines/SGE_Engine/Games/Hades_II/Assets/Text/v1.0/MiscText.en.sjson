@@ -1,0 +1,531 @@
+{
+/* Data Lookup Key - Specifies how to replace text found inside curly braces
+
+
+	$ - DisplayName of a Lua variable with VariableAutoFormat formatting (minus exceptions from NeverFormat table)
+	@ - DisplayName of a Lua variable with ItemName formatting
+	* - DisplayName of a Lua variable with automatic red/green coloring for modified stat values
+	% - Full Description of a Lua variable
+	^ - Description only of a Lua variable
+	+ - Description only of a Lua variable
+	! - Texture of the path stored in a Lua variable
+	JU - Texture of button mapped to the Jump Control for the current platform and input type
+	... (Other Control symbols defined in Controls.cs)
+	 Debug */
+
+  lang = "en"
+  Texts = [
+    /* 
+      NOTE(Dexter) Created this file to manually create help text IDs for 
+      any strings found in lua that don't have a VO cue associated with them
+      (usually choice/store text that's never vocalized)
+    */
+    {
+      Id = "Narcissus_OfferText01"
+      DisplayName = "{#DialogueItalicFormat}"
+    }
+
+    /* Rich Presence */
+    {
+      Id = "RichPresence_Hub" 
+      DisplayName = " "
+    }
+
+    /* Gamepad Controls */
+    {
+      Id = "START"
+      DisplayName = ""
+    }
+    {
+      Id = "BACK"
+      DisplayName = ""
+    }
+    {
+      Id = "OPTIONS"
+      DisplayName = ""
+    }
+    {
+      Id = "SHARE"
+      DisplayName = ""
+    }
+    {
+      Id = "DPadUp"
+      DisplayName = ""
+    }
+    {
+      Id = "DPadDown"
+      DisplayName = ""
+    }
+    {
+      Id = "DPadLeft"
+      DisplayName = ""
+    }
+    {
+      Id = "DPadRight"
+      DisplayName = ""
+    }
+    {
+      Id = "LeftStick"
+      DisplayName = "LS"
+    }
+    {
+      Id = "RightStick"
+      DisplayName = "RS"
+    }
+    {
+      Id = "LeftStickButton"
+      DisplayName = "LSB"
+    }
+    {
+      Id = "RightStickButton"
+      DisplayName = "RSB"
+    }
+    {
+      Id = "LeftTrigger"
+      DisplayName = "LT"
+    }
+    {
+      Id = "RightTrigger"
+      DisplayName = "RT"
+    }
+    {
+      Id = "LeftShoulder"
+      DisplayName = "LB"
+    }
+    {
+      Id = "RightShoulder"
+      DisplayName = "RB"
+    }
+    /* Mouse Controls */
+    {
+      Id = "MouseButtonLeft"
+      DisplayName = "LMB"
+    }
+    {
+      Id = "MouseButtonRight"
+      DisplayName = "RMB"
+    }
+    {
+      Id = "MouseButtonMiddle"
+      DisplayName = "MB3"
+    }
+    {
+      Id = "XButton1"
+      DisplayName = "MB4"
+    }
+    {
+      Id = "XButton2"
+      DisplayName = "MB5"
+    }
+    {
+      Id = "WheelUp"
+      DisplayName = ""
+    }
+    {
+      Id = "WheelDown"
+      DisplayName = ""
+    }
+    /* Keyboard Controls */
+    {
+      Id = "Escape"
+      DisplayName = ""
+    }
+    {
+      Id = "Space"
+      DisplayName = ""
+    }
+    {
+      Id = "PrintScreen"
+      DisplayName = ""
+    }
+    {
+      Id = "CapsLock"
+      DisplayName = ""
+    }
+    {
+      Id = "Enter"
+      DisplayName = ""
+    }
+    {
+      Id = "D0"
+      DisplayName = "0"
+    }
+    {
+      Id = "D1"
+      DisplayName = "1"
+    }
+    {
+      Id = "D2"
+      DisplayName = "2"
+    }
+    {
+      Id = "D3"
+      DisplayName = "3"
+    }
+    {
+      Id = "D4"
+      DisplayName = "4"
+    }
+    {
+      Id = "D5"
+      DisplayName = "5"
+    }
+    {
+      Id = "D6"
+      DisplayName = "6"
+    }
+    {
+      Id = "D7"
+      DisplayName = "7"
+    }
+    {
+      Id = "D8"
+      DisplayName = "8"
+    }
+    {
+      Id = "D9"
+      DisplayName = "9"
+    }
+    {
+      Id = "Text_Infinity_Symbol"
+      DisplayName = "∞"
+    }
+    {
+      Id = "NumPad0"
+      DisplayName = "P0"
+    }
+    {
+      Id = "NumPad1"
+      DisplayName = "P1"
+    }
+    {
+      Id = "NumPad2"
+      DisplayName = "P2"
+    }
+    {
+      Id = "NumPad3"
+      DisplayName = "P3"
+    }
+    {
+      Id = "NumPad4"
+      DisplayName = "P4"
+    }
+    {
+      Id = "NumPad5"
+      DisplayName = "P5"
+    }
+    {
+      Id = "NumPad6"
+      DisplayName = "P6"
+    }
+    {
+      Id = "NumPad7"
+      DisplayName = "P7"
+    }
+    {
+      Id = "NumPad8"
+      DisplayName = "P8"
+    }
+    {
+      Id = "NumPad9"
+      DisplayName = "P9"
+    }
+    {
+      Id = "F1"
+      DisplayName = "F1"
+    }
+    {
+      Id = "F2"
+      DisplayName = "F2"
+    }
+    {
+      Id = "F3"
+      DisplayName = "F3"
+    }
+    {
+      Id = "F4"
+      DisplayName = "F4"
+    }
+    {
+      Id = "F5"
+      DisplayName = "F5"
+    }
+    {
+      Id = "F6"
+      DisplayName = "F6"
+    }
+    {
+      Id = "F7"
+      DisplayName = "F7"
+    }
+    {
+      Id = "F8"
+      DisplayName = "F8"
+    }
+    {
+      Id = "F9"
+      DisplayName = "F9"
+    }
+    {
+      Id = "F10"
+      DisplayName = "F10"
+    }
+    {
+      Id = "F11"
+      DisplayName = "F11"
+    }
+    {
+      Id = "F12"
+      DisplayName = "F12"
+    }
+    {
+      Id = "LeftAlt"
+      DisplayName = ""
+    }
+    {
+      Id = "RightAlt"
+      DisplayName = ""
+    }
+    {
+      Id = "LeftShift"
+      DisplayName = ""
+    }
+    {
+      Id = "RightShift"
+      DisplayName = ""
+    }
+    {
+      Id = "LeftControl"
+      DisplayName = ""
+    }
+    {
+      Id = "RightControl"
+      DisplayName = ""
+    }
+    {
+      Id = "Tab"
+      DisplayName = ""
+    }
+    {
+      Id = "Insert"
+      DisplayName = ""
+    }
+    {
+      Id = "Delete"
+      DisplayName = ""
+    }
+    {
+      Id = "Home"
+      DisplayName = ""
+    }
+    {
+      Id = "KeyEnd"
+      DisplayName = ""
+    }
+    {
+      Id = "PageUp"
+      DisplayName = ""
+    }
+    {
+      Id = "PageDown"
+      DisplayName = ""
+    }
+    {
+      Id = "OemBackslash"
+      DisplayName = "/"
+    }
+    {
+      Id = "OemCloseBrackets"
+      DisplayName = "\\]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "OemComma"
+      DisplayName = ","
+    }
+    {
+      Id = "OemMinus"
+      DisplayName = "-"
+    }
+    {
+      Id = "OemOpenBrackets"
+      DisplayName = "\\["
+      OverwriteLocalization = true
+    }
+    {
+      Id = "OemPeriod"
+      DisplayName = "."
+    }
+    {
+      Id = "OemPipe"
+      DisplayName = "|"
+    }
+    {
+      Id = "OemPlus"
+      DisplayName = "+"
+    }
+    {
+      Id = "OemQuestion"
+      DisplayName = "?"
+    }
+    {
+      Id = "OemQuotes"
+      DisplayName = "'"
+    }
+    {
+      Id = "OemSemicolon"
+      DisplayName = ";"
+    }
+    {
+      Id = "OemTilde"
+      DisplayName = "~"
+    }
+    {
+      Id = "SingleQuoteLeft"
+      DisplayName = "‘"
+    }
+    {
+      Id = "Add"
+      DisplayName = "+"
+    }
+    {
+      Id = "Subtract"
+      DisplayName = "-"
+    }
+    {
+      Id = "Divide"
+      DisplayName = "/"
+    }
+    {
+      Id = "Multiply"
+      DisplayName = "*"
+    }
+    {
+      Id = "Decimal"
+      DisplayName = "."
+    }
+    {
+      Id = "Blank"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "A"
+      DisplayName = ""
+    }
+    {
+      Id = "B"
+      DisplayName = ""
+    }
+    {
+      Id = "C"
+      DisplayName = ""
+    }
+    {
+      Id = "D"
+      DisplayName = ""
+    }
+    {
+      Id = "E"
+      DisplayName = ""
+    }
+    {
+      Id = "F"
+      DisplayName = ""
+    }
+    {
+      Id = "G"
+      DisplayName = ""
+    }
+    {
+      Id = "H"
+      DisplayName = ""
+    }
+    {
+      Id = "I"
+      DisplayName = ""
+    }
+    {
+      Id = "J"
+      DisplayName = ""
+    }
+    {
+      Id = "K"
+      DisplayName = ""
+    }
+    {
+      Id = "L"
+      DisplayName = ""
+    }
+    {
+      Id = "M"
+      DisplayName = ""
+    }
+    {
+      Id = "N"
+      DisplayName = ""
+    }
+    {
+      Id = "O"
+      DisplayName = ""
+    }
+    {
+      Id = "P"
+      DisplayName = ""
+    }
+    {
+      Id = "Q"
+      DisplayName = ""
+    }
+    {
+      Id = "R"
+      DisplayName = ""
+    }
+    {
+      Id = "S"
+      DisplayName = ""
+    }
+    {
+      Id = "T"
+      DisplayName = ""
+    }
+    {
+      Id = "U"
+      DisplayName = ""
+    }
+    {
+      Id = "V"
+      DisplayName = ""
+    }
+    {
+      Id = "W"
+      DisplayName = ""
+    }
+    {
+      Id = "X"
+      DisplayName = "X"
+    }
+    {
+      Id = "Y"
+      DisplayName = ""
+    }
+    {
+      Id = "Z"
+      DisplayName = ""
+    }
+    {
+      Id = "speciale"
+      DisplayName = "ë"
+    }
+    {
+      Id = "specialo"
+      DisplayName = "ó"
+    }
+    /* Include additional symbols in the font build for international keyboard layouts */
+    {
+      Id = "InternationalKeyboard"
+      DisplayName = "´ˋ¨˘º˚ù:"
+      OverwriteLocalization = true
+    }
+  ]
+}

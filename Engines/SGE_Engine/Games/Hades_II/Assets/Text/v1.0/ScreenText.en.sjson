@@ -1,0 +1,3164 @@
+{
+  lang = "en"
+  Texts =
+  [
+    /* Miscellaneous Menu Screens */
+
+    {
+      Id = "Menu_Exit"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "Menu_Close"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "Menu_Continue"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "Menu_NextCategory"
+      DisplayName = "{MR} "
+    }
+    {
+      Id = "Menu_MoreContents"
+      DisplayName = "{MR} ..."
+    }
+    {
+      Id = "Menu_PrevCategory"
+      DisplayName = "{ML} "
+    }
+    {
+      Id = "Menu_FewerContents"
+      DisplayName = "{ML} "
+    }
+    {
+      Id = "Menu_CloseSubmenu"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "Menu_Buy"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Rush"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Order"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Sell"
+      DisplayName = "{SL}  1"
+    }
+    {
+      Id = "Menu_SellAll"
+      DisplayName = "{IP} "
+    }
+
+    {
+      Id = "Menu_Exchange"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_ExchangeAll"
+      DisplayName = "{IP} "
+    }
+
+
+    {
+      Id = "Menu_Purge"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Unlock"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Plant"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_MultiPlant"
+      DisplayName = "{IP}  x{$TempTextData.PlantAmount}"
+    }
+    {
+      Id = "Menu_Gift"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Pin"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "Menu_PinBoon_On"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "Menu_PinBoon_Off"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "Menu_SaveKeepsake"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "Menu_UnSaveKeepsake"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "Menu_TraitPin"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_TraitUnPin"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_BoonInfo"
+      DisplayName = "{MX} "
+    }
+    {
+      Id = "Menu_TraitList"
+      DisplayName = "{MX} "
+    }
+    {
+      Id = "Menu_QuestLog"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_QuestLogWatch"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Equip"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_ChangeAspect"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Unequip"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Upgrade"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_Info"
+      DisplayName = "{MX} "
+    }
+    {
+      Id = "Menu_OpenTraitTray"
+      DisplayName = "{AT} "
+    }
+    {
+      Id = "Menu_Sort"
+      DisplayName = "{MX} "
+    }
+
+    {
+      Id = "Shop_ItemCost"
+      DisplayName = "{$TempTextData.Amount}{!Icons.Currency}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Shop_Purchased"
+      DisplayName = "{!Icons.PurchasedCheckmark}"
+    }
+    {
+      Id = "Shop_Removable"
+      DisplayName = "{!Icons.DefaultPurchasedCheckmark}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Shop_ReAdd"
+      DisplayName = "{!Icons.MirrorInactive}"
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "ResourceCost"
+      DisplayName = "{$TempTextData.Amount}{!TempTextData.IconPath}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ResourceCostSelling"
+      DisplayName = "+{$TempTextData.Amount}{!TempTextData.IconPath}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ResourceCostFraction"
+      DisplayName = "{$TempTextData.Current} {#ShopCostFormat}/ {$TempTextData.Amount}"
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "ResourceCostInventoryAmount"
+      DisplayName = "{!Icons.InventoryIcon}x{$TempTextData.InventoryAmount}"
+      OverwriteLocalization = true
+    }    
+
+	  /* In-Game Choice Screens / Menu Screens */
+    /* Boon Screen / Upgrade Choice Menu */
+    {
+      Id = "Boon_Common"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Boon_Rare"
+      DisplayName = ""
+    }
+    {
+      Id = "Boon_Epic"
+      DisplayName = ""
+    }
+    {
+      Id = "Boon_Heroic"
+      DisplayName = ""
+    }
+    {
+      Id = "Boon_Legendary"
+      DisplayName = ""
+    }
+    {
+      Id = "Boon_Duo"
+      DisplayName = ""
+    }
+    {
+      Id = "Boon_Infusion"
+      DisplayName = ""
+    }
+    {
+      Id = "UpgradeChoiceMenu_Title"
+      DisplayName = " {{GodName}}"
+    }
+    {
+      Id = "UpgradeChoiceMenu_Artemis"
+      DisplayName = ""
+    }
+    {
+      Id = "UpgradeChoiceMenu_Chaos"
+      DisplayName = ""
+    }
+    {
+      Id = "UpgradeChoiceMenu_Dionysus"
+      DisplayName = ""
+    }
+    {
+      Id = "UpgradeChoiceMenu_Athena"
+      DisplayName = ""
+    }
+    {
+      Id = "UpgradeChoiceMenu_Hades"
+      DisplayName = ""
+    }
+    {
+      Id = "StackUpgradeChoiceMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponUpgradeChoiceMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "CurrentRunDepth"
+      DisplayName = " {$CurrentRun.RunDepthCache}"
+    }
+
+    {
+      Id = "Boon_Select"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Talent_Select"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Talent_Deselect"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Boon_Sacrifice"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Boon_Upgrade"
+      DisplayName = "{RY} "
+    }
+    {
+      Id = "Boon_Upgrade_Count"
+      DisplayName = "{RY}  {#StatFormat}\\[{$TempTextData.Amount}\\]"
+    }
+    {
+      Id = "Boon_Reroll"
+      DisplayName = "{RR}  {#StatFormat}\\[-{$TempTextData.Amount}{!Icons.ReRoll}\\]"
+    }
+    {
+      Id = "TraitRarityUpgrade"
+      DisplayName = "{$Keywords.RarityUpgrade}"
+    }
+
+    /* Zeus Boons */
+    {
+      Id = "ZeusUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ZeusUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "ZeusUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "ZeusUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Hera Boons */
+    {
+      Id = "HeraUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "HeraUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "HeraUpgrade_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "HeraUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Poseidon Boons */
+    {
+      Id = "PoseidonUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "PoseidonUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "PoseidonUpgrade_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "PoseidonUpgrade_FlavorText03"
+      DisplayName = "  "
+    }
+
+    /* Apollo Boons */
+    {
+      Id = "ApolloUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ApolloUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "ApolloUpgrade_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "ApolloUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* Aphrodite Boons */
+    {
+      Id = "AphroditeUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AphroditeUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "AphroditeUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "AphroditeUpgrade_FlavorText03"
+      DisplayName = "  "
+    }
+
+    /* Demeter Boons */
+    {
+      Id = "DemeterUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "DemeterUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "DemeterUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "DemeterUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Hestia Boons */
+    {
+      Id = "HestiaUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "HestiaUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "HestiaUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "HestiaUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+    {
+      Id = "HestiaUpgrade_SacrificeBoon"
+      DisplayName = ""
+    }
+    {
+      Id = "HestiaUpgrade_SacrificeBoon_FlavorText"
+      DisplayName = ""
+    }
+    {
+      Id = "Hestia_UpgradeChoice_Sacrifice"
+      DisplayName = "{SL} "
+    }
+
+    /* Hephaestus Boons */
+    {
+      Id = "HephaestusUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "HephaestusUpgrade_FlavorText01"
+      DisplayName = ""
+    }
+    {
+      Id = "HephaestusUpgrade_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "HephaestusUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* Hermes Boons */
+    {
+      Id = "HermesUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "HermesUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "HermesUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "HermesUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Artemis Boons */
+    {
+      Id = "ArtemisUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ArtemisUpgrade_FlavorText01"
+      DisplayName = ""
+    }
+    {
+      Id = "ArtemisUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "ArtemisUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* Dionysus Boons */
+    {
+      Id = "DionysusUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "DionysusUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "DionysusUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Athena Boons */
+    {
+      Id = "AthenaUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "AthenaUpgrade_FlavorText02"
+      DisplayName = "  "
+    }
+    {
+      Id = "AthenaUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Ares Boons */
+    {
+      Id = "AresUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AresUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "AresUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "AresUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* Hades Boons */
+    {
+      Id = "HadesUpgrade_FlavorText01"
+      DisplayName = ""
+    }
+    {
+      Id = "HadesUpgrade_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "HadesUpgrade_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Selene Spells / SpellScreen */
+    {
+      Id = "SpellScreenMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "SpellScreenMenu_Subtitle"
+      DisplayName = ":"
+    }
+    {
+      Id = "SpellDrop_FlavorText01"
+      DisplayName = ""
+    }
+    {
+      Id = "SpellDrop_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "SpellDrop_FlavorText03"
+      DisplayName = ""
+    }
+    {
+      Id = "Spell_Select"
+      DisplayName = "{SL} "
+    }
+
+    /* Chaos Boons */
+    {
+      Id = "TrialUpgrade"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "TrialUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "TrialUpgrade_FlavorText02"
+      DisplayName = "  "
+    }
+    {
+      Id = "TrialUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* WeaponUpgrade Screen / Daedalus Hammer Screen */
+    {
+      Id = "WeaponUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "WeaponUpgrade_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "WeaponUpgrade_FlavorText03"
+      DisplayName = " " 
+    }
+
+    {
+      Id = "WeaponUpgradeScreen_Kills"
+      DisplayName = ":"
+    }
+    {
+      Id = "WeaponUpgradeScreen_Clears"
+      DisplayName = ":"
+    }
+    {
+      Id = "WeaponUpgradeScreen_ClearTimeRecord_Underworld"
+      DisplayName = "{!Icons.UnderworldIcon} :"
+    }
+    {
+      Id = "WeaponUpgradeScreen_ClearTimeRecord_Surface"
+      DisplayName = "{!Icons.SurfaceIcon} :"
+    }
+    {
+      Id = "WeaponUpgradeScreen_ShrinePointRecord_Underworld"
+      DisplayName = "{!Icons.UnderworldIcon} {!Icons.ShrinePoint}{#BoldFormatGraft}Fear{#Prev} :"
+    }
+    {
+      Id = "WeaponUpgradeScreen_ShrinePointRecord_Surface"
+      DisplayName = "{!Icons.SurfaceIcon} {!Icons.ShrinePoint}{#BoldFormatGraft}Fear{#Prev} :"
+    }
+
+    /* StackUpgrade Screen / Pom of Power Screen */
+    {
+      Id = "StackUpgrade_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "StackUpgrade_FlavorText02"
+      DisplayName = " ?"
+    }
+    {
+      Id = "StackUpgrade_FlavorText03"
+      DisplayName = " "
+    }
+
+    /* TalentScreen / Path of the Stars / Path of Stars */
+    {
+      Id = "TalentScreenMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "TalentDrop_FlavorText01"
+      DisplayName = ""
+    }
+    {
+      Id = "TalentDrop_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "TalentDrop_FlavorText03"
+      DisplayName = ""
+    }
+
+    {
+      Id = "AdditionalTalentPointDisplay"
+      DisplayName = ""
+    }
+
+    /* QuestLog / Quest Log / Fated List */
+    {
+      Id = "UseQuestLog"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "QuestLogScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "QuestLogScreen_Flavor"
+      DisplayName = "“”"
+    }
+    {
+      Id = "QuestLogReward"
+      DisplayName = "{#HighlightQuestReward}{#Prev}+{$TempTextData.Amount}{!TempTextData.Icon}"
+    }
+    {
+      Id = "QuestLog_SelectHint"
+      DisplayName = ""
+    }
+    {
+      Id = "QuestLog_SelectHintAllClear"
+      DisplayName = "\n\n  \n\n "
+    }
+    {
+      Id = "QuestLog_ProgressCountIncomplete"
+      DisplayName = "{!Icons.QuestProgressIncomplete} {$TempTextData.Current} {!Icons.SlashDark} {$TempTextData.Goal}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "QuestLog_ProgressCountComplete"
+      DisplayName = "{!Icons.QuestProgressComplete} {$TempTextData.Current} {!Icons.Slash} {$TempTextData.Goal}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "QuestLog_QuestProgressIncomplete"
+      DisplayName = "{!Icons.QuestProgressIncomplete}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "QuestLog_QuestProgressComplete"
+      DisplayName = "{!Icons.QuestProgressComplete}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "QuestLog_QuestProgressRequirement"
+      DisplayName = "{$TempTextData.Requirement}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "QuestLog_QuestAdded"
+      DisplayName = "..."
+    }
+    {
+      Id = "QuestLog_QuestUpdated"
+      DisplayName = "..."
+    }
+    {
+      Id = "QuestLog_QuestComplete"
+      DisplayName = "!!"
+    }    
+
+    /* BountyBoard / Bounty Board / Pitch-Black Stone */
+    {
+      Id = "UseBountyBoard"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "UseBountyBoard_Locked"
+      DisplayName = "{I} {#LockedFormat}?"
+    }
+
+    {
+      Id = "BountyIntro"
+      DisplayName = ""
+      Description = """
+      {#AlertBoldFormat}{#Prev} {#BountyHighlightFormat} {#Prev} :
+
+      · {#BountyHighlightFormat} {#Prev}
+
+      · {#BountyHighlightFormat} {#Prev} 
+
+      · 
+
+       {#AlertItalicFormat} {#Prev} {#BountyHighlightFormat} {#Prev} {!Icons.Mixer5CommonIcon}{#AlertBoldFormat}{#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}!
+
+      {!Icons.DivLong}
+
+      {#AlertItalicFormat}! {#Prev} {!Icons.BountyEyeIcon}  {#BountyHighlightFormat}{#Prev} {#BountyHighlightFormat} {#Prev} {#AlertItalicFormat}!
+    """
+    }   
+
+    {
+      Id = "BountyLogScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "BountyLogScreen_Flavor"
+      DisplayName = "“ ”"
+    }
+
+    {
+      Id = "BountyBoard_StartChallenge"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "BountyBoard_RepeatChallenge"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "BountyBoard_ClearMessage"
+      DisplayName = ": {$TempTextData.ClearCount}        : {$TempTextData.BestClearTimeString}"
+    }
+    {
+      Id = "BountyBoard_ClearMessageStreaks"
+      DisplayName = ": {$TempTextData.CurrentStreak}        : {$TempTextData.BestStreak}"
+    }
+    {
+      Id = "BountyBoard_ClearMessage_NonRepeatable"
+      DisplayName = "!!"
+    }
+    {
+      Id = "BountyBoard_RandomWeapon"
+      DisplayName = ""
+    }
+    {
+      Id = "BountyBoard_RandomKeepsake"
+      DisplayName = ""
+    }
+    {
+      Id = "BountyBoard_UnderworldRun"
+      DisplayName = ""
+    }
+    {
+      Id = "BountyBoard_SurfaceRun"
+      DisplayName = ""
+    }
+    {
+      Id = "BountyBoard_Reward"
+      DisplayName = "{#HighlightFormatGraft}: {#Prev}{#LegendaryFormat}+{$TempTextData.Amount}{!TempTextData.Icon}"
+    }
+    {
+      Id = "BountyBoard_RewardEarned"
+      DisplayName = "{#HighlightFormatGraft}"
+    }
+
+    /* InventoryScreen / Inventory */
+    {
+      Id = "InventoryScreen_GiftNotWanted"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "InventoryScreen_GiftNotAvailable"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "InventoryScreen_SeedNotWanted"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "InventoryScreen_SeedNotAvailable"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "InventoryScreen_NoPinsHint"
+      DisplayName = " Forget-Me-Nots\n\n  {IP} "
+    }
+    {
+      Id = "InventoryScreen_LineHistoryTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_ResourcesTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_GiftsTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_GardenTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_FishTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_PinTab"
+      DisplayName = ""
+    }
+    {
+      Id = "InventoryScreen_RemovePin"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "InventoryScreen_UnknownDetails"
+      DisplayName = "· ? ? ?"
+    }
+
+    /* Arachne Costume Screen */
+    {
+      Id = "ArachneCostumeMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "ArachneCostumeMenu_FlavorText01"
+      DisplayName = "  "
+    }
+
+    /* Narcissus Gifts Screen */
+    {
+      Id = "NarcissusGiftsMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "NarcissusGiftsMenu_FlavorText01"
+      DisplayName = " "
+    }
+
+    /* Echo Blessings Screen */
+    {
+      Id = "EchoChoiceMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "EchoChoiceMenu_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "EchoChoiceMenu_LastRun"
+      InheritFrom = "EchoChoiceMenu_Title"
+    }
+    {
+      Id = "EchoChoiceMenu_LastRun_FlavorText"
+      InheritFrom = "EchoChoiceMenu_FlavorText01"
+    }
+
+    /* Medea Curses Screen */
+    {
+      Id = "MedeaCurseMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "MedeaCurseMenu_FlavorText01"
+      DisplayName = " "
+    }
+
+    /* Circe Blessings Screen */
+    {
+      Id = "CirceChoiceMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "CirceChoiceMenu_FlavorText01"
+      DisplayName = ""
+    }
+
+    /* Icarus Blessings Screen */
+    {
+      Id = "IcarusChoiceMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "IcarusChoiceMenu_FlavorText01"
+      DisplayName = ""
+    }
+
+    /* Wretched Broker / MarketScreen / Market Screen */
+    {
+      Id = "ResourceShopScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_Hint"
+      DisplayName = " "
+    }
+    {
+      Id = "MarketScreen_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "MarketScreen_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "MarketScreen_FlavorText03"
+      DisplayName = " "
+    }
+    {
+      Id = "Market_LimitedTimeOffer"
+      DisplayName = "{!Icons.LimitedTimeOffer}"
+    }
+    {
+      Id = "MarketScreen_Resources"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_Sell"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_Gifts"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_Exchange"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_BuyAmount"
+      DisplayName = "x{$TempTextData.BuyAmount}"
+    }
+    {
+      Id = "MarketScreen_SellAmount"
+      DisplayName = "-1"
+    }
+    {
+      Id = "MarketScreen_InventoryAmount"
+      DisplayName = "{!Icons.InventoryIcon} x{$TempTextData.InventoryAmount}"
+    }
+    {
+      Id = "MarketScreen_Cost"
+      DisplayName = "{$TempTextData.CostAmount} {$TempTextData.CostIcon}"
+    }
+    {
+      Id = "MarketScreen_CurrentAmountsHeader"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_BuyingHeader"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_SellingHeader"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_SellAllPrompt"
+      DisplayName = ""
+      Description = " {#BoldFormatGraft}{$TempTextData.SellAmount}{!TempTextData.SellResourceIcon} {#Prev} {$Keywords.Broker}. \n\n  {#UpgradeFormat}+{$TempTextData.BuyAmount}{!TempTextData.BuyResourceIcon} {#Prev}. \n\n ."
+    }
+    {
+      Id = "MarketScreen_ConfirmSellAll"
+      DisplayName = ""
+    }
+    {
+      Id = "MarketScreen_CancelSellAll"
+      DisplayName = ""
+    }
+
+    /* TradeScreen / Trade Screen */
+
+    {
+      Id = "TradeScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "TradeScreen_Subtitle"
+      DisplayName = "."
+    }
+    {
+      Id = "TradeScreen_GiveHint"
+      DisplayName = ":"
+    }
+    {
+      Id = "TradeScreen_GetHint"
+      DisplayName = ":"
+    }
+    {
+      Id = "TradeScreen_CurrentMoney"
+      DisplayName = ": {#MoneyFormatBold}{$TempTextData.Amount}{!Icons.Currency}"
+    }
+    {
+      Id = "TradeScreen_CurrentMoney_CantAfford"
+      DisplayName = ": {#MoneyFormatCantAffordBold}{$TempTextData.Amount}{!Icons.Currency}"
+    }
+    {
+      Id = "TradeScreen_Accept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "TradeScreen_Decline"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "TradeScreen_TradeCost"
+      DisplayName = "{$TooltipData.Cost} {$TooltipData.ResourceName}"
+      Description = " {!Icons.Currency}  {$Keywords.CharNemesis} ."
+    }
+    {
+      Id = "TradeScreen_ResourceCost"
+      DisplayName = "{$TooltipData.ResourceName} {#TooltipUpgradeFormat}({$TooltipData.Cost})"
+    }
+    {
+      Id = "TradeScreen_DamageAmount"
+      DisplayName = "{#AltPenaltyFormat}"
+      Description = " {$Keywords.CharNemesis}   {#AltPenaltyFormat}{$TooltipData.DamageAmount} {#Prev}."
+    }
+
+    /* Narrative Screen */
+    {
+      Id = "Choice_MorosBecomingCloser01"
+      DisplayName = "{#Emph}? {#DialogChoiceInstructionFormat}(...)"
+    }
+    {
+      Id = "Choice_MorosAccept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "Choice_MorosDecline"
+      DisplayName = "{CN} "
+    }
+
+    {
+      Id = "Choice_NemesisBecomingCloser01"
+      DisplayName = "{#Emph}? {#DialogChoiceInstructionFormat}(...)"
+    }
+    {
+      Id = "Choice_NemesisAccept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "Choice_NemesisDecline"
+      DisplayName = "{CN} "
+    }
+
+    {
+      Id = "Choice_ErisBecomingCloser01"
+      DisplayName = "{#Emph}? {#DialogChoiceInstructionFormat}(...)"
+    }
+    {
+      Id = "Choice_ErisAccept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "Choice_ErisDecline"
+      DisplayName = "{CN} "
+    }
+
+    {
+      Id = "Choice_IcarusBecomingCloser01"
+      DisplayName = "{#Emph}? {#DialogChoiceInstructionFormat}(...)"
+    }
+    {
+      Id = "Choice_IcarusAccept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "Choice_IcarusDecline"
+      DisplayName = "{CN} ..."
+    }
+    
+    {
+      Id = "Choice_Accept"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "Choice_Decline"
+      DisplayName = "{CN} "
+    }
+
+    /* Charon Shipments / MailboxScreen / Mailbox Screen / Supply Drop */
+    {
+      Id = "UseMailbox"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "UseMailbox_DeliveryPending"
+      DisplayName = "{I} {#LockedFormat}?"
+    }
+    {
+      Id = "UseMailbox_DeliveryReady"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "MailboxScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "MailboxScreen_Hint"
+      DisplayName = " {#LegendaryFormat}{$ScreenData.MailboxScreen.MoneySpentPerCharonPoint}{#Prev}{!Icons.Currency}  {#UpgradeFormat}1{#Prev}{!Icons.CharonPoints}  {#ItalicFormat}()"
+    }
+
+    {
+      Id = "MailboxScreen_DeliveryTime"
+      DisplayName = " {$TempTextData.DeliveryTime}{!Icons.Clock}"
+    }
+
+    {
+      Id = "MailboxStatus_DeliveryPending"
+      DisplayName = "{$TempTextData.TimeRemaining}{!Icons.Clock}"
+    }
+
+    /* Cauldron / Critical Item Store / Ghost Admin */
+    {
+      Id = "GhostAdminScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "GhostAdminUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "RepeatableUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "GhostAdminScreen_Hint"
+      DisplayName = "   ."
+    }
+    {
+      Id = "GhostAdmin_CategoryEmpty"
+      DisplayName = ""
+    }
+    {
+      Id = "WorldUpgradeScreen_Critical"
+      DisplayName = ""
+    }
+    {
+      Id = "WorldUpgradeScreen_Repeatable"
+      DisplayName = ""
+    }
+    {
+      Id = "CosmeticMainHall"
+      DisplayName = ""
+    }
+    {
+      Id = "CosmeticLounge"
+      DisplayName = ""
+    }
+    {
+      Id = "CosmeticBedroom"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponShopItemConfirm"
+      DisplayName = "{SL} ..."
+    }
+    {
+      Id = "Menu_CauldronUnlock"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_CosmeticsUnlock"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_CosmeticsRemove"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_CosmeticsReAdd"
+      DisplayName = "{SL} "
+    }
+
+    /* Card Table / Meta Upgrades / Altar / Card Table / Card Screen / CardScreen / MetaUpgradeScreen */
+    {
+      Id = "MetaUpgrade_Locked"
+      DisplayName = "? ? ?"
+    }
+    {
+      Id = "MetaUpgrade_CostPrefix"
+      DisplayName = ":"
+    }
+    {
+      Id = "Unlock_MetaUpgrade"
+      DisplayName = ""
+    }
+    {
+      Id = "IncreaseMetaUpgradeLimit"
+      DisplayName = "{#MemFormat}+{$TempTextData.Amount} {#Prev}"
+    }
+    {
+      Id = "Max_MetaUpgrade"
+      DisplayName = "{#MemFormat}"
+    }
+    {
+      Id = "Max_MetaUpgrade_FlavorText01"
+      DisplayName = "  ."
+    }
+    {
+      Id = "MetaUpgrade_Slash"
+      DisplayName = " {!Icons.Slash}"
+    }
+    {
+      Id = "MetaUpgrade_EquipAvailable"
+      DisplayName = "!"
+      Description = """
+       {!Icons.ManaCrystal}{#MemFormatBold}{#Prev}.
+
+      {#BoldFormatGraft} {#Prev} .
+      """
+    }
+    {
+    Id = "MetaUpgrade_CardUnlocksAvailable"
+        DisplayName = "!"
+        Description = " {#BoldFormatGraft}{#Prev} 
+
+         {#BoldFormatGraft} {#Prev}"
+    }
+    {
+      Id = "MetaUpgradeEquip_CardUnlockBack"
+      DisplayName = ""
+    }
+    {
+      Id = "MetaUpgradeEquip_Proceed"
+      DisplayName = ""
+    }
+    {
+      Id = "MetaUpgradeEquip_Back"
+      DisplayName = ""
+    }
+    {
+      Id = "MetaUpgradeTable_UnableToEquip"
+      DisplayName = "{#MemFormat}{#Prev}!"
+      Description = """
+      {#BoldFormatGraft} {#Prev} {!Icons.ManaCrystal}{#MemFormatBold} {#Prev}. 
+
+       {!Icons.ManaCrystal}{#MemFormatBold}{#Prev} {#BoldFormatGraft}{#Prev}.
+
+      @GUI\\Screens\\MetaUpgrade\\MemModulePreview
+      """
+    }
+      {
+      Id = "MetaUpgradeTable_UnableToEquip_Alt"
+      DisplayName = "{#MemFormat}{#Prev}!"
+      Description = """
+      {#BoldFormatGraft}{#Prev}  {!Icons.ManaCrystal}{#MemFormatBold} {#Prev}. 
+
+       {!Icons.ManaCrystal}{#MemFormatBold}{#Prev} {#BoldFormatGraft}{#Prev}.
+
+      @GUI\\Screens\\MetaUpgrade\\MemModulePreview
+      """
+    }
+      {
+      Id = "MetaUpgradeTable_UnableToEquip_Alt2"
+      DisplayName = "!"
+      Description = """
+       {!Icons.MemPointsCommon_NoTooltip} {#BoldFormatGraft}{$ResourceData.MemPointsCommon.Name} {#Prev}  {!Icons.ManaCrystal}{#MemFormatBold}{#Prev}  {#BoldFormatGraft} {#Prev}! .
+
+      @GUI\\Screens\\MetaUpgrade\\MemModulePreview
+      """
+    }
+    {
+      Id = "MetaUpgrade_UpgradesAvailable"
+      DisplayName = "{#BoldFormatGraft}{#Prev}!"
+      Description = " {!Icons.CardUpgradePoints} {#BoldFormatGraft}{$ResourceData.CardUpgradePoints.Name} {#Prev}{#BoldFormatGraft}{#Prev}. \n\n {#BoldFormatGraft}{#Prev}  {CF} {#BoldFormatGraft}{#Prev}."
+    }
+    {
+      Id = "MetaUpgrade_UpgradesAvailable_Close"
+      DisplayName = ""
+    }
+    {
+      Id = "ElementalPrompt"
+      DisplayName = "{#BoldFormatGraft}{#Prev}!"
+      Description = """{#BoldFormatGraft}{#Prev}.
+
+       {!Icons.CurseEarth}{#BoldFormatGraft}{#Prev}, {!Icons.CurseWater}{#BoldFormatGraft}{#Prev}, {!Icons.CurseAir}{#BoldFormatGraft}{#Prev},  {!Icons.CurseFire}{#BoldFormatGraft}{#Prev}... !
+
+       {#BoldFormatGraft} {#Prev}{#ElementalFormat} {#Prev} .
+      """
+    }
+    {
+      Id = "ElementalPrompt_Close"
+      DisplayName = ""
+    }
+    {
+      Id = "MetaUpgrade_Ineligible"
+      DisplayName = "-"
+    }
+    {
+      Id = "MetaUpgrade_Equip"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgrade_Unequip"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgrade_Unlock"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgradeMem_Upgrade"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgradeCard_Upgrade"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgradeCard_Inspect"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "MetaUpgradeMem_UpgradeMode"
+      DisplayName = "{CF}  {#StatFormat}\\[{$TempTextData.Amount}{!Icons.CardUpgradePoints}\\]"
+    }
+    {
+      Id = "MetaUpgrade_PrevLayout"
+      DisplayName = "{PL} "
+    }
+    {
+      Id = "MetaUpgrade_NextLayout"
+      DisplayName = "{NL} "
+    }
+    {
+      Id = "MetaUpgrade_SwapLayoutArt"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "MetaUpgrade_SwapLayoutArtSelect"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MetaUpgradeMem_ExitUpgradeMode"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "MetaUpgradeMem_Exit"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "MetaUpgrade_Hidden"
+      DisplayName = "{#ItalicFormat}"
+    }
+    {
+      Id = "MetaUpgrade_Pin"
+      DisplayName = "{IP} "
+    }
+    {
+      Id = "MetaUpgrade_StartSwap"
+      DisplayName = "{A3} "
+    }
+    {
+      Id = "MetaUpgrade_EndSwap"
+      DisplayName = "{A3} "
+    }
+    {
+      Id = "MetaUpgrade_CancelSwap"
+      DisplayName = "{A3} "
+    }
+    {
+      Id = "MetaUpgradeCardLimit_Upgrade"
+      DisplayName = ""
+    }
+
+    /* Weapon Shop / Silver Pool */
+    {
+      Id = "UseWeaponShop"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "WeaponShopScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponShopUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponShopAspectUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "ToolShopUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "ToolShopUpgrade"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponShop_Weapons"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_StaffUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_DaggerUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_TorchUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_AxeUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_LobUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_SuitUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_Tools"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShop_ToolUpgrades"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "WeaponShopScreen_Hint"
+      DisplayName = "“ ”"
+    } 
+
+    /* Familiar Shop */
+    {
+      Id = "FamiliarShopUnlock"
+      DisplayName = ""
+    }
+    {
+      Id = "FamiliarShopScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "FamiliarShopScreen_Hint"
+      DisplayName = " "
+    }
+    {
+      Id = "FamiliarShopUpgrade"
+      DisplayName = "{$TooltipData.UpgradeName} {#AltUpgradeFormat}{$TooltipData.AspectRarityText}"
+    }
+    {
+      Id = "FamiliarShop_Select"
+      DisplayName = "{SL} "
+    }
+
+    /* Familiar Costume Shop */
+    {
+      Id = "Menu_FamiliarCostumeUnlock"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_FamiliarCostumeReAdd"
+      DisplayName = "{SL} "
+    }
+
+    /* Hades Fountain / StoryReset Screen */
+    {
+      Id = "StoryResetIntro"
+      DisplayName = ""
+      Description = """
+       {#AlertHeaderFormat}Hades II{#Prev} !
+
+        {#AlertItalicFormat}{#Prev}    {#AlertHighlightFormat}{#Prev}   {#AlertHighlightFormat}{#Prev}  {#AlertHighlightFormat}{#Prev}... !
+
+     ·  {#AlertBoldFormat}{#Prev}  
+
+     · {#AlertBoldFormat}{#Prev} {#AlertBoldFormat}{!Icons.MixerIBoss} Z·Sand {#Prev} {#AlertBoldFormat}{!Icons.MixerQBoss} V·Lens {#Prev} 
+
+     ·  {#AlertBoldFormat} {#Prev}  
+
+    {#AlertItalicFormat}: {#Prev} 
+    """
+    }
+    {
+      Id = "StoryReset_Title"
+      DisplayName = "?"
+    }
+    {
+      Id = "StoryReset_Details"
+      DisplayName = "\n\n {#WarningHighlightFormat}"
+    }
+    {
+      Id = "StoryReset_Confirm"
+      DisplayName = ""
+    }
+    {
+      Id = "StoryReset_Cancel"
+      DisplayName = ""
+    }
+
+    /* Hypnos Dream Runs */
+    {
+      Id = "DreamRunIntro"
+      DisplayName = ""
+      Description = """
+       {#AlertBoldFormat}{#Prev}  {#AlertHeaderFormat}{#Prev}   :
+
+      ·  {#AlertBoldFormat}{#Prev}  !
+
+      ·  {#AlertBoldFormat}{#Prev}  
+
+      ·  {#AlertBoldFormat}{#Prev}  {!Icons.DreamPointsIcon}{#AlertBoldFormat}{#Prev} !
+
+       {#AlertItalicFormat}{#Prev}  {#AlertBoldFormat}{#Prev}  {#AlertHeaderFormat}{#Prev} 
+
+      {!Icons.DivLong}
+
+      {#AlertItalicFormat}... {#Prev} {#AlertHeaderFormat}{#Prev} {#AlertItalicFormat}{#Prev}  {#AlertItalicFormat}!
+    """
+    }
+
+    /* Book of Shadows / Codex / CodexScreen / Codex Screen */
+    {
+      Id = "Codex_NextEntry"
+      DisplayName = "{DN} "
+    }
+    {
+      Id = "Codex_PrevEntry"
+      DisplayName = "{UP} "
+    }
+    {
+      Id = "Codex_NextChapter"
+      DisplayName = "{MR} "
+    }
+    {
+      Id = "Codex_PrevChapter"
+      DisplayName = "{ML} "
+    }
+    {
+      Id = "Codex_EntryLocked"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_EntryUnlocked"
+      DisplayName = "{CX} "
+    }
+    {
+      Id = "Codex_DefaultGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_KeepGoingHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}"
+    }
+
+    {
+      Id = "Codex_LockedActivityHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  ..."
+    }
+
+    {
+      Id = "Codex_FishingGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_HotSpringsGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_TavernaGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_TavernaGiftHintEris"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+
+    {
+      Id = "Codex_FishNextHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_UnavailableHint"
+      DisplayName = "{$TempTextData.CharacterName}  {#ItalicLightFormat}(...)"
+    }
+    {
+      Id = "Codex_AlreadyReceivedGift"
+      DisplayName = "{$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_DoesntWantGiftHint"
+      DisplayName = " {$TempTextData.CharacterName}"
+    }
+    {
+      Id = "Codex_TimePassesGiftUsed"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_GrowingCloser01"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_TrustDeepened01"
+      DisplayName = "{$TempTextData.CharacterName}  "
+    }
+    {
+      Id = "Codex_NyxHint01"
+      DisplayName = "{$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_PreBondForgedHecate"
+      DisplayName = "{$TempTextData.CharacterName} ...  "
+    }
+    {
+      Id = "Codex_BondForgedHecate"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedOdysseus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedSkelly"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedDora"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedNemesis"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedCharon"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedMoros"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedEris"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedHermes"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedArtemis"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedSelene"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+
+    {
+      Id = "Codex_BondForgedZeus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedHera"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedPoseidon"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedDemeter"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedApollo"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedAphrodite"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedHephaestus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedHestia"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedAres"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedAthena"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedDionysus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+
+    {
+      Id = "Codex_BondForgedArachne"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedNarcissus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedEcho"
+      DisplayName = " {$TempTextData.CharacterName} ... ... ..."
+    }
+    {
+      Id = "Codex_BondForgedHeracles"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedMedea"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedCirce"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedIcarus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedZagreus"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedHadesPersephone"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedPersephoneAlt"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedChronos"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+    {
+      Id = "Codex_BondForgedChaos"
+      DisplayName = " {$TempTextData.CharacterName} "
+    }
+
+    {
+      Id = "Codex_DoraNotInTent"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_DoraNotInMain"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_DoraUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_DoraUnlockHint02"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_DionysusGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_DionysusGiftHint02"
+      DisplayName = "{$TempTextData.CharacterName}  {$UnitSetData.NPC_Dionysus.NPC_Dionysus_01.GiftTextLineSets.DionysusGift07.Cost.SuperGiftPoints}{!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_DionysusUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  "
+    }
+    {
+      Id = "Codex_AthenaUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_AthenaUnlockHint02"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  "
+    }
+    {
+      Id = "Codex_ArachneGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_CharonGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_CharonUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  {!Icons.WeaponPointsRare}   {!Icons.CharonPoints} "
+    }
+    {
+      Id = "Codex_NemesisGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_NemesisHotSpringsGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_NemesisHotSpringsGiftHintAlt"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon}"
+    }
+    {
+      Id = "Codex_NemesisUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_MorosUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HecateUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_ArtemisUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_IcarusUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_IcarusUnlockHint02"
+      DisplayName = "{$TempTextData.CharacterName}   {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_ErisUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_OdysseusUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  "
+    }
+    {
+      Id = "Codex_ArachneUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_SkellyUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_MedeaUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_CirceUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HeraclesGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_NarcissusUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_EchoUnlockHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_ZeusGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HeraDemeterGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_PoseidonGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  {$WeaponShopItemData.ToolFishingRod.Name} "
+    }
+    {
+      Id = "Codex_ApolloGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_AphroditeGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HephaestusGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HestiaGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_AresGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_SeleneGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_HermesGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  "
+    }
+    {
+      Id = "Codex_ChaosGiftHint01"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon}  {$Keywords.PackagedBounties} "
+    }
+    {
+      Id = "Codex_HadesGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_ZagreusGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_ChronosGiftHint"
+      DisplayName = "{$TempTextData.CharacterName}  {!TempTextData.ResourceIcon} "
+    }
+    {
+      Id = "Codex_Boon_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_Wield_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_Slay_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_SlayAlt_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_Interact_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_Enter_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}: {#CodexPreReqNumberFormat}{$TempTextData.Amount} {#CodexStandardFormat} \\]"
+    }
+    {
+      Id = "Codex_Mystery_Locked"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat} ... {#Prev}\\]"
+    }
+    {
+        Id = "Codex_Custom_Relationship_Requirement"
+      DisplayName = "\n {#CodexStandardFormat}\\[ {#CodexPreReqFormat}  {$TempTextData.Name}  {#CodexStandardFormat} \\]"
+    }
+    {
+        Id = "Codex_Custom_Story_Requirement"
+      DisplayName = "\n {#CodexStandardFormat}{!Icons.CodexEntryIncompleteIcon}  {#CodexChapterClearFormat}... {#CodexStandardFormat}"
+    }
+    {
+      Id = "Codex_Complete"
+      DisplayName = "\n {#CodexStandardFormat}{!Icons.CodexEntryCompleteIcon}{#CodexStandardFormat}"
+    }
+    {
+      Id = "Codex_ChthonicGodsChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_OlympianGodsChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_OtherDenizensChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_EnemiesUWChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_EnemiesSFChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_WeaponsChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_FamiliarsChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_BiomesChapter"
+      DisplayName = ""
+    }
+
+    {
+      Id = "Codex_ItemsChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_FishChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_GiftChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "UnknownCodexChapter"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex_EnemyStats",
+      DisplayName = "— : {#CodexVanquishedFormat}{$TempTextData.KillCount}"
+    }
+
+    /* BoonInfoScreen / BoonInfo Screen */
+
+    {
+      Id = "Codex_BoonInfo_Title"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+
+    {
+      Id = "Codex_BoonInfo_Title_Hammer"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Staff"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Dagger"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Torch"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Axe"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Lob"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Title_Hammer_Suit"
+      DisplayName = " {$TempTextData.WeaponName}"
+    }
+
+    {
+      Id = "Codex_BoonInfo_Selene"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Arachne"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Narcissus"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Echo"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Medea"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Circe"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Icarus"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+    {
+      Id = "Codex_BoonInfo_Charon"
+      DisplayName = " {$TempTextData.BoonName}"
+    }
+
+    {
+      Id = "BoonInfo_BulletPoint"
+      DisplayName = "{!Icons.Bullet}{$TempTextData.TraitName}"
+    }
+    {
+      Id = "BoonInfo_BulletPoint_NoTraitName"
+      DisplayName = "{!Icons.Bullet}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "BoonInfo_Requirements"
+      DisplayName = ""
+    }
+    {
+      Id = "BoonInfo_NoRequirements"
+      DisplayName = "()"
+    }
+    {
+      Id = "BoonInfo_OneOf_Singular"
+      DisplayName = ":"
+    }
+    {
+      Id = "BoonInfo_OneOf"
+      DisplayName = ":"
+    }
+    {
+      Id = "BoonInfo_TwoOf"
+      DisplayName = ":"
+    }
+    {
+      Id = "BoonInfo_LinkedGod_Header"
+      InheritFrom = "BoonInfo_OneOf"
+    }
+    {
+      Id = "BoonInfo_LinkedGod_Boon"
+      DisplayName = "{!Icons.Bullet} {$TempTextData.LinkedGod}"
+    }
+
+    {
+      Id = "BoonInfo_CountRequirement"
+      DisplayName = "{!Icons.Bullet}{$TempTextData.FinalKey}: {$TempTextData.Value}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "BoonInfo_CountRequirementIcon"
+      DisplayName = "{$TempTextData.Value}{!TempTextData.FinalKeyIcon}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "BoonInfo_Elements"
+      DisplayName = ":"
+    }
+    {
+      Id = "BoonInfo_GodBoonRarities"
+      DisplayName = ":"
+    }
+    {
+      Id = "BoonInfo_HighestBaseElementCount"
+      DisplayName = "{$TempTextData.Value}{!Icons.EarthNoTooltip}, {$TempTextData.Value}{!Icons.WaterNoTooltip}, {$TempTextData.Value}{!Icons.AirNoTooltip},  {$TempTextData.Value}{!Icons.FireNoTooltip}"
+    }
+    {
+      Id = "BoonInfo_NoneOf"
+      DisplayName = ":"
+    }
+
+    {
+      Id = "BoonInfo_PageNumber"
+      DisplayName = "{$TempTextData.CurrentPageNum} {!Icons.Slash} {$TempTextData.NumPages}"
+    }
+    {
+      Id = "BoonInfo_ShowTooltips"
+      DisplayName = "{CF} "
+    }
+    {
+      Id = "BoonInfo_ShowRequirements"
+      DisplayName = "{CF} "
+    }
+
+    /* AwardScreen / Keepsakes Screen / AwardMenu Screen */
+    {
+      Id = "AwardMenu_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "AwardMenu_SubTitle"
+      DisplayName = "“  ”"
+    }
+    {
+      Id = "Keepsake_Level_1"
+      DisplayName = "   {!Icons.AwardRank1}"
+    }
+    {
+      Id = "Keepsake_Level_2"
+      DisplayName = "   {!Icons.AwardRank2}"
+    }
+    {
+      Id = "Keepsake_Level_3"
+      DisplayName = "   {!Icons.AwardRank3}"
+    }
+    {
+      Id = "LegendaryKeepsake_Level_1"
+      DisplayName = "   {!Icons.LegendaryAwardRank1}"
+    }
+    {
+      Id = "LegendaryKeepsake_Level_2"
+      DisplayName = "   {!Icons.LegendaryAwardRank2}"
+    }
+    {
+      Id = "LegendaryKeepsake_Level_3"
+      DisplayName = "   {!Icons.LegendaryAwardRank3}"
+    }
+    {
+      Id = "LegendaryKeepsake_Level_4"
+      DisplayName = "   {!Icons.LegendaryAwardRank4}"
+    }
+    {
+      Id = "LegendaryKeepsake_Level_5"
+      DisplayName = "   {!Icons.LegendaryAwardRank5}"
+    }
+    {
+      Id = "Keepsake_Level_Progress"
+      DisplayName = " {$Keywords.Encounter} {#BoldFormatGraft}{$TempTextData.Chambers} {#Prev}{#BoldFormatGraft}{#Prev}!"
+    }
+    {
+      Id = "Keepsake_Level_Progress_Few"
+      DisplayName = " {$Keywords.EncounterPlural} {#BoldFormatGraft}{$TempTextData.Chambers} {#Prev}{#BoldFormatGraft}{#Prev}!"
+    }
+    {
+      Id = "Keepsake_Level_Progress_Many"
+      DisplayName = " {$Keywords.EncounterPlural} {#BoldFormatGraft}{$TempTextData.Chambers} {#Prev}{#BoldFormatGraft}{#Prev}!"
+    }
+    {
+      Id = "Keepsake_Level_Progress_Other"
+      DisplayName = " {$Keywords.EncounterPlural} {#BoldFormatGraft}{$TempTextData.Chambers} {#Prev}{#BoldFormatGraft}{#Prev}!"
+    }
+    {
+      Id = "Legendary_Keepsake_Level_Progress"
+      DisplayName = " {!Icons.SuperGiftPoints} {#BoldFormatGraft}{#Prev}!"
+    }
+    {
+      Id = "Keepsake_Level_Progress_Max"
+      DisplayName = " "
+    }
+    {
+      Id = "Equipped_Subtitle"
+      DisplayName = "!"
+    }
+    {
+      Id = "Keepsake_Blocked_Subtitle"
+      DisplayName = " (...)"
+    }
+    {
+      Id = "Hades_Keepsake_Blocked_Subtitle"
+      DisplayName = " ()"
+    }
+    {
+      Id = "NewTraitUnlocked_Subtitle"
+      DisplayName = "{$TempTextData.Gift}"
+    }
+    {
+      Id = "NewGiftPrefix"
+      DisplayName = "!"
+    }
+    {
+      Id = "UnknownAward"
+      DisplayName = "()"
+      Description = ""
+    }
+    {
+      Id = "UnknownLegendaryAward"
+      DisplayName = "()"
+      Description = " {!Icons.SuperGiftPoints} "
+    }
+    {
+      Id = "UnknownLegendaryAward_Hidden"
+      DisplayName = "()"
+      Description = "..."
+    }
+    {
+      Id = "UnknownLegendaryAward_Locked"
+      DisplayName = "()"
+      Description = "\n\n {#ItalicFormatDark}"
+    }
+    {
+      Id = "UnknownLegendaryAward_Locked_Hidden"
+      DisplayName = "()"
+      Description = " \n\n {#ItalicFormatDark}"
+    }
+
+    /* GameStatsScreen / Archivist */
+    {
+      Id = "GameStatsScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Weapons"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Boons"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_WeaponUpgrades"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Aspects"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Keepsakes"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Familiars"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStatsScreen_Usage"
+      DisplayName = ""
+    }
+    {
+      Id = "GameStats_Missing"
+      DisplayName = "--"
+      OverwriteLocalization = true
+    }
+
+    /* RunHistoryScreen / Sage */
+    {
+      Id = "RunHistoryScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "RunHistoryScreen_RunName"
+      DisplayName = "{$TempTextData.RouteName}  {$TempTextData.RunNum}"
+    }
+    {
+      Id = "RunHistoryScreen_Num"
+      DisplayName = ""
+    }
+    {
+      Id = "RunHistoryScreen_RouteF"
+      DisplayName = "{!Icons.UnderworldIcon}"
+    }
+    {
+      Id = "RunHistoryScreen_RouteN"
+      DisplayName = "{!Icons.SurfaceIcon}"
+    }
+    {
+      Id = "RunHistoryScreen_RouteBounty"
+      DisplayName = "{!Icons.ChaosIcon}"
+    }
+    {
+      Id = "RunHistoryScreen_RouteDream"
+      DisplayName = "{!Icons.DreamIcon}"
+    }
+    {
+      Id = "RunHistoryScreen_RunErased"
+      DisplayName = "{#LockedFormat}..."
+    }
+    {
+      Id = "RunHistoryScreen_Cleared"
+      DisplayName = "{#RunHistorySuccessFormat}!!"
+    }
+    {
+      Id = "RunHistoryScreenResult_Erebus"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.F.BaseF.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Erebus_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.F.BaseF.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Oceanus"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.G.BaseG.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Oceanus_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.G.BaseG.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Fields"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.H.BaseH.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Fields_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.H.BaseH.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_ClockworkTartarus"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.I.BaseI.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_ClockworkTartarus_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.I.BaseI.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Ephyra"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.N.BaseN.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Ephyra_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.N.BaseN.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Thessaly"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.O.BaseO.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Thessaly_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.O.BaseO.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Olympus"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.P.BaseP.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Olympus_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.P.BaseP.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Q"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.Q.BaseQ.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Q_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.Q.BaseQ.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Anomaly"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.Anomaly.BaseAnomaly.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Secret"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.Chaos.BaseChaos.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Secret_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.Chaos.BaseChaos.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Elysium"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.C.C_Boss01.SaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_Elysium_Dream"
+      DisplayName = " {#RunHistoryFailureFormat}{$RoomSetData.C.C_Boss01.DreamSaveProfileLocationText}{#Prev}"
+    }
+    {
+      Id = "RunHistoryScreenResult_BountyFailed"
+      DisplayName = "{#RunHistoryFailureFormat}"
+    }
+    {
+      Id = "RunHistoryScreenResult_BountyCleared"
+      DisplayName = "{#RunHistorySuccessFormat}!"
+    }
+    {
+      Id = "RunHistoryScreenResult_UnknownFail"
+      InheritFrom = "RunHistoryScreenResult_BountyFailed"
+    }
+    {
+      Id = "RunHistoryScreen_PackagedBounty"
+      DisplayName = "- {$TooltipData.BountyName} -"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "RunHistoryScreen_DreamBiomeVisitOrder"
+      DisplayName = "- {!TooltipData[1]} {!TooltipData[2]} {!TooltipData[3]} {!TooltipData[4]} -"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "RunHistoryScreen_Weapon"
+      DisplayName = ""
+    }
+    {
+      Id = "RunHistoryScreen_Keepsake"
+      DisplayName = ""
+    }
+    {
+      Id = "RunHistoryScreen_KeepsakePlural"
+      DisplayName = ""
+    }
+    {
+      Id = "RunHistoryScreen_Assist"
+      DisplayName = ""
+    }
+
+    /* RunClearScreen / Victory Screen */
+    {
+      Id = "RunClearScreen_Title"
+      DisplayName = "     !"
+    }
+    {
+      Id = "RunClearScreen_Title_Surface"
+      DisplayName = "       !"
+    }
+    {
+      Id = "RunClearScreen_EasyModeLevel"
+      DisplayName = "{!Icons.EasyModeIcon}"
+    }
+    {
+      Id = "RunClearScreen_ClearTime"
+      DisplayName = ":"
+    }    
+    {
+      Id = "RunClearScreen_RunStats"
+      DisplayName = ""
+    }
+    {
+      Id = "RunClearScreen_ClearTimeRecord"
+      DisplayName = ":"
+    }
+    {
+      Id = "RunClearScreen_ShrinePoints"
+      DisplayName = " {!Icons.ShrinePoint}:"
+    }
+    {
+      Id = "RunClearScreen_ShrinePointsRecord"
+      DisplayName = "{!Icons.ShrinePoint} :"
+    }
+    {
+      Id = "RunClearScreen_DamageDealt"
+      DisplayName = ""
+    }
+    {
+      Id = "RunClearScreen_DamageDealtAllies"
+      DisplayName = ""
+    }
+    {
+      Id = "RunClearScreen_DamageTaken"
+      DisplayName = ""
+    }
+
+    {
+      Id = "RunClearScreen_TotalClears"
+      DisplayName = ":"
+    }
+    {
+      Id = "RunClearScreen_ClearStreak"
+      DisplayName = ":"
+    }
+    {
+      Id = "RunClearScreen_ClearStreakRecord"
+      DisplayName = ":"
+    }
+    {
+      Id = "RunClearScreen_NewRecord"
+      DisplayName = "!"
+    }
+    {
+      Id = "RunClearScreen_Header_Weapon"
+      DisplayName = ""
+    }
+    {
+      Id = "RunClearScreen_Header_Clears"
+      DisplayName = ""
+    }
+    {
+      Id = "RunClearScreen_Header_RecordClearTime_Underworld"
+      DisplayName = "{!Icons.UnderworldIcon}"
+    }
+    {
+      Id = "RunClearScreen_Header_RecordShrinePoints_Underworld"
+      DisplayName = "{!Icons.UnderworldFearIcon}"
+    }
+    {
+      Id = "RunClearScreen_Header_RecordClearTime_Surface"
+      DisplayName = "{!Icons.SurfaceIcon}"
+    }
+    {
+      Id = "RunClearScreen_Header_RecordShrinePoints_Surface"
+      DisplayName = "{!Icons.SurfaceFearIcon}"
+    }
+
+    /* Victory Screen Weapon Data / Projectile Names / Weapon Names */
+    {
+      Id = "HeroSkyTouchdown"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponMorphedAttack"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponMorphedAttack_Pig"
+      DisplayName = ""
+    }
+    {
+      Id = "WeaponMorphedAttack_Rat"
+      DisplayName = ""
+    }
+
+    /* Music Player / Bard Shade */
+
+    {
+      Id = "Menu_MusicPlayerPurchase"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_MusicPlayerPlay"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_MusicPlayerPause"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "Menu_MusicPlayerShuffle"
+      DisplayName = "{CF} "
+    }
+
+    /* Run Cleared Messages / Victory Screen Messages / Commendations / Run Commendations */
+    {
+      Id = "ClearRequiredTraitsZeus"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsHera"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsPoseidon"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsApollo"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsDemeter"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsAphrodite"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsHephaestus"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsHestia"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsHermes"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsAres"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredTraitsChaos"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+
+    {
+      Id = "ClearUnderworldNumOne"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearUnderworldNumTen"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearUnderworldNumFifty"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearUnderworldNumOneHundred"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearUnderworldNumTwoFifty"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearUnderworldNumFiveHundred"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumOne"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumTen"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumFifty"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumOneHundred"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumTwoFifty"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSurfaceNumFiveHundred"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearNearDeath"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearFullHealth"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighArmor"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearTimeFast"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearTimeVeryFast"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearTimeSlow"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearMoneyNone"
+      DisplayName = "{!Icons.RunClearDotsLeft} {$ConstantsData.OneHundred}%{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearMoneyHigh"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearAllUnderworldStoryRooms"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearAllSurfaceStoryRooms"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearAllUnderworldReprieveRooms"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighMaxHealth"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearSynergyTraits"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearLegendaryTraits"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredIntactArachneDress"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    
+    {
+      Id = "ClearNoOlympianBoons"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighSacrificeBoons"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighMaxMana"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighSpentLastStands"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearElementalTraits"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighOlympianBoons"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearNoNPCs"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighFear"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearRequiredIntactIcarusArmor"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighHammerCount"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearLowMetaUpgradeTraits"
+      DisplayName = "{!Icons.RunClearDotsLeft}?{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearHighMetaUpgradeTraits"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearNoDamageTakenFromBosses"
+      DisplayName = "{!Icons.RunClearDotsLeft}{!Icons.RunClearDotsRight}"
+    }
+    {
+      Id = "ClearDreamRun"
+      DisplayName = "{!TooltipData[1]} {!TooltipData[2]} {!TooltipData[3]} {!TooltipData[4]}"
+    }
+
+    /* Shrine / Shrine Screen / Shrine Upgrades / Oath of the Unseen */
+    {
+      Id = "UseShrineObject"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "UseOrSpecialShrineObject"
+      DisplayName = "{I} \n {SI} "
+    }
+    {
+      Id = "ShrineIntro"
+      DisplayName = ""
+      Description = """
+      {#AlertItalicFormat}! {#Prev}{#AlertHeaderFormat}{#Prev} {#AlertHighlightFormat}{$Keywords.Bounties} {#Prev}  :
+
+      · {#AlertHighlightFormat} {#Prev}  {!Icons.ShrinePoint}{#AlertBoldFormat}{#Prev} 
+
+      ·  {#BoldFormat}{$Keywords.Boss} {#Prev}
+
+      ·   {!Icons.WeaponPointsRare}{#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}
+
+      {#AlertHighlightFormat} {#Prev} {!Icons.ShrinePoint}{#AlertBoldFormat} {#Prev} {#AlertHighlightFormat} {#Prev}  
+
+      {!Icons.DivLong}
+
+      {#AlertItalicFormat}: {#Prev}{#AlertHighlightFormat}{$Keywords.Bounties} {#Prev}  !
+    """
+    }
+    {
+      Id = "ShrineScreen_BountyHeader"
+      DisplayName = "{$Keywords.Bounties} ({$TempTextData.Completed} {!Icons.Slash} {$TempTextData.Total})"
+    }
+    {
+      Id = "ShrineMenu_Flavor"
+      DisplayName = "“ ”"
+    }
+    {
+      Id = "ShrineMenu_Info"
+      DisplayName = ""
+    }
+    {
+      Id = "ShrineScreen_NextRankPoints"
+      DisplayName = "+{$TempTextData.NextRankPoints}{!Icons.ShrinePoint}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShrineScreen_BountyShrinePoints"
+      DisplayName = "{$TempTextData.RequiredShrinePoints}{!Icons.ShrinePoint}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShrineScreen_RankMaxed"
+      DisplayName = ""
+    }
+    {
+      Id = "ShrineScreen_Activate"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "ShrineScreen_RankUp"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "ShrineScreen_RankDown"
+      DisplayName = "{RD} "
+    }
+    {
+      Id = "ShrineScreen_ResetAll"
+      DisplayName = "{ML} "
+    }
+    {
+      Id = "ShrineScreen_UpgradeMaxed"
+      DisplayName = ""
+    }
+    {
+      Id = "ShrineScreen_BountyProgress"
+      DisplayName = "{#LockedFormat}: {#Prev}{#BoldFormat}{$TempTextData.Completed} {!Icons.Slash} {$TempTextData.Total}"
+    }
+    {
+      Id = "ShrineScreen_ActivePoints"
+      DisplayName = "{$GameState.SpentShrinePointsCache}{!Icons.ShrinePoint}"
+    }
+    {
+      Id = "ShrineScreen_SkellyHeader"
+      DisplayName = "{#VowScreenNightsChampion}{#Prev}!"
+    }
+    {
+      Id = "ShrineScreen_SkellyHeader_Complete"
+      DisplayName = "{#VowScreenNightsChampion}{#Prev}!"
+    }
+    {
+      Id = "ShrineScreen_SkellyStatueSurface_Incomplete"
+      DisplayName = "{#BoldFormatGraft} {#Prev}— {#ShrineHighlightFormat}{$ActiveScreens.Shrine.NextSurfaceSkellyShrinePointGoal}{!Icons.ShrinePoint}"
+    }
+    {
+      Id = "ShrineScreen_SkellyStatueSurface_Insufficient"
+      DisplayName = "{#BoldFormatGraft} {#Prev}— {#ShrineHighlightInsufficientFormat}{$ActiveScreens.Shrine.NextSurfaceSkellyShrinePointGoal}{!Icons.ShrinePoint}"
+    }
+    {
+      Id = "ShrineScreen_SkellyStatueSurface_Complete"
+      InheritFrom = "ShrineScreen_SkellyStatueSurface_Incomplete"
+    }
+    {
+      Id = "ShrineScreen_SkellyStatueUnderworld_Incomplete"
+      DisplayName = "{#BoldFormatGraft} {#Prev}— {#ShrineHighlightFormat}{$ActiveScreens.Shrine.NextUnderworldSkellyShrinePointGoal}{!Icons.ShrinePoint}"
+    }
+    {
+        Id = "ShrineScreen_SkellyStatueUnderworld_Insufficient"
+        DisplayName = "{#BoldFormatGraft} {#Prev}— {#ShrineHighlightInsufficientFormat}{$ActiveScreens.Shrine.NextUnderworldSkellyShrinePointGoal}{!Icons.ShrinePoint}"
+    }
+    {
+      Id = "ShrineScreen_SkellyStatueUnderworld_Complete"
+      InheritFrom = "ShrineScreen_SkellyStatueUnderworld_Incomplete"
+    }
+
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Staff"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Dagger"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Torch"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Axe"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Lob"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_NoBountyAvailable_Suit"
+      DisplayName = " {$Keywords.Bounties}   {$TempTextData.WeaponName} ..."
+    }
+    {
+      Id = "ShrineScreen_BountyAvailable_ZeroPoints"
+      DisplayName = " {$Keywords.Bounty}"
+    }
+  	{
+  	  Id = "ShrineScreen_BountyAvailable_BelowPoints"
+  	  DisplayName = " {$Keywords.ShrinePoints}  {$Keywords.Bounty} "
+  	}
+    {
+  	  Id = "ShrineScreen_BountyAvailable_ExactPoints"
+  	  DisplayName = "{$Keywords.Bounty}   "
+  	}
+    {
+  	  Id = "ShrineScreen_BountyAvailable_ExcessPoints1"
+  	  DisplayName = "{$Keywords.Bounty}  {$Keywords.ShrinePoints} "
+  	}
+    {
+  	  Id = "ShrineScreen_BountyAvailable_ExcessPoints2"
+      DisplayName = "{$Keywords.Bounty}  {$Keywords.ShrinePoints} "
+  	}
+    {
+  	  Id = "ShrineScreen_BountyAvailable_ExcessPoints3"
+      DisplayName = "{$Keywords.Bounty}  {$Keywords.ShrinePoints}  "
+  	}
+    {
+      Id = "ShrineScreen_BountyAvailable_MaxPoints"
+      DisplayName = "{$Keywords.Bounty}  {$Keywords.ShrinePoints}  ?"
+    }
+
+    /* WellShop / Well Shop */
+    {
+      Id = "WellShop_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "UseWell_Unlocked"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "UseWell_Locked"
+      DisplayName = "{I} {#UseTextDisabledFormat}?"
+    }
+    {
+      Id = "UseStore"
+      DisplayName = "{I} "
+    }
+
+    {
+      Id = "WellShop_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "WellShop_FlavorText02"
+      DisplayName = " "
+    }
+    {
+      Id = "WellShop_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Sell Trait Shop / SellTrait Shop / Trait Shop */
+    {
+      Id = "UseTraitShop_Unlocked"
+      DisplayName = "{I} "
+    }
+    {
+      Id = "UseTraitShop_Locked"
+      DisplayName = "{I} {#UseTextDisabledFormat}?"
+    }
+    {
+      Id = "SellTrait_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "SellTraitPrefix"
+      DisplayName = ""
+    }
+    {
+      Id = "Sell_ItemCost"
+      DisplayName = "+{$TempTextData.Amount} {!Icons.Currency}"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SellTrait_Hint"
+      DisplayName = " {!Icons.Currency}"
+    }
+
+    {
+      Id = "SellTrait_FlavorText01"
+      DisplayName = " "
+    }
+    {
+      Id = "SellTrait_FlavorText02"
+      DisplayName = ""
+    }
+    {
+      Id = "SellTrait_FlavorText03"
+      DisplayName = ""
+    }
+
+    /* Surface Shop */
+    {
+      Id = "SurfaceShop_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "Store_Hint"
+      DisplayName = " {!Icons.Currency}  "
+    }
+    {
+      Id = "PendingDeliveryDuration"
+      DisplayName = "{#LockedFormat} {#Prev}{#PropertyFormat} {#BoldFormat}{$TempTextData.Delay} {#Prev}{$Keywords.Encounter}"
+    }
+    {
+      Id = "SpeedUpDelivery"
+      DisplayName = "{#LegendaryFormat}! {#Prev}{#PropertyFormat} {#BoldFormat}{$TempTextData.Delay} {$Keywords.Encounter}{#Prev} {#BoldFormatGraft}{#Prev}!!"
+    }
+
+    /* Interstitials */
+    {
+      Id = "Interstitial_SkipPrompt"
+      DisplayName = "{SL} "
+    }
+
+  ]
+}

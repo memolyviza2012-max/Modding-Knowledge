@@ -1,0 +1,2355 @@
+{
+/* Boot Sequence / Announcement Screen / Main Menu / Start Screen / Announcement Screen / Roadmap */
+
+  lang = "en"
+  Texts = [
+    {
+      Id = "MainMenuScreen_BootAnnouncement_UpdateWarning"
+      DisplayName = ""
+      Description = """
+			 {#AlertHeaderFormat}Hades II{#Prev}
+
+			{#AlertBoldFormat}: {#Prev}   @GUI\\Icons\\GhostEmote\\OhBoy
+
+			{#AlertHighlightFormat}  {#Prev} Supergiant Games 
+		"""
+    }
+    {
+      Id = "MainMenuScreen_BootAnnouncement_EarlyAccess"
+      DisplayName = "!"
+      Description = """
+        {#AlertHighlightFormat}v1.0 {#Prev} {#AlertHeaderFormat}Hades II{#Prev}  {#AlertHighlightFormat}Early Access {#Prev} {#AlertItalicFormat}!
+
+       {#AlertHighlightFormat}Early Access {#Prev}  {#AlertBoldFormat} {#Prev}  15  
+
+       {#AlertHighlightFormat}Early Access {#Prev}  {#AlertHeaderFormat}Hades II {#Prev}   
+
+        
+      """
+    }
+    {
+      Id = "MainMenuScreen_BootAnnouncement_EarlyAccess_Loc"
+      DisplayName = ""
+      Description = """
+       {#AlertHeaderFormat}Hades II{#Prev}  {#AlertHighlightFormat}Early Access{#Prev} 
+
+         
+
+      {#AlertBoldFormat}: {#Prev}   {#AlertBoldFormat}F10 {#Prev}
+
+       
+      """
+    }
+    {
+      Id = "MainMenuScreen_BootAnnouncement_EarlyAccess_LocAlt"
+      DisplayName = ""
+      Description = """
+       {#AlertHeaderFormat}Hades II{#Prev}  {#AlertHighlightFormat}Early Access{#Prev} 
+
+         
+
+      {#AlertHighlightFormat}: {#Prev}   
+
+       
+      """
+    }
+
+    /* Main Menu - Additional Content */
+    {
+      Id = "LastUpdate"
+      DisplayName = ": "
+    }
+    {
+      Id = "NextUpdateCountdownCustom"
+      DisplayName = ": \n {#NextUpdateCountFormat} v1.0!!"
+    }
+    {
+      Id = "NextUpdateCountdown"
+      DisplayName = ": {#NextUpdateCountFormat}"
+    }
+    {
+      Id = "NextUpdateCountdownPassed"
+      DisplayName = " \n  !"
+    }
+    {
+      Id = "NextUpdateCountdownSingular"
+      DisplayName = " {#NextUpdateCountFormat}{#NextUpdateBaseFormat}!"
+    }
+    {
+      Id = "NextUpdateCountdownPlural"
+      DisplayName = " {#NextUpdateCountFormat}{#NextUpdateBaseFormat}!"
+    }
+    {
+      Id = "NextUpdateGeneral"
+      DisplayName = "!"
+    }
+    {
+      Id = "DevBuildWatermark"
+      DisplayName = " 0."
+	  OverwriteLocalization = true
+    }
+    {
+      Id = "ControllerWarning"
+      DisplayName = ": "
+    }
+    {
+      Id = "AudioDriverWarning"
+      DisplayName = "! "
+    }
+    {
+      Id = "PatchNotesScreen_ShowSpoilers"
+      DisplayName = "{MX} "
+    }
+    {
+      Id = "PatchNotesScreen_HideSpoilers"
+      DisplayName = "{MX} "
+    }
+
+    /* Patch Notes */
+    {
+      Id = "MainMenuScreen_PatchSubHeading"
+      DisplayName = "@GUI\\Icons\\GhostPack {#CommonFormat} - !"
+    }
+    /* Latest Patch Notes / New Patch Notes */
+    {
+      Id = "MainMenuScreen_PatchNotes"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_PatchNotesTitle"
+      DisplayName = ""
+    }
+
+    /* Roadmap / Development Roadmap */
+    {
+      Id = "MainMenuScreen_Roadmap"
+      DisplayName = " "
+      Description = """
+      {#AlertHeaderFormat}Hades II -  -  2025
+
+       {#AlertHighlightFormat}Early Access {#Prev}  {#AlertHighlightFormat}v1.0 {#Prev}!@GUI\\Icons\\GhostPack  
+
+      @GUI\\HorizontalDividerLong
+
+      {#AlertH2Format}: {#Prev} {#AlertHighlightFormat} {#Prev} {#AlertHighlightFormat}Early Access{#Prev}     !
+
+      {#AlertH2Format} v1.0 : {#Prev} {#AlertHeaderFormat}Hades II {#Prev} 
+
+      {#AlertH2Format} v1.0: {#Prev} {#AlertHighlightFormat}v1.0 {#Prev}  !
+
+      @GUI\\HorizontalDividerLong
+
+        {#AlertHighlightFormat}Early Access {#Prev}     {#AlertHeaderFormat}Hades{#Prev} 
+
+      {#AlertH2Format}: {#Prev}
+
+      @GUI\\Shell\\selector {#AlertHighlightFormat}: {#Prev}  {#AlertHighlightFormat}v1.0 {#Prev}    
+
+      @GUI\\Shell\\selector {#AlertHighlightFormat}: {#Prev}   {#AlertItalicFormat} {#Prev}
+
+      @GUI\\Shell\\selector {#AlertHighlightFormat}: {#Prev} {#AlertHeaderFormat}Hades II{#Prev}  
+
+        
+
+      @GUI\\HorizontalDividerLong
+
+      {#AlertH2Format}: {#Prev} {#AlertHeaderFormat}Hades II {#Prev}  
+
+        {#AlertBoldFormat} {#Prev} {#AlertHighlightFormat}Early Access {#Prev} {#AlertHighlightFormat}v1.0 {#Prev}!
+
+    @GUI\\HorizontalDividerLong
+
+      {#AlertH2Format}: {#Prev}!  {#AlertHighlightFormat}v1.0 {#Prev}  
+
+       {#AlertHeaderFormat}Hades II {#Prev}  {#AlertItalicFormat}! {#Prev} {#AlertHighlightFormat}Early Access {#Prev}  
+
+    @GUI\\SGLogo_Roadmap
+    """
+    }
+
+    /* Hades II Patch Notes */
+    {
+      Id = "MainMenuScreen_PatchNotes_0011"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 11 - 23  2025
+      {#AlertItalicFormat}! {#Prev}{#AlertItalicFormat}{#Prev} {#AlertHighlightFormat}v1.0 {#Prev}     {#AlertHighlightFormat}Early Access{#Prev}!
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}: {#Prev} {#AlertHighlightFormat}v1.0 {#Prev} True Ending   {#AlertBoldFormat}Zodiac Sand {#Prev} {#AlertBoldFormat}Void Lens {#Prev} {#AlertBoldFormat}Prestige{#Prev}  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#Spoiler} (){#Prev}: 
+      · {#Spoiler} (){#Prev}: ; ; ; ; 
+      · {#Spoiler} (){#Prev}: ; 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertBoldFormat}{#Prev}:   {#AlertBoldFormat}{#Prev}; 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat} (){#Prev}:   {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertBoldFormat}{#Prev}:  +100%  
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} () {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}  
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#Spoiler} (){#Prev}: 
+      · {#Spoiler} (){#Prev}: 
+      · {#Spoiler} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}  
+      · {#AlertHighlightFormat} (){#Prev}:  
+      @GUI\\Icons\\GhostPack 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack   {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} () {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} {#Prev}:    ; 
+      ·  {#AlertHighlightFormat} () {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}; 
+      ·  {#AlertBoldFormat} {#Prev} 
+      · {#Spoiler}{#Prev}: ; ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#Spoiler}{#Prev}: 
+      · {#Spoiler}{#Prev}: 
+      · {#Spoiler}{#Prev}:  {#Spoiler} {#Prev} 
+      · {#Spoiler} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: ; 
+      · {#AlertHighlightFormat} () {#Prev}: ; 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: 
+      · {#AlertHighlightFormat} () {#Prev}: ; 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat}
+
+      {#AlertH2Format}{#Prev}
+      ·   
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}
+
+      {#AlertH2Format}{#Prev}
+      · 
+      ·  {#Spoiler} ()
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack   {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}   () {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#Spoiler} () {#Prev}  {#AlertBoldFormat} ( x )
+      ·  {#AlertBoldFormat} {#Prev} ''
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#Spoiler}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}  {#Spoiler}
+      @GUI\\Icons\\GhostPack   {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} () {#Prev} {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#Spoiler} ()
+      ·  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} () {#Prev} {#AlertBoldFormat} ( - )
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( - ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} ( - ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}...
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}...
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}  {#Spoiler} {#Prev}
+      ·   {#Spoiler} {#Prev}
+      · 
+      ·  {#AlertBoldFormat}  {#AlertBoldFormat}   ()
+      ·  {#AlertBoldFormat} 
+      @GUI\\Icons\\GhostPack   
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack 
+      · 
+
+      {#QuoteH2Format}
+      {#QuoteItalicFormat}' \[\]     '
+
+      {#QuoteBoldFormat}~ {#QuoteBaseFormat}(;  D. Raeburn)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0010"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 10 - 2  2025
+       {#AlertHighlightFormat}Unseen Update{#Prev} !    {#AlertHighlightFormat}v1.0 {#Prev} !  {#AlertHighlightFormat}Early Access{#Prev}!
+
+      {#AlertH2Format}{#Prev}
+      ·  ''
+      ·    {#AlertBoldFormat}Security System (Hephaestus){#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Sister Blades{#Prev}:  Omega Attack 
+      · {#AlertHighlightFormat}Umbral Flames{#Prev}:  Omega Special 
+      · {#AlertHighlightFormat}Argent Skull{#Prev}:  Omega Special 
+      · {#AlertHighlightFormat}Black Coat{#Prev}: ;  Omega Attack  ;  Special
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Witch's Staff (Melinoë){#Prev}: 
+      · {#AlertHighlightFormat}Witch's Staff (Momus){#Prev}:  Omega Move 
+      · {#AlertHighlightFormat}Sister Blades (Pan){#Prev}: 
+      · {#Spoiler}Sister Blades (Morrigan){#Prev}:  
+      · {#AlertHighlightFormat}Umbral Flames (Moros){#Prev}: ;  Omega Attack  
+      · {#Spoiler}Umbral Flames (Supay){#Prev}:  Attack  Special ;  Rush Boon
+      · {#Spoiler}Moonstone Axe (Nergal){#Prev}:  Dash-Strike ;  Attack 
+      · {#AlertHighlightFormat}Argent Skull (Medea){#Prev}:  Attack  
+      · {#AlertHighlightFormat}Argent Skull (Persephone){#Prev}: 
+      · {#Spoiler}Argent Skull (Hel){#Prev}: 
+      · {#AlertHighlightFormat}Black Coat (Nyx){#Prev}:  Omega Boost;  Special Nightspawns
+      · {#Spoiler}Black Coat (Shiva){#Prev}:  Destructive   Omega Attack ;  Special;  Omega Special  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Vow of Frenzy{#Prev}: ;  {#AlertBoldFormat}Vow of Rivals {#Prev}
+      · {#AlertHighlightFormat}Vow of Scars{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Steady Growth (Demeter){#Prev}:  Rarify 
+      · {#AlertBoldFormat}Hestia{#Prev}:  Scorch   {#AlertBoldFormat}Air Quality (Zeus)
+      · {#AlertHighlightFormat}Flame Strike (Hestia){#Prev}:  Scorch 
+      · {#AlertHighlightFormat}Flame Flourish (Hestia){#Prev}:  Scorch 
+      · {#AlertHighlightFormat}Success Rate (Hermes){#Prev}:  {#AlertBoldFormat}Raki 
+      · {#AlertHighlightFormat}Incandescent Aura (Hera x Hestia){#Prev}:  —  Hitch 
+      · {#AlertHighlightFormat}Natural Selection (Poseidon x Demeter){#Prev}:  — 
+      · {#AlertHighlightFormat}Scalding Vapor (Poseidon x Hestia){#Prev}:  Froth 
+      · {#AlertHighlightFormat}Gigaros Dash (Hades){#Prev}: ;  Scorn  Attack  Special
+      · {#AlertHighlightFormat}Unseen Ire (Hades){#Prev}: 
+      · {#AlertHighlightFormat}Crimson Dress (Arachne){#Prev}: ;  Encounter
+
+      {#AlertH2Format} Daedalus{#Prev}
+      · {#AlertHighlightFormat}Boosted Ignition (Skull){#Prev}:  {#Spoiler}Aspect of Hel
+      · {#AlertHighlightFormat}Looming Ignition (Skull){#Prev}:   
+      · {#Spoiler}Pharaoh Etchings (Staff){#Prev}: {#AlertBoldFormat}! {#Prev}Lone Shades   Omega Special 
+      · {#Spoiler}Sinister Pinion (Blades){#Prev}: {#AlertBoldFormat}! {#Prev}Special 
+      · {#Spoiler}Helheim Charge (Skull){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Attack 
+      · {#Spoiler}Chakra Collider (Coat){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Attack  Power Shot 
+
+      {#AlertH2Format}{#Prev}      
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Path of Stars {#Prev}  {#AlertBoldFormat}Godsent{#Prev}
+      ·  {#AlertBoldFormat}Godsent {#Prev} 
+      · {#AlertHighlightFormat}Twilight Curse{#Prev}:  Morph    Inferno-Bombs
+      · {#AlertHighlightFormat}Prize of Poseidon (Moon Water){#Prev}: ; ... 
+      · {#AlertHighlightFormat}Pride of Poseidon (Moon Water){#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  
+      · {#AlertHighlightFormat}Zenith (Sky Fall){#Prev}: ;  {#AlertBoldFormat}Ambition{#Prev} 
+      · {#AlertHighlightFormat}Lineage{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}Godsent {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Discordant Bell{#Prev}:  
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format} Hermes{#Prev}
+      · {#AlertHighlightFormat}Fresh Sustenance MAX{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}Vow of Rivals {#Prev} ...
+      · {#Spoiler}Unrivaled Typhon{#Prev}:  {#Spoiler}Chronos{#Prev} ; 
+      · {#Spoiler}Unrivaled Chronos{#Prev}: ;  Swipe; {#Spoiler}Tempii {#Prev} {#AlertBoldFormat}Twilight Curse (Selene){#Prev};  Warden 
+      · {#Spoiler}Unrivaled Prometheus{#Prev}:  {#Spoiler}{#Prev}; {#Spoiler}Heracles {#Prev}; {#Spoiler}Aetos   Prometheus 
+      · {#Spoiler}Unrivaled Cerberus{#Prev}: 
+      · {#Spoiler}Unrivaled Eris{#Prev}: ; 
+      · {#Spoiler}Unrivaled Scylla{#Prev}:  {#Spoiler}
+      · {#Spoiler}Unrivaled Polyphemus{#Prev}:  ; {#Spoiler}Curing Pools {#Prev} {#Spoiler} {#Prev}  
+      · {#Spoiler}Unrivaled Hecate{#Prev}: ;  {#Spoiler}Dark Side {#Prev} Sisters of the Dead
+
+      {#AlertH2Format}{#Prev}
+      ·  Tools of the Unseen 
+      ·  {#Spoiler} Typhon
+      ·  {#AlertBoldFormat}Crescent Pick {#Prev}
+      ·   Arcana  {#AlertBoldFormat}Barren (Chaos)
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  Melinoë  Frinos  
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Path of Stars
+      · {#AlertBoldFormat}Heracles {#Prev}
+      ·  {#AlertBoldFormat}Icarus{#Prev}
+      · 
+      ·  {#AlertBoldFormat}Altar of Ashes{#Prev}, {#AlertBoldFormat}Silver Pool{#Prev}  {#AlertBoldFormat}Music Maker{#Prev}
+      ·   {#AlertBoldFormat}Vow of Scars
+      ·  Special  Omega Special  {#AlertBoldFormat}Victory Screen
+      ·  {#AlertBoldFormat}Argent Skull (Medea)
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  Melinoë  500   {#AlertBoldFormat}Eruption (Path of Stars) {#Prev} {#AlertBoldFormat}Night Bloom (Selene) {#Prev} Tempus  Chronos...
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  Dash-Strike  {#AlertBoldFormat}Moonstone Axe
+      @GUI\\Icons\\GhostPack  {#Spoiler}Moonstone Axe (Nergal) {#Prev} {#AlertBoldFormat}Psychic Whirlwind (Daedalus)
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Black Coat {#Prev}
+      @GUI\\Icons\\GhostPack  Hidden Aspects 
+      @GUI\\Icons\\GhostPack  Wounds  {#AlertBoldFormat}Ares {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Sea Star (Poseidon) {#Prev} {#AlertBoldFormat}Gold Gold Gold (Echo) 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Personal Loan (Dionysus) {#Prev} Rarified
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Heracles {#Prev}
+      ·  {#AlertBoldFormat}Athena {#Prev}
+      ·  {#Spoiler}Typhon {#Prev}
+      ·  Cast  Attack  Special 
+      ·  {#AlertBoldFormat}Past Deeds {#Prev} 36   
+      ·  Satyr Supplicant 
+      ·  UI Plasma  {#AlertBoldFormat}Ares {#Prev}
+      @GUI\\Icons\\GhostPack 
+      · 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'   Eurystheus ;  '{#Prev}
+
+      {#QuoteBoldFormat}~The Homeric Hymns, 15: To Lion-Hearted Herakles {#QuoteBaseFormat}(Homer;  A. Athanassakis)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0009"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat}Early Access Patch 9:  - 17  2025
+
+      {#AlertHighlightFormat}Major Update {#Prev} {#AlertHighlightFormat}Early Access {#Prev}  Hidden Aspect {#AlertItalicFormat}{#Prev},  Guardian Encounter {#AlertItalicFormat}{#Prev},     !  {#AlertBoldFormat}Development Roadmap {#Prev} {#AlertHighlightFormat}v1.0 {#Prev} !
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Hidden Aspects{#Prev}: ...
+      · {#AlertHighlightFormat}Vow of Rivals{#Prev}:  {#AlertBoldFormat}Oath of the Unseen {#Prev} Guardian 
+      · {#AlertHighlightFormat}Revamped Umbral Flames{#Prev}: Flames of Ygnium 
+      · {#AlertHighlightFormat}Godsent Hexes{#Prev}: {#AlertBoldFormat}Path of Stars {#Prev} Selene Hex 
+      · {#AlertHighlightFormat}Forge Bonds{#Prev}: 
+      · {#AlertHighlightFormat}New Wardens{#Prev}: 
+      · {#AlertHighlightFormat}Shinier Artwork{#Prev}:   
+      · {#AlertHighlightFormat}New Music{#Prev}:  ...
+
+      {#AlertH2Format}{#Prev}
+      ·  Encounter   
+      ·  {#AlertItalicFormat}()
+      ·    ''
+      ·  Location  
+      ·  Olympic Slam  {#AlertBoldFormat} {#Prev} 
+      ·  {#AlertBoldFormat}Rod of Fishing {#Prev}; 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Sister Blades{#Prev}:  Omega Special
+      · {#AlertHighlightFormat}Umbral Flames{#Prev}:  —  Attack  Special 
+      · {#AlertHighlightFormat}Black Coat{#Prev}:  Attack, Omega Attack  Omega Special
+
+      {#AlertH2Format}Aspects of the Nocturnal Arms{#Prev}
+      · {#Spoiler}Witch's Staff (Anubis){#Prev}: {#AlertBoldFormat}! {#Prev}   Lone Shades 
+      · {#Spoiler}Sister Blades (Morrigan){#Prev}: {#AlertBoldFormat}! {#Prev} Blood Triad 
+      · {#Spoiler}Umbral Flames (Supay){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#Spoiler}Moonstone Axe (Nergal){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#Spoiler}Argent Skull (Hel){#Prev}: {#AlertBoldFormat}! {#Prev} Shells
+      · {#Spoiler}Black Coat (Shiva){#Prev}: {#AlertBoldFormat}! {#Prev} Omega Special 
+      · {#AlertHighlightFormat}Witch's Staff (Melinoë){#Prev}:  —  Power  Special 
+      · {#AlertHighlightFormat}Witch's Staff (Circe){#Prev}:  —  Casts, Animal Familiar ;  Psychic Leash 
+      · {#AlertHighlightFormat}Sister Blades (Pan){#Prev}:  Omega Special 
+      · {#AlertHighlightFormat}Umbral Flames (Melinoë){#Prev}:  —  Attack  Special   
+      · {#AlertHighlightFormat}Moonstone Axe (Charon){#Prev}:  Casts 
+      · {#AlertHighlightFormat}Argent Skull (Persephone){#Prev}:  Omega Special ;  Lv. 
+      · {#AlertHighlightFormat}Black Coat (Nyx){#Prev}:  Nightspawn 
+
+      {#AlertH2Format}Altar of Ashes{#Prev}
+      · {#AlertHighlightFormat}Excellence{#Prev}: 
+      · {#AlertHighlightFormat}Strength{#Prev}: 
+      · {#AlertHighlightFormat}Divinity{#Prev}:  Rarity 
+      · {#AlertHighlightFormat}The Unseen{#Prev}: 
+      ·  Insights  Inspect Arcana Cards 
+      ·  Arcana Cards 
+
+      {#AlertH2Format}Oath of the Unseen{#Prev}
+      · {#AlertHighlightFormat}Vow of Rivals{#Prev}: {#AlertBoldFormat}! {#Prev} Guardian ; Rank  Guardian ;  Rank  
+      ·  Fear  {#Spoiler}Night's Champion {#Prev} {#AlertBoldFormat}Schelemeus {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Vow of Scars
+      @GUI\\Icons\\GhostPack  Perk {#AlertBoldFormat}Stopper {#Prev} {#AlertBoldFormat}Vow of Fangs {#Prev}      
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Air Quality (Zeus){#Prev}: 
+      · {#AlertBoldFormat}Poseidon{#Prev}: Slip Curse  {#AlertBoldFormat}Froth{#Prev}, 
+      · {#AlertHighlightFormat}Tidal Ring (Poseidon){#Prev}:   Froth
+      · {#AlertHighlightFormat}Breaker Rush (Poseidon){#Prev}:  
+      · {#AlertHighlightFormat}Fluid Gain (Poseidon){#Prev}: ; ...
+      · {#AlertHighlightFormat}Flood Gain (Poseidon){#Prev}: Omega Moves  
+      · {#AlertHighlightFormat}Sea Star (Poseidon){#Prev}: 
+      · {#AlertHighlightFormat}High Surf (Poseidon){#Prev}: 
+      · {#AlertHighlightFormat}Depth Charge (Poseidon){#Prev}: ; ...
+      · {#AlertHighlightFormat}Ocean Swell (Poseidon){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Moves  
+      · {#AlertHighlightFormat}Slippery Slope (Poseidon){#Prev}:  Froth 
+      · {#AlertHighlightFormat}Prominence Flare (Apollo){#Prev}: 
+      · {#AlertHighlightFormat}Tranquil Gain (Demeter){#Prev}: 
+      · {#AlertHighlightFormat}Frosty Veneer (Demeter){#Prev}:  
+      · {#AlertBoldFormat}Aphrodite{#Prev}:  Weak Curse 
+      · {#AlertHighlightFormat}Life Affirmation (Aphrodite){#Prev}:  {#AlertItalicFormat}(){#Prev}; ...
+      · {#AlertHighlightFormat}Spiritual Affirmation (Aphrodite){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}Shameless Attitude (Aphrodite){#Prev}: 
+      · {#AlertBoldFormat}Hephaestus{#Prev}: Vent Curse  {#AlertBoldFormat}Glow{#Prev}, 
+      · {#AlertHighlightFormat}Volcanic Strike (Hephaestus){#Prev}: 
+      · {#AlertHighlightFormat}Volcanic Flourish (Hephaestus){#Prev}: 
+      · {#AlertHighlightFormat}Uncanny Fortitude (Hephaestus){#Prev}: 
+      · {#AlertHighlightFormat}Mint Condition (Hephaestus){#Prev}:  {#AlertItalicFormat}(){#Prev}; ...
+      · {#AlertHighlightFormat}Security System (Hephaestus){#Prev}: {#AlertBoldFormat}! {#Prev} Encounter   
+      · {#AlertHighlightFormat}Heavy Metal (Hephaestus){#Prev}:  — 
+      · {#AlertBoldFormat}Hestia{#Prev}:  Scorch Curse;  Scorch   {#AlertBoldFormat}Rallying Cry (Ares)
+      · {#AlertHighlightFormat}Flame Flourish (Hestia){#Prev}:  Scorch
+      · {#AlertHighlightFormat}Heat Rush (Hestia){#Prev}:  —  
+      · {#AlertHighlightFormat}Burnt Offering (Hestia){#Prev}: ; ...
+      · {#AlertHighlightFormat}Snuffed Candle (Hestia){#Prev}: {#AlertBoldFormat}! {#Prev};  {#AlertBoldFormat}Single Elimination (Ares)
+      · {#AlertHighlightFormat}Fire Walk (Hestia){#Prev}: ; ...
+      · {#AlertHighlightFormat}Fire Away (Hestia){#Prev}: {#AlertBoldFormat}! {#Prev}Casts  {#AlertBoldFormat}Scorch
+      · {#AlertBoldFormat}Ares{#Prev}:  Blood Drops  {#AlertBoldFormat}Plasma
+      · {#AlertHighlightFormat}Mortal Gain (Ares){#Prev}: ; ...
+      · {#AlertHighlightFormat}Grisly Gain (Ares){#Prev}: {#AlertBoldFormat}! {#Prev} Plasma  
+      · {#AlertHighlightFormat}Single Elimination (Ares){#Prev}: ;  {#AlertBoldFormat}Hestia {#Prev}  {#AlertBoldFormat}Snuffed Candle
+      · {#AlertHighlightFormat}Mean Streak (Hermes){#Prev}: 
+      · {#AlertHighlightFormat}Easy Shot (Artemis){#Prev}: 
+      · {#AlertHighlightFormat}Shadow Pounce (Artemis){#Prev}:  Omega Moves  Dash
+      · {#AlertHighlightFormat}Whispered Prayer (Artemis){#Prev}: {#AlertBoldFormat}! {#Prev}Hex 
+      · {#AlertHighlightFormat}Divine Dash (Athena){#Prev}:  Deflect 
+      · {#AlertHighlightFormat}Task Force (Athena){#Prev}: {#AlertBoldFormat}! {#Prev}Godsent Hexes  Encounter
+      · {#AlertHighlightFormat}Worry Free (Dionysus){#Prev}:  
+      · {#AlertHighlightFormat}Personal Loan (Dionysus){#Prev}: {#AlertBoldFormat}! {#Prev} Gold ;  Guardian  !
+      · {#AlertHighlightFormat}Reckless Abandon (Dionysus){#Prev}: {#AlertBoldFormat}! {#Prev}Attack 
+      · {#AlertHighlightFormat}Cinerary Circle (Hades){#Prev}:  Soul Urns  
+      · {#AlertHighlightFormat}Gigaros Dash (Hades){#Prev}: {#AlertBoldFormat}! {#Prev}Dash  Attack  Special 
+      · {#AlertHighlightFormat}Unseen Ire (Hades){#Prev}:   
+      · {#AlertHighlightFormat}Moonlight Dress (Arachne){#Prev}:  — Outfit  Hexes ;  {#AlertBoldFormat}Gilded Dress
+      · {#AlertHighlightFormat}Crimson Dress (Arachne){#Prev}: {#AlertBoldFormat}! {#Prev}Outfit  Encounter 
+      · {#AlertHighlightFormat}Gold Gold Gold (Echo){#Prev}: {#AlertBoldFormat}! {#Prev} Charon 
+      · {#AlertHighlightFormat}Gift Gift Gift (Echo){#Prev}: {#AlertBoldFormat}! {#Prev} Region   Keepsake  
+      · {#AlertHighlightFormat}Harm for the Afflicted (Medea){#Prev}: {#AlertBoldFormat}! {#Prev} Curse 
+      · {#AlertHighlightFormat}Word of Greater Girth (Circe){#Prev}: 
+      · {#AlertHighlightFormat}Hymn to the Eye of Night (Circe){#Prev}: {#AlertBoldFormat}! {#Prev}Hex 
+      · {#AlertHighlightFormat}Turning to a Simple Form (Circe){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Moves  Morph
+      · {#AlertHighlightFormat}Ingenious Strike (Icarus){#Prev}:  —  Lv.  Attack 
+      · {#AlertHighlightFormat}Ingenious Flourish (Icarus){#Prev}:  —  Lv.  Special 
+      · {#AlertHighlightFormat}Full Service (Icarus){#Prev}: {#AlertBoldFormat}! {#Prev} Hammer  Rank II
+      · {#AlertItalicFormat}: {#Prev}
+      ·  {#AlertBoldFormat}Duo {#Prev} ...
+      · {#AlertHighlightFormat}Thermal Dynamics (Zeus x Hestia){#Prev}:  Scorch
+      · {#AlertHighlightFormat}Golden Rule (Hera x Poseidon){#Prev}:  Gold
+      · {#AlertHighlightFormat}Brave Face (Hera x Hephaestus){#Prev}: 
+      · {#AlertHighlightFormat}Incandescent Aura (Hera x Hestia){#Prev}: 
+      · {#AlertHighlightFormat}Natural Selection (Poseidon x Demeter){#Prev}:  Rarity 
+      · {#AlertHighlightFormat}Scalding Vapor (Poseidon x Hestia){#Prev}:  Froth Curse 
+      · {#AlertHighlightFormat}Love Handles (Aphrodite x Hephaestus){#Prev}:  Heartthrob
+      · {#AlertHighlightFormat}Carnal Pleasure (Aphrodite x Ares){#Prev}:  Heartthrob 
+      · {#AlertHighlightFormat}Chain Reaction (Hephaestus x Hestia){#Prev}: 
+      ·  Cast 
+      ·  Rarity  {#AlertBoldFormat}Poms of Power
+      · 
+      ·  
+
+      {#AlertH2Format} Daedalus Hammer{#Prev}
+      · {#AlertHighlightFormat}Melting Swipe (Staff){#Prev}:  — Dash-Strike  ;  {#AlertBoldFormat}Melting {#Prev}
+      · {#AlertHighlightFormat}Hidden Helix (Flames){#Prev}:  — Special ;  {#AlertBoldFormat}Triple Helix
+      · {#AlertHighlightFormat}Enduring Coil (Flames){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Special 
+      · {#AlertHighlightFormat}Possessed Array (Skull){#Prev}:  Shells  Hex 
+      ·  Hidden Aspects  :
+      · {#Spoiler}Mirrored Ankh (Staff){#Prev}: {#AlertBoldFormat}! {#Prev}Omega Attack 
+      · {#Spoiler}Soulfilled Ankh (Staff){#Prev}: {#AlertBoldFormat}! {#Prev}Attack  Power 
+      · {#Spoiler}Scarab Etchings (Staff){#Prev}: {#AlertBoldFormat}! {#Prev}Lone Shades 
+      · {#Spoiler}Phantom Etchings (Blades){#Prev}: {#AlertBoldFormat}! {#Prev} Blood Triad 
+      · {#Spoiler}Banshee Brand (Blades){#Prev}: {#AlertBoldFormat}! {#Prev} Blood Triad 
+      · {#Spoiler}Demonic Cell (Flames){#Prev}: {#AlertBoldFormat}! {#Prev} Sprint, Attack  Special  Power 
+      · {#Spoiler}Heaven Splitter (Axe){#Prev}: {#AlertBoldFormat}! {#Prev}Attack  
+      · {#Spoiler}Iron Core (Axe){#Prev}: {#AlertBoldFormat}! {#Prev} Berserk 
+      · {#Spoiler}Garmr Gaze (Skull){#Prev}: {#AlertBoldFormat}! {#Prev}Attack 
+      · {#Spoiler}Leering Glance (Skull){#Prev}: {#AlertBoldFormat}! {#Prev} Attack 
+      · {#Spoiler}Runic Driver (Skull){#Prev}: {#AlertBoldFormat}! {#Prev}Special 
+      · {#Spoiler}Venerated Relic (Skull){#Prev}: {#AlertBoldFormat}! {#Prev} Valkyrie 
+      · {#Spoiler}Nirvana Engine (Coat){#Prev}: {#AlertBoldFormat}! {#Prev} Destructive  
+      · {#Spoiler}Elephant Rockets (Coat){#Prev}: {#AlertBoldFormat}! {#Prev}Special  Power 
+      · {#Spoiler}Counter Supreme (Coat){#Prev}: {#AlertBoldFormat}! {#Prev} Omega Attack   Destructive
+      · {#Spoiler}Awakened Rockets (Coat){#Prev}: {#AlertBoldFormat}! {#Prev} Omega Special  Special 
+      · {#Spoiler}Mooncrest Riser (Coat){#Prev}: {#AlertBoldFormat}! {#Prev}Dash-Strike 
+      ·  Daedalus Hammer 
+
+      {#AlertH2Format}Hexes  Path of Stars{#Prev}
+      · {#AlertHighlightFormat}Temper of Zeus{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Twilight Curse {#Prev}
+      · {#AlertHighlightFormat}Nurture of Hera{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Night Bloom {#Prev}
+      · {#AlertHighlightFormat}Prize of Poseidon{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Moon Water {#Prev}
+      · {#AlertHighlightFormat}Squall of Demeter{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Phase Shift
+      · {#AlertHighlightFormat}Shine of Apollo{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Lunar Ray {#Prev}
+      · {#AlertHighlightFormat}Allure of Aphrodite{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  Heartthrobs  {#AlertBoldFormat}Dark Side
+      · {#AlertHighlightFormat}Hand of Hephaestus{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  {#AlertBoldFormat}Wolf Howl
+      · {#AlertHighlightFormat}Hearth of Hestia{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  Scorch  {#AlertBoldFormat}Total Eclipse
+      · {#AlertHighlightFormat}Lance of Ares{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent  Wounds  {#AlertBoldFormat}Sky Fall {#Prev}
+      · {#AlertHighlightFormat}Twilight Curse{#Prev}:  Morph
+      · {#AlertHighlightFormat}Bearing (Lunar Ray){#Prev}:  —  Hex
+      · {#AlertHighlightFormat}Revulsion (Twilight Curse){#Prev}: ; ...
+      · {#AlertHighlightFormat}Spread (Twilight Curse){#Prev}: {#AlertBoldFormat}! {#Prev}Hex 
+      · {#AlertHighlightFormat}Infection (Twilight Curse){#Prev}:  Curse    Curse 
+      · {#AlertHighlightFormat}Finality (Night Bloom){#Prev}: ; ...
+      · {#AlertHighlightFormat}Eruption (Night Bloom){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Saturation (Moon Water){#Prev}: Omega Cast 
+      · {#AlertHighlightFormat}Tenacity (Wolf Howl){#Prev}:  — 
+      · {#AlertHighlightFormat}Eminence (Total Eclipse){#Prev}:  —  Hex
+
+      {#AlertH2Format}Keepsakes{#Prev}
+      · {#AlertHighlightFormat}Knuckle Bones (Odysseus){#Prev}: 
+      ·  Forge Bonds   Keepsake 
+      ·  Keepsake  Eris  Charon ...
+      · Keepsake  Apollo  Purest Hope  {#AlertBoldFormat}Harmonic Photon
+      · {#AlertBoldFormat}Fig Leaf (Dionysus){#Prev}, {#AlertBoldFormat}Discordant Bell (Eris){#Prev},  {#AlertBoldFormat}Lion Fang (Heracles) {#Prev} {#AlertBoldFormat}Ephyra {#Prev}
+
+      {#AlertH2Format}Animal Familiars{#Prev}
+      ·  Familiar 
+      · {#AlertBoldFormat}Frinos{#Prev}, {#AlertBoldFormat}Hecuba{#Prev},  {#AlertBoldFormat}Gale {#Prev}
+      ·  {#AlertBoldFormat}Hecuba {#Prev} {#AlertBoldFormat}Gale{#Prev} 
+      ·  {#AlertBoldFormat}Gale {#Prev} {#Spoiler}Olympus {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Gemstones{#Prev}: {#AlertBoldFormat}! {#Prev}   {#AlertBoldFormat}Prestige
+      ·  {#AlertBoldFormat}Chaos {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Lotus {#Prev} Incantations 
+      ·  Plasma  {#AlertBoldFormat}Flux
+
+      {#AlertH2Format}Well of Charon{#Prev}
+      · {#AlertHighlightFormat}Faint Flicker{#Prev}:  Gold  Psyche 
+
+      {#AlertH2Format}{#Prev}
+      ·  Guardian Encounter {#AlertItalicFormat}{#Prev} {#AlertBoldFormat}Vow of Rivals (Oath) {#Prev}
+      · {#Spoiler}Typhon{#Prev}:   Egg; 
+      · {#Spoiler}Chronos{#Prev}:   Tempus 
+      · {#AlertHighlightFormat}Prometheus{#Prev}: ;  Flame Strikes 
+      · {#AlertHighlightFormat}Headmistress Hecate{#Prev}: Twilight Curse  {#Spoiler} {#Prev}
+      · {#Spoiler}Master-Slicer{#Prev}: {#AlertBoldFormat}! {#Prev} Warden  {#AlertBoldFormat}Erebus
+      · {#Spoiler}Lanthorn{#Prev}: {#AlertBoldFormat}! {#Prev} Encounter  {#Spoiler}Master-Slicer
+      · {#Spoiler}Erymanthian Boar{#Prev}: {#AlertBoldFormat}! {#Prev} Warden  {#AlertBoldFormat}Ephyra
+      · {#Spoiler}Wringer{#Prev}: {#AlertBoldFormat}! {#Prev} Vow of Rivals 
+      · {#Spoiler}Eye of Typhon{#Prev}: {#AlertBoldFormat}! {#Prev} Warden encounter  {#AlertBoldFormat}Summit
+      · {#AlertHighlightFormat}King Vermin{#Prev}:  
+      · {#AlertHighlightFormat}The Verminancer{#Prev}:  Crawlers  
+      · {#AlertHighlightFormat}Talos{#Prev}: 
+      · {#AlertHighlightFormat}Auto-Forcer{#Prev}: 
+      · {#AlertHighlightFormat}Auto-Watcher{#Prev}: 
+      · {#AlertHighlightFormat}Satyr Raider{#Prev}: 
+      · {#AlertHighlightFormat}Satyr Goldpike{#Prev}: 
+      · {#AlertHighlightFormat}Satyr Sapper{#Prev}: ; 
+      · {#AlertHighlightFormat}Satyr Supplicant{#Prev}:  — 
+      · {#AlertHighlightFormat}Blasket{#Prev}: 
+      ·   Encounter 
+
+      {#AlertH2Format}{#Prev}
+      · Guardian Encounters  Location  {#AlertBoldFormat}Vow of Rivals (Oath) {#Prev}
+      @GUI\\Icons\\GhostPack  Encounter  {#AlertBoldFormat}Olympus {#Prev}
+      @GUI\\Icons\\GhostPack  Region {#AlertBoldFormat}Rift of Thessaly {#Prev}; Location 
+      ·  Pillars  {#AlertBoldFormat}Tartarus {#Prev} 
+      ·  Location  {#AlertBoldFormat}Summit
+      ·  Location 
+
+      {#AlertH2Format}Chaos Trials{#Prev}
+      · {#AlertHighlightFormat}Chaos Above{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}Surface {#Prev}
+      · {#AlertHighlightFormat}Great Chaos Above{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}Surface {#Prev}  Vows  Oath 
+      · {#AlertHighlightFormat}Chaos Below{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}Underworld {#Prev}
+      · {#AlertHighlightFormat}Great Chaos Below{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}Underworld {#Prev}  Vows  Oath 
+      · {#AlertHighlightFormat}Trial of the Maiden{#Prev}: {#AlertBoldFormat}! {#Prev}Trial  Hecate  {#AlertBoldFormat}Erebus {#Prev} Vow of Rivals 
+      · {#AlertHighlightFormat}Trial of the Flock{#Prev}: {#AlertBoldFormat}! {#Prev}Trial  Polyphemus  {#AlertBoldFormat}Ephyra {#Prev} Vow of Rivals 
+      · {#AlertHighlightFormat}Trial of the Drifter{#Prev}: {#AlertBoldFormat}! {#Prev}Trial  Scylla  {#AlertBoldFormat}Oceanus {#Prev} Vow of Rivals 
+      · {#AlertHighlightFormat}Trial of the Fairest{#Prev}: {#AlertBoldFormat}! {#Prev}Trial  Eris  {#AlertBoldFormat}Thessaly {#Prev} Vow of Rivals 
+      · {#AlertHighlightFormat}Trial of the Jackal{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Witch's Staff  {#AlertBoldFormat}Ephyra
+      · {#AlertHighlightFormat}Trial of the Banshee{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Sister Blades  {#AlertBoldFormat}Oceanus
+      · {#AlertHighlightFormat}Trial of the Daemon{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Umbral Flames  {#AlertBoldFormat}Mourning Fields
+      · {#AlertHighlightFormat}Trial of the Marauder{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Moonstone Axe  {#AlertBoldFormat}Thessaly
+      · {#AlertHighlightFormat}Trial of the Outcast{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Argent Skull  {#AlertBoldFormat}Erebus
+      · {#AlertHighlightFormat}Trial of the Supreme{#Prev}: {#AlertBoldFormat}! {#Prev} Hidden Aspect  Black Coat  {#AlertBoldFormat}Olympus
+      ·  Trials  Aspects 
+
+      {#AlertH2Format}The Crossroads Renewal Project{#Prev}
+      ·  {#AlertBoldFormat}Arcana Card Backs{#Prev}   Arcana  {#AlertBoldFormat}Altar of Ashes
+      ·  Crossroads  Fishing Pier  Tent
+      · {#AlertBoldFormat}Eris {#Prev} Crossroads 
+      ·  {#AlertBoldFormat}Dora {#Prev} Taverna
+      ·  Prestige ; 
+      ·  Soil Plots  Crossroads 
+
+      {#AlertH2Format}Crossroads Cauldron{#Prev}
+      · {#AlertHighlightFormat}Quickening of Sentimental Value{#Prev}: {#AlertBoldFormat}! {#Prev} Keepsakes 
+      · {#AlertHighlightFormat}Gathering of Subterranean Riches{#Prev}: {#AlertBoldFormat}! {#Prev}Grave Thirst  Gemstones  Guardian
+      · {#AlertHighlightFormat}Revival of a Desecrating Pool{#Prev}: {#AlertBoldFormat}! {#Prev} Pool of Purging  Tartarus {#AlertItalicFormat}()
+      · {#AlertHighlightFormat}Bounties of the Infinite Abyss{#Prev}: {#AlertBoldFormat}! {#Prev} Oath Vows 
+      · {#AlertHighlightFormat}Green Hand of Gaia{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Greater Sowing of Gardens{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Greatest Gift of Gaia{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertItalicFormat} {#Prev} Location
+      ·  Incantations  ...
+      ·  Incantations  
+
+      {#AlertH2Format}Fated List of Minor Prophecies{#Prev}
+      · {#AlertHighlightFormat}Godsent Favor{#Prev}: {#AlertBoldFormat}! {#Prev} Godsent Hex 
+      · {#AlertHighlightFormat}Soundest of Sleepers{#Prev}: {#AlertBoldFormat}! {#Prev} Hypnos  {#Spoiler}...
+      · {#AlertHighlightFormat}Haunted by the Past{#Prev}: {#AlertBoldFormat}! {#Prev} Dora ...
+      · {#AlertHighlightFormat}Familiar Confidant{#Prev}: {#AlertBoldFormat}! {#Prev} Frinos 
+      · {#AlertHighlightFormat}Denizens of the Depths{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Beyond Familiar{#Prev}: {#AlertBoldFormat}! {#Prev} Animal Familiar 
+      · {#AlertHighlightFormat}Breadth of Knowledge{#Prev}: {#AlertBoldFormat}! {#Prev} Arcana Card 
+      · {#AlertHighlightFormat}Born to Win{#Prev}: {#AlertBoldFormat}! {#Prev} Primordial Chaos 
+      · {#AlertHighlightFormat}Improbable Outcomes{#Prev}: {#AlertBoldFormat}! {#Prev} Chaos Trials  
+      · {#AlertHighlightFormat}Unrivaled Prowess{#Prev}: {#AlertBoldFormat}! {#Prev} Guardian  Vow of Rivals 
+      · {#AlertHighlightFormat}Shadow of Doom{#Prev}: {#AlertBoldFormat}! {#Prev} Warden  
+      · {#Spoiler}The Jackal's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Staff
+      · {#Spoiler}The Crow's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Blades
+      · {#Spoiler}The Shadow's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Flames
+      · {#Spoiler}The Warrior's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Axe
+      · {#Spoiler}The Grave's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Skull
+      · {#Spoiler}The Destroyer's Aspect{#Prev}: {#AlertBoldFormat}! {#Prev} {#Spoiler}Chronos {#Prev} Hidden Aspect  Coat
+      · {#AlertHighlightFormat}The Unseen Sentinel{#Prev}: {#AlertBoldFormat}! {#Prev} Aspects {#AlertItalicFormat}{#Prev}
+      ·  Prophecies 
+
+      {#AlertH2Format}Book of Shadows{#Prev}
+      · 
+      ·  {#AlertBoldFormat}Empath's Intuition (Cauldron) {#Prev} 
+      ·  {#AlertBoldFormat}Insight Into Offerings (Cauldron) {#Prev}  Daedalus Hammer 
+
+      {#AlertH2Format} UI{#Prev}
+      ·  {#AlertBoldFormat}Main Menu {#Prev} {#AlertBoldFormat}Major Update {#Prev}
+      ·  {#AlertBoldFormat}Play
+      ·  {#AlertBoldFormat}Options {#Prev}
+      ·  UI 
+      ·  UI 
+      · 
+      ·    Region 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Past Deeds {#Prev} Commendation  {#AlertBoldFormat}Victory Screens {#Prev}
+      ·    {#AlertBoldFormat}Fated List
+      ·  {#AlertBoldFormat}Altar of Ashes
+      ·  {#AlertBoldFormat}Silver Pool
+      ·  {#AlertBoldFormat}Aspects of the Nocturnal Arms
+      ·    {#AlertBoldFormat}Oath of the Unseen
+      ·  {#AlertBoldFormat}Familiar Bonds {#Prev}... Familiar !
+      ·  {#AlertBoldFormat}Past Deeds
+      ·  {#AlertBoldFormat}Archived Trivia
+      ·  {#AlertBoldFormat}Book of Shadows
+      ·  {#AlertBoldFormat}Gifts of the Moon
+      ·  {#AlertBoldFormat}Path of Stars
+      ·  {#AlertBoldFormat}Victory Screen {#Prev}
+      ·  {#AlertBoldFormat}Fair Trade {#Prev} {#AlertBoldFormat}Nemesis {#Prev}
+      ·  {#AlertBoldFormat}Charon's Gold Rewards
+      ·  {#AlertBoldFormat}Well of Charon
+      ·  {#AlertBoldFormat}Pool of Purging
+      ·  {#AlertBoldFormat}Shrine of Hermes
+      ·  {#AlertBoldFormat}Keepsakes
+      ·  {#AlertBoldFormat}Daedalus Hammer
+      ·  {#AlertBoldFormat}Death Defiance {#Prev}
+      ·  Rank  Keepsake
+      ·  UI {#AlertBoldFormat}Tablet of Peace
+      ·  {#AlertBoldFormat}Controls {#Prev}
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      · 
+      ·  {#AlertBoldFormat}Homer {#Prev}
+      ·  Location 
+      · 
+      · 
+      · 
+      · 
+      ·  3D  {#AlertBoldFormat}Narcissus
+      ·  {#AlertBoldFormat}Cerberus
+      ·  {#Spoiler}Strange Rock {#Prev} {#AlertBoldFormat}Tartarus
+      ·  Hot Springs  {#Spoiler}Icarus
+      ·  {#AlertBoldFormat}Nemesis
+      ·  {#AlertBoldFormat}Moros
+      ·  {#AlertBoldFormat}Dora
+      ·  {#AlertBoldFormat}Arachne
+      ·  {#AlertBoldFormat}Scylla
+      ·  {#AlertBoldFormat}Prometheus {#Prev}
+      ·  {#AlertBoldFormat}Melinoë
+      ·  {#AlertBoldFormat}Eris
+      ·  3D  {#AlertBoldFormat}Echo
+      ·  3D  {#AlertBoldFormat}Circe {#Prev} {#AlertBoldFormat}Piggies {#Prev}
+      ·   {#AlertBoldFormat}Vow of Rivals {#Prev}
+      ·  {#AlertItalicFormat}Return to Shadow {#Prev}
+      ·  {#AlertBoldFormat}Prometheus
+      ·  {#Spoiler}Typhon
+      ·  
+      ·  {#AlertBoldFormat}Change of Fate {#Prev}
+      ·  {#AlertBoldFormat}Hecate {#Prev}
+      ·  {#AlertBoldFormat}Scylla {#Prev}
+      ·  {#AlertBoldFormat}Infernal Beast
+      ·  {#AlertBoldFormat}Chronos
+      ·  {#AlertBoldFormat}Polyphemus
+      ·  {#AlertBoldFormat}Charybdis
+      ·  {#AlertBoldFormat}Eris {#Prev}
+      ·  {#AlertBoldFormat}Prometheus
+      ·  {#AlertBoldFormat}Nemesis {#Prev}
+      ·  {#AlertBoldFormat}Hades {#Prev}
+      ·  Sheep  {#AlertBoldFormat}Polyphemus
+      ·  {#AlertBoldFormat}Dora {#Prev}
+      ·  {#AlertBoldFormat}Grave Thirst
+      ·  {#Spoiler}Asphodel? {#Prev}
+      · 
+      ·  Heracles Wall-Scroll 
+      ·  Cauldron  Alchemy
+      ·  {#Spoiler}Hecate Flashback
+      ·  {#Spoiler}Hades Flashback
+      ·  {#Spoiler}Chronos {#Prev} Location  Erebus  Oceanus
+      ·  Hot Springs
+      ·  Gold Urns  {#AlertBoldFormat}Summit
+      ·  Dionysus  {#AlertBoldFormat}Olympus
+      ·  Supportive Shade
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · 
+      · 
+      ·  Gift  {#AlertItalicFormat}()
+      ·   {#Spoiler} {#Prev}
+      · {#Spoiler}Icarus {#Prev} Crossroads 
+      ·  {#Spoiler}Dora 
+      ·  {#Spoiler} Hypnos {#Prev} ...
+      ·  {#AlertBoldFormat}Duo Boons
+      · {#AlertBoldFormat}Artemis {#Prev} Crossroads 
+      · {#AlertBoldFormat}Selene {#Prev} {#Spoiler} Aspect of the Black Coat 
+      ·  {#AlertBoldFormat}Homer {#Prev}
+      · 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#Spoiler}Scylla and the Sirens{#Prev}  Region 
+      ·  {#AlertBoldFormat}Narcissus
+      ·  {#AlertBoldFormat}Vow of Rivals {#Prev} {#Spoiler}Chronos
+      ·  {#AlertBoldFormat}Vow of Rivals {#Prev} {#Spoiler}Typhon
+      ·  {#AlertBoldFormat}Music Maker
+      ·  Hidden Aspects ; 
+      ·  Encounter 
+      ·  Location    World Map  Regions
+      · 
+      ·  {#AlertBoldFormat}Chaos Trials {#Prev} Crossroads
+      · 
+      ·  Encounter 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertBoldFormat}Auto-Fire{#Prev}:  Auto-Fire  
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}Development Roadmap {#Prev} {#AlertBoldFormat}v1.0 {#Prev}
+      ·  Crossroads  Return to Shadow
+      ·  Commendation   {#AlertBoldFormat}Victory Screen
+      · Shade Suitors  Narcissus 
+      ·  Schelemeus 
+      ·  {#AlertBoldFormat}Word of Greater Girth {#Prev} {#AlertBoldFormat}Word of Smaller Stature{#Prev} Circe 
+      ·  {#AlertBoldFormat}Animal Familiar {#Prev} Location 
+      · {#AlertBoldFormat}Animal Familiars {#Prev} Training Grounds
+      ·  Statues of Demeter  Olympus  Heracles 
+      ·  Arachne 
+      ·  Crossroads 
+      ·  Moon  Training Grounds 
+      ·  Gathering Tools  {#AlertBoldFormat}Silver Pool
+      · Save Slots  Play Menu  {#AlertBoldFormat}Prestige {#Prev} Grasp 
+      @GUI\\Icons\\GhostPack Gameplay Timer    {#AlertBoldFormat}Ephyra
+      ·  {#AlertBoldFormat}Credits {#Prev}
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Gorgon Amulet (Athena) {#Prev} {#AlertBoldFormat}Mount Olympus
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Hermes {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Winner's Circle (Hermes) {#Prev} Cast 
+      ·  {#AlertBoldFormat}Slow Cooker (Hestia) {#Prev} Power  Attack  Special 
+      ·  {#AlertBoldFormat}Acceptance of Another Fate {#Prev} Keepsake 
+      ·  {#AlertBoldFormat}Trusty Shield (Hephaestus) {#Prev} Rarity
+      ·  {#AlertBoldFormat}Artemis {#Prev} {#AlertBoldFormat}Athena {#Prev} Encounter  {#AlertItalicFormat}()
+      ·  {#AlertBoldFormat}Engraved Pin (Moros) {#Prev} {#AlertBoldFormat}Strength (Arcana) {#Prev}
+      ·  {#AlertBoldFormat}Raki {#Prev} Encounter  {#AlertBoldFormat}Oceanus {#Prev}
+      ·  {#AlertBoldFormat}Chronos {#Prev} {#AlertBoldFormat}Book of Shadows {#Prev} 
+      ·  {#AlertBoldFormat}Odysseus {#Prev} Plants 
+      ·  {#AlertBoldFormat}Snow Queen (Demeter) {#Prev}
+      ·  
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'     '{#Prev}
+
+      {#QuoteBoldFormat}~The Odyssey {#QuoteBaseFormat}(Homer;  R. Fagles)
+      {#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}{#Prev}"""
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0008"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 8 - 26  2025
+
+       {#AlertHighlightFormat} Warsong{#Prev} !    {#AlertItalicFormat}Major Update {#Prev}{#AlertHighlightFormat} {#Prev} {#AlertBoldFormat}Roadmap{#Prev}  !
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: ; 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} () {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}: ; ; 
+      · {#Spoiler}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}-{#Prev}: 
+      · {#AlertHighlightFormat}-{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev},   {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} ultrawide
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'    ; : '{#Prev}
+
+      {#QuoteBoldFormat}~:  {#QuoteBaseFormat}(C. Higgins)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0007"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 7:  WARSONG - 19  2025
+
+      {#AlertHighlightFormat} {#Prev}       !   
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}...
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}  
+      · {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat} {#Prev}
+      ·  
+      ·  
+      @GUI\\Icons\\GhostPack 
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:   
+      · {#AlertHighlightFormat}{#Prev}:    
+      · {#AlertHighlightFormat}{#Prev}:   
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev};  —   {#AlertBoldFormat} (){#Prev} 
+      · {#AlertHighlightFormat}{#Prev}:  — 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:   {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}:  Perks ... 
+      @GUI\\Icons\\GhostPack  Fear   Fear 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertHighlightFormat}{#Prev}   {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat}{#Prev}:  {#AlertBoldFormat} {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:   {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  — 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertBoldFormat}{#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}:  — 
+      · {#AlertHighlightFormat} (){#Prev}:  —  Pom 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  —    {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  — 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}{#Prev}   {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev};  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} ( x ){#Prev}:  ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertBoldFormat}: {#Prev} {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  —  
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  —  
+      · {#AlertHighlightFormat} (){#Prev}:    {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  —  
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}  {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:    {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:   Pom 
+      · 
+      ·  {#AlertBoldFormat}Pom 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  — 
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler} {#Prev}: {#AlertBoldFormat}! {#Prev} 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} {#Prev}:   {#AlertItalicFormat}(!)
+
+      {#AlertH2Format}{#Prev}
+      · 
+      ·  {#AlertBoldFormat} {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat}{#Prev}  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} MAX{#Prev}: 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      · {#AlertHighlightFormat}{#Prev}:    
+      · {#AlertHighlightFormat}{#Prev}: ...
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} — 
+      · {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} (){#Prev} 
+      ·  {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev}  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat}{#Prev}  {#AlertBoldFormat}{#Prev}  {#AlertBoldFormat}{#Prev}  ...
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertItalicFormat}() {#Prev} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} 
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      · 
+      ·  
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      · {#Spoiler} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+      · 
+      · 
+      ·  
+      · 
+      ·  
+      · 
+      · 
+      · 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}:   {#AlertBoldFormat} {#Prev}{#AlertItalicFormat}(...)
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat}
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      ·  {#AlertBoldFormat}
+
+      {#AlertH2Format} UI{#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·    
+      ·  {#AlertBoldFormat} {#Prev}  
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} 
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev}; 
+      · 
+      · 
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      · 
+      ·   {#AlertBoldFormat}
+      ·  {#AlertItalicFormat}()
+      ·  {#AlertBoldFormat} ( x )
+      · 
+      ·  {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertBoldFormat} ()
+      · 
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} 2,000 {#Prev} 
+      ·  {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · 
+      ·  
+
+      {#AlertH2Format} SFX{#Prev}
+      · 
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#Spoiler}
+      ·  {#AlertBoldFormat}
+      · 
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      · 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertBoldFormat} {#Prev} 
+      · 
+      · 
+      · 
+      · 
+      · 
+      · 
+      ·  {#AlertBoldFormat}   ()
+      ·  {#AlertBoldFormat}
+      · 
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} () {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertItalicFormat}()
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev}  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} ()  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} ( - ) 
+      · 
+      ·  
+
+      {#QuoteH2Format}
+      {#QuoteItalicFormat}' \[\]    '
+
+      {#QuoteBoldFormat}~The Greek Myths {#QuoteBaseFormat}(R. Graves)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0006"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 6 - 24  2024
+
+        {#AlertHighlightFormat}Olympic Update{#Prev}    {#AlertBoldFormat}Roadmap{#Prev}   !
+
+      {#AlertH2Format}{#Prev}
+      ·   Sprint 
+      ·   {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  Omega Special  {#AlertItalicFormat}( Aspect of Pan)
+      · {#AlertHighlightFormat}{#Prev}: Omega Attack 
+      · {#Spoiler}{#Prev}: Omega Special ;  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Happy Haze ({#Spoiler}{#Prev}){#Prev}:  {#Spoiler}Festive Fog {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      ·  Gold  Infusion
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}:  Flame Strike;  uppercut ; ; ; ...
+      · {#AlertHighlightFormat}{#Prev}: ;  Rail ; 
+      · {#Spoiler}{#Prev}: 
+      · {#Spoiler}-{#Prev}: ; 
+      · {#Spoiler}-{#Prev}: ; ;  Elite
+      · {#Spoiler}-{#Prev}: 
+      · {#Spoiler} {#Prev}: 
+      · {#Spoiler} {#Prev}: ; 
+      · {#Spoiler} {#Prev}: 
+      · {#Spoiler} {#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: ; ; 
+      · {#AlertHighlightFormat}{#Prev}: Twilight Curse  {#Spoiler} 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      ·  {#Spoiler} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler} {#Prev}: ;  Marked 
+      @GUI\\Icons\\GhostPack {#Spoiler} {#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} {#Prev} {#Spoiler}{#Prev} !
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      · 
+      ·  
+
+      {#AlertH2Format} SFX{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}Riposte{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} (){#Prev} 
+      ·  {#AlertBoldFormat}{#Prev}; 
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}Beach Ball ( x ) 
+      · 
+
+      {#AlertH2Format} UI{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      ·   
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat}Worry Free ({#Spoiler}{#Prev})
+      ·  {#AlertBoldFormat} {#Prev}
+      · Aspect  {#Spoiler} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat}Chaos Trials 
+      ·  {#Spoiler}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      ·   
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev} Sell All ...
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Silken Sash () {#Prev}  Keepsake 
+      @GUI\\Icons\\GhostPack  Shrine of Hermes 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Sureshot Flurry ( - ) {#Prev} Special
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Furious Rockets ( - ) {#Prev} Omega Special
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Burnt Offering () {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}  {#Prev} {#Spoiler}{#Prev} 
+      @GUI\\Icons\\GhostPack  {#Spoiler}- {#Prev} {#AlertBoldFormat}Charm
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  Offering Requirements  {#AlertBoldFormat}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev}
+      ·  {#Spoiler}
+      · 
+      · 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'     .'
+
+      {#QuoteBoldFormat}~Theogony {#QuoteBaseFormat}(;  M.L. West)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0005"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat}Early Access  5:  OLYMPIC - 16  2024
+
+      {#AlertHighlightFormat} {#Prev}       {#AlertItalicFormat}{#Prev}!     !
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#Spoiler} {#Prev}? ... ?
+      · {#AlertHighlightFormat}{#Prev}: {#Spoiler}  {#Prev}— 
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: ... !
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat} Mac{#Prev}:  Mac  Apple M1 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  Special 
+      · {#AlertHighlightFormat}{#Prev}:  Special  
+      · {#AlertHighlightFormat}{#Prev}:  Special 
+      · {#AlertHighlightFormat}{#Prev}:  Special  
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}  Special 
+      · {#AlertBoldFormat}Dash {#Prev}
+      ·  Dash 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}:  Attack  Special; ; Shells 
+      · {#Spoiler}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev} {#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat}hapsody{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev}  {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} Arcana {#AlertBoldFormat}
+      · {#AlertHighlightFormat} Keepsake {#Prev}: {#AlertBoldFormat}! {#Prev} Keepsake {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  —  Omega ; {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat}{#Prev}:  Dash  
+      · {#AlertHighlightFormat}{#Prev}:  UI 
+      · {#AlertHighlightFormat}{#Prev}: ; {#AlertItalicFormat} {#Prev} Death Defiance
+      · 
+      · {#AlertBoldFormat}
+      · 
+
+      {#AlertH2Format}Keepsakes{#Prev}
+      ·  Keepsake 
+      · {#AlertHighlightFormat} (){#Prev}:  —  Omega
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} ()
+      ·  Keepsake 
+      ·  Keepsake  {#AlertItalicFormat}(!)
+      ·  Keepsake 
+
+      {#AlertH2Format}{#Prev}
+      · 
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}{#Prev};   Duo 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} ( x ){#Prev}:  Keepsake   
+      · {#AlertHighlightFormat} ( x ){#Prev}:  {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      · {#AlertHighlightFormat} ( x ){#Prev}:  Duo 
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertItalicFormat}()
+      · {#AlertHighlightFormat} (){#Prev}:  Psyche ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat} (){#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}Heartthrobs {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} Dash 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  Heroic  Epic
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}  Scorch
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}  
+      · {#AlertHighlightFormat} (){#Prev}:   Death Defiance  
+      · {#AlertHighlightFormat}Pom Pom Pom (){#Prev}: {#AlertBoldFormat}! {#Prev} Pom Lv.  Pom Lv. 
+      · {#AlertHighlightFormat}Boon Boon Boon (){#Prev}: 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · 
+      · {#AlertHighlightFormat} (){#Prev}:  ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}Special 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}Special 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev} Encounter
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev} Omega Cast 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}:  Sublime {#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat}{#Prev}:  Sublime {#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat}{#Prev}:  Bright {#AlertBoldFormat}{#Prev} 
+      ·  {#AlertItalicFormat} Encounter {#Prev}  {#AlertItalicFormat}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}Attack  Special ; {#AlertBoldFormat} ( x )
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} ; {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} ;  Keepsake {#AlertBoldFormat} ()
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} MAX{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertItalicFormat}()
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·   Warden  Guardian 
+      ·  
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: ;  
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}:  Elite ; 
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}:  Sisters of the Dead 
+      ·  
+      ·   Encounter 
+
+      {#AlertH2Format}Encounter {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev}  Elite 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat}{#Prev}  
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev}; ; {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  Encounter {#AlertBoldFormat} {#Prev}; ; ; 
+      · {#AlertBoldFormat} {#Prev}; 
+      · {#AlertBoldFormat} {#Prev}
+      · {#Spoiler} {#Prev} 
+      ·  Encounter {#AlertBoldFormat} {#Prev}; 
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler} {#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#Spoiler} {#Prev}: {#AlertBoldFormat}! {#Prev}  
+      ·  
+      · 
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev} ...
+      · {#AlertBoldFormat} {#Prev} 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · 
+      ·  
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      · {#AlertBoldFormat} {#Prev} 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}{#Spoiler} 
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev}{#Spoiler} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#Spoiler}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}{#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}; 
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: ; ...
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} Elite 
+      · {#AlertHighlightFormat}{#Prev}: ; ...
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}Wardens  
+      · {#AlertHighlightFormat} ( Denial){#Prev}:  
+      · {#AlertHighlightFormat} ( Arrogance){#Prev}:  Fear ; 
+      · {#AlertBoldFormat}Testaments {#Prev}
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertBoldFormat} {#Prev}
+      ·   3D    
+      · {#AlertBoldFormat}{#Prev} 
+      · {#AlertBoldFormat}
+      · {#AlertBoldFormat}{#Prev}
+      · {#AlertBoldFormat}{#Prev}  Narcissus ;  3D 
+      · {#AlertBoldFormat}{#Prev}
+      · {#AlertBoldFormat}{#Prev};  3D 
+      · {#AlertBoldFormat}{#Prev}
+      ·   3D {#AlertBoldFormat}{#Prev}
+      ·  3D {#AlertBoldFormat} {#Prev}{#AlertItalicFormat}( ...)
+      · {#AlertBoldFormat}
+      ·  {#AlertBoldFormat}
+      · 
+      ·  UI 
+      · {#AlertBoldFormat}
+      · 
+      · 
+      · 
+      · {#AlertBoldFormat}
+      · {#AlertBoldFormat}
+      · {#AlertBoldFormat}{#Prev}
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertBoldFormat}2,500 {#Prev} 
+      · {#AlertBoldFormat} {#Prev}
+      · {#Spoiler}{#Prev} ...
+      · {#Spoiler}{#Prev}, {#Spoiler}{#Prev} {#Spoiler}
+      ·  Ambrosia {#Spoiler} {#Prev}{#Spoiler}
+      ·  
+      · 
+      · {#AlertBoldFormat} {#Prev}
+      ·   
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev} {#AlertItalicFormat}(...)
+      ·  
+
+      {#AlertH2Format} SFX{#Prev}
+      · 
+      · {#AlertBoldFormat}{#Prev} {#AlertBoldFormat}hapsody
+      ·  {#AlertBoldFormat}{#Prev} 
+      ·     
+      · {#AlertBoldFormat}
+      · {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · {#AlertBoldFormat}
+      · 
+
+      {#AlertH2Format} UI{#Prev}
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}
+      · {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} 
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}; ; Keepsake 
+      ·   
+      ·  
+      · {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Forget-Me-Not{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} ( Bitterness) {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}
+      ·  UI  HUD 
+      · {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Dash {#Prev}: {#AlertBoldFormat}! {#Prev} Dash 
+      · {#AlertBoldFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} Sprint 
+      · {#AlertBoldFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertBoldFormat} {#Prev}
+      · {#Spoiler} {#Prev} {#Spoiler}{#Prev} 
+      · {#AlertBoldFormat} {#Prev} 
+      · {#AlertBoldFormat} {#Prev}  
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} ()
+      ·   {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}{#Prev} 
+      · 
+      ·  
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev} Encounter 
+      ·  {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}  
+      · 
+      @GUI\\Icons\\GhostPack  Hades
+      ·  Dead Zone 
+      · {#AlertBoldFormat}Game Recording {#Prev} Steam
+      · {#AlertBoldFormat}{#Prev} 
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}{#Prev}
+      · 
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Glamour Gain () {#Prev}
+      @GUI\\Icons\\GhostPack  Shells {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      ·  Omega {#AlertBoldFormat} () {#Prev}
+      · {#AlertBoldFormat} () {#Prev}{#AlertBoldFormat}Warmth Gain () {#Prev}{#AlertBoldFormat} (Arcana) {#Prev}
+      · {#AlertBoldFormat}Poms of Power {#Prev}{#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      · {#AlertBoldFormat} {#Prev}
+      · {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  
+      · {#AlertBoldFormat} {#Prev}{#AlertBoldFormat}
+      · 
+      · {#AlertBoldFormat} Pom {#Prev} +1 Lv. 
+      @GUI\\Icons\\GhostPack 
+      ·  
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'  '{#Prev}
+
+      {#QuoteBoldFormat}~Mythos: The Greek Myths Reimagined {#QuoteBaseFormat}(S. Fry)
+      {#Prev}"""
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0004"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 4 - 16  2024
+        {#AlertHighlightFormat}Major Update {#Prev} !
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ;  
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ;  Hitch 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}  {#AlertItalicFormat}()
+      · {#AlertHighlightFormat} ( x ){#Prev}:  
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ( - )
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} (){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} (){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( x ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( x ) {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( x ) {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ({#Spoiler}{#Prev}) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( - ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( - ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ({#Spoiler}{#Prev}) {#Prev} {#AlertBoldFormat} ( - ){#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}' 
+
+      {#QuoteBoldFormat}~   {#QuoteBaseFormat}(D. Ogden)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0003"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 3 - 26  2024
+         UI      {#AlertHighlightFormat} {#Prev}  !
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat} {#Prev} 
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}{#Prev};  +1  {#AlertBoldFormat}{#Prev}
+      ·  {#Spoiler} {#Prev} {#Spoiler} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  ; 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertItalicFormat}() {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}; 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      · {#AlertHighlightFormat}{#Prev}: ;  
+      · {#AlertHighlightFormat}{#Prev}:  0 
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}:  {#AlertItalicFormat}()
+      · {#AlertHighlightFormat}{#Prev}: ;   {#AlertItalicFormat}()
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}  {#AlertBoldFormat} () {#Prev} {#Spoiler}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev}  +1 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ;  
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}:  
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertItalicFormat}()
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat} {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}{#Prev};  {#AlertBoldFormat}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertBoldFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}:  {#AlertItalicFormat}()
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev} +1 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}{#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:   {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; 
+      · {#AlertBoldFormat}{#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ;  ;  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}:  
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: ; ...
+      · {#AlertHighlightFormat} ( x ){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertBoldFormat}{#Prev}:  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} ( x ){#Prev}: 
+      · {#AlertBoldFormat}{#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  {#AlertBoldFormat}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: ;  {#AlertBoldFormat} {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}  
+      · {#AlertHighlightFormat} (){#Prev}: ; ...
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: ; ; ;  {#Spoiler}{#Prev} ...
+      · {#AlertHighlightFormat}{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+      ·  
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat} (){#Prev}: 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertItalicFormat}(; )
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: {#AlertBoldFormat}! {#Prev} {#AlertBoldFormat} ( x ){#Prev}   
+
+      {#AlertH2Format}{#Prev}
+      · {#Spoiler}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#Spoiler}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}: 
+      · {#Spoiler}{#Prev}: 
+      · {#Spoiler}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev} {#Spoiler}{#Prev} 
+      ·  {#Spoiler} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format} UI{#Prev}
+      ·  UI 
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI  {#Spoiler}
+      ·  UI   {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev},  {#AlertBoldFormat}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  Esc  {#Spoiler}
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} ()
+
+      {#AlertH2Format} SFX{#Prev}
+      ·  SFX  {#AlertBoldFormat} () {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat} {#Prev}  2
+      ·  {#Spoiler} {#Prev}  2
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} ()
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}  {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ({#Spoiler}{#Prev}) {#Prev} {#AlertBoldFormat} ( - )
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} () {#Prev}
+     @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}  {#AlertBoldFormat} (){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#AlertBoldFormat} ({#Spoiler}{#Prev})
+      ·  {#AlertBoldFormat} () {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ()
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ( x ) {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}; 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}  {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} () 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}  {#AlertBoldFormat} 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack   {#AlertBoldFormat} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} ()  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+
+      {#QuoteH2Format}
+      {#QuoteItalicFormat}' '
+
+      {#QuoteBoldFormat}~ {#QuoteBaseFormat}(E. Tripp)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0002"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat}Early Access  2 - 4  2024
+        UI    ! 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertItalicFormat}()
+      ·  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Death Defiance {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Ash {#Prev} {#AlertBoldFormat}Psyche {#Prev} {#Spoiler} {#Prev} {#Spoiler}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Crescent Pick {#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Toula {#Prev}  {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack {#Spoiler} {#Prev} {#AlertBoldFormat}Death Defiance {#Prev} 
+      ·  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}Path of Stars {#Prev} {#AlertBoldFormat}
+      · 
+      ·  {#AlertBoldFormat} {#Prev} 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}:  ; 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}: ; 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}: ; ;  ; 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}:  ; ; 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat} (){#Prev}:  Serenity;  Serenity 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: ;  
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: ; 
+      · {#AlertHighlightFormat} (){#Prev}: 
+      · {#AlertHighlightFormat} (){#Prev}:  Glory  ; 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Moon Beam (){#Prev}:  {#AlertBoldFormat}Path of Stars {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Marauder Wallop (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Rapid Thrasher (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Double Wallop (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Wicked Thrasher (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Double Cataclysm (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Mirrored Thrasher (){#Prev}: {#AlertBoldFormat}! {#Prev} 
+      · {#AlertHighlightFormat}Rapid Moonshot (){#Prev}: 
+      · {#AlertHighlightFormat}Dual Moonshot (){#Prev}: ; ;  {#AlertBoldFormat}Double Moonshot
+      · {#AlertHighlightFormat}Shimmering Moonshot (){#Prev}: 
+      · {#AlertHighlightFormat}Aetheric Moonburst (){#Prev}:  Power Shots
+      · {#AlertHighlightFormat}Concentrated Flurry (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Melting Dart (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Flick Knives (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Rapid Onslaught (){#Prev}: ;  {#AlertBoldFormat}Marauder Slice
+      · {#AlertHighlightFormat}Hook Knives (){#Prev}: ; 
+      · {#AlertHighlightFormat}Furious Fire (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Mega Spark (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Inverted Spark (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Leaden Spark (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Sustained Spark (){#Prev}:  ;  {#AlertBoldFormat}Sustained Fire
+      · {#AlertHighlightFormat}Melting Coil (){#Prev}: ; ;  {#AlertBoldFormat}Melting Comet
+      · {#AlertHighlightFormat}Origin Coil (){#Prev}: 
+      · {#AlertHighlightFormat}Rapid Slash (){#Prev}: ;  {#AlertBoldFormat}Marauder Slash
+      · {#AlertHighlightFormat}Giga Cleaver (){#Prev}:  {#AlertItalicFormat}( )
+      · {#AlertHighlightFormat}Dashing Heave (){#Prev}: ; 
+      · {#AlertHighlightFormat}Sidelong Crash (){#Prev}: ; ...
+      · {#AlertHighlightFormat}Mega Driver (){#Prev}: {#AlertBoldFormat}! {#Prev}
+      · {#AlertHighlightFormat}Colossus Driver (){#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Wolf Howl{#Prev}: 
+      · {#AlertHighlightFormat}Twilight Curse{#Prev}: ; ; 
+      · {#AlertHighlightFormat}Night Bloom{#Prev}:    
+      · {#AlertHighlightFormat}Lunar Ray{#Prev}: ; ; 
+      · {#AlertHighlightFormat}Moon Water{#Prev}: ; 
+      · {#AlertHighlightFormat}Dark Side{#Prev}: ; 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#Spoiler}{#Prev}: ; 
+      · {#Spoiler}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#Spoiler}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#Spoiler}{#Prev}:  {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Goldwrath{#Prev}: 
+      · {#AlertHighlightFormat}{#Prev}: ; ; 
+      · {#AlertHighlightFormat}Reed-Stalker{#Prev}: ; 
+      · {#AlertHighlightFormat}Mourner{#Prev}: ; 
+      · {#AlertHighlightFormat}{#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Dire Shambler{#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Hippo{#Prev}:  
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}Driftwood {#Prev} {#Spoiler} {#Prev}{#AlertItalicFormat}()
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} 
+      @GUI\\Icons\\GhostPack  {#Spoiler}{#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}Original Sins {#Prev} {#AlertBoldFormat}Barren {#Prev} {#Spoiler}{#Prev}
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Trial of Heartache{#Prev}: 
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}Trial of Haste{#Prev}: 
+
+      {#AlertH2Format}{#Prev}
+      · {#AlertHighlightFormat}Vow of Forsaking{#Prev}: 
+
+      {#AlertH2Format} UI{#Prev}
+      ·  UI  {#AlertBoldFormat}{#Prev}, {#AlertBoldFormat}{#Prev},  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Insight Into Offerings () {#Prev} {#AlertBoldFormat} {#Prev} {#AlertItalicFormat}()
+      · {#Prev}  {#AlertBoldFormat}Rarify{#Prev}; 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Death Defiance {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat} {#Prev}
+      · 
+      ·  {#AlertBoldFormat} {#Prev}
+      ·  {#AlertBoldFormat}F10 {#Prev}
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack   
+
+      {#AlertH2Format} SFX{#Prev}
+      ·  SFX   Serenity 
+      ·  SFX  {#AlertBoldFormat}{#Prev}
+      ·  SFX  {#AlertBoldFormat} (){#Prev}
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}{#Prev}
+      ·  {#AlertBoldFormat}Phase Shift () {#Prev} {#Spoiler} {#Prev}{#AlertItalicFormat}(...)
+      ·  {#AlertBoldFormat}Frinos {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  
+      @GUI\\Icons\\GhostPack  
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat}Anvil of Fates {#Prev} {#Spoiler} {#Prev}  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      ·  {#AlertBoldFormat}Power to Pause and Reflect {#Prev}
+      ·  {#AlertItalicFormat}(...)
+      · 
+      · 
+
+      {#AlertH2Format}{#Prev}
+      ·  {#AlertBoldFormat}Double Up () {#Prev} Mystery Boons ; 
+      ·  {#AlertBoldFormat}Nightmare {#Prev} {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}The Queen {#Prev} {#AlertBoldFormat}Judgment (Arcana) {#Prev}  Arcana 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Hearth Gain () {#Prev} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Oath Testaments {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Toula {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Sun Worshiper (){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Dark Side (){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Twilight Curse (){#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Spark of Ixion () {#Prev} {#Spoiler} {#Prev} {#Spoiler}?{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Golden Boughs {#Prev} {#Spoiler}{#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}  {#AlertBoldFormat}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#AlertItalicFormat}
+      @GUI\\Icons\\GhostPack   {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}Echo {#Prev} {#AlertBoldFormat} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}{#Prev} 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Winter Harvest () {#Prev} {#AlertItalicFormat}
+      @GUI\\Icons\\GhostPack  
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'    '
+
+      {#QuoteBoldFormat}~Mythology: Timeless Tales of Gods and Heroes {#QuoteBaseFormat}(E. Hamilton)
+      """
+    }
+    {
+      Id = "MainMenuScreen_PatchNotes_0001"
+      OverwriteLocalization = true
+      Description = """
+      {#AlertHeaderFormat} Early Access 1 - 16  2024
+       {#AlertHighlightFormat}Hades II Early Access{#Prev}!!     !
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertBoldFormat} {#Prev} ; 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertItalicFormat} {#Prev} {#AlertBoldFormat}{#Prev};  {#AlertItalicFormat} {#Prev}   {#AlertItalicFormat} {#Prev}
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack {#AlertHighlightFormat}The Swift Runner{#Prev}:  (: );  
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}{#Prev} 
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#Spoiler}{#Prev}
+
+      {#AlertH2Format} UI{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev} {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#AlertItalicFormat}(!)
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}; ...
+      @GUI\\Icons\\GhostPack    {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      ·  {#AlertItalicFormat}()
+      · 
+
+      {#AlertH2Format}{#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Dark Side (Selene){#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Sun Worshiper (Apollo) {#Prev} 
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}Fire Extinguisher (Hestia) {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev} {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev} {#AlertBoldFormat} (Selene){#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat}
+      @GUI\\Icons\\GhostPack  {#AlertBoldFormat} {#Prev}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack  {#Spoiler} {#Prev}
+      @GUI\\Icons\\GhostPack  {#Spoiler}
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+      @GUI\\Icons\\GhostPack 
+
+      {#QuoteH2Format}{#Prev}
+      {#QuoteItalicFormat}'...  —{#Prev}
+      {#QuoteItalicFormat}'{#Prev}
+
+      {#QuoteBoldFormat}~, 71:  {#QuoteBaseFormat}(;  A. Athanassakis)
+      """
+    }
+  ]
+}

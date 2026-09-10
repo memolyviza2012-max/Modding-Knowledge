@@ -1,0 +1,2733 @@
+{
+  lang = "en"
+  Texts =
+  [
+    /* Shell Screens / Main Menu */
+    {
+      Id = "MainMenuScreen_PlayGame"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_CloudSave"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_Settings"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_Controls"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_Quit"
+      DisplayName = ""
+    }
+
+    /* Main Menu - External Links */
+    {
+      Id = "MainMenuScreen_Discord"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_Website"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_Soundtrack"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_MailingList"
+      DisplayName = ""
+    }
+    {
+      Id = "MainMenuScreen_RoadmapLabel"
+      DisplayName = ""
+    }
+
+    /* Profile Screen */
+    {
+      Id = "ProfileScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "ProfileScreen_ContinueGame"
+      DisplayName = ""
+    }
+    {
+      Id = "ProfileScreen_StartNewGame"
+      DisplayName = ""
+    }
+    {
+      Id = "ProfileScreen_ResetGame"
+      DisplayName = "?"
+      Description = ""
+    }
+    {
+      Id = "ProfileScreen_InProgressSave_LastPlayed"
+      DisplayName = ":\n {#NameHighlightFormat}"
+    }
+    {
+      Id = "ProfileScreen_InProgressSave_Location"
+      DisplayName = ":\n {#NameHighlightFormat}"
+    }
+    {
+      Id = "ProfileScreen_InProgressSave_CompletedRuns"
+      DisplayName = ":\n {#NameHighlightFormat}"
+    }
+    {
+      Id = "ProfileScreen_InProgressSave_TotalMemPoints"
+      DisplayName = ":\n {#NameHighlightFormat}"
+    }
+    {
+      Id = "ProfileScreen_InProgressSave_TotalCosmeticsPoints"
+      DisplayName = ":\n {#NameHighlightFormat}"
+    }
+  	{
+      Id = "ProfileScreen_InProgressSave_EasyMode"
+      DisplayName = "@GUI\\Shell\\EasyMode {#SpecialMenuSettingLightFormat}"
+    }
+    {
+      Id = "ProfileScreen_EmptySave"
+      DisplayName = "(  )"
+    }
+    {
+      Id = "ProfileScreen_Hint"
+      DisplayName = " —  @GUI\\Icons\\LoadingSymbol_01 "
+    }
+    {
+      Id = "ProfileScreen_InstructionHint_Cloud"
+      DisplayName = " —  '' "
+    }
+    
+    /* SettingsMenuScreen / Settings Screen */
+    {
+      Id = "SettingsMenuScreen_Settings"
+      DisplayName = ""
+    }
+    {
+      Id = "SettingsMenuScreen_DisplaySettings"
+      DisplayName = ""
+    }
+    {
+      Id = "SettingsMenuScreen_KeyMapping"
+      DisplayName = ""
+    }
+    {
+      Id = "SettingsMenuScreen_AboutUs"
+      DisplayName = ""
+    }
+    {
+      Id = "SettingsMenuScreen_Language"
+      DisplayName = ""
+    }
+
+    /* Pause Screen */
+    {
+      Id = "PauseScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "PauseScreen_Resume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "PauseScreen_LoadCheckpoint"
+      DisplayName = ""
+      Description = "?"
+    }
+    {
+      Id = "PauseScreen_Settings"
+      DisplayName = ""
+      Description = "  "
+    }
+    {
+      Id = "PauseScreen_DisplaySettings"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "PauseScreen_Controls"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "PauseScreen_Abandon"
+      DisplayName = ""
+    }
+    {
+      Id = "PauseScreen_Exit"
+      DisplayName = ""
+    }
+    {
+      Id = "PauseScreen_Exit_Alt"
+      DisplayName = ""
+    }
+    {
+      Id = "PauseScreen_Exit_CrossSaves"
+      DisplayName = ""
+    }
+  	{
+      Id = "PauseScreen_GiveUp_ValidCheckpoint"
+      DisplayName = "?"
+    }
+    {
+      Id = "PauseScreen_GiveUp_DeathArea"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_ValidCheckpoint_Recent"
+      DisplayName = ""
+    }
+    {
+      Id = "PauseScreen_ValidCheckpoint"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_InvalidCheckpoint"
+      DisplayName = "!"
+    }
+    {
+      Id = "PauseScreen_InvalidCheckpoint_RewardAvailable"
+      DisplayName = "!"
+    }
+    {
+      Id = "PauseScreen_InvalidCheckpoint_EncounterClear"
+      DisplayName = "!"
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_ValidCheckpoint_Recent"
+      DisplayName = "?"
+      Description = "  \n \n "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_ValidCheckpoint"
+      DisplayName = "?"
+      Description = "  \n \n  "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_ValidCheckpoint_HasCloudSaves_Recent"
+      DisplayName = ""
+      Description = "?  \n\n "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_ValidCheckpoint_HasCloudSaves"
+      DisplayName = ""
+      Description = "?  \n\n  "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_LastSaveSingular"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_LastSavePlural"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_LastSavePluralHours"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_LastSavePluralDays"
+      DisplayName = " "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_InvalidCheckpoint"
+      DisplayName = "?"
+      Description = "{#ExitConfirmWarningFormat}: {#Prev}  \n\n "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_InvalidCheckpointFirstRun"
+      DisplayName = "?"
+      Description = "{#ExitConfirmWarningFormat}: {#Prev} "
+    }
+    {
+      Id = "PauseScreen_ExitConfirm_AbandonWhileQuitAvailable"
+      InheritFrom = "PauseScreen_ExitConfirm_InvalidCheckpoint"
+    }
+
+    /* Key Mappings Screen / Controls Screen */
+    {
+      Id = "KeyMappingScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "ControlScheme_Mouse"
+      DisplayName = ""
+    }
+    {
+      Id = "ControlScheme_WASD"
+      DisplayName = ""
+    }
+    {
+      Id = "ControlScheme_GamePad"
+      DisplayName = ""
+    }
+    {
+      Id = "KeyMappingScreen_MouseMoveDefaults"
+      DisplayName = ""
+    }
+    {
+      Id = "KeyMappingScreen_KeyboardMoveDefaults"
+      DisplayName = " WASD"
+    }
+    {
+      Id = "KeyMappingScreen_GamepadDefaults"
+      DisplayName = ""
+    }
+    {
+      Id = "KeyMappingScreen_UnmappedControl"
+      DisplayName = ""
+      Description = ": \n\n"
+    }
+    {
+      Id = "MoveUp"
+      DisplayName = ""
+    }
+    {
+      Id = "MoveDown"
+      DisplayName = ""
+    }
+    {
+      Id = "MoveLeft"
+      DisplayName = ""
+    }
+    {
+      Id = "MoveRight"
+      DisplayName = ""
+    }
+    {
+      Id = "Attack2"
+      DisplayName = ""
+    }
+    {
+      Id = "Attack1"
+      DisplayName = ""
+    }
+    {
+      Id = "Attack3"
+      DisplayName = ""
+    }
+    {
+      Id = "Reload"
+      DisplayName = ""
+    }
+    {
+      Id = "Shout"
+      DisplayName = ""
+    }
+    {
+      Id = "Assist"
+      DisplayName = ""
+    }
+    {
+      Id = "Rush"
+      DisplayName = ""
+    }
+    {
+      Id = "Use"
+      DisplayName = ""
+    }
+    {
+      Id = "Codex"
+      DisplayName = ""
+    }
+    {
+      Id = "Inventory"
+      DisplayName = ""
+    }
+    {
+      Id = "ItemPin"
+      DisplayName = ""
+    }
+    {
+      Id = "ReportFeedback"
+      DisplayName = ""
+    }
+    {
+      Id = "TakeScreenshot"
+      DisplayName = ""
+    }
+    {
+      Id = "AdvancedTooltip"
+      DisplayName = ""
+    }
+    {
+      Id = "Gift"
+      DisplayName = ""
+    }
+    {
+      Id = "SpecialInteract"
+      DisplayName = ""
+    }
+    {
+      Id = "Reroll"
+      DisplayName = ""
+    }
+    {
+      Id = "Rarify"
+      DisplayName = ""
+    }
+    {
+      Id = "Select"
+      DisplayName = ""
+    }
+    {
+      Id = "Cancel"
+      DisplayName = ""
+    }
+    {
+      Id = "MenuLeft"
+      DisplayName = ""
+    }
+    {
+      Id = "MenuRight"
+      DisplayName = ""
+    }
+    {
+      Id = "ExorcismLeft"
+      DisplayName = ""
+    }
+    {
+      Id = "ExorcismRight"
+      DisplayName = ""
+    }
+    {
+      Id = "Emote"
+      DisplayName = ""
+    }
+    {
+      Id = "Menu_PressAnyKey"
+      DisplayName = ""
+    }
+    {
+      Id = "Menu_PressAnyButton"
+      DisplayName = ""
+    }
+
+    /* Misc. Settings Screen */
+    {
+      Id = "SettingsScreen_Options"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_RequiresRestartWarning"
+      DisplayName = ": "
+      Description = ""
+    }
+    {
+      Id = "CloudSettingsScreen_Title"
+      DisplayName = ""
+    }
+    {
+      Id = "SettingsMenuScreen_Title"
+      DisplayName = ""
+    }
+
+    /* Settings Categories */
+    {
+      Id = "MiscSettingsScreen_GameplayOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_AudioOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_ControlsOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_DisplayOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_InterfaceOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_LanguageOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_CreditsOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_EditorOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_GraphicsOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_AccessibilityOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_PerformanceOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_LoggingOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_SavesOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_CheatsOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_OverlayOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_DebugOptions"
+      DisplayName = ""
+    }
+    {
+      Id = "MiscSettingsScreen_RestoreDefaults"
+      DisplayName = "{MX} "
+      Description = ""
+    }
+    {
+      Id = "MiscSettingsScreen_Back"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "MiscSettingsScreen_Exit"
+      DisplayName = "{CN} "
+    }
+    {
+      Id = "MiscSettingsScreen_Confirm"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MiscSettingsScreen_Select"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MiscSettingsScreen_SelectKBM"
+      DisplayName = "{SL} "
+    }
+    {
+      Id = "MiscSettingsScreen_Toggle"
+      DisplayName = "{SL} "
+    }
+
+    /* Audio Options */
+    {
+      Id = "DisableAudio"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MasterVolume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "MusicVolume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AmbienceVolume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "FxVolume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "DialogueVolume"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AllowPlaySpeech"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MonoSound"
+      DisplayName = ""
+      Description = ""
+    }
+
+    /* Gameplay Options / Controls Options */
+    {
+      Id = "EasyMode"
+      DisplayName = "{!Icons.EasyModeIcon} "
+      Description = """
+      {#AlertHighlightFormat} 
+
+      {#AlertItalicFormat} {#Prev}  
+      """
+    }
+    {
+      Id = "EasyModeResistanceCap"
+      DisplayName = "{!Icons.EasyModeIcon} "
+      Description = """
+       {#AlertHighlightFormat}{#Prev}
+      """
+    }
+    {
+      Id = "EasyModeResistanceCap_Disabled"
+      DisplayName = ""
+      Description = """
+       {#AlertHighlightFormat}{#Prev}
+      """
+    }
+    {
+      Id = "AllowAutoLock"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "AttackTurbo"
+      DisplayName = ""
+    }
+    {
+      Id = "TurboStyle_Off"
+      DisplayName = ""
+      Description = " {TB} "
+    }
+    {
+      Id = "TurboStyle_Hold"
+      DisplayName = ""
+      Description = " {TB} "
+    }
+    {
+      Id = "TurboStyle_Toggle"
+      DisplayName = ""
+      Description = " {TB} /"
+    }
+    {
+      Id = "SprintAutoHold"
+      DisplayName = ""
+      Description = " ()"
+    }
+    {
+      Id = "BlinkAtCursor"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "ApplyDeadZone"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "GamepadLightBrightness"
+      DisplayName = ""
+      Description = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DeadZone"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "MiscSettingsScreen_DeadZone_Nintendo"
+      InheritFrom = "DeadZone"
+    }
+    {
+      Id = "Rumble"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "GeneralRumbleMultiplier"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AllowControlHotSwap"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ControlsStyle"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "ControlsStyle_Auto"
+      DisplayName = ""
+    }
+    {
+      Id = "ControlsStyle_KeyboardMouse"
+      DisplayName = ""
+    }
+    {
+      Id = "ControlsStyle_TypeA"
+      DisplayName = " A"
+    }
+    {
+      Id = "ControlsStyle_TypeB"
+      DisplayName = " B"
+    }
+    {
+      Id = "ControlsStyle_TypeC"
+      DisplayName = " C"
+    }
+    {
+      Id = "GraphicsQualityPreset_Low"
+      DisplayName = ""
+    }
+    {
+      Id = "GraphicsQualityPreset_Medium"
+      DisplayName = ""
+    }
+    {
+      Id = "GraphicsQualityPreset_High"
+      DisplayName = ""
+    }
+    {
+      Id = "GraphicsDevice_Default"
+      DisplayName = ""
+    }
+    {
+      Id = "ReticleMagnetismDistance"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ReticleMoveSpeed"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ReticleMoveSpeed_Alt"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ReticleReMagnetizeTimeout"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ReticleMagnetismSpeed"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+
+    /* Interface Options */
+    {
+      Id = "FullScreen"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "NoBorder"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "VSync"
+      DisplayName = "VSync"
+      Description = " "
+    }
+    {
+      Id = "FpsLimit"
+      DisplayName = " FPS"
+      Description = "  VSync "
+    }
+    {
+      Id = "Resolution"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "Resolution_InGame"
+      Description = " "
+    }
+    {
+      Id = "DisplayIndex"
+      DisplayName = ""
+      Description = " ! "
+    }
+    {
+      Id = "DisplayIndex_InGame"
+      Description = " "
+    }
+    {
+      Id = "Brightness"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AllowOversizeWindows"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AttemptHighDPI"
+      DisplayName = " High DPI"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawHealthFX"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowUIAnimations"
+      DisplayName = " UI "
+      Description = "  UI "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "HUDOpacity"
+      DisplayName = ""
+      Description = ""
+    }
+  	{
+      Id = "UseAltCursor"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "Subtitles"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "MusicSubtitles"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "UseZoomFractionAlt"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "ShowDamageNumbers"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ShowGameplayTimer"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "AutoAdvanceNarration"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "CameraShake"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "LowHealthPulse"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "RequireFocusToUpdate"
+      DisplayName = " Alt-Tab"
+      Description = " () "
+    }
+    {
+      Id = "LockInputToWindow"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "PlayerOptInToCloudSaves"
+      DisplayName = ""
+      Description = "     '' "
+    }
+    
+    /* Exit Confirmation */
+    {
+      Id = "Shell_Confirm"
+      DisplayName = ""
+    }
+    {
+      Id = "Shell_Back"
+      DisplayName = ""
+    }
+    {
+      Id = "On"
+      DisplayName = ""
+    } 
+    {
+      Id = "Off"
+      DisplayName = ""
+    }
+    {
+      Id = "Restore Defaults"
+      DisplayName = ""
+    }
+    {
+      Id = "ExitConfirm_Confirm"
+      DisplayName = ""
+    }
+    {
+      Id = "ExitConfirm_Cancel"
+      DisplayName = ""
+    }
+    {
+      Id = "ExitConfirm_Ignore"
+      DisplayName = ""
+    }
+    {
+      Id = "ExitConfirm_FixIt"
+      DisplayName = ""
+    }    
+    {
+      Id = "ExitConfirm_Retry"
+      DisplayName = ""
+    }
+
+    /* Save/Load & EasyStorage Messages */
+    {
+      Id = "forceCanceledReselection"
+      DisplayName = " "
+    }
+    {
+      Id = "forceDisconnectedReselectionMessage"
+      DisplayName = " "
+    }
+    {
+      Id = "No_Continue_without_device"
+      DisplayName = ""
+    }
+    {
+      Id = "promptForCancelledMessage"
+      DisplayName = "  ?"
+    }
+    {
+      Id = "promptForDisconnectedMessage"
+      DisplayName = " ?"
+    }
+    {
+      Id = "Reselect_Storage_Device"
+      DisplayName = "?"
+    }
+    {
+      Id = "Storage_Device_Required"
+      DisplayName = ""
+    }
+    {
+      Id = "StorageDevice_is_not_valid"
+      DisplayName = ""
+    }
+    {
+      Id = "Yes_Select_new_device"
+      DisplayName = ""
+    }
+    {
+      Id = "WarningSaveOverwrite"
+      DisplayName = ""
+    }
+    {
+      Id = "ErrorFailedToSave"
+      DisplayName = ""
+    }
+    {
+      Id = "GraphicsDriverWarning"
+      DisplayName = "! "
+    }    
+    /* TCR Strings */
+    {
+      Id = "Downloading"
+      DisplayName = ""
+    }
+    {
+      Id = "SignedInAsGuest"
+      DisplayName = " "
+    }
+    {
+      Id = "SignInChangeOccurred"
+      DisplayName = " "
+    }
+    {
+      Id = "NoStorageDeviceSelected"
+      DisplayName = "  ?"
+    }
+    {
+      Id = "SelectDevice"
+      DisplayName = ""
+    }
+    {
+      Id = "ResumeGame"
+      DisplayName = ""
+    }
+    {
+      Id = "SaveFileOverwriteWarning"
+      DisplayName = ": "
+      Description = "  'OK'  "
+    }
+    {
+      Id = "SaveFileOverwriteWarningRestoreFailed"
+      DisplayName = ""
+      Description = " ?"
+    }
+    {
+      Id = "SaveFileRestoreBackup"
+      DisplayName = ""
+      Description = " ?"
+    }
+    {
+      Id = "ProfileErrorCorrupt"
+      DisplayName = ""
+      Description = " "
+    }
+    /* Downloading Ids */
+    {
+      Id = "CloudSaves_SyncingDialogText"
+      DisplayName = " Cross-Save"
+      Description = "..."
+    }
+    {
+      Id = "CloudSaves_SyncingDialogTextLongWait"
+      DisplayName = " Cross-Save"
+      Description = "... \n\n (...)"
+    }
+    {
+      Id = "CloudSaves_SyncingDialogTextSuccess"
+      DisplayName = " Cross-Save"
+      Description = "... \n\n !"
+    }
+    {
+      Id = "CloudSaves_SyncingDialogTextFailure"
+      DisplayName = " Cross-Save"
+      Description = "... \n\n  "
+    }
+    /* Uploading Ids */
+    {
+      Id = "CloudSaves_SyncingOnQuitDialogText"
+      DisplayName = " Cross-Save"
+      Description = "..."
+    }
+    {
+      Id = "CloudSaves_SyncingOnQuitDialogTextLongWait"
+      DisplayName = " Cross-Save"
+      Description = "... \n\n (...)"
+    }
+    {
+      Id = "CloudSaves_SyncingOnQuitDialogTextSuccess"
+      DisplayName = " Cross-Save"
+      Description = "... \n\n !"
+    }
+    {
+      Id = "CloudSaves_SyncingOnQuitDialogTextFailure"
+      DisplayName = " Cross-Save"
+      Description = "... \n \n  "
+    }
+    {
+      Id = "CloudSaves_SyncingOnQuitDialogTextDeferResolution"
+      DisplayName = " Cross-Save"
+      Description = "... \n \n "
+    }
+    {
+      Id = "ErrorOfflineProfile"
+      DisplayName = ""
+    }
+    {
+      Id = "ErrorMissingStorageDevice"
+      DisplayName = " "
+    }
+    {
+      Id = "ErrorAchievementFailed"
+      DisplayName = " "
+    }
+
+    /* Debug-Only Options using OverwriteLocalization */
+    {
+      Id = "DrawBuildNumber"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowSpeechBubble"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }    
+    {
+      Id = "OnlyFancyText"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "KioskMode"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowSocialLinks"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowPause"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MouseTetherEnabled"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowHardQuit"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableEpicOverlay"
+      DisplayName = " Epic Overlay"
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* PC Specific */
+    {
+      Id = "DisableScreenSaver"
+      DisplayName = ""
+      Description = ""
+    }
+    {
+      Id = "ResChangeWarning"
+      DisplayName = "?  10 "
+    }
+    {
+      Id = "Graphics"
+      DisplayName = ""
+    }
+    {
+      Id = "Display"
+      DisplayName = ""
+    }
+    {
+      Id = "2x"
+      DisplayName = "2 "
+    }
+    {
+      Id = "4x"
+      DisplayName = "4 "
+    }
+    {
+      Id = "Vsync"
+      DisplayName = ""
+    }
+    {
+      Id = "Gamepad"
+      DisplayName = ""
+    }
+    {
+      Id = "MissingGamepad"
+      DisplayName = ""
+    }
+    {
+      Id = "SoundtrackAvailable"
+      DisplayName = " Original Soundtrack :"
+    }
+
+    /* Editor Options */
+    {
+      Id = "EditorAngleSnapping"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SelectionRelativeEditing"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ValueRelativeEditing"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImPhysicalPropertiesEnableColorEditing"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowEditFlippedMaps"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableColor"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableApplyAlphaToSelection"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableGrabAlphaFromSelection"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableScale"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableAngle"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableAmbient"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableHue"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableSaturation"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ImTemplateEditorEnableValue"
+      DisplayName = ": "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowAutoOpenAssetSwatch"
+      DisplayName = ""
+      Description = " EditingMode"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowAutoOpenMapProperties"
+      DisplayName = ""
+      Description = " EditingMode"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowAutoOpenPhysicalProperties"
+      DisplayName = ""
+      Description = " EditingMode"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowAutoOpenTemplateEditor"
+      DisplayName = ""
+      Description = " EditingMode"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowAutoOpenGroupEditor"
+      DisplayName = ""
+      Description = " EditingMode"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowsStayOnTop"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowsToggleMenuOnEditingMode"
+      DisplayName = ""
+      Description = """ "Editor Windows"  EditingMode  F5"""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWindowsToggleEditorOnEditingMode"
+      DisplayName = ""
+      Description = " EditingMode  F5"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorWarnIfLocked"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorCreateThumbnails"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorAutoSaveBackups"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorAutoSaveInterval"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableEditorTimeLapse"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorTimeLapseInterval"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AutoHotLoad"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "HotLoadScripts"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LiveCreateTextures"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LiveCreateTexturesRetryAttempts"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorGridSize"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorSelectionAsHighlight"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorOutlineThickness"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorOutlineThreshold"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorPreviewNameAndId"
+      DisplayName = " ID"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ParseTextMarkup"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EditorCameraScrollSpeed"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* Graphics Options */
+    {
+      Id = "UseSwapchainBlit"
+      DisplayName = " Swapchain"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseSwapEffectDiscard"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseDXGI12SwapChain"
+      DisplayName = " DXGI12"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseDefaultGpu"
+      DisplayName = " GPU "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MSAA"
+      DisplayName = "MSAA"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SSAA"
+      DisplayName = "SSAA"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawGround"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawCamera"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* Performance Options */
+    {
+      Id = "GraphicsQualityPreset"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "GraphicsAdapter"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "AudioStreamBufferSize"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AudioMaxVirtualVoices"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AudioMaxAudibleVoices"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PlatformAudioAlloc"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ForceVoiceBankStreaming"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowVoiceBankStreaming"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AudioMemoryPoolSize"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SfxFrameCap"
+      DisplayName = "SFX "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "BinkStreamCacheSize"
+      DisplayName = " Bink"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LuaGCStepSize"
+      DisplayName = " Garbage Collector  Lua"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseRenderMeshCache"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseOverlayHardware"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawLights"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawBloom"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawBlur"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawBlendEnabledMask"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawColorGrading"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableHulls"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AutoDetectLowResAssets"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseLowResAssets"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PermanentVfxCap"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "VfxFrameCap"
+      DisplayName = "VFX "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "VfxManagerCapMultiplier"
+      DisplayName = " VFX"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DisableRenderThread"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MaxWorkerThreads"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "BackgroundAudioThread"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseCpuBoost"
+      DisplayName = " CPU Boost"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MultiThreadMeshFromDrawable"
+      DisplayName = " Drawable"
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* Logging Options */
+    {
+      Id = "UseAnalytics"
+      DisplayName = ""
+      Description = " "
+    }
+    {
+      Id = "DebugMessages"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "OutputWindowLogging"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugPrintAnimations"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "CheckNonExistingTextures"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AssetErrorAsserts"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MissingVOAsserts"
+      DisplayName = " VO "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EmptyScriptActionAsserts"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableOutOfMemoryAsserts"
+      DisplayName = " OOM"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AudioLogging"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ProfileAudio"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableAudioDeviceChangeCallBack"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugLogSounds"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DisableManifestLogging"
+      DisplayName = " Manifest"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowSaveErrors"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowLogFileError"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowDocumentsPathError"
+      DisplayName = " Documents"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableWin32DebugHelpLogging"
+      DisplayName = " Win32"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugPrintSpeed"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugPrintInteractTarget"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugPrintCollisions"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugPrintWeapons"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LuaSpikeWarningMs"
+      DisplayName = " Lua Spike  Ms"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "VerboseScriptLogging"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LogCombatMultipliers"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LogFrameNumber"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LogLuaMemoryDump"
+      DisplayName = " Lua"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "TrackLuaMemoryAllocs"
+      DisplayName = " Lua"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SpellCheck"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ShowMissingSubtitles"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "TextDebugShowIds"
+      DisplayName = " ID "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ZTesting"
+      DisplayName = " Z"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawExtentsForPassable"
+      Description = "   Ctrl + E "
+      OverwriteLocalization = true
+    }
+
+
+    /* Saves Options */
+    {
+      Id = "RepeatSaveOnLoad"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowSaveLoad"
+      DisplayName = "/"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LoadSavedControls"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "CopyDragAndDroppedSaves"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ValidateSaves"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseDevSaves"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DevSaveCustomName"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AutoDeleteExtraDevSaves"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "MaxDevSaves"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* Debug Options / Debug Settings */
+    {
+      Id = "FilterSearchHint"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LoadSaveScreen_DeleteHint"
+      DisplayName = "[DEL] "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "LoadSaveScreen_OpenInWindowsHint"
+      DisplayName = "[SHIFT+CLICK]  File Explorer"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugKeysEnabled"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AllowStripRequirements"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PauseSoundsWhenPaused"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "FastForwardSpeed"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "StepFrameRepeatInterval"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AutoSafeMode"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugEnemySpawnIdle"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugEnemySpawnAtHero"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugEnemySpawnWithAttribute"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "SkipCollisionCheck"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugEnemyCapOverride"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugCameraZoom"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugOverlayFilterEdit"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "AttachmentMode"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "EnableSimulateCloudConflicts"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DisableDamage"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DamageTakenMultiplier"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DamageMultiplier"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawExtents"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawLightsWithExtents"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDrawPathfinding"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDraw"
+      DisplayName = " ()"
+      Description = "  Ctrl+D / CtrlShift+D "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDrawGridManager"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugGridManager"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDrawBounds"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDrawMouseCoordinates"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugDrawScissorRects"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugBenchmarks"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+	{
+	  Id = "DebugDrawUseableManager"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+
+	}
+    {
+      Id = "DebugDrawLiveEditorQuadTree"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ColorGradingScreenshot"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DrawIds"
+      DisplayName = " ID"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PerfDash"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PerfDashWarnings"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "PerfDashFpsOnly"
+      DisplayName = " FPS"
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugOverlayBackgroundAlpha"
+      DisplayName = " Alpha "
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugOverlayFontSize"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UseNewDebugDisplays"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "ClearDebugLogOnDevLoad"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DebugOverlayAllowMouseWheelScroll"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DirectLoadShell"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "DirectLoadCheckpoint"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "FastForward"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "LoadLastManualLoad"
+      DisplayName = ""
+      Description = ""
+      OverwriteLocalization = true
+    }
+
+    /* Dev / Debug Save/Load / Save Screen */
+    {
+      Id = "LoadSaveScreen_SortAlphabetical"
+      OverwriteLocalization = true,
+      DisplayName = ""
+    }
+    {
+      Id = "LoadSaveScreen_SortChronological"
+      OverwriteLocalization = true,
+      DisplayName = ""
+    }
+    {
+      Id = "LoadMapScreen_SortAlphabetical"
+      OverwriteLocalization = true,
+      DisplayName = ""
+    }
+    {
+      Id = "LoadMapScreen_SortChronological"
+      OverwriteLocalization = true,
+      DisplayName = ""
+    }
+    {
+      Id = "LoadMapScreen_PostRewardSaves"
+      OverwriteLocalization = true,
+      DisplayName = ""
+    }
+    {
+        Id = "OpenGoToBox"
+        OverwriteLocalization = true,
+        DisplayName = " /  /  ID"
+    }
+
+    /* Misc. Error Messages That May Still Be in Use */
+    {
+      Id = "InGameUI_Saving"
+      DisplayName = "..."
+    }
+    {
+      Id = "WaitingForDownload"
+      DisplayName = ""
+    }
+    {
+      Id = "Supergiant"
+      DisplayName = ""
+    }
+    {
+      Id = "SaveErrorNoSpace"
+      DisplayName = ""
+      Description = " \n\n ?"
+    }
+    {
+      Id = "SaveErrorNoSpacePC"
+      DisplayName = ""
+      Description = "  "
+    }
+    {
+      Id = "SaveErrorCorrupt"
+      DisplayName = ""
+    }
+    {
+      Id = "SaveErrorCorruptPC"
+      DisplayName = ""
+      Description = """
+        
+
+  		1.  {#AlertBoldFormat}/Saved Games/Hades II{#Prev}
+  		2. 
+		  3.  'Date modified'  ( Save Slot 1): {#AlertItalicFormat}Profile1_Temp.sav{#Prev}, {#AlertItalicFormat}Profile1_Temp.sav.bak{#Prev},  {#AlertItalicFormat}Profile1.sav.bak{#Prev}
+		  4.  {#AlertItalicFormat}Profile1.sav{#Prev}
+		  5.  
+
+        FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+		"""
+    }
+    {
+      Id = "UnsupportedControllerPC"
+      DisplayName = ""
+      Description = """
+       :
+
+      ·  
+
+      ·  Steam Input  Hades II   Steam Input 
+
+      ·  
+
+      ·   FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+    """
+    }
+    {
+      Id = "UnsupportedControllerSteamInput"
+      DisplayName = ""
+      Description = """
+       Steam Input      :
+
+      ·  Steam Input  Hades II 
+
+      ·   > 
+
+      ·  FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+    """
+    }
+    {
+      Id = "InputWarningStickyKeysDetected"
+      DisplayName = ""
+      Description = " StickyKeys    StickyKeys  Control Panel"
+    }
+    {
+      Id = "InputWarningClickLockDetected"
+      DisplayName = ""
+      Description = " ClickLock    ClickLock  Mouse Properties  Control Panel"
+    }
+    {
+      Id = "SaveErrorInvalidUserLogin"
+      DisplayName = " "
+    }
+    {
+      Id = "SaveErrorGeneric"
+      DisplayName = ""
+      Description = " \n \n ?"
+    }
+  	{
+      Id = "SaveErrorPC"
+      DisplayName = ""
+      Description = """
+        :
+
+		  ·    {#AlertBoldFormat}Hades2.exe{#Prev}  
+
+      ·   {#AlertBoldFormat}%USERPROFILE%/Saved Games/Hades II{#Prev}  {#AlertItalicFormat}Properties{#Prev}  {#AlertItalicFormat}Read-only {#Prev}{#AlertItalicFormat}{#Prev};  Security  {#AlertItalicFormat}Full control {#Prev} {#AlertItalicFormat}Modify {#Prev}
+
+      ·  {#AlertBoldFormat}Hades2.exe {#Prev}  {#AlertBoldFormat}Administrator {#Prev} {#AlertItalicFormat}(){#Prev}
+
+      ·   FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+      """
+    }
+    {
+      Id = "FileAccessErrorPC"
+      DisplayName = ""
+      Description = """
+			  :
+
+			·    {#AlertBoldFormat}Hades2.exe{#Prev}  
+
+      · :
+            {#AlertBoldFormat}%USERPROFILE%/Saved Games/Hades II{#Prev}
+            {#AlertItalicFormat}(  {#Prev}Properties{#AlertItalicFormat}  {#Prev}Read-only {#AlertItalicFormat}){#Prev}
+
+			·  {#AlertBoldFormat}Hades2.exe {#Prev}  {#AlertBoldFormat}Administrator {#Prev} {#AlertItalicFormat}(){#Prev}
+
+      ·   FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+      """
+    }
+	{
+      Id = "DataFileCorrupt"
+      DisplayName = ""
+      Description = """
+			  :
+
+			· 
+
+			·    {#AlertBoldFormat}Hades2.exe{#Prev}  
+
+      · 
+
+      ·   FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+      """
+    }
+
+	{
+      Id = "WarningLowMemory"
+      DisplayName = ""
+      Description = """
+        :
+
+      · 
+
+      ·  
+
+      ·   FAQ : {#AlertBoldFormat}supergiant.games/hades2faq{#Prev}
+      """
+    }
+
+    {
+        Id = "ErrorSendCrashReport"
+        DisplayName = ": "
+        Description = "  Supergiant Games ?"
+    }
+
+  	/* Error messages not displayed by the normal game window */
+  	{
+        Id = "ErrorCrashReport"
+        DisplayName = "Hades II "
+        Description = """
+  		[]
+
+  		 Hades II  :
+  		1. 
+  		2. 
+  		3.   FAQ :
+  		  supergiant.games/hades2faq
+  		
+  		 :
+  		1.  \\Saved Games\\Hades II\\
+  		2.  Profile1_Temp.sav.bak  Profile1.sav ( Profile1.sav.bak  Profile1.sav);  1
+  		
+  		 
+      
+  	 	- Supergiant Games
+  		"""
+  	}
+  	{
+        Id = "ErrorDirectXDriver"
+        DisplayName = ":  DirectX"
+        Description = """
+         DirectX     executable  Vulkan 
+  		"""
+  	}
+  	{
+        Id = "ErrorVulkanStartup"
+        DisplayName = " Vulkan "
+        Description = """
+         Vulkan   Vulkan   executable  DirectX 
+  		"""
+  	}
+  	{
+        Id = "ErrorNoGraphicsDevice"
+        DisplayName = ":  GPU"
+        Description = """
+        Hades II   
+  		"""
+  	}
+  	{
+        Id = "ErrorOutOfMemory"
+        DisplayName = ""
+        Description = """
+        Hades II   
+  		"""
+  	}
+
+  	{
+        Id = "ErrorAccessDenied"
+        DisplayName = ""
+        Description = """
+        Hades II   
+  		"""
+  	}
+  	{
+        Id = "ErrorDuplicateApp"
+        DisplayName = "Hades II "
+        Description = """
+         Hades2.exe  
+  		"""
+  	}
+
+  	/* Misc Warnings / Confirmations */
+
+    {
+      Id = "SaveWarning_Confirm"
+      DisplayName = ""
+    }    
+    {
+      Id = "SaveErrorOverflow"
+      DisplayName = ""
+      Description = " \n \n "
+    }
+    {
+      Id = "ScreenshotSaved"
+      DisplayName = ": %s"
+    }
+    {
+      Id = "ScreenshotFailed"
+      DisplayName = " "
+    }
+    {
+      Id = "BugReportThankYouMessage"
+      DisplayName = ""
+      Description = "   Hades II "
+    }
+    {
+      Id = "BugReportOpenedMessage"
+      DisplayName = ""
+      Description = " Hades II Bug Reporter   Alt+Tab "
+    }
+    {
+      Id = "BugReportOpenedSteamDeckMessage"
+      DisplayName = " Steam Deck"
+      Description = "Hades II Bug Reporter   "
+    }
+    {
+      Id = "Sign Out"
+      DisplayName = ""
+    }
+    {
+      Id = "ConfirmResolution"
+      DisplayName = ""
+      Description = "?"
+    }
+    {
+      Id = "RevertResolutionCountdown"
+      DisplayName = " "
+    }
+    {
+      Id = "RevertResolutionCountdownSeconds"
+      DisplayName = " "
+    }
+    /* Cloud save messages/ errors */
+    {
+      Id = "CloudSaveError_NoInternet"
+      DisplayName = ": Cross-Saves "
+      Description = "Cross-Saves  "
+    }
+    {
+      Id = "CloudSaveError_SteamAuthFailure"
+      DisplayName = ": "
+      Description = " Steam  "
+    }
+    {
+      Id = "CloudSaveError_SteamSessionExpired"
+      DisplayName = ": "
+      Description = " Steam   Steam  Cross-Saves"
+    }
+    {
+      Id = "CloudSaveError_Corrupt"
+      DisplayName = ": "
+      Description = " "
+    }
+    {
+      Id = "CloudSaveMessage_SteamPrompt"
+      DisplayName = " Steam ? {#ExitConfirmItalicFormat}{#Prev}:  Steam "
+    }
+    {
+      Id = "CloudSaveMessage_CloudSyncSpinnerText"
+      DisplayName = "..."
+    }
+    {
+      Id = "CloudSaveMessage_CloudSyncSpinnerText_Failed"
+      DisplayName = ""
+    }
+    {
+      Id = "CloudSaveError_SyncTimeout"
+      DisplayName = ": "
+      Description = " "
+    }
+    {
+      Id = "CloudSaveButton_LocalSaves"
+      DisplayName = ""
+    }
+    {
+      Id = "CloudSaveButton_CloudSaves"
+      DisplayName = ""
+    }
+    {
+      Id = "CloudSaveButton_ConnectSteam"
+      DisplayName = " Steam"
+    }
+    {
+      Id = "CloudSaveButton_DisconnectSteam"
+      DisplayName = " Steam"
+    }
+    {
+      Id = "CloudSaveButton_ConnectEpic"
+      DisplayName = " Epic Games"
+    }
+    {
+      Id = "CloudSaveButton_DisconnectEpic"
+      DisplayName = " Epic Games"
+    }
+    {
+      Id = "CloudSaveButton_Info"
+      DisplayName = ""
+    }    
+    {
+      Id = "CloudSaveMessage_StorageConflictShort"
+      DisplayName = "{#SpecialMenuSettingLightFormat}{SL} "
+    }
+    {
+      Id = "CloudSaveMessage_StorageConflict"
+      DisplayName = ": Cross-Save "
+      Description = " : \n {#ExitConfirmItalicFormat} - %d {#Prev}: %s %s\n {#ExitConfirmItalicFormat} - %d {#Prev}: %s %s"
+    }
+    {
+      Id = "CloudSaveMessage_DisconnectedSteam"
+      DisplayName = " Cross-Saves "
+      Description = " Steam   Steam"
+    }
+    {
+      Id = "CloudSaveMessage_DisconnectedEpic"
+      DisplayName = " Cross-Saves "
+      Description = " Epic Games   Epic Games"
+    }    
+    {
+      Id = "CloudSaves_LinkedSteamSuccess"
+      DisplayName = "!"
+      Description = " Steam   Cross-Saves "
+    }
+    {
+      Id = "CloudSaves_LinkedSteamFail"
+      DisplayName = ": "
+      Description = " Steam   Cross-Saves "
+    }
+    {
+      Id = "CloudSaves_LinkedEpicSuccess"
+      DisplayName = "!"
+      Description = " Epic Games   Cross-Saves "
+    }
+    {
+      Id = "CloudSaves_LinkedEpicFail"
+      DisplayName = ": "
+      Description = " Epic Games   Cross-Saves "
+    }
+    {
+      Id = "CloudSaves_LinkOnlyOnePlease_Steam"
+      DisplayName = ": "
+      Description = "  Steam"
+    }
+    {
+      Id = "CloudSaves_LinkOnlyOnePlease_Epic"
+      DisplayName = ": "
+      Description = "  Epic"
+    }
+    {
+      Id = "SaveErrorIncompatible"
+      DisplayName = ": !"
+      Description = "   "
+    }
+    {
+      Id = "CloudSaves_ComingSoon"
+      DisplayName = ":  "
+      Description = "  "
+    }
+    {
+      Id = "CloudSaves_EpicDoYouWant"
+      DisplayName = " Epic Online Services ?"
+      Description = "     '' "
+    }
+    {
+      Id = "CloudSaves_InstructionHint"
+      DisplayName = "{#AlertHeaderFormat}: {#Prev}  '' "
+    }
+    {
+      Id = "CloudSaves_Newer"
+      DisplayName = "()"
+    }
+    {
+      Id = "CloudSaves_Corrupt"
+      DisplayName = "{#ExitConfirmWarningFormat}()"
+    }
+    {
+      Id = "CloudSaves_Incompatible"
+      DisplayName = "{#ExitConfirmWarningFormat}()"
+    }
+    {
+      Id = "CloudSaves_Help"
+      DisplayName = ""
+      Description = """
+       {#AlertHeaderFormat}Hades II {#Prev} {#AlertHighlightFormat}Nintendo Switch{#Prev}  {#AlertHighlightFormat}{#Prev} !
+
+      {!Icons.DivLong}
+
+      {#AlertBoldFormat}: {#Prev} {#AlertHighlightFormat}{#Prev}   {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games {#Prev} 
+
+        {#AlertHighlightFormat}Nintendo Switch {#Prev} {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games {#Prev} {#AlertHighlightFormat} {#Prev}{#AlertItalicFormat}(){#Prev}
+
+      {#AlertBoldFormat}: {#Prev}  {#AlertHighlightFormat} {#Prev}
+
+       {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games{#Prev}  !
+
+      {#AlertBoldFormat}: {#Prev} {#AlertHighlightFormat}{#Prev}   
+
+       {#AlertHighlightFormat}Nintendo Switch{#Prev}  
+
+         {#AlertBoldFormat}Profile1.sav {#Prev}  {#AlertBoldFormat}Profile2.sav{#Prev}  {#AlertHighlightFormat} {#Prev}
+     
+       !
+      """
+    }
+    {
+      Id = "CloudSaves_Help_Alt"
+      DisplayName = ""
+      Description = """
+       {#AlertHeaderFormat}Hades II {#Prev} {#AlertHighlightFormat}Nintendo Switch 2{#Prev}  {#AlertHighlightFormat}{#Prev} !
+
+      {!Icons.DivLong}
+
+      {#AlertBoldFormat}: {#Prev} {#AlertHighlightFormat}{#Prev}   {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games {#Prev} 
+
+        {#AlertHighlightFormat}Nintendo Switch 2 {#Prev} {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games {#Prev} {#AlertHighlightFormat} {#Prev}{#AlertItalicFormat}(){#Prev}
+
+      {#AlertBoldFormat}: {#Prev}  {#AlertHighlightFormat} {#Prev}
+
+       {#AlertHighlightFormat}Steam {#Prev} {#AlertHighlightFormat}Epic Games{#Prev}  !
+
+      {#AlertBoldFormat}: {#Prev} {#AlertHighlightFormat}{#Prev}   
+
+       {#AlertHighlightFormat}Nintendo Switch 2{#Prev}  
+
+         {#AlertBoldFormat}Profile1.sav {#Prev}  {#AlertBoldFormat}Profile2.sav{#Prev}  {#AlertHighlightFormat} {#Prev}
+     
+       !
+      """
+    }
+    {
+      Id = "AnnouncementSignature"
+      DisplayName = "@GUI\\SupergiantLogoConsole"
+    }
+    {
+      Id = "CloudSaves_BadPickAreYouSure"
+      DisplayName = "?"
+      Description = "  'OK' "
+    }
+    {
+      Id = "CloudSaves_BadPickAreYouSureOlder"
+      DisplayName = "?"
+      Description = "  'OK' "
+    }
+    {
+      Id = "CloudSaves_BadPickAreYouSureFewerRuns"
+      DisplayName = "?"
+      Description = "  'OK' "
+    }
+    {
+      Id = "BootWarning_FailedToQuitProperly"
+      DisplayName = ": "
+      Description = "   "
+    }    
+    {
+      Id = "LoadingProfiles"
+      DisplayName = ""
+      Description = "..."
+    }
+    {
+      Id = "UnsavedChangesDialog_Title"
+      DisplayName = "!"
+      Description = "?"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UnsavedChangesDialog_Save"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "UnsavedChangesDialog_NoSave"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "CrashPopup_Main"
+      DisplayName = " Hades II"
+      Description = "  Hades II  !  :"
+    }
+    {
+      Id = "CrashPopup_TransmitData"
+      DisplayName = ":  ''    !"
+    }
+    {
+      Id = "CrashPopup_NoTransmitData"
+      DisplayName = ":  ''  "
+    }
+    {
+      Id = "CrashPopup_ModifiedBuild"
+      DisplayName = " Hades II"
+      Description = "  Hades II    "
+    }
+    {
+      Id = "Switch2_Upgrade"
+      DisplayName = "!"
+      Description = " Nintendo Switch 2 Edition  Nintendo eShop ?"
+    }
+    {
+      Id = "Switch2_Upgrade_eShop"
+      DisplayName = " eShop"
+    }
+  ]
+}

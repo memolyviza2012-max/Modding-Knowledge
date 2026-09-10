@@ -1,0 +1,48 @@
+{
+	lang = "en"
+	Texts = [
+		{
+			Id = "BaseSubtitle"
+			DisplayName = ""
+			DisplayNameMaxLength = 150
+		}
+		{
+			Id = "BaseNarrative"
+			DisplayName = ""
+			DisplayNameMaxLength = 292
+		}
+		{
+			Id = "BaseStatLine"
+			DisplayName = ""
+			Description = ""
+			DisplayNameMaxLength = 35
+			DescriptionMaxLength = 30
+		}
+		{
+			Id = "BaseBoon"
+			DisplayName = ""
+			Description = ""
+			DisplayNameMaxLength = 25
+			DescriptionMaxLength = 90
+		}
+		{
+			Id = "BaseBoonMultiline"
+			InheritFrom = "BaseBoon"
+			Description = ""
+			DescriptionMaxLength = 180
+		}
+		{
+			Id = "BaseTooltip"
+			DisplayName = ""
+			Description = ""
+			DisplayNameMaxLength = 30
+			DescriptionMaxLength = 172
+		}
+		{
+			Id = "BaseCodexEntry"
+			DisplayName = ""
+			Description = ""
+			DisplayNameMaxLength = 1000
+		}
+	]
+}

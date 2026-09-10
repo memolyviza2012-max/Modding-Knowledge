@@ -1,0 +1,3294 @@
+{
+  lang = "en"
+  Texts = [
+    /* CreditsScreen / AboutScreen */
+    {
+      Id = "AboutScreen_Title"
+      DisplayName = ""
+    }
+
+    /* Headings & Subheadings */
+    {
+      Id = "Credits_Heading_Supergiant"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Heading_AdditionalCredits"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_Contributors"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_VoiceCast"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_Translators"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_MusicProduction"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_LanguageQA"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_CastingServices"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_SubHeading_Proofreader"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_Community"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_SubHeading_Discord"
+      DisplayName = " Discord"
+    }
+    {
+      Id = "Credits_SubHeading_ModLiaisons"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_SubHeading_BetaTesters"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_Acknowledgements"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Description_Acknowledgements"
+      DisplayName = " Hades II "
+    }
+    {
+      Id = "Credits_Description_Acknowledgements_B"
+      DisplayName = " :"
+    }
+    {
+      Id = "Credits_Description_Acknowledgements_Close"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Description_Acknowledgements_Close_B"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Description_Acknowledgements_Close_C"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_SupergiantSalutes"
+      DisplayName = "Supergiant Games "
+    }
+    {
+      Id = "Credits_SubHeading_ScyllaBand"
+      DisplayName = "Scylla & the Sirens {#InlineCreditTitle}"
+    }
+    {
+      Id = "EndCredits_SubHeading_ScyllaBand"
+      DisplayName = "Scylla & the Sirens {#EndCreditsInlineCreditTitle}"
+    }
+    {
+      Id = "Credits_Role_Choir"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_SubHead_Choir"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Heading_SpecialThanks"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_VerySpecialThanks"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Heading_Other"
+      DisplayName = ""
+    }
+
+    /* Titles, Supergiant */
+    {
+      Id = "Credits_Title_Design"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_EngineeringDesign"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_WritingDesign"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_DesignWriting"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Engineering"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MusicSound"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MusicAudio"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Art"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_VO"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_UIVFX"
+      DisplayName = " UI"
+    }
+    {
+      Id = "Credits_Title_Ops"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_EnvironmentArt"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_OfficeSupport"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Publishing"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_DesignQA"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_QA"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_ProductionQA"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_3DModeling"
+      DisplayName = " {$CreditsData.NumericTokens.Three}D"
+    }
+    {
+      Id = "Credits_Title_Animation"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Finance"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_TechArt"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_PlatformsQA"
+      DisplayName = ""
+    }
+
+    /* Titles, Additional */
+    {
+      Id = "Credits_Title_AdtlOfficeSupport"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlMusicVocals"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlSetDressing"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlMapBeautification"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlAnimation"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlModeling"
+      DisplayName = " {$CreditsData.NumericTokens.Three}D "
+    }
+    {
+      Id = "Credits_Title_AdtlUIArt"
+      DisplayName = " UI "
+    }
+    {
+      Id = "Credits_Title_AdtlQA"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlRigging"
+      DisplayName = " {$CreditsData.NumericTokens.Three}D "
+    }
+    {
+      Id = "Credits_Title_AdtlConceptArt"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlSoundEditing"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlVFXConcepts"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AnimatedTrailers"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlVideoProduction"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlMarketingArt"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdtlUIAnimation"
+      DisplayName = " UI "
+    }
+    {
+      Id = "Credits_Title_Illustration"
+      DisplayName = ""
+    }
+
+    /* Music Production */
+    {
+      Id = "Credits_Title_Flute"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_FluteSoloist"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_FluteSoloist"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_FluteSoloist_B"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_FluteSoloist_B"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_SaxophoneSoloist"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_SaxophoneSoloist"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_SaxophoneSoloist_B"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_SaxophoneSoloist_B"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_GuitarSoloist"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_GuitarSoloist"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_DrumSoloist"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_DrumSoloist"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_GuitarSoloists"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_Vocalist_ArtemisSong"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_Vocalist_ArtemisSong"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_Vocalist_ApolloSong"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_Vocalist_ApolloSong"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+    {
+      Id = "Credits_Title_Vocalist_EndTheme"
+      DisplayName = " - {#InlineCreditH3}"
+    }
+    {
+      Id = "EndCredits_Title_Vocalist_EndTheme"
+      DisplayName = " - {#EndCreditsInlineCreditH3}"
+    }
+
+    {
+      Id = "Credits_Title_Conductor"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Harp"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Percussion"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_FlutePiccolo"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_Oboe"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_OboeCorAnglais"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_Clarinet"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_ClarinetBassClarinet"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_PrincipalViolin"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Violin"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_PrincipalViola"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Viola"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_PrincipalCello"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Cello"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_PrincipalDoubleBass"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_DoubleBass"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Bassoon"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_BassoonContrabassoon"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_FrenchHorn"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Trumpet"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_TenorTrombone"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_TenorTromboneBassTrombone"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_BassTrombone"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_TubaCimbasso"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_Mastering"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_OrchestralMixing"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_OrchestraContractor"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_OrchestraLeader"
+      DisplayName = " / "
+    }
+    {
+      Id = "Credits_Title_Librarian"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MixEngineer"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MixAssistant"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MusicEditor"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AdditionalMusicEditing"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_ScoringEngineer"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_AssistantRecordingEngineer"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_MidiTranscription"
+      DisplayName = " MIDI / "
+    }
+    {
+      Id = "Credits_Title_OrchestralSessionAssistant"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Orchestration"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Copyist"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_ChoirMaster"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Soprano"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Alto"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Tenor"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_Bass"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Title_WindSoloist"
+      DisplayName = ""
+    }
+
+    /* Team Names */
+    {
+      Id = "Credits_TeamName_StudioGrackle"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_TheLine"
+      DisplayName = "    "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_HalpNetwork"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_8-4"
+      DisplayName = "{$CreditsData.NumericTokens.Eight}-{$CreditsData.NumericTokens.Four} "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_StevenJuliani"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_IsobelGriffiths"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+
+    /* Titles, Cast */
+    {
+      Id = "Credits_CastTitle_Melinoe"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_JudyChars"
+      DisplayName = ", , "
+    }
+    {
+      Id = "Credits_CastTitle_Hecate"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Chronos"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_LoganChars"
+      DisplayName = ", , , , , "
+    }
+    {
+      Id = "Credits_CastTitle_LoganCharsAlt"
+      DisplayName = ", , , , "
+    }
+    {
+      Id = "Credits_CastTitle_LoganChars01"
+      DisplayName = ", , ,"
+    }
+    {
+      Id = "Credits_CastTitle_LoganChars02"
+      DisplayName = ", , , "
+    }
+    {
+      Id = "Credits_CastTitle_LoganChars01_Alt"
+      DisplayName = ", , , ,"
+    }
+    {
+      Id = "Credits_CastTitle_LoganChars02_Alt"
+      DisplayName = ", , , "
+    }
+    {
+      Id = "Credits_CastTitle_Dora"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_ErinChars"
+      DisplayName = ", , "
+    }
+    {
+      Id = "Credits_CastTitle_Nemesis"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Odysseus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Moros"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Eris"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Skelly"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_DarrenChars1"
+      DisplayName = ", ,"
+    }
+    {
+      Id = "Credits_CastTitle_DarrenChars2"
+      DisplayName = ", "
+    }
+    {
+      Id = "Credits_CastTitle_DarrenCharsAlt"
+      DisplayName = ", "
+    }
+    {
+      Id = "Credits_CastTitle_Selene"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Artemis"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_CastTitle_Hermes"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Arachne"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Scylla"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Jetty"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Roxy"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Narcissus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Echo"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Polyphemus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Heracles"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Medea"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Circe"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Icarus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Hades"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Homer"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Chaos"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_PeterChars"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_CastTitle_Zeus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Hera"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Poseidon"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Apollo"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Demeter"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_CastTitle_Aphrodite"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Hephaestus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Hestia"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Charon"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Hypnos"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_GregChars"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_CastTitle_Athena"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_Dionysus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_CyrusChars"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_CastTitle_Prometheus"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_CastTitle_AdtlVoices"
+      DisplayName = ""
+    }
+
+    /* SubTitles, Languages */
+    {
+      Id = "Credits_Lang_FR"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_IT"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_PTBR"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_EL"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_UK"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_ZHCN"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_ZHTW"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_TR"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_ES"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_ES_Proofreader"
+      DisplayName = " - "
+    }
+    {
+      Id = "Credits_Lang_JP"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_DE"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_KO"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_PL"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Lang_RU"
+      DisplayName = ""
+    }
+
+    /* Personal Names */
+    {
+      Id = "Credits_Name_001"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_002"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_003"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_004"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_005"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_006"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_007"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_008"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_009"
+      DisplayName = "- "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_010"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_011"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_012"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_012b"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_013"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_014"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_015"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_016"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_017"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_018"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_019"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_020"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_021"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_021b"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_022"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_023"
+      DisplayName = " '' "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_024"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_025"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Name_026"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_026_B"
+      DisplayName = "  {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_026_B"
+      DisplayName = "  {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_027"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_028"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_029"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_030"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_031"
+      DisplayName = " '' "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_032"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_033"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_034"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_035"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_036"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_037"
+      DisplayName = ""
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_038"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_039"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_040"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_041"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Name_042"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_042_B"
+      DisplayName = "   {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_042_B"
+      DisplayName = "   {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_043"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_044"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_044_B"
+      DisplayName = "  {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_044_B"
+      DisplayName = "  {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_045"
+      DisplayName = " . "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_046"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_047"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_048"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_049"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_050"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_051"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_052"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_053"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_054"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_055"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_056"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_057"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_058"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_059"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_060"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_061"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_062"
+      DisplayName = " . "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_063"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_064"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_065"
+      DisplayName = "Tina Carter {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_065"
+      DisplayName = "Tina Carter {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_066"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_067"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_068"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Name_069"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_070"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_071"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_072"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_073"
+      DisplayName = "  ( )"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_074"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_075"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_076"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_077"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_078"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_079"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_080"
+      DisplayName = " -"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_081"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Name_082"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Name_083"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_083_B"
+      DisplayName = "Beatriz Esteban Agustí {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_083_B"
+      DisplayName = "Beatriz Esteban Agustí {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_084"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_085"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_086"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_087"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_088"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_089"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_090"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_091"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_091b"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_091c"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_092"
+      DisplayName = "Clémence Dieryck {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_092"
+      DisplayName = "Clémence Dieryck {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_093"
+      DisplayName = " '' "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_094"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_094b"
+      DisplayName = "  ()"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_095"
+      DisplayName = "Nina Sinigaglia {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_095"
+      DisplayName = "Nina Sinigaglia {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_096"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_097"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_098"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_099"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_100"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_101"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_102"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_103"
+      DisplayName = "Thedoros 'Theo' Kalyvas"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_104"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_105"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_106"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_107"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_108"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_109"
+      DisplayName = "Keiko Fukuichi {#InlineCreditTitle}- "
+    }
+    {
+      Id = "EndCredits_Name_109"
+      DisplayName = "Keiko Fukuichi {#EndCreditsInlineCreditTitle}- "
+    }
+    {
+      Id = "Credits_Name_110"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_111"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_112"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_113"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_114"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_115"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_116"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_117"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_118"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_119"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_120"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_121"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_122"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_123"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_124"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_125"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_126"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_127"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_128"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_129"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_130"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_131"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_132"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_133"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_134"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_135"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_136"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_137"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_138"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_139"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_140"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_141"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_142"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_143"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_144"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_145"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_146"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_147"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_148"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_149"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_150"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_151"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_152"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_153"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_154"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_155"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_156"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_157"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_158"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_159"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_160"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_161"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_162"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_163"
+      DisplayName = " -"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_164"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_165"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_166"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_167"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_168"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_169"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_169b"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_170"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_171"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_172"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_173"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_174"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_175"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_176"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_177"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_178"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_179"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_180"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_181"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_182"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_183"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_184"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_185"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_186"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_187"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_188"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_189"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_190"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_191"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_192"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_193"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_194"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_195"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_196"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_197"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_198"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_199"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_200"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_201"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_202"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_203"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_204"
+      DisplayName = "  "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_205"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_206"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_207"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_208"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_209"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_210"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_211"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_212"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_213"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_214"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_215"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_216"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_217"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_218"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_219"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_220"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_221"
+      DisplayName = " -"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_222"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_223"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_224"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_225"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_226"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_227"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_228"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_229"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_230"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_231"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_232"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_233"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_234"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_235"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_236"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_237"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_238"
+      DisplayName = " "
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_239"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_240"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_241"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_242"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_243"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_244"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_245"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_246"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_247"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_248"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_249"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_250"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_251"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_252"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_253"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_254"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_255"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_256"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_257"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_258"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_259"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_260"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_261"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_262"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_263"
+      OverwriteLocalization = true
+      DisplayName = " -"
+    }
+    {
+      Id = "Credits_Name_264"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_265"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_266"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_267"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_268"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_269"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_270"
+      OverwriteLocalization = true
+      DisplayName = " '. ' "
+    }
+    {
+      Id = "Credits_Name_271"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_272"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_273"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_274"
+      OverwriteLocalization = true
+      DisplayName = "  ' '"
+    }
+    {
+      Id = "Credits_Name_275"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_276"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_277"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_278"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_279"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_280"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_281"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_282"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_283"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_284"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_285"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_286"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_287"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_288"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_289"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_290"
+      OverwriteLocalization = true
+      DisplayName = " -  ."
+    }
+    {
+      Id = "Credits_Name_291"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_292"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_293"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_294"
+      OverwriteLocalization = true
+      DisplayName = "PolarFrosty"
+    }
+    {
+      Id = "Credits_Name_295"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_296"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_297"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_298"
+      OverwriteLocalization = true
+      DisplayName = " '' -"
+    }
+    {
+      Id = "Credits_Name_299"
+      OverwriteLocalization = true
+      DisplayName = "Wriste13"
+    }
+    {
+      Id = "Credits_Name_300"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_301"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_302"
+      OverwriteLocalization = true
+      DisplayName = "  ()"
+    }
+    {
+      Id = "Credits_Name_303"
+      OverwriteLocalization = true
+      DisplayName = "'' -   "
+    }
+    {
+      Id = "Credits_Name_304"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_305"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_306"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_307"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_308"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_309"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_310"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_311"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_312"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_313"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_314"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_315"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_316"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_317"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_318"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_319"
+      OverwriteLocalization = true
+      DisplayName = ". '' "
+    }
+    {
+      Id = "Credits_Name_320"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_321"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_322"
+      OverwriteLocalization = true
+      DisplayName = " '97' "
+    }
+    {
+      Id = "Credits_Name_323"
+      OverwriteLocalization = true
+      DisplayName = "bright01"
+    }
+    {
+      Id = "Credits_Name_324"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_325"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_326"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_327"
+      OverwriteLocalization = true
+      DisplayName = " ."
+    }
+    {
+      Id = "Credits_Name_328"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_329"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_330"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_331"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_332"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_333"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_334"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_335"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_336"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_337"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_338"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_339"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_340"
+      OverwriteLocalization = true
+      DisplayName = "gymprincess99"
+    }
+    {
+      Id = "Credits_Name_341"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_342"
+      OverwriteLocalization = true
+      DisplayName = "  ()"
+    }
+    {
+      Id = "Credits_Name_343"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_344"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_345"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_346"
+      OverwriteLocalization = true
+      DisplayName = " '' -"
+    }
+    {
+      Id = "Credits_Name_347"
+      OverwriteLocalization = true
+      DisplayName = "SleepSoul"
+    }
+    {
+      Id = "Credits_Name_348"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_349"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_350"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_351"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_352"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_353"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_354"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_355"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_356"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_357"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_358"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_359"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_360"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_361"
+      OverwriteLocalization = true
+      DisplayName = ". '' "
+    }
+    {
+      Id = "Credits_Name_362"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_363"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_364"
+      OverwriteLocalization = true
+      DisplayName = " () "
+    }
+    {
+      Id = "Credits_Name_365"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_366"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_367"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_368"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_369"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_370"
+      OverwriteLocalization = true
+      DisplayName = "PonyWarrior"
+    }
+    {
+      Id = "Credits_Name_371"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_372"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_373"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_374"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_375"
+      OverwriteLocalization = true
+      DisplayName = " '' "
+    }
+    {
+      Id = "Credits_Name_376"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_377"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Name_378"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_379"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_380"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_381"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_382"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_383"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_384"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_385"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_386"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_387"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_388"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_389"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_390"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_391"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_392"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_393"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_394"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Name_395"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+
+
+    /* Personal Acknowledgement Name Lines */
+
+    {
+      Id = "Credits_Acknowledgements_001"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_002"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_003"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_004"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_005"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_006"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_007"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_008"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_009"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_010"
+      OverwriteLocalization = true
+      DisplayName = ", ,    "
+    }
+    {
+      Id = "Credits_Acknowledgements_011"
+      OverwriteLocalization = true
+      DisplayName = ",    -"
+    }
+    {
+      Id = "Credits_Acknowledgements_012"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_013"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_014"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_015"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_016"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_017"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_018"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_019"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_020"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_021"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_022"
+      OverwriteLocalization = true
+      DisplayName = " -   "
+    }
+    {
+      Id = "Credits_Acknowledgements_023"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_024"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_025"
+      OverwriteLocalization = true
+      DisplayName = " ,  ,    -"
+    }
+    {
+      Id = "Credits_Acknowledgements_026"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_027"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_028"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_029"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_030"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_031"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_032"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_033"
+      OverwriteLocalization = true
+      DisplayName = " ,     "
+    }
+    {
+      Id = "Credits_Acknowledgements_034"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_035"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_036"
+      OverwriteLocalization = true
+      DisplayName = " ,     "
+    }
+    {
+      Id = "Credits_Acknowledgements_037"
+      OverwriteLocalization = true
+      DisplayName = " ,    ,  "
+    }
+    {
+      Id = "Credits_Acknowledgements_038"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_039"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_040"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_041"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_042"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_043"
+      OverwriteLocalization = true
+      DisplayName = "    "
+    }
+    {
+      Id = "Credits_Acknowledgements_044"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_045"
+      OverwriteLocalization = true
+      DisplayName = "   "
+    }
+    {
+      Id = "Credits_Acknowledgements_046"
+      OverwriteLocalization = true
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Acknowledgements_047"
+      OverwriteLocalization = true
+      DisplayName = ",    "
+    }
+    {
+      Id = "Credits_Acknowledgements_048"
+      OverwriteLocalization = true
+      DisplayName = "    "
+    }
+    {
+      Id = "Credits_Acknowledgements_049"
+      OverwriteLocalization = true
+      DisplayName = ""
+    }
+    
+    
+
+
+    /* Legal & Licensing */
+    {
+      Id = "Credits_Legal_01"
+      DisplayName = "© Supergiant Games, LLC 2025 "
+    }
+    {
+      Id = "Credits_Legal_02B"
+      DisplayName = "Hades II  © Supergiant Games, LLC {$CreditsData.NumericTokens.TwentyTwentyFive} "
+    }
+    {
+      Id = "Credits_Legal_03"
+      DisplayName = "Hades  Supergiant Games, LLC"
+    }
+    {
+      Id = "Credits_Legal_04"
+      DisplayName = "     © Supergiant Games"
+    }
+    {
+      Id = "Credits_License_01"
+      DisplayName = " , ©   {$CreditsData.NumericTokens.NineteenNinetyFour}-{$CreditsData.NumericTokens.TwentyTwentyFive}"
+    }
+    {
+      Id = "Credits_License_02"
+      DisplayName = " Bink Video, © {$CreditsData.NumericTokens.NineteenNinetySeven}-{$CreditsData.NumericTokens.TwentyTwentyFive}  Epic Games Tools LLC"
+    }
+
+    /* Placeholder */
+    {
+      Id = "Credits_Main_Placeholder"
+      DisplayName = "[]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Heading_Placeholder"
+      DisplayName = "[Heading]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_SubHeading_Placeholder"
+      DisplayName = "[SubHeading]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_TeamName_Placeholder"
+      DisplayName = "[]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_SubTitle_Placeholder"
+      DisplayName = "[SubTitle]"
+      OverwriteLocalization = true
+    }
+    {
+      Id = "Credits_Name_Placeholder"
+      DisplayName = "[Name]"
+      OverwriteLocalization = true
+    }
+
+    /* other */
+    {
+      Id = "Credits_With"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_AsIcarus"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_AbbeyRoad"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_AbbeyRoad_B"
+      DisplayName = "  ,  1"
+    }
+    {
+      Id = "Credits_Div_B"
+      DisplayName = "@GUI\\HorizontalDividerLong"
+      OverwriteLocalization = true
+    }
+
+    {
+      Id = "Credits_Message_AIDisclosure_01"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Message_AIDisclosure_02"
+      DisplayName = " AI "
+    }
+    {
+      Id = "Credits_Message_AIDisclosure_03"
+      DisplayName = "  "
+    }
+    {
+      Id = "Credits_Message_Thanks_EarlyAccessPlayers"
+      DisplayName = " Early Access "
+    }
+    {
+      Id = "Credits_Message_Thanks_DiscordMods"
+      DisplayName = " Discord "
+    }
+    {
+      Id = "Credits_Message_Thanks_BetaPlayers"
+      DisplayName = ""
+    }
+    {
+      Id = "Credits_Message_Thanks_FriendsFamily"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Message_Thanks_HadesDevTeam"
+      DisplayName = " {#Prev}{#InlineCreditName}Hades {#Prev}"
+    }
+    {
+      Id = "EndCredits_Message_Thanks_HadesDevTeam"
+      DisplayName = " {#Prev}{#EndCreditsInlineCreditName}Hades {#Prev}"
+    }
+    {
+      Id = "Credits_Message_Thanks_Gods"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Message_Thanks_Time"
+      DisplayName = " "
+    }
+    {
+      Id = "Credits_Message_Thanks_Closing"
+      DisplayName = " "
+    }
+
+  ]
+}
