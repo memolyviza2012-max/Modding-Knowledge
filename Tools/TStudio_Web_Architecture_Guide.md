@@ -580,6 +580,31 @@ TLM (Translation Lore Master) คือมันสมองหลักแล�
 * **Hover Prefetching:** เมื่อผู้ใช้อยู่หน้า Portal และเลื่อนเมาส์ไปชี้เหนือการ์ดโปรเจกต์ (`onMouseEnter` / `onTouchStart`):
   - ระบบจะตรวจสอบ Cache หากไม่มีหรือเก่าเกิน 60 วินาที จะแอบดาวน์โหลดข้อมูลมาเก็บไว้ใน IndexedDB ล่วงหน้าทันที
   - เมื่อผู้ใช้ตัดสินใจคลิกเปิดโปรเจกต์ ข้อมูลจะพร้อมอยู่ในเครื่องเรียบร้อยแล้ว จึงแสดงผลได้ในเสี้ยววินาที (Zero Perceived Latency)
-* **React Render Optimization ใน `StringNavigator.tsx`:**
-  - ห่อหุ้ม `fileScopedStrings`, `filteredStrings`, และ `visibleStrings` ด้วย `useMemo`
   - ป้องกันการวนลูปและรัน Regex กรองข้อความหลายหมื่นบรรทัดซ้ำซ้อนขณะคลิกสลับข้อความ ทำให้การตอบสนองต่อการคลิกทุกบรรทัดลื่นไหลระดับ 60 FPS (0ms Latency)
+
+---
+
+## 🛡️ 13. ระบบสิทธิ์การตรวจสอบคำศัพท์และจัดการข้อเสนอ (Modder Role & Proposal Moderation System)
+
+### 13.1 การขยายสิทธิ์ยศ Modder (`src/lib/admin/adminService.ts`)
+เพื่อให้ชุมชนนักม็อดสามารถช่วยแบ่งเบาภาระของ Lead ได้อย่างมีประสิทธิภาพ ยศ **Modder** (`modder`) ได้รับการยกระดับให้อยู่ในกลุ่ม **Reviewer Roles** (`['lead', 'admin', 'modder', 'proofreader']`):
+* **สิทธิ์ในการตรวจและอนุมัติคำศัพท์ (Glossary Review & Approval):**
+  - ตรวจสอบคำศัพท์ในแท็บพจนานุกรม (SidePanel)
+  - กดปุ่มรับรอง (Checkmark) เพื่อเลื่อนสถานะคำศัพท์ที่ชุมชนเสนอขึ้นเป็นคำศัพท์หลักทางการ (Official Master Dictionary)
+  - กดปุ่มมงกุฎ (Crown) เพื่อสลับสำนวนทางเลือก (Alternative Proposal) ขึ้นมาเป็นคำแปลหลักแทนคำเดิม
+  - เรียกใช้ระบบสร้างคำศัพท์ด้วย AI (AI Glossary Generator)
+* **สิทธิ์ในการตรวจและอนุมัติข้อเสนอคำแปล (Translation Suggestions Approval):**
+  - กดอนุมัติข้อเสนอคำแปล (Approve as Master) ในพื้นที่แปลหลัก (`TranslationWorkarea`)
+  - เข้าถึงหน้าต่างฉันทามติชุมชน `[ 🏆 ตรวจคำแปลยอดนิยม ]` (`ConsensusModal`) จากเนวิเกชันบาร์ และสามารถอนุมัติคำแปลยอดนิยมแบบรวดเร็วได้
+
+### 13.2 สิทธิ์การลบข้อเสนอที่ไม่เหมาะสม (Proposal & Term Deletion Protocol)
+เพื่อรักษาคุณภาพของฐานข้อมูลการแปลและคลังศัพท์ กลุ่มผู้ตรวจสอบ (`lead`, `admin`, `modder`, `proofreader`) สามารถลบข้อเสนอที่ไม่ถูกต้อง ไม่เหมาะสม หรือซ้ำซ้อนได้:
+1. **การลบข้อเสนอคำแปล (Delete Translation Suggestion):**
+   - มีปุ่มถังขยะ (`Trash2`) ในรายการข้อเสนอทั้งใน `TranslationWorkarea` และ `ConsensusModal`
+   - **Master Safety Guard:** หากข้อเสนอที่จะลบเป็นคำแปลหลัก (Master) อยู่ในปัจจุบัน ระบบจะขึ้นเตือนว่าคำแปลหลักจะถูกปลดออก (`isApproved = false`) และปรับลดยอดคำที่อนุมัติแล้วของโปรเจกต์โดยอัตโนมัติ
+   - ลบข้อมูลออกจาก Supabase Cloud (`suggestions`), ลบออกจาก IndexedDB Cache ทันที และบรอดแคสต์ผ่าน Realtime ให้ผู้ใช้อื่นเห็นการลบทันที
+2. **การลบคำศัพท์และคำแปลทางเลือก (Delete Glossary Term & Alternative):**
+   - มีปุ่มถังขยะสำหรับลบทั้งคำแปลทางเลือกย่อย และลบคำศัพท์ทั้งรายการออกจากพจนานุกรม
+   - บันทึกการลบลง Supabase Cloud (`glossary_terms`) และ IndexedDB Cache
+3. **Audit Log Tracking:**
+   - ทุกการลบจะถูกบันทึกประวัติการตรวจสอบอย่างโปร่งใส (`AuditLog` ที่มี `action: 'delete'`) ระบุชื่อผู้ลบและยศของผู้ลบอย่างชัดเจนบน Cloud และแสดงผลในแท็บประวัติการดำเนินงาน
