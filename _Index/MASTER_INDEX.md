@@ -50,6 +50,7 @@
 | **Hogwarts Legacy** | Unreal Engine 5 | ★★★★☆ | [Hogwarts Legacy_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Hogwarts%20Legacy/Hogwarts%20Legacy_Thai_Localization_Bible.md) |
 | **Hollow Knight Silksong** | Unity | ★★★★★ | [Hollow Knight Silksong_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Hollow%20Knight%20Silksong/Hollow%20Knight%20Silksong_Thai_Localization_Bible.md) |
 | **Jump Space** | Unity | ★☆☆☆☆ | [Jump_Space_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Jump_Space/Jump_Space_Thai_Localization_Bible.md) |
+| **Kingdom Come: Deliverance II** | CryEngine | ★★☆☆☆ | [Kingdom_Come_Deliverance_II_Bible.md](file:///E:/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/Kingdom_Come_Deliverance_II/Kingdom_Come_Deliverance_II_Bible.md) |
 | **Lords of the Fallen (2023)** | Unreal Engine 5 | ★★★☆☆ | [Lords_of_the_Fallen_2023_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Lords_of_the_Fallen_2023/Lords_of_the_Fallen_2023_Thai_Localization_Bible.md) |
 | **Mafia III** | Illusion Engine | ★★★☆☆ | [Mafia_III_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Illusion_Engine/Games/Mafia_III/Mafia_III_Thai_Localization_Bible.md) |
 | **Marvel's Guardians of the Galaxy** | Dawn Engine | ★★★☆☆ | [Marvels_GotG_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Dawn_Engine/Games/Marvels_GotG/Marvels_GotG_Thai_Localization_Bible.md) |
@@ -79,8 +80,17 @@
 | **Wasteland 3** | Unity | ★★☆☆☆ | [Wasteland_3_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Wasteland_3/Wasteland_3_Thai_Localization_Bible.md) |
 | **Watch Dogs 2** | Disrupt Engine | ★★★☆☆ | [Watch Dogs 2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Disrupt/Games/Watch%20Dogs%202/Watch%20Dogs%202_Thai_Localization_Bible.md) |
 | **XCOM Enemy Unknown** | Unreal Engine 3 | ★★★★☆ | [XCOM_Enemy_Unknown_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/XCOM_Enemy_Unknown_Thai_Localization_Bible.md) |
+| **XCOM: Chimera Squad** | Unreal Engine 3 | ★★☆☆☆ | [Thai_Localization_Bible.md](file:///E:/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Chimera_Squad/Thai_Localization_Bible.md) |
 | **Zombie Army 4: Dead War** | Asura Engine | ★★★★☆ | [Zombie_Army_4_Dead_War_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Asura_Engine/Games/Zombie_Army_4_Dead_War/Zombie_Army_4_Dead_War_Thai_Localization_Bible.md) |
 | **Zombie Army Trilogy** | Asura Engine | ★★★★☆ | [Zombie_Army_Trilogy_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Asura_Engine/Games/Zombie_Army_Trilogy/Zombie_Army_Trilogy_Thai_Localization_Bible.md) |
+
+---
+
+## 🛠️ คัมภีร์และเทคนิคเฉพาะทาง (Core Modding Techniques)
+- 🔤 [**คัมภีร์คลังฟอนต์เกมภาษาไทยและระบบเลื่อนสระ PUA (15 Master Fonts & Engine Guide)**](file:///E:/Mod_Workspace/Modding-Knowledge/Techniques/Thai_Game_Font_PUA_Catalog.md)
+- 📌 [PUA Mapping Mismatch & Font Tools](file:///E:/Mod_Workspace/Modding-Knowledge/Techniques/Font_PUA_Mapping_Sync.md)
+- 🎮 [Unity Font Replacement Bible](file:///E:/Mod_Workspace/Modding-Knowledge/Techniques/Unity_Font_Replacement_Bible.md)
+- ⚡ [Unreal Engine 4 Font Modding](file:///E:/Mod_Workspace/Modding-Knowledge/Techniques/UE4_Font_Modding.md)
 
 ---
 *ระดับความซับซ้อนประเมินจากความยากในการแกะไฟล์, pack ไฟล์, และจัดการ font*

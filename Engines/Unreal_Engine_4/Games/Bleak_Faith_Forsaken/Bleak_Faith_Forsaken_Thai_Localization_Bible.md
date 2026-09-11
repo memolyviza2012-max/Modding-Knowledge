@@ -19,7 +19,8 @@
 | **Mount Point** | `../../../` |
 | **Encryption** | None (AES Key not required, encrypted index = false) |
 | **Compression** | None |
-| **Path Hash Seed** | `0xAF0F5471` (Decimal: `2936997489`) |
+| **Path Hash Seed** | `0xAF0F5471` (Decimal: `2937017457`) |
+| **Pak Signature Check** | Enforced by UE4 Shipping. Requires ASI SigBypasser (`dsound.dll` + `UniversalSigBypasser.asi` in `Binaries/Win64/`) |
 | **Recommended Pak Tool** | `repak.exe` (`E:/Mod_Workspace/Tool/repak_cli/repak.exe`) |
 
 ---
@@ -73,8 +74,14 @@ Bleak Faith: Forsaken **does not** use standard Unreal `.locres` files for in-ga
    Unreal Engine 4 has an emergency Slate fallback mechanism. By placing a Unicode-complete Thai font at:
    `Engine/Content/Slate/Fonts/DroidSansFallback.ttf`
    any Slate/UMG widget whose primary font lacks Thai glyphs will automatically fall back to this font.
-2. **Layer 2 - Replaced `.ufont` Assets**:
-   Replace the `.ufont` files in `Forsaken/Content/Textures/Fonts/` with weights from a modern Thai font family (such as **Kanit** or **Noto Sans Thai**). This guarantees that both UI labels and specialized fonts render with correct baseline and aesthetics.
+2. **Layer 2 - Internal Name Patching on `.ufont` Assets**:
+   The game engine verifies font internal name tables (`nameID` 1, 2, 3, 4, 6). Simply dropping a raw TTF can cause FreeType/Slate to fail validation. We use `fontTools.ttLib.TTFont` to copy genuine name records from base game fonts (Metropolis, ABeeZee, Dominican, Electrolize, GlacialIndifference) directly into Kanit TTF files, saving them into `Forsaken/Content/Textures/Fonts/`.
+
+### Dual Main Menu Widget Architecture:
+Bleak Faith uses two distinct main menu widgets:
+1. **`WBP_MainMenu.uasset`** (`Forsaken/Content/Blueprints/HUD/MainHUDs/`): Dynamically reads translations from `DT_Menu_Loc`.
+2. **`WBP_MainMenu_CharacterBG.uasset`** (`Forsaken/Content/Assets/MenuSystem/Widgets/`): Uses static button text properties (`ButtonLabel`).
+Both widgets and `DT_Menu_Loc` must be patched in tandem for complete Thai menu rendering.
 
 ---
 
@@ -97,7 +104,7 @@ python bleak_faith_packer.py --csv 02_Translation_Workspace/poc_main_menu_thai.c
 ```
 * Options:
   * `--csv <path>`: Input translated CSV.
-  * `--deploy`: Automatically installs to game directory `Forsaken/Content/Paks/`.
+  * `--deploy`: Automatically installs to game directory `Forsaken/Content/Paks/` and copies SigBypasser to `Forsaken/Binaries/Win64/`.
   * `--backup-dir`: Destination for checkpoint backups.
   * `--font-src`: Path to Thai TTF fonts (default: `03_Font_and_UI/Kanit`).
 
@@ -106,7 +113,11 @@ python bleak_faith_packer.py --csv 02_Translation_Workspace/poc_main_menu_thai.c
 ## 5. 🚀 Deployment & Installation
 
 To install the Thai mod:
-1. Copy `Forsaken-WindowsNoEditor_P.pak` into:
+1. Copy ASI SigBypasser to:
+   `<GameDirectory>/Forsaken/Binaries/Win64/`
+   - `dsound.dll` (Ultimate ASI Loader)
+   - `UniversalSigBypasser.asi` (Bypasses UE4 pak signature verification)
+2. Copy `Forsaken-WindowsNoEditor_P.pak` into:
    `<GameDirectory>/Forsaken/Content/Paks/`
-2. Launch the game normally via Steam.
-3. The game will automatically load `Forsaken-WindowsNoEditor_P.pak` as an official patch override!
+3. Launch the game normally via Steam.
+4. The game will automatically load `Forsaken-WindowsNoEditor_P.pak` as an official patch override!
