@@ -516,6 +516,40 @@ TLM (Translation Lore Master) คือมันสมองหลักแล�
 
 ---
 
+### 11.4 สถาปัตยกรรม Cloud System Vault: แก้ปัญหา Firebase UID และคีย์อัปเกรดข้ามเบราว์เซอร์ (Cloud System Vault Architecture)
+
+#### 1. วิเคราะห์ปัญหาคอขวดและข้อจำกัดเดิม (Root Cause Analysis)
+* **ปัญหาที่ 1 (รายชื่อและไอดีผู้ใช้ไม่ขึ้นในหลังบ้าน):**
+  - ตาราง `profiles` ใน Supabase ผูก Foreign Key กับ `auth.users(id)` ซึ่งกำหนด Data Type เป็น `UUID`
+  - เมื่อผู้ใช้เข้าสู่ระบบผ่าน Google Firebase (`signInWithGoogleFirebase`), ไอดีที่ได้คือ `fbUser.uid` ซึ่งเป็นสตริง 28 ตัวอักษร (ไม่ใช่รูปแบบ UUID)
+  - การพยายาม insert ลง `profiles` จึงเกิดข้อผิดพลาดจาก PostgreSQL `22P02 invalid input syntax for type uuid` หรือ `23503 foreign key constraint violation` ทำให้ข้อมูลผู้ใช้ Firebase ไม่ถูกจัดเก็บใน `profiles` และทำให้ Lead ไม่เห็นสมาชิกในหลังบ้าน
+* **ปัญหาที่ 2 (คีย์อัปเกรดนำไปใช้จริงไม่ได้ / ไม่พบคีย์ในระบบ):**
+  - เดิมโค้ดหลังบ้านพยายามเรียก `supabase.from('upgrade_keys')` ซึ่งไม่มีตารางนี้อยู่ในฐานข้อมูล Cloud (`PGRST205 Could not find the table 'public.upgrade_keys'`)
+  - ทำให้ฟังก์ชันตกไปใช้ Fallback บันทึกคีย์ลงใน `localStorage` ของเบราว์เซอร์ Lead เท่านั้น
+  - เมื่อสมาชิกอื่นหรือผู้ใช้จากเครื่อง/เบราว์เซอร์อื่นนำคีย์ไปกรอก ระบบไปค้นหาบน Cloud ไม่พบ และค้นใน `localStorage` ของเครื่องตนเองไม่พบ จึงแจ้งเตือน *"ไม่พบคีย์อัปเกรดนี้ในระบบ"*
+
+#### 2. กลไกแก้ปัญหาด้วย Cloud System Vault (`__sys_user_directory__` & `__sys_upgrade_vault__`)
+เพื่อแก้ปัญหาโดยไม่ต้องขอสิทธิ์ DDL สร้างตารางใหม่บน Supabase และไม่ติดปัญหาข้อจำกัด Data Type UUID ระบบได้นำสถาปัตยกรรม **Cloud System Vault** มาใช้:
+* **พื้นที่จัดเก็บข้อมูลระบบระดับสูง (System Records):**
+  - ใช้ตาราง `projects` ที่มีอยู่แล้วและรองรับการ Upsert โดยกำหนด ID เฉพาะ:
+    - `id: '__sys_upgrade_vault__'`: จัดเก็บคลังคีย์อัปเกรดยศทั้งหมดแบบ JSON Array
+    - `id: '__sys_user_directory__'`: จัดเก็บไดเรกทอรีสมาชิกทุกคน (ทั้ง Supabase UUID และ Firebase UIDs) แบบ JSON Array
+  - ข้อมูลถูกเข้ารหัสและบันทึกลงในคอลัมน์ `description` ซึ่งเป็น `TEXT` ความจุสูง
+* **Data Isolation (แยกข้อมูลระบบออกจากหน้ารายการเกม):**
+  - ในฟังก์ชัน `fetchProjectsCloud()` เพิ่มตัวกรอง `.not('id', 'like', '__sys_%')`
+  - ทำให้เรคอร์ด Vault ของระบบไม่มีทางปรากฏเป็นการ์ดเกมบนหน้า Portal ให้ผู้ใช้ทั่วไปเห็น
+* **Automatic Login Synchronization (`syncUserToDirectoryCloud`):**
+  - ในทุกจุดเข้าสู่ระบบ ทั้ง `firebaseAuthService.ts` และ `authService.ts`:
+    - เมื่อผู้ใช้ล็อกอิน (ไม่ว่าจะด้วย Google Firebase หรืออีเมล Supabase) ระบบจะเรียก `syncUserToDirectoryCloud(user)`
+    - ระบบจะทำการ Upsert ไอดี, อีเมล, ชื่อ, รูปโปรไฟล์ และเวลาใช้งานล่าสุดเข้าสู่ `__sys_user_directory__` บน Supabase Cloud ทันที
+    - **การรักษายศที่ได้รับการอัปเกรด:** หาก Lead ได้อัปเกรดยศของผู้ใช้คนนั้นเป็น `modder`, `admin`, หรือ `premium` ไว้ในไดเรกทอรี ระบบจะดึงยศที่ได้รับการอัปเกรดมาตั้งค่าให้ผู้ใช้ทันที แม้ผู้ใช้จะล็อกอินผ่าน Google เข้ามาใหม่ก็ตาม
+* **Global Real-Time Key Generation & Redemption:**
+  - `generateUpgradeKeys`: เขียนคีย์ใหม่ขึ้นไปที่ `__sys_upgrade_vault__` บน Cloud ทันที
+  - `redeemUpgradeKey`: ดึงคีย์สดจาก Cloud, ตรวจสอบสถานะการใช้งาน, ทำเครื่องหมาย `isRedeemed = true` พร้อมบันทึก `redeemedBy` และ `redeemedAt`, เขียนกลับสู่ Cloud, และอัปเกรดยศของผู้ใช้ใน `__sys_user_directory__`
+  - การันตีว่าคีย์สามารถนำไปใช้งานข้ามเครื่อง ข้ามเบราว์เซอร์ได้ 100% และถูกเผาทิ้ง (Single-use) ป้องกันการนำกลับมาใช้ซ้ำได้อย่างสมบูรณ์
+
+---
+
 ## ⚡ 12. สถาปัตยกรรมระบบโหลดข้อความฉับไว "กดปุ๊บ แสดงปั๊บ" (True Instant Loading & Client-Side High-Speed Engine)
 
 ### 12.1 ที่มาและปัญหาคอขวดเดิม (Latency & Sequential Bottlenecks)
