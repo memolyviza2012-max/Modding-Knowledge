@@ -315,3 +315,52 @@ graph TD
   - เมื่อใช้ Firebase Authentication ในการยืนยันตัวตน คำขอที่ส่งไปยัง Supabase REST API จะทำงานในบริบทของบทบาท `anon`
   - ตารางคำแปลคอมมูนิตี้ (`projects`, `project_files`, `strings`, `suggestions`, `glossary_terms`, `comments`, `audit_logs`, `user_project_memberships`) ต้องปิดใช้งาน RLS หรือตั้งค่า Permissive Policy `USING (true) WITH CHECK (true)` เพื่อให้นักแปลทุกคนและระบบ Cloud Sync สามารถบันทึกข้อมูลและแสดงผลแบบ Realtime ได้อย่างลื่นไหล
   - คอลัมน์ `user_id` ในตาราง `suggestions`, `comments`, `user_project_memberships` ต้องกำหนดเป็นชนิด `TEXT` เพื่อรองรับ User ID ของ Firebase ได้โดยตรง
+
+### 7. การป้องกันปัญหา UI Freeze, การแบ่งหน้า PostgREST และการบันทึกข้อมูลอย่างถาวร (Stability & Data Synchronization Protocol)
+* **การป้องกัน React Render Freeze จาก `currentString.id`:**
+  - เมื่อเข้าสู่ห้องแปล (`currentView === 'studio'`) ในขณะที่ข้อมูลสตริงยังโหลดไม่เสร็จ (`strings.length === 0`) ตัวแปร `currentString` จะมีค่าเป็น `undefined`
+  - การเรียกใช้ `currentString.id` ตรงๆ โดยไม่มี Safe Navigation / Optional Chaining (`currentString?.id`) จะก่อให้เกิด Uncaught TypeError ส่งผลให้ React Tree แครชและหน้าเว็บค้างทันที
+  - **แนวทางแก้ไข:** ต้องใช้ Optional Chaining เสมอ และจัดทำ State `isStringsLoading` เพื่อแสดงผล Spinner โหลดข้อมูลจาก Cloud อย่างราบรื่น
+* **การแบ่งหน้า PostgREST Range Pagination (`PAGE_SIZE = 1000`):**
+  - โดยค่าเริ่มต้น Supabase PostgREST Server จะจำกัดจำนวนข้อมูลต่อ Query สูงสุดไม่เกิน 1,000 แถว
+  - โปรเจกต์เกมที่มีข้อความเกิน 1,000 บรรทัด (เช่น Jedi Academy มี 3,399 บรรทัด) หากไม่แบ่งหน้า ข้อมูลตั้งแต่แถวที่ 1,001 จะขาดหายไป
+  - **แนวทางแก้ไข:** ใน `fetchStringsCloud` และ `fetchSuggestionsCloud` ให้ใช้ Loop `.range(from, from + PAGE_SIZE - 1)` ทีละ 1,000 แถวจนกว่าจะได้ข้อมูลครบถ้วนทั้งหมด
+* **การบันทึกสถิติความคืบหน้าโปรเจกต์ลง Supabase (`updateProjectStatsCloud`):**
+  - เมื่อ Host ทำการอนุมัติคำแปล (Approve Master) ทั้งแบบรายข้อความและแบบกลุ่ม (Batch Approve) ต้องเรียกใช้ฟังก์ชัน `updateProjectStatsCloud(projectId, total, translated, approved)` เพื่ออัปเดตค่า `translated_strings` และ `approved_strings` ในตาราง `projects` ของ Supabase เสมอ
+  - ช่วยให้การ์ดโปรเจกต์บนหน้า Portal แสดงตัวเลขเปอร์เซ็นต์ความคืบหน้าที่ถูกต้องแท้จริง และไม่รีเซ็ตกลับเป็น 0 เมื่อมีการรีเฟรชหน้าเว็บ
+* **การแยก Side-Effect ออกจาก Pure State Reducer:**
+  - ในฟังก์ชัน `handleSubmitSuggestion` ห้ามเรียกใช้ Async Cloud Operations (เช่น `updateMembershipCloud`) ภายในฟังก์ชันอัปเดต State `setMemberships((prev) => ...)` เพราะ React Concurrent Mode จะเรียก Pure Updater ซ้ำได้หลายครั้ง
+  - **แนวทางแก้ไข:** ให้คำนวณ Object ข้อมูลก่อน เรียก `setMemberships` แล้วจึงยิง `updateMembershipCloud` ออกไปภายนอก State Setter อย่างเป็นระเบียบ
+
+### 8. สถาปัตยกรรม AI Co-Pilot สำหรับงานแปลเกม (Client-Side AI Integration Architecture: BYOK Protocol)
+* **หลักการออกแบบ Bring-Your-Own-Key (BYOK) เพื่อความปลอดภัยและไร้ขีดจำกัด:**
+  - **Client-Side Storage (`localStorage: tstudio_ai_config`):** กุญแจ API Key ของผู้ใช้ทุกคนจะถูกจัดเก็บไว้เฉพาะใน LocalStorage ภายในเว็บเบราว์เซอร์ของผู้ใช้เท่านั้น จะไม่มีการส่งหรือจัดเก็บไว้ในฐานข้อมูล Supabase หรือเซิร์ฟเวอร์ใดๆ
+  - **Zero Server Costs & No Liability:** ไม่ทำให้โฮสต์ต้องแบกรับค่าธรรมเนียม Token API และตัดปัญหาเรื่อง Quota ชนกันหรือรั่วไหลในคอมมูนิตี้
+  - **Direct REST Dispatching:** ทำการส่งคำขอตรงจาก Browser ผ่าน Web Fetch API ไปยัง Provider Endpoints โดยไม่ต้องใช้ Library ขนาดใหญ่ (เช่น `@google/generative-ai` หรือ `openai`) ทำให้ตัวแอปมีขนาดเบาและโหลดเร็วมาก
+* **ผู้ให้บริการ AI ที่รองรับ (Supported Providers & Recommended Models):**
+  1. **Google Gemini (แนะนำสูงสุด • มี Free Tier):**
+     - เชื่อมต่อผ่าน Google Generative Language REST Endpoint (`v1beta/models/{model}:generateContent`)
+     - รองรับโมเดล `gemini-1.5-flash`, `gemini-2.0-flash`, `gemini-1.5-pro`
+     - สมาชิกสามารถรับ API Key ได้ฟรีไม่มีค่าใช้จ่ายจาก Google AI Studio (`aistudio.google.com/app/apikey`)
+  2. **OpenAI (ChatGPT):**
+     - รองรับ `gpt-4o-mini` (รวดเร็ว คุ้มค่า) และ `gpt-4o` (ฉลาดลึกซึ้ง)
+  3. **DeepSeek API:**
+     - รองรับ `deepseek-chat` (DeepSeek V3) และ `deepseek-reasoner` (DeepSeek R1) โดดเด่นด้านสำนวนภาษาไทยที่คมคายและราคาประหยัด
+  4. **OpenRouter:**
+     - ประตูสู่ทุกค่ายชั้นนำ (Claude 3.5 Sonnet, Llama 3, Qwen 2.5) ผ่าน Unified Endpoint
+  5. **Custom Endpoint (Ollama / Local LLM / Private Proxy):**
+     - รองรับนักม็อดสายรันโมเดลออฟไลน์ในเครื่องผ่าน Localhost (`http://localhost:11434/v1`)
+* **ฟังก์ชัน AI Rephraser ขอไอเดียสำนวน 3 โทนในห้องแปล (CAT Workarea):**
+  - วิเคราะห์ประโยคต้นฉบับภาษาอังกฤษ พร้อมบริบท (Context Note) และคลังคำศัพท์เฉพาะ (Glossary Rules)
+  - กำเนิดคำแปลออกมาเป็น 3 โทนทางเลือกที่แตกต่างกันอย่างชัดเจน:
+    1. *1. โบราณ / แฟนตาซี (Fantasy & Period)* - สำนวนโบราณ สละสลวย ใช้คำเพราะ
+    2. *2. เป็นธรรมชาติ / บทพูดจริง (Natural & Conversational)* - สำนวนภาษาพูดคล่องปาก เข้าถึงง่าย
+    3. *3. ดุดัน / กระชับ (Gritty & Action)* - สั้นกระชับ เหมาะกับฉากต่อสู้หรือสถานการณ์คับขัน
+  - **Game Tag Guard System:** กำชับ Prompt ให้ระบบรักษาตัวแปรและแท็กคำสั่งเกม (`{0}`, `%s`, `\n`, `<color=...>`) ไว้อย่างเคร่งครัด
+  - **Click-to-Apply UX:** นักแปลสามารถคลิกเลือกสำนวนที่ถูกใจเพื่อเติมคำลงในช่องกรอกคำแปลได้ทันทีในคลิกเดียว
+* **ระบบสกัดคลังศัพท์อัตโนมัติด้วย AI (AI Auto-Gen Glossary Generator):**
+  - อนุญาตให้ Lead หรือผู้ดูแลโปรเจกต์ป้อนชื่อเกม/เซ็ตติ้งจักรวาล และเลือกสไตล์ที่ต้องการ (แฟนตาซี, ไซไฟ, หรือธรรมชาติ)
+  - AI จะทำการสกัดและสร้างศัพท์สำคัญเฉพาะทาง (ตัวละคร, สถานที่, ไอเทม) พร้อมคำแปลภาษาไทย, คำต้องห้าม (Forbidden Terms), และบริบทอธิบาย พร้อมนำเข้าสู่ตาราง Glossary ของโปรเจกต์บน Supabase ได้ทันที
+* **การเข้าถึงและการทดสอบระบบ (UX Integration):**
+  - เพิ่มแท็บ **"🤖 AI Co-Pilot (API Key)"** ในหน้าต่าง User Profile Modal พร้อมปุ่มตรวจเช็กสถานะการเชื่อมต่อแบบเรียลไทม์ (`ทดสอบการเชื่อมต่อ ⚡`)
+  - มีปุ่มทางลัดเข้าสู่หน้าตั้งค่า AI จากทั้ง Navbar, Portal Header, Translation Workarea Drawer, และ AI Glossary Modal
