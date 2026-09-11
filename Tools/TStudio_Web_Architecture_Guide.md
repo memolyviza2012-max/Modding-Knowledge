@@ -439,15 +439,34 @@ TLM (Translation Lore Master) คือมันสมองหลักแล�
 * คำศัพท์จะถูกตั้งค่าเป็น **`isOfficial: true` ทันทีโดยไม่ต้องรอ Host มากดอนุมัติ**
 * คำศัพท์จะปรากฏในแท็กคำศัพท์แนะนำในห้องแปล และถูกนำไปเป็นกฎเหล็กบังคับในระบบ AI ของทุกคนทันที
 
-### 10.5 กลไกการบังคับใช้ TLM ของ Lead (Lead TLM Enforcement Mechanics)
-* **หลักการทำงาน:** เมื่อผู้ใช้ท่านอื่น (ที่ไม่ได้เป็น Lead) ใส่ API Key ส่วนตัว (เช่น Gemini หรือ OpenAI) เพื่อขอไอเดียหรือแปลคำ
-* **ระบบแปลของโปรเจกต์จะดึงเอา TLM Directives ของ Lead มาใช้โดยอัตโนมัติ:**
-  1. หาก Lead กำหนด Single Prompt หรือ Batch Prompt แม่แบบไว้ ระบบจะใช้ Prompt แม่แบบของ Lead ทันที
-  2. โทนจักรวาล (Universe Tone), ปรัชญาการแปล (Philosophy), ข้อมูล Lore, และกฎเหล็ก (Custom Rules) ของ Lead จะถูกผนวกเข้าสู่ System Instruction ของ API เสมอ
-  3. บัญชีของนักแปลทุกคนจึงแปลงานออกมาเป็นทิศทางและมาตรฐานเดียวกันเป๊ะตามที่ Lead วางไว้
-* **Visual Indicator:** ในหน้าต่างขอไอเดีย 3 โทน และหน้าต่าง TRun Batch จะมีแถบสัญลักษณ์:
-  `🧠 TLM แม่แบบโดย Lead: [Universe Tone] [ENFORCED]`
-  เพื่อแจ้งให้นักแปลทราบอย่างชัดเจนว่าระบบกำลังเดินตามแนวทางของ Lead Modder
+### 10.5 สถาปัตยกรรมการจัดเก็บและบังคับใช้ TLM ข้ามผู้ใช้ (Cloud Vault, Realtime & Multi-Endpoint Enforcement)
+ระบบ TLM 2.0 Web ได้รับการอัปเกรดให้รองรับการบังคับใช้ทิศทางงานแปลของ Lead Modder ไปยังนักแปลทุกคนในโปรเจกต์แบบ Realtime 100%:
+
+1. **คลังจัดเก็บส่วนกลางบน Supabase Cloud (`__sys_tlm_vault__`):**
+   * บันทึกข้อมูล Universe Lore (`universeTone`, `philosophy`, `customRules`, `loreNotes`) และ System Prompts (`singlePrompt`, `optionsPrompt`, `batchPrompt`) ลงในระบบคลาวด์แบบรวมศูนย์
+   * **Auto-Migration:** เมื่อสตูดิโอเปิดใช้งาน หากพบว่าใน Local Browser มีข้อมูล TLM ที่เซฟไว้ก่อนหน้า แต่บน Cloud ยังไม่มี ระบบจะอัปโหลดขึ้น Cloud Vault ให้อัตโนมัติทันที
+   * **IndexedDB 0ms Instant Cache:** แคชข้อมูล TLM ลง IndexedDB ในเครื่องผู้ใช้เพื่อเปิดใช้งานห้องแปลได้ทันทีโดยไม่ต้องรอโหลดเครือข่าย
+
+2. **ระบบ Realtime Sync ข้ามผู้ใช้ทันที (WebSocket Subscriptions):**
+   * เชื่อมต่อ Supabase Realtime Listener กับ row `__sys_tlm_vault__`
+   * เมื่อ Lead บันทึกหรือแก้ไข TLM การเปลี่ยนแปลงจะกระจายไปยังหน้าจอของนักแปลและผู้ตรวจทานทุกคนในห้องแปลทันทีโดยไม่ต้องรีเฟรชหน้าเว็บ
+
+3. **กลไกการบังคับใช้คำสั่ง Lead ในทุกฟังก์ชัน AI (Enforced Across All AI Endpoints):**
+   * ไม่ว่านักแปลจะใช้ API Key ส่วนตัว (Google Gemini, OpenAI, DeepSeek, Claude) ระบบจะนำกฎเหล็กของ Lead ไปเป็น System Directive สูงสุดเสมอ:
+     * ⚡ **Quick Translate (Alt+Q):** ผนวกคำสั่ง TLM Summary เข้ากับ System Instruction ป้องกันโมเดล AI หลุดโทนแม้จะมีการใช้ Single Prompt แบบคัสตอม
+     * 💡 **3-Tone AI Co-Pilot:** ปรับใช้ `optionsPrompt` ตามที่ Lead กำหนด พร้อมรองรับ Parser ทั้งรูปแบบ JSON Object และ Array String
+     * ✨ **Polish Translation:** ส่งผ่านโทนจักรวาลและปรัชญาการแปลเข้าไปยังบรรณาธิการ AI เพื่อตรวจทานและเกลาสำนวนให้เข้ากับจักรวาลเกม
+     * ⚙️ **Special Styles (8 รูปแบบ):** คงกฎเหล็กและโทนจักรวาลควบคู่กับการประยุกต์ใช้สไตล์พิเศษ
+     * 🚀 **TRun Web (Batch Translation):** บังคับใช้ TLM Directives ครบถ้วนทุกข้อความที่แปลแบบสตรีมมิ่ง
+
+4. **การล้างคลังศัพท์เดิมแบบสมบูรณ์เมื่อเลือก Overwrite:**
+   * เมื่อนำเข้าคำศัพท์จาก TLM Staging Review Grid พร้อมเลือก "แทนที่คลังศัพท์เดิมทั้งหมด (Overwrite)" ระบบจะเรียก `clearProjectGlossaryCloud(projectId)` เพื่อล้างคำศัพท์เดิมบน Supabase Cloud ให้หมดจดก่อน จึงเริ่มนำเข้าคำศัพท์ชุดใหม่ เพื่อป้องกันปัญหาคำศัพท์ขยะตกค้าง
+
+5. **สัญลักษณ์แจ้งเตือนสถานะ TLM ที่ชัดเจน (Visual Indicators):**
+   * **แถบ Submit Box:** แสดง `🧠 TLM Active: [Universe Tone] • [Philosophy] [AI Directives Enforced]`
+   * **หน้าต่าง AI Drawer (3 โทน):** แสดง `🧠 TLM แม่แบบโดย Lead: [Universe Tone] [ENFORCED]` พร้อมหลักการแปล
+   * **หน้าต่างแปลชุด TRun Batch:** แสดงป้าย `🧠 TLM: [Universe Tone]`
+
 
 ---
 
