@@ -298,3 +298,20 @@ graph TD
   1. Priority 0: Production Serverless Proxy (`/api/steam`)
   2. Priority 1: Local Vite Proxy (`/steam-api`)
   3. Priority 2: AllOrigins Public CORS Proxy
+
+### 6. ระบบยืนยันตัวตนและการจัดการบัญชี (Dual Authentication & Account System: Firebase Google Popup + Supabase)
+* **การออกแบบระบบล็อกอินแบบสองทาง (Hybrid Dual Auth):**
+  - **Firebase Google Sign-In Popup (`signInWithPopup`):** ล็อกอินสะดวกรวดเร็วด้วย Google Popup Window ผ่าน Firebase Authentication ฟรี โดยไม่ต้องผ่าน URL Redirect Loop หรือ OAuth PKCE Mismatches เมื่อล็อกอินสำเร็จ Token จะถูกส่งตรงกลับมาที่เว็บทันที
+  - **Email & Password Authentication:** ระบบสมัครสมาชิกและล็อกอินด้วยอีเมลและรหัสผ่านโดยตรงผ่าน Supabase Auth
+* **การซิงก์โปรไฟล์และสิทธิ์ Host ผู้ดูแลระบบ:**
+  - สมาชิกทั่วไปเริ่มต้นในบทบาท `translator` (นักแปล) มีสิทธิ์เสนอคำแปล, โหวตคำศัพท์, และแลกเปลี่ยนคอมเมนต์
+  - ข้อมูลผู้ใช้ซิงก์เข้ากับตาราง `profiles` ใน Supabase PostgreSQL เพื่อใช้งานคะแนน `karma_points`, `total_approved`, และจดจำตำแหน่งบรรทัดล่าสุด
+  - บัญชี Host ผู้ดูแลระบบ (`memolyviza2012@gmail.com` และ `danaiwit.dwb@gmail.com`) จะได้รับบทบาท `lead` และ Karma 1,000 แต้มโดยอัตโนมัติทันทีที่ล็อกอิน
+* **Firebase Configuration:**
+  - เพิ่ม Authorized Domains ใน Firebase Console (`tstudio-web-two.vercel.app` และ `localhost`)
+* **Client Fallback Configuration:**
+  - ใน `supabaseClient.ts` และ `firebaseClient.ts` มีการตั้งค่า Fallback ไปยัง Production Keys สาธารณะ ทำให้ระบบออนไลน์เชื่อมต่อได้ทันทีแม้ผู้ใช้ยังไม่ได้ใส่ Environment Variables บน Vercel Dashboard
+* **Supabase Database Row Level Security (RLS) สำหรับระบบคอมมูนิตี้แบบไฮบริด:**
+  - เมื่อใช้ Firebase Authentication ในการยืนยันตัวตน คำขอที่ส่งไปยัง Supabase REST API จะทำงานในบริบทของบทบาท `anon`
+  - ตารางคำแปลคอมมูนิตี้ (`projects`, `project_files`, `strings`, `suggestions`, `glossary_terms`, `comments`, `audit_logs`, `user_project_memberships`) ต้องปิดใช้งาน RLS หรือตั้งค่า Permissive Policy `USING (true) WITH CHECK (true)` เพื่อให้นักแปลทุกคนและระบบ Cloud Sync สามารถบันทึกข้อมูลและแสดงผลแบบ Realtime ได้อย่างลื่นไหล
+  - คอลัมน์ `user_id` ในตาราง `suggestions`, `comments`, `user_project_memberships` ต้องกำหนดเป็นชนิด `TEXT` เพื่อรองรับ User ID ของ Firebase ได้โดยตรง
