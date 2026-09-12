@@ -934,3 +934,25 @@ TLM (Translation Lore Master) คือมันสมองหลักแล�
 4. **ตัวดักจับในระดับแอปพลิเคชัน (`App.tsx: applyCustomProfile`):**
    * ห่อหุ้มตัวฟังเหตุการณ์ล็อกอินทั้งหมดด้วยฟังก์ชัน `applyCustomProfile(user)`
    * เมื่อ Google Auth ส่งข้อมูลเข้ามา ระบบจะตรวจสอบทันทีว่าผู้ใช้คนนี้มี Custom Profile ที่เคยแก้ไขไว้หรือไม่ หากมี จะนำข้อมูลที่แก้ไขมาประกบทับข้อมูล Google ทันที ทำให้หน้าจอไม่เกิดการกระพริบหรือดีดกลับ
+
+---
+
+## 22. ระบบป้องกันข้อมูลสูญหายและการกู้คืนคำแปลจาก Audit Trail (Data Loss Prevention & Audit Trail Recovery Guard)
+
+### 22.1 ลำดับเหตุการณ์และสาเหตุรากเหง้า (Root Cause Analysis - Star Wars Jedi Academy Incident)
+1. **การลบไฟล์โดยผู้ใช้ (`handleConfirmDeleteFile`):**
+   * เมื่อมีการลบไฟล์เก่าออกจากโปรเจกต์ (`project_files`) คำสั่ง SQL จะส่งคำสั่งลบทั้งไฟล์และบรรทัดข้อความในตาราง `strings`
+   * ตาราง `suggestions` มี Foreign Key (`suggestions_string_id_fkey`) เชื่อมกับ `strings(id)` พร้อมคำสั่ง `ON DELETE CASCADE` ส่งผลให้ข้อเสนอคำแปลทั้งหมดของไฟล์นั้นถูกลบตามไปด้วย
+2. **ปัญหา Silent Failure เมื่อฝั่งผู้ใช้ทำงานค้างบนเบราว์เซอร์:**
+   * หากมีสมาชิกเปิดหน้าจอค้างไว้และพิมพ์คำแปลส่งเข้ามา (`handleSubmitSuggestion` / `handleApprove`) หน้าจอจะแสดงผลปกติเพราะ React State และ Local Cache ยังคงมีข้อความอยู่
+   * แต่คำสั่งบันทึกขึ้น Supabase Cloud (`upsertSuggestionCloud`) จะติดข้อจำกัด Foreign Key (Error 23503) เนื่องจากข้อความแม่ใน `strings` ถูกลบไปแล้ว ทำให้คำแปลไม่ถูกบันทึกลง Cloud
+3. **การรักษาข้อมูลผ่าน Audit Trail แบบคงกระพัน (Immutable Audit Trail):**
+   * ระบบ `audit_logs` ไม่มี Foreign Key เชื่อมกับ `strings` จึงบันทึกทุกการกระทำ (`action: 'submit'`, `action: 'approve'`) พร้อมเนื้อหาคำแปลภาษาไทยเต็มทุกตัวอักษร วันที่ เวลา และชื่อผู้แปลไว้อย่างสมบูรณ์ 100% ทำให้สามารถสกัดและกู้คืนข้อมูลกลับมาได้ทั้งหมด
+
+### 22.2 การแก้ไขและมาตรการป้องกันเชิงสถาปัตยกรรม (Architectural Safeguards)
+1. **การตรวจสอบและแจ้งเตือนข้อผิดพลาด Cloud Upsert ทันที:**
+   * ปรับปรุง `dbService.ts: saveStringsBatchCloud` ให้ตรวจสอบผลลัพธ์ของ `project_files.upsert` ก่อนดำเนินการส่งชุดข้อมูล `strings`
+   * ปรับปรุง `App.tsx: handleAddNewFile` ให้ดักจับ Promise จากการบันทึก Cloud พร้อมแจ้งเตือนผู้ใช้หากการเชื่อมต่อมีปัญหา
+   * แก้ไข `SyncModal.tsx` ให้ส่งต่อ `projectId` ที่แท้จริงของโปรเจกต์เสมอ ป้องกันกรณี `projectId: ''`
+2. **กระบวนการกู้คืนข้อมูลอัตโนมัติ (Automated Recovery Script):**
+   * มีสคริปต์กู้คืนฐานข้อมูลผ่าน Audit Trail (`restore_jedi_project.cjs`) ที่สามารถอ่านประวัติการส่งคำแปลทั้งหมดใน `audit_logs` แล้วนำมาแมปกับคีย์และบรรทัดข้อความในไฟล์ต้นฉบับ จากนั้นรีไฮเดรตกลับเข้าสู่ `project_files`, `strings` และ `suggestions` ได้ 100% โดยไม่มีข้อมูลสูญหายแม้แต่บรรทัดเดียว
