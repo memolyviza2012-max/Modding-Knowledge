@@ -136,6 +136,53 @@ graph TD
 
 ---
 
+## 📚 6. ระบบวงจรชีวิตและการแก้ไขคำศัพท์ในคลังศัพท์ (Glossary Lifecycle & Term Editing System)
+
+เพื่อให้การจัดการคลังศัพท์มีความยืดหยุ่นสูงสุดและตอบสนองต่อการขัดเกลาสำนวนจริงของโปรเจกต์ม็อด ระบบจึงเปิดให้สามารถ **แก้ไขคำศัพท์ (Edit Glossary Terms)** ได้อย่างครอบคลุม:
+
+```mermaid
+graph TD
+    Trigger["🖱️ ผู้ใช้คลิกปุ่ม 'แก้ไข' (SidePanel / Table View / Workarea)"]
+    PermCheck{"🔒 ตรวจสอบสิทธิ์<br/>(canEditGlossaryTerm)"}
+    Modal["📝 หน้าต่าง EditGlossaryModal<br/>- Source EN & Target TH<br/>- หมวดหมู่ Category<br/>- บริบท Lore Notes<br/>- คำต้องห้าม Forbidden Terms<br/>- ศัพท์ทางการ Official Toggle<br/>- จัดการสำนวนทางเลือก Alternatives"]
+    Save["💾 บันทึกการแก้ไข (Save)"]
+    
+    Trigger --> PermCheck
+    PermCheck -- ผ่าน --> Modal
+    PermCheck -- ไม่ผ่าน --> Deny["🚫 ซ่อนปุ่ม / ไม่อนุญาต"]
+    Modal --> Save
+    
+    Save --> State["1. React State (App.tsx: glossary)"]
+    Save --> LocalCache["2. IndexedDB Local Cache (Instant Hydration)"]
+    Save --> CloudDB["3. Supabase Cloud Database (glossary_terms)"]
+    Save --> AuditLog["4. Audit Log บันทึกประวัติการเปลี่ยนแปลง"]
+```
+
+### 6.1 โครงสร้างข้อมูลและการปรับแต่ง (Editable Fields)
+ผู้มีสิทธิ์สามารถปรับปรุงข้อมูลของคำศัพท์ใน `EditGlossaryModal` ได้ทุกมิติ:
+1. **Source Term (EN)**: คำศัพท์ภาษาอังกฤษต้นฉบับ
+2. **Target Term (TH)**: คำแปลหลักภาษาไทยที่ถูกต้องและผ่านการขัดเกลา
+3. **Category**: หมวดหมู่คำศัพท์ (`general` ทั่วไป, `character` ตัวละคร/บอส, `location` สถานที่, `item` ไอเทม/อาวุธ, `skill` สกิล/เวทมนตร์)
+4. **Lore Notes & Context**: บันทึกบริบทของเนื้อเรื่อง เหตุผลในการเลือกใช้คำ หรือตำแหน่งฉากที่พบคำนี้
+5. **Forbidden Terms**: คำต้องห้ามที่ไม่ควรใช้แปล โดยระบบจะแยกคำด้วยเครื่องหมายจุลภาค (`,`) และเชื่อมโยงเข้ากับตัวตรวจคำผิด (TagGuard & Quality Linter)
+6. **Official Term Toggle**: สถานะรับรองเข้าสู่คลังศัพท์ทางการหลัก (Official)
+7. **Alternative Proposals Management**: ผู้ตรวจทานสามารถขัดเกลาข้อความของสำนวนทางเลือกที่แนบมา หรือกดลบสำนวนทางเลือกที่ไม่เหมาะสมออกได้ทันที
+
+### 6.2 ลำดับขั้นสิทธิ์ในการแก้ไข (Permission Hierarchy)
+- **ผู้ตรวจทาน (Lead Modder, Admin, Modder, Proofreader)**:
+  - มีสิทธิ์สูงสุดในการแก้ไขคำศัพท์ทุกคำในระบบ ไม่ว่าจะเป็นคำที่เสนอโดยสมาชิกคนใด
+  - มีสิทธิ์เปลี่ยนสถานะคำศัพท์เป็นทางการ (Official Toggle)
+- **ผู้เสนอคำศัพท์ (Proposal Authors)**:
+  - สมาชิกในบทบาทนักแปลทั่วไป (`translator`, `premium`) สามารถกดแก้ไขคำศัพท์ที่ตนเองเป็นผู้เสนอ (`term.proposedBy === currentUser.displayName`) ได้ตลอดเวลา **ตราบใดที่คำศัพท์นั้นยังไม่ได้รับรองเป็นศัพท์ทางการ**
+- **ผู้เยี่ยมชม (Viewer, Guest)**:
+  - ได้รับสิทธิ์แบบ Read-Only เท่านั้น ไม่แสดงปุ่มแก้ไขคำศัพท์
+
+### 6.3 ทางลัดการแก้ไขบนหน้าจอแปลงาน (Editor Integration & Quick Shortcuts)
+- **SidePanel (แท็บคลังศัพท์)**: มีปุ่ม **`✏️ แก้ไข`** สีครามบนการ์ดคำศัพท์ทุกคำ และบนสำนวนทางเลือกทุกสำนวน
+- **TableTranslateView & TranslationWorkarea**: บริเวณแท็กชิปคำศัพท์ที่ตรวจพบในข้อความปัจจุบัน จะมีปุ่มไอคอนรูปดินสอขนาดกะทัดรัดติดอยู่ข้างคำแปล ช่วยให้นักแปลสามารถคลิกแก้ไขคำศัพท์ได้ทันทีที่พบจุดบกพร่องในฉากแปล โดยไม่ต้องเสียเวลาสลับแท็บไปค้นหาใน SidePanel
+
+---
+
 ## 🛡️ 7. สถาปัตยกรรมความเสถียรและระบบซิงค์ URL (Fault Tolerance & URL Deep Linking)
 
 ### 7.1 ป้องกันจอค้างและจอดำมืด (Zero-Crash Defensive Type Guards)
@@ -168,6 +215,12 @@ graph TD
 
 ## 📝 8. บันทึกประวัติการปรับปรุง (Changelog)
 
+- **v2.2.0 (กันยายน 2026)**:
+  - เพิ่มระบบแก้ไขคำศัพท์ในคลังศัพท์แบบเต็มรูปแบบ (`EditGlossaryModal`)
+  - รองรับการแก้ไขคำแปล (TH), คำศัพท์ต้นฉบับ (EN), หมวดหมู่, บริบท Lore, คำต้องห้าม (Forbidden Terms), และการปรับปรุงสำนวนทางเลือก
+  - เพิ่มปุ่มแก้ไขคำศัพท์บน SidePanel และปุ่มลัดแก้ไขบนแท็กชิปของทั้ง Table Mode และ Workarea Mode
+  - ออกแบบระบบสิทธิ์ `canEditGlossaryTerm` รองรับทั้งกลุ่ม Reviewers และผู้เสนอคำศัพท์รายบุคคล
+  - ซิงค์ข้อมูลอัตโนมัติ 4 ชั้น (State, IndexedDB, Supabase Database, Audit Log)
 - **v2.1.1 (กันยายน 2026)**:
   - แก้ไขข้อผิดพลาด `Minified React error #310` (Hook count mismatch) โดยจัดระเบียบ Hooks ใน `TLMStudioModal`, `BatchTranslateModal`, `AIGlossaryModal` ให้อยู่ส่วนบนของคอมโพเนนต์อย่างไม่มีเงื่อนไข และใช้ Conditional Mounting `{isOpen && <Modal />}` ใน `App.tsx`
 - **v2.1.0 (กันยายน 2026)**:
