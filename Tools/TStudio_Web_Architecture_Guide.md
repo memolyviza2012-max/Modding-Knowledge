@@ -906,3 +906,30 @@ TLM (Translation Lore Master) คือมันสมองหลักแล�
 3. **หน้าต่างแสดงสถิติและคนออนไลน์ฉบับสมบูรณ์ (`LiveVisitorsModal.tsx`):**
    * **แท็บ 1 (กำลังออนไลน์):** แสดงการ์ดรายชื่อผู้ใช้งานสด, ยศ, อุปกรณ์ และหน้าที่กำลังทำงานอยู่ พร้อมตัวกรอง (ทั้งหมด / สมาชิก / ทั่วไป)
    * **แท็บ 2 (สถิติการเข้าชม):** สรุปยอด 4 มิติ, กราฟแท่งแนวโน้ม 7 วันย้อนหลัง (7-Day Traffic Trend) และไทม์ไลน์บันทึกการเข้าชมล่าสุด
+
+---
+
+## 21. กลไกการรักษาสถานะโปรไฟล์ผู้ใช้และป้องกันการถูกเขียนทับจาก OAuth (User Profile Persistence & Anti-Overwrite Guard)
+
+### 21.1 สาเหตุของปัญหาเดิม (Root Cause Analysis)
+* เมื่อผู้ใช้เชื่อมต่อระบบด้วย Google OAuth (ผ่าน Firebase หรือ Supabase) ตัวฟังเหตุการณ์สิทธิ์ (`onAuthStateChanged` / `onAuthStateChange`) จะทำการซิงค์ข้อมูลผู้ใช้ทุกครั้งที่มีการสลับแท็บ รีเฟรชหน้า หรือต่ออายุโทเคน
+* อ็อบเจกต์ดิบจาก Google จะนำชื่อและรูปภาพโปรไฟล์ดั้งเดิมจากบัญชี Google (`fbUser.displayName`, `fbUser.photoURL`) กลับมาเสมอ
+* ในโค้ดเดิม มีการใช้คำสั่ง `displayName: user.displayName || existing.displayName` ซึ่งหากชื่อจาก Google มีค่าเป็น Truthy มันจะวิ่งไปทับชื่อหรือรูปโปรไฟล์ที่ผู้ใช้เคยแก้ไขไว้ในระบบ ทำให้ข้อมูลดีดกลับเป็นของ Google ทันที
+
+### 21.2 สถาปัตยกรรมการป้องกันและการคงอยู่ 4 ชั้น (Multi-Tier Anti-Overwrite Architecture)
+1. **การบันทึกระดับ Local Cache แบบ Dual-Key:**
+   * เมื่อผู้ใช้กดบันทึกโปรไฟล์ ระบบจะจัดเก็บลง `localStorage` ภายใต้ 2 คีย์คู่ขนาน:
+     * `tstudio_user_custom_profile_${userId}`
+     * `tstudio_user_custom_profile_${userEmail}`
+   * ป้องกันปัญหาการสลับไปมาระหว่าง Firebase UID และ Supabase UUID
+2. **กลไก Prioritization ใน Cloud User Directory Vault (`syncUserToDirectoryCloud`):**
+   * ปรับลำดับความสำคัญ (Precedence Logic):
+     * `effectiveDisplayName`: ตรวจสอบ Custom Profile ก่อน หากไม่มีจึงใช้ `existing.displayName` ในสารบบ และสุดท้ายจึงใช้ `user.displayName` จาก Google
+     * `effectiveAvatarUrl`: คงค่ารูปภาพที่ผู้ใช้ตั้งไว้ (รวมถึงภาพที่อัปโหลดแบบ Base64) ไม่ให้ถูกทับด้วยลิงก์รูป Google
+3. **การอัปเดตฐานข้อมูล Supabase `profiles` แบบ Dual Matching:**
+   * ในฟังก์ชัน `updateUserProfileCloud`:
+     * ส่งคำสั่งอัปเดตไปยัง `supabase.from('profiles').update(...).eq('id', userId)`
+     * ส่งคำสั่งอัปเดตซ้ำด้วย `.eq('email', userEmail)` เพื่อให้มั่นใจว่าแถวข้อมูลในตาราง `profiles` ถูกอัปเดต 100% แม้รูปแบบรหัส ID จะแตกต่างกัน
+4. **ตัวดักจับในระดับแอปพลิเคชัน (`App.tsx: applyCustomProfile`):**
+   * ห่อหุ้มตัวฟังเหตุการณ์ล็อกอินทั้งหมดด้วยฟังก์ชัน `applyCustomProfile(user)`
+   * เมื่อ Google Auth ส่งข้อมูลเข้ามา ระบบจะตรวจสอบทันทีว่าผู้ใช้คนนี้มี Custom Profile ที่เคยแก้ไขไว้หรือไม่ หากมี จะนำข้อมูลที่แก้ไขมาประกบทับข้อมูล Google ทันที ทำให้หน้าจอไม่เกิดการกระพริบหรือดีดกลับ
