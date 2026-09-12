@@ -134,8 +134,37 @@ graph TD
 
 ---
 
-## 📝 6. บันทึกประวัติการปรับปรุง (Changelog)
+---
 
+## 🛡️ 7. สถาปัตยกรรมความเสถียรและระบบซิงค์ URL (Fault Tolerance & URL Deep Linking)
+
+### 7.1 ป้องกันจอค้างและจอดำมืด (Zero-Crash Defensive Type Guards)
+ในการทำงานจริง ข้อมูล Lore หรือ Category ที่ถูกบันทึกในฐานข้อมูลหรือแคชอาจมีโครงสร้างที่ผิดเพี้ยนไปได้ (เช่น ถูกแปลงเป็น JSON String, Object หรือ Null) TLM Studio จึงมีชั้นการกรองข้อมูลแบบ **Ironclad Type Guards**:
+1. **Bulletproof Category Parsing**: ตรวจสอบ `targetCategories` อย่างรัดกุม รองรับทั้งรูปแบบ Array มาตรฐาน, JSON String (`"[\"General\",\"Person\"]"`), Comma-separated String, และ Fallback เมื่อข้อมูลเป็น Null/Undefined ทำให้การวนลูป `.forEach()` ไม่เกิด `TypeError` ขัดข้อง
+2. **Safe Navigation ใน Staging Grid**: ฟังก์ชัน `filteredStagedTerms` มีการครอบคลุม Safe Fallbacks `(term?.context || '').toLowerCase()` เพื่อป้องกันกรณีสตริงว่างเปล่า
+3. **Safe Universe Tone Split**: ทุกจุดที่มีการดึงส่วนหัวของโทนจักรวาลผ่าน `.split('/')[0]` (เช่น ในแถบแบนเนอร์และ Prompt Compiler) จะถูกตรวจสอบชนิดตัวแปร `typeof universeTone === 'string'` เสมอ
+
+### 7.2 ระบบ ErrorBoundary ป้องกันจอดำ (Fail-Safe Application Shield)
+ใน React 18 หากเกิดข้อผิดพลาดรันไทม์ที่ไม่ได้ดักจับ (Unhandled Runtime Exception) คอมโพเนนต์จะ Unmount ทั้งหมดจนกลายเป็นจอดำมืด (#0f111a) ระบบจึงติดตั้ง:
+- **Global ErrorBoundary**: ครอบ `<App />` ใน `main.tsx` รับประกันว่าหน้าเว็บจะไม่มืดสนิท หากมีข้อผิดพลาดจะแสดงการ์ดแจ้งเตือนสีแดงกึ่งโปร่งใส พร้อมปุ่มทางรอด:
+  - 🏠 **กลับสู่หน้ารวมโปรเจกต์ (Back to Portal)**: รีเซ็ตสเตตและคืนสถานะแอปสู่หน้าหลัก
+  - 🔄 **รีโหลดหน้าเว็บ (Reload Page)**
+  - 📋 **คัดลอกรายละเอียดข้อผิดพลาด (Copy Error Details)**
+- **Modal-Level ErrorBoundary**: ครอบ `<TLMStudioModal />` แยกต่างหาก เพื่อป้องกันไม่ให้ข้อผิดพลาดภายในสตูดิโอกระทบต่อพื้นที่แปลงานหลัก
+
+### 7.3 การเชื่อมโยง URL เบราว์เซอร์และการแชร์ลิงก์ (URL Deep Linking & History Sync)
+- เมื่อเข้าสู่ห้องแปลของโปรเจกต์ใดๆ เบราว์เซอร์จะอัปเดต URL เป็น `/?project=<slugOrId>` อัตโนมัติผ่าน `window.history.pushState`
+- **รองรับการกดรีเฟรช (F5)**: ตัวระบบจะอ่านพารามิเตอร์ URL ในจังหวะ Cold Start และเปิดโปรเจกต์เดิมให้ทันทีโดยไม่เด้งกลับหน้าพอร์ทัล
+- **รองรับปุ่ม Back / Forward**: ติดตั้ง `popstate` Event Listener ทำให้การกดปุ่มย้อนกลับของเบราว์เซอร์สลับระหว่างหน้ารวมโปรเจกต์และห้องแปลได้อย่างลื่นไหล
+
+---
+
+## 📝 8. บันทึกประวัติการปรับปรุง (Changelog)
+
+- **v2.1.0 (กันยายน 2026)**:
+  - แก้ไขปัญหาจอดำค้างเมื่อกดเปิด TLM Studio โดยเพิ่ม Defensive Type Guards ใน `TLMStudioModal`, `TableTranslateView`, `TranslationWorkarea` และ `BatchTranslateModal`
+  - ติดตั้ง `ErrorBoundary` ทั้งระดับแอปพลิเคชันและระดับโมดอล พร้อม UI สำหรับกู้คืนสถานะ
+  - เพิ่มระบบ URL Synchronization และ Deep Linking (`/?project=slug`) รองรับการแชร์ลิงก์และปุ่ม Back/Forward ของเบราว์เซอร์
 - **v2.0.0 (กันยายน 2026)**:
   - แก้ปัญหา Token Cap 1200 ให้เป็น Dynamic Options (4096 สำหรับทดสอบ, 6000 สำหรับ Deep Mining)
   - เพิ่ม Resilient Partial JSON Array Recovery ป้องกันบั๊กสกัดคำศัพท์หลุดกึ่งกลาง
@@ -144,3 +173,4 @@ graph TD
   - เพิ่มคีย์ลัด `Ctrl+L` ทั่วทั้งแอปพลิเคชัน
   - ปรับปรุงการนำเข้าคำศัพท์ไม่ให้เกิด Duplicate Key ใน Supabase
   - เพิ่ม Read-Only Mode สำหรับนักแปลทั่วไป
+
