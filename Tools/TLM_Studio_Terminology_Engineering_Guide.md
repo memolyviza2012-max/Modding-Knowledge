@@ -157,10 +157,19 @@ graph TD
 - **รองรับการกดรีเฟรช (F5)**: ตัวระบบจะอ่านพารามิเตอร์ URL ในจังหวะ Cold Start และเปิดโปรเจกต์เดิมให้ทันทีโดยไม่เด้งกลับหน้าพอร์ทัล
 - **รองรับปุ่ม Back / Forward**: ติดตั้ง `popstate` Event Listener ทำให้การกดปุ่มย้อนกลับของเบราว์เซอร์สลับระหว่างหน้ารวมโปรเจกต์และห้องแปลได้อย่างลื่นไหล
 
+### 7.4 การปฏิบัติตามกฎของ React Hooks (Strict Rules of Hooks & Conditional Mounting)
+- **Minified React Error #310 ("Rendered more hooks than during the previous render")**:
+  - เกิดจากการวาง Hook เช่น `useMemo` หรือ `useState` ไว้หลังคำสั่ง Early Return เช่น `if (!isOpen) return null;` ซึ่งทำให้จำนวน Hook ที่ React รันในจังหวะปิดโมดอล (18 hooks) ไม่เท่ากับตอนเปิดโมดอล (19 hooks)
+  - **แนวทางแก้ไข**:
+    1. **Unconditional Top-Level Hooks**: ย้าย Hooks ทั้งหมด (`useState`, `useRef`, `useMemo`, `useEffect`) ขึ้นไปประกาศไว้ที่หัวฟังก์ชันคอมโพเนนต์เสมอ ห้ามมี `return` ใดๆ คั่นกลาง
+    2. **Conditional Mounting ในระดับ Parent (`App.tsx`)**: สั่งเรนเดอร์โมดอลด้วย `{isOpen && <Modal />}` แทนการเรนเดอร์ทิ้งไว้ใน DOM เพื่อให้เกิดการ Mount และ Unmount อย่างสะอาด ป้องกัน Hook Desync ข้าม Render cycle 100%
+
 ---
 
 ## 📝 8. บันทึกประวัติการปรับปรุง (Changelog)
 
+- **v2.1.1 (กันยายน 2026)**:
+  - แก้ไขข้อผิดพลาด `Minified React error #310` (Hook count mismatch) โดยจัดระเบียบ Hooks ใน `TLMStudioModal`, `BatchTranslateModal`, `AIGlossaryModal` ให้อยู่ส่วนบนของคอมโพเนนต์อย่างไม่มีเงื่อนไข และใช้ Conditional Mounting `{isOpen && <Modal />}` ใน `App.tsx`
 - **v2.1.0 (กันยายน 2026)**:
   - แก้ไขปัญหาจอดำค้างเมื่อกดเปิด TLM Studio โดยเพิ่ม Defensive Type Guards ใน `TLMStudioModal`, `TableTranslateView`, `TranslationWorkarea` และ `BatchTranslateModal`
   - ติดตั้ง `ErrorBoundary` ทั้งระดับแอปพลิเคชันและระดับโมดอล พร้อม UI สำหรับกู้คืนสถานะ
