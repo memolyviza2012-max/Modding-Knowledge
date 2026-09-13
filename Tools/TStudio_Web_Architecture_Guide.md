@@ -1113,3 +1113,48 @@ export const canViewOnlinePresenceDetails = (user?: User): boolean => {
        <LiveVisitorsModal ... />
      )}
      ```
+
+---
+
+## 27. สถาปัตยกรรมการโหลดข้อมูลฉับไวขั้นสูง (Smart Cache Revalidation) และระบบถ่ายทอดสดข้ามหน้าจอ (True Multi-Surface Realtime Engine)
+
+### 27.1 ที่มาและปัญหาคอขวดเดิม (Bottleneck Analysis)
+1. **คอขวด 54 HTTP Requests ต่อคิวในเบราว์เซอร์:**
+   - ในโปรเจกต์ม็อดแปลเกมภาษาไทยที่มีข้อความจำนวนมหาศาล (เช่น *The Blood of Dawnwalker* 53,274 บรรทัด) ระบบเดิมยิงแบ่งหน้าทีละ 1,000 แถวด้วย `Promise.all` ทำให้เกิด 54 requests พร้อมกัน
+   - เบราว์เซอร์ (Chrome / Edge) จำกัดการเชื่อมต่อขนานกันสูงสุดเพียง 6 connections ต่อ 1 โฮสต์ ส่งผลให้คำขอต้องต่อคิวรอถึง 9 ระลอก และบล็อกท่อเน็ตเวิร์กของแอปทั้งหมด
+   - แม้ผู้ใช้จะมีแคช IndexedDB อยู่แล้ว แต่ระบบกลับสั่งยิงดึงข้อความใหม่ทั้ง 53,000 บรรทัดซ้ำซ้อนทุกครั้งที่กดเข้าห้องแปล
+2. **ปัญหา Realtime ขาดตอนและไม่ถ่ายทอดสด:**
+   - ตาราง `strings` (สถานะการแปลและการอนุมัติเข้า Master) และตาราง `projects` (ยอดรวมบรรทัดแปล / ความคืบหน้า) ไม่ได้ถูกบรรจุไว้ใน `supabase_realtime` Publication ของ PostgreSQL
+   - ตัวรับข้อมูลในเว็บ (`realtimeService.ts`) ไม่ได้เขียนดักฟังตาราง `strings` ไว้ ทำให้เมื่อมีคนกด Approve คำแปล คนอื่นในห้องแปลจะไม่เห็นบรรทัดเปลี่ยนเป็นสีเขียว
+   - ใน PostgreSQL ค่าเริ่มต้นของตารางไม่มีการตั้ง `REPLICA IDENTITY FULL` ทำให้เมื่อเกิดเหตุการณ์ `DELETE` ระบบจะส่งเฉพาะ `id` โดยไม่มี `project_id` ติดมาด้วย ส่งผลให้ตัวกรอง Realtime Drop ข้อมูลทิ้งทั้งหมด
+
+### 27.2 การออกแบบ Smart Cache Revalidation & Delta Sync (`App.tsx` & `projectCache.ts`)
+* **บันทึกประทับเวลา (`projectUpdatedAt`) ใน IndexedDB:**
+  - `CachedProjectData` เพิ่มฟิลด์ `projectUpdatedAt?: string` เพื่อบันทึกเวลาที่โปรเจกต์บนคลาวด์มีการอัปเดตล่าสุด
+* **Fast Path vs Cold Path:**
+  - เมื่อเปิดห้องแปล:
+    1. ดึงข้อความจาก IndexedDB แสดงผลทันทีใน **0-15 มิลลิวินาที**
+    2. ในเบื้องหลัง ตรวจสอบว่า `cached.strings.length >= targetProject.totalStrings` หรือไม่:
+       - **FAST PATH (ข้อมูลในเครื่องครบถ้วน):** **ข้ามการยิง `fetchStringsCloud` (ข้าม 54 requests ทันที!)** แล้วยิงดึงเฉพาะข้อมูลคอมมูนิตี้ขนาดเล็ก เช่น `suggestions`, `glossary`, `comments`, `auditLogs` ซึ่งกินเวลาเพียง **~200-300ms** เท่านั้น ท่อเน็ตเวิร์กจึงไม่ติดขัด
+       - **COLD PATH (เพิ่งเปิดครั้งแรกสุด / แคชยังไม่ครบ):** ยิงดึงข้อมูลเต็มรูปแบบพร้อม Progressive 250 rows first-paint
+
+### 27.3 การยกระดับระบบถ่ายทอดสด Realtime 100% (`realtimeService.ts` & Supabase Migration 003)
+1. **Migration Script 003 (`supabase/migrations/003_enable_full_realtime_and_replica_identity.sql`):**
+   ```sql
+   ALTER PUBLICATION supabase_realtime ADD TABLE public.strings;
+   ALTER PUBLICATION supabase_realtime ADD TABLE public.projects;
+   ALTER TABLE public.suggestions REPLICA IDENTITY FULL;
+   ALTER TABLE public.strings REPLICA IDENTITY FULL;
+   ALTER TABLE public.glossary_terms REPLICA IDENTITY FULL;
+   ALTER TABLE public.comments REPLICA IDENTITY FULL;
+   ALTER TABLE public.projects REPLICA IDENTITY FULL;
+   ```
+2. **การดักฟังตาราง `strings` แบบสด (`onStringChanged`):**
+   - เมื่อมีคนกด Approve, ยกเลิก Approve หรือแก้ไขข้อความ:
+     - React State `strings` อัปเดตทันที
+     - ฟังก์ชัน `updateCachedString(projectId, updated)` อัปเดตข้อมูลลง IndexedDB ทันที เพื่อให้การเปิดครั้งต่อไปได้ข้อมูลสดเสมอ
+3. **การดักฟังตาราง `projects` ทั้งในห้องแปลและหน้าหลัก (`subscribeToPortalProjectsRealtime`):**
+   - ในห้องแปล: อัปเดตหลอดความคืบหน้า (Progress Bar) และสถิติด้านบนแบบสดๆ (`onProjectStatsChanged`)
+   - ในหน้าแรก (PortalView): การ์ดโปรเจกต์ทุกเกมจะขยับยอดบรรทัดแปลและเปอร์เซ็นต์ทันทีที่มีคนส่งหรืออนุมัติคำแปลจากห้องใดก็ตาม
+4. **ระบบ Visibility Reconnect เมื่อสลับแท็บ:**
+   - ใช้ `document.addEventListener('visibilitychange')` ตรวจสอบสถานะเมื่อผู้ใช้สลับแท็บกลับมา หากการเชื่อมต่อ WebSocket ถูกตัดตอนเบราว์เซอร์พักผ่อน ระบบจะทำการ Re-sync ข้อมูลสั้นๆ ทันที ทำให้ข้อมูลไม่ค้างและไม่หลุดการเชื่อมต่อ
