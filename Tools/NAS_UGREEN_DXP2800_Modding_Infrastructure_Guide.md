@@ -1,4 +1,4 @@
-﻿# คู่มือการบริหารจัดการ NAS UGREEN DXP2800 สำหรับสตูดิโองานม็อดและ TStudio Web (Full Self-Host)
+# คู่มือการบริหารจัดการ NAS UGREEN DXP2800 สำหรับสตูดิโองานม็อดและ TStudio Web (Full Self-Host)
 
 เอกสารนี้ระบุสถาปัตยกรรมโครงสร้างระบบ เครือข่าย การจัดสรรพื้นที่จัดเก็บข้อมูล คอนเทนเนอร์ Docker ความเร็วสูง สแต็ก Supabase แบบ Full Self-Host และระบบสำรองข้อมูลอัตโนมัติบน NAS UGREEN DXP2800
 
@@ -83,3 +83,22 @@ graph TD
 ### 2. สำรองข้อมูลไฟล์งานม็อดจาก PC (`backup_to_nas.ps1`)
 * **สคริปต์:** `E:\Mod_Workspace\scripts\backup_to_nas.ps1`
 * ใช้ Robocopy แบบมัลติเธรด 16 ท่อ ซิงค์โฟลเดอร์ `E:\Mod_Workspace` สู่ `\\192.168.1.102\0_BackUp\Mod_Workspace_Backup`
+
+---
+
+## 6. การปรับแต่งประสิทธิภาพสำหรับข้อมูลขนาดใหญ่ (High-Throughput Performance Tuning)
+
+สำหรับการโหลดเกมแปลขนาดใหญ่ (ระดับ 50,000 - 100,000 ข้อความ เช่น Dawnwalker, Starfield, Baldur's Gate):
+
+1. **PostgREST Configuration (`/volume2/docker/supabase/.env`):**
+   * `PGRST_DB_MAX_ROWS=60000`: ขยายเพดานจำนวนแถวต่อคำขอ เพื่อให้เกมขนาด 50,000 ข้อความดึงข้อมูลได้ใน 1 คำขอ (เวลา ~400ms) แทนที่จะต้องแบ่งเป็น 50+ คำขอซึ่งจะชนข้อจำกัด 6 TCP Sockets ของเบราว์เซอร์
+   * `PGRST_DB_POOL=25`: เพิ่มขนาด Connection Pool ของ PostgREST รองรับการยิงคิวรีพร้อมกันได้ลื่นไหล
+
+2. **Nginx High-Performance Gzip Proxy (`/volume2/docker/tstudio-web/nginx.conf`):**
+   * `gzip_proxied any;`: เปิดการบีบอัดข้อมูล JSON ที่ส่งผ่าน Reverse Proxy ลดขนาดเพย์โหลดจาก 35MB เหลือไม่ถึง 4MB (ลดลง 88%)
+   * `proxy_buffers 16 128k; proxy_buffer_size 256k;`: ป้องกันไม่ให้ Nginx เขียนบัฟเฟอร์ขนาดใหญ่ลงดิสก์ชั่วคราว
+
+3. **Frontend Instant First-Paint:**
+   * ดึง 250 บรรทัดแรก (`FIRST_CHUNK_SIZE=250`) เพื่อปลดล็อกหน้าจอแปลทันทีภายใน **<25ms**
+   * ข้อความที่เหลือจะสตรีมขนานด้วยขนาดก้อนละ 25,000 บรรทัดในแบ็กกราวด์
+   * ตารางแปล (`TableTranslateView`) กำหนดขนาดเริ่มต้นเป็น 100 แถวต่อหน้า เพื่อรักษาอัตราเรนเดอร์ 60 FPS ใน DOM
