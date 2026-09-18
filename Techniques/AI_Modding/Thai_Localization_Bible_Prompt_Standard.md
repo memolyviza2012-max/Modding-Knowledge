@@ -59,7 +59,7 @@
 ### หมวด 3: โครงสร้างไดเรกทอรีและไฟล์ (File Architecture & Layout)
 - แสดงแผนผังไดเรกทอรีแบบ ASCII Tree ครบถ้วน:
   - โครงสร้างไฟล์ในตัวเกมจริง (`Game Installation Directory`)
-  - โครงสร้าง Workspace ใน THub (`01_Original_Extracted` ถึง `06_Releases`)
+  - โครงสร้าง Workspace ใน THub (`01_Original_Backup` ถึง `07_Image_Resources`)
 
 ### หมวด 4: การวิเคราะห์ระบบฟอนต์ (Font System & Typography)
 - การระบุตำแหน่งฟอนต์ดั้งเดิมของเกม
@@ -86,10 +86,12 @@
 |---|---|---|---|
 | (Tool Name) | (Version) | (หน้าที่) | (Source URL) |
 
-### หมวด 10: ไฟล์ที่สกัดได้ & สรุปชุดแจกจ่าย (Extracted Assets & Distribution Package)
+### หมวด 10: ไฟล์ที่สกัดได้, สรุปชุดแจกจ่าย & สื่อประชาสัมพันธ์ (Extracted Assets, Release & Media)
 - ไฟล์ฟอนต์จริงที่สกัดได้เก็บไว้ที่ `Assets/Fonts/` หรือเขียนบันทึกใน `EXTRACTION_NOTE.txt`
 - โครงสร้างโฟลเดอร์สำหรับแจกจ่ายใน `06_Releases`
 - เอกสารคำแนะนำสำหรับผู้เล่น: `คู่มือติดตั้ง_README.txt`
+- สรุปทรัพยากรภาพใน `07_Image_Resources` (ภาพ Official Art จาก Steam, ไฟล์เทมเพลต Photoshop PSD, และชุดคำสั่ง AI Logo Prompt สำหรับเจนโลโก้ชื่อไทย)
+
 
 ---
 
