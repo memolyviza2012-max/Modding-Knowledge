@@ -1,0 +1,2580 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Nathaniel Blaisdell</LastAuthor>
+  <LastSaved>2017-10-21T00:08:57Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11850</WindowHeight>
+  <WindowWidth>28260</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="362" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="207"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="171"/>
+   <Column ss:StyleID="s62" ss:Width="299.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894553</Data></Cell>
+    <Cell><Data ss:Type="String">Claire Whitten</Data></Cell>
+    <Cell><Data ss:Type="String">แคลร์ วิตเทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894554</Data></Cell>
+    <Cell><Data ss:Type="String">Custodian</Data></Cell>
+    <Cell><Data ss:Type="String">ภารโรง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894586</Data></Cell>
+    <Cell><Data ss:Type="String">Placeholder</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวแทนชั่วคราว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894587</Data></Cell>
+    <Cell><Data ss:Type="String">Placeholder</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวแทนชั่วคราว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894989</Data></Cell>
+    <Cell><Data ss:Type="String">Joan Winslow</Data></Cell>
+    <Cell><Data ss:Type="String">โจน วินสโลว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336894990</Data></Cell>
+    <Cell><Data ss:Type="String">Lead Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรหัวหน้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895009</Data></Cell>
+    <Cell><Data ss:Type="String">Andrius Alekna</Data></Cell>
+    <Cell><Data ss:Type="String">แอนดริอุส อเล็กนา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895010</Data></Cell>
+    <Cell><Data ss:Type="String">V-080953-01</Data></Cell>
+    <Cell><Data ss:Type="String">V-080953-01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895034</Data></Cell>
+    <Cell><Data ss:Type="String">Vijay Bhatia</Data></Cell>
+    <Cell><Data ss:Type="String">วิชัย บาเทีย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895035</Data></Cell>
+    <Cell><Data ss:Type="String">Security Captain</Data></Cell>
+    <Cell><Data ss:Type="String">กัปตันรักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895062</Data></Cell>
+    <Cell><Data ss:Type="String">Riley Yu</Data></Cell>
+    <Cell><Data ss:Type="String">ไรลีย์ ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417336895063</Data></Cell>
+    <Cell><Data ss:Type="String">Pytheas Administrator</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ดูแลไพธีอัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263432494358</Data></Cell>
+    <Cell><Data ss:Type="String">KSS197613M</Data></Cell>
+    <Cell><Data ss:Type="String">KSS197613M</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263432494359</Data></Cell>
+    <Cell><Data ss:Type="String">Hacker</Data></Cell>
+    <Cell><Data ss:Type="String">แฮกเกอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564976594109</Data></Cell>
+    <Cell><Data ss:Type="String">Alex Yu</Data></Cell>
+    <Cell><Data ss:Type="String">อเล็กซ์ ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564976594110</Data></Cell>
+    <Cell><Data ss:Type="String">President &amp; CEO</Data></Cell>
+    <Cell><Data ss:Type="String">ประธานและซีอีโอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564976594215</Data></Cell>
+    <Cell><Data ss:Type="String">Luis Carlos Safra</Data></Cell>
+    <Cell><Data ss:Type="String">ลุยส์ คาร์ลอส ซาฟรา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564976594216</Data></Cell>
+    <Cell><Data ss:Type="String">Asst. to Riley Yu</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ช่วยไรลีย์ ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364363</Data></Cell>
+    <Cell><Data ss:Type="String">Kenneth McAlister</Data></Cell>
+    <Cell><Data ss:Type="String">เคนเนธ แมคอัลลิสเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364364</Data></Cell>
+    <Cell><Data ss:Type="String">Director of Typhon Sciences</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้อำนวยการวิทยาศาสตร์ไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364510</Data></Cell>
+    <Cell><Data ss:Type="String">Ioannis Margellos</Data></Cell>
+    <Cell><Data ss:Type="String">โยอันนิส มาร์เจลลอส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364511</Data></Cell>
+    <Cell><Data ss:Type="String">Business Admin</Data></Cell>
+    <Cell><Data ss:Type="String">ฝ่ายบริหารธุรกิจ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364523</Data></Cell>
+    <Cell><Data ss:Type="String">Claire Whitten</Data></Cell>
+    <Cell><Data ss:Type="String">แคลร์ วิตเทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364524</Data></Cell>
+    <Cell><Data ss:Type="String">Custodian</Data></Cell>
+    <Cell><Data ss:Type="String">ภารโรง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364526</Data></Cell>
+    <Cell><Data ss:Type="String">Vasco Marrone</Data></Cell>
+    <Cell><Data ss:Type="String">วาสโก มาร์โรเน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364527</Data></Cell>
+    <Cell><Data ss:Type="String">Lab Coordinator</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ประสานงานห้องแล็บ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364529</Data></Cell>
+    <Cell><Data ss:Type="String">Rose Waterfield</Data></Cell>
+    <Cell><Data ss:Type="String">โรส วอเตอร์ฟิลด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364530</Data></Cell>
+    <Cell><Data ss:Type="String">Personal Equipment</Data></Cell>
+    <Cell><Data ss:Type="String">อุปกรณ์ส่วนตัว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364532</Data></Cell>
+    <Cell><Data ss:Type="String">Etienne David</Data></Cell>
+    <Cell><Data ss:Type="String">เอเตียน เดวิด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364533</Data></Cell>
+    <Cell><Data ss:Type="String">Provisions Manager</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้จัดการเสบียง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364535</Data></Cell>
+    <Cell><Data ss:Type="String">Angela Wagner</Data></Cell>
+    <Cell><Data ss:Type="String">แองเจลา วากเนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364536</Data></Cell>
+    <Cell><Data ss:Type="String">Shuttle Maintenance Chief</Data></Cell>
+    <Cell><Data ss:Type="String">หัวหน้าซ่อมบำรุงกระสวย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364538</Data></Cell>
+    <Cell><Data ss:Type="String">Ramon Delgado</Data></Cell>
+    <Cell><Data ss:Type="String">รามอน เดลกาโด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364539</Data></Cell>
+    <Cell><Data ss:Type="String">Shuttle Pilot</Data></Cell>
+    <Cell><Data ss:Type="String">นักบินกระสวย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364541</Data></Cell>
+    <Cell><Data ss:Type="String">Marcus Lee Crosby</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์คัส ลี ครอสบี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364542</Data></Cell>
+    <Cell><Data ss:Type="String">Executive Chef</Data></Cell>
+    <Cell><Data ss:Type="String">หัวหน้าเชฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364544</Data></Cell>
+    <Cell><Data ss:Type="String">Oliver Mendy</Data></Cell>
+    <Cell><Data ss:Type="String">โอลิเวอร์ เมนดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977364545</Data></Cell>
+    <Cell><Data ss:Type="String">Shuttle Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรกระสวย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977366997</Data></Cell>
+    <Cell><Data ss:Type="String">Madhuri Kapoor</Data></Cell>
+    <Cell><Data ss:Type="String">มาธุรี กาปูร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977366998</Data></Cell>
+    <Cell><Data ss:Type="String">Terrain Configuration</Data></Cell>
+    <Cell><Data ss:Type="String">การกำหนดสภาพภูมิประเทศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367001</Data></Cell>
+    <Cell><Data ss:Type="String">Albert Leeds</Data></Cell>
+    <Cell><Data ss:Type="String">อัลเบิร์ต ลีดส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367002</Data></Cell>
+    <Cell><Data ss:Type="String">Containment Systems</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบกักกัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367004</Data></Cell>
+    <Cell><Data ss:Type="String">Terri Brown</Data></Cell>
+    <Cell><Data ss:Type="String">เทอร์รี บราวน์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367005</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367007</Data></Cell>
+    <Cell><Data ss:Type="String">Jens Brehmer</Data></Cell>
+    <Cell><Data ss:Type="String">เยนส์ เบรห์เมอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367008</Data></Cell>
+    <Cell><Data ss:Type="String">Damage Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมความเสียหาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367278</Data></Cell>
+    <Cell><Data ss:Type="String">Jacques Paradis</Data></Cell>
+    <Cell><Data ss:Type="String">ฌาค ปาราดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977367279</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374836</Data></Cell>
+    <Cell><Data ss:Type="String">Max Cotman</Data></Cell>
+    <Cell><Data ss:Type="String">แม็กซ์ คอตแมน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374837</Data></Cell>
+    <Cell><Data ss:Type="String">Volunteer Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมอาสาสมัคร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374840</Data></Cell>
+    <Cell><Data ss:Type="String">Liu Mok</Data></Cell>
+    <Cell><Data ss:Type="String">หลิว มก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374841</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374845</Data></Cell>
+    <Cell><Data ss:Type="String">Ned Harper</Data></Cell>
+    <Cell><Data ss:Type="String">เน็ด ฮาร์เปอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374846</Data></Cell>
+    <Cell><Data ss:Type="String">Property Protection</Data></Cell>
+    <Cell><Data ss:Type="String">คุ้มครองทรัพย์สิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374848</Data></Cell>
+    <Cell><Data ss:Type="String">Johannes Kruse </Data></Cell>
+    <Cell><Data ss:Type="String">โยฮันเนส ครูเซอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374849</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374851</Data></Cell>
+    <Cell><Data ss:Type="String">Marjorie Smythe</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์จอรี สมายธ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977374852</Data></Cell>
+    <Cell><Data ss:Type="String">Volunteer Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมอาสาสมัคร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375019</Data></Cell>
+    <Cell><Data ss:Type="String">Vydas Paksas</Data></Cell>
+    <Cell><Data ss:Type="String">ไวดาส ปักซัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375020</Data></Cell>
+    <Cell><Data ss:Type="String">V-021651-P01</Data></Cell>
+    <Cell><Data ss:Type="String">V-021651-P01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375022</Data></Cell>
+    <Cell><Data ss:Type="String">Maksim Belenov</Data></Cell>
+    <Cell><Data ss:Type="String">มักซิม เบเลนอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375023</Data></Cell>
+    <Cell><Data ss:Type="String">V-111151-P01</Data></Cell>
+    <Cell><Data ss:Type="String">V-111151-P01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375025</Data></Cell>
+    <Cell><Data ss:Type="String">Aleksi Vasin</Data></Cell>
+    <Cell><Data ss:Type="String">อเล็กซี วาซิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375026</Data></Cell>
+    <Cell><Data ss:Type="String">V-070152-P06 </Data></Cell>
+    <Cell><Data ss:Type="String">V-070152-P06</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375028</Data></Cell>
+    <Cell><Data ss:Type="String">Stanislav Shishkin</Data></Cell>
+    <Cell><Data ss:Type="String">สตานิสลาฟ ชิชกิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375029</Data></Cell>
+    <Cell><Data ss:Type="String">V-032653-P02</Data></Cell>
+    <Cell><Data ss:Type="String">V-032653-P02</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375031</Data></Cell>
+    <Cell><Data ss:Type="String">Yuri Golovin</Data></Cell>
+    <Cell><Data ss:Type="String">ยูริ โกโลวิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375032</Data></Cell>
+    <Cell><Data ss:Type="String">V-051352-P02</Data></Cell>
+    <Cell><Data ss:Type="String">V-051352-P02</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375034</Data></Cell>
+    <Cell><Data ss:Type="String">Bernhard Kruglov</Data></Cell>
+    <Cell><Data ss:Type="String">แบร์นฮาร์ด ครูกลอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375035</Data></Cell>
+    <Cell><Data ss:Type="String">V-022152-P00</Data></Cell>
+    <Cell><Data ss:Type="String">V-022152-P00</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375037</Data></Cell>
+    <Cell><Data ss:Type="String">Pavel Dzyuba</Data></Cell>
+    <Cell><Data ss:Type="String">พาเวล ดซูบา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375038</Data></Cell>
+    <Cell><Data ss:Type="String">V-040152-P07</Data></Cell>
+    <Cell><Data ss:Type="String">V-040152-P07</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375040</Data></Cell>
+    <Cell><Data ss:Type="String">Vital Michalevich</Data></Cell>
+    <Cell><Data ss:Type="String">วิตาล มิคาเลวิช</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375041</Data></Cell>
+    <Cell><Data ss:Type="String">V-120651-P04</Data></Cell>
+    <Cell><Data ss:Type="String">V-120651-P04</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375043</Data></Cell>
+    <Cell><Data ss:Type="String">Fyodor Sychev</Data></Cell>
+    <Cell><Data ss:Type="String">ฟีโอดอร์ ซึเชฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375044</Data></Cell>
+    <Cell><Data ss:Type="String">V-101153-P01</Data></Cell>
+    <Cell><Data ss:Type="String">V-101153-P01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375332</Data></Cell>
+    <Cell><Data ss:Type="String">Robbie Murphy</Data></Cell>
+    <Cell><Data ss:Type="String">ร็อบบี เมอร์ฟี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375333</Data></Cell>
+    <Cell><Data ss:Type="String">Facilities Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">ซ่อมบำรุงสถานที่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375335</Data></Cell>
+    <Cell><Data ss:Type="String">Joey Bell</Data></Cell>
+    <Cell><Data ss:Type="String">โจอี เบลล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375336</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Examiner</Data></Cell>
+    <Cell><Data ss:Type="String">แพทย์ชันสูตร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375452</Data></Cell>
+    <Cell><Data ss:Type="String">Demarcus Cloud</Data></Cell>
+    <Cell><Data ss:Type="String">ดีมาร์คัส คลาวด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375453</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Biologist</Data></Cell>
+    <Cell><Data ss:Type="String">นักชีววิทยาไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375455</Data></Cell>
+    <Cell><Data ss:Type="String">Meng Tsai</Data></Cell>
+    <Cell><Data ss:Type="String">เมิ่ง ไช่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375456</Data></Cell>
+    <Cell><Data ss:Type="String">Data Analyst</Data></Cell>
+    <Cell><Data ss:Type="String">นักวิเคราะห์ข้อมูล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375458</Data></Cell>
+    <Cell><Data ss:Type="String">Gail Stewart</Data></Cell>
+    <Cell><Data ss:Type="String">เกล สจวร์ต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375459</Data></Cell>
+    <Cell><Data ss:Type="String">Psi Development</Data></Cell>
+    <Cell><Data ss:Type="String">พัฒนาพลังไซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375461</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Gately</Data></Cell>
+    <Cell><Data ss:Type="String">ไบรอัน เกตลี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375462</Data></Cell>
+    <Cell><Data ss:Type="String">Weapon Design</Data></Cell>
+    <Cell><Data ss:Type="String">ออกแบบอาวุธ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375464</Data></Cell>
+    <Cell><Data ss:Type="String">Alejandro Marin</Data></Cell>
+    <Cell><Data ss:Type="String">อเลฮานโดร มาริน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375465</Data></Cell>
+    <Cell><Data ss:Type="String">Neuromod Install</Data></Cell>
+    <Cell><Data ss:Type="String">ติดตั้งนิวโรม็อด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375638</Data></Cell>
+    <Cell><Data ss:Type="String">Alessandra Vega</Data></Cell>
+    <Cell><Data ss:Type="String">อเลสซานดรา เวกา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375639</Data></Cell>
+    <Cell><Data ss:Type="String">Surgeon</Data></Cell>
+    <Cell><Data ss:Type="String">ศัลยแพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375641</Data></Cell>
+    <Cell><Data ss:Type="String">Ken Mizuki</Data></Cell>
+    <Cell><Data ss:Type="String">เคน มิซูกิ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375642</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Examiner</Data></Cell>
+    <Cell><Data ss:Type="String">แพทย์ชันสูตร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375719</Data></Cell>
+    <Cell><Data ss:Type="String">Lea Tevet</Data></Cell>
+    <Cell><Data ss:Type="String">เลอา เทเวต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375720</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Studies</Data></Cell>
+    <Cell><Data ss:Type="String">ศึกษาสิ่งมีชีวิตต่างดาว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375722</Data></Cell>
+    <Cell><Data ss:Type="String">Haley Sanders</Data></Cell>
+    <Cell><Data ss:Type="String">เฮลีย์ แซนเดอร์ส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375723</Data></Cell>
+    <Cell><Data ss:Type="String">Transpersonal Science</Data></Cell>
+    <Cell><Data ss:Type="String">วิทยาศาสตร์ข้ามบุคคล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375725</Data></Cell>
+    <Cell><Data ss:Type="String">Theodore Rabiot</Data></Cell>
+    <Cell><Data ss:Type="String">ธีโอดอร์ ราบิโอต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375726</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Research</Data></Cell>
+    <Cell><Data ss:Type="String">วิจัยไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375728</Data></Cell>
+    <Cell><Data ss:Type="String">Kathy Cheema</Data></Cell>
+    <Cell><Data ss:Type="String">แคธี ชีมา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375729</Data></Cell>
+    <Cell><Data ss:Type="String">Parapsychologist</Data></Cell>
+    <Cell><Data ss:Type="String">นักพาราจิตวิทยา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375731</Data></Cell>
+    <Cell><Data ss:Type="String">Ayumi Sakamoto</Data></Cell>
+    <Cell><Data ss:Type="String">อายูมิ ซากาโมโตะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375732</Data></Cell>
+    <Cell><Data ss:Type="String">Physics</Data></Cell>
+    <Cell><Data ss:Type="String">ฟิสิกส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375734</Data></Cell>
+    <Cell><Data ss:Type="String">Kristen Schwanholz</Data></Cell>
+    <Cell><Data ss:Type="String">คริสเตน ชวานโฮลซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375735</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Behaviorist</Data></Cell>
+    <Cell><Data ss:Type="String">นักพฤติกรรมไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375737</Data></Cell>
+    <Cell><Data ss:Type="String">Chao Wei</Data></Cell>
+    <Cell><Data ss:Type="String">เฉา เว่ย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375738</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Biologist</Data></Cell>
+    <Cell><Data ss:Type="String">นักชีววิทยาไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375740</Data></Cell>
+    <Cell><Data ss:Type="String">Hugo Bettens</Data></Cell>
+    <Cell><Data ss:Type="String">ฮูโก เบตเทนส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375741</Data></Cell>
+    <Cell><Data ss:Type="String">Deployment Coordinator</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ประสานงานการนำไปใช้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375743</Data></Cell>
+    <Cell><Data ss:Type="String">Dianna Riendeau</Data></Cell>
+    <Cell><Data ss:Type="String">ไดอานา เรียนโด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375744</Data></Cell>
+    <Cell><Data ss:Type="String">Forensic Xenobiology</Data></Cell>
+    <Cell><Data ss:Type="String">นิติชีววิทยาต่างดาว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375746</Data></Cell>
+    <Cell><Data ss:Type="String">Elnaz Pashaei</Data></Cell>
+    <Cell><Data ss:Type="String">เอลนาซ ปาชาอี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375747</Data></Cell>
+    <Cell><Data ss:Type="String">Chemical Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรเคมี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375749</Data></Cell>
+    <Cell><Data ss:Type="String">Rashad Bahdari</Data></Cell>
+    <Cell><Data ss:Type="String">ราชาด บาห์ดารี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977375750</Data></Cell>
+    <Cell><Data ss:Type="String">Escape Pod Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">ซ่อมบำรุงแคปซูลหนีภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377559</Data></Cell>
+    <Cell><Data ss:Type="String">Bennie Hong</Data></Cell>
+    <Cell><Data ss:Type="String">เบนนี ฮอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377560</Data></Cell>
+    <Cell><Data ss:Type="String">Hydro Systems</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบน้ำ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377562</Data></Cell>
+    <Cell><Data ss:Type="String">Steve R. Gain</Data></Cell>
+    <Cell><Data ss:Type="String">สตีฟ อาร์. เกน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377563</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมอัคคีภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377565</Data></Cell>
+    <Cell><Data ss:Type="String">Roberta Rollins</Data></Cell>
+    <Cell><Data ss:Type="String">โรเบอร์ตา โรลลินส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377566</Data></Cell>
+    <Cell><Data ss:Type="String">Gravity Tech</Data></Cell>
+    <Cell><Data ss:Type="String">ช่างแรงโน้มถ่วง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377568</Data></Cell>
+    <Cell><Data ss:Type="String">Kim Jung-jin</Data></Cell>
+    <Cell><Data ss:Type="String">คิม จองจิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377569</Data></Cell>
+    <Cell><Data ss:Type="String">Miner</Data></Cell>
+    <Cell><Data ss:Type="String">คนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377571</Data></Cell>
+    <Cell><Data ss:Type="String">Benjamin Wheeler</Data></Cell>
+    <Cell><Data ss:Type="String">เบนจามิน วีลเลอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377572</Data></Cell>
+    <Cell><Data ss:Type="String">Miner</Data></Cell>
+    <Cell><Data ss:Type="String">คนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377574</Data></Cell>
+    <Cell><Data ss:Type="String">Morten Rybak</Data></Cell>
+    <Cell><Data ss:Type="String">มอร์เทน รีบัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377575</Data></Cell>
+    <Cell><Data ss:Type="String">Mining Foreman</Data></Cell>
+    <Cell><Data ss:Type="String">หัวหน้าคนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377577</Data></Cell>
+    <Cell><Data ss:Type="String">Patrice Young</Data></Cell>
+    <Cell><Data ss:Type="String">ปาทริซ ยัง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377578</Data></Cell>
+    <Cell><Data ss:Type="String">Mine Engineering</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรรมเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377580</Data></Cell>
+    <Cell><Data ss:Type="String">Kristina Strandhäll</Data></Cell>
+    <Cell><Data ss:Type="String">คริสตินา สตรันด์เฮลล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377581</Data></Cell>
+    <Cell><Data ss:Type="String">Miner</Data></Cell>
+    <Cell><Data ss:Type="String">คนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377583</Data></Cell>
+    <Cell><Data ss:Type="String">Ai Mizuki</Data></Cell>
+    <Cell><Data ss:Type="String">ไอ มิซูกิ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377584</Data></Cell>
+    <Cell><Data ss:Type="String">Lunar Geology</Data></Cell>
+    <Cell><Data ss:Type="String">ธรณีวิทยาดวงจันทร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377586</Data></Cell>
+    <Cell><Data ss:Type="String">Michael Cheung</Data></Cell>
+    <Cell><Data ss:Type="String">ไมเคิล จาง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377587</Data></Cell>
+    <Cell><Data ss:Type="String">Miner</Data></Cell>
+    <Cell><Data ss:Type="String">คนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377589</Data></Cell>
+    <Cell><Data ss:Type="String">Maureen Cho</Data></Cell>
+    <Cell><Data ss:Type="String">มอรีน โช</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377590</Data></Cell>
+    <Cell><Data ss:Type="String">Air Scrubbers</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องฟอกอากาศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377592</Data></Cell>
+    <Cell><Data ss:Type="String">Kailash Rahman</Data></Cell>
+    <Cell><Data ss:Type="String">ไกรลาศ ราห์มาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377593</Data></Cell>
+    <Cell><Data ss:Type="String">Recycling Systems</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบรีไซเคิล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377595</Data></Cell>
+    <Cell><Data ss:Type="String">Claudette Boyle</Data></Cell>
+    <Cell><Data ss:Type="String">โคลเด็ตต์ บอยล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377596</Data></Cell>
+    <Cell><Data ss:Type="String">Power Supply</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบจ่ายพลังงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377598</Data></Cell>
+    <Cell><Data ss:Type="String">Julieta Castro</Data></Cell>
+    <Cell><Data ss:Type="String">ฆูเลียตา คาสโตร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977377599</Data></Cell>
+    <Cell><Data ss:Type="String">Life Support</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบพยุงชีพ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378234</Data></Cell>
+    <Cell><Data ss:Type="String">Donny Sandoval</Data></Cell>
+    <Cell><Data ss:Type="String">ดอนนี แซนโดวัล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378235</Data></Cell>
+    <Cell><Data ss:Type="String">Traffic Control Officer</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่ควบคุมการจราจร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378305</Data></Cell>
+    <Cell><Data ss:Type="String">Sally Kuzmina</Data></Cell>
+    <Cell><Data ss:Type="String">แซลลี คุซมินา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378306</Data></Cell>
+    <Cell><Data ss:Type="String">Pylon Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรไพลอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378308</Data></Cell>
+    <Cell><Data ss:Type="String">Li Phang</Data></Cell>
+    <Cell><Data ss:Type="String">หลี่ ฟาง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378309</Data></Cell>
+    <Cell><Data ss:Type="String">Observation</Data></Cell>
+    <Cell><Data ss:Type="String">ฝ่ายสังเกตการณ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378311</Data></Cell>
+    <Cell><Data ss:Type="String">Russell Hale</Data></Cell>
+    <Cell><Data ss:Type="String">รัสเซล เฮล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378312</Data></Cell>
+    <Cell><Data ss:Type="String">Kinetic Science</Data></Cell>
+    <Cell><Data ss:Type="String">วิทยาศาสตร์จลน์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378314</Data></Cell>
+    <Cell><Data ss:Type="String">Jordan Walton</Data></Cell>
+    <Cell><Data ss:Type="String">จอร์แดน วอลตัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378315</Data></Cell>
+    <Cell><Data ss:Type="String">Mass Driver Operator</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ควบคุมแมสดไรเวอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378317</Data></Cell>
+    <Cell><Data ss:Type="String">Shea Allen</Data></Cell>
+    <Cell><Data ss:Type="String">เชีย อัลเลน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378318</Data></Cell>
+    <Cell><Data ss:Type="String">Harvester Captain</Data></Cell>
+    <Cell><Data ss:Type="String">กัปตันฮาร์เวสเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378320</Data></Cell>
+    <Cell><Data ss:Type="String">Laurel Savage</Data></Cell>
+    <Cell><Data ss:Type="String">ลอเรล ซาเวจ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378321</Data></Cell>
+    <Cell><Data ss:Type="String">Chemical Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรเคมี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378323</Data></Cell>
+    <Cell><Data ss:Type="String">Kerry Stafford</Data></Cell>
+    <Cell><Data ss:Type="String">เคอร์รี สแตฟฟอร์ด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378324</Data></Cell>
+    <Cell><Data ss:Type="String">Mass Driver Tech</Data></Cell>
+    <Cell><Data ss:Type="String">ช่างเทคนิคแมสดไรเวอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378326</Data></Cell>
+    <Cell><Data ss:Type="String">Brian Chung</Data></Cell>
+    <Cell><Data ss:Type="String">ไบรอัน ชุง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378327</Data></Cell>
+    <Cell><Data ss:Type="String">MoonWorks Director</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้อำนวยการมูนเวิร์กส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378329</Data></Cell>
+    <Cell><Data ss:Type="String">Kelly Bhoyar</Data></Cell>
+    <Cell><Data ss:Type="String">เคลลี โบยาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564977378330</Data></Cell>
+    <Cell><Data ss:Type="String">Safety Director</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้อำนวยการความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564978498538</Data></Cell>
+    <Cell><Data ss:Type="String">Noel Benson</Data></Cell>
+    <Cell><Data ss:Type="String">โนเอล เบนสัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564978498539</Data></Cell>
+    <Cell><Data ss:Type="String">Particle Physics</Data></Cell>
+    <Cell><Data ss:Type="String">ฟิสิกส์อนุภาค</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485305</Data></Cell>
+    <Cell><Data ss:Type="String">Ramazan Kokov</Data></Cell>
+    <Cell><Data ss:Type="String">รามาซาน โคคอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485306</Data></Cell>
+    <Cell><Data ss:Type="String">V-030352-P00</Data></Cell>
+    <Cell><Data ss:Type="String">V-030352-P00</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485308</Data></Cell>
+    <Cell><Data ss:Type="String">Mom</Data></Cell>
+    <Cell><Data ss:Type="String">แม่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485309</Data></Cell>
+    <Cell><Data ss:Type="String">V-103153-P04</Data></Cell>
+    <Cell><Data ss:Type="String">V-103153-P04</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485311</Data></Cell>
+    <Cell><Data ss:Type="String">Yegor Torshin</Data></Cell>
+    <Cell><Data ss:Type="String">เยกอร์ ทอร์ชิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485312</Data></Cell>
+    <Cell><Data ss:Type="String">V-120751-P05</Data></Cell>
+    <Cell><Data ss:Type="String">V-120751-P05</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485314</Data></Cell>
+    <Cell><Data ss:Type="String">Sergey Shumeyko</Data></Cell>
+    <Cell><Data ss:Type="String">เซอร์เกย์ ชูเมย์โก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485315</Data></Cell>
+    <Cell><Data ss:Type="String">V-092952-P08</Data></Cell>
+    <Cell><Data ss:Type="String">V-092952-P08</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485317</Data></Cell>
+    <Cell><Data ss:Type="String">Marko Goreglyad</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์โก โกเรกลยาด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485318</Data></Cell>
+    <Cell><Data ss:Type="String">V-062253-P01</Data></Cell>
+    <Cell><Data ss:Type="String">V-062253-P01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485320</Data></Cell>
+    <Cell><Data ss:Type="String">Vladamir Kotenkov</Data></Cell>
+    <Cell><Data ss:Type="String">วลาดิเมียร์ โคเทนคอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564980485321</Data></Cell>
+    <Cell><Data ss:Type="String">V-112751-P03</Data></Cell>
+    <Cell><Data ss:Type="String">V-112751-P03</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981428903</Data></Cell>
+    <Cell><Data ss:Type="String">Mary Quail</Data></Cell>
+    <Cell><Data ss:Type="String">แมรี เควล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981428904</Data></Cell>
+    <Cell><Data ss:Type="String">Production Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981675005</Data></Cell>
+    <Cell><Data ss:Type="String">Rick Dawson</Data></Cell>
+    <Cell><Data ss:Type="String">ริก ดอว์สัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981675006</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438025727</Data></Cell>
+    <Cell><Data ss:Type="String">Alexei</Data></Cell>
+    <Cell><Data ss:Type="String">อเล็กเซย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438025728</Data></Cell>
+    <Cell><Data ss:Type="String">A child.</Data></Cell>
+    <Cell><Data ss:Type="String">เด็กคนหนึ่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438047615</Data></Cell>
+    <Cell><Data ss:Type="String">Basilisk</Data></Cell>
+    <Cell><Data ss:Type="String">บาซิลิสก์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438047616</Data></Cell>
+    <Cell><Data ss:Type="String">Asset Handler</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ดูแลสายลับ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982036842</Data></Cell>
+    <Cell><Data ss:Type="String">Danielle Sho</Data></Cell>
+    <Cell><Data ss:Type="String">แดเนียลล์ โช</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982036843</Data></Cell>
+    <Cell><Data ss:Type="String">FOR DEMO ONLY </Data></Cell>
+    <Cell><Data ss:Type="String">สำหรับเดโมเท่านั้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982293582</Data></Cell>
+    <Cell><Data ss:Type="String">[TranStar ID missing]</Data></Cell>
+    <Cell><Data ss:Type="String">[ไม่มี ID ทรานสตาร์]</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982293583</Data></Cell>
+    <Cell><Data ss:Type="String">No Data</Data></Cell>
+    <Cell><Data ss:Type="String">ไม่มีข้อมูล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300115</Data></Cell>
+    <Cell><Data ss:Type="String">Grey Blessing</Data></Cell>
+    <Cell><Data ss:Type="String">เกรย์ เบลสซิง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300116</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300118</Data></Cell>
+    <Cell><Data ss:Type="String">Dale Powell</Data></Cell>
+    <Cell><Data ss:Type="String">เดล พาวเวลล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300119</Data></Cell>
+    <Cell><Data ss:Type="String">Crew Maintenance</Data></Cell>
+    <Cell><Data ss:Type="String">ซ่อมบำรุงเขตลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300121</Data></Cell>
+    <Cell><Data ss:Type="String">Gary Glass</Data></Cell>
+    <Cell><Data ss:Type="String">แกรี กลาส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982300122</Data></Cell>
+    <Cell><Data ss:Type="String">Crew Observation</Data></Cell>
+    <Cell><Data ss:Type="String">เฝ้าสังเกตลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703585</Data></Cell>
+    <Cell><Data ss:Type="String">Station Announcer</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ประกาศประจำสถานี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129892759826</Data></Cell>
+    <Cell><Data ss:Type="String">Station Announcer</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ประกาศประจำสถานี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703592</Data></Cell>
+    <Cell><Data ss:Type="String">Engineering Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์วิศวกรรม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_engoperator</Data></Cell>
+    <Cell><Data ss:Type="String">Engineering Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์วิศวกรรม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703593</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์แพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_medoperator</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์แพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263415497408</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Voice</Data></Cell>
+    <Cell><Data ss:Type="String">เสียงคอมพิวเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263415497409</Data></Cell>
+    <Cell><Data ss:Type="String">Computer Voice</Data></Cell>
+    <Cell><Data ss:Type="String">เสียงคอมพิวเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703607</Data></Cell>
+    <Cell><Data ss:Type="String">Dispenser</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องจ่าย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129892759843</Data></Cell>
+    <Cell><Data ss:Type="String">Operator Dispenser</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องจ่ายโอเปอเรเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129892759858</Data></Cell>
+    <Cell><Data ss:Type="String">Eradicator Auto-Turret</Data></Cell>
+    <Cell><Data ss:Type="String">ป้อมปืนอัตโนมัติอีแรดิเคเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_poltergeist</Data></Cell>
+    <Cell><Data ss:Type="String">Poltergeist</Data></Cell>
+    <Cell><Data ss:Type="String">โพลเทอร์ไกสต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703596</Data></Cell>
+    <Cell><Data ss:Type="String">Science Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์วิทยาศาสตร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_scioperator</Data></Cell>
+    <Cell><Data ss:Type="String">Science Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์วิทยาศาสตร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_phantom</Data></Cell>
+    <Cell><Data ss:Type="String">Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">โพลเทอร์ไกสต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">npc_etherphantom</Data></Cell>
+    <Cell><Data ss:Type="String">Etheric Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">แฟนทอมอีเธอริก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">npc_thermalphantom</Data></Cell>
+    <Cell><Data ss:Type="String">Thermal Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">แฟนทอมความร้อน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s63">
+    <Cell><Data ss:Type="String">npc_voltaicphantom</Data></Cell>
+    <Cell><Data ss:Type="String">Voltaic Phantom</Data></Cell>
+    <Cell><Data ss:Type="String">แฟนทอมโวลเทอิก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">npc_recycleroperator</Data></Cell>
+    <Cell><Data ss:Type="String">Harvester</Data></Cell>
+    <Cell><Data ss:Type="String">ฮาร์เวสเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438869993</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Gate</Data></Cell>
+    <Cell><Data ss:Type="String">ประตูไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438869994</Data></Cell>
+    <Cell><Data ss:Type="String">Gate Keeping</Data></Cell>
+    <Cell><Data ss:Type="String">เฝ้าประตู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438870834</Data></Cell>
+    <Cell><Data ss:Type="String">Teddy</Data></Cell>
+    <Cell><Data ss:Type="String">เท็ดดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263438870835</Data></Cell>
+    <Cell><Data ss:Type="String">KASMA Boss</Data></Cell>
+    <Cell><Data ss:Type="String">หัวหน้า KASMA</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648916</Data></Cell>
+    <Cell><Data ss:Type="String">Oscar Pendelton</Data></Cell>
+    <Cell><Data ss:Type="String">ออสการ์ เพนเดิลตัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648917</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648919</Data></Cell>
+    <Cell><Data ss:Type="String">Keith Welles</Data></Cell>
+    <Cell><Data ss:Type="String">คีธ เวลส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648920</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648922</Data></Cell>
+    <Cell><Data ss:Type="String">Mandy Ballard</Data></Cell>
+    <Cell><Data ss:Type="String">แมนดี บัลลาร์ด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648923</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648925</Data></Cell>
+    <Cell><Data ss:Type="String">Mickey Peppers</Data></Cell>
+    <Cell><Data ss:Type="String">มิกกี เปปเปอร์ส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648926</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648928</Data></Cell>
+    <Cell><Data ss:Type="String">Lauren Ladd</Data></Cell>
+    <Cell><Data ss:Type="String">ลอเรน แลดด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648929</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648931</Data></Cell>
+    <Cell><Data ss:Type="String">Joe Blank</Data></Cell>
+    <Cell><Data ss:Type="String">โจ แบลงก์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648932</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648935</Data></Cell>
+    <Cell><Data ss:Type="String">Harry Conway</Data></Cell>
+    <Cell><Data ss:Type="String">แฮร์รี คอนเวย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648936</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648938</Data></Cell>
+    <Cell><Data ss:Type="String">Douglas Tanner</Data></Cell>
+    <Cell><Data ss:Type="String">ดักลาส แทนเนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648939</Data></Cell>
+    <Cell><Data ss:Type="String">Security - EMT</Data></Cell>
+    <Cell><Data ss:Type="String">รักษาความปลอดภัย - EMT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648941</Data></Cell>
+    <Cell><Data ss:Type="String">Casey Fletcher</Data></Cell>
+    <Cell><Data ss:Type="String">เคซีย์ เฟลตเชอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648942</Data></Cell>
+    <Cell><Data ss:Type="String">Security - EMT</Data></Cell>
+    <Cell><Data ss:Type="String">รักษาความปลอดภัย - EMT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648944</Data></Cell>
+    <Cell><Data ss:Type="String">Florence Billings</Data></Cell>
+    <Cell><Data ss:Type="String">ฟลอเรนซ์ บิลลิงส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564982648945</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263439138932</Data></Cell>
+    <Cell><Data ss:Type="String">Companion Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์คู่หู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263439138933</Data></Cell>
+    <Cell><Data ss:Type="String">Companion</Data></Cell>
+    <Cell><Data ss:Type="String">คู่หู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013258207289</Data></Cell>
+    <Cell><Data ss:Type="String">Military Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ทหาร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013258207290</Data></Cell>
+    <Cell><Data ss:Type="String">Military Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ทหาร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865236</Data></Cell>
+    <Cell><Data ss:Type="String">Rebeca Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">รีเบกา โลเปซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865237</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865239</Data></Cell>
+    <Cell><Data ss:Type="String">Becky Reading</Data></Cell>
+    <Cell><Data ss:Type="String">เบ็กกี รีดดิง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865240</Data></Cell>
+    <Cell><Data ss:Type="String">Crew Advocate</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้แทนลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865242</Data></Cell>
+    <Cell><Data ss:Type="String">Janelle Parsons</Data></Cell>
+    <Cell><Data ss:Type="String">จาเนลล์ พาร์สันส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865243</Data></Cell>
+    <Cell><Data ss:Type="String">Structural Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรโครงสร้าง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865245</Data></Cell>
+    <Cell><Data ss:Type="String">Storm Holden</Data></Cell>
+    <Cell><Data ss:Type="String">สตอร์ม โฮลเดน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865246</Data></Cell>
+    <Cell><Data ss:Type="String">Pharmacology</Data></Cell>
+    <Cell><Data ss:Type="String">เภสัชวิทยา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865248</Data></Cell>
+    <Cell><Data ss:Type="String">Caroline Russel</Data></Cell>
+    <Cell><Data ss:Type="String">แคโรไลน์ รัสเซล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865249</Data></Cell>
+    <Cell><Data ss:Type="String">Physics</Data></Cell>
+    <Cell><Data ss:Type="String">ฟิสิกส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865251</Data></Cell>
+    <Cell><Data ss:Type="String">Taka Sanada</Data></Cell>
+    <Cell><Data ss:Type="String">ทากะ ซานาดะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865252</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865254</Data></Cell>
+    <Cell><Data ss:Type="String">Jo Imada</Data></Cell>
+    <Cell><Data ss:Type="String">โจ อิมาดะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865255</Data></Cell>
+    <Cell><Data ss:Type="String">Legal Counsel </Data></Cell>
+    <Cell><Data ss:Type="String">ที่ปรึกษากฎหมาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865257</Data></Cell>
+    <Cell><Data ss:Type="String">Carroll Parker-Lewis</Data></Cell>
+    <Cell><Data ss:Type="String">แคร์รอล พาร์เกอร์-ลูอิส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865258</Data></Cell>
+    <Cell><Data ss:Type="String">Circulation Systems</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบหมุนเวียน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865260</Data></Cell>
+    <Cell><Data ss:Type="String">Audry Young</Data></Cell>
+    <Cell><Data ss:Type="String">ออดรี ยัง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865261</Data></Cell>
+    <Cell><Data ss:Type="String">Fitness Coordinator</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ประสานงานฟิตเนส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865263</Data></Cell>
+    <Cell><Data ss:Type="String">Diane Lee</Data></Cell>
+    <Cell><Data ss:Type="String">ไดแอน ลี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865264</Data></Cell>
+    <Cell><Data ss:Type="String">Fabricator</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865266</Data></Cell>
+    <Cell><Data ss:Type="String">Allison Carpenter</Data></Cell>
+    <Cell><Data ss:Type="String">แอลลิสัน คาร์เพนเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865267</Data></Cell>
+    <Cell><Data ss:Type="String">Programmer</Data></Cell>
+    <Cell><Data ss:Type="String">โปรแกรมเมอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865269</Data></Cell>
+    <Cell><Data ss:Type="String">Lia Tanaka</Data></Cell>
+    <Cell><Data ss:Type="String">เลีย ทานากะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865270</Data></Cell>
+    <Cell><Data ss:Type="String">Physical Science</Data></Cell>
+    <Cell><Data ss:Type="String">วิทยาศาสตร์กายภาพ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865272</Data></Cell>
+    <Cell><Data ss:Type="String">Liza Oduye</Data></Cell>
+    <Cell><Data ss:Type="String">ลิซา โอดูเย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865273</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865275</Data></Cell>
+    <Cell><Data ss:Type="String">Margaret McCandles</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์กาเร็ต แมคแคนเดิลส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865276</Data></Cell>
+    <Cell><Data ss:Type="String">Food service</Data></Cell>
+    <Cell><Data ss:Type="String">บริการอาหาร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865278</Data></Cell>
+    <Cell><Data ss:Type="String">Allie McDonald</Data></Cell>
+    <Cell><Data ss:Type="String">แอลลีย์ แมคโดนัลด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865279</Data></Cell>
+    <Cell><Data ss:Type="String">Operator Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรโอเปอเรเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865281</Data></Cell>
+    <Cell><Data ss:Type="String">Pauline Chalk</Data></Cell>
+    <Cell><Data ss:Type="String">พอลลีน ชอล์ก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865282</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865284</Data></Cell>
+    <Cell><Data ss:Type="String">Carrie Rex</Data></Cell>
+    <Cell><Data ss:Type="String">แคร์รี เร็กซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865285</Data></Cell>
+    <Cell><Data ss:Type="String">Chemical Engineering</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรรมเคมี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865287</Data></Cell>
+    <Cell><Data ss:Type="String">Myesha Abram</Data></Cell>
+    <Cell><Data ss:Type="String">ไมอีชา อับราม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865288</Data></Cell>
+    <Cell><Data ss:Type="String">Weapons Development</Data></Cell>
+    <Cell><Data ss:Type="String">พัฒนาอาวุธ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865290</Data></Cell>
+    <Cell><Data ss:Type="String">Erin Ransom</Data></Cell>
+    <Cell><Data ss:Type="String">เอริน แรนซัม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865291</Data></Cell>
+    <Cell><Data ss:Type="String">Toxicology</Data></Cell>
+    <Cell><Data ss:Type="String">พิษวิทยา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865293</Data></Cell>
+    <Cell><Data ss:Type="String">Ursula Mackey</Data></Cell>
+    <Cell><Data ss:Type="String">เออร์ซูลา แม็กกี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865294</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865296</Data></Cell>
+    <Cell><Data ss:Type="String">Masato Koyama</Data></Cell>
+    <Cell><Data ss:Type="String">มาซาโตะ โคยามะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865297</Data></Cell>
+    <Cell><Data ss:Type="String">System Programmer</Data></Cell>
+    <Cell><Data ss:Type="String">โปรแกรมเมอร์ระบบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865299</Data></Cell>
+    <Cell><Data ss:Type="String">Annabel Nichols</Data></Cell>
+    <Cell><Data ss:Type="String">แอนนาเบล นิโคลส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865300</Data></Cell>
+    <Cell><Data ss:Type="String">Scheduling</Data></Cell>
+    <Cell><Data ss:Type="String">การจัดตาราง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865302</Data></Cell>
+    <Cell><Data ss:Type="String">Emma Duff</Data></Cell>
+    <Cell><Data ss:Type="String">เอ็มมา ดัฟฟ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865303</Data></Cell>
+    <Cell><Data ss:Type="String">IT</Data></Cell>
+    <Cell><Data ss:Type="String">ไอที</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865305</Data></Cell>
+    <Cell><Data ss:Type="String">Margo Mireaux</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์โก มิเรอซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865306</Data></Cell>
+    <Cell><Data ss:Type="String">Fire Control</Data></Cell>
+    <Cell><Data ss:Type="String">ควบคุมอัคคีภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865308</Data></Cell>
+    <Cell><Data ss:Type="String">Sophie Scoffield</Data></Cell>
+    <Cell><Data ss:Type="String">โซฟี สกอฟฟิลด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865309</Data></Cell>
+    <Cell><Data ss:Type="String">Repair &amp; Maintenance </Data></Cell>
+    <Cell><Data ss:Type="String">ซ่อมและบำรุงรักษา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865311</Data></Cell>
+    <Cell><Data ss:Type="String">Robert &quot;Scooter&quot; Tate</Data></Cell>
+    <Cell><Data ss:Type="String">โรเบิร์ต &quot;สกูตเตอร์&quot; เทต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865312</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865314</Data></Cell>
+    <Cell><Data ss:Type="String">Olive LeBlanc</Data></Cell>
+    <Cell><Data ss:Type="String">โอลีฟ เลอบล็อง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865315</Data></Cell>
+    <Cell><Data ss:Type="String">Research Assistant</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ช่วยวิจัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865317</Data></Cell>
+    <Cell><Data ss:Type="String">Alistair Tramontin</Data></Cell>
+    <Cell><Data ss:Type="String">อลิสแตร์ ทรามอนติน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865318</Data></Cell>
+    <Cell><Data ss:Type="String">Records &amp; Data</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกและข้อมูล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865320</Data></Cell>
+    <Cell><Data ss:Type="String">Ricky Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">ริกกี โลเปซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865321</Data></Cell>
+    <Cell><Data ss:Type="String">Provisions Admin</Data></Cell>
+    <Cell><Data ss:Type="String">ฝ่ายบริหารเสบียง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865323</Data></Cell>
+    <Cell><Data ss:Type="String">Israel Kouyate</Data></Cell>
+    <Cell><Data ss:Type="String">อิสราเอล คูยาเต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865324</Data></Cell>
+    <Cell><Data ss:Type="String">Life Support Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรระบบพยุงชีพ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865326</Data></Cell>
+    <Cell><Data ss:Type="String">Sam Lopez</Data></Cell>
+    <Cell><Data ss:Type="String">แซม โลเปซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865327</Data></Cell>
+    <Cell><Data ss:Type="String">Pilot</Data></Cell>
+    <Cell><Data ss:Type="String">นักบิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865329</Data></Cell>
+    <Cell><Data ss:Type="String">Jay Brand</Data></Cell>
+    <Cell><Data ss:Type="String">เจย์ แบรนด์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865330</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Sciences</Data></Cell>
+    <Cell><Data ss:Type="String">วิทยาศาสตร์ไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865332</Data></Cell>
+    <Cell><Data ss:Type="String">Doug Oishi</Data></Cell>
+    <Cell><Data ss:Type="String">ดัก โออิชิ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865333</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865335</Data></Cell>
+    <Cell><Data ss:Type="String">Nathan Leong</Data></Cell>
+    <Cell><Data ss:Type="String">เนธาน เหลียง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865336</Data></Cell>
+    <Cell><Data ss:Type="String">Crew Services</Data></Cell>
+    <Cell><Data ss:Type="String">บริการลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865338</Data></Cell>
+    <Cell><Data ss:Type="String">Paul Jung</Data></Cell>
+    <Cell><Data ss:Type="String">พอล จุง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865339</Data></Cell>
+    <Cell><Data ss:Type="String">Climate Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรภูมิอากาศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865341</Data></Cell>
+    <Cell><Data ss:Type="String">Louis Sullivan Jr.</Data></Cell>
+    <Cell><Data ss:Type="String">ลุยส์ ซัลลิแวน จูเนียร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865342</Data></Cell>
+    <Cell><Data ss:Type="String">Exotic Matter Study</Data></Cell>
+    <Cell><Data ss:Type="String">ศึกษาสสารเอ็กโซติก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865344</Data></Cell>
+    <Cell><Data ss:Type="String">Andrew T. Bowman</Data></Cell>
+    <Cell><Data ss:Type="String">แอนดรูว์ ที. โบว์แมน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865345</Data></Cell>
+    <Cell><Data ss:Type="String">Lunar Geologist</Data></Cell>
+    <Cell><Data ss:Type="String">นักธรณีวิทยาดวงจันทร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865347</Data></Cell>
+    <Cell><Data ss:Type="String">Isaiah Purnell</Data></Cell>
+    <Cell><Data ss:Type="String">ไอเซอาห์ เพอร์เนลล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865348</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865350</Data></Cell>
+    <Cell><Data ss:Type="String">Joseph Khan</Data></Cell>
+    <Cell><Data ss:Type="String">โจเซฟ ข่าน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865351</Data></Cell>
+    <Cell><Data ss:Type="String">Recordkeeper</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่บันทึก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865353</Data></Cell>
+    <Cell><Data ss:Type="String">Darrel Stenner</Data></Cell>
+    <Cell><Data ss:Type="String">แดร์เรล สเตนเนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865354</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Fabrication</Data></Cell>
+    <Cell><Data ss:Type="String">การผลิตอุปกรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865356</Data></Cell>
+    <Cell><Data ss:Type="String">Kelvin Tyler</Data></Cell>
+    <Cell><Data ss:Type="String">เคลวิน ไทเลอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865357</Data></Cell>
+    <Cell><Data ss:Type="String">Miner</Data></Cell>
+    <Cell><Data ss:Type="String">คนงานเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865359</Data></Cell>
+    <Cell><Data ss:Type="String">Viktor Vavilov</Data></Cell>
+    <Cell><Data ss:Type="String">วิกเตอร์ วาวิลอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865360</Data></Cell>
+    <Cell><Data ss:Type="String">V-152652-P03</Data></Cell>
+    <Cell><Data ss:Type="String">V-152652-P03</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865362</Data></Cell>
+    <Cell><Data ss:Type="String">Peter Ratajczak</Data></Cell>
+    <Cell><Data ss:Type="String">ปีเตอร์ ราทายชัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865363</Data></Cell>
+    <Cell><Data ss:Type="String">V-031552-P03</Data></Cell>
+    <Cell><Data ss:Type="String">V-031552-P03</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865365</Data></Cell>
+    <Cell><Data ss:Type="String">Oleg Batalov</Data></Cell>
+    <Cell><Data ss:Type="String">โอเล็ก บาตาลอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865366</Data></Cell>
+    <Cell><Data ss:Type="String">V-014551-P04</Data></Cell>
+    <Cell><Data ss:Type="String">V-014551-P04</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865368</Data></Cell>
+    <Cell><Data ss:Type="String">Andrey Burov</Data></Cell>
+    <Cell><Data ss:Type="String">อันเดรย์ บูรอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865369</Data></Cell>
+    <Cell><Data ss:Type="String">V-021553-P02</Data></Cell>
+    <Cell><Data ss:Type="String">V-021553-P02</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865371</Data></Cell>
+    <Cell><Data ss:Type="String">Tamer Danka</Data></Cell>
+    <Cell><Data ss:Type="String">ทาเมอร์ ดันกา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865372</Data></Cell>
+    <Cell><Data ss:Type="String">V-040553-P01</Data></Cell>
+    <Cell><Data ss:Type="String">V-040553-P01</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865374</Data></Cell>
+    <Cell><Data ss:Type="String">Larry Dixon</Data></Cell>
+    <Cell><Data ss:Type="String">แลร์รี ดิกสัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865375</Data></Cell>
+    <Cell><Data ss:Type="String">Scheduling</Data></Cell>
+    <Cell><Data ss:Type="String">การจัดตาราง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865377</Data></Cell>
+    <Cell><Data ss:Type="String">Andrzej Klimov</Data></Cell>
+    <Cell><Data ss:Type="String">อันด์เชย์ คลิมอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865378</Data></Cell>
+    <Cell><Data ss:Type="String">V-061651-P02</Data></Cell>
+    <Cell><Data ss:Type="String">V-061651-P02</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865380</Data></Cell>
+    <Cell><Data ss:Type="String">Craig Killam</Data></Cell>
+    <Cell><Data ss:Type="String">เครก คิลแลม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865381</Data></Cell>
+    <Cell><Data ss:Type="String">Security</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865383</Data></Cell>
+    <Cell><Data ss:Type="String">Trey Larson</Data></Cell>
+    <Cell><Data ss:Type="String">เทรย์ ลาร์สัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564986865384</Data></Cell>
+    <Cell><Data ss:Type="String">Mining Engineer</Data></Cell>
+    <Cell><Data ss:Type="String">วิศวกรเหมือง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564988863726</Data></Cell>
+    <Cell><Data ss:Type="String">Claire Whitten Cinematic</Data></Cell>
+    <Cell><Data ss:Type="String">คัตซีนแคลร์ วิตเทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564988863727</Data></Cell>
+    <Cell><Data ss:Type="String">DO NOT USE</Data></Cell>
+    <Cell><Data ss:Type="String">ห้ามใช้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_9469288860577879557</Data></Cell>
+    <Cell><Data ss:Type="String">Security Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_9469288860577879558</Data></Cell>
+    <Cell><Data ss:Type="String">Security Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์รักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087211194</Data></Cell>
+    <Cell><Data ss:Type="String">Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">มอร์แกน ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087211195</Data></Cell>
+    <Cell><Data ss:Type="String">Director Transtar Labs</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้อำนวยการห้องแล็บทรานสตาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990080052</Data></Cell>
+    <Cell><Data ss:Type="String">Joel Weeks</Data></Cell>
+    <Cell><Data ss:Type="String">โจเอล วีกส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990080053</Data></Cell>
+    <Cell><Data ss:Type="String">Research Assistant (Talos)</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ช่วยวิจัย (ทาลอส)</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990148114</Data></Cell>
+    <Cell><Data ss:Type="String">Unknown</Data></Cell>
+    <Cell><Data ss:Type="String">ไม่ทราบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990148115</Data></Cell>
+    <Cell><Data ss:Type="String">KASMA</Data></Cell>
+    <Cell><Data ss:Type="String">คาสมา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990156209</Data></Cell>
+    <Cell><Data ss:Type="String">Pytheas_All_Employees</Data></Cell>
+    <Cell><Data ss:Type="String">พนักงานไพธีอัสทั้งหมด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990156210</Data></Cell>
+    <Cell><Data ss:Type="String">None</Data></Cell>
+    <Cell><Data ss:Type="String">ไม่มี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129892759828</Data></Cell>
+    <Cell><Data ss:Type="String">Suit Feedback</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบตอบรับชุด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129891703587</Data></Cell>
+    <Cell><Data ss:Type="String">Suit Helper</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้ช่วยชุดอวกาศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991803285</Data></Cell>
+    <Cell><Data ss:Type="String">Lily Morris</Data></Cell>
+    <Cell><Data ss:Type="String">ลิลี มอร์ริส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991803286</Data></Cell>
+    <Cell><Data ss:Type="String">High Energy Technician</Data></Cell>
+    <Cell><Data ss:Type="String">ช่างเทคนิคพลังงานสูง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417371899097</Data></Cell>
+    <Cell><Data ss:Type="String">Yulo Tomorrow</Data></Cell>
+    <Cell><Data ss:Type="String">ยูโล ทูมอร์โรว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417371899098</Data></Cell>
+    <Cell><Data ss:Type="String">Psychoscope Technician</Data></Cell>
+    <Cell><Data ss:Type="String">ช่างเทคนิคไซโคสโคป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>336</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>362</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

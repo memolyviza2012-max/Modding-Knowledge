@@ -23,23 +23,49 @@
 
 ## 🎮 ตารางฟอนต์มาตรฐาน 15 ตระกูล และการคัดกรองตาม Game Engine
 
-| ID | ชื่อฟอนต์ | สไตล์ / Typography | จุดเด่นและแนวเกมที่แนะนำ | Engine แนะนำ |
-|---|---|---|---|---|
-| **prompt** | Prompt (พร้อม) | Modern Loopless Sans | ฟอนต์ไร้หัวเรขาคณิต คมชัดสูงบนจอภาพ AAA เมนูทันสมัย | **Unreal Engine**, Unity, RE Engine |
-| **kanit** | Kanit (คณิต) | Athletic Geometric Sans | ตัวหนา คมชัด ดุดัน อ่านง่ายที่สุดในสนามรบและเกมแอ็กชัน | **RE Engine (Capcom)**, Unity, Unreal Engine |
-| **bai_jamjuree** | Bai Jamjuree (ใบจามจุรี) | Square Terminal Sans | ทรงเหลี่ยมมน สไตล์ไซไฟ ไฮเทค แข็งแกร่ง บันทึกยาวๆ อ่านสบาย | **Unreal Engine**, RE Engine, Unity |
-| **google_sans** | Google Sans (กูเกิล แซนส์) | Geometric Product Sans | คลีนระดับสากล สัดส่วนสมบูรณ์แบบ หรูหรา เรียบง่าย พรีเมียม | **Unreal Engine**, Unity, Godot |
-| **ibm_plex_sans_thai** | IBM Plex Sans Thai | Neo-Grotesque Industrial | สไตล์วิศวกรรม อุตสาหกรรม ชัดเจนในระบบสถิติ ตาราง และ Inventory | **Unity**, **C_Engine**, Godot |
-| **noto_sans_thai** | Noto Sans Thai | Universal Standard Sans | มีน้ำหนักครบที่สุด (37 ไฟล์) ใช้เป็นฟอนต์สำรอง (Universal Fallback) ปลอดภัยสุด | ทุก Engine (Universal Fallback) |
-| **sarabun** | Sarabun (สารบรรณ) | Standard Looped Thai | ฟอนต์ทางการมีหัวมาตรฐาน อ่านง่ายที่สุดสำหรับบทสนทนายาวๆ จดหมาย คัมภีร์ | **Visual Novels**, RPG, Unity |
-| **pridi** | Pridi (ปรีดี) | Slab Serif Narrative | มีเชิงหนักแน่น ให้บรรยากาศวรรณกรรม สืบสวน ย้อนยุค หรือแฟนตาซี | **Fantasy RPG**, Mystery, Lore |
-| **chonburi** | Chonburi (ชลบุรี) | High-Contrast Display Serif | เส้นหนาตัดบาง Didone หรูหรา อลังการ สำหรับโลโก้ ไตเติล และหัวเรื่อง | **Title Screen**, Headers, Posters |
-| **itim** | Itim (ไอติม) | Friendly Rounded Casual | หัวกลมน่ารัก สดใส เป็นมิตร สำหรับเกมทำฟาร์ม แคชชวล หรือ Cozy Game | **Cozy Games**, Farming Sims, Unity |
-| **sriracha** | Sriracha (ศรีราชา) | Casual Marker Handwriting | ลายมือปากกาเมจิก มีชีวิตชีวา เหมาะกับสมุดบันทึก ไดอารี่ผู้รอดชีวิต | **Survival Notes**, Diaries |
-| **charm** | Charm (ชาม) | Elegant Script Handwriting | ลายมือปลายพู่กันอ่อนช้อย สำหรับเกมโรแมนติก แฟนตาซี เวทมนตร์ หรือจดหมายรัก | **Romance RPG**, Spells, Scrolls |
-| **charmonman** | Charmonman (ชาร์มอนแมน) | Ornate Calligraphy Script | ลายมือประดิษฐ์วิกตอเรียน สำหรับคัมภีร์เวท จดหมายโบราณ และพระราชโองการ | **Grimoires**, Royal Edicts, Gothic |
-| **cts_rattikal** | CTS Rattikal (รัตติกาล) | Horror Stylized Gothic | โกธิกหลอน มืดมน ลึกลับ สำหรับเกมสยองขวัญ สุสาน และดาร์กแฟนตาซี | **Survival Horror**, Dark Fantasy |
-| **niramit** | Niramit (นิรมิต) | Contemporary Looped Serif | ดีไซน์ร่วมสมัย มั่นคง สง่างาม สำหรับการเมือง ประวัติศาสตร์ และผจญภัย | **Adventure**, Narrative Lore |
+| ID | ชื่อฟอนต์ | รูปแบบ/น้ำหนัก | สไตล์ / Typography | จุดเด่นและแนวเกมที่แนะนำ | Engine แนะนำ |
+|---|---|---|---|---|---|
+| **prompt** | Prompt (พร้อม) | **18 รูปแบบ** (Thin-Black + Italic) | Modern Loopless Sans | ฟอนต์ไร้หัวเรขาคณิต คมชัดสูงบนจอภาพ AAA เมนูทันสมัย | **Unreal Engine**, Unity, RE Engine |
+| **kanit** | Kanit (คณิต) | **18 รูปแบบ** (Thin-Black + Italic) | Athletic Geometric Sans | ตัวหนา คมชัด ดุดัน อ่านง่ายที่สุดในสนามรบและเกมแอ็กชัน | **RE Engine (Capcom)**, Unity, Unreal Engine |
+| **bai_jamjuree** | Bai Jamjuree (ใบจามจุรี) | **12 รูปแบบ** (ExtraLight-Bold + Italic) | Square Terminal Sans | ทรงเหลี่ยมมน สไตล์ไซไฟ ไฮเทค แข็งแกร่ง บันทึกยาวๆ อ่านสบาย | **Unreal Engine**, RE Engine, Unity |
+| **google_sans** | Google Sans (กูเกิล แซนส์) | **18 รูปแบบ** (Normal/17pt + Italic) | Geometric Product Sans | คลีนระดับสากล สัดส่วนสมบูรณ์แบบ หรูหรา เรียบง่าย พรีเมียม | **Unreal Engine**, Unity, Godot |
+| **ibm_plex_sans_thai** | IBM Plex Sans Thai | **7 รูปแบบ** (Thin-Bold) | Neo-Grotesque Industrial | สไตล์วิศวกรรม อุตสาหกรรม ชัดเจนในระบบสถิติ ตาราง และ Inventory | **Unity**, **C_Engine**, Godot |
+| **noto_sans_thai** | Noto Sans Thai | **37 รูปแบบ** (Normal, Condensed, ExtraCondensed) | Universal Standard Sans | มีน้ำหนักครบที่สุด ใช้เป็นฟอนต์สำรอง (Universal Fallback) ปลอดภัยสุด | ทุก Engine (Universal Fallback) |
+| **sarabun** | Sarabun (สารบรรณ) | **16 รูปแบบ** (Thin-ExtraBold + Italic) | Standard Looped Thai | ฟอนต์ทางการมีหัวมาตรฐาน อ่านง่ายที่สุดสำหรับบทสนทนายาวๆ จดหมาย คัมภีร์ | **Visual Novels**, RPG, Unity |
+| **pridi** | Pridi (ปรีดี) | **6 รูปแบบ** (ExtraLight-Bold) | Slab Serif Narrative | มีเชิงหนักแน่น ให้บรรยากาศวรรณกรรม สืบสวน ย้อนยุค หรือแฟนตาซี | **Fantasy RPG**, Mystery, Lore |
+| **chonburi** | Chonburi (ชลบุรี) | **1 รูปแบบ** (Regular Display) | High-Contrast Display Serif | เส้นหนาตัดบาง Didone หรูหรา อลังการ สำหรับโลโก้ ไตเติล และหัวเรื่อง | **Title Screen**, Headers, Posters |
+| **itim** | Itim (ไอติม) | **1 รูปแบบ** (Regular Casual) | Friendly Rounded Casual | หัวกลมน่ารัก สดใส เป็นมิตร สำหรับเกมทำฟาร์ม แคชชวล หรือ Cozy Game | **Cozy Games**, Farming Sims, Unity |
+| **sriracha** | Sriracha (ศรีราชา) | **1 รูปแบบ** (Regular Handwriting) | Casual Marker Handwriting | ลายมือปากกาเมจิก มีชีวิตชีวา เหมาะกับสมุดบันทึก ไดอารี่ผู้รอดชีวิต | **Survival Notes**, Diaries |
+| **charm** | Charm (ชาม) | **2 รูปแบบ** (Regular, Bold) | Elegant Script Handwriting | ลายมือปลายพู่กันอ่อนช้อย สำหรับเกมโรแมนติก แฟนตาซี เวทมนตร์ หรือจดหมายรัก | **Romance RPG**, Spells, Scrolls |
+| **charmonman** | Charmonman (ชาร์มอนแมน) | **2 รูปแบบ** (Regular, Bold) | Ornate Calligraphy Script | ลายมือประดิษฐ์วิกตอเรียน สำหรับคัมภีร์เวท จดหมายโบราณ และพระราชโองการ | **Grimoires**, Royal Edicts, Gothic |
+| **cts_rattikal** | CTS Rattikal (รัตติกาล) | **2 รูปแบบ** (Regular PUA/Shifted) | Horror Stylized Gothic | โกธิกหลอน มืดมน ลึกลับ สำหรับเกมสยองขวัญ สุสาน และดาร์กแฟนตาซี | **Survival Horror**, Dark Fantasy |
+| **niramit** | Niramit (นิรมิต) | **12 รูปแบบ** (ExtraLight-Bold + Italic) | Contemporary Looped Serif | ดีไซน์ร่วมสมัย มั่นคง สง่างาม สำหรับการเมือง ประวัติศาสตร์ และผจญภัย | **Adventure**, Narrative Lore |
+
+> 🏷️ **รวมไฟล์ฟอนต์ทั้งหมดในคลัง:** 15 ตระกูล รวม **153 รูปแบบไฟล์** คลอบคลุมน้ำหนักตั้งแต่ Thin (100) จนถึง Black (900) พร้อมตัวเอียง (Italic) และ Condensed
+
+---
+
+## 🎚️ ระบบเลือกรุ่น/น้ำหนักฟอนต์ (Font Weight & Style Selector)
+ผู้พัฒนาสามารถเลือกระดับความหนาของตัวอักษรให้เหมาะสมกับประเภท UI ในเกมได้โดยตรงผ่าน AI Helper และคลังฟอนต์:
+1. **Thin (100) / ExtraLight (200) / Light (300):** เหมาะกับ Subtitle เล็กๆ ลอเรลแคร์ หรือเครดิตท้ายเกม
+2. **Regular (400) [ปกติ]:** เหมาะกับข้อความบทสนทนายาวๆ และ UI มาตรฐาน
+3. **Medium (500) / SemiBold (600):** เหมาะกับเมนูย่อย ชื่อไอเทม และปุ่มคำสั่ง
+4. **Bold (700) [หนา]:** เหมาะกับ UI หน้าจอต่อสู้ ค่าดาเมจ และหัวข้อ (Default แนะนำสำหรับเกมส่วนใหญ่)
+5. **ExtraBold (800) / Black (900) [หนาสุด]:** เหมาะกับตัวเลขไตเติล แจ้งเตือนบอส และหน้าไตเติล
+
+เมื่อเลือกสไตล์ใด ระบบจะ:
+- อัปเดต Master Prompt ให้ระบุชื่อสไตล์และพาร์ทไฟล์ TTF ที่ตรงรุ่น
+- คัดลอกและบันทึกสไตล์ที่เลือกลงใน `03_Font_and_UI` ของโปรเจกต์เมื่อกดติดตั้ง
+- อัปเดตภาพประกอบตัวอย่างระดับ Full HD ให้ตรงตามสไตล์ที่เลือกแบบเรียลไทม์
+
+### 🖼️ ระบบภาพตัวอย่างคมชัดระดับ Full HD ครบทุกขนาดตัวอักษร (Multi-Size Specimen Edition)
+ภาพตัวอย่างของทุกฟอนต์และทุกน้ำหนัก (ครบทั้ง 153 ไฟล์) ถูกสร้างขึ้นในขนาด Full HD (1920x1080) โดยแสดงข้อความตัวอย่าง **ครบทุกขนาดพิกเซลที่ใช้งานจริงในเกม**:
+- **ขนาด 64pt (Title / ไตเติลเกม):** แสดงความสง่างามและความคมชัดของตัวหนังสือขนาดใหญ่พิเศษบนหน้าไตเติล
+- **ขนาด 44pt (Heading / เมนูหลัก):** แสดงการจัดวางระดับหัวข้อเควสต์และชื่อบทตอน
+- **ขนาด 32pt (In-Game Buttons / ปุ่มคำสั่ง):** จำลองปุ่มกดเมนูจริง (เริ่มเกมใหม่, ดำเนินการต่อ, การตั้งค่า, ออกจากเกม)
+- **ขนาด 24pt (Dialogue & Subtitles / บทสนทนาและซับไตเติล):** แสดงการอ่านง่ายของประโยคยาวและสระลอย/สระจม
+- **ขนาด 18pt (Tooltips & Notes / คำอธิบายไอเทมขนาดเล็ก):** ทดสอบความชัดเจนของตัวอักษรขนาดจิ๋ว ไม่เบลอ ไม่ทับซ้อน
+- **English & Numerals:** แสดงตัวอักษรภาษาอังกฤษ ตัวเลข และสัญลักษณ์ครบถ้วน
 
 ---
 

@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16890</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="49" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="131.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="313.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="401.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616756</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - DOOM®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - DOOM®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616817</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Dishonored®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Dishonored®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616818</Data></Cell>
+    <Cell><Data ss:Type="String">Unfortunately, it doesn't come with whiskey and cigars.</Data></Cell>
+    <Cell><Data ss:Type="String">น่าเสียดาย มันไม่ได้มาพร้อมวิสกี้กับซิการ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263450659912</Data></Cell>
+    <Cell><Data ss:Type="String">Wrapped in an homage to classic DOOM®.</Data></Cell>
+    <Cell><Data ss:Type="String">หุ้มลวดลายสดุดี DOOM® คลาสสิก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118235268</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Top Hat</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - หมวกทรงสูง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236103</Data></Cell>
+    <Cell><Data ss:Type="String">Monocle not included.</Data></Cell>
+    <Cell><Data ss:Type="String">ไม่รวมแว่นตาข้างเดียว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236214</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Sombrero</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - ซอมเบรโร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236286</Data></Cell>
+    <Cell><Data ss:Type="String">For throwing shade.</Data></Cell>
+    <Cell><Data ss:Type="String">ไว้บังแดดแบบมีสไตล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013268239415</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Default</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - ค่าเริ่มต้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013268239656</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Default</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - ค่าเริ่มต้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616894</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - The Evil Within®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - The Evil Within®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616895</Data></Cell>
+    <Cell><Data ss:Type="String">This operator is only evil on the outside.</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ตัวนี้ชั่วร้ายแค่ภายนอก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616855</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - The Elder Scrolls V: Skyrim®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - The Elder Scrolls V: Skyrim®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616856</Data></Cell>
+    <Cell><Data ss:Type="String">He took an arrow in the knee, so now he works for you.</Data></Cell>
+    <Cell><Data ss:Type="String">เขาโดนธนูปักเข่า เลยมาทำงานให้คุณ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236345</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Striped Top Hat</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - หมวกทรงสูงลายทาง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236423</Data></Cell>
+    <Cell><Data ss:Type="String">Uncle mimi wants Yu!</Data></Cell>
+    <Cell><Data ss:Type="String">ลุงมิมิอยากได้ยู!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236486</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Farmer Hat</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - หมวกชาวนา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236558</Data></Cell>
+    <Cell><Data ss:Type="String">E-I-E-I-O.</Data></Cell>
+    <Cell><Data ss:Type="String">อี-ไอ-อี-ไอ-โอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">ui_dlcGDQskin1</Data></Cell>
+    <Cell><Data ss:Type="String">Save the Typhon</Data></Cell>
+    <Cell><Data ss:Type="String">ช่วยไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">ui_dlcGDQskin1_desc</Data></Cell>
+    <Cell><Data ss:Type="String">Who would want to kill the cute and cuddly Typhon? Chosen by Summer Games Done Quick Community.</Data></Cell>
+    <Cell><Data ss:Type="String">ใครจะอยากฆ่าไทฟอนน่ารักน่ากอด? เลือกโดยชุมชน Summer Games Done Quick</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616837</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Wolfenstein®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Wolfenstein®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616838</Data></Cell>
+    <Cell><Data ss:Type="String">When you feel like you need to punch a Panzerhund in the face.</Data></Cell>
+    <Cell><Data ss:Type="String">สำหรับวันที่อยากต่อย Panzerhund เข้าหน้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236635</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Bucket</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - ถัง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236699</Data></Cell>
+    <Cell><Data ss:Type="String">If getting hugged by a mimic is on your bucket list.</Data></Cell>
+    <Cell><Data ss:Type="String">เผื่อโดนมิมิกกอดอยู่ในบักเก็ตลิสต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236774</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Propeller Beanie</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - หมวกใบพัด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263451583185</Data></Cell>
+    <Cell><Data ss:Type="String">For true propellerheads and fans of sci-fi.</Data></Cell>
+    <Cell><Data ss:Type="String">สำหรับคนคลั่งใบพัดและแฟนไซไฟตัวจริง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616936</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - The Elder Scrolls® Online</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - The Elder Scrolls® Online</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616937</Data></Cell>
+    <Cell><Data ss:Type="String">Decked out with the Golden Ouroboros of Tamriel.</Data></Cell>
+    <Cell><Data ss:Type="String">แต่งเต็มด้วยโอโรวโบรอสสีทองแห่งแทมริเอล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616802</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Fallout®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Fallout®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616803</Data></Cell>
+    <Cell><Data ss:Type="String">This vault dweller is really special.</Data></Cell>
+    <Cell><Data ss:Type="String">ชาวห้องนิรภัยตัวนี้พิเศษจริง ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616911</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Quake® Champions</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Quake® Champions</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_10739735956193616912</Data></Cell>
+    <Cell><Data ss:Type="String">Straight from the Ruins of Sarnath.</Data></Cell>
+    <Cell><Data ss:Type="String">ตรงมาจากซากแห่งซาร์นาธ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118236938</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Witch Hat</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - หมวกแม่มด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118237031</Data></Cell>
+    <Cell><Data ss:Type="String">Double, double, toil and trouble.</Data></Cell>
+    <Cell><Data ss:Type="String">สองเท่า สองเท่า ความเหน็ดเหนื่อยและปัญหา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118237089</Data></Cell>
+    <Cell><Data ss:Type="String">Mimic - Crown</Data></Cell>
+    <Cell><Data ss:Type="String">มิมิก - มงกุฎ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4214154696118237140</Data></Cell>
+    <Cell><Data ss:Type="String">This one is royalty.</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวนี้เชื้อพระวงศ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463669851</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Darkest Dungeon®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Darkest Dungeon®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670081</Data></Cell>
+    <Cell><Data ss:Type="String">Another fool fresh off the stage coach.</Data></Cell>
+    <Cell><Data ss:Type="String">คนโง่อีกคนที่เพิ่งลงจากรถม้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670099</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Dead Cells</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Dead Cells</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670127</Data></Cell>
+    <Cell><Data ss:Type="String">Wannabe apprentice to the Collector.</Data></Cell>
+    <Cell><Data ss:Type="String">อยากเป็นศิษย์ฝึกหัดของคอลเลกเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670142</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Don't Starve®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Don&apos;t Starve®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670176</Data></Cell>
+    <Cell><Data ss:Type="String">You could fit a whole lot of science in this little guy.</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าตัวเล็กนี่ใส่วิทยาศาสตร์ได้ตั้งเยอะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670201</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Risk of Rain®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Risk of Rain®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670225</Data></Cell>
+    <Cell><Data ss:Type="String">Ready to go commando in the monsoon.</Data></Cell>
+    <Cell><Data ss:Type="String">พร้อมลุยแบบคอมมานโดกลางมรสุม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670242</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Rogue Legacy®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Rogue Legacy®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670269</Data></Cell>
+    <Cell><Data ss:Type="String">Sir Mule. Class - Operator. Trait - I.B.S. Trait - Baldness. Spell - Can't spell.</Data></Cell>
+    <Cell><Data ss:Type="String">เซอร์มิวล์ คลาส - โอเปอเรเตอร์ ลักษณะ - I.B.S. ลักษณะ - หัวล้าน เวท - สะกดคำไม่เป็น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670291</Data></Cell>
+    <Cell><Data ss:Type="String">Operator - Spelunky®</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์ - Spelunky®</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263463670330</Data></Cell>
+    <Cell><Data ss:Type="String">Always on the run from the ghost.</Data></Cell>
+    <Cell><Data ss:Type="String">หนีผีอยู่ตลอด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>9</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>54</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

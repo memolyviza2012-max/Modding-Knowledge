@@ -1,0 +1,1100 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Quin Moore</LastAuthor>
+  <LastSaved>2018-03-02T23:55:12Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11850</WindowHeight>
+  <WindowWidth>28260</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="150" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="165" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="571"/>
+   <Column ss:AutoFitWidth="0" ss:Width="605.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034002180</Data></Cell>
+    <Cell><Data ss:Type="String">I'll Take Your Shift</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันรับกะให้เอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034002181</Data></Cell>
+    <Cell><Data ss:Type="String">Officer Bhatia,&lt;br&gt;Sir,  I know you've got some shit news today, so how about I take your shift? From what I can tell it’s just the usual trouble down in MoonWorks. Take this time to… well do whatever the hell you need to do. You've earned it, and we’ve got your back.&lt;br&gt;-Casey </Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่บาเทีย&lt;br&gt;ครับ ผมรู้ว่าวันนี้คุณได้รับข่าวเลวร้าย งั้นให้ผมรับกะแทนไหม? เท่าที่ดู ก็เป็นปัญหาปกติในมูนเวิร์กส์ ใช้เวลานี้... ไปทำอะไรก็ตามที่คุณต้องทำเถอะ คุณสมควรได้พัก และพวกเราคอยหนุนหลังคุณ&lt;br&gt;-เคซีย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034006326</Data></Cell>
+    <Cell><Data ss:Type="String">Tampering</Data></Cell>
+    <Cell><Data ss:Type="String">การดัดแปลงระบบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034006327</Data></Cell>
+    <Cell><Data ss:Type="String">Shea,&lt;br&gt;Have you noticed anything bizarre about your workstation since the incident? Mine cut out recently and when it came back my sent folder was erased. I know everyone is looking to us for answers as to why the Harvester malfunctioned, so maybe we should let Vijay know. He's got good instincts. &lt;br&gt;I finally decomissioned the Harvester in question. I want you to come by the Harvester workshop and take a look with me. If something is going on, you're the only one I trust around here.&lt;br&gt; -Ai out!</Data></Cell>
+    <Cell><Data ss:Type="String">เชีย&lt;br&gt;หลังเหตุการณ์นั้น สังเกตอะไรแปลก ๆ ที่เวิร์กสเตชันไหม? ของฉันดับไปพักหนึ่ง แล้วพอกลับมา โฟลเดอร์ส่งออกถูกลบหมด ทุกคนกำลังมองหาเราว่าทำไมฮาร์เวสเตอร์ถึงขัดข้อง บางทีเราควรบอกวิชัย เขาสัญชาตญาณดี&lt;br&gt;ฉันปลดประจำการฮาร์เวสเตอร์ตัวนั้นแล้ว อยากให้คุณมาที่เวิร์กช็อปฮาร์เวสเตอร์แล้วดูด้วยกัน ถ้ามีอะไรเกิดขึ้น คุณคือคนเดียวที่ฉันไว้ใจที่นี่&lt;br&gt; -ไอ เลิกติดต่อ!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034006828</Data></Cell>
+    <Cell><Data ss:Type="String">Watch out for Vijay</Data></Cell>
+    <Cell><Data ss:Type="String">ระวังวิชัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048034006829</Data></Cell>
+    <Cell><Data ss:Type="String">Mrs. Allen,&lt;br&gt;I know we don't always see eye to eye, but I wanted to give you a heads up about Officer Vijay. I think he's responsible for the incident and has set his sights on you due to the malfunctioning Harvester. You know as well as I do how he could easily comes to the wrong conclusion. If I were you, I'd protect myself. I'm sending you a few things... just in case.&lt;br&gt;-Mizuki out.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณอัลเลน&lt;br&gt;รู้ว่าเราไม่ได้เห็นตรงกันเสมอ แต่ฉันอยากเตือนเรื่องเจ้าหน้าที่วิชัย ฉันคิดว่าเขารับผิดชอบเหตุการณ์ และตอนนี้กำลังเพ่งเล็งคุณเพราะฮาร์เวสเตอร์ขัดข้อง คุณเองก็รู้ว่าเขาด่วนสรุปผิดได้ง่ายแค่ไหน ถ้าเป็นฉัน ฉันจะป้องกันตัว ฉันส่งของบางอย่างให้... เผื่อไว้&lt;br&gt;-มิซูกิ เลิกติดต่อ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953737</Data></Cell>
+    <Cell><Data ss:Type="String">re: Mimic on the keyboard</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: มิมิกบนคีย์บอร์ด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953738</Data></Cell>
+    <Cell><Data ss:Type="String">haha&lt;br&gt;_______________&lt;br&gt;From: Rose Waterfield&lt;br&gt;Subject: Mimic on the Keyboard&lt;br&gt;&lt;br&gt; s&lt;br&gt;xzs c.nn&lt;br&gt;zx.&lt;br&gt;vf&lt;br&gt;c&lt;br&gt;V&lt;br&gt;'/vv&lt;br&gt;-&lt;br&gt;*E x- - C ?i&lt;br&gt;.,V&lt;br&gt;z ,v-x&lt;br&gt; Look at this. We put a keyboard in with the mimics to see if they would copy it, and one of them started pecking keys. Secret message? &lt;br&gt;Rose</Data></Cell>
+    <Cell><Data ss:Type="String">ฮ่า ๆ&lt;br&gt;_______________&lt;br&gt;จาก: โรส วอเตอร์ฟิลด์&lt;br&gt;หัวเรื่อง: มิมิกบนคีย์บอร์ด&lt;br&gt;&lt;br&gt; s&lt;br&gt;xzs c.nn&lt;br&gt;zx.&lt;br&gt;vf&lt;br&gt;c&lt;br&gt;V&lt;br&gt;&apos;/vv&lt;br&gt;-&lt;br&gt;*E x- - C ?i&lt;br&gt;.,V&lt;br&gt;z ,v-x&lt;br&gt; ดูนี่สิ เราเอาคีย์บอร์ดใส่ไปกับมิมิกดูว่ามันจะเลียนแบบไหม แล้วตัวหนึ่งเริ่มจิกปุ่ม ข้อความลับหรือ?&lt;br&gt;โรส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953745</Data></Cell>
+    <Cell><Data ss:Type="String">Traffic Report</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานการจราจร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953746</Data></Cell>
+    <Cell><Data ss:Type="String">Quiet day up there. &lt;br&gt;Standard transit from shuttle Advent from Talos to Earth. &lt;br&gt;One mass driver payload dispatched. &lt;br&gt;Incoming military shuttle. &lt;br&gt;No other traffic anticipated. &lt;br&gt;End report.</Data></Cell>
+    <Cell><Data ss:Type="String">วันนี้ข้างบนเงียบ &lt;br&gt;การเดินทางมาตรฐานของกระสวย Advent จากทาลอสสู่โลก &lt;br&gt;ปล่อยเพย์โหลดแมสดไรเวอร์หนึ่งชุด &lt;br&gt;กระสวยทหารขาเข้า &lt;br&gt;ไม่คาดว่าจะมีการจราจรอื่น &lt;br&gt;จบรายงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953749</Data></Cell>
+    <Cell><Data ss:Type="String">Military resupply</Data></Cell>
+    <Cell><Data ss:Type="String">เติมเสบียงทหาร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981953750</Data></Cell>
+    <Cell><Data ss:Type="String">Important note to all crew:&lt;br&gt;A military shuttle will be setting down at Pytheas for a brief resupply en route to Talos. ALL personnel are restricted from the flight deck until it departs. If you are supposed to be on the deck you will be notified individually. &lt;br&gt;Thank you for your cooperation. </Data></Cell>
+    <Cell><Data ss:Type="String">ประกาศสำคัญถึงลูกเรือทุกคน:&lt;br&gt;กระสวยทหารจะลงจอดที่ไพธีอัสชั่วครู่เพื่อเติมเสบียงระหว่างทางไปทาลอส บุคลากรทั้งหมดห้ามเข้าดาดฟ้าบินจนกว่ายานจะออก ผู้ที่ต้องอยู่บนดาดฟ้าจะได้รับแจ้งเป็นรายบุคคล &lt;br&gt;ขอบคุณสำหรับความร่วมมือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981955239</Data></Cell>
+    <Cell><Data ss:Type="String">A. Wagner Promotion</Data></Cell>
+    <Cell><Data ss:Type="String">เลื่อนตำแหน่ง แองเจลา วากเนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981955240</Data></Cell>
+    <Cell><Data ss:Type="String">Hello all, &lt;br&gt;TranStar is happy to announce that Shuttle Maintenance Chief Angela Wagner has been promoted to Shuttle Pilot effective immediately. &lt;br&gt;Congratulations Angela!</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดีทุกคน &lt;br&gt;ทรานสตาร์ยินดีประกาศว่าแองเจลา วากเนอร์ หัวหน้าซ่อมบำรุงกระสวย ได้รับการเลื่อนตำแหน่งเป็นนักบินกระสวย มีผลทันที &lt;br&gt;ยินดีด้วย แองเจลา!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981955268</Data></Cell>
+    <Cell><Data ss:Type="String">Congratulations</Data></Cell>
+    <Cell><Data ss:Type="String">ขอแสดงความยินดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564981955269</Data></Cell>
+    <Cell><Data ss:Type="String">Riley,&lt;br&gt;The members of the board and I are pleased to give you command of the Pytheas Facility. The work you are doing will strengthen the TranStar brand and is a source of great pride to us all. &lt;br&gt;&lt;br&gt;&lt;b&gt;Alex Yu CEO,&lt;/b&gt;&lt;br&gt;Talos I Orbital Research Facility</Data></Cell>
+    <Cell><Data ss:Type="String">ไรลีย์&lt;br&gt;สมาชิกคณะกรรมการและฉันยินดีมอบการควบคุมศูนย์ไพธีอัสให้คุณ งานที่คุณทำจะเสริมแบรนด์ทรานสตาร์และเป็นความภาคภูมิใจของพวกเราทุกคน &lt;br&gt;&lt;br&gt;&lt;b&gt;อเล็กซ์ ยู ซีอีโอ,&lt;/b&gt;&lt;br&gt;ศูนย์วิจัยวงโคจรทาลอส I</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725079160905</Data></Cell>
+    <Cell><Data ss:Type="String">Urgent</Data></Cell>
+    <Cell><Data ss:Type="String">ด่วน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725079160906</Data></Cell>
+    <Cell><Data ss:Type="String">Riley,&lt;br&gt;&lt;br&gt;We need to talk. Do not call. I will call you. Open a secure channel first. Say, the channel you might use if you needed to speak to an operator.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alex Yu CEO,&lt;/b&gt;&lt;br&gt;TranStar Director of Talos I Orbital Research Station</Data></Cell>
+    <Cell><Data ss:Type="String">ไรลีย์&lt;br&gt;&lt;br&gt;เราต้องคุย ห้ามโทร ฉันจะโทรหา เปิดช่องสื่อสารปลอดภัยก่อน เอาเป็นช่องที่คุณอาจใช้ถ้าต้องคุยกับโอเปอเรเตอร์&lt;br&gt;&lt;br&gt;&lt;b&gt;อเล็กซ์ ยู ซีอีโอ,&lt;/b&gt;&lt;br&gt;ผู้อำนวยการสถานีวิจัยวงโคจรทาลอส I ของทรานสตาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725079336759</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Urgent</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: ด่วน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725079336760</Data></Cell>
+    <Cell><Data ss:Type="String">Bingo. Just call me ASAP.&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Chao Wei&lt;br&gt;To: Kristen Schwanholz&lt;br&gt;Subject: Re: That Guy&lt;br&gt;&lt;br&gt;You’re acting mysterious. I get worried when you act mysterious.&lt;br&gt;&lt;br&gt;I think I mostly remember you making fun of him. Is he the guy who said they weren’t actually copying, they were swapping places with objects in a parallel universe or something?&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Kristen Shwanholz&lt;br&gt;To: Chao Wei&lt;br&gt;Subject: That Guy&lt;br&gt;&lt;br&gt;You remember that guy from Talos? I think his name was Dr. Manion? He had a hypothesis about how mimics copied things.&lt;br&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">บิงโก โทรหาฉันทันที&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: เฉา เว่ย&lt;br&gt;ถึง: คริสเตน ชวานโฮลซ์&lt;br&gt;หัวเรื่อง: ตอบ: หมอนั่น&lt;br&gt;&lt;br&gt;คุณทำตัวลึกลับ ฉันกังวลเวลาคุณทำแบบนี้&lt;br&gt;&lt;br&gt;ฉันจำได้ว่าคุณเอาแต่ล้อเขา เขาคือคนที่บอกว่ามิมิกไม่ได้คัดลอก แต่สลับที่กับวัตถุในจักรวาลคู่ขนานหรืออะไรทำนองนั้นใช่ไหม?&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: คริสเตน ชวานโฮลซ์&lt;br&gt;ถึง: เฉา เว่ย&lt;br&gt;หัวเรื่อง: หมอนั่น&lt;br&gt;&lt;br&gt;จำผู้ชายจากทาลอสได้ไหม? ฉันคิดว่าชื่อ ดร.แมนเนียน เขามีสมมติฐานว่ามิมิกเลียนแบบสิ่งของยังไง&lt;br&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725079336761</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_6732635291261664942</Data></Cell>
+    <Cell><Data ss:Type="String">[Draft] Greetings from the Moon</Data></Cell>
+    <Cell><Data ss:Type="String">[ร่าง] คำทักทายจากดวงจันทร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_6732635291261664943</Data></Cell>
+    <Cell><Data ss:Type="String">Mom, &lt;br&gt;&lt;br&gt;I know you didn’t think this was the right choice for me, but I’m really glad you’re coming around. Working here ON THE MOON!!! Has been so amazing.  I have to pinch myself sometimes. Even better, I met someone up here. Her name is Joan. We really click and hopefully you’ll get to meet her soon. Her birthday’s coming up and you know how sculpture is my thing. I made her something out of moonrock. Hopefully they’ll let us take it home. Anyway, thanks for the socks. I can’t wait to see you next week! So many stories! Please give Katie a big hug from me and tell her not to worry. Love you guys so much and see you soon! &lt;br&gt;&lt;br&gt;Love, Brian</Data></Cell>
+    <Cell><Data ss:Type="String">แม่ &lt;br&gt;&lt;br&gt;รู้ว่าแม่ไม่คิดว่านี่เป็นทางเลือกที่ถูกสำหรับผม แต่ดีใจที่แม่เริ่มเปิดใจ ทำงานที่นี่บนดวงจันทร์!!! มันวิเศษมาก บางทีต้องหยิกตัวเองเลย ที่ดีกว่านั้น ผมเจอใครคนหนึ่งที่นี่ ชื่อโจน เราเข้ากันดีมาก หวังว่าแม่จะได้เจอเธอเร็ว ๆ นี้ วันเกิดเธอกำลังมา และแม่ก็รู้ว่าผมชอบงานปั้น ผมทำอะไรบางอย่างจากหินดวงจันทร์ให้เธอ หวังว่าจะให้เอากลับบ้านได้ ยังไงก็ขอบคุณสำหรับถุงเท้า รอเจอแม่สัปดาห์หน้าไม่ไหว มีเรื่องจะเล่าเยอะมาก! ฝากกอดเคทีแรง ๆ แทนผม แล้วบอกเธอว่าไม่ต้องห่วง รักทุกคนมาก แล้วเจอกันเร็ว ๆ นี้! &lt;br&gt;&lt;br&gt;รัก, ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048035046238</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Pod C7281</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: แคปซูล C7281</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048035046239</Data></Cell>
+    <Cell><Data ss:Type="String">Just this once because I trust you. The code to that pod is 9575. I'll be changing the code EOD.&lt;br&gt;-Vijay&lt;br&gt;_______________&lt;br&gt;From: Claire Whitten&lt;br&gt;Subject: Pod C7281&lt;br&gt;&lt;br&gt;Hey, Vijay!&lt;br&gt;You won't believe this shit - they've got me cleaning escape pods now. I'm just hitting the one today, so could you give me the code to pod C7281? It'll save me a lot of hassle trying to get one of the officers here to help. As always, you're a life saver.&lt;br&gt;-Claire</Data></Cell>
+    <Cell><Data ss:Type="String">ครั้งนี้ครั้งเดียว เพราะฉันไว้ใจคุณ รหัสแคปซูลคือ 9575 ฉันจะเปลี่ยนรหัสตอนสิ้นวัน&lt;br&gt;-วิชัย&lt;br&gt;_______________&lt;br&gt;จาก: แคลร์ วิตเทน&lt;br&gt;หัวเรื่อง: แคปซูล C7281&lt;br&gt;&lt;br&gt;เฮ้ วิชัย!&lt;br&gt;คุณไม่เชื่อแน่—ตอนนี้เขาให้ฉันไปทำความสะอาดแคปซูลหนีภัยแล้ว วันนี้ฉันทำแค่ลำเดียว ขอรหัสแคปซูล C7281 ได้ไหม? จะได้ไม่ต้องวิ่งตามเจ้าหน้าที่มาช่วย เหมือนเคย คุณช่วยชีวิตฉันจริง ๆ&lt;br&gt;-แคลร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983341901</Data></Cell>
+    <Cell><Data ss:Type="String">re: Lost Briefcase</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: กระเป๋าเอกสารหาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983341902</Data></Cell>
+    <Cell><Data ss:Type="String">Ioannis, you need to get control of that. I’ll brief the staff to keep an eye out. This is the last time I'm covering for you.&lt;br&gt;_______________&lt;br&gt;From:  Ioannis Margellos&lt;br&gt;Subject: Lost Briefcase&lt;br&gt;&lt;br&gt;Hey, Vijay.&lt;br&gt; I lost the briefcase that Dr. Yu wanted me to ship to Talos. Alex Yu! I was on task, stopped for a couple of drinks in the lounge, and now it’s gone. Can you help me?</Data></Cell>
+    <Cell><Data ss:Type="String">โยอันนิส คุณต้องจัดการเรื่องนั้น ฉันจะบรีฟพนักงานให้ช่วยมอง นี่เป็นครั้งสุดท้ายที่ฉันช่วยปิดให้คุณ&lt;br&gt;_______________&lt;br&gt;จาก: โยอันนิส มาร์เจลลอส&lt;br&gt;หัวเรื่อง: กระเป๋าเอกสารหาย&lt;br&gt;&lt;br&gt;เฮ้ วิชัย&lt;br&gt; ฉันทำกระเป๋าเอกสารที่ ดร.ยูให้ส่งไปทาลอสหาย อเล็กซ์ ยูเลยนะ! ฉันกำลังทำงาน แวะดื่มสองแก้วในเลานจ์ แล้วมันก็หาย ช่วยได้ไหม?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983342239</Data></Cell>
+    <Cell><Data ss:Type="String">Surprise!</Data></Cell>
+    <Cell><Data ss:Type="String">เซอร์ไพรส์!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983342240</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Hotshot,&lt;br&gt;Guess what I got? The keycard to the storage room at the lounge. I’m having drinks with Mary, but meet me in there after your shift for a surprise. &lt;br&gt;XOXO</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ คนเก่ง&lt;br&gt;เดาสิฉันได้อะไรมา? คีย์การ์ดห้องเก็บของที่เลานจ์ ฉันกำลังดื่มกับแมรี แต่เจอกันข้างในหลังเลิกกะ มีเซอร์ไพรส์ &lt;br&gt;XOXO</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983342956</Data></Cell>
+    <Cell><Data ss:Type="String">Skullduggery Afoot</Data></Cell>
+    <Cell><Data ss:Type="String">มีเล่ห์กลอยู่เบื้องหลัง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983342957</Data></Cell>
+    <Cell><Data ss:Type="String">Hey,&lt;br&gt; I just heard a rumor that Rybak is going to change Patrice Young’s shift schedule so that she won’t be able to play for us in the next game.  If that’s true it’s total bullshit. I wouldn’t put it past him though, the Craters can’t win without pulling something like this.&lt;br&gt; I’ll cover her shift if it comes to that. The team needs her way more than me. </Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้&lt;br&gt; เพิ่งได้ยินข่าวลือว่ารีบักจะเปลี่ยนกะของปาทริซ ยัง เพื่อให้เธอมาเล่นเกมหน้าไม่ได้ ถ้าจริงก็โคตรโกง แต่ก็ไม่แปลก พวกเครเตอร์สชนะไม่ได้ถ้าไม่ใช้วิธีแบบนี้&lt;br&gt; ถ้าถึงตอนนั้นฉันจะรับกะแทนเธอ ทีมต้องการเธอมากกว่าฉันเยอะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983426033</Data></Cell>
+    <Cell><Data ss:Type="String">Using Control Modules</Data></Cell>
+    <Cell><Data ss:Type="String">การใช้โมดูลควบคุม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983426034</Data></Cell>
+    <Cell><Data ss:Type="String">Engineering would like to cover a few ground rules regarding control modules (CM’s). &lt;br&gt;1. CMs are NOT batteries. Please do not connect them to any devices other than the systems for which they are intended. Just ask Mr. Bell why we don’t have a microwave in the habitation area anymore.  &lt;br&gt;2. CMs are powerful, complex, and EXPERIMENTAL – that means they tend to blow up under the wrong kind of stress. Again, see Mr. Bell. &lt;br&gt;3. CMs are proprietary technology. Under NO CIRCUMSTANCE should one be delivered to any location outside Pytheas. &lt;br&gt;&lt;br&gt;Thanks, &lt;br&gt;Claudette Boyle</Data></Cell>
+    <Cell><Data ss:Type="String">ฝ่ายวิศวกรรมขอแจ้งกฎพื้นฐานเกี่ยวกับโมดูลควบคุม (CM’s) &lt;br&gt;1. CM ไม่ใช่แบตเตอรี่ กรุณาอย่าเชื่อมต่อกับอุปกรณ์อื่นนอกจากระบบที่ออกแบบไว้ แค่ถามคุณเบลล์ว่าทำไมเราไม่มีไมโครเวฟในเขตพักอาศัยอีกแล้ว &lt;br&gt;2. CM ทรงพลัง ซับซ้อน และอยู่ในขั้นทดลอง—แปลว่ามันมีแนวโน้มระเบิดเมื่อเจอความเค้นผิดประเภท เช่นเดิม ลองถามคุณเบลล์ &lt;br&gt;3. CM เป็นเทคโนโลยีกรรมสิทธิ์ ห้ามส่งออกไปยังสถานที่ใดนอกไพธีอัสโดยเด็ดขาด &lt;br&gt;&lt;br&gt;ขอบคุณ &lt;br&gt;โคลเด็ตต์ บอยล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983426618</Data></Cell>
+    <Cell><Data ss:Type="String">Injury Report: Bell, Joey</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานการบาดเจ็บ: เบลล์, โจอี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564983426619</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Etienne,&lt;br&gt;&lt;br&gt; Here is the report you requested on the medical mishap during the last cycle.&lt;br&gt;Joey Bell was treated by a medical operator for burns on his palms and inner forearms as well as lacerated fingers and a metal shaving in his right eye.&lt;br&gt;Mr. Bell used an unapproved power supply to modify a cooking device in his quarters, which resulted in a small explosion and fire, resulting in the aforementioned injuries. &lt;br&gt;His injuries were treated successfully and full recovery achieved. There were no lost productivity hours related to the event.&lt;br&gt; This concludes my report.&lt;br&gt;&lt;br&gt;Dr. Alessandra Verga</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี เอเตียน&lt;br&gt;&lt;br&gt; นี่คือรายงานที่คุณขอเกี่ยวกับอุบัติเหตุทางการแพทย์ในรอบล่าสุด&lt;br&gt;โจอี เบลล์ได้รับการรักษาโดยโอเปอเรเตอร์แพทย์จากแผลไหม้ที่ฝ่ามือและท้องแขน รวมถึงนิ้วฉีกและเศษโลหะเข้าตาขวา&lt;br&gt;คุณเบลล์ใช้แหล่งจ่ายไฟที่ไม่ได้รับอนุมัติเพื่อดัดแปลงอุปกรณ์ทำอาหารในห้องพัก ส่งผลให้เกิดระเบิดและไฟขนาดเล็ก จนเกิดบาดเจ็บดังกล่าว &lt;br&gt;การรักษาประสบความสำเร็จและฟื้นตัวเต็มที่ ไม่มีชั่วโมงผลิตงานสูญเสียจากเหตุการณ์นี้&lt;br&gt; จบรายงาน&lt;br&gt;&lt;br&gt;ดร.อเลสซานดรา เวกา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048036241322</Data></Cell>
+    <Cell><Data ss:Type="String">Fueling Station keycard</Data></Cell>
+    <Cell><Data ss:Type="String">คีย์การ์ดสถานีเติมเชื้อเพลิง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048036241323</Data></Cell>
+    <Cell><Data ss:Type="String">Shea, &lt;br&gt;&lt;br&gt;I know we are behind schedule and I'm sorry for the inconvenience, but when I was repairing Harvester bot 23 I think I left my tracking bracelet and key card inside of it. Hopefully the recycler shielding on the key card does its job.&lt;br&gt;&lt;br&gt;Is there any chance you can help me shut it down briefly so I can get them back? &lt;br&gt;&lt;br&gt;Sorry for the hassle. &lt;br&gt;&lt;br&gt;-Ai</Data></Cell>
+    <Cell><Data ss:Type="String">เชีย &lt;br&gt;&lt;br&gt;รู้ว่าเราล่าช้ากว่ากำหนด ขอโทษเรื่องความไม่สะดวก แต่ตอนซ่อมฮาร์เวสเตอร์บอต 23 ฉันคิดว่าทิ้งสายรัดติดตามกับคีย์การ์ดไว้ข้างใน หวังว่าระบบป้องกันรีไซเคิลบนคีย์การ์ดจะทำงาน&lt;br&gt;&lt;br&gt;มีทางช่วยปิดมันชั่วคราวให้ฉันเอาของคืนได้ไหม?&lt;br&gt;&lt;br&gt;ขอโทษที่รบกวน&lt;br&gt;&lt;br&gt;-ไอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475097128</Data></Cell>
+    <Cell><Data ss:Type="String">Reminder</Data></Cell>
+    <Cell><Data ss:Type="String">เตือนความจำ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475097129</Data></Cell>
+    <Cell><Data ss:Type="String">This is just a friendly reminder:&lt;br&gt;&lt;br&gt;5.0231 &quot;Operative shall diligently pursue, to the company's reasonable satisfaction, completion of the data acquisition in accordance with the contract schedule. Failure to meet satisfaction will extend said contract for a duration equal to time lost by the company plus reasonable damages and or penalties. Such damages and penalties are not eligible for arbitration.&quot;&lt;br&gt;&lt;br&gt;Please keep this in mind as we move toward the end of your contract with KASMA corp. I know you are looking forward to seeing family again and a set back at this point would be unfortunate.&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">ขอเตือนอย่างเป็นมิตร:&lt;br&gt;&lt;br&gt;5.0231 &quot;ผู้ปฏิบัติการต้องดำเนินงานอย่างขยันขันแข็งจนบริษัทพอใจตามสมควร เพื่อเก็บข้อมูลให้เสร็จตามกำหนดสัญญา หากไม่เป็นที่พอใจ สัญญาจะถูกขยายตามระยะเวลาที่บริษัทสูญเสีย บวกค่าเสียหายและ/หรือบทลงโทษตามสมควร ค่าเสียหายและบทลงโทษดังกล่าวไม่อยู่ในสิทธิ์อนุญาโตตุลาการ&quot;&lt;br&gt;&lt;br&gt;โปรดจำไว้เมื่อสัญญากับ KASMA Corp. ใกล้สิ้นสุด ฉันรู้ว่าคุณอยากกลับไปเจอครอบครัว และการสะดุดตอนนี้คงน่าเสียดาย&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475099793</Data></Cell>
+    <Cell><Data ss:Type="String">Gratz!</Data></Cell>
+    <Cell><Data ss:Type="String">ยินดีด้วย!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475099794</Data></Cell>
+    <Cell><Data ss:Type="String">Nice work up there! Despite the cost, we've dispatched a delivery to you including a flower from your wife's garden back home. Everyone appreciates your hard work, including me. You're really chipping away at that contract!&lt;br&gt;&lt;br&gt;best,&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">ทำได้ดีมากข้างบนนั่น! แม้ต้นทุนสูง เราก็ส่งของให้ รวมถึงดอกไม้จากสวนของภรรยาคุณที่บ้าน ทุกคนซาบซึ้งกับการทำงานหนักของคุณ รวมถึงฉันด้วย คุณกำลังค่อย ๆ ลดหนี้สัญญาได้จริง ๆ!&lt;br&gt;&lt;br&gt;ด้วยความนับถือ&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475100448</Data></Cell>
+    <Cell><Data ss:Type="String">Stability Track</Data></Cell>
+    <Cell><Data ss:Type="String">ติดตามเสถียรภาพ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475100449</Data></Cell>
+    <Cell><Data ss:Type="String">Just a reminder to install the stability track app that we uploaded.&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">แค่เตือนให้ติดตั้งแอปติดตามเสถียรภาพที่เราอัปโหลดให้&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475178684</Data></Cell>
+    <Cell><Data ss:Type="String">Family Pics</Data></Cell>
+    <Cell><Data ss:Type="String">รูปครอบครัว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475178685</Data></Cell>
+    <Cell><Data ss:Type="String">The photos are on the slideshow utility. Here's a letter from Ty:&lt;br&gt;&lt;br&gt;&lt;i&gt;&quot;Daddy, I love you. We got a new hows and mommy says to say thank you!!! My freind livs neks to us. She is so nis. I miss you. Plees com home soon! Love Ty&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;Last thing - you should see two new companion apps you can use next time you're in the sim. Take a look at the neuromod section of your TranScribe. Hope you like them.&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">รูปอยู่ในยูทิลิตีสไลด์โชว์ นี่คือจดหมายจากไท:&lt;br&gt;&lt;br&gt;&lt;i&gt;&quot;พ่อ หนูรักพ่อ เราได้บ้านใหม่แล้ว แม่บอกให้ขอบคุณ!!! เพื่อนหนูอยู่ข้างบ้าน เธอใจดีมาก หนูคิดถึงพ่อ รีบกลับบ้านนะ! รัก ไท&quot;&lt;/i&gt;&lt;br&gt;&lt;br&gt;อย่างสุดท้าย—คุณควรเห็นแอปคู่หูใหม่สองตัว ใช้ได้ครั้งหน้าที่เข้าในซิม ลองดูส่วนนิวโรม็อดในทรานสไครบ์ หวังว่าจะชอบ&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475181831</Data></Cell>
+    <Cell><Data ss:Type="String">Orders</Data></Cell>
+    <Cell><Data ss:Type="String">คำสั่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475181832</Data></Cell>
+    <Cell><Data ss:Type="String">Let's stay on task. Remember the contract and the schedule. The module is going to be fine. Just follow the orders we sent you and we'll get you out of there.&lt;br&gt;&lt;br&gt;You can check your orders anytime your're in the sim from your TranScribe.&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">โฟกัสงานไว้ จำสัญญาและกำหนดการ โมดูลจะไม่เป็นไร แค่ทำตามคำสั่งที่ส่งให้ แล้วเราจะพาคุณออกมา&lt;br&gt;&lt;br&gt;คุณตรวจคำสั่งได้ทุกครั้งที่อยู่ในซิมจากทรานสไครบ์&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475181907</Data></Cell>
+    <Cell><Data ss:Type="String">Simulation Reminder</Data></Cell>
+    <Cell><Data ss:Type="String">เตือนเรื่องการจำลอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239475181908</Data></Cell>
+    <Cell><Data ss:Type="String">Remember that as you complete orders in the simulation, the simulation itself becomes more complete. Therefore it will also become more hostile. You will notice new hazards. But you might also find previously hidden elements that can help you. I mean that things in the simulation are records so they are real. That might assist you in ways you haven't thought about until now. Think about this very carefully.&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">จำไว้ว่ายิ่งคุณทำคำสั่งในระบบจำลองสำเร็จ ตัวระบบจำลองเองก็จะสมบูรณ์ขึ้น ดังนั้นมันจะเป็นศัตรูมากขึ้นด้วย คุณจะเห็นอันตรายใหม่ ๆ แต่ก็อาจพบสิ่งที่เคยซ่อน ซึ่งช่วยคุณได้ หมายถึงสิ่งต่าง ๆ ในระบบจำลองคือบันทึก เพราะงั้นมันเป็นเรื่องจริง และอาจช่วยคุณในแบบที่ยังคิดไม่ถึง ลองคิดเรื่องนี้ให้ดีมาก ๆ&lt;br&gt;&lt;br&gt;-B</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325064</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Fueling Station Keycard</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: คีย์การ์ดสถานีเติมเชื้อเพลิง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325065</Data></Cell>
+    <Cell><Data ss:Type="String">ok&lt;br&gt;-Shea&lt;br&gt;_______________&lt;br&gt;From: Ai Mizuki&lt;br&gt;Subject: Fueling Station Keycard&lt;br&gt;&lt;br&gt;Shea, &lt;br&gt;&lt;br&gt;I know we are behind schedule and I'm sorry for the inconvenience, but when I was repairing Harvester bot 23 I think I left my tracking bracelet and key card inside of it. Hopefully the recycler shielding on the key card does its job.&lt;br&gt;&lt;br&gt;Is there any chance you can help me shut it down briefly so I can get them back? &lt;br&gt;&lt;br&gt;Sorry for the hassle. &lt;br&gt;&lt;br&gt;-Ai</Data></Cell>
+    <Cell><Data ss:Type="String">โอเค&lt;br&gt;-เชีย&lt;br&gt;_______________&lt;br&gt;จาก: ไอ มิซูกิ&lt;br&gt;หัวเรื่อง: คีย์การ์ดสถานีเติมเชื้อเพลิง&lt;br&gt;&lt;br&gt;เชีย &lt;br&gt;&lt;br&gt;รู้ว่าเราล่าช้ากว่ากำหนด ขอโทษเรื่องความไม่สะดวก แต่ตอนซ่อมฮาร์เวสเตอร์บอต 23 ฉันคิดว่าทิ้งสายรัดติดตามกับคีย์การ์ดไว้ข้างใน หวังว่าระบบป้องกันรีไซเคิลบนคีย์การ์ดจะทำงาน&lt;br&gt;&lt;br&gt;มีทางช่วยปิดมันชั่วคราวให้ฉันเอาของคืนได้ไหม?&lt;br&gt;&lt;br&gt;ขอโทษที่รบกวน&lt;br&gt;&lt;br&gt;-ไอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325182</Data></Cell>
+    <Cell><Data ss:Type="String">Decommissioned Zones</Data></Cell>
+    <Cell><Data ss:Type="String">เขตปลดประจำการ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325183</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Morten,&lt;br&gt;&lt;br&gt;Look, you know the decommissioned machine shop is off limits and it's only running on auxiliary power. If you have work that needs to be done back there, please get approval first. Let's work together, please, to prevent people worrying about your safety.&lt;br&gt;&lt;br&gt;-Kelly</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ มอร์เทน&lt;br&gt;&lt;br&gt;ฟังนะ คุณก็รู้ว่าโรงเครื่องจักรที่ปลดประจำการแล้วห้ามเข้า และใช้ไฟสำรองเท่านั้น ถ้ามีงานต้องทำข้างใน ขออนุมัติก่อน เรามาช่วยกันป้องกันไม่ให้คนอื่นเป็นห่วงความปลอดภัยคุณเถอะ&lt;br&gt;&lt;br&gt;-เคลลี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325239</Data></Cell>
+    <Cell><Data ss:Type="String">Mass Driver Feeder</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องป้อนแมสดไรเวอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325240</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Kelly, I was thinking about the Mass Driver feeder in the central mine. I mean, this thing is connected to the most powerful device on the moonbase, so why are there no safety protocols? As far as I can tell, when the Mass Driver is warming up, someone could just slip into the feeder and get launched into space after the cargo container is loaded! I know... you're thinking, &quot;Jordan, why *would* someone do something so crazy?&quot; But people do crazy shit all the time. Just look at Wagner. Anyway, something to keep you up at night!&lt;br&gt;&lt;br&gt;Jordan Walton</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี เคลลี ฉันคิดเรื่องเครื่องป้อนแมสดไรเวอร์ในเหมืองกลาง มันเชื่อมกับอุปกรณ์ทรงพลังที่สุดบนฐานดวงจันทร์ แล้วทำไมไม่มีโพรโทคอลความปลอดภัย? เท่าที่ดู ตอนแมสดไรเวอร์กำลังวอร์ม ใครสักคนอาจลื่นเข้าเครื่องป้อนแล้วถูกยิงสู่อวกาศหลังโหลดตู้สินค้า! ฉันรู้... คุณคงคิดว่า &quot;จอร์แดน ทำไม *ต้อง* มีคนทำอะไรบ้า ๆ แบบนั้น?&quot; แต่คนทำเรื่องบ้าตลอด ดูวากเนอร์สิ ยังไงก็เอาไว้ให้คิดจนนอนไม่หลับนะ!&lt;br&gt;&lt;br&gt;จอร์แดน วอลตัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325297</Data></Cell>
+    <Cell><Data ss:Type="String">Harvester Efficiency</Data></Cell>
+    <Cell><Data ss:Type="String">ประสิทธิภาพฮาร์เวสเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325298</Data></Cell>
+    <Cell><Data ss:Type="String">Shea!&lt;br&gt;&lt;br&gt;Harvesters must produce more H3 per load. This is becoming critical as we run out of viable mining locations. Please get with Ai to find richer locations and send charts my way. In addition, as Alex Yu previously mentioned, the efficiency of the Harvesters is lackluster, which MUST change.&lt;br&gt;&lt;br&gt;Sorry to be a pain!&lt;br&gt;&lt;br&gt;Brian</Data></Cell>
+    <Cell><Data ss:Type="String">เชีย!&lt;br&gt;&lt;br&gt;ฮาร์เวสเตอร์ต้องผลิต H3 ต่อเที่ยวให้มากขึ้น เรื่องนี้กำลังวิกฤตเพราะแหล่งขุดที่ใช้ได้เริ่มหมด ไปคุยกับไอเพื่อหาแหล่งที่เข้มข้นกว่า แล้วส่งกราฟมาให้ฉันด้วย นอกจากนี้ อย่างที่อเล็กซ์ ยูเคยพูด ประสิทธิภาพฮาร์เวสเตอร์ต่ำกว่ามาตรฐาน และมันต้องเปลี่ยน&lt;br&gt;&lt;br&gt;ขอโทษที่จี้!&lt;br&gt;&lt;br&gt;ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325420</Data></Cell>
+    <Cell><Data ss:Type="String">Helium - 3</Data></Cell>
+    <Cell><Data ss:Type="String">ฮีเลียม-3</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325421</Data></Cell>
+    <Cell><Data ss:Type="String">Ms Savage,&lt;br&gt;&lt;br&gt;How's it going in the refinery? Just wanted to pass along our interest in progress with the Helium 3. We're a little slow on extraction so anything you can do to help us speed this up would be a plus.&lt;br&gt;&lt;br&gt;Alex</Data></Cell>
+    <Cell><Data ss:Type="String">คุณซาเวจ&lt;br&gt;&lt;br&gt;โรงกลั่นเป็นยังไงบ้าง? แค่อยากถามความคืบหน้าเรื่องฮีเลียม-3 เราสกัดได้ช้าหน่อย ถ้าช่วยเร่งได้จะดีมาก&lt;br&gt;&lt;br&gt;อเล็กซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325487</Data></Cell>
+    <Cell><Data ss:Type="String">We're running low (H3)</Data></Cell>
+    <Cell><Data ss:Type="String">H3 กำลังขาด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325488</Data></Cell>
+    <Cell><Data ss:Type="String">Laurel!&lt;br&gt;&lt;br&gt;I'm sure you've noticed the drop in our H3 production. We need to set up more drop points for the Harvesters to dump their loads. Ai and Shea are no help! So we need to act quickly and get more drop points out on the lunar surface away from the base. It may be against protocol, but I don't want another meeting with Alex like our last one!&lt;br&gt;&lt;br&gt;Sorry to be a pain!&lt;br&gt;&lt;br&gt;Brian</Data></Cell>
+    <Cell><Data ss:Type="String">ลอเรล!&lt;br&gt;&lt;br&gt;แน่ใจว่าคุณเห็น H3 ผลิตลดลง เราต้องตั้งจุดทิ้งโหลดให้ฮาร์เวสเตอร์เพิ่ม ไอกับเชียช่วยไม่ได้เลย! เพราะงั้นต้องรีบตั้งจุดใหม่บนพื้นผิวดวงจันทร์ให้ห่างฐาน อาจผิดโพรโทคอล แต่ฉันไม่อยากประชุมกับอเล็กซ์แบบครั้งก่อนอีก!&lt;br&gt;&lt;br&gt;ขอโทษที่จี้!&lt;br&gt;&lt;br&gt;ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325561</Data></Cell>
+    <Cell><Data ss:Type="String">Helium - 3 Not Meeting Quota</Data></Cell>
+    <Cell><Data ss:Type="String">ฮีเลียม-3 ไม่ถึงโควตา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048038325562</Data></Cell>
+    <Cell><Data ss:Type="String">Mr Chung&lt;br&gt;&lt;br&gt;We need a solution to the H3 shipments to Talos. Forget everything else. This is your only job. If you can't make it happen, I'll have to make changes.&lt;br&gt;&lt;br&gt;&lt;b&gt;Alex Yu CEO,&lt;/b&gt;&lt;br&gt;TranStar Director of Talos I Orbital Research Station</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชุง&lt;br&gt;&lt;br&gt;เราต้องแก้ปัญหาการส่ง H3 ไปทาลอส ลืมทุกอย่าง นี่คืองานเดียวของคุณ ถ้าทำไม่ได้ ฉันต้องเปลี่ยนคน&lt;br&gt;&lt;br&gt;&lt;b&gt;อเล็กซ์ ยู ซีอีโอ,&lt;/b&gt;&lt;br&gt;ผู้อำนวยการสถานีวิจัยวงโคจรทาลอส I ของทรานสตาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564989558853</Data></Cell>
+    <Cell><Data ss:Type="String">Harvester Power Upgrades</Data></Cell>
+    <Cell><Data ss:Type="String">อัปเกรดพลังงานฮาร์เวสเตอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564989558854</Data></Cell>
+    <Cell><Data ss:Type="String">All harvesters have now been upgraded to accept the new control modules. This change should dramatically extend operating hours and production ceilings without altering fundamental programing. &lt;br&gt;If you have any questions contact my department.&lt;br&gt;&lt;br&gt;Thank you for your attention, &lt;br&gt;Morten Rybak </Data></Cell>
+    <Cell><Data ss:Type="String">ฮาร์เวสเตอร์ทุกตัวได้รับการอัปเกรดให้รองรับโมดูลควบคุมใหม่แล้ว การเปลี่ยนแปลงนี้ควรยืดชั่วโมงทำงานและเพดานการผลิตอย่างมาก โดยไม่เปลี่ยนโปรแกรมพื้นฐาน &lt;br&gt;หากมีคำถาม ติดต่อแผนกฉัน&lt;br&gt;&lt;br&gt;ขอบคุณที่ให้ความสนใจ &lt;br&gt;มอร์เทน รีบัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564989558855</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263446318557</Data></Cell>
+    <Cell><Data ss:Type="String">Re: MoonWorks Incident</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: เหตุการณ์มูนเวิร์กส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263446318558</Data></Cell>
+    <Cell><Data ss:Type="String">You idiot. Security just informed me that Joan Winslow is demanding info about Chung. In fact, she's heading to your office RIGHT NOW. Do something!&lt;br&gt;&lt;br&gt;-D&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Dr. Riendeau&lt;br&gt;To: Dr. Mizuki&lt;br&gt;Subject: Re: MoonWorks Incident&lt;br&gt;&lt;br&gt;Dr. Mizuki,&lt;br&gt;A team is on the way to your office. Please have the subject prepped for transport.&lt;br&gt;&lt;br&gt;Dianne Riendeau, PhD&lt;br&gt;Pytheas Labs Forensic Xenobiology&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Dr. Mizuki&lt;br&gt;To: Dr. Riendeau&lt;br&gt;Subject: MoonWorks Incident&lt;br&gt;&lt;br&gt;Dr. Riendeau,&lt;br&gt;You asked for a good candidate. I've got one. He's not going to make it. After cardiac arrest you've got maybe 10 minutes tops. This makes us square as far as I'm concerned. </Data></Cell>
+    <Cell><Data ss:Type="String">ไอ้โง่ ฝ่ายรักษาความปลอดภัยเพิ่งบอกว่าโจน วินสโลว์กำลังเรียกร้องข้อมูลเรื่องชุง ที่จริงเธอกำลังไปสำนักงานคุณ เดี๋ยวนี้ ทำอะไรสักอย่าง!&lt;br&gt;&lt;br&gt;-D&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: ดร.เรียนโด&lt;br&gt;ถึง: ดร.มิซูกิ&lt;br&gt;หัวเรื่อง: ตอบ: เหตุการณ์มูนเวิร์กส์&lt;br&gt;&lt;br&gt;ดร.มิซูกิ&lt;br&gt;ทีมกำลังไปสำนักงานคุณ กรุณาเตรียมผู้ถูกทดสอบสำหรับขนย้าย&lt;br&gt;&lt;br&gt;ไดแอน เรียนโด, PhD&lt;br&gt;นิติชีววิทยาต่างดาว ห้องแล็บไพธีอัส&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: ดร.มิซูกิ&lt;br&gt;ถึง: ดร.เรียนโด&lt;br&gt;หัวเรื่อง: เหตุการณ์มูนเวิร์กส์&lt;br&gt;&lt;br&gt;ดร.เรียนโด&lt;br&gt;คุณขอผู้สมัครดี ๆ ฉันมีหนึ่งคน เขาไม่รอดแน่ หลังหัวใจหยุดมีเวลาไม่เกิน 10 นาที เรื่องของเราถือว่าเจ๊ากัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391011</Data></Cell>
+    <Cell><Data ss:Type="String">have you seen claire?</Data></Cell>
+    <Cell><Data ss:Type="String">เห็นแคลร์ไหม?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391012</Data></Cell>
+    <Cell><Data ss:Type="String">hey laurel,&lt;br&gt;what's up with claire? I put in a request to clean up the chemical spill right next to my desk 12 hours ago. has she retreated to her hidey-hole again? what does she do in there anyway? I'm convinced my requests are sent to a shredder somewhere, because I never see her around. and why is she the only one with the keycard to the maintenance room down there? ugh. anyway, how are you?&lt;br&gt;-Claudee</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ ลอเรล&lt;br&gt;แคลร์เป็นอะไร? ฉันส่งคำขอให้ทำความสะอาดสารเคมีหกข้างโต๊ะตั้ง 12 ชั่วโมงแล้ว เธอกลับไปซ่อนในรูอีกแล้วหรือ? ข้างในนั้นทำอะไรอยู่กันแน่? ฉันมั่นใจว่าคำขอฉันถูกส่งเข้าเครื่องทำลาย เพราะไม่เคยเห็นเธอเลย แล้วทำไมเธอเป็นคนเดียวที่มีคีย์การ์ดห้องซ่อมบำรุงข้างล่าง? เฮ้อ ยังไงคุณเป็นไงบ้าง?&lt;br&gt;-คลอดี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391136</Data></Cell>
+    <Cell><Data ss:Type="String">Fire. Again.</Data></Cell>
+    <Cell><Data ss:Type="String">ไฟไหม้ อีกแล้ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391137</Data></Cell>
+    <Cell><Data ss:Type="String">Brian,&lt;br&gt;Someone left a chemical spill on the floor in the refinery. I don't know what's preventing Claire from taking care of these kinds of things. If she's not going to be available, can we at least get someone else access to the maintenance closet?&lt;br&gt;&lt;br&gt;Thanks,&lt;br&gt;Steve</Data></Cell>
+    <Cell><Data ss:Type="String">ไบรอัน&lt;br&gt;มีคนทิ้งสารเคมีหกบนพื้นโรงกลั่น ฉันไม่รู้ว่าอะไรขวางแคลร์ไม่ให้จัดการเรื่องพวกนี้ ถ้าเธอไม่ว่าง เราให้คนอื่นเข้าตู้ซ่อมบำรุงได้ไหม?&lt;br&gt;&lt;br&gt;ขอบคุณ&lt;br&gt;สตีฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391269</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Come by my workstation</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: มาที่เวิร์กสเตชันฉัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391270</Data></Cell>
+    <Cell><Data ss:Type="String">ERROR&lt;br&gt;TranStar automatic reply&#45;-&lt;br&gt;The mailbox for CLAIRE WHITTEN is full. &lt;br&gt;_______________&lt;br&gt;From: Brian Chung&lt;br&gt;Subject: Come by my workstation.&lt;br&gt;&lt;br&gt;Claire,&lt;br&gt;There's been some concern about you being distracted and unavailable. Can you swing by so that we can discuss?  I'd love to help.&lt;br&gt;&lt;br&gt;Brian</Data></Cell>
+    <Cell><Data ss:Type="String">ข้อผิดพลาด&lt;br&gt;ตอบกลับอัตโนมัติทรานสตาร์--&lt;br&gt;กล่องจดหมายของ แคลร์ วิตเทน เต็ม &lt;br&gt;_______________&lt;br&gt;จาก: ไบรอัน ชุง&lt;br&gt;หัวเรื่อง: มาที่เวิร์กสเตชันฉัน&lt;br&gt;&lt;br&gt;แคลร์&lt;br&gt;มีคนเป็นห่วงว่าคุณเสียสมาธิและติดต่อไม่ได้ แวะมาคุยกันหน่อยได้ไหม? ฉันอยากช่วย&lt;br&gt;&lt;br&gt;ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391362</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Workplace Grievance</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: ร้องเรียนสถานที่ทำงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048042391363</Data></Cell>
+    <Cell><Data ss:Type="String">Sorry, Mort, we just don't have the room right now. I'll try to get this resolved for you asap but my plate is really full right now.  Thanks for your patience and sorry to be a pain!&lt;br&gt;-Brian&#45;&#45;-&lt;br&gt;_______________&lt;br&gt;From: Morten Rybak&lt;br&gt;Subject: Workplace Grievance&lt;br&gt;&lt;br&gt;Brian,&lt;br&gt;I'm not sure why I'm being moved around so much. First the Machine Shop, then Support Systems, now I'm out here next the this grav shaft in the middle of a mine. Plus somebody stole my reployer? What's going on?&lt;br&gt;-Morten</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษ มอร์ต ตอนนี้เราไม่มีที่จริง ๆ ฉันจะพยายามแก้ให้เร็วที่สุด แต่ตอนนี้งานล้นมือ ขอบคุณที่อดทน และขอโทษที่ทำให้ลำบาก!&lt;br&gt;-ไบรอัน---&lt;br&gt;_______________&lt;br&gt;จาก: มอร์เทน รีบัก&lt;br&gt;หัวเรื่อง: ร้องเรียนสถานที่ทำงาน&lt;br&gt;&lt;br&gt;ไบรอัน&lt;br&gt;ไม่แน่ใจว่าทำไมฉันถูกย้ายไปมา จากโรงเครื่องจักร ไประบบสนับสนุน ตอนนี้มาอยู่ข้างปล่องแรงโน้มถ่วงกลางเหมือง แถมมีคนขโมยรีพลอยเยอร์ฉันอีก? เกิดอะไรขึ้น?&lt;br&gt;-มอร์เทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206127</Data></Cell>
+    <Cell><Data ss:Type="String">Brain Emulation</Data></Cell>
+    <Cell><Data ss:Type="String">การจำลองสมอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206128</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Riley,&lt;br&gt;&lt;br&gt;Following up. Trust me, the emulation process I used is perfectly safe. I have the prototypes to prove it - maybe I'll introduce you. I named them after the month I made them (December et. al). Pytheas is already set up to support the tech, more or less. All you’ll need is the right operator to host. I'll be inaccessible for a while, but I'll check back with you later.&lt;br&gt;&lt;br&gt;M.Yu</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ ไรลีย์&lt;br&gt;&lt;br&gt;ตามเรื่องนะ เชื่อฉัน กระบวนการจำลองที่ฉันใช้ปลอดภัยมาก ฉันมีต้นแบบพิสูจน์—บางทีจะแนะนำให้รู้จัก ฉันตั้งชื่อตามเดือนที่สร้าง (ธันวาคม และอื่น ๆ) ไพธีอัสมีระบบรองรับเทคโนโลยีนี้อยู่แล้วโดยประมาณ สิ่งที่คุณต้องมีคือโอเปอเรเตอร์ที่เหมาะเป็นโฮสต์ ฉันจะติดต่อไม่ได้พักหนึ่ง แต่จะกลับมาเช็กทีหลัง&lt;br&gt;&lt;br&gt;M.Yu</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206287</Data></Cell>
+    <Cell><Data ss:Type="String">Volunteer Report</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานอาสาสมัคร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206288</Data></Cell>
+    <Cell><Data ss:Type="String">Marj,&lt;br&gt;&lt;br&gt;It’s gotten worse. Andrius’ confinement now includes a typhon gate, which is working. But I think we need to re-evaluate what we’re doing. Morale is low. Andrius is such a sweet guy. He’s been a friend to all of us! Seeing him like this, unpredictable and aggressive, is heartbreaking.&lt;br&gt;&lt;br&gt;He’s almost escaped several times. Can we please set up a time to talk about what’s happening?&lt;br&gt;&lt;br&gt;Haley Sanders</Data></Cell>
+    <Cell><Data ss:Type="String">มาร์จ&lt;br&gt;&lt;br&gt;มันแย่ลง การกักแอนดริอุสตอนนี้มีประตูไทฟอน ซึ่งทำงานอยู่ แต่ฉันคิดว่าเราต้องประเมินสิ่งที่กำลังทำใหม่ ขวัญกำลังใจต่ำ แอนดริอุสเป็นคนน่ารัก เขาเป็นเพื่อนกับพวกเราทุกคน! เห็นเขาเป็นแบบนี้ คาดเดาไม่ได้และก้าวร้าว มันเจ็บปวด&lt;br&gt;&lt;br&gt;เขาเกือบหนีได้หลายครั้ง เรานัดคุยเรื่องที่เกิดขึ้นได้ไหม?&lt;br&gt;&lt;br&gt;เฮลีย์ แซนเดอร์ส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206375</Data></Cell>
+    <Cell><Data ss:Type="String">No Subject</Data></Cell>
+    <Cell><Data ss:Type="String">ไม่มีหัวเรื่อง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206376</Data></Cell>
+    <Cell><Data ss:Type="String">Good morning Meng,&lt;br&gt;&lt;br&gt;I’m sorry I laughed at you. It just sounded crazy at the time. But now I’m actually a little worried. I heard they found another one during the sweep yesterday.  So maybe you’re right. If even security is being tapped, that would explain why the code to the labs is being changed. Obviously they need to keep the weapons labs as secure as possible under the circumstances!&lt;br&gt;&lt;br&gt;If there’s a mole working for KASMA, who do you think it could be? And is it even safe to discuss over mail? Brian Chung has been acting really stressed…&lt;br&gt;&lt;br&gt;GS</Data></Cell>
+    <Cell><Data ss:Type="String">อรุณสวัสดิ์ เมิ่ง&lt;br&gt;&lt;br&gt;ขอโทษที่หัวเราะใส่ ตอนนั้นมันฟังดูบ้ามาก แต่ตอนนี้ฉันเริ่มกังวล ได้ยินว่าเมื่อวานตอนกวาดพื้นที่เจออีกตัว บางทีคุณอาจพูดถูก ถ้าฝ่ายรักษาความปลอดภัยยังถูกดักฟัง ก็อธิบายได้ว่าทำไมรหัสแล็บถูกเปลี่ยน เห็นชัดว่าในสถานการณ์นี้พวกเขาต้องรักษาแล็บอาวุธให้แน่นที่สุด!&lt;br&gt;&lt;br&gt;ถ้ามีไส้ศึกทำงานให้ KASMA คุณคิดว่าเป็นใคร? แล้วคุยผ่านเมลปลอดภัยไหม? ช่วงนี้ไบรอัน ชุงดูเครียดมาก…&lt;br&gt;&lt;br&gt;GS</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206444</Data></Cell>
+    <Cell><Data ss:Type="String">Sending Mimic for Isolation</Data></Cell>
+    <Cell><Data ss:Type="String">ส่งมิมิกไปแยกกัก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206445</Data></Cell>
+    <Cell><Data ss:Type="String">Chao,&lt;br&gt;&lt;br&gt;MIMIC_B10 is doing strange things. I logged a move, but wanted to let you know directly that it’s no longer in the general crater population. I placed it in isolation so you can begin an evaluation when you sign in.&lt;br&gt;&lt;br&gt;Good luck and be careful,&lt;br&gt;Ken</Data></Cell>
+    <Cell><Data ss:Type="String">เฉา&lt;br&gt;&lt;br&gt;MIMIC_B10 กำลังทำอะไรแปลก ๆ ฉันลงบันทึกการย้ายแล้ว แต่อยากบอกตรง ๆ ว่ามันไม่ได้อยู่ในประชากรทั่วไปของหลุมอุกกาบาตแล้ว ฉันแยกกักไว้ให้คุณเริ่มประเมินตอนล็อกอิน&lt;br&gt;&lt;br&gt;โชคดี ระวังด้วย&lt;br&gt;เคน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206498</Data></Cell>
+    <Cell><Data ss:Type="String">Increased security in Psychotronics Weapon research</Data></Cell>
+    <Cell><Data ss:Type="String">เพิ่มความปลอดภัยในงานวิจัยอาวุธไซโคทรอนิกส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725087206499</Data></Cell>
+    <Cell><Data ss:Type="String">Important!&lt;br&gt;&lt;br&gt;Sorry for the forced password re-set on all your workstations. Please make sure your passwords are strong and private. WE FOUND MULTIPLE LISTENING DEVICES IN THE PSYCHOTRONICS WEAPON RESEARCH LAB.&lt;br&gt;&lt;br&gt;This required an immediate change to all lab security codes. Please keep these codes absolutely confidential and cover the keypad when you key in.&lt;br&gt;&lt;br&gt;&#45;-VB</Data></Cell>
+    <Cell><Data ss:Type="String">สำคัญ!&lt;br&gt;&lt;br&gt;ขอโทษที่บังคับรีเซ็ตรหัสผ่านทุกเวิร์กสเตชัน กรุณาตั้งรหัสให้แข็งแรงและเป็นส่วนตัว เราพบอุปกรณ์ดักฟังหลายชิ้นในแล็บวิจัยอาวุธไซโคทรอนิกส์&lt;br&gt;&lt;br&gt;จำเป็นต้องเปลี่ยนรหัสรักษาความปลอดภัยแล็บทั้งหมดทันที เก็บรหัสเป็นความลับเด็ดขาด และบังแป้นรหัสตอนกด&lt;br&gt;&lt;br&gt;--VB</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990079940</Data></Cell>
+    <Cell><Data ss:Type="String">Hello From Talos!</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดีจากทาลอส!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990079941</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Haley!&lt;br&gt;Talos is so awesome! It’s like a giant cruise ship in space, far larger than the crew annex down there, and luxurious by comparison. There are so many people here and I see new faces all the time.  There are movie theatres and world class cuisine. The only difficult part is that most of the crew here is unaware. It’s a challenge to keep a lid on it sometimes. Anyway, I have to run - I’m scheduled for a procedure called “Aptoregressive Neurotomy”. Sounds scary! But the doc says it’s pretty standard with transfers.  I’ve missed you and the old crew. Please tell them I think about them often and will try to get a lift on a shuttle sometime. Stay safe! &lt;br&gt;-Joel</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี เฮลีย์!&lt;br&gt;ทาลอสสุดยอดมาก! เหมือนเรือสำราญยักษ์ในอวกาศ ใหญ่กว่าอาคารเสริมลูกเรือข้างล่างมาก แถมหรูกว่าด้วย มีคนเยอะมาก ฉันเห็นหน้าใหม่ตลอด ที่นี่ยังมีทั้งโรงหนังและอาหารระดับโลก ส่วนที่ยากคือ ลูกเรือส่วนใหญ่ไม่รู้เรื่องที่เกิดขึ้น บางทีก็เก็บเป็นความลับยากเหมือนกัน ยังไงฉันต้องไปแล้ว—มีนัดทำขั้นตอนที่เรียกว่า “การตัดประสาทแบบแอปโต-รีเกรสซีฟ” ฟังดูน่ากลัวเนอะ! แต่หมอบอกว่าเป็นขั้นตอนปกติสำหรับคนที่ย้ายมาที่นี่ ฉันคิดถึงคุณกับลูกเรือเก่า ฝากบอกทุกคนด้วยว่าฉันนึกถึงพวกเขาบ่อย ๆ แล้วจะพยายามติดกระสวยกลับไปเยี่ยมสักครั้ง ระวังตัวนะ! &lt;br&gt;-โจเอล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990081187</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Gate Report</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานประตูไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990081188</Data></Cell>
+    <Cell><Data ss:Type="String">Alex,&lt;br&gt;I’m writing to inform you my team has developed an updated typhon gate that will function properly with the power profiles of Talos I. There is a shipment of chloride trifluoride launching at 04:00 and the first typhon gate will be in the same container, labeled on the manifest as “Static Decontamination Components”. My people will walk Dr. Kelstrup through installation. There is still an outstanding issue that causes the gate to deactivate if subjected to a strong electro-magnetic discharge.&lt;br&gt;Please give my best to Morgan.&lt;br&gt;Director Riley Yu&lt;br&gt;Pytheas Moonbase</Data></Cell>
+    <Cell><Data ss:Type="String">อเล็กซ์&lt;br&gt;ฉันเขียนมาแจ้งว่าทีมของฉันพัฒนาประตูไทฟอนรุ่นปรับปรุงที่ทำงานกับโปรไฟล์พลังงานของทาลอส I ได้ มีการส่งคลอรีนไตรฟลูออไรด์เวลา 04:00 และประตูไทฟอนตัวแรกจะอยู่ในตู้เดียวกัน โดยระบุในรายการว่า “ส่วนประกอบกำจัดการปนเปื้อนแบบสถิต” คนของฉันจะสอน ดร.เคลสทรัปติดตั้ง ยังมีปัญหาค้างคือประตูจะปิดหากเจอการปล่อยแม่เหล็กไฟฟ้าแรง&lt;br&gt;ฝากความปรารถนาดีถึงมอร์แกนด้วย&lt;br&gt;ผู้อำนวยการไรลีย์ ยู&lt;br&gt;ฐานดวงจันทร์ไพธีอัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990081527</Data></Cell>
+    <Cell><Data ss:Type="String">Living Quarters</Data></Cell>
+    <Cell><Data ss:Type="String">เขตพักอาศัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990081528</Data></Cell>
+    <Cell><Data ss:Type="String">I understand why they separate us into living quarters by department, but is there any chance I can get transferred to another engineering barrack? I’d sleep in a tent in the crater rather than spend another day in here with Murph. The guy always eats in his bunk, and his chewing and smacking is off the charts. The stink of those jellied eel tins he leaves everywhere destroys the room. And it’s not just his eating! His toenail clippings rain down like nasty snow when I’m trying to read. And when he climbs up to his bunk his greasy feet touch my bedding. Please get me out of here. &lt;br&gt;-Ben</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันเข้าใจว่าทำไมแยกเขตพักตามแผนก แต่มีทางย้ายฉันไปโรงนอนวิศวกรรมอื่นไหม? ฉันยอมนอนเต็นท์ในหลุมอุกกาบาตดีกว่าอยู่กับเมิร์ฟอีกวัน หมอนี่กินบนเตียงตลอด เสียงเคี้ยวเสียงจั๊บ ๆ เกินทน กลิ่นกระป๋องปลาไหลเยลลี่ที่ทิ้งทั่วห้องทำลายทุกอย่าง และไม่ใช่แค่เรื่องกิน! เศษเล็บเท้าของเขาตกลงมาเหมือนหิมะสกปรกตอนฉันอ่านหนังสือ และตอนปีนขึ้นเตียง เท้ามัน ๆ ก็แตะผ้าปูฉัน ช่วยพาฉันออกไปที &lt;br&gt;-เบน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990149092</Data></Cell>
+    <Cell><Data ss:Type="String">ORDERS</Data></Cell>
+    <Cell><Data ss:Type="String">คำสั่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990149093</Data></Cell>
+    <Cell><Data ss:Type="String">Relay from station M13 indicates a shipment of capacitor cells departing Talos tomorrow also contains a high value fabrication plan. Please recover.</Data></Cell>
+    <Cell><Data ss:Type="String">รีเลย์จากสถานี M13 ระบุว่าการส่งเซลล์คาปาซิเตอร์ออกจากทาลอสพรุ่งนี้มีแปลนการผลิตมูลค่าสูงรวมอยู่ด้วย โปรดกู้มา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990156099</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Fatal Fortress</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: ป้อมมรณะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990156100</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;Please stop. The global email list is for business only.&lt;br&gt;Director Riley Yu&lt;br&gt;Pytheas Moonbase&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Alistair Tramontin&lt;br&gt;Original Message: Fatal Fortress&lt;br&gt;&lt;br&gt;Hi Everyone,&lt;br&gt;I’m prepared to run a Fatal Fortress game for anyone interested.  Games will be in the cafeteria on one night a week after the third shift.  I’ve run these games before and been told I’m quite the talented game master! It works best for a party of six, so reply soon! First come first served.&lt;br&gt;-Al</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;กรุณาหยุด รายชื่ออีเมลทั่วโลกใช้เพื่อธุรกิจเท่านั้น&lt;br&gt;ผู้อำนวยการไรลีย์ ยู&lt;br&gt;ฐานดวงจันทร์ไพธีอัส&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: อลิสแตร์ ทรามอนติน&lt;br&gt;ข้อความต้นฉบับ: ป้อมมรณะ&lt;br&gt;&lt;br&gt;สวัสดีทุกคน&lt;br&gt;ฉันพร้อมจัดเกมป้อมมรณะให้ใครก็ตามที่สนใจ เล่นในโรงอาหารหนึ่งคืนต่อสัปดาห์หลังจบกะสาม ฉันเคยจัดเกมมาก่อน และคนบอกว่าเป็นเกมมาสเตอร์ฝีมือดี! สนุกที่สุดถ้ามีหกคน รีบตอบ! มาก่อนได้ก่อน&lt;br&gt;-อัล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990160149</Data></Cell>
+    <Cell><Data ss:Type="String">RE: Living Quarters</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: เขตพักอาศัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990160150</Data></Cell>
+    <Cell><Data ss:Type="String">Ben, &lt;br&gt;I’m sorry things are so uncomfortable for you. We are already beyond capacity and several crew with opposite shifts are sharing bunks, so new arrivals have it even worse. Imagine if you had to sleep *in* Murph’s bed!  I can order you some headphones and Dr. Mizuki could give you something to take the edge off, but I’m afraid there’s little else that can be done until your contract is up. &lt;br&gt;-Kelly&lt;br&gt;&lt;br&gt;_______________&lt;br&gt; From: Benjamin Wheeler&lt;br&gt;Subject: Living Quarters&lt;br&gt;&lt;br&gt;I understand why they separate us into living quarters by department, but is there any chance I can get transferred to another engineering barrack? I’d sleep in a tent in the crater rather than spend another day in here with Murph. The guy always eats in his bunk, and his chewing and smacking is off the charts. The stink of those jellied eel tins he leaves everywhere destroys the room. And it’s not just his eating! His toenail clippings rain down like nasty snow when I’m trying to read. And when he climbs up to his bunk his greasy feet touch my bedding. Please get me out of here. &lt;br&gt;-Ben</Data></Cell>
+    <Cell><Data ss:Type="String">เบน &lt;br&gt;ขอโทษที่อยู่ไม่สบาย ตอนนี้เราเกินความจุแล้ว ลูกเรือหลายคนที่ทำกะตรงข้ามต้องแชร์เตียง คนมาใหม่ยิ่งแย่ ลองคิดดูถ้าต้องนอน *บน* เตียงเมิร์ฟ! ฉันสั่งหูฟังให้ได้ และ ดร.มิซูกิอาจให้ยาช่วยคลายเครียด แต่เกรงว่าจะทำอะไรไม่ได้มากกว่านี้จนสัญญาคุณหมด &lt;br&gt;-เคลลี&lt;br&gt;&lt;br&gt;_______________&lt;br&gt; จาก: เบนจามิน วีลเลอร์&lt;br&gt;หัวเรื่อง: เขตพักอาศัย&lt;br&gt;&lt;br&gt;ฉันเข้าใจว่าทำไมแยกเขตพักตามแผนก แต่มีทางย้ายฉันไปโรงนอนวิศวกรรมอื่นไหม? ฉันยอมนอนเต็นท์ในหลุมอุกกาบาตดีกว่าอยู่กับเมิร์ฟอีกวัน หมอนี่กินบนเตียงตลอด เสียงเคี้ยวเสียงจั๊บ ๆ เกินทน กลิ่นกระป๋องปลาไหลเยลลี่ที่ทิ้งทั่วห้องทำลายทุกอย่าง และไม่ใช่แค่เรื่องกิน! เศษเล็บเท้าของเขาตกลงมาเหมือนหิมะสกปรกตอนฉันอ่านหนังสือ และตอนปีนขึ้นเตียง เท้ามัน ๆ ก็แตะผ้าปูฉัน ช่วยพาฉันออกไปที &lt;br&gt;-เบน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990161308</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Nerd Alert</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: เตือนพวกเนิร์ด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990161309</Data></Cell>
+    <Cell><Data ss:Type="String">Lol. It's not so bad. Problem is Tramontin, not the game. No one will get a word in edge-wise. Brehmer says he got zero replies. Speaking of poker, let’s do that. I might have some whiskey and cigars to share. Brehmer and a couple of others are in. See you in the rec room tonight? &lt;br&gt;_______________&lt;br&gt;From: Israel Kouyate&lt;br&gt;Original Message: Nerd Alert&lt;br&gt;&lt;br&gt; How about Tramontin emailing the whole base looking for people to play that game? You want to sit around and talk in funny voices with him? No thanks, man. Run a poker game though and I’m in.</Data></Cell>
+    <Cell><Data ss:Type="String">ฮ่า ๆ ไม่แย่ขนาดนั้น ปัญหาคือทรามอนติน ไม่ใช่เกม ไม่มีใครได้พูดแน่ เบรห์เมอร์บอกว่าเขาไม่ได้คำตอบเลย พูดถึงโป๊กเกอร์ เล่นอันนั้นเถอะ ฉันอาจมีวิสกี้กับซิการ์แบ่ง เบรห์เมอร์กับอีกสองสามคนเอาด้วย เจอกันห้องสันทนาการคืนนี้ไหม? &lt;br&gt;_______________&lt;br&gt;จาก: อิสราเอล คูยาเต&lt;br&gt;ข้อความต้นฉบับ: เตือนพวกเนิร์ด&lt;br&gt;&lt;br&gt; ทรามอนตินส่งเมลหาทั้งฐานเพื่อหาคนเล่นเกมนั่น คุณอยากนั่งพูดเสียงตลกกับเขาหรือ? ไม่เอาเพื่อน แต่ถ้าจัดโป๊กเกอร์ ฉันเอาด้วย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990402138</Data></Cell>
+    <Cell><Data ss:Type="String">I have a proposal...</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันมีข้อเสนอ...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990402139</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;Hello Claire,&lt;br&gt;As you may have heard, I am hosting a molecular cuisine event next week, and I need your help doing a deep clean of my prep spaces before then. If you can do that for me I will see that you get some exclusive preview dishes before they go in the menu. Sound good?&lt;br&gt;Marcus Lee Crosby&lt;br&gt;Chef&lt;br&gt;Transtar</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;สวัสดี แคลร์&lt;br&gt;อย่างที่อาจได้ยิน ฉันจะจัดงานอาหารโมเลกุลสัปดาห์หน้า และอยากให้คุณช่วยทำความสะอาดพื้นที่เตรียมอาหารแบบลึกก่อนถึงวันนั้น ถ้าช่วย ฉันจะให้คุณชิมเมนูพิเศษก่อนขึ้นรายการ ฟังดูดีไหม?&lt;br&gt;มาร์คัส ลี ครอสบี&lt;br&gt;เชฟ&lt;br&gt;ทรานสตาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416480</Data></Cell>
+    <Cell><Data ss:Type="String">Small Spill</Data></Cell>
+    <Cell><Data ss:Type="String">สารหกเล็กน้อย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416481</Data></Cell>
+    <Cell><Data ss:Type="String">Hello Claire, &lt;br&gt;There has been a small accident resulting in a chemical spill near my station. It is non-hazardous, so the industrial cleanup team told me to contact you. Can you take care of it please? &lt;br&gt;Thanks.</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี แคลร์ &lt;br&gt;มีอุบัติเหตุเล็กน้อย ทำให้สารเคมีหกใกล้สถานีฉัน ไม่อันตราย ทีมทำความสะอาดอุตสาหกรรมเลยบอกให้ติดต่อคุณ ช่วยจัดการให้ได้ไหม?&lt;br&gt;ขอบคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416484</Data></Cell>
+    <Cell><Data ss:Type="String">Robbie Murphy’s Habitation Pod</Data></Cell>
+    <Cell><Data ss:Type="String">แคปซูลพักอาศัยของร็อบบี เมอร์ฟี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416485</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;Hey Claire, could you pop in daily and clean up around Robbie Murphy’s habitation pod? His coworkers are on a short fuse regarding his hygiene. Okay? Thanks.&lt;br&gt;Kelly Bhoyar</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;เฮ้ แคลร์ ช่วยแวะไปทำความสะอาดรอบแคปซูลพักอาศัยของร็อบบี เมอร์ฟีทุกวันได้ไหม? เพื่อนร่วมงานเขาใกล้หมดความอดทนกับสุขอนามัยแล้ว โอเค? ขอบคุณ&lt;br&gt;เคลลี โบยาร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416487</Data></Cell>
+    <Cell><Data ss:Type="String">Hoops?</Data></Cell>
+    <Cell><Data ss:Type="String">บาสไหม?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416488</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;By any chance do you play basketball? Let me know if you do. &lt;br&gt;-Morten</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;บังเอิญเล่นบาสเกตบอลไหม? ถ้าเล่นบอกฉันด้วย &lt;br&gt;-มอร์เทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416490</Data></Cell>
+    <Cell><Data ss:Type="String">Help!</Data></Cell>
+    <Cell><Data ss:Type="String">ช่วยด้วย!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416491</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;Did you find a briefcase while cleaning the lounge area? It’s important. If you see it, please let me know before you tell anyone else. I’ll make it worth your while.&lt;br&gt;Ioannis</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;ตอนทำความสะอาดเลานจ์เจอกระเป๋าเอกสารไหม? มันสำคัญ ถ้าเห็น ช่วยบอกฉันก่อนบอกคนอื่น ฉันจะตอบแทนให้คุ้ม&lt;br&gt;โยอันนิส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416493</Data></Cell>
+    <Cell><Data ss:Type="String">Cleanup</Data></Cell>
+    <Cell><Data ss:Type="String">ทำความสะอาด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990416494</Data></Cell>
+    <Cell><Data ss:Type="String">The bins in our workspace are overflowing. Can you handle that, please?</Data></Cell>
+    <Cell><Data ss:Type="String">ถังขยะในพื้นที่งานล้น ช่วยจัดการได้ไหม?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990421999</Data></Cell>
+    <Cell><Data ss:Type="String">Fatal Fortress</Data></Cell>
+    <Cell><Data ss:Type="String">ป้อมมรณะ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564990422000</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Everyone,&lt;br&gt;I’m prepared to run a Fatal Fortress game for anyone interested.  Games will be in the cafeteria on one night a week after the third shift.  I’ve run these games before and been told I’m quite the talented game master! It works best for a party of six, so reply soon! First come first served.&lt;br&gt;-Al</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดีทุกคน&lt;br&gt;ฉันพร้อมจัดเกมป้อมมรณะให้ใครก็ตามที่สนใจ เล่นในโรงอาหารหนึ่งคืนต่อสัปดาห์หลังจบกะสาม ฉันเคยจัดเกมมาก่อน และคนบอกว่าเป็นเกมมาสเตอร์ฝีมือดี! สนุกที่สุดถ้ามีหกคน รีบตอบ! มาก่อนได้ก่อน&lt;br&gt;-อัล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534463219</Data></Cell>
+    <Cell><Data ss:Type="String">WHERE IS BRIAN?</Data></Cell>
+    <Cell><Data ss:Type="String">ไบรอันอยู่ไหน?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534463220</Data></Cell>
+    <Cell><Data ss:Type="String">What is going on? I just spoke to Alessandra, and she said Brian's not in your clinic. So if he's not there and he's not dead then where in the hell is he??&lt;br&gt;&lt;br&gt;- Joan</Data></Cell>
+    <Cell><Data ss:Type="String">นี่มันเกิดอะไรขึ้น? ฉันเพิ่งคุยกับอลেসซานดรา เธอบอกว่าไบรอันไม่ได้อยู่คลินิกของคุณ ถ้าเขาไม่ได้อยู่ที่นั่น และยังไม่ตาย แล้วเขาอยู่ที่ไหนกันแน่??&lt;br&gt;&lt;br&gt;- โจน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534463221</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534468728</Data></Cell>
+    <Cell><Data ss:Type="String">Happy almost birthday!</Data></Cell>
+    <Cell><Data ss:Type="String">สุขสันต์วันเกิดล่วงหน้า!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534468729</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Joan!&lt;br&gt;I know your birthday is coming up this weekend, so I was wondering if you wanted to do something special to celebrate. I'd offer to take you out to dinner somewhere nice, but well, we're on the moon. :P I know a pretty good spot for a picnic, though! And of course, I'll have your present ready by then. Can't wait to show it to you!&lt;br&gt;&lt;br&gt;Have an awesome day :)&lt;br&gt;Brian</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ โจน!&lt;br&gt;รู้ว่าวันเกิดคุณกำลังจะถึงสุดสัปดาห์นี้ เลยอยากรู้ว่าอยากทำอะไรพิเศษฉลองไหม ฉันอยากชวนไปดินเนอร์ร้านดี ๆ แต่... เราอยู่บนดวงจันทร์ :P แต่ฉันรู้จุดปิกนิกดี ๆ นะ! แล้วแน่นอน ของขวัญคุณจะพร้อมทัน อยากให้เห็นจะแย่แล้ว!&lt;br&gt;&lt;br&gt;ขอให้วันนี้สุดยอดนะ :)&lt;br&gt;ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534468730</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534469636</Data></Cell>
+    <Cell><Data ss:Type="String">Re: Info on Brian</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: ข้อมูลเรื่องไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534469637</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Joan,&lt;br&gt;Sorry but I'm not sure I have a good answer for you. I heard about the accident down in MoonWorks, but as far as I know, Brian isn't in the clinic. At least, not anymore. Mizuki said he didn't know anything about it, but if you ask me something's not right. I'll let you know if I hear anything else.&lt;br&gt;&lt;br&gt;And, please don't blame yourself. We all know it was an accident.&lt;br&gt;&lt;br&gt;Alessandra&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;From: Joan Winslow&lt;br&gt;To: Alessandra Vega&lt;br&gt;Subject: Info on Brian&lt;br&gt;&lt;br&gt;Alessandra,&lt;br&gt;Dr. Mizuki won't give me any info on Brian's condition. I get the whole patient confidentiality shit, but I just need to know he's ok. Please. Do this for me.&lt;br&gt;&lt;br&gt;- Joan</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ โจน&lt;br&gt;ขอโทษ ฉันไม่แน่ใจว่ามีคำตอบดี ๆ ให้ ฉันได้ยินเรื่องอุบัติเหตุที่มูนเวิร์กส์ แต่เท่าที่รู้ ไบรอันไม่ได้อยู่คลินิก อย่างน้อยก็ไม่อยู่แล้ว มิซูกิบอกว่าไม่รู้อะไร แต่ถ้าถามฉัน มันมีอะไรไม่ชอบมาพากล ฉันจะบอกถ้าได้ยินอะไรเพิ่ม&lt;br&gt;&lt;br&gt;แล้วได้โปรดอย่าโทษตัวเอง ทุกคนรู้ว่ามันเป็นอุบัติเหตุ&lt;br&gt;&lt;br&gt;อเลสซานดรา&lt;br&gt;&lt;br&gt;_______________&lt;br&gt;จาก: โจน วินสโลว์&lt;br&gt;ถึง: อเลสซานดรา เวกา&lt;br&gt;หัวเรื่อง: ข้อมูลเรื่องไบรอัน&lt;br&gt;&lt;br&gt;อเลสซานดรา&lt;br&gt;ดร.มิซูกิไม่ยอมบอกอาการไบรอัน ฉันเข้าใจเรื่องความลับผู้ป่วย แต่นี่ฉันแค่อยากรู้ว่าเขาโอเค ได้โปรด ช่วยฉันที&lt;br&gt;&lt;br&gt;- โจน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515534469638</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991365103</Data></Cell>
+    <Cell><Data ss:Type="String">Phantoms Practice</Data></Cell>
+    <Cell><Data ss:Type="String">ซ้อมทีมแฟนทอมส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991365104</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Audry,&lt;br&gt;&lt;br&gt;Can I book the gym for our practice session at 18:00?&lt;br&gt;Thanks&lt;Oliver&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี ออดรี&lt;br&gt;&lt;br&gt;ฉันจองยิมสำหรับซ้อมเวลา 18:00 ได้ไหม?&lt;br&gt;ขอบคุณ&lt;Oliver&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991365106</Data></Cell>
+    <Cell><Data ss:Type="String">Complaint</Data></Cell>
+    <Cell><Data ss:Type="String">คำร้องเรียน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991365107</Data></Cell>
+    <Cell><Data ss:Type="String">When I was working out this morning I witnessed Morten Rybak leaving his dumbbells on the floor when he was done. He also failed to wipe down the equipment he used. He's inconsiderate and unsanitary, and I hope you will speak to him next time he comes in.&lt;br&gt;&lt;br&gt;Please keep my name out of it though.&lt;br&gt;&lt;br&gt; Larry</Data></Cell>
+    <Cell><Data ss:Type="String">ตอนออกกำลังกายเช้านี้ ฉันเห็นมอร์เทน รีบักทิ้งดัมเบลไว้บนพื้นหลังใช้เสร็จ แถมไม่เช็ดอุปกรณ์ เขาไม่เกรงใจและไม่ถูกสุขลักษณะ หวังว่าคุณจะคุยกับเขาครั้งหน้า&lt;br&gt;&lt;br&gt;แต่อย่าเอ่ยชื่อฉันนะ&lt;br&gt;&lt;br&gt; แลร์รี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991366499</Data></Cell>
+    <Cell><Data ss:Type="String">Slam Dunk Assist</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวช่วยสแลมดังก์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991366500</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Audry,&lt;br&gt;&lt;br&gt;After our conversation the other day I took some time to tinker with a surplus gravity pad and set it up in the gym. Now anyone should be able to dunk. We are in lunar gravity, you know? At the moment it is very... unstable, so, anyone that uses it does so at their own risk. I’ll come back and tune it later.    &lt;br&gt;&lt;br&gt;-RR</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ ออดรี&lt;br&gt;&lt;br&gt;หลังคุยกันวันก่อน ฉันลองปรับแผ่นแรงโน้มถ่วงสำรองแล้วติดตั้งในยิม ตอนนี้ใครก็ดังก์ได้ เราอยู่ในแรงโน้มถ่วงดวงจันทร์นี่นะ? ตอนนี้มันยัง... ไม่เสถียรมาก ใครใช้ก็รับความเสี่ยงเอง ฉันจะกลับมาปรับทีหลัง &lt;br&gt;&lt;br&gt;-RR</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991368888</Data></Cell>
+    <Cell><Data ss:Type="String">Inbound Shuttle Not Responsive</Data></Cell>
+    <Cell><Data ss:Type="String">กระสวยขาเข้าไม่ตอบสนอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991368889</Data></Cell>
+    <Cell><Data ss:Type="String">Officer Blessing,&lt;br&gt; I have lost voice contact with the inbound shuttle from Talos.&lt;br&gt;Com systems are functional, and telemetry indicates the ship has initiated an automated landing procedure. I will continue hailing the crew, but I thought it might be prudent to alert you to the deviation. &lt;br&gt;Arrival time is 02:12:46. &lt;br&gt;If contact is reestablished I will notify you.&lt;br&gt;&lt;br&gt;Donny Sandoval&lt;br&gt;Flight Operations Officer</Data></Cell>
+    <Cell><Data ss:Type="String">เจ้าหน้าที่เบลสซิง&lt;br&gt; ฉันขาดการติดต่อด้วยเสียงกับกระสวยขาเข้าจากทาลอส&lt;br&gt;ระบบสื่อสารทำงาน และเทเลเมทรีระบุว่ายานเริ่มขั้นตอนลงจอดอัตโนมัติ ฉันจะเรียกลูกเรือต่อ แต่คิดว่าควรแจ้งความเบี่ยงเบนให้ทราบ &lt;br&gt;เวลาถึง 02:12:46 &lt;br&gt;หากติดต่อได้อีก ฉันจะแจ้ง&lt;br&gt;&lt;br&gt;ดอนนี แซนโดวัล&lt;br&gt;เจ้าหน้าที่ปฏิบัติการบิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775003</Data></Cell>
+    <Cell><Data ss:Type="String">Moonquakes</Data></Cell>
+    <Cell><Data ss:Type="String">แผ่นดินไหวบนดวงจันทร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775004</Data></Cell>
+    <Cell><Data ss:Type="String">Hey all,&lt;br&gt;&lt;br&gt;Many of you have had questions about last week's moonquake and the fact that we've decommissioned access to the machine shop in the aftermath. Let me assure you that structural integrity has not be compromised. The quake did dislodge some rocks that injured Kelvin Tyler. Rest assured, he's doing well but access to the area near the Crater door is prohibited for the time being. Feel free to reach out with any additional concerns.&lt;br&gt;&lt;br&gt;-Brian</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดีทุกคน&lt;br&gt;&lt;br&gt;หลายคนถามเรื่องแผ่นดินไหวบนดวงจันทร์เมื่อสัปดาห์ก่อน และการที่เราปิดทางเข้าโรงเครื่องจักรหลังเหตุการณ์ ขอยืนยันว่าความสมบูรณ์โครงสร้างไม่ได้รับผลกระทบ แรงสั่นทำให้หินบางก้อนหลุดและทำให้เคลวิน ไทเลอร์บาดเจ็บ แต่สบายใจได้ เขาฟื้นตัวดี ส่วนพื้นที่ใกล้ประตูหลุมอุกกาบาตยังห้ามเข้าในขณะนี้ หากมีข้อกังวลเพิ่มเติมติดต่อมาได้&lt;br&gt;&lt;br&gt;-ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775160</Data></Cell>
+    <Cell><Data ss:Type="String">Re: 911 - New Typhon?</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: 911 - ไทฟอนใหม่?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775161</Data></Cell>
+    <Cell><Data ss:Type="String">STOP what you are doing immediately! We will send a team to investigate.&lt;br&gt;-Kenneth&lt;br&gt;_______________&lt;br&gt;From: Brian Chung&lt;br&gt;To: Kenneth McAllister &lt;br&gt;Subject: New Typhon?&lt;br&gt;&lt;br&gt;Kenneth,&lt;br&gt;MoonWorks has been experiencing minor quakes so I sent one of my miners to investigate. We were discussing the findings over TranScribe when he shouted that the rocks came alive under his feet. That's when the transmission went dead. Evidence points to Typhon activity, but I have no idea where the Typhon is now so I'm quarantining that area.&lt;br&gt;-Brian</Data></Cell>
+    <Cell><Data ss:Type="String">หยุดสิ่งที่กำลังทำทันที! เราจะส่งทีมไปตรวจสอบ&lt;br&gt;-เคนเนธ&lt;br&gt;_______________&lt;br&gt;จาก: ไบรอัน ชุง&lt;br&gt;ถึง: เคนเนธ แมคอัลลิสเตอร์ &lt;br&gt;หัวเรื่อง: ไทฟอนใหม่?&lt;br&gt;&lt;br&gt;เคนเนธ&lt;br&gt;มูนเวิร์กส์มีแรงสั่นเล็ก ๆ ฉันเลยส่งคนงานเหมืองไปตรวจ เรากำลังคุยผลผ่านทรานสไครบ์ ตอนเขาตะโกนว่าหินใต้เท้ามีชีวิต แล้วสัญญาณก็ตัด หลักฐานชี้ไปที่กิจกรรมไทฟอน แต่ไม่รู้ว่าตอนนี้มันอยู่ไหน ฉันเลยกักพื้นที่นั้น&lt;br&gt;-ไบรอัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775319</Data></Cell>
+    <Cell><Data ss:Type="String">Re: What's Happening?</Data></Cell>
+    <Cell><Data ss:Type="String">ตอบ: เกิดอะไรขึ้น?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775320</Data></Cell>
+    <Cell><Data ss:Type="String">Morten,&lt;br&gt;You're absolutely right. We're no where near a deep-freeze lunar thaw that would explain thermal quakes, and there have been no meteorite impacts nearby. Blaming natural causes is optimistic.&lt;br&gt;-Ai &lt;br&gt;_______________&lt;br&gt;From: Morten Rytak&lt;br&gt;To: Ai Mizuki &lt;br&gt;Subject: What's Happening?&lt;br&gt;&lt;br&gt;Ai,&lt;br&gt;Brian is blaming natural causes for the quakes, but I think something else is going on. I've been moved from the Crater access machine shop, and I am getting scolded for investigating the quake's so called epicenter. What do you think?&lt;br&gt;-Morten</Data></Cell>
+    <Cell><Data ss:Type="String">มอร์เทน&lt;br&gt;คุณพูดถูก เราไม่ได้ใกล้ช่วงละลายน้ำแข็งลึกบนดวงจันทร์ที่จะอธิบายแรงสั่นจากความร้อน และไม่มีอุกกาบาตตกใกล้ ๆ โทษสาเหตุธรรมชาติถือว่ามองโลกดีเกินไป&lt;br&gt;-ไอ &lt;br&gt;_______________&lt;br&gt;จาก: มอร์เทน รีบัก&lt;br&gt;ถึง: ไอ มิซูกิ &lt;br&gt;หัวเรื่อง: เกิดอะไรขึ้น?&lt;br&gt;&lt;br&gt;ไอ&lt;br&gt;ไบรอันโทษสาเหตุธรรมชาติเรื่องแรงสั่น แต่ฉันคิดว่ามีอย่างอื่นเกิดขึ้น ฉันถูกย้ายจากโรงเครื่องจักรทางเข้าหลุมอุกกาบาต และโดนดุที่ไปตรวจสิ่งที่เรียกว่าใจกลางแรงสั่น คุณคิดยังไง?&lt;br&gt;-มอร์เทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775432</Data></Cell>
+    <Cell><Data ss:Type="String">What's Happening?</Data></Cell>
+    <Cell><Data ss:Type="String">เกิดอะไรขึ้น?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057048043775433</Data></Cell>
+    <Cell><Data ss:Type="String">Ai,&lt;br&gt;Brian is blaming natural causes for the quakes, but I think something else is going on. I've been moved from the Crater access machine shop, and I am getting scolded for investigating the quake's so called epicenter. What do you think?&lt;br&gt;-Morten</Data></Cell>
+    <Cell><Data ss:Type="String">ไอ&lt;br&gt;ไบรอันโทษสาเหตุธรรมชาติเรื่องแรงสั่น แต่ฉันคิดว่ามีอย่างอื่นเกิดขึ้น ฉันถูกย้ายจากโรงเครื่องจักรทางเข้าหลุมอุกกาบาต และโดนดุที่ไปตรวจสิ่งที่เรียกว่าใจกลางแรงสั่น คุณคิดยังไง?&lt;br&gt;-มอร์เทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088949085</Data></Cell>
+    <Cell><Data ss:Type="String">Security Failure</Data></Cell>
+    <Cell><Data ss:Type="String">ความล้มเหลวด้านความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088949086</Data></Cell>
+    <Cell><Data ss:Type="String">All,&lt;br&gt;&lt;br&gt;We need to review our neuromod removal process. V-021651-P01V was returned to his containment cell with enhanced abilities still installed. Unless you want volunteers starting fires or killing security officers, I recommend everyone start taking our protocols more seriously.&lt;br&gt;&lt;br&gt;Kenneth MacAlister, Head of Typhon Sciences</Data></Cell>
+    <Cell><Data ss:Type="String">ทุกคน&lt;br&gt;&lt;br&gt;เราต้องทบทวนกระบวนการถอดนิวโรม็อด V-021651-P01V ถูกส่งกลับห้องกักทั้งที่ความสามารถเสริมยังติดอยู่ ถ้าไม่อยากให้อาสาสมัครจุดไฟหรือฆ่าเจ้าหน้าที่รักษาความปลอดภัย แนะนำให้ทุกคนจริงจังกับโพรโทคอลมากขึ้น&lt;br&gt;&lt;br&gt;เคนเนธ แมคอัลลิสเตอร์ หัวหน้าวิทยาศาสตร์ไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088949175</Data></Cell>
+    <Cell><Data ss:Type="String">Gunshots?</Data></Cell>
+    <Cell><Data ss:Type="String">เสียงปืน?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088949176</Data></Cell>
+    <Cell><Data ss:Type="String">What’s  going on over there? We hear live fire, are you shooting volunteers!? Right in the labs?! Our security shutters are still stuck open over here Hugo, a stray bullet into the weapons lab would level the facility! I’m contacting Riley. </Data></Cell>
+    <Cell><Data ss:Type="String">เกิดอะไรขึ้นข้างนั้น? เราได้ยินยิงจริง พวกคุณกำลังยิงอาสาสมัครเหรอ!? ในแล็บเลยหรือ?! ประตูกันกระสุนฝั่งเรายังค้างเปิด ฮูโก กระสุนหลงเข้าห้องแล็บอาวุธทีเดียวศูนย์นี้ราบได้! ฉันจะติดต่อไรลีย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088951463</Data></Cell>
+    <Cell><Data ss:Type="String">Psychostatic Cutter</Data></Cell>
+    <Cell><Data ss:Type="String">เครื่องตัดไซโคสแตติก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088951464</Data></Cell>
+    <Cell><Data ss:Type="String">Excising material from the typhon for neural development may become easier as we fabricate the psychostatic cutter. The premise is a bit obtuse but in layman’s terms, we’re recycling the psi in heavily upgraded volunteers and dumping it into a surgical tool that we can use to harvest exotic materials from the typhon without the current hurdles.&lt;br&gt;&lt;br&gt;I’ll get you involved as our prototype comes on line.&lt;br&gt;&lt;br&gt;-Ken</Data></Cell>
+    <Cell><Data ss:Type="String">การตัดวัสดุจากไทฟอนเพื่อพัฒนาประสาทอาจง่ายขึ้นเมื่อเราผลิตเครื่องตัดไซโคสแตติก แนวคิดค่อนข้างเข้าใจยาก แต่พูดง่าย ๆ คือ เรารีไซเคิลพลังไซจากอาสาสมัครที่อัปเกรดหนัก แล้วป้อนเข้าเครื่องมือผ่าตัดที่ใช้เก็บวัสดุเอ็กโซติกจากไทฟอนได้โดยไม่ติดข้อจำกัดเดิม&lt;br&gt;&lt;br&gt;ฉันจะดึงคุณเข้ามาเมื่อเครื่องต้นแบบออนไลน์&lt;br&gt;&lt;br&gt;-เคน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088951623</Data></Cell>
+    <Cell><Data ss:Type="String">Project Genesis</Data></Cell>
+    <Cell><Data ss:Type="String">โครงการเจเนซิส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725088951624</Data></Cell>
+    <Cell><Data ss:Type="String">Director Yu,&lt;br&gt;&lt;br&gt;We have compiled data from Project Genesis but results are discouraging.&lt;br&gt;&lt;br&gt;First the good news: Subjects in the test exhibited a never-before encountered pattern of synaptic activity that is easily detected and processed via the psychoscope. As long as we have living subjects, observation can continue and results will be easily analyzed.&lt;br&gt;&lt;br&gt;Generating the living subjects is another matter. The source volunteer must have their psionic aptitude pushed to levels that have proven lethal for most subjects. Even if they survive the installation process and are cleared for Genesis, the psyche appears too fragile to manage the load, resulting in hyper-aggression and mania. After several research personnel were injured, the process was modified for remote observation.&lt;br&gt;&lt;br&gt;Dr. Meng Tsai&lt;br&gt;Pytheas Typhon Sciences</Data></Cell>
+    <Cell><Data ss:Type="String">ผู้อำนวยการยู&lt;br&gt;&lt;br&gt;เรารวบรวมข้อมูลจากโครงการเจเนซิสแล้ว แต่ผลไม่ค่อยดี&lt;br&gt;&lt;br&gt;ข่าวดีก่อน: ผู้ถูกทดสอบแสดงรูปแบบกิจกรรมไซแนปส์ที่ไม่เคยพบมาก่อน ตรวจจับและประมวลผลผ่านไซโคสโคปได้ง่าย ตราบใดที่มีผู้ถูกทดสอบมีชีวิต การสังเกตทำต่อได้และวิเคราะห์ผลได้ง่าย&lt;br&gt;&lt;br&gt;การสร้างผู้ถูกทดสอบมีชีวิตเป็นอีกเรื่อง อาสาสมัครต้นทางต้องถูกดันความสามารถพลังไซไปถึงระดับที่พิสูจน์แล้วว่าเป็นอันตรายถึงชีวิตสำหรับส่วนใหญ่ ต่อให้รอดขั้นติดตั้งและผ่านเจเนซิส สภาพจิตก็ดูเปราะเกินรับภาระ ทำให้ก้าวร้าวรุนแรงและคลุ้มคลั่ง หลังเจ้าหน้าที่วิจัยหลายคนบาดเจ็บ กระบวนการถูกปรับให้สังเกตระยะไกล&lt;br&gt;&lt;br&gt;ดร.เมิ่ง ไช่&lt;br&gt;วิทยาศาสตร์ไทฟอน ไพธีอัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991805535</Data></Cell>
+    <Cell><Data ss:Type="String">Warning</Data></Cell>
+    <Cell><Data ss:Type="String">คำเตือน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564991805536</Data></Cell>
+    <Cell><Data ss:Type="String">Someone is talking. Now Elazar is sniffing around my operation up here. They found a link to Pytheas. Heat is coming your way. Prepare.</Data></Cell>
+    <Cell><Data ss:Type="String">มีคนปากโป้ง ตอนนี้เอลาซาร์เริ่มดมกลิ่นปฏิบัติการของฉันข้างบน พวกเขาพบร่องรอยเชื่อมถึงไพธีอัส ความร้อนกำลังมาทางคุณ เตรียมตัว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>73</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>90</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

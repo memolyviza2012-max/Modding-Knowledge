@@ -1,0 +1,1900 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Quin Matteson</LastAuthor>
+  <LastSaved>2016-11-02T21:36:30Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13620</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="279" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="510.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="521.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560798</Data></Cell>
+    <Cell><Data ss:Type="String">Serving the Board Members</Data></Cell>
+    <Cell><Data ss:Type="String">บริการคณะกรรมการ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560799</Data></Cell>
+    <Cell><Data ss:Type="String">Attention kitchen staff, &lt;br&gt; Board members are visiting again, so it's time to break out the good stuff. If there's anything left over, we'll raffle it off like last time.</Data></Cell>
+    <Cell><Data ss:Type="String">ถึงพนักงานครัว, &lt;br&gt;คณะกรรมการมาเยี่ยมอีกแล้ว ถึงเวลาเอาของดีออกมา ถ้ามีเหลือ เราจะจับฉลากกันเหมือนคราวก่อน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560800</Data></Cell>
+    <Cell><Data ss:Type="String">Hire Date</Data></Cell>
+    <Cell><Data ss:Type="String">วันที่เริ่มงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560801</Data></Cell>
+    <Cell><Data ss:Type="String">New code = hire date.</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสใหม่ = วันที่เริ่มงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560802</Data></Cell>
+    <Cell><Data ss:Type="String">First Game!</Data></Cell>
+    <Cell><Data ss:Type="String">เกมแรก!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560803</Data></Cell>
+    <Cell><Data ss:Type="String">Danielle,&lt;br&gt;Missed you! Leaving your character sheet here, but I have a spare in case you don't make it back before the game. And don't worry! It looks great! See you at the Rec Center!&lt;br&gt;-Abby</Data></Cell>
+    <Cell><Data ss:Type="String">แดเนียลล์,&lt;br&gt;คิดถึงนะ! ฉันวางแผ่นตัวละครไว้ให้ตรงนี้ แต่มีสำรองเผื่อเธอกลับมาไม่ทันเกม ไม่ต้องห่วง! มันดูดีมาก! เจอกันที่ศูนย์นันทนาการ!&lt;br&gt;-แอบบี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560806</Data></Cell>
+    <Cell><Data ss:Type="String">The Ogre's Keep</Data></Cell>
+    <Cell><Data ss:Type="String">ป้อมยักษ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560807</Data></Cell>
+    <Cell><Data ss:Type="String">- Remember Blind Ogres can call for help w/ gongs &lt;br&gt; - Try to distract Flagdasterous from using white gem against necro &lt;br&gt; - +1 lock bonus to whoever figures out Dryp's riddle</Data></Cell>
+    <Cell><Data ss:Type="String">- จำไว้ ยักษ์ตาบอดเรียกพวกด้วยฆ้องได้ &lt;br&gt; - พยายามเบี่ยงความสนใจแฟลกแดสเทอรัสไม่ให้ใช้อัญมณีขาวใส่เนโคร &lt;br&gt; - ใครไขปริศนาของดริปได้ รับโบนัสสะเดาะกุญแจ +1</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560808</Data></Cell>
+    <Cell><Data ss:Type="String">Character Name: Captain Stabfellow</Data></Cell>
+    <Cell><Data ss:Type="String">ชื่อตัวละคร: กัปตันสแท็บเฟลโลว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560809</Data></Cell>
+    <Cell><Data ss:Type="String">Captain Stabfellow</Data></Cell>
+    <Cell><Data ss:Type="String">กัปตันสแท็บเฟลโลว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560810</Data></Cell>
+    <Cell><Data ss:Type="String">Character Name: Rosalyn Swyft</Data></Cell>
+    <Cell><Data ss:Type="String">ชื่อตัวละคร: โรซาลิน สวิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560811</Data></Cell>
+    <Cell><Data ss:Type="String">Rosalyn Swyft</Data></Cell>
+    <Cell><Data ss:Type="String">โรซาลิน สวิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560812</Data></Cell>
+    <Cell><Data ss:Type="String">Character Name: Melindra Shadowcorner</Data></Cell>
+    <Cell><Data ss:Type="String">ชื่อตัวละคร: เมลินดรา แชโดว์คอร์เนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560813</Data></Cell>
+    <Cell><Data ss:Type="String">Melindra Shadowcorner</Data></Cell>
+    <Cell><Data ss:Type="String">เมลินดรา แชโดว์คอร์เนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560814</Data></Cell>
+    <Cell><Data ss:Type="String">Character Name: Hordinbaffle Flagdasterous</Data></Cell>
+    <Cell><Data ss:Type="String">ชื่อตัวละคร: ฮอร์ดินแบฟเฟิล แฟลกแดสเทอรัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560815</Data></Cell>
+    <Cell><Data ss:Type="String">Hordinbaffle Flagdasterous</Data></Cell>
+    <Cell><Data ss:Type="String">ฮอร์ดินแบฟเฟิล แฟลกแดสเทอรัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560816</Data></Cell>
+    <Cell><Data ss:Type="String">Friday Night</Data></Cell>
+    <Cell><Data ss:Type="String">คืนวันศุกร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560817</Data></Cell>
+    <Cell><Data ss:Type="String">Todo: &lt;br&gt;* Find missing transcribe. Check theater.&lt;br&gt;&lt;br&gt;* get my stuff from Abby's cabin.&lt;br&gt;&lt;br&gt;* finish draft of apology letter.&lt;br&gt;&lt;br&gt;* Pull head out of ass / prioritize relationships over work.</Data></Cell>
+    <Cell><Data ss:Type="String">สิ่งที่ต้องทำ: &lt;br&gt;* หาทรานสไครบ์ที่หาย เช็กโรงละคร&lt;br&gt;&lt;br&gt;* เอาของฉันจากห้องพักแอบบี&lt;br&gt;&lt;br&gt;* ร่างจดหมายขอโทษให้เสร็จ&lt;br&gt;&lt;br&gt;* เลิกเอาแต่หมกหัว / ให้ความสัมพันธ์สำคัญกว่างาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560818</Data></Cell>
+    <Cell><Data ss:Type="String">Abby's Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่านของแอบบี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560819</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560820</Data></Cell>
+    <Cell><Data ss:Type="String">I'm Sorry</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560821</Data></Cell>
+    <Cell><Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - I'm not good at this. That's obvious. Words words blah</Data></Cell>
+    <Cell><Data ss:Type="String">[โน้ตเขียนมือยับยู่ยี่และยังเขียนไม่จบ]&lt;br&gt;&lt;br&gt;แอบบี - ฉันไม่เก่งเรื่องนี้ เห็นได้ชัด คำพูด คำพูด บลา ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560822</Data></Cell>
+    <Cell><Data ss:Type="String">I'm Sorry</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560823</Data></Cell>
+    <Cell><Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - It felt more personal to write you a note. But still not as terrifying as trying to apologize to you in person. I know I'm a coward but I don't trust what I'm going to say so</Data></Cell>
+    <Cell><Data ss:Type="String">[โน้ตเขียนมือยับยู่ยี่และยังเขียนไม่จบ]&lt;br&gt;&lt;br&gt;แอบบี - ฉันคิดว่าการเขียนโน้ตให้เธอมันดูเป็นส่วนตัวกว่า แต่ก็ยังน่ากลัวน้อยกว่าพยายามขอโทษต่อหน้า ฉันรู้ว่าฉันขี้ขลาด แต่ฉันไม่ไว้ใจว่าตัวเองจะพูดอะไรออกไป เลย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560824</Data></Cell>
+    <Cell><Data ss:Type="String">I'm Sorry</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560825</Data></Cell>
+    <Cell><Data ss:Type="String">[A crumpled and incomplete hand-written note]&lt;br&gt;&lt;br&gt;Abby - Sometimes the words come running out of your mouth and you want to catch them all but it's too late. They're out there. I-</Data></Cell>
+    <Cell><Data ss:Type="String">[โน้ตเขียนมือยับยู่ยี่และยังเขียนไม่จบ]&lt;br&gt;&lt;br&gt;แอบบี - บางครั้งคำพูดก็วิ่งออกจากปาก แล้วเธออยากจับมันกลับทั้งหมดแต่สายเกินไป มันออกไปแล้ว ฉัน-</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560826</Data></Cell>
+    <Cell><Data ss:Type="String">Lost your transcribe again?</Data></Cell>
+    <Cell><Data ss:Type="String">ทำทรานสไครบ์หายอีกแล้ว?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560827</Data></Cell>
+    <Cell><Data ss:Type="String">Hey, you've apparently misplaced your transcribe again. Just wanted you to know I still have some of your stuff in my room. Don't know if you want it back. Call me or something. - Abby</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ ดูเหมือนเธอทำทรานสไครบ์หายอีกแล้ว แค่อยากบอกว่าของของเธอบางอย่างยังอยู่ในห้องฉัน ไม่รู้ว่าอยากได้คืนไหม โทรมาหรืออะไรก็ได้ - แอบบี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560828</Data></Cell>
+    <Cell><Data ss:Type="String">Package Pick Up</Data></Cell>
+    <Cell><Data ss:Type="String">รับพัสดุ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560829</Data></Cell>
+    <Cell><Data ss:Type="String">Anders, your package arrived. Front desk. If I'm not here, the code %key% on the gate. I won't tell anyone if you don't.</Data></Cell>
+    <Cell><Data ss:Type="String">แอนเดอร์ส พัสดุนายมาถึงแล้ว โต๊ะหน้า ถ้าฉันไม่อยู่ รหัสประตูคือ %key% ฉันไม่บอกใคร ถ้านายไม่บอก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560830</Data></Cell>
+    <Cell><Data ss:Type="String">The Yellow Tulip</Data></Cell>
+    <Cell><Data ss:Type="String">เยลโลว์ทิวลิป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560831</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;The Yellow Tulip&lt;/b&gt;&lt;br&gt;&lt;br&gt;Join us for a private celebration of TranStar's success.&lt;br&gt;&lt;br&gt;7:00 PM Alex Toast and Review&lt;br&gt;8:00 PM Crew Demonstration (Skye Braxton and Danielle Sho)&lt;br&gt;&lt;br&gt;Crew Facilities, 2nd Floor Mezzanine. </Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;เยลโลว์ทิวลิป&lt;/b&gt;&lt;br&gt;&lt;br&gt;ขอเชิญร่วมฉลองความสำเร็จของทรานสตาร์แบบส่วนตัว&lt;br&gt;&lt;br&gt;19:00 อเล็กซ์กล่าวอวยพรและทบทวนผลงาน&lt;br&gt;20:00 การแสดงของลูกเรือ (สกาย แบร็กซ์ตัน และแดเนียลล์ โช)&lt;br&gt;&lt;br&gt;สิ่งอำนวยความสะดวกลูกเรือ ชั้นลอยชั้น 2</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560832</Data></Cell>
+    <Cell><Data ss:Type="String">Fitness Center Code</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสศูนย์ฟิตเนส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560833</Data></Cell>
+    <Cell><Data ss:Type="String">Bill, if you're injured or sick, you get a pass. Otherwise it is 75 min of exercise per week. MINIMUM. Code to gym is %key%. In case you forgot.</Data></Cell>
+    <Cell><Data ss:Type="String">บิล ถ้าบาดเจ็บหรือป่วยก็ยกเว้นได้ นอกนั้นต้องออกกำลังกาย 75 นาทีต่อสัปดาห์ อย่างน้อย รหัสยิมคือ %key% เผื่อนายลืม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560840</Data></Cell>
+    <Cell><Data ss:Type="String">Mysterious Note</Data></Cell>
+    <Cell><Data ss:Type="String">โน้ตปริศนา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560841</Data></Cell>
+    <Cell><Data ss:Type="String">You might need this. &lt;p&gt;%key% &lt;p&gt;-M</Data></Cell>
+    <Cell><Data ss:Type="String">คุณอาจต้องใช้นี่ &lt;p&gt;%key% &lt;p&gt;-M</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560858</Data></Cell>
+    <Cell><Data ss:Type="String">STILL WRONG</Data></Cell>
+    <Cell><Data ss:Type="String">ยังผิดอยู่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560859</Data></Cell>
+    <Cell><Data ss:Type="String">Projector colors are STILL WRONG.&lt;br&gt;- Dr. Igwe</Data></Cell>
+    <Cell><Data ss:Type="String">สีโปรเจกเตอร์ยังผิดอยู่&lt;br&gt;- ดร.อิกเว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560864</Data></Cell>
+    <Cell><Data ss:Type="String">Standup Notes</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกประชุมยืน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560865</Data></Cell>
+    <Cell><Data ss:Type="String">Test for 3/24&lt;br&gt;- Re-order tests&lt;br&gt;- Lucia on observation (see Bellamy)&lt;br&gt;- FLAMMABILITY TESTS CANCELED &lt;u&gt;INDEFINITELY&lt;/u&gt;&lt;br&gt;- Alex wants to greet Morgan before test.</Data></Cell>
+    <Cell><Data ss:Type="String">ทดสอบวันที่ 3/24&lt;br&gt;- จัดลำดับการทดสอบใหม่&lt;br&gt;- ลูเซียอยู่ระหว่างสังเกตการณ์ (ดูเบลลามี)&lt;br&gt;- ยกเลิกการทดสอบการติดไฟ &lt;u&gt;ไม่มีกำหนด&lt;/u&gt;&lt;br&gt;- อเล็กซ์อยากทักมอร์แกนก่อนทดสอบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560868</Data></Cell>
+    <Cell><Data ss:Type="String">Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่าน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560869</Data></Cell>
+    <Cell><Data ss:Type="String">password: %password%</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่าน: %password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560870</Data></Cell>
+    <Cell><Data ss:Type="String">Delivery for Debrief</Data></Cell>
+    <Cell><Data ss:Type="String">ของส่งสำหรับสรุปผล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560871</Data></Cell>
+    <Cell><Data ss:Type="String">Manufacturing Order NO. 65489&lt;br&gt;Deliver To: Marco Simmons&lt;br&gt;From: Fabrication Dept.&lt;br&gt;&lt;br&gt;SKU# TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;Marking this entire SKU as defective. Investigate w/ Fabrication&lt;/i&gt; - Marco</Data></Cell>
+    <Cell><Data ss:Type="String">คำสั่งผลิตเลขที่ 65489&lt;br&gt;ส่งถึง: มาร์โก ซิมมอนส์&lt;br&gt;จาก: ฝ่ายการผลิต&lt;br&gt;&lt;br&gt;SKU# TSNM008x3&lt;br&gt;&lt;br&gt;&lt;i&gt;ทำเครื่องหมาย SKU นี้ทั้งชุดว่าเสีย ตรวจสอบกับฝ่ายการผลิต&lt;/i&gt; - มาร์โก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560874</Data></Cell>
+    <Cell><Data ss:Type="String">Policy Reminder</Data></Cell>
+    <Cell><Data ss:Type="String">เตือนนโยบาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560875</Data></Cell>
+    <Cell><Data ss:Type="String">It's come to our attention that some volunteers are gambling with their rations, as well as with contraband being smuggled in from the outside. This is a reminder that only game chips can be used for card games. Inspections will be increased to twice weekly. Thank you for your cooperation.</Data></Cell>
+    <Cell><Data ss:Type="String">เราพบว่าอาสาสมัครบางคนพนันด้วยเสบียงอาหาร รวมถึงของเถื่อนที่ลักลอบเข้ามาจากภายนอก ขอเตือนว่าเกมไพ่ใช้เดิมพันได้เฉพาะชิปเกมเท่านั้น จะเพิ่มการตรวจเป็นสัปดาห์ละสองครั้ง ขอบคุณที่ให้ความร่วมมือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560878</Data></Cell>
+    <Cell><Data ss:Type="String">Activity Log</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกกิจกรรม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560879</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;(Feb 22nd, 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 - Sleeping&lt;br&gt;07:31 - Wakes up, turns off alarm&lt;br&gt;07:32 - Checks transcribe&lt;br&gt;07:34-07:55 - On computer, various tasks&lt;br&gt;08:04 - Takes shower&lt;br&gt;08:26 - Puts on uniform, exits apartment.&lt;br&gt;&lt;br&gt;&lt;b&gt;(Feb 23nd, 2035):&lt;/b&gt;&lt;BR&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;(22 ก.พ. 2035):&lt;/b&gt;&lt;br&gt;00:00-07:30 - หลับ&lt;br&gt;07:31 - ตื่น ปิดนาฬิกาปลุก&lt;br&gt;07:32 - เช็กทรานสไครบ์&lt;br&gt;07:34-07:55 - ใช้คอมพิวเตอร์ ทำงานหลายอย่าง&lt;br&gt;08:04 - อาบน้ำ&lt;br&gt;08:26 - ใส่เครื่องแบบ ออกจากอพาร์ตเมนต์&lt;br&gt;&lt;br&gt;&lt;b&gt;(23 ก.พ. 2035):&lt;/b&gt;&lt;BR&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560884</Data></Cell>
+    <Cell><Data ss:Type="String">Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่าน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560885</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560886</Data></Cell>
+    <Cell><Data ss:Type="String">Congrats!</Data></Cell>
+    <Cell><Data ss:Type="String">ยินดีด้วย!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560887</Data></Cell>
+    <Cell><Data ss:Type="String">Congrats Morgan!&lt;br&gt;&lt;br&gt;-Alex</Data></Cell>
+    <Cell><Data ss:Type="String">ยินดีด้วย มอร์แกน!&lt;br&gt;&lt;br&gt;-อเล็กซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560888</Data></Cell>
+    <Cell><Data ss:Type="String">ATTN: Fabrication Workers</Data></Cell>
+    <Cell><Data ss:Type="String">ถึง: พนักงานฝ่ายการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560889</Data></Cell>
+    <Cell><Data ss:Type="String">REMINDER: Workers on the fabrication floor must scrub up to their elbows before entering the gowning area. NO EXCEPTIONS!  - J. Graves&lt;br&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">เตือน: พนักงานในพื้นที่การผลิตต้องล้างแขนถึงข้อศอกก่อนเข้าพื้นที่สวมชุด ไม่มีข้อยกเว้น!  - เจ. เกรฟส์&lt;br&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560892</Data></Cell>
+    <Cell><Data ss:Type="String">The Cameras</Data></Cell>
+    <Cell><Data ss:Type="String">กล้อง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560893</Data></Cell>
+    <Cell><Data ss:Type="String">They see us with the cameras!</Data></Cell>
+    <Cell><Data ss:Type="String">พวกมันเห็นเราผ่านกล้อง!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560894</Data></Cell>
+    <Cell><Data ss:Type="String">Map: Maint Tunnel</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่: อุโมงค์ซ่อมบำรุง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560895</Data></Cell>
+    <Cell><Data ss:Type="String">Divya, I'm trying to get into Graves' office to override the door to fabrication! I have his keycard but he's not responding. If you don't hear from me there's another way out. There's a passage behind a panel in the upper labs. It leads to the volunteer quarters. You should be able to escape that way. I also managed to figure out the access code and password for the security station near the entrance.&lt;br&gt;Code: %key%&lt;br&gt;Password:%password%&lt;br&gt; Good luck!&lt;br&gt;&lt;br&gt; - Frederick</Data></Cell>
+    <Cell><Data ss:Type="String">ดิฟยา ฉันกำลังพยายามเข้าไปในสำนักงานเกรฟส์เพื่อปลดล็อกประตูฝ่ายการผลิต! ฉันมีคีย์การ์ดเขา แต่เขาไม่ตอบ ถ้าเธอไม่ได้ข่าวจากฉัน ยังมีทางออกอีกทาง มีทางเดินหลังแผงในแล็บชั้นบน มันไปถึงเขตที่พักอาสาสมัคร เธอน่าจะหนีทางนั้นได้ ฉันยังหารหัสเข้าและรหัสผ่านของสถานีรักษาความปลอดภัยใกล้ทางเข้าได้แล้ว&lt;br&gt;รหัส: %key%&lt;br&gt;รหัสผ่าน:%password%&lt;br&gt; โชคดี!&lt;br&gt;&lt;br&gt; - เฟรเดอริก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560896</Data></Cell>
+    <Cell><Data ss:Type="String">Volunteer Security Keycode</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสรักษาความปลอดภัยอาสาสมัคร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560897</Data></Cell>
+    <Cell><Data ss:Type="String">Yuri, %key%. Memorize and destroy this. </Data></Cell>
+    <Cell><Data ss:Type="String">ยูริ, %key% จำให้ได้แล้วทำลายนี่ทิ้ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560898</Data></Cell>
+    <Cell><Data ss:Type="String">Some tips for tomorrow</Data></Cell>
+    <Cell><Data ss:Type="String">คำแนะนำสำหรับพรุ่งนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560899</Data></Cell>
+    <Cell><Data ss:Type="String">Patricia, I hear you're taking my spot tomorrow. Some things to keep in mind.&lt;br&gt;&lt;br&gt;- Be in place by 8:50 AM, simulation time&lt;br&gt;- Don't talk to the subject&lt;br&gt;-Make sure the doors to the backstage are locked.&lt;br&gt;-Don't bother the observation techs, they get cranky after long shifts.</Data></Cell>
+    <Cell><Data ss:Type="String">แพทริเซีย ได้ยินว่าพรุ่งนี้เธอมาแทนฉัน มีเรื่องต้องจำไว้&lt;br&gt;&lt;br&gt;- เข้าประจำที่ก่อน 8:50 AM ตามเวลาจำลอง&lt;br&gt;- อย่าคุยกับผู้ถูกทดสอบ&lt;br&gt;-ตรวจให้แน่ใจว่าประตูหลังเวทีล็อกอยู่&lt;br&gt;-อย่ากวนช่างสังเกตการณ์ พวกเขาหงุดหงิดหลังทำกะยาว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560900</Data></Cell>
+    <Cell><Data ss:Type="String">Sorry Morgan</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษนะ มอร์แกน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560901</Data></Cell>
+    <Cell><Data ss:Type="String">Sorry Morgan. Not sure how you managed this, but I can't let you have this keycard. Trust me. You'd regret it. - Alex</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษนะ มอร์แกน ไม่รู้ว่าคุณทำแบบนี้ได้ยังไง แต่ฉันปล่อยให้คุณได้คีย์การ์ดนี้ไปไม่ได้ เชื่อฉันเถอะ คุณจะเสียใจ - อเล็กซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560902</Data></Cell>
+    <Cell><Data ss:Type="String">Items Confiscated in Latest Shakedown</Data></Cell>
+    <Cell><Data ss:Type="String">ของที่ยึดได้จากการตรวจค้นล่าสุด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560903</Data></Cell>
+    <Cell><Data ss:Type="String">- Recycling charges x3&lt;br&gt;- Wiring&lt;br&gt;- Plastic Tubing&lt;br&gt;- Flask Bourbon x2&lt;br&gt;- Case of Cigars&lt;br&gt;&lt;br&gt;John, I'd take this stuff pretty seriously. I've already alerted Alex to the nature of this contraband. We're taking V-010655-37 out of here. Cigars and booze are one thing, but we can't have volunteers stockpiling stolen recylcer charges. What do you think he plans to do?&lt;br&gt;&lt;br&gt;- Bowser</Data></Cell>
+    <Cell><Data ss:Type="String">- รีไซเคิลชาร์จ x3&lt;br&gt;- สายไฟ&lt;br&gt;- ท่อพลาสติก&lt;br&gt;- ขวดเบอร์เบิน x2&lt;br&gt;- กล่องซิการ์&lt;br&gt;&lt;br&gt;จอห์น ผมว่าควรเอาเรื่องนี้จริงจัง ผมแจ้งอเล็กซ์เรื่องของเถื่อนพวกนี้แล้ว เราจะเอา V-010655-37 ออกจากที่นี่ ซิการ์กับเหล้ายังเรื่องหนึ่ง แต่ปล่อยให้อาสาสมัครกักตุนรีไซเคิลชาร์จที่ขโมยมาคงไม่ได้ คุณคิดว่าเขาวางแผนจะทำอะไร?&lt;br&gt;&lt;br&gt;- บาวเซอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560906</Data></Cell>
+    <Cell><Data ss:Type="String">Medical Station Missing Operator</Data></Cell>
+    <Cell><Data ss:Type="String">โอเปอเรเตอร์สถานีแพทย์หาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560907</Data></Cell>
+    <Cell><Data ss:Type="String">Wade - PLEASE PLEASE PLEASE with a cherry on top fix the Medical Operator that's been sitting on your desk? &lt;br&gt;-Goldcrest</Data></Cell>
+    <Cell><Data ss:Type="String">เวด - ได้โปรด ได้โปรด ได้โปรด ช่วยซ่อมโอเปอเรเตอร์แพทย์ที่นั่งอยู่บนโต๊ะนายที? &lt;br&gt;-โกลด์เครสต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560912</Data></Cell>
+    <Cell><Data ss:Type="String">Summoning a Medical Operator</Data></Cell>
+    <Cell><Data ss:Type="String">เรียกโอเปอเรเตอร์แพทย์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560913</Data></Cell>
+    <Cell><Data ss:Type="String">Dr. Sellers,&lt;br&gt;&lt;br&gt;Medical Operator Dispenser, new pw = %password%. Sorry, we had to replace the console.&lt;br&gt;-Chris</Data></Cell>
+    <Cell><Data ss:Type="String">ดร.เซลเลอร์ส,&lt;br&gt;&lt;br&gt;เครื่องจ่ายโอเปอเรเตอร์แพทย์ รหัสผ่านใหม่ = %password% ขอโทษ เราต้องเปลี่ยนคอนโซล&lt;br&gt;-คริส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560922</Data></Cell>
+    <Cell><Data ss:Type="String">Observation Log</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกสังเกตการณ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560923</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;SUBJECT:&lt;/b&gt; Trevor J. Young&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;Subject appears disorientated, paranoid. Not sure how much of current behavior is due to the incident versus his recent Neuromod removals. Recommend continued observation.&lt;br&gt;&lt;br&gt;Mathias Kohl</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ผู้ถูกทดสอบ:&lt;/b&gt; เทรเวอร์ เจ. ยัง&lt;br&gt;&lt;b&gt;วันที่:&lt;/b&gt; 02.20.35&lt;br&gt;&lt;br&gt;ผู้ถูกทดสอบดูสับสน หวาดระแวง ยังไม่แน่ใจว่าพฤติกรรมปัจจุบันมาจากเหตุการณ์มากน้อยแค่ไหน เทียบกับการถอดนิวโรม็อดล่าสุด แนะนำให้สังเกตการณ์ต่อ&lt;br&gt;&lt;br&gt;มาเทียส โคล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560946</Data></Cell>
+    <Cell><Data ss:Type="String">Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่าน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560947</Data></Cell>
+    <Cell><Data ss:Type="String"> %password% </Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560948</Data></Cell>
+    <Cell><Data ss:Type="String">Game Night</Data></Cell>
+    <Cell><Data ss:Type="String">คืนเล่นเกม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560949</Data></Cell>
+    <Cell><Data ss:Type="String">Elias,&lt;br&gt;You left your character sheet on the printer.  Don't forget we moved the game to the rec center in Crew Facilities and it's an hour later than usual.  Do us a favor and take a happy pill before showing up.  See you there.  </Data></Cell>
+    <Cell><Data ss:Type="String">อีไลอัส,&lt;br&gt;นายทิ้งแผ่นตัวละครไว้บนเครื่องพิมพ์ อย่าลืมว่าเราย้ายเกมไปศูนย์นันทนาการในสิ่งอำนวยความสะดวกลูกเรือ และเริ่มช้ากว่าปกติหนึ่งชั่วโมง ช่วยกินยาอารมณ์ดีมาก่อนด้วยนะ เจอกัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560950</Data></Cell>
+    <Cell><Data ss:Type="String">Holding Room</Data></Cell>
+    <Cell><Data ss:Type="String">ห้องควบคุมตัว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560951</Data></Cell>
+    <Cell><Data ss:Type="String">Demetri's being held like you asked.  He knew the door code so I changed it to %key%.</Data></Cell>
+    <Cell><Data ss:Type="String">เรากักดีมิทรีไว้ตามที่คุณขอ เขารู้รหัสประตู ผมเลยเปลี่ยนเป็น %key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560952</Data></Cell>
+    <Cell><Data ss:Type="String">Officer Bowser's Statement</Data></Cell>
+    <Cell><Data ss:Type="String">คำให้การของเจ้าหน้าที่บาวเซอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560953</Data></Cell>
+    <Cell><Data ss:Type="String">Ms Elazar,&lt;br&gt;I don't know what I saw but I was just trying to do my job. Now I worry I might not get a chance to talk to you so I'm writing this. I don't recall the last time I was scared, but what happened in Sim...&lt;br&gt;I can't get it out of my head.&lt;br&gt;Whatever is happening, I want to help, not sit here in this room. &lt;br&gt;I'm starting to feel like people on station haven't been shooting straight. Like what do they actually do in Psychotronics? No one I talk to goes in there. And Yuri Kimura has un-numbered Neuromods in her office that I thought you should know about. </Data></Cell>
+    <Cell><Data ss:Type="String">คุณเอลาซาร์,&lt;br&gt;ผมไม่รู้ว่าเห็นอะไร ผมแค่พยายามทำงานของตัวเอง ตอนนี้กลัวว่าจะไม่มีโอกาสได้คุยกับคุณ เลยเขียนนี่ไว้ ผมจำไม่ได้ด้วยซ้ำว่าครั้งสุดท้ายที่กลัวคือเมื่อไหร่ แต่สิ่งที่เกิดในแล็บจำลอง...&lt;br&gt;ผมเอามันออกจากหัวไม่ได้&lt;br&gt;ไม่ว่าเกิดอะไรขึ้น ผมอยากช่วย ไม่ใช่นั่งอยู่ในห้องนี้ &lt;br&gt;ผมเริ่มรู้สึกว่าคนบนสถานีไม่ได้พูดความจริงกัน อย่างไซโคทรอนิกส์จริง ๆ ทำอะไรกันแน่? ไม่มีใครที่ผมคุยด้วยเข้าไปในนั้นเลย แล้วในสำนักงานยูริ คิมูระยังมีนิวโรม็อดที่ไม่มีหมายเลข ซึ่งผมคิดว่าคุณควรรู้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560954</Data></Cell>
+    <Cell><Data ss:Type="String">Bellamy's Move Notice</Data></Cell>
+    <Cell><Data ss:Type="String">ประกาศย้ายสำนักงานของเบลลามี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560955</Data></Cell>
+    <Cell><Data ss:Type="String">Staff:&lt;br&gt;Please move these remaining boxes to my new office in Neuromod Div as soon as feasible.</Data></Cell>
+    <Cell><Data ss:Type="String">ถึงพนักงาน:&lt;br&gt;โปรดย้ายกล่องที่เหลือเหล่านี้ไปสำนักงานใหม่ของผมในฝ่ายนิวโรม็อดโดยเร็วที่สุด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560962</Data></Cell>
+    <Cell><Data ss:Type="String">Positive Departmental Review</Data></Cell>
+    <Cell><Data ss:Type="String">ผลประเมินแผนกยอดเยี่ยม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560963</Data></Cell>
+    <Cell><Data ss:Type="String">Please relay the following to the security crew at the next staff meeting. &quot;Earthside sent a very good appraisal of our provisioning and cargo staff during last month's visit by a Board of Directors member. Talos cargo staff performed admirably during the inspection. Well done.&quot; Keep up the good work!</Data></Cell>
+    <Cell><Data ss:Type="String">โปรดแจ้งทีมรักษาความปลอดภัยในการประชุมพนักงานครั้งหน้าว่า &quot;ฝ่ายภาคพื้นโลกส่งผลประเมินที่ดีมากเกี่ยวกับทีมจัดเตรียมและขนส่งสินค้าของเรา จากการเยี่ยมของสมาชิกคณะกรรมการเมื่อเดือนก่อน ทีมสินค้าทาลอสทำผลงานได้ยอดเยี่ยมระหว่างการตรวจสอบ ทำได้ดีมาก&quot; รักษามาตรฐานนี้ต่อไป!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560964</Data></Cell>
+    <Cell><Data ss:Type="String">Contraband Search</Data></Cell>
+    <Cell><Data ss:Type="String">ค้นหาของเถื่อน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560965</Data></Cell>
+    <Cell><Data ss:Type="String">Suspected contraband in container 3232 near G.U.T.S. Use code %key% to enter and search. Report findings ASAP.</Data></Cell>
+    <Cell><Data ss:Type="String">สงสัยว่ามีของเถื่อนในตู้สินค้า 3232 ใกล้จี.ยู.ที.เอส. ใช้รหัส %key% เข้าไปค้น แล้วรายงานสิ่งที่พบโดยเร็ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560986</Data></Cell>
+    <Cell><Data ss:Type="String">We need to put a stop to this!</Data></Cell>
+    <Cell><Data ss:Type="String">เราต้องหยุดเรื่องนี้!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560987</Data></Cell>
+    <Cell><Data ss:Type="String">Whoever keeps making duplicate items - STOP. Fabricator is not a toy. Materials are not unlimited. - Tim</Data></Cell>
+    <Cell><Data ss:Type="String">ใครก็ตามที่ทำของซ้ำอยู่ - หยุดซะ เครื่องผลิตไม่ใช่ของเล่น วัสดุไม่ได้มีไม่จำกัด - ทิม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560988</Data></Cell>
+    <Cell><Data ss:Type="String">Birthday</Data></Cell>
+    <Cell><Data ss:Type="String">วันเกิด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560989</Data></Cell>
+    <Cell><Data ss:Type="String">Remember Jimmy's birthday is &lt;b&gt;Nov 9&lt;/b&gt;!</Data></Cell>
+    <Cell><Data ss:Type="String">จำไว้ว่าวันเกิดจิมมีคือ &lt;b&gt;9 พ.ย.&lt;/b&gt;!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560990</Data></Cell>
+    <Cell><Data ss:Type="String">Label your food!</Data></Cell>
+    <Cell><Data ss:Type="String">ติดชื่ออาหารด้วย!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560991</Data></Cell>
+    <Cell><Data ss:Type="String">Any unlabeled food will be thrown out Friday!</Data></Cell>
+    <Cell><Data ss:Type="String">อาหารที่ไม่มีป้ายชื่อจะถูกทิ้งวันศุกร์!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560994</Data></Cell>
+    <Cell><Data ss:Type="String">Do not touch!</Data></Cell>
+    <Cell><Data ss:Type="String">ห้ามแตะ!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560995</Data></Cell>
+    <Cell><Data ss:Type="String">WARNING - Please do not touch any of the controls or enter the pod without checking with Franklin.</Data></Cell>
+    <Cell><Data ss:Type="String">คำเตือน - โปรดอย่าแตะส่วนควบคุมใด ๆ หรือเข้าแคปซูลโดยไม่เช็กกับแฟรงคลินก่อน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560996</Data></Cell>
+    <Cell><Data ss:Type="String">Volunteer Flight Schedule</Data></Cell>
+    <Cell><Data ss:Type="String">ตารางเที่ยวบินอาสาสมัคร</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887560997</Data></Cell>
+    <Cell><Data ss:Type="String">Shuttle Exalt Flight Schedule - Week of the 19th&lt;br&gt;Pilot: Hunter Hale&lt;br&gt;&lt;br&gt;02-19-35 - Arrival Time 06:00AM&lt;br&gt;New Hires &amp; Care Packages&lt;br&gt;&lt;br&gt;02-20-35 - Maintenance&lt;br&gt;&lt;br&gt;02-21-35 - Departure Time 07:00AM&lt;br&gt;Board Members&lt;br&gt;&lt;br&gt;02-22-35 - Arrival Time 07:00AM&lt;br&gt;No Cargo&lt;br&gt;&lt;br&gt;02-23-35 - Departure Time 08:00AM&lt;br&gt;Volunteer Passengers &amp; Crew Packages</Data></Cell>
+    <Cell><Data ss:Type="String">ตารางเที่ยวบินกระสวยเอ็กซอลต์ - สัปดาห์วันที่ 19&lt;br&gt;นักบิน: ฮันเตอร์ เฮล&lt;br&gt;&lt;br&gt;02-19-35 - เวลาถึง 06:00AM&lt;br&gt;พนักงานใหม่ &amp; พัสดุส่วนตัว&lt;br&gt;&lt;br&gt;02-20-35 - ซ่อมบำรุง&lt;br&gt;&lt;br&gt;02-21-35 - เวลาออก 07:00AM&lt;br&gt;สมาชิกคณะกรรมการ&lt;br&gt;&lt;br&gt;02-22-35 - เวลาถึง 07:00AM&lt;br&gt;ไม่มีสินค้า&lt;br&gt;&lt;br&gt;02-23-35 - เวลาออก 08:00AM&lt;br&gt;ผู้โดยสารอาสาสมัคร &amp; พัสดุลูกเรือ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561010</Data></Cell>
+    <Cell><Data ss:Type="String">Container 3553</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้สินค้า 3553</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561011</Data></Cell>
+    <Cell><Data ss:Type="String">Todd stowed 3553 before it was completely empty. If you feel like a snack...</Data></Cell>
+    <Cell><Data ss:Type="String">ท็อดด์เก็บ 3553 เข้าที่ก่อนจะเอาของออกหมด ถ้าอยากหาอะไรกิน...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561020</Data></Cell>
+    <Cell><Data ss:Type="String">Reployer</Data></Cell>
+    <Cell><Data ss:Type="String">รีพลอยเยอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561021</Data></Cell>
+    <Cell><Data ss:Type="String">Locked out until I update my credentials. How about %password% ? Won't forget that any time soon.</Data></Cell>
+    <Cell><Data ss:Type="String">ถูกล็อกจนกว่าจะอัปเดตข้อมูลรับรอง ใช้ %password% ดีไหม? คราวนี้คงไม่ลืมง่าย ๆ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561022</Data></Cell>
+    <Cell><Data ss:Type="String">That Time Again</Data></Cell>
+    <Cell><Data ss:Type="String">ถึงเวลาอีกแล้ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561023</Data></Cell>
+    <Cell><Data ss:Type="String">Hey Jessica, login with %password% if you need access to the cages. Don't tell anyone. It'll make me look stupid.</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ เจสสิกา ถ้าต้องเข้ากรง ล็อกอินด้วย %password% อย่าบอกใครนะ เดี๋ยวฉันดูโง่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561024</Data></Cell>
+    <Cell><Data ss:Type="String">Cargo Cages</Data></Cell>
+    <Cell><Data ss:Type="String">กรงสินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561025</Data></Cell>
+    <Cell><Data ss:Type="String">Send someone to find a cutting torch. We need to get into these cargo cages and see what supplies are in here. -Sarah</Data></Cell>
+    <Cell><Data ss:Type="String">ส่งใครไปหาเครื่องตัดไฟ เราต้องเปิดกรงสินค้าพวกนี้แล้วดูว่ามีเสบียงอะไรบ้าง -ซาราห์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561030</Data></Cell>
+    <Cell><Data ss:Type="String">Food &amp; Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">อาหาร &amp; เสบียง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561031</Data></Cell>
+    <Cell><Data ss:Type="String">I've gathered all the supplies I could find and it looks like we have enough food to hold out for several days as long as we are rationing. Here is an inventory: &lt;br&gt;3 bananas (use these first, they are going bad) &lt;br&gt;2 pomegranates &lt;br&gt;2 Dim Sum &lt;br&gt;1 Cookie box &lt;br&gt;1 Fish Sticks&lt;br&gt;5 Unagi Rolls &lt;br&gt;3 Udon noodles &lt;br&gt;1 Veggie blend &lt;br&gt;1 Jellied eels (gross) &lt;br&gt;1 Caviar &lt;br&gt;We have all the water we need as long as the fountain  keeps working.</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันรวบรวมเสบียงทั้งหมดที่หาได้ ดูแล้วเรามีอาหารพออยู่ได้หลายวันถ้าปันส่วน นี่คือรายการ: &lt;br&gt;กล้วย 3 ลูก (กินก่อน กำลังเสีย) &lt;br&gt;ทับทิม 2 ลูก &lt;br&gt;ติ่มซำ 2 &lt;br&gt;คุกกี้ 1 กล่อง &lt;br&gt;ฟิชสติ๊ก 1&lt;br&gt;อุนางิโรล 5 &lt;br&gt;อูด้ง 3 &lt;br&gt;ผักรวม 1 &lt;br&gt;ปลาไหลเยลลี 1 (แหวะ) &lt;br&gt;คาเวียร์ 1 &lt;br&gt;น้ำมีเท่าที่ต้องการ ตราบใดที่น้ำพุยังทำงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561032</Data></Cell>
+    <Cell><Data ss:Type="String">Accident Report</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานอุบัติเหตุ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561033</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;i&gt;To be completed within 6 hours of incident&lt;/i&gt;&lt;br&gt;&lt;br&gt;Date:&lt;br&gt;Time:&lt;br&gt;Location: Fuel Storage&lt;br&gt;&lt;br&gt;Details of Incident:&lt;br&gt;The accident occurred during fuel transfer. The blast walls held. Now the blast door is closed and the damage contained, but we lost some crew in there. Power has been knocked out to multiple cargo systems. Can't get the resources I need to get in there; everyone is tied up. I don't know why I'm filling this out, except I don't know what else to do at this point. Talos is falling apart...&lt;br&gt;&lt;br&gt;Damaged Equipment:&lt;br&gt;Damage Extent:&lt;br&gt;&lt;br&gt;Injured Persons:&lt;br&gt;Injury Type:&lt;br&gt;&lt;br&gt;Prepared By:&lt;br&gt;Date:</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;i&gt;ต้องกรอกภายใน 6 ชั่วโมงหลังเกิดเหตุ&lt;/i&gt;&lt;br&gt;&lt;br&gt;วันที่:&lt;br&gt;เวลา:&lt;br&gt;สถานที่: คลังเชื้อเพลิง&lt;br&gt;&lt;br&gt;รายละเอียดเหตุการณ์:&lt;br&gt;อุบัติเหตุเกิดระหว่างถ่ายโอนเชื้อเพลิง ผนังกันระเบิดรับไว้ได้ ตอนนี้ประตูกันระเบิดปิดแล้วและควบคุมความเสียหายไว้ แต่เราเสียลูกเรือไปบางคน ระบบสินค้าหลายส่วนไฟดับ ผมหาทรัพยากรที่ต้องใช้เพื่อเข้าไปไม่ได้ ทุกคนติดงานหมด ไม่รู้เหมือนกันว่าทำไมยังนั่งกรอกนี่อยู่ แค่ไม่รู้จะทำอะไรแล้วตอนนี้ ทาลอสกำลังพัง...&lt;br&gt;&lt;br&gt;อุปกรณ์เสียหาย:&lt;br&gt;ระดับความเสียหาย:&lt;br&gt;&lt;br&gt;ผู้บาดเจ็บ:&lt;br&gt;ประเภทอาการบาดเจ็บ:&lt;br&gt;&lt;br&gt;ผู้จัดทำ:&lt;br&gt;วันที่:</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561040</Data></Cell>
+    <Cell><Data ss:Type="String">Thorstein's Safe Code Clue</Data></Cell>
+    <Cell><Data ss:Type="String">คำใบ้รหัสตู้เซฟธอร์สไตน์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561041</Data></Cell>
+    <Cell><Data ss:Type="String">If you forget the code...</Data></Cell>
+    <Cell><Data ss:Type="String">ถ้าลืมรหัส...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561048</Data></Cell>
+    <Cell><Data ss:Type="String">Formula Testing Approved</Data></Cell>
+    <Cell><Data ss:Type="String">อนุมัติทดสอบสูตรแล้ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561049</Data></Cell>
+    <Cell><Data ss:Type="String">Entry 165: I've managed to reduce the growth time to around 10 minutes per fruit. It's remarkable to see them sprout from practically nothing and grow to an edible size and ripeness before my very eyes.&lt;br&gt;More importantly, I finally obtained clearance for wider range testing of the growth formula from Dr. Kelstrup.  All that's left is actually fabricating it, and then inserting it in the sprinkler system. I'm keeping the fabrication plan on my person, as I have no doubt others would love to claim credit for it.&lt;br&gt;- Dr. Julien Howard</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึก 165: ผมลดเวลาเติบโตเหลือราว 10 นาทีต่อผลได้แล้ว น่าทึ่งมากที่เห็นมันงอกจากแทบไม่มีอะไร จนโตถึงขนาดกินได้และสุกต่อหน้าต่อตา&lt;br&gt;ที่สำคัญกว่านั้น ในที่สุดผมก็ได้อนุมัติจาก ดร.เคลสทรัปให้ทดสอบสูตรเร่งโตในวงกว้าง เหลือแค่ผลิตมันจริง ๆ แล้วใส่ลงระบบสปริงเกลอร์ ผมเก็บแปลนการผลิตไว้กับตัว เพราะไม่สงสัยเลยว่าคนอื่นคงอยากแย่งเครดิต&lt;br&gt;- ดร.จูเลียน ฮาวเวิร์ด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561050</Data></Cell>
+    <Cell><Data ss:Type="String">Final approval</Data></Cell>
+    <Cell><Data ss:Type="String">อนุมัติขั้นสุดท้าย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561051</Data></Cell>
+    <Cell><Data ss:Type="String">Julien - Stopped by, but you were out. FYI, reviewed your lab notes. Plants pose no health risk. You should be GTG in Arboretum. -Hans</Data></Cell>
+    <Cell><Data ss:Type="String">จูเลียน - แวะมาแต่คุณไม่อยู่ FYI ผมอ่านบันทึกแล็บแล้ว พืชไม่เป็นอันตรายต่อสุขภาพ คุณพร้อมใช้ในสวนพฤกษศาสตร์ได้ -ฮันส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561052</Data></Cell>
+    <Cell><Data ss:Type="String">Memorize and Destroy</Data></Cell>
+    <Cell><Data ss:Type="String">จำแล้วทำลาย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561053</Data></Cell>
+    <Cell><Data ss:Type="String">Feed this to an Eng Operator after you memorize. Group workstation's password: %password%.</Data></Cell>
+    <Cell><Data ss:Type="String">เอานี่ให้โอเปอเรเตอร์วิศวกรรมกินหลังจำแล้ว รหัสผ่านเวิร์กสเตชันส่วนกลาง: %password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561054</Data></Cell>
+    <Cell><Data ss:Type="String">Danielle's Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่านของแดเนียลล์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561055</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561056</Data></Cell>
+    <Cell><Data ss:Type="String">Maintenance Log</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกซ่อมบำรุง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561057</Data></Cell>
+    <Cell><Data ss:Type="String">IMPORTANT!&lt;br&gt;Log every time you enter the maintenance crawlspace through the access panel.&lt;br&gt;&lt;br&gt;- Leaky Pipe (fixed). - R. Wood&lt;br&gt;- Unexplained light flicker. Unable to locate source. Power grid OK. - R. Wood&lt;br&gt;- Electrical device near Machine Shop door unstable. Used local adhesive for temporary fix. - R. Wood.&lt;br&gt;&lt;br&gt;- *Note* In case of emergency, head into the maintenance crawlspace via the small access panel below to shut off local power. Notify me immediately. - R. Wood</Data></Cell>
+    <Cell><Data ss:Type="String">สำคัญ!&lt;br&gt;บันทึกทุกครั้งที่เข้าไปในช่องคลานซ่อมบำรุงผ่านแผงทางเข้า&lt;br&gt;&lt;br&gt;- ท่อรั่ว (ซ่อมแล้ว) - อาร์. วูด&lt;br&gt;- ไฟกะพริบโดยไม่ทราบสาเหตุ หาต้นเหตุไม่พบ โครงข่ายไฟฟ้าปกติ - อาร์. วูด&lt;br&gt;- อุปกรณ์ไฟฟ้าใกล้ประตูโรงเครื่องจักรไม่เสถียร ใช้กาวในพื้นที่แก้ชั่วคราว - อาร์. วูด&lt;br&gt;&lt;br&gt;- *หมายเหตุ* กรณีฉุกเฉิน ให้เข้าช่องคลานซ่อมบำรุงผ่านแผงเล็กด้านล่างเพื่อปิดไฟในพื้นที่ แจ้งผมทันที - อาร์. วูด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561062</Data></Cell>
+    <Cell><Data ss:Type="String">Surveillance Report: Dr. Annalise Gallegos</Data></Cell>
+    <Cell><Data ss:Type="String">รายงานเฝ้าระวัง: ดร.แอนนาลีส กาเยโกส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561063</Data></Cell>
+    <Cell><Data ss:Type="String">Subject: Dr. Annalise Gallegos &lt;br&gt;Prepared by: Officer Maliah Fowles &lt;br&gt;For: Alex Yu &lt;br&gt;&lt;br&gt;Known associate: &lt;b&gt;Quinten Purvis&lt;/b&gt; (Engineer, Life Support) &lt;br&gt;Known associate: &lt;b&gt;William Mitchell&lt;/b&gt; (Chef, Crew Quarters)&lt;br&gt;&lt;br&gt;08:05AM     Subject left private quarters. Presumably to report for first shift. Verified with Psychotronics Security.&lt;br&gt;09:13AM     Subject returned to private quarters during shift hours. Reason unknown.&lt;br&gt;09:21AM     Quinten Purvis was observed entering subject's quarters.&lt;br&gt;09:45AM     Quinten Purvis left subject's quarters. Observed carrying a portable drive.&lt;br&gt;10:01AM     Subject left private quarters, walked to cafeteria and was admitted to kitchen by Chef Will Mitchell.&lt;br&gt;10:15AM     Subject left Crew Quarters. Verified with Psychotronics Security subject reported back to workstation.&lt;br&gt;07:47PM     Subject returned to Crew Quarters. Took meal into room.</Data></Cell>
+    <Cell><Data ss:Type="String">เป้าหมาย: ดร.แอนนาลีส กาเยโกส &lt;br&gt;จัดทำโดย: เจ้าหน้าที่มาลิอาห์ ฟาวล์ส &lt;br&gt;สำหรับ: อเล็กซ์ ยู &lt;br&gt;&lt;br&gt;ผู้ติดต่อที่ทราบ: &lt;b&gt;ควินเทน เพอร์วิส&lt;/b&gt; (วิศวกร, ระบบพยุงชีพ) &lt;br&gt;ผู้ติดต่อที่ทราบ: &lt;b&gt;วิลเลียม มิตเชลล์&lt;/b&gt; (เชฟ, เขตที่พักลูกเรือ)&lt;br&gt;&lt;br&gt;08:05AM     เป้าหมายออกจากห้องพักส่วนตัว คาดว่าไปรายงานตัวกะแรก ยืนยันกับฝ่ายรักษาความปลอดภัยไซโคทรอนิกส์&lt;br&gt;09:13AM     เป้าหมายกลับห้องพักระหว่างเวลากะ ไม่ทราบเหตุผล&lt;br&gt;09:21AM     พบควินเทน เพอร์วิสเข้าห้องพักของเป้าหมาย&lt;br&gt;09:45AM     ควินเทน เพอร์วิสออกจากห้องพักของเป้าหมาย พบว่าถือไดรฟ์พกพา&lt;br&gt;10:01AM     เป้าหมายออกจากห้องพัก เดินไปโรงอาหาร และเชฟวิล มิตเชลล์เปิดให้เข้าครัว&lt;br&gt;10:15AM     เป้าหมายออกจากเขตที่พักลูกเรือ ยืนยันกับฝ่ายรักษาความปลอดภัยไซโคทรอนิกส์ว่าเป้าหมายกลับเวิร์กสเตชันแล้ว&lt;br&gt;07:47PM     เป้าหมายกลับเขตที่พักลูกเรือ นำอาหารเข้าไปกินในห้อง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561064</Data></Cell>
+    <Cell><Data ss:Type="String">New Guy</Data></Cell>
+    <Cell><Data ss:Type="String">คนใหม่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561065</Data></Cell>
+    <Cell><Data ss:Type="String">Make sure to let the new guy in.  %key%</Data></Cell>
+    <Cell><Data ss:Type="String">อย่าลืมเปิดให้คนใหม่เข้า  %key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561066</Data></Cell>
+    <Cell><Data ss:Type="String">Safe</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้เซฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561067</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561068</Data></Cell>
+    <Cell><Data ss:Type="String">safe</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้เซฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561069</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561070</Data></Cell>
+    <Cell><Data ss:Type="String">Action Plan</Data></Cell>
+    <Cell><Data ss:Type="String">แผนดำเนินการ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561071</Data></Cell>
+    <Cell><Data ss:Type="String">Akande&lt;br&gt;Chief Sho says you've been great. Your corrective is closed. I'm very impressed. We'll be getting you that workstation ASAP.&lt;br&gt;-Sarah</Data></Cell>
+    <Cell><Data ss:Type="String">อาคานเด&lt;br&gt;หัวหน้าโชบอกว่าคุณทำได้ดีมาก มาตรการแก้ไขของคุณสิ้นสุดแล้ว ฉันประทับใจมาก เราจะจัดเวิร์กสเตชันให้โดยเร็ว&lt;br&gt;-ซาราห์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561072</Data></Cell>
+    <Cell><Data ss:Type="String">Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">เช็กลิสต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561073</Data></Cell>
+    <Cell><Data ss:Type="String">*Check in with Chief Sho&lt;br&gt;*Sign for firearm&lt;br&gt;*Check displays for tampering&lt;br&gt;*Walk the entire area&lt;br&gt;*Check all rooms&lt;br&gt;*Get someone to wash the Security Booth windows.</Data></Cell>
+    <Cell><Data ss:Type="String">*รายงานตัวกับหัวหน้าโช&lt;br&gt;*เซ็นรับอาวุธปืน&lt;br&gt;*ตรวจจอว่าถูกแก้ไขหรือไม่&lt;br&gt;*เดินตรวจทั่วพื้นที่&lt;br&gt;*ตรวจทุกห้อง&lt;br&gt;*หาใครมาล้างหน้าต่างป้อมรักษาความปลอดภัย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561074</Data></Cell>
+    <Cell><Data ss:Type="String">Ammo Order</Data></Cell>
+    <Cell><Data ss:Type="String">สั่งกระสุน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561075</Data></Cell>
+    <Cell><Data ss:Type="String">Akande&lt;br&gt;Who approved your request for shotgun rounds? We all agree there's something in here, but please don't damage the equip.&lt;br&gt; D. Sho</Data></Cell>
+    <Cell><Data ss:Type="String">อาคานเด&lt;br&gt;ใครอนุมัติคำขอกระสุนปืนลูกซองของคุณ? เราทุกคนเห็นตรงกันว่ามีบางอย่างอยู่ในนี้ แต่ช่วยอย่าทำอุปกรณ์เสียหาย&lt;br&gt; ดี. โช</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561076</Data></Cell>
+    <Cell><Data ss:Type="String">In Memoriam: Right Hallux</Data></Cell>
+    <Cell><Data ss:Type="String">แด่ความทรงจำ: นิ้วหัวแม่เท้าขวา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561077</Data></Cell>
+    <Cell><Data ss:Type="String">Date of Incident: October 21st, 2034&lt;br&gt;Employee: Lily Morris&lt;br&gt;Description: Recycler charge went off with my foot in range. The organic material that was once a part of me is now neatly compacted into this sphere you see before you. Take heed.</Data></Cell>
+    <Cell><Data ss:Type="String">วันที่เกิดเหตุ: 21 ตุลาคม 2034&lt;br&gt;พนักงาน: ลิลี มอร์ริส&lt;br&gt;คำอธิบาย: รีไซเคิลชาร์จระเบิดตอนเท้าฉันอยู่ในระยะ วัสดุอินทรีย์ที่เคยเป็นส่วนหนึ่งของฉัน ตอนนี้ถูกอัดอย่างเรียบร้อยเป็นทรงกลมที่เห็นตรงหน้า จงจำไว้เป็นบทเรียน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561078</Data></Cell>
+    <Cell><Data ss:Type="String">Ivy's Pass</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสของไอวี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561079</Data></Cell>
+    <Cell><Data ss:Type="String">Ivy: %password%</Data></Cell>
+    <Cell><Data ss:Type="String">ไอวี: %password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561082</Data></Cell>
+    <Cell><Data ss:Type="String">Supply Code</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสคลัง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561083</Data></Cell>
+    <Cell><Data ss:Type="String">FYI - storage room near the grav shaft has extra 02 tanks. %key%. &lt;br&gt;-Nicole</Data></Cell>
+    <Cell><Data ss:Type="String">FYI - ห้องเก็บของใกล้ปล่องแรงโน้มถ่วงมีถัง 02 สำรอง %key% &lt;br&gt;-นิโคล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561084</Data></Cell>
+    <Cell><Data ss:Type="String">Lifts shutdown</Data></Cell>
+    <Cell><Data ss:Type="String">ปิดลิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561085</Data></Cell>
+    <Cell><Data ss:Type="String">Shut down the grav shafts to keep them from spreading. Utilty on my computer -  tooling room lower level. -Scott</Data></Cell>
+    <Cell><Data ss:Type="String">ปิดปล่องแรงโน้มถ่วงเพื่อกันไม่ให้พวกมันแพร่ ใช้ยูทิลิตีในคอมฉัน - ห้องเครื่องมือชั้นล่าง -สกอตต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561086</Data></Cell>
+    <Cell><Data ss:Type="String">LS Security Booth Safe Code</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสตู้เซฟป้อมรักษาความปลอดภัยระบบพยุงชีพ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561087</Data></Cell>
+    <Cell><Data ss:Type="String">Do not share w/ Weber. %key%</Data></Cell>
+    <Cell><Data ss:Type="String">ห้ามบอกเวเบอร์ %key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561088</Data></Cell>
+    <Cell><Data ss:Type="String">To whoever find this...</Data></Cell>
+    <Cell><Data ss:Type="String">ถึงคนที่เจอนี่...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561089</Data></Cell>
+    <Cell><Data ss:Type="String">Stash in the hall by the escape pods. No time to rig a drop. Good luck. -EV</Data></Cell>
+    <Cell><Data ss:Type="String">ของซ่อนอยู่ในโถงข้างแคปซูลหนีภัย ไม่มีเวลาทำจุดส่ง ขอให้โชคดี -EV</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561092</Data></Cell>
+    <Cell><Data ss:Type="String">Experimental Work Permit</Data></Cell>
+    <Cell><Data ss:Type="String">ใบอนุญาตงานทดลอง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561093</Data></Cell>
+    <Cell><Data ss:Type="String">The supervisor authorizing this request certifies that all safety factors have been considered and are satisfactory.&lt;br&gt;&lt;br&gt;Department Requesting: Psychotronics&lt;br&gt;Request Prepared by: Dr. Tobias Frost&lt;br&gt;&lt;br&gt;AREA OF WORK: &lt;br&gt;Life Support Water Treatment Facility&lt;br&gt;&lt;br&gt;WORK TO BE DONE: &lt;br&gt;Installment of &lt;b&gt;Psychoactive Particle Injector&lt;/b&gt; (henceforth PPI). I would like to get your approval to connect the PPI to the station water supply. In essence the PPI will alter the composition of drinking water by one part per million by mixing exotic particles at regular intervals. Imbibing the water should positively impact psychoactive potential.&lt;br&gt;Approved by:&lt;u&gt; Dr. Hans Kelstrup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Requires Director Signature?: No&lt;br&gt;DIRECTOR SIGNATURE:&lt;u&gt;&lt;/u&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">หัวหน้างานผู้อนุมัติคำขอนี้รับรองว่าได้พิจารณาปัจจัยความปลอดภัยทั้งหมดแล้วและอยู่ในเกณฑ์เหมาะสม&lt;br&gt;&lt;br&gt;แผนกที่ขอ: ไซโคทรอนิกส์&lt;br&gt;ผู้จัดทำคำขอ: ดร.โทไบอัส ฟรอสต์&lt;br&gt;&lt;br&gt;พื้นที่ปฏิบัติงาน: &lt;br&gt;โรงบำบัดน้ำ ระบบพยุงชีพ&lt;br&gt;&lt;br&gt;งานที่จะทำ: &lt;br&gt;ติดตั้ง &lt;b&gt;เครื่องฉีดอนุภาคออกฤทธิ์ทางจิต&lt;/b&gt; (ต่อไปเรียก PPI) ผมขออนุมัติเชื่อม PPI เข้ากับระบบน้ำของสถานี โดยหลักแล้ว PPI จะเปลี่ยนองค์ประกอบน้ำดื่มหนึ่งส่วนในล้านส่วน ด้วยการผสมอนุภาคเอ็กโซติกเป็นช่วง ๆ การดื่มน้ำควรเพิ่มศักยภาพออกฤทธิ์ทางจิต&lt;br&gt;อนุมัติโดย:&lt;u&gt; ดร.ฮันส์ เคลสทรัป&lt;/u&gt;&lt;br&gt;&lt;br&gt;ต้องมีลายเซ็นผู้อำนวยการ?: ไม่&lt;br&gt;ลายเซ็นผู้อำนวยการ:&lt;u&gt;&lt;/u&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561094</Data></Cell>
+    <Cell><Data ss:Type="String">Helpful Supplies</Data></Cell>
+    <Cell><Data ss:Type="String">เสบียงช่วยงาน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561095</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Penny&lt;br&gt;I sent you some goods with this operator. I hope they are helpful in your work. Please share your results with my department when you can. &lt;br&gt;Thanks,&lt;br&gt;Peter Coleman</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี เพนนี&lt;br&gt;ผมส่งของบางอย่างมากับโอเปอเรเตอร์ตัวนี้ หวังว่าจะช่วยงานคุณได้ ถ้ามีเวลา ช่วยแบ่งปันผลลัพธ์กับแผนกผมด้วย &lt;br&gt;ขอบคุณ,&lt;br&gt;ปีเตอร์ โคลแมน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561096</Data></Cell>
+    <Cell><Data ss:Type="String">Subsection Monitor</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวตรวจส่วนย่อย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561097</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;October 1st&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;November 23rd&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   OK&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x  Eric Berger&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;March 5th&lt;/b&gt;&lt;br&gt;Electrical Subsection 19   &lt;i&gt;FAULT DETECTED!&lt;/i&gt;&lt;br&gt;Oxygen Subsection 48   OK&lt;br&gt;Waste Subsection 53   OK&lt;br&gt;Engineer &lt;u&gt;x            ,&lt;/u&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;1 ตุลาคม&lt;/b&gt;&lt;br&gt;ส่วนย่อยไฟฟ้า 19   ปกติ&lt;br&gt;ส่วนย่อยออกซิเจน 48   ปกติ&lt;br&gt;ส่วนย่อยของเสีย 53   ปกติ&lt;br&gt;วิศวกร &lt;u&gt;x  เอริก เบอร์เกอร์&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;23 พฤศจิกายน&lt;/b&gt;&lt;br&gt;ส่วนย่อยไฟฟ้า 19   ปกติ&lt;br&gt;ส่วนย่อยออกซิเจน 48   ปกติ&lt;br&gt;ส่วนย่อยของเสีย 53   ปกติ&lt;br&gt;วิศวกร &lt;u&gt;x  เอริก เบอร์เกอร์&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;5 มีนาคม&lt;/b&gt;&lt;br&gt;ส่วนย่อยไฟฟ้า 19   &lt;i&gt;ตรวจพบความขัดข้อง!&lt;/i&gt;&lt;br&gt;ส่วนย่อยออกซิเจน 48   ปกติ&lt;br&gt;ส่วนย่อยของเสีย 53   ปกติ&lt;br&gt;วิศวกร &lt;u&gt;x            ,&lt;/u&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561098</Data></Cell>
+    <Cell><Data ss:Type="String">RESTRICTED ACCESS</Data></Cell>
+    <Cell><Data ss:Type="String">จำกัดการเข้าถึง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561099</Data></Cell>
+    <Cell><Data ss:Type="String">Cargo Tunnel&lt;i&gt;&lt;br&gt;&lt;b&gt;RESTRICTED ACCESS&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;See Anders Kline in the Magnetosphere Control Room.</Data></Cell>
+    <Cell><Data ss:Type="String">อุโมงค์สินค้า&lt;i&gt;&lt;br&gt;&lt;b&gt;จำกัดการเข้าถึง&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;br&gt;พบแอนเดอร์ส ไคลน์ที่ห้องควบคุมแมกนีโตสเฟียร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561100</Data></Cell>
+    <Cell><Data ss:Type="String">For you</Data></Cell>
+    <Cell><Data ss:Type="String">สำหรับเธอ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561101</Data></Cell>
+    <Cell><Data ss:Type="String">Laurel,&lt;br&gt;Hope you like the flowers. Next time we meet down here, let's wait until we're out of microgravity before opening the champagne. Or not.&lt;br&gt;-Eric</Data></Cell>
+    <Cell><Data ss:Type="String">ลอเรล,&lt;br&gt;หวังว่าจะชอบดอกไม้นะ คราวหน้าเจอกันข้างล่าง รอออกจากสภาวะไมโครกราวิตีก่อนค่อยเปิดแชมเปญกัน หรือไม่ต้องก็ได้&lt;br&gt;-เอริก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561102</Data></Cell>
+    <Cell><Data ss:Type="String">Eel Tank Maintenance Manual</Data></Cell>
+    <Cell><Data ss:Type="String">คู่มือซ่อมบำรุงถังปลาไหล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561103</Data></Cell>
+    <Cell><Data ss:Type="String">[printed from \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;Price Broadway&lt;/b&gt;&lt;br&gt;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-&lt;br&gt;&lt;b&gt;From:&lt;/b&gt; Abigail Foy&lt;br&gt;&lt;b&gt;To:&lt;/b&gt;  Price Broadway&lt;br&gt;&lt;b&gt;Subject:&lt;/b&gt; Eel Tank Procedure&lt;br&gt;Price,&lt;br&gt;Eels do a pretty good job of eating up all the waste. But there's buildup that even the eels can't clean off, so we have to scrape the tank every month. First, run the harvesting utility to clear out any mature eels. The utility is on the tank workstation. When that's done, you can enter the tank. I'd also suggest shutting off the effluent flow valve, unless you just like taking a shower in your coworker's toilet water.&lt;br&gt;&lt;br&gt;And please watch your step. Eels are mostly blind, but they have a nasty bite. And you don't want to get wounded in THAT water, trust me.&lt;br&gt;&lt;br&gt;-Abigail</Data></Cell>
+    <Cell><Data ss:Type="String">[พิมพ์จาก \\vault13.Talos.lan\LS_WaterTreatment]&lt;br&gt;&lt;br&gt;&lt;b&gt;ไพรซ์ บรอดเวย์&lt;/b&gt;&lt;br&gt;----------&lt;br&gt;&lt;b&gt;จาก:&lt;/b&gt; อบิเกล ฟอย&lt;br&gt;&lt;b&gt;ถึง:&lt;/b&gt;  ไพรซ์ บรอดเวย์&lt;br&gt;&lt;b&gt;เรื่อง:&lt;/b&gt; ขั้นตอนถังปลาไหล&lt;br&gt;ไพรซ์,&lt;br&gt;ปลาไหลช่วยกินของเสียได้ดี แต่ยังมีคราบสะสมที่มันทำความสะอาดไม่ได้ เราจึงต้องขูดถังทุกเดือน ก่อนอื่นให้ใช้ยูทิลิตีเก็บเกี่ยวเพื่อเอาปลาไหลโตเต็มวัยออก ยูทิลิตีอยู่บนเวิร์กสเตชันของถัง เมื่อเสร็จแล้วถึงเข้าไปในถังได้ ฉันแนะนำให้ปิดวาล์วน้ำทิ้งด้วย เว้นแต่นายจะชอบอาบน้ำชักโครกของเพื่อนร่วมงาน&lt;br&gt;&lt;br&gt;แล้วระวังเท้าด้วย ปลาไหลเกือบตาบอด แต่มันกัดแรง และนายไม่อยากมีแผลในน้ำนั่น เชื่อฉัน&lt;br&gt;&lt;br&gt;-อบิเกล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561106</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561107</Data></Cell>
+    <Cell><Data ss:Type="String">This is the beginning of the game. You've just put the disk in, downloaded the files, installed the packages, etc. You're sitting in front of a black screen with no expectations.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">นี่คือจุดเริ่มต้นของเกม คุณเพิ่งใส่แผ่น ดาวน์โหลดไฟล์ ติดตั้งแพ็กเกจ และอื่น ๆ ตอนนี้นั่งอยู่หน้าจอดำโดยไม่มีความคาดหวังอะไร&lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561108</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561109</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อมอร์แกน ยู คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า และต้องไปศูนย์ข้อมูลชื่อคลังข้อมูลชั้นลึกเพื่อดาวน์โหลดแปลนกุญแจสั่งทำลายที่คุณซ่อนไว้ คุณยังต้องเอาอีกดอกจากพี่ชาย แต่เอาเรื่องแรกก่อน คลังข้อมูลชั้นลึกอยู่ด้านบนสุดของสถานีต่อจากสวนพฤกษศาสตร์&lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561110</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561111</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key. You'll also have to get a second one from your brother, but first thing's first. In the process of acquiring the plan, you sort of got ejected into space. Breathe shallow and find a way back into the station.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อมอร์แกน ยู คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า จากข้อมูลในวิดีโอ คุณได้แปลนการผลิตสำหรับสร้างกุญแจสั่งทำลาย และยังต้องเอาอีกดอกจากพี่ชาย แต่เอาเรื่องแรกก่อน ระหว่างไปเอาแปลน คุณดันถูกดีดออกสู่อวกาศ หายใจตื้น ๆ แล้วหาทางกลับเข้าสถานี&lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561112</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561113</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell. Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. Once you returned to the station, you had to reboot the main reactor to override your brother's lockdown of the main elevator and airlocks. With all passages open, your brother agreed to hand over his key, if you'd just hear him out in his office. &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อมอร์แกน ยู คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า จากข้อมูลในวิดีโอ คุณได้แปลนการผลิตสำหรับสร้างกุญแจสั่งทำลายและถูกดีดออกสู่อวกาศระหว่างนั้น เมื่อกลับเข้าสถานี คุณต้องรีบูตเตาปฏิกรณ์หลักเพื่อฝ่าการล็อกลิฟต์หลักและแอร์ล็อกของพี่ชาย เมื่อเปิดทางทั้งหมดแล้ว พี่ชายยอมส่งกุญแจให้ หากคุณยอมฟังเขาที่สำนักงาน &lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561114</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561115</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is &lt;b&gt;Morgan Yu&lt;/b&gt;. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and were ejected into space in the process. You returned to the station and rebooted the main reactor to override Alex's lockdown of the main elevator and airlocks. Alex responded by offering an olive branch, hear him out and he'd give you his key.&lt;br&gt; His offer involved watching another video of yourself, a Morgan with a different plan: fabricate a device to nullify the aliens and keep the station in one piece. He then asked one final favor, gather data for him to take the plan closer to reality. After that he would relinquish the key and let you make your choice.&lt;br&gt;Shortly after gathering the data, a complication arrived in the form of Commander Walther Dahl, an enforcer sent by the TranStar board of directors and your parents. Until he's taken out and his tech officer is stopped, no plans can go forward. Another wrinkle - Dahl is the only one who can pilot a shuttle. Knocking him out instead of killing him might be prudent, unless you've got a plan B.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อ &lt;b&gt;มอร์แกน ยู&lt;/b&gt; คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า&lt;br&gt; จากข้อมูลในวิดีโอ คุณได้แปลนการผลิตสำหรับสร้างกุญแจสั่งทำลายและถูกดีดออกสู่อวกาศระหว่างนั้น คุณกลับเข้าสถานี รีบูตเตาปฏิกรณ์หลักเพื่อฝ่าการล็อกลิฟต์หลักและแอร์ล็อกของอเล็กซ์ อเล็กซ์จึงยื่นไมตรีให้: ฟังเขาก่อน แล้วเขาจะมอบกุญแจให้&lt;br&gt; ข้อเสนอของเขาคือให้ดูวิดีโออีกชุดของตัวคุณเอง มอร์แกนที่มีแผนต่างออกไป: สร้างอุปกรณ์นัลเวฟเพื่อลบล้างเอเลียนและรักษาสถานีไว้ จากนั้นเขาขออีกเรื่องสุดท้าย ให้รวบรวมข้อมูลเพื่อทำให้แผนเข้าใกล้ความจริง แล้วเขาจะยอมมอบกุญแจและให้คุณเลือกเอง&lt;br&gt;ไม่นานหลังรวบรวมข้อมูล ปัญหาใหม่ก็มาถึงในรูปของผู้บัญชาการวอลเธอร์ ดาห์ล มือบังคับใช้ที่คณะกรรมการทรานสตาร์และพ่อแม่คุณส่งมา จนกว่าจะจัดการเขาและหยุดเจ้าหน้าที่เทคนิคของเขาได้ ไม่มีแผนไหนเดินหน้าต่อได้ ที่ยุ่งกว่านั้น ดาห์ลเป็นคนเดียวที่ขับกระสวยได้ การทำให้เขาสลบแทนฆ่าอาจฉลาดกว่า เว้นแต่คุณมีแผน B&lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561116</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561117</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell.&lt;br&gt; Using info from the video, you got a fabrication plan to build a self destruct key and negotiated with Alex for his. He only asked that you watch a video where you proposed a plan to use a Null Wave device to disable all of the aliens instead of destroying the station. Along the way, a mercenary named Dahl boarded the station with the directive from the TranStar board to kill everyone and secure research data. The wrinkle is that he's also the only one that can pilot a shuttle and potentially save the people on the station.&lt;br&gt;No sooner had you gotten him out of the way than an alien monstrosity appeared out of nowhere and began attacking the station. You now have access to both fates of the station, and potentially the billions of lives on Earth. No pressure.  &lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. This also determines what happened to Dahl. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อมอร์แกน ยู คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า&lt;br&gt; จากข้อมูลในวิดีโอ คุณได้แปลนการผลิตสำหรับสร้างกุญแจสั่งทำลาย และเจรจากับอเล็กซ์เพื่อเอาของเขา เขาขอเพียงให้คุณดูวิดีโอที่ตัวคุณเสนอแผนใช้อุปกรณ์นัลเวฟเพื่อหยุดเอเลียนทั้งหมดแทนทำลายสถานี ระหว่างทาง ทหารรับจ้างชื่อดาห์ลขึ้นสถานีตามคำสั่งคณะกรรมการทรานสตาร์ให้ฆ่าทุกคนและยึดข้อมูลวิจัย ปัญหาคือเขายังเป็นคนเดียวที่ขับกระสวยได้และอาจช่วยคนบนสถานีได้&lt;br&gt;ทันทีที่คุณจัดการเขาได้ สัตว์ประหลาดเอเลียนก็โผล่มาจากไหนไม่รู้และเริ่มโจมตีสถานี ตอนนี้คุณเข้าถึงชะตากรรมทั้งสองแบบของสถานี และอาจรวมถึงชีวิตนับพันล้านบนโลกด้วย ไม่กดดันเลย  &lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ ตรงนี้ยังกำหนดด้วยว่าเกิดอะไรขึ้นกับดาห์ล หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561118</Data></Cell>
+    <Cell><Data ss:Type="String">The Story So Far</Data></Cell>
+    <Cell><Data ss:Type="String">เรื่องราวจนถึงตอนนี้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561119</Data></Cell>
+    <Cell><Data ss:Type="String">Your name is Morgan Yu. You've awoken in what you thought was your apartment on earth, only to learn that your brother had imprisoned you in an experiment on board a space station of which you both were in charge. After watching a video you left for yourself, you learned that everything on the station has gone to hell, and that you have to get to the data center called Deep Storage in order to download the plan for a self destruct key that you hid there. You'll also have to get a second one from your brother, but first thing's first. Deep Storage is at the top of the station off of the Arboretum.&lt;br&gt;&lt;br&gt;The next set of screens will let you tweak variables if you want. You can opt to run to the end and just jump into the game. Next to the &quot;game start&quot; kiosk is one that will let you give yourself a loadout appropriate to the location you'll be in the campaign.</Data></Cell>
+    <Cell><Data ss:Type="String">คุณชื่อมอร์แกน ยู คุณตื่นขึ้นในสถานที่ที่คิดว่าเป็นอพาร์ตเมนต์บนโลก ก่อนพบว่าพี่ชายขังคุณไว้ในการทดลองบนสถานีอวกาศที่คุณทั้งคู่บริหาร หลังดูวิดีโอที่ตัวเองทิ้งไว้ คุณได้รู้ว่าทุกอย่างบนสถานีพังไม่เป็นท่า และต้องไปศูนย์ข้อมูลชื่อคลังข้อมูลชั้นลึกเพื่อดาวน์โหลดแปลนกุญแจสั่งทำลายที่คุณซ่อนไว้ คุณยังต้องเอาอีกดอกจากพี่ชาย แต่เอาเรื่องแรกก่อน คลังข้อมูลชั้นลึกอยู่ด้านบนสุดของสถานีต่อจากสวนพฤกษศาสตร์&lt;br&gt;&lt;br&gt;หน้าจอถัดไปจะให้ปรับตัวแปรได้ตามต้องการ หรือข้ามไปท้ายสุดแล้วเข้าเกมเลยก็ได้ ข้างคีออสก์ &quot;เริ่มเกม&quot; มีอีกเครื่องที่ให้เลือกชุดอุปกรณ์เหมาะกับตำแหน่งที่คุณจะอยู่ในแคมเปญ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561120</Data></Cell>
+    <Cell><Data ss:Type="String">Air Mixture Regulators</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวควบคุมส่วนผสมอากาศ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561121</Data></Cell>
+    <Cell><Data ss:Type="String">Jose,&lt;br&gt;Annual maintenance is coming up soon on the Air Mixture Regulators in Atmosphere. Let Max know about getting a head start. He has the fabrication plan for them.</Data></Cell>
+    <Cell><Data ss:Type="String">โฮเซ,&lt;br&gt;ใกล้ถึงรอบซ่อมบำรุงประจำปีของตัวควบคุมส่วนผสมอากาศในฝ่ายบรรยากาศแล้ว บอกแม็กซ์ให้เริ่มล่วงหน้าได้เลย เขามีแปลนการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561124</Data></Cell>
+    <Cell><Data ss:Type="String">Lock the Door</Data></Cell>
+    <Cell><Data ss:Type="String">ล็อกประตู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561125</Data></Cell>
+    <Cell><Data ss:Type="String">Kim,&lt;br&gt;Don't forget to lock the door on your way out. The code is %key%.&lt;br&gt;Anders</Data></Cell>
+    <Cell><Data ss:Type="String">คิม,&lt;br&gt;อย่าลืมล็อกประตูก่อนออก รหัสคือ %key%&lt;br&gt;แอนเดอร์ส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561126</Data></Cell>
+    <Cell><Data ss:Type="String">Gloo Gun Viscosity</Data></Cell>
+    <Cell><Data ss:Type="String">ความหนืดปืน GLOO</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561127</Data></Cell>
+    <Cell><Data ss:Type="String">Clive,&lt;br&gt; We need to up the reload speed on the GLOO cannon. The actuators are sloooooow on this thing.&lt;br&gt;&lt;br&gt;Mary</Data></Cell>
+    <Cell><Data ss:Type="String">ไคลฟ์,&lt;br&gt; เราต้องเพิ่มความเร็วรีโหลดของปืน GLOO ตัวขับมันช้าาาาาาาาเกินไป&lt;br&gt;&lt;br&gt;แมรี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561128</Data></Cell>
+    <Cell><Data ss:Type="String">Clive Was Here</Data></Cell>
+    <Cell><Data ss:Type="String">ไคลฟ์เคยมาที่นี่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561129</Data></Cell>
+    <Cell><Data ss:Type="String">Clive Was Here</Data></Cell>
+    <Cell><Data ss:Type="String">ไคลฟ์เคยมาที่นี่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561130</Data></Cell>
+    <Cell><Data ss:Type="String">Warning</Data></Cell>
+    <Cell><Data ss:Type="String">คำเตือน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561131</Data></Cell>
+    <Cell><Data ss:Type="String">Warning: I've sealed several Mimics inside. Two casualties, so maybe as many as eight Mimics.  -Manion</Data></Cell>
+    <Cell><Data ss:Type="String">คำเตือน: ฉันปิดผนึกมิมิกไว้หลายตัวข้างใน มีผู้เสียชีวิตสองคน ดังนั้นอาจมีมิมิกมากถึงแปดตัว  -แมนเนียน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561132</Data></Cell>
+    <Cell><Data ss:Type="String">Greenhouse Checklist</Data></Cell>
+    <Cell><Data ss:Type="String">เช็กลิสต์เรือนกระจก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561133</Data></Cell>
+    <Cell><Data ss:Type="String">-Check phosphate levels of plants in quad 2. &lt;br&gt; -Reduce sprinkler cycle by 5 minutes.&lt;br&gt; -See if Dr. Howard's experimental plants need water. &lt;br&gt; -Dr. Howard changed the greenhouse password to %password%.</Data></Cell>
+    <Cell><Data ss:Type="String">-ตรวจระดับฟอสเฟตของพืชในโซน 2 &lt;br&gt; -ลดรอบสปริงเกลอร์ลง 5 นาที&lt;br&gt; -ดูว่าพืชทดลองของ ดร.ฮาวเวิร์ดต้องการน้ำไหม &lt;br&gt; -ดร.ฮาวเวิร์ดเปลี่ยนรหัสผ่านเรือนกระจกเป็น %password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561134</Data></Cell>
+    <Cell><Data ss:Type="String">Will You?</Data></Cell>
+    <Cell><Data ss:Type="String">แต่งงานกับฉันไหม?</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561135</Data></Cell>
+    <Cell><Data ss:Type="String">Laurel,&lt;br&gt;There comes a time in every man's life when he looks toward the future, our futu [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;Would you do me the honor of accepting this proposition of affection and stupid stupid [&lt;i&gt;eraser marks&lt;/i&gt;]&lt;br&gt;&lt;br&gt;Laurel,&lt;br&gt;[&lt;i&gt;eraser marks&lt;/i&gt;]</Data></Cell>
+    <Cell><Data ss:Type="String">ลอเรล,&lt;br&gt;ชีวิตผู้ชายทุกคนย่อมมีวันที่เขามองไปยังอนาคต อนาคตของเรา [&lt;i&gt;รอยลบ&lt;/i&gt;]&lt;br&gt;&lt;br&gt;ลอเรล,&lt;br&gt;เธอจะให้เกียรติฉันด้วยการรับข้อเสนอแห่งความรักและโง่ โง่ [&lt;i&gt;รอยลบ&lt;/i&gt;]&lt;br&gt;&lt;br&gt;ลอเรล,&lt;br&gt;[&lt;i&gt;รอยลบ&lt;/i&gt;]</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561138</Data></Cell>
+    <Cell><Data ss:Type="String">Hey</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561139</Data></Cell>
+    <Cell><Data ss:Type="String">Can you put these in the safe, plz? &lt;br&gt;THANKS!</Data></Cell>
+    <Cell><Data ss:Type="String">ช่วยเอาพวกนี้ใส่ตู้เซฟให้หน่อยได้ไหม? &lt;br&gt;ขอบคุณ!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561140</Data></Cell>
+    <Cell><Data ss:Type="String">Cheers...</Data></Cell>
+    <Cell><Data ss:Type="String">ชนแก้ว...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561141</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">%password%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561142</Data></Cell>
+    <Cell><Data ss:Type="String">Mr. Glooey McGlooface</Data></Cell>
+    <Cell><Data ss:Type="String">คุณกลูอี แม็กกลูเฟซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561143</Data></Cell>
+    <Cell><Data ss:Type="String">Hello, my name is&lt;br&gt;Mr. Glooey McGlooface</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดี ฉันชื่อ&lt;br&gt;คุณกลูอี แม็กกลูเฟซ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561144</Data></Cell>
+    <Cell><Data ss:Type="String">Urgent Earth Delivery</Data></Cell>
+    <Cell><Data ss:Type="String">พัสดุด่วนไปโลก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561145</Data></Cell>
+    <Cell><Data ss:Type="String">Please deliver ASAP to P.O. Box 1127 in Fresno, California. This is a medical emergency. Your payment has already been transferred and we are both at risk taking this off of the station so please be discreet. I'm trusting you will do the right thing.</Data></Cell>
+    <Cell><Data ss:Type="String">โปรดส่งโดยเร็วไปตู้ ปณ. 1127 เมืองเฟรสโน รัฐแคลิฟอร์เนีย นี่เป็นเหตุฉุกเฉินทางการแพทย์ เงินของคุณถูกโอนแล้ว และเราทั้งคู่เสี่ยงที่เอาของนี้ออกจากสถานี ดังนั้นช่วยทำอย่างแนบเนียน ฉันเชื่อว่าคุณจะทำสิ่งที่ถูกต้อง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561146</Data></Cell>
+    <Cell><Data ss:Type="String">Mom</Data></Cell>
+    <Cell><Data ss:Type="String">แม่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_15373294129887561147</Data></Cell>
+    <Cell><Data ss:Type="String">Mom, I sent some special meds to help. Please follow the instructions carefully. I know you hate needles but believe me, the Neuromods can do miraculous things. I'll contact you soon, but remember not to mention any of this when communicating with me while I'm on Talos. Love you! Emmanuella</Data></Cell>
+    <Cell><Data ss:Type="String">แม่ หนูส่งยาพิเศษไปช่วยแล้ว ทำตามคำแนะนำอย่างเคร่งครัดนะ หนูรู้ว่าแม่เกลียดเข็ม แต่เชื่อหนู นิวโรม็อดทำเรื่องมหัศจรรย์ได้ หนูจะติดต่อเร็ว ๆ นี้ แต่อย่าพูดถึงเรื่องนี้ตอนคุยกับหนูขณะที่หนูอยู่บนทาลอส รักแม่นะ! เอ็มมานูเอลลา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564943509092</Data></Cell>
+    <Cell><Data ss:Type="String">Too Many Drop Points</Data></Cell>
+    <Cell><Data ss:Type="String">จุดส่งของเยอะเกินไป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564943509093</Data></Cell>
+    <Cell><Data ss:Type="String">Eddie Voss made too many of those concealed drop points. Every one he installs multiplies our chances of being found out. Cargo Bay I get, we need that one, as well as the one near me in Hardware Labs. Crew Quarters makes sense as well (I think about it every time I go to the pool now). But putting one in the Arboretum is risky. And putting two... TWO in the Lobby is just bordering on stupid. See if you can talk some sense into him. -Lily</Data></Cell>
+    <Cell><Data ss:Type="String">เอ็ดดี วอสส์ทำจุดซ่อนส่งของไว้เยอะเกินไป ทุกจุดที่เขาติดตั้งเพิ่มโอกาสที่เราจะถูกจับได้ ห้องเก็บสินค้าฉันเข้าใจว่าเราต้องมี รวมถึงจุดใกล้ฉันในห้องแล็บฮาร์ดแวร์ เขตที่พักลูกเรือก็สมเหตุผล (ทุกครั้งที่ไปสระตอนนี้ฉันนึกถึงมัน) แต่ทำจุดหนึ่งในสวนพฤกษศาสตร์ก็เสี่ยงแล้ว และทำสอง... สองจุดในล็อบบี้นี่แทบจะโง่ ช่วยไปพูดให้เขาคิดหน่อย -ลิลี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047996407533</Data></Cell>
+    <Cell><Data ss:Type="String">Blackbox Memorandum</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกโครงการแบล็กบ็อกซ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047996407534</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;CONFIDENTIAL PROGRESS REPORT 10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ATTN: William Yu&lt;br&gt;Department: Hardware Labs&lt;br&gt;Project Lead: Lane Carpenter&lt;br&gt;&lt;br&gt;&lt;b&gt;BLACKBOX PROJECT&lt;/b&gt;&lt;br&gt;The Q-Beam attachment for N-CN9 &quot;Blackbox&quot; Military Operators is progressing ahead of schedule. Development on outstanding tasks has been broken down below:&lt;br&gt;- Micro-cooling plate optimization: 87% complete&lt;br&gt;- Recirculating ambient control: 70% complete&lt;br&gt;&lt;br&gt;As you can see, we are nearly there. Once the cooling system has been optimized and migrated into the Q-Beam firing mechanism, prototypes will be sent Earthside. Testing is proceeding as planned. Preliminary results show promising excitations in the molecular structure of energized systems. Live target not yet tested.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;รายงานความคืบหน้าลับ 10B-3&lt;/i&gt;&lt;/b&gt;&lt;br&gt;ถึง: วิลเลียม ยู&lt;br&gt;แผนก: ห้องแล็บฮาร์ดแวร์&lt;br&gt;หัวหน้าโครงการ: เลน คาร์เพนเตอร์&lt;br&gt;&lt;br&gt;&lt;b&gt;โครงการแบล็กบ็อกซ์&lt;/b&gt;&lt;br&gt;อุปกรณ์เสริมคิวบีมสำหรับโอเปอเรเตอร์ทหาร N-CN9 &quot;แบล็กบ็อกซ์&quot; คืบหน้าเร็วกว่ากำหนด งานที่ยังเหลือแบ่งดังนี้:&lt;br&gt;- ปรับแผ่นระบายความร้อนจิ๋ว: เสร็จ 87%&lt;br&gt;- ควบคุมบรรยากาศหมุนเวียน: เสร็จ 70%&lt;br&gt;&lt;br&gt;อย่างที่เห็น เราใกล้สำเร็จแล้ว เมื่อปรับระบบระบายความร้อนเสร็จและย้ายเข้าไปในกลไกยิงคิวบีม จะส่งต้นแบบลงโลก การทดสอบดำเนินตามแผน ผลเบื้องต้นแสดงการกระตุ้นที่มีแนวโน้มดีในโครงสร้างโมเลกุลของระบบที่ได้รับพลังงาน ยังไม่ได้ทดสอบกับเป้าหมายมีชีวิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564944031208</Data></Cell>
+    <Cell><Data ss:Type="String">If You Find This...</Data></Cell>
+    <Cell><Data ss:Type="String">ถ้าคุณเจอนี่...</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564944031209</Data></Cell>
+    <Cell><Data ss:Type="String">The escape pods didn't work and we believe it was intentional. Those black shapes are everywhere and everyone we know is dead. Or something worse. We aren't going to let that happen to us. To our families, we love you. &lt;br&gt; -Brandi Pester and Jenni Garbentzoff </Data></Cell>
+    <Cell><Data ss:Type="String">แคปซูลหนีภัยใช้ไม่ได้ และเราเชื่อว่ามีคนตั้งใจทำให้เป็นแบบนั้น เงาดำพวกนั้นอยู่ทุกที่ ทุกคนที่เรารู้จักตายหมดแล้ว หรือกลายเป็นอะไรที่แย่กว่านั้น เราจะไม่ยอมให้มันเกิดกับเรา ถึงครอบครัวของเรา เรารักพวกคุณ &lt;br&gt; -แบรนดี เพสเตอร์ และเจนนี การ์เบนต์ซอฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239436472060</Data></Cell>
+    <Cell><Data ss:Type="String">Elias Blacktree</Data></Cell>
+    <Cell><Data ss:Type="String">อีไลอัส แบล็กทรี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239436472061</Data></Cell>
+    <Cell><Data ss:Type="String">Character: Elias Blacktree&lt;br&gt;Player: Elias Black&lt;br&gt;Age: 21&lt;br&gt;Height: 6'1&quot;&lt;br&gt;Description: VERY Handsome&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON: 18&lt;br&gt;Equipment: Sword, flaming vorpal +5 of dancing, +9 vs anyone I dislike&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวละคร: อีไลอัส แบล็กทรี&lt;br&gt;ผู้เล่น: อีไลอัส แบล็ก&lt;br&gt;อายุ: 21&lt;br&gt;ส่วนสูง: 6&apos;1&quot;&lt;br&gt;คำอธิบาย: หล่อมาก&lt;br&gt;STR: 18&lt;br&gt;INT: 18&lt;br&gt;DEX: 18&lt;br&gt;CON: 18&lt;br&gt;อุปกรณ์: ดาบวอร์พอลเพลิง +5 แห่งการร่ายรำ, +9 เมื่อสู้กับทุกคนที่ฉันไม่ชอบ&lt;br&gt;&lt;br&gt;&lt;b&gt;[PLACEHOLDER TEMP TO BE REPLACED BY IMAGE]&lt;/b&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725042793221</Data></Cell>
+    <Cell><Data ss:Type="String">Supplies for Morgan</Data></Cell>
+    <Cell><Data ss:Type="String">เสบียงสำหรับมอร์แกน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725042793222</Data></Cell>
+    <Cell><Data ss:Type="String">Mike, when you're heading up to Exec Suites to fix the cooling system there can you bring Morgan these supplies? Btw the code to the Grav Shaft has changed, it's %key%.&lt;br&gt;&lt;br&gt;Thanks!&lt;br&gt;-Kev</Data></Cell>
+    <Cell><Data ss:Type="String">ไมค์ ตอนขึ้นไปห้องชุดผู้บริหารเพื่อซ่อมระบบทำความเย็น ช่วยเอาเสบียงพวกนี้ไปให้มอร์แกนได้ไหม? อีกอย่าง รหัสปล่องแรงโน้มถ่วงเปลี่ยนแล้ว คือ %key%&lt;br&gt;&lt;br&gt;ขอบคุณ!&lt;br&gt;-เคฟ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239436997438</Data></Cell>
+    <Cell><Data ss:Type="String">Fab-Plan</Data></Cell>
+    <Cell><Data ss:Type="String">แปลนการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_1713490239436997439</Data></Cell>
+    <Cell><Data ss:Type="String">Good Morning Morgan,&lt;br&gt;&lt;br&gt;I got the plan you requested. It's in your safe. &lt;br&gt;&lt;br&gt;Jason</Data></Cell>
+    <Cell><Data ss:Type="String">อรุณสวัสดิ์ มอร์แกน,&lt;br&gt;&lt;br&gt;ผมได้แปลนที่คุณขอแล้ว อยู่ในตู้เซฟของคุณ &lt;br&gt;&lt;br&gt;เจสัน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564945923967</Data></Cell>
+    <Cell><Data ss:Type="String">Reset Memo</Data></Cell>
+    <Cell><Data ss:Type="String">บันทึกรีเซ็ต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564945923968</Data></Cell>
+    <Cell><Data ss:Type="String">Email Indigo the new cargo bay B door code %key% ASAP</Data></Cell>
+    <Cell><Data ss:Type="String">อีเมลรหัสประตูห้องเก็บสินค้า B ใหม่ %key% ให้อินดิโกโดยเร็ว</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725043563284</Data></Cell>
+    <Cell><Data ss:Type="String">Gustav Leitner Results - CONFIDENTIAL</Data></Cell>
+    <Cell><Data ss:Type="String">ผลตรวจ กุสตาฟ ไลต์เนอร์ - ลับ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725043563285</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;SUBJECT: &lt;/b&gt;Gustav Leitner&lt;br&gt;&lt;b&gt;DATE:&lt;/b&gt; [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;Results: &lt;/b&gt;Patient tested positive for Non-Small Cell Lung Cancer. Patient did not list any ailments on their submission form prior to being taken to the skill recorder.&lt;br&gt;&lt;br&gt;Contact this patient immediately. If patient is still on Talos 1, have him report to the Trauma Center as soon as possible.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ผู้ป่วย: &lt;/b&gt;กุสตาฟ ไลต์เนอร์&lt;br&gt;&lt;b&gt;วันที่:&lt;/b&gt; [02.13.35]&lt;br&gt;&lt;br&gt;&lt;b&gt;ผลตรวจ: &lt;/b&gt;ผู้ป่วยตรวจพบมะเร็งปอดชนิดเซลล์ไม่เล็ก ผู้ป่วยไม่ได้ระบุโรคใด ๆ ในแบบฟอร์มก่อนเข้าเครื่องบันทึกทักษะ&lt;br&gt;&lt;br&gt;ติดต่อผู้ป่วยรายนี้ทันที หากผู้ป่วยยังอยู่บนทาลอส 1 ให้มารายงานตัวที่ศูนย์รักษาผู้บาดเจ็บโดยเร็วที่สุด</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047998850697</Data></Cell>
+    <Cell><Data ss:Type="String">Laurel Davis Workstation Password</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสผ่านเวิร์กสเตชันของลอเรล เดวิส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047998850698</Data></Cell>
+    <Cell><Data ss:Type="String">Anders,&lt;br&gt;I had to change the password on my workstation. I'm out tomorrow, so if you need something it's %password%. Let me know if you get locked out.&lt;br&gt;-Laurel</Data></Cell>
+    <Cell><Data ss:Type="String">แอนเดอร์ส,&lt;br&gt;ฉันต้องเปลี่ยนรหัสผ่านเวิร์กสเตชัน พรุ่งนี้ฉันไม่อยู่ ถ้าต้องใช้อะไร รหัสคือ %password% ถ้าเข้าไม่ได้บอกด้วย&lt;br&gt;-ลอเรล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564946455248</Data></Cell>
+    <Cell><Data ss:Type="String">Happy Birthday Izumi!</Data></Cell>
+    <Cell><Data ss:Type="String">สุขสันต์วันเกิด อิซูมิ!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564946455249</Data></Cell>
+    <Cell><Data ss:Type="String">I hope today is memorable and happy!</Data></Cell>
+    <Cell><Data ss:Type="String">ขอให้วันนี้เป็นวันที่น่าจดจำและมีความสุข!</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013219153186</Data></Cell>
+    <Cell><Data ss:Type="String">Delivery Schedule</Data></Cell>
+    <Cell><Data ss:Type="String">ตารางส่งของ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13856881013219153187</Data></Cell>
+    <Cell><Data ss:Type="String">Chef Mitchell expects these things on time or it throws off his menu for the whole week. Half get packed whole. Half get butchered (for jelly).&lt;br&gt;&lt;br&gt;WEEKLY SCHEDULE:&lt;br&gt;Tuesday, 8am &lt;br&gt;Thursday, 4pm&lt;br&gt;Sunday, 12am&lt;br&gt;Friday, Tank Cleaning (No delivery) &lt;br&gt;Tuesday 10am&lt;br&gt;Thursday, 6pm&lt;br&gt;Sunday, 2am</Data></Cell>
+    <Cell><Data ss:Type="String">เชฟมิตเชลล์ต้องการของพวกนี้ตรงเวลา ไม่งั้นเมนูทั้งสัปดาห์จะรวน ครึ่งหนึ่งแพ็กทั้งตัว อีกครึ่งชำแหละ (ทำเยลลี)&lt;br&gt;&lt;br&gt;ตารางประจำสัปดาห์:&lt;br&gt;วันอังคาร 8am &lt;br&gt;วันพฤหัสบดี 4pm&lt;br&gt;วันอาทิตย์ 12am&lt;br&gt;วันศุกร์ ล้างถัง (ไม่ส่งของ) &lt;br&gt;วันอังคาร 10am&lt;br&gt;วันพฤหัสบดี 6pm&lt;br&gt;วันอาทิตย์ 2am</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564946607739</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment Followup</Data></Cell>
+    <Cell><Data ss:Type="String">ติดตามอุปกรณ์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564946607740</Data></Cell>
+    <Cell><Data ss:Type="String">Two people have checked out equipment and failed to return it. &lt;br&gt; -Ari Liudnarht &lt;br&gt;-Roger Meir</Data></Cell>
+    <Cell><Data ss:Type="String">มีสองคนยืมอุปกรณ์แล้วไม่คืน &lt;br&gt; -อารี ลิวด์นาร์ต &lt;br&gt;-โรเจอร์ เมียร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047999439691</Data></Cell>
+    <Cell><Data ss:Type="String">Magnetosphere Safe Keycode</Data></Cell>
+    <Cell><Data ss:Type="String">รหัสตู้เซฟแมกนีโตสเฟียร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047999439692</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">%key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047999440059</Data></Cell>
+    <Cell><Data ss:Type="String">Ballistics Safe</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้เซฟวิถีกระสุน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_761057047999440060</Data></Cell>
+    <Cell><Data ss:Type="String">For Lily,&lt;br&gt;New code is %key%</Data></Cell>
+    <Cell><Data ss:Type="String">สำหรับลิลี,&lt;br&gt;รหัสใหม่คือ %key%</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044646981</Data></Cell>
+    <Cell><Data ss:Type="String">It's a deal</Data></Cell>
+    <Cell><Data ss:Type="String">ตกลงตามนั้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044646982</Data></Cell>
+    <Cell><Data ss:Type="String">Luka is no kontrabandist, I don't know why he has the goods that he has. I can show you where he keeps them. But fair is fair. You want his goods, you look other way with me.&lt;br&gt;&lt;br&gt;-Evgeni</Data></Cell>
+    <Cell><Data ss:Type="String">ลูกาไม่ใช่พวกลักลอบของเถื่อน ฉันไม่รู้ว่าทำไมเขาถึงมีของพวกนั้น ฉันบอกได้ว่าเขาเก็บไว้ที่ไหน แต่ต้องแฟร์ ๆ กัน คุณอยากได้ของเขา ก็ต้องมองข้ามเรื่องของฉัน&lt;br&gt;&lt;br&gt;-เยฟเกนี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044647443</Data></Cell>
+    <Cell><Data ss:Type="String">The Drop Off</Data></Cell>
+    <Cell><Data ss:Type="String">จุดส่งของ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044647444</Data></Cell>
+    <Cell><Data ss:Type="String">Drop ceiling outside the door to the habitation pods. -EV</Data></Cell>
+    <Cell><Data ss:Type="String">ฝ้าเพดานนอกประตูแคปซูลพักอาศัย -EV</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044647711</Data></Cell>
+    <Cell><Data ss:Type="String">Turret Order</Data></Cell>
+    <Cell><Data ss:Type="String">คำสั่งป้อมปืน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725044647712</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;REMINDER:&lt;/b&gt; Bring turrets up to Fabrication.</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;เตือน:&lt;/b&gt; นำป้อมปืนขึ้นไปฝ่ายการผลิต</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648735</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure Map for Stabfellow</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของสแท็บเฟลโลว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648736</Data></Cell>
+    <Cell><Data ss:Type="String"> Stabfellow's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของสแท็บเฟลโลว์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648783</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure map for Rosalyn Swyft</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน สวิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648784</Data></Cell>
+    <Cell><Data ss:Type="String"> Rosalyn's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648823</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure map for Melindra Shadowcorner</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของเมลินดรา แชโดว์คอร์เนอร์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648824</Data></Cell>
+    <Cell><Data ss:Type="String">Melindra's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของเมลินดรา</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648826</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure map for Rosalyn Swyft</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน สวิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648827</Data></Cell>
+    <Cell><Data ss:Type="String">Rosalyn's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648829</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure map for Rosalyn Swyft</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน สวิฟต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315648830</Data></Cell>
+    <Cell><Data ss:Type="String">Rosalyn's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของโรซาลิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315649304</Data></Cell>
+    <Cell><Data ss:Type="String">Treasure map for Hordinbaffle Flagdasterous</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของฮอร์ดินแบฟเฟิล แฟลกแดสเทอรัส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417315649305</Data></Cell>
+    <Cell><Data ss:Type="String">Hordinbaffle's Treasure Map</Data></Cell>
+    <Cell><Data ss:Type="String">แผนที่ขุมทรัพย์ของฮอร์ดินแบฟเฟิล</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564947832224</Data></Cell>
+    <Cell><Data ss:Type="String">Order for Quinten</Data></Cell>
+    <Cell><Data ss:Type="String">รายการของควินเทน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_4349723564947832225</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;FOUR&lt;/b&gt; Jellied Eels&lt;br&gt;2 Pacific Sliders&lt;br&gt;3 Siskak Unagi Rollz</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;สี่&lt;/b&gt; ปลาไหลเยลลี&lt;br&gt;แปซิฟิกสไลเดอร์ 2&lt;br&gt;ซิสคักอุนางิโรล 3</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515491521614</Data></Cell>
+    <Cell><Data ss:Type="String">Sorry Annie</Data></Cell>
+    <Cell><Data ss:Type="String">ขอโทษนะ แอนนี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_418270515491521615</Data></Cell>
+    <Cell><Data ss:Type="String">Annie,&lt;br&gt;I know you'll never read this. I ran out of my office when I heard you screaming, but there were just too many of them between me and you. You were always really nice to me. You didn't deserve to die like that.&lt;br&gt;&lt;br&gt;And now they're in my office, and I'm surrounded out here in this cage. I can't help myself, much less you, or even Mia. Even when I try, I still screw things up. I'm sorry.&lt;br&gt;&lt;br&gt;-Scott</Data></Cell>
+    <Cell><Data ss:Type="String">แอนนี,&lt;br&gt;ฉันรู้ว่าเธอไม่มีวันได้อ่านนี่ ฉันวิ่งออกจากสำนักงานตอนได้ยินเธอกรีดร้อง แต่พวกมันอยู่ระหว่างฉันกับเธอมากเกินไป เธอดีกับฉันมาตลอด เธอไม่ควรต้องตายแบบนั้น&lt;br&gt;&lt;br&gt;ตอนนี้พวกมันอยู่ในสำนักงานฉันแล้ว ส่วนฉันถูกล้อมอยู่ข้างนอกในกรงนี่ ฉันช่วยตัวเองยังไม่ได้ จะช่วยเธอหรือแม้แต่มีอาได้ยังไง ต่อให้พยายาม ฉันก็ยังทำทุกอย่างพัง ขอโทษ&lt;br&gt;&lt;br&gt;-สกอตต์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417316345123</Data></Cell>
+    <Cell><Data ss:Type="String">Greenhouse Help</Data></Cell>
+    <Cell><Data ss:Type="String">ช่วยที่เรือนกระจก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417316345124</Data></Cell>
+    <Cell><Data ss:Type="String">We locked the doors to the greenhouse but this one flies! We don't have long before it figures out the roof isn't covered. 5 min ago Edna tried making it into the greenhouse before it took her over. She won't stop screaming. Yelling at us to stay back. If we can kill the floating thing that infected her maybe we can save her. If you find this note please help. Kill it because we won't be ourselves.&lt;br&gt;-Rani </Data></Cell>
+    <Cell><Data ss:Type="String">เราล็อกประตูเรือนกระจกแล้ว แต่ตัวนี้บินได้! เหลือเวลาไม่มากก่อนมันจะรู้ว่าหลังคาไม่ได้ปิด เมื่อ 5 นาทีก่อนเอ็ดนาพยายามเข้ามาในเรือนกระจกก่อนมันจะควบคุมเธอ เธอกรีดร้องไม่หยุด ตะโกนให้เราอยู่ห่าง ๆ ถ้าเราฆ่าตัวลอยที่แพร่เชื้อใส่เธอได้ บางทีเราอาจช่วยเธอได้ ถ้าเจอโน้ตนี้ โปรดช่วยด้วย ฆ่ามัน เพราะอีกไม่นานเราจะไม่เป็นตัวเองแล้ว&lt;br&gt;-รานี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263405199138</Data></Cell>
+    <Cell><Data ss:Type="String">Typhon Lure</Data></Cell>
+    <Cell><Data ss:Type="String">เหยื่อล่อไทฟอน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263405199139</Data></Cell>
+    <Cell><Data ss:Type="String">Rory, I've loaded another 'Nightlight' as requested. Upped the psycholuminescence. This time the Typhon ought to follow the lure like an imprinted duckling.</Data></Cell>
+    <Cell><Data ss:Type="String">รอรี ฉันโหลด &apos;ไนต์ไลต์&apos; อีกตัวตามที่ขอ เพิ่มความสว่างไซโคเรืองแสงแล้ว คราวนี้ไทฟอนน่าจะตามเหยื่อล่อเหมือนลูกเป็ดติดแม่</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263405881297</Data></Cell>
+    <Cell><Data ss:Type="String">Report: V-090655-13</Data></Cell>
+    <Cell><Data ss:Type="String">รายงาน: V-090655-13</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263405881298</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;VOLUNTEER INFORMATION&lt;/b&gt;&lt;br&gt;&lt;br&gt;Volunteer ID: V-090655-13&lt;br&gt;Name: [REDACTED]&lt;br&gt;DOB: 5/23/99&lt;br&gt;Gender: Male&lt;br&gt;Race: White&lt;br&gt;Admission Date: 3/11/33&lt;br&gt;Institution: Camp 17, Siberia&lt;br&gt;&lt;br&gt;OFFENSE INFORMATION&lt;br&gt;Human trafficking&lt;br&gt;Kidnapping&lt;br&gt;Solicitation of a minor&lt;br&gt;Distribution of controlled substances&lt;br&gt;Fraudulent impersonation</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;b&gt;ข้อมูลอาสาสมัคร&lt;/b&gt;&lt;br&gt;&lt;br&gt;รหัสอาสาสมัคร: V-090655-13&lt;br&gt;ชื่อ: [REDACTED]&lt;br&gt;วันเกิด: 5/23/99&lt;br&gt;เพศ: ชาย&lt;br&gt;เชื้อชาติ: ขาว&lt;br&gt;วันที่เข้ารับ: 3/11/33&lt;br&gt;สถานที่: ค่าย 17, ไซบีเรีย&lt;br&gt;&lt;br&gt;ข้อมูลความผิด&lt;br&gt;ค้ามนุษย์&lt;br&gt;ลักพาตัว&lt;br&gt;ชักชวนผู้เยาว์&lt;br&gt;จำหน่ายสารควบคุม&lt;br&gt;แอบอ้างโดยฉ้อโกง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263406393304</Data></Cell>
+    <Cell><Data ss:Type="String">Bad Dreams</Data></Cell>
+    <Cell><Data ss:Type="String">ฝันร้าย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263406393305</Data></Cell>
+    <Cell><Data ss:Type="String">Hi Mommy  &lt;br&gt;&lt;br&gt;I've been having bad dreams since you left doctor preston said I should draw it and that would help make them go away. I hope you like my picture and come home soon  &lt;br&gt;&lt;br&gt;I love you, CoRey</Data></Cell>
+    <Cell><Data ss:Type="String">สวัสดีแม่  &lt;br&gt;&lt;br&gt;หนูฝันร้ายตั้งแต่แม่ไป หมอเพรสตันบอกให้หนูวาดมัน แล้วมันจะช่วยให้ฝันร้ายหายไป หนูหวังว่าแม่จะชอบรูปและกลับบ้านเร็ว ๆ  &lt;br&gt;&lt;br&gt;รักแม่, โครี</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319196899</Data></Cell>
+    <Cell><Data ss:Type="String">Bench Plaque</Data></Cell>
+    <Cell><Data ss:Type="String">แผ่นป้ายม้านั่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319196900</Data></Cell>
+    <Cell><Data ss:Type="String">Given by&lt;br&gt;&lt;br&gt;WILLIAM YU&lt;br&gt;&lt;br&gt;May 23</Data></Cell>
+    <Cell><Data ss:Type="String">มอบโดย&lt;br&gt;&lt;br&gt;วิลเลียม ยู&lt;br&gt;&lt;br&gt;23 พฤษภาคม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319197037</Data></Cell>
+    <Cell><Data ss:Type="String">Bench Plaque</Data></Cell>
+    <Cell><Data ss:Type="String">แผ่นป้ายม้านั่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319197038</Data></Cell>
+    <Cell><Data ss:Type="String">Given by&lt;br&gt;&lt;br&gt;CATHERINE YU&lt;br&gt;&lt;br&gt;May 23</Data></Cell>
+    <Cell><Data ss:Type="String">มอบโดย&lt;br&gt;&lt;br&gt;แคทเธอรีน ยู&lt;br&gt;&lt;br&gt;23 พฤษภาคม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319197078</Data></Cell>
+    <Cell><Data ss:Type="String">Plaque</Data></Cell>
+    <Cell><Data ss:Type="String">แผ่นป้าย</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417319197079</Data></Cell>
+    <Cell><Data ss:Type="String">In Memory of&lt;br&gt;&lt;br&gt;John F. Kennedy&lt;br&gt;&lt;br&gt;1917-2031</Data></Cell>
+    <Cell><Data ss:Type="String">แด่ความทรงจำของ&lt;br&gt;&lt;br&gt;จอห์น เอฟ. เคนเนดี&lt;br&gt;&lt;br&gt;1917-2031</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263410484034</Data></Cell>
+    <Cell><Data ss:Type="String">FlexiFoam Warning</Data></Cell>
+    <Cell><Data ss:Type="String">คำเตือนเฟล็กซิโฟม</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263410484035</Data></Cell>
+    <Cell><Data ss:Type="String">Flexifoam Bolt formula still effed. Keep away from sparks, open flames, lit cigarettes, Franklin's eyebrows.</Data></Cell>
+    <Cell><Data ss:Type="String">สูตรลูกดอกเฟล็กซิโฟมยังพังอยู่ อยู่ให้ห่างจากประกายไฟ เปลวไฟ บุหรี่ที่จุดแล้ว และคิ้วของแฟรงคลิน</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263413743049</Data></Cell>
+    <Cell><Data ss:Type="String">Thank You</Data></Cell>
+    <Cell><Data ss:Type="String">ขอบคุณ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263413743050</Data></Cell>
+    <Cell><Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;I can't thank you enough for the risk you're taking on my behalf - on behalf of the volunteers who no longer have a voice in this. The thought of you cooped up in that cargo container, hurtling toward the earth - it kills me - even though Will says it's safe and that you'll have plenty of food. &lt;br&gt;&lt;br&gt;I know the evidence on this thumbdrive cannot make amends for everything that's happened, but exposing the truth can prevent it from happening again. Thank you my friend.&lt;br&gt;&lt;br&gt;AG </Data></Cell>
+    <Cell><Data ss:Type="String">Q-&lt;br&gt;&lt;br&gt;ฉันไม่รู้จะขอบคุณยังไงพอสำหรับความเสี่ยงที่คุณยอมรับแทนฉัน—แทนอาสาสมัครที่ไม่มีเสียงให้พูดอีกแล้ว แค่คิดว่าคุณต้องขดตัวอยู่ในตู้สินค้า พุ่งลงสู่โลกก็ทำฉันแทบตาย แม้ว่าวิลจะบอกว่าปลอดภัยและคุณมีอาหารเหลือเฟือ &lt;br&gt;&lt;br&gt;ฉันรู้ว่าหลักฐานในธัมบ์ไดรฟ์นี้ชดเชยทุกอย่างที่เกิดขึ้นไม่ได้ แต่การเปิดโปงความจริงอาจหยุดไม่ให้มันเกิดซ้ำ ขอบคุณนะ เพื่อนของฉัน&lt;br&gt;&lt;br&gt;AG</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263414434928</Data></Cell>
+    <Cell><Data ss:Type="String">Exotic Material Storage</Data></Cell>
+    <Cell><Data ss:Type="String">คลังวัสดุเอ็กโซติก</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263414434929</Data></Cell>
+    <Cell><Data ss:Type="String">Door actuators are wonky. Come see me if you need in. &lt;br&gt;-Graves</Data></Cell>
+    <Cell><Data ss:Type="String">ตัวขับประตูทำงานเพี้ยน ถ้าต้องเข้า มาหาผม &lt;br&gt;-เกรฟส์</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725055582034</Data></Cell>
+    <Cell><Data ss:Type="String">Anniversary Reminder</Data></Cell>
+    <Cell><Data ss:Type="String">เตือนวันครบรอบ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_12889009725055582035</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;c&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23rd 05/23 May 23rd 05/23 May 23rd&lt;br&gt;May 23 May 23 May 23&lt;br&gt;&lt;b&gt;May 23 May 23&lt;/b&gt;&lt;/c&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">&lt;c&gt;23 พฤษภาคม 05/23 23 พฤษภาคม 05/23 23 พฤษภาคม&lt;br&gt;23 พฤษภาคม 05/23 23 พฤษภาคม 05/23 23 พฤษภาคม&lt;br&gt;23 พฤษภาคม 05/23 23 พฤษภาคม 05/23 23 พฤษภาคม&lt;br&gt;23 พฤษภาคม 05/23 23 พฤษภาคม 05/23 23 พฤษภาคม&lt;br&gt;23 พฤษภาคม 23 พฤษภาคม 23 พฤษภาคม&lt;br&gt;&lt;b&gt;23 พฤษภาคม 23 พฤษภาคม&lt;/b&gt;&lt;/c&gt;</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417326384644</Data></Cell>
+    <Cell><Data ss:Type="String">Accidents Happen</Data></Cell>
+    <Cell><Data ss:Type="String">อุบัติเหตุเกิดขึ้นได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417326384645</Data></Cell>
+    <Cell><Data ss:Type="String">Plan for arming key is in Deep Storage.&lt;br&gt;- M</Data></Cell>
+    <Cell><Data ss:Type="String">แปลนกุญแจสั่งทำลายอยู่ในคลังข้อมูลชั้นลึก&lt;br&gt;- M</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263415321366</Data></Cell>
+    <Cell><Data ss:Type="String">Annalise Gallegos' Thumb Drive</Data></Cell>
+    <Cell><Data ss:Type="String">ธัมบ์ไดรฟ์ของแอนนาลีส กาเยโกส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_13680621263415321367</Data></Cell>
+    <Cell><Data ss:Type="String">[Excerpt from a Readme.txt file found on Annalise Gallegos' thumb drive.]&lt;br&gt;&lt;br&gt;The drive in your possession contains incriminating evidence related to illegal experiments performed aboard Talos I in the Psychotronics labs. This includes, but is not limited to:&lt;br&gt;&lt;br&gt;» Classified internal memorandums.&lt;br&gt;» Key research data, spanning several decades.&lt;br&gt;» Names and roles of all personnel involved.&lt;br&gt;» Volunteer ID's matched with their real names.&lt;br&gt;&lt;br&gt;This information will corroborate the existence of an extra-terrestrial species (called Typhon) as well as the fact that all Neuromods are made at the expense of human victims. I harbor no illusions that this will be easy to believe, but I can testify to its veracity – assuming I am still alive - because I was a participant in many of the experiments referenced.&lt;br&gt;&lt;br&gt;-Dr. Annalise Gallegos</Data></Cell>
+    <Cell><Data ss:Type="String">[ข้อความคัดจากไฟล์ Readme.txt ที่พบในธัมบ์ไดรฟ์ของแอนนาลีส กาเยโกส]&lt;br&gt;&lt;br&gt;ไดรฟ์ที่คุณถืออยู่มีหลักฐานเอาผิดเกี่ยวกับการทดลองผิดกฎหมายบนทาลอส I ในห้องแล็บไซโคทรอนิกส์ ซึ่งรวมถึงแต่ไม่จำกัดเพียง:&lt;br&gt;&lt;br&gt;» บันทึกภายในที่เป็นความลับ&lt;br&gt;» ข้อมูลวิจัยสำคัญครอบคลุมหลายทศวรรษ&lt;br&gt;» ชื่อและบทบาทของบุคลากรทั้งหมดที่เกี่ยวข้อง&lt;br&gt;» รหัสอาสาสมัครที่จับคู่กับชื่อจริง&lt;br&gt;&lt;br&gt;ข้อมูลนี้จะยืนยันการมีอยู่ของสิ่งมีชีวิตนอกโลก (เรียกว่าไทฟอน) รวมทั้งข้อเท็จจริงว่านิวโรม็อดทุกชิ้นถูกสร้างขึ้นด้วยชีวิตของเหยื่อมนุษย์ ฉันไม่หลอกตัวเองว่าเรื่องนี้จะเชื่อได้ง่าย แต่ฉันยืนยันได้ว่ามันเป็นความจริง—หากตอนนั้นฉันยังมีชีวิตอยู่—เพราะฉันมีส่วนร่วมในการทดลองหลายรายการที่อ้างถึง&lt;br&gt;&lt;br&gt;-ดร.แอนนาลีส กาเยโกส</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327503923</Data></Cell>
+    <Cell><Data ss:Type="String">Morning Shift</Data></Cell>
+    <Cell><Data ss:Type="String">กะเช้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327503924</Data></Cell>
+    <Cell><Data ss:Type="String">Hey new guy.&lt;br&gt;You've got the morning shift in Power Plant. 0700 hours.&lt;br&gt;Workstation password is %password%&lt;br&gt;Don't be late.&lt;br&gt;- Hayashi</Data></Cell>
+    <Cell><Data ss:Type="String">เฮ้ เด็กใหม่&lt;br&gt;นายเข้ากะเช้าที่โรงไฟฟ้า เวลา 0700&lt;br&gt;รหัสผ่านเวิร์กสเตชันคือ %password%&lt;br&gt;อย่าสาย&lt;br&gt;- ฮายาชิ</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327771916</Data></Cell>
+    <Cell><Data ss:Type="String">The Yu Family</Data></Cell>
+    <Cell><Data ss:Type="String">ครอบครัวยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327771917</Data></Cell>
+    <Cell><Data ss:Type="String">Catherine, William, Alex and Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">แคทเธอรีน, วิลเลียม, อเล็กซ์ และมอร์แกน ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327772529</Data></Cell>
+    <Cell><Data ss:Type="String">The Yu Family</Data></Cell>
+    <Cell><Data ss:Type="String">ครอบครัวยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">loc_844024417327772530</Data></Cell>
+    <Cell><Data ss:Type="String">Catherine, William, Alex and Morgan Yu</Data></Cell>
+    <Cell><Data ss:Type="String">แคทเธอรีน, วิลเลียม, อเล็กซ์ และมอร์แกน ยู</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>175</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>196</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

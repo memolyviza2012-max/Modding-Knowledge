@@ -7,13 +7,13 @@
 
 ## 📌 สารบัญเอนจิ้นเกม (Quick Jump Table of Contents)
 
-[Unity (42)](#unity) • [Unreal Engine 5 (22)](#unreal-engine-5) • [Unreal Engine 4 (20)](#unreal-engine-4) • [Scimitar Engine (8)](#scimitar-engine) • [RE Engine (7)](#re-engine) • [CryEngine (5)](#cryengine) • [4A Engine (3)](#4a-engine) • [Dawn Engine (2)](#dawn-engine) • [Asura Engine (2)](#asura-engine) • [Classic RE (2)](#classic-re) • [Glacier Engine (2)](#glacier-engine) • [MT Framework (2)](#mt-framework) • [Unreal Engine 3 (2)](#unreal-engine-3) • [Vigil Engine (2)](#vigil-engine) • [STEM Engine (1)](#stem-engine) • [Unreal Engine 2 (1)](#unreal-engine-2) • [Void Engine (1)](#void-engine) • [10tons Engine (1)](#10tons-engine) • [AnvilNext (1)](#anvilnext) • [Blizzard Engine (1)](#blizzard-engine) • [C Engine (1)](#c-engine) • [CRIWARE (1)](#criware) • [Crate Engine (1)](#crate-engine) • [Crystal Dynamics Foundation Engine (1)](#crystal-dynamics-foundation-engine) • [Custom Engine (1)](#custom-engine) • [Despair Engine (1)](#despair-engine) • [Disrupt (1)](#disrupt) • [Dunia Engine (1)](#dunia-engine) • [Eclipse Engine (1)](#eclipse-engine) • [FalcomEngine (1)](#falcomengine) • [Gamebryo (1)](#gamebryo) • [Genome Engine (1)](#genome-engine) • [IW Engine (1)](#iw-engine) • [Illusion Engine (1)](#illusion-engine) • [In-house (Hello Games) (1)](#in-house-hello-games) • [Java LibGDX (1)](#java-libgdx) • [LiquidEngine (1)](#liquidengine) • [Luminous Engine (1)](#luminous-engine) • [Marvelous Engine (1)](#marvelous-engine) • [Media Vision (1)](#media-vision) • [Northlight (1)](#northlight) • [Paradox Custom (1)](#paradox-custom) • [Quantic Dream Engine (1)](#quantic-dream-engine) • [RemedyCustom (1)](#remedycustom) • [RenPy (1)](#renpy) • [SGE Engine (1)](#sge-engine) • [Snowdrop (1)](#snowdrop) • [YachtClubEngine (1)](#yachtclubengine) • [id Tech 6 (1)](#id-tech-6) • [id Tech 7 (1)](#id-tech-7) • [Fledge (0)](#fledge)
+[Unity (31)](#unity) • [Unreal Engine 5 (24)](#unreal-engine-5) • [Unreal Engine 4 (22)](#unreal-engine-4) • [Scimitar Engine (8)](#scimitar-engine) • [RE Engine (7)](#re-engine) • [CryEngine (6)](#cryengine) • [Gust Engine (4)](#gust-engine) • [MT Framework (4)](#mt-framework) • [4A Engine (3)](#4a-engine) • [Custom Engine (3)](#custom-engine) • [Unreal Engine 3 (3)](#unreal-engine-3) • [Visceral Engine (3)](#visceral-engine) • [Crystal Dynamics Foundation Engine (2)](#crystal-dynamics-foundation-engine) • [Dawn Engine (2)](#dawn-engine) • [Marvelous Engine (2)](#marvelous-engine) • [Asura Engine (2)](#asura-engine) • [Classic RE (2)](#classic-re) • [Glacier Engine (2)](#glacier-engine) • [Media Vision (2)](#media-vision) • [Vigil Engine (2)](#vigil-engine) • [id Tech 7 (2)](#id-tech-7) • [10tons Engine (1)](#10tons-engine) • [Aurora Engine (1)](#aurora-engine) • [STEM Engine (1)](#stem-engine) • [Unreal Engine 2 (1)](#unreal-engine-2) • [Void Engine (1)](#void-engine) • [AnvilNext (1)](#anvilnext) • [Asobo Engine (1)](#asobo-engine) • [Blizzard Engine (1)](#blizzard-engine) • [C Engine (1)](#c-engine) • [CRIWARE (1)](#criware) • [Crate Engine (1)](#crate-engine) • [Despair Engine (1)](#despair-engine) • [Disrupt (1)](#disrupt) • [Dunia Engine (1)](#dunia-engine) • [Eclipse Engine (1)](#eclipse-engine) • [FalcomEngine (1)](#falcomengine) • [Gamebryo (1)](#gamebryo) • [Genome Engine (1)](#genome-engine) • [IW Engine (1)](#iw-engine) • [Illusion Engine (1)](#illusion-engine) • [In-house (Hello Games) (1)](#in-house-hello-games) • [Java LibGDX (1)](#java-libgdx) • [LEAD Engine (1)](#lead-engine) • [LiquidEngine (1)](#liquidengine) • [Luminous Engine (1)](#luminous-engine) • [Northlight (1)](#northlight) • [Paradox Custom (1)](#paradox-custom) • [Quantic Dream Engine (1)](#quantic-dream-engine) • [RemedyCustom (1)](#remedycustom) • [RenPy (1)](#renpy) • [SGE Engine (1)](#sge-engine) • [Snowdrop (1)](#snowdrop) • [YachtClubEngine (1)](#yachtclubengine) • [id Tech 6 (1)](#id-tech-6) • [Fledge (0)](#fledge)
 
 ---
 
 ## ⚙️ Unity
 **โฟลเดอร์ในระบบ:** `Engines/Unity/`  
-**จำนวนเกมที่บันทึก:** 42 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+**จำนวนเกมที่บันทึก:** 31 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
 
 ### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
 - 📖 [Unity Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Unity_Engine.md) (`Unity_Engine.md`)
@@ -22,39 +22,28 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **33 Immortals** | `33_Immortals` | [33_Immortals_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/33_Immortals/33_Immortals_Thai_Localization_Bible.md) |
-| **Atelier Yumia** | `Atelier_Yumia` | [Atelier_Yumia_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Atelier_Yumia/Atelier_Yumia_Thai_Localization_Bible.md) |
-| **Blood of the Dawnwalker** | `Blood_of_the_Dawnwalker` | [Blood_of_the_Dawnwalker_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Blood_of_the_Dawnwalker/Blood_of_the_Dawnwalker_Thai_Localization_Bible.md) |
 | **Chaos Gate** | `Chaos_Gate` | [Chaos_Gate_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Chaos_Gate/Chaos_Gate_Thai_Localization_Bible.md) |
 | **Cities Skylines 2** | `Cities Skylines 2` | [Cities Skylines 2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Cities%20Skylines%202/Cities%20Skylines%202_Thai_Localization_Bible.md) |
-| **Deus Ex Human Revolution Directors Cut** | `Deus_Ex_Human_Revolution_Directors_Cut` | [Deus_Ex_Human_Revolution_Directors_Cut_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Deus_Ex_Human_Revolution_Directors_Cut/Deus_Ex_Human_Revolution_Directors_Cut_Thai_Localization_Bible.md) |
 | **Disco Elysium** | `Disco_Elysium` | [Disco_Elysium_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Disco_Elysium/Disco_Elysium_Thai_Localization_Bible.md) |
 | **Dive or Die** | `Dive_or_Die` | [Dive_or_Die_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Dive_or_Die/Dive_or_Die_Thai_Localization_Bible.md) |
-| **DYSMANTLE** | `DYSMANTLE` | [DYSMANTLE_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/DYSMANTLE/DYSMANTLE_Thai_Localization_Bible.md) |
 | **Dyson Sphere Program** | `Dyson Sphere Program` | [Dyson Sphere Program_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Dyson%20Sphere%20Program/Dyson%20Sphere%20Program_Thai_Localization_Bible.md) |
 | **Empire of Sin** | `Empire of Sin` | [Empire of Sin_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Empire%20of%20Sin/Empire%20of%20Sin_Thai_Localization_Bible.md) |
 | **Encased** | `Encased` | [Encased_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Encased/Encased_Thai_Localization_Bible.md) |
 | **Endzone A World Apart** | `Endzone_A_World_Apart` | [Endzone_A_World_Apart_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Endzone_A_World_Apart/Endzone_A_World_Apart_Thai_Localization_Bible.md) |
-| **Expeditions Rome** | `Expeditions_Rome` | [Expeditions_Rome_Thai_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Expeditions_Rome/Expeditions_Rome_Thai_Bible.md) |
 | **FRONT MISSION 1st Remake** | `FRONT_MISSION_1st_Remake` | [Front_Mission_1st_Remake_Old.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/FRONT_MISSION_1st_Remake/Front_Mission_1st_Remake_Old.md)<br>[FRONT_MISSION_1st_Remake_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/FRONT_MISSION_1st_Remake/FRONT_MISSION_1st_Remake_Thai_Localization_Bible.md) |
 | **Hardspace Shipbreaker** | `Hardspace_Shipbreaker` | [Hardspace_Shipbreaker_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Hardspace_Shipbreaker/Hardspace_Shipbreaker_Thai_Localization_Bible.md) |
 | **HarvestMoon LightOfHope** | `HarvestMoon_LightOfHope` | [HarvestMoon_Font_Injection_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/HarvestMoon_LightOfHope/HarvestMoon_Font_Injection_Bible.md) |
 | **Hollow Knight Silksong** | `Hollow Knight Silksong` | [Hollow Knight Silksong_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Hollow%20Knight%20Silksong/Hollow%20Knight%20Silksong_Thai_Localization_Bible.md) |
 | **Jump Space** | `Jump_Space` | [Jump_Space_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Jump_Space/Jump_Space_Thai_Localization_Bible.md) |
-| **KKND 2 Krossfire** | `KKND_2_Krossfire` | [KKND_2_Krossfire_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/KKND_2_Krossfire/KKND_2_Krossfire_Thai_Localization_Bible.md) |
 | **Little Goody Two Shoes** | `Little_Goody_Two_Shoes` | [LGTS_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Little_Goody_Two_Shoes/LGTS_Thai_Localization_Bible.md) |
 | **Marvel GOTG** | `Marvel_GOTG` | [Ukrainian_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Marvel_GOTG/Ukrainian_Localization_Bible.md)<br>[Ukrainian_Localization_Bible_UKR.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Marvel_GOTG/Ukrainian_Localization_Bible_UKR.md) |
-| **Marvels GOTG** | `Marvels_GOTG` | [GOTG_Thai_Modding_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Marvels_GOTG/GOTG_Thai_Modding_Bible.md) |
-| **Miasma Chronicles** | `Miasma_Chronicles` | [Miasma_Chronicles_Lore_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Miasma_Chronicles/Miasma_Chronicles_Lore_Bible.md) |
+| **Phantaruk** | `Phantaruk` | [Phantaruk_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Phantaruk/Phantaruk_Thai_Localization_Bible.md) |
 | **PlagueInc** | `PlagueInc` | [PlagueInc_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/PlagueInc/PlagueInc_Thai_Localization_Bible.md) |
-| **Remnant2** | `Remnant2` | [Remnant2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Remnant2/Remnant2_Thai_Localization_Bible.md) |
 | **Rune Factory 5** | `Rune_Factory_5` | [Rune_Factory_5_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Rune_Factory_5/Rune_Factory_5_Thai_Localization_Bible.md) |
 | **Sea of Stars** | `Sea_of_Stars` | [Sea_of_Stars_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Sea_of_Stars/Sea_of_Stars_Thai_Localization_Bible.md) |
 | **SOS Grand Bazaar** | `SOS_Grand_Bazaar` | [SOS_Grand_Bazaar_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/SOS_Grand_Bazaar/SOS_Grand_Bazaar_Thai_Localization_Bible.md) |
-| **Space Hulk Tactics** | `Space_Hulk_Tactics` | [Space_Hulk_Tactics_Thai_Modding_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Space_Hulk_Tactics/Space_Hulk_Tactics_Thai_Modding_Bible.md) |
-| **STORY OF SEASONS A Wonderful Life** | `STORY_OF_SEASONS_A_Wonderful_Life` | [STORY_OF_SEASONS_A_Wonderful_Life_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/STORY_OF_SEASONS_A_Wonderful_Life/STORY_OF_SEASONS_A_Wonderful_Life_Thai_Localization_Bible.md) |
 | **Tattoo Tycoon** | `Tattoo_Tycoon` | [Tattoo_Tycoon_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Tattoo_Tycoon/Tattoo_Tycoon_Thai_Localization_Bible.md) |
 | **The Last Stand Aftermath** | `The_Last_Stand_Aftermath` | [TLSA_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/The_Last_Stand_Aftermath/TLSA_Thai_Localization_Bible.md) |
-| **The Witcher Enhanced Edition Directors Cut** | `The_Witcher_Enhanced_Edition_Directors_Cut` | [WITCHER_EE_THAI_LOCALIZATION_BIBLE.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/The_Witcher_Enhanced_Edition_Directors_Cut/WITCHER_EE_THAI_LOCALIZATION_BIBLE.md) |
 | **To the Moon** | `To_the_Moon` | [To_the_Moon_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/To_the_Moon/To_the_Moon_Thai_Localization_Bible.md) |
 | **Two Point Campus** | `Two_Point_Campus` | [Two_Point_Campus_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Two_Point_Campus/Two_Point_Campus_Thai_Localization_Bible.md) |
 | **Until We Die** | `Until_We_Die` | [Until_We_Die_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unity/Games/Until_We_Die/Until_We_Die_Thai_Localization_Bible.md) |
@@ -70,29 +59,31 @@
 
 ## ⚙️ Unreal Engine 5
 **โฟลเดอร์ในระบบ:** `Engines/Unreal_Engine_5/`  
-**จำนวนเกมที่บันทึก:** 22 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+**จำนวนเกมที่บันทึก:** 24 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
 
 ### 🎮 คัมภีร์รายเกม (Game Bibles)
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **Avowed** | `Avowed` | [Avowed_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Avowed/Avowed_Thai_Localization_Bible.md) |
-| **Beast of Reincarnation** | `Beast_of_Reincarnation` | [Beast_of_Reincarnation_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Beast_of_Reincarnation/Beast_of_Reincarnation_Thai_Localization_Bible.md) |
+| **Beast of Reincarnation** | `Beast_of_Reincarnation` | [Beast_of_Reincarnation_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Beast_of_Reincarnation/Beast_of_Reincarnation_Bible.md)<br>[Beast_of_Reincarnation_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Beast_of_Reincarnation/Beast_of_Reincarnation_Thai_Localization_Bible.md) |
 | **Clair Obscur Expedition 33** | `Clair_Obscur_Expedition_33` | [Clair_Obscur_Expedition_33_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Clair_Obscur_Expedition_33/Clair_Obscur_Expedition_33_Thai_Localization_Bible.md) |
 | **Code Vein 2** | `Code_Vein_2` | [Code_Vein_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Code_Vein_2/Code_Vein_2_Thai_Localization_Bible.md) |
 | **Cronos The New Dawn** | `Cronos_The_New_Dawn` | [Cronos_The_New_Dawn_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Cronos_The_New_Dawn/Cronos_The_New_Dawn_Thai_Localization_Bible.md) |
-| **Dawnwalker** | `Dawnwalker` | [Dawnwalker_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dawnwalker/Dawnwalker_Thai_Localization_Bible.md)<br>[The_Blood_of_Dawnwalker_Thai_Mod_Production_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dawnwalker/The_Blood_of_Dawnwalker_Thai_Mod_Production_Bible.md) |
+| **Dawnwalker** | `Dawnwalker` | [Blood_of_the_Dawnwalker_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dawnwalker/Blood_of_the_Dawnwalker_Thai_Localization_Bible.md)<br>[Dawnwalker_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dawnwalker/Dawnwalker_Thai_Localization_Bible.md)<br>[The_Blood_of_Dawnwalker_Thai_Mod_Production_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dawnwalker/The_Blood_of_Dawnwalker_Thai_Mod_Production_Bible.md) |
 | **Dragonkin The Banished** | `Dragonkin_The_Banished` | [Dragonkin_The_Banished_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Dragonkin_The_Banished/Dragonkin_The_Banished_Thai_Localization_Bible.md) |
 | **FF7 Rebirth** | `FF7_Rebirth` | [FF7_Rebirth_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/FF7_Rebirth/FF7_Rebirth_Thai_Localization_Bible.md) |
 | **Frostpunk 2** | `Frostpunk_2` | [Frostpunk_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Frostpunk_2/Frostpunk_2_Thai_Localization_Bible.md) |
 | **Gothic Remake** | `Gothic_Remake` | [Gothic_Remake_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Gothic_Remake/Gothic_Remake_Thai_Localization_Bible.md) |
 | **Hogwarts Legacy** | `Hogwarts Legacy` | [Hogwarts Legacy_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Hogwarts%20Legacy/Hogwarts%20Legacy_Thai_Localization_Bible.md) |
+| **IfSunSets** | `IfSunSets` | [IfSunSets_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/IfSunSets/IfSunSets_Bible.md) |
 | **Lords of the Fallen 2023** | `Lords_of_the_Fallen_2023` | [Lords_of_the_Fallen_2023_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Lords_of_the_Fallen_2023/Lords_of_the_Fallen_2023_Thai_Localization_Bible.md) |
-| **Miasma Chronicles** | `Miasma_Chronicles` | [Miasma_Chronicles_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Miasma_Chronicles/Miasma_Chronicles_Thai_Localization_Bible.md) |
+| **Miasma Chronicles** | `Miasma_Chronicles` | [Miasma_Chronicles_Lore_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Miasma_Chronicles/Miasma_Chronicles_Lore_Bible.md)<br>[Miasma_Chronicles_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Miasma_Chronicles/Miasma_Chronicles_Thai_Localization_Bible.md) |
 | **Mortal Shell 2** | `Mortal_Shell_2` | [Mortal_Shell_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Mortal_Shell_2/Mortal_Shell_2_Thai_Localization_Bible.md) |
-| **Outpost Infinity Siege** | `Outpost_Infinity_Siege` | [Outpost_Infinity_Siege_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Outpost_Infinity_Siege/Outpost_Infinity_Siege_Thai_Localization_Bible.md) |
+| **Outpost Infinity Siege** | `Outpost_Infinity_Siege` | [Outpost_Infinity_Siege_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Outpost_Infinity_Siege/Outpost_Infinity_Siege_Thai_Localization_Bible.md)<br>[Outpost_Infinity_Siege_Thai_Localization_Bible_NodNuat.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Outpost_Infinity_Siege/Outpost_Infinity_Siege_Thai_Localization_Bible_NodNuat.md) |
+| **Remnant 2** | `Remnant_2` | [Remnant2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Remnant_2/Remnant2_Thai_Localization_Bible.md) |
 | **SamSon** | `SamSon` | [SamSon_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/SamSon/SamSon_Thai_Localization_Bible.md) |
 | **STALKER 2** | `STALKER_2` | [STALKER_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/STALKER_2/STALKER_2_Thai_Localization_Bible.md) |
-| **STAR WARS Zero Company** | `STAR_WARS_Zero_Company` | [STAR_WARS_Zero_Company_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/STAR_WARS_Zero_Company/STAR_WARS_Zero_Company_Thai_Localization_Bible.md) |
+| **STAR WARS Zero Company** | `STAR_WARS_Zero_Company` | [STAR_WARS_Zero_Company_Localization_Dossier.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/STAR_WARS_Zero_Company/STAR_WARS_Zero_Company_Localization_Dossier.md)<br>[STAR_WARS_Zero_Company_Quest_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/STAR_WARS_Zero_Company/STAR_WARS_Zero_Company_Quest_Bible.md)<br>[STAR_WARS_Zero_Company_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/STAR_WARS_Zero_Company/STAR_WARS_Zero_Company_Thai_Localization_Bible.md) |
 | **Tempest Rising** | `Tempest_Rising` | [Tempest_Rising_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/Tempest_Rising/Tempest_Rising_Thai_Localization_Bible.md) |
 | **The Alters** | `The_Alters` | [The_Alters_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/The_Alters/The_Alters_Thai_Localization_Bible.md) |
 | **The Sinking City 2** | `The_Sinking_City_2` | [The_Sinking_City_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_5/Games/The_Sinking_City_2/The_Sinking_City_2_Thai_Localization_Bible.md) |
@@ -104,7 +95,7 @@
 
 ## ⚙️ Unreal Engine 4
 **โฟลเดอร์ในระบบ:** `Engines/Unreal_Engine_4/`  
-**จำนวนเกมที่บันทึก:** 20 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+**จำนวนเกมที่บันทึก:** 22 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
 
 ### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
 - 📖 [UE4 Older Font Fallback KI](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/UE4_Older_Font_Fallback_KI.md) (`UE4_Older_Font_Fallback_KI.md`)
@@ -120,17 +111,19 @@
 | **Coral Island** | `Coral Island` | [Coral Island_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Coral%20Island/Coral%20Island_Thai_Localization_Bible.md) |
 | **Dead Island 2** | `Dead_Island_2` | [The_Definitive_Modding_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Dead_Island_2/The_Definitive_Modding_Bible.md) |
 | **Dragon Quest XI** | `Dragon_Quest_XI` | [Dragon_Quest_XI_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Dragon_Quest_XI/Dragon_Quest_XI_Thai_Localization_Bible.md) |
-| **Expeditions Rome** | `Expeditions_Rome` | [Expeditions_Rome_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Expeditions_Rome/Expeditions_Rome_Bible.md)<br>[Fixing_Invisible_UI_Walkthrough.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Expeditions_Rome/Fixing_Invisible_UI_Walkthrough.md) |
+| **Expeditions Rome** | `Expeditions_Rome` | [Expeditions_Rome_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Expeditions_Rome/Expeditions_Rome_Bible.md)<br>[Expeditions_Rome_Thai_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Expeditions_Rome/Expeditions_Rome_Thai_Bible.md)<br>[Fixing_Invisible_UI_Walkthrough.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Expeditions_Rome/Fixing_Invisible_UI_Walkthrough.md) |
 | **Ghostrunner** | `Ghostrunner` | [Ghostrunner_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Ghostrunner/Ghostrunner_Thai_Localization_Bible.md) |
 | **Medieval Dynasty** | `Medieval_Dynasty` | [Medieval_Dynasty_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Medieval_Dynasty/Medieval_Dynasty_Thai_Localization_Bible.md) |
 | **Midnight Suns** | `Midnight_Suns` | [Midnight_Suns_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Midnight_Suns/Midnight_Suns_Thai_Localization_Bible.md) |
 | **Quarantine Zone** | `Quarantine_Zone` | [Quarantine_Zone_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Quarantine_Zone/Quarantine_Zone_Thai_Localization_Bible.md) |
 | **Remothered Tormented Fathers** | `Remothered_Tormented_Fathers` | [Remothered_Tormented_Fathers_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Remothered_Tormented_Fathers/Remothered_Tormented_Fathers_Thai_Localization_Bible.md) |
+| **Space Hulk Tactics** | `Space_Hulk_Tactics` | [Space_Hulk_Tactics_Thai_Modding_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Space_Hulk_Tactics/Space_Hulk_Tactics_Thai_Modding_Bible.md) |
 | **SpaceHulk Deathwing** | `SpaceHulk_Deathwing` | [SpaceHulk_Deathwing_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/SpaceHulk_Deathwing/SpaceHulk_Deathwing_Thai_Localization_Bible.md) |
 | **Star Wars Jedi Fallen Order** | `Star_Wars_Jedi_Fallen_Order` | [Star_Wars_Jedi_Fallen_Order_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Star_Wars_Jedi_Fallen_Order/Star_Wars_Jedi_Fallen_Order_Thai_Localization_Bible.md) |
 | **Suicide Squad KTJL** | `Suicide_Squad_KTJL` | [Suicide_Squad_KTJL_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Suicide_Squad_KTJL/Suicide_Squad_KTJL_Thai_Localization_Bible.md) |
 | **The Outer Worlds** | `The_Outer_Worlds` | [The_Outer_Worlds_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/The_Outer_Worlds/The_Outer_Worlds_Thai_Localization_Bible.md) |
 | **Undead Inc** | `Undead_Inc` | [Undead_Inc_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Undead_Inc/Undead_Inc_Thai_Localization_Bible.md) |
+| **Vampyr** | `Vampyr` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Vampyr/Thai_Localization_Bible.md) |
 | **Werewolf The Apocalypse Earthblood** | `Werewolf_The_Apocalypse_Earthblood` | [Werewolf_The_Apocalypse_Earthblood_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_4/Games/Werewolf_The_Apocalypse_Earthblood/Werewolf_The_Apocalypse_Earthblood_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
@@ -167,7 +160,7 @@
 ### 🎮 คัมภีร์รายเกม (Game Bibles)
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
-| **Dragons Dogma 2** | `Dragons_Dogma_2` | [Dragons_Dogma_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Dragons_Dogma_2/Dragons_Dogma_2_Thai_Localization_Bible.md) |
+| **Dragons Dogma 2** | `Dragons_Dogma_2` | [Dragons_Dogma_2_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Dragons_Dogma_2/Dragons_Dogma_2_Bible.md)<br>[Dragons_Dogma_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Dragons_Dogma_2/Dragons_Dogma_2_Thai_Localization_Bible.md) |
 | **Resident Evil 2** | `Resident_Evil_2` | [Resident_Evil_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Resident_Evil_2/Resident_Evil_2_Thai_Localization_Bible.md) |
 | **Resident Evil 3** | `Resident_Evil_3` | [Resident_Evil_3_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Resident_Evil_3/Resident_Evil_3_Thai_Localization_Bible.md) |
 | **Resident Evil 4** | `Resident_Evil_4` | [Resident_Evil_4_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/RE_Engine/Games/Resident_Evil_4/Resident_Evil_4_Thai_Localization_Bible.md) |
@@ -181,7 +174,7 @@
 
 ## ⚙️ CryEngine
 **โฟลเดอร์ในระบบ:** `Engines/CryEngine/`  
-**จำนวนเกมที่บันทึก:** 5 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+**จำนวนเกมที่บันทึก:** 6 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
 
 ### 🎮 คัมภีร์รายเกม (Game Bibles)
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
@@ -189,8 +182,44 @@
 | **KCD1** | `KCD1` | [KCD1_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/KCD1/KCD1_Thai_Localization_Bible.md) |
 | **KCD2** | `KCD2` | [KCD2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/KCD2/KCD2_Thai_Localization_Bible.md) |
 | **Kingdom Come Deliverance** | `Kingdom_Come_Deliverance` | [Kingdom_Come_Deliverance_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/Kingdom_Come_Deliverance/Kingdom_Come_Deliverance_Thai_Localization_Bible.md) |
+| **Kingdom Come Deliverance II** | `Kingdom_Come_Deliverance_II` | [Kingdom_Come_Deliverance_II_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/Kingdom_Come_Deliverance_II/Kingdom_Come_Deliverance_II_Bible.md) |
 | **Prey** | `Prey` | [Prey_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/Prey/Prey_Thai_Localization_Bible.md) |
 | **Ryse Son of Rome** | `Ryse_Son_of_Rome` | [Ryse_Son_of_Rome_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/CryEngine/Games/Ryse_Son_of_Rome/Ryse_Son_of_Rome_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Gust Engine
+**โฟลเดอร์ในระบบ:** `Engines/Gust_Engine/`  
+**จำนวนเกมที่บันทึก:** 4 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [Gust Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Gust_Engine/Gust_Engine.md) (`Gust_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Atelier Ryza 2 DX** | `Atelier_Ryza_2_DX` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Gust_Engine/Games/Atelier_Ryza_2_DX/Thai_Localization_Bible.md) |
+| **Atelier Ryza DX** | `Atelier_Ryza_DX` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Gust_Engine/Games/Atelier_Ryza_DX/Thai_Localization_Bible.md) |
+| **Atelier Ryza Ever Darkness Secret Hideout** | `Atelier_Ryza_Ever_Darkness_Secret_Hideout` | [Atelier_Ryza_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Gust_Engine/Games/Atelier_Ryza_Ever_Darkness_Secret_Hideout/Atelier_Ryza_Thai_Localization_Bible.md) |
+| **Atelier Yumia** | `Atelier_Yumia` | [Atelier_Yumia_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Gust_Engine/Games/Atelier_Yumia/Atelier_Yumia_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ MT Framework
+**โฟลเดอร์ในระบบ:** `Engines/MT_Framework/`  
+**จำนวนเกมที่บันทึก:** 4 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Dragons Dogma Dark Arisen** | `Dragons_Dogma_Dark_Arisen` | [Dragons_Dogma_Dark_Arisen_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Dragons_Dogma_Dark_Arisen/Dragons_Dogma_Dark_Arisen_Thai_Localization_Bible.md) |
+| **Resident Evil 0** | `Resident_Evil_0` | [Resident_Evil_0_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Resident_Evil_0/Resident_Evil_0_Thai_Localization_Bible.md) |
+| **Resident Evil 6** | `Resident_Evil_6` | [Resident_Evil_6_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Resident_Evil_6/Resident_Evil_6_Thai_Localization_Bible.md) |
+| **Resident Evil Revelations 2** | `Resident_Evil_Revelations_2` | [Resident_Evil_Revelations_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Resident_Evil_Revelations_2/Resident_Evil_Revelations_2_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -214,6 +243,71 @@
 
 ---
 
+## ⚙️ Custom Engine
+**โฟลเดอร์ในระบบ:** `Engines/Custom_Engine/`  
+**จำนวนเกมที่บันทึก:** 3 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [Custom Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Custom_Engine/Custom_Engine.md) (`Custom_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **HELLDIVERS 2** | `HELLDIVERS_2` | [HELLDIVERS_2_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Custom_Engine/Games/HELLDIVERS_2/HELLDIVERS_2_Thai_Localization_Bible.md) |
+| **KKND 2 Krossfire** | `KKND_2_Krossfire` | [KKND_2_Krossfire_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Custom_Engine/Games/KKND_2_Krossfire/KKND_2_Krossfire_Thai_Localization_Bible.md) |
+| **Soviet Republic** | `Soviet_Republic` | [Soviet_Republic_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Custom_Engine/Games/Soviet_Republic/Soviet_Republic_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Unreal Engine 3
+**โฟลเดอร์ในระบบ:** `Engines/Unreal_Engine_3/`  
+**จำนวนเกมที่บันทึก:** 3 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Dishonored 1** | `Dishonored_1` | [Dishonored_1_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/Dishonored_1/Dishonored_1_Thai_Localization_Bible.md) |
+| **XCOM Chimera Squad** | `XCOM_Chimera_Squad` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Chimera_Squad/Thai_Localization_Bible.md) |
+| **XCOM Enemy Unknown** | `XCOM_Enemy_Unknown` | [UDK_Thai_Font_Guide.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/UDK_Thai_Font_Guide.md)<br>[XCOM_Enemy_Unknown_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/XCOM_Enemy_Unknown_Thai_Localization_Bible.md)<br>[XCOM_Modding_Step_By_Step.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/XCOM_Modding_Step_By_Step.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Visceral Engine
+**โฟลเดอร์ในระบบ:** `Engines/Visceral_Engine/`  
+**จำนวนเกมที่บันทึก:** 3 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Dead Space 2** | `Dead_Space_2` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Visceral_Engine/Games/Dead_Space_2/Thai_Localization_Bible.md) |
+| **Dead Space 2008** | `Dead_Space_2008` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Visceral_Engine/Games/Dead_Space_2008/Thai_Localization_Bible.md) |
+| **Dead Space 3** | `Dead_Space_3` | [Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Visceral_Engine/Games/Dead_Space_3/Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Crystal Dynamics Foundation Engine
+**โฟลเดอร์ในระบบ:** `Engines/Crystal Dynamics Foundation Engine/`  
+**จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [Crystal Dynamics Foundation Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Crystal%20Dynamics%20Foundation%20Engine/Crystal_Dynamics_Foundation_Engine.md) (`Crystal_Dynamics_Foundation_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Deus Ex Human Revolution Directors Cut** | `Deus_Ex_Human_Revolution_Directors_Cut` | [Deus_Ex_Human_Revolution_Directors_Cut_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Crystal%20Dynamics%20Foundation%20Engine/Games/Deus_Ex_Human_Revolution_Directors_Cut/Deus_Ex_Human_Revolution_Directors_Cut_Thai_Localization_Bible.md) |
+| **Marvels Avengers** | `Marvels Avengers` | [Marvels Avengers_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Crystal%20Dynamics%20Foundation%20Engine/Games/Marvels%20Avengers/Marvels%20Avengers_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
 ## ⚙️ Dawn Engine
 **โฟลเดอร์ในระบบ:** `Engines/Dawn_Engine/`  
 **จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
@@ -225,7 +319,24 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **Deus Ex Mankind Divided** | `Deus_Ex_Mankind_Divided` | [Deus_Ex_Mankind_Divided_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Dawn_Engine/Games/Deus_Ex_Mankind_Divided/Deus_Ex_Mankind_Divided_Thai_Localization_Bible.md) |
-| **Marvels GotG** | `Marvels_GotG` | [Marvels_GotG_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Dawn_Engine/Games/Marvels_GotG/Marvels_GotG_Thai_Localization_Bible.md) |
+| **Marvels GotG** | `Marvels_GotG` | [GOTG_Thai_Modding_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Dawn_Engine/Games/Marvels_GotG/GOTG_Thai_Modding_Bible.md)<br>[Marvels_GotG_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Dawn_Engine/Games/Marvels_GotG/Marvels_GotG_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Marvelous Engine
+**โฟลเดอร์ในระบบ:** `Engines/Marvelous_Engine/`  
+**จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [Marvelous Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Marvelous_Engine/Marvelous_Engine.md) (`Marvelous_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **SOS Friends of Mineral Town** | `SOS_Friends_of_Mineral_Town` | [SOS_Friends_of_Mineral_Town_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Marvelous_Engine/Games/SOS_Friends_of_Mineral_Town/SOS_Friends_of_Mineral_Town_Thai_Localization_Bible.md) |
+| **STORY OF SEASONS A Wonderful Life** | `STORY_OF_SEASONS_A_Wonderful_Life` | [STORY_OF_SEASONS_A_Wonderful_Life_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Marvelous_Engine/Games/STORY_OF_SEASONS_A_Wonderful_Life/STORY_OF_SEASONS_A_Wonderful_Life_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -273,29 +384,15 @@
 
 ---
 
-## ⚙️ MT Framework
-**โฟลเดอร์ในระบบ:** `Engines/MT_Framework/`  
+## ⚙️ Media Vision
+**โฟลเดอร์ในระบบ:** `Engines/Media_Vision/`  
 **จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
 
 ### 🎮 คัมภีร์รายเกม (Game Bibles)
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
-| **Resident Evil 0** | `Resident_Evil_0` | [Resident_Evil_0_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Resident_Evil_0/Resident_Evil_0_Thai_Localization_Bible.md) |
-| **Resident Evil 6** | `Resident_Evil_6` | [Resident_Evil_6_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/MT_Framework/Games/Resident_Evil_6/Resident_Evil_6_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ Unreal Engine 3
-**โฟลเดอร์ในระบบ:** `Engines/Unreal_Engine_3/`  
-**จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **Dishonored 1** | `Dishonored_1` | [Dishonored_1_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/Dishonored_1/Dishonored_1_Thai_Localization_Bible.md) |
-| **XCOM Enemy Unknown** | `XCOM_Enemy_Unknown` | [UDK_Thai_Font_Guide.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/UDK_Thai_Font_Guide.md)<br>[XCOM_Enemy_Unknown_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/XCOM_Enemy_Unknown_Thai_Localization_Bible.md)<br>[XCOM_Modding_Step_By_Step.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Unreal_Engine_3/Games/XCOM_Enemy_Unknown/XCOM_Modding_Step_By_Step.md) |
+| **Digimon Story Cyber Sleuth** | `Digimon_Story_Cyber_Sleuth` | [Digimon_Story_Cyber_Sleuth_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Media_Vision/Games/Digimon_Story_Cyber_Sleuth/Digimon_Story_Cyber_Sleuth_Bible.md) |
+| **Digimon Story Time Stranger** | `Digimon_Story_Time_Stranger` | [Digimon_Story_Time_Stranger_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Media_Vision/Games/Digimon_Story_Time_Stranger/Digimon_Story_Time_Stranger_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -310,6 +407,52 @@
 |---|---|---|
 | **Darksiders II** | `Darksiders_II` | [Darksiders_II_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Vigil_Engine/Games/Darksiders_II/Darksiders_II_Thai_Localization_Bible.md) |
 | **Darksiders Warmastered** | `Darksiders_Warmastered` | [Darksiders_Warmastered_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Vigil_Engine/Games/Darksiders_Warmastered/Darksiders_Warmastered_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ id Tech 7
+**โฟลเดอร์ในระบบ:** `Engines/id_Tech_7/`  
+**จำนวนเกมที่บันทึก:** 2 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **DOOM Eternal** | `DOOM_Eternal` | [DOOM_Eternal_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/id_Tech_7/Games/DOOM_Eternal/DOOM_Eternal_Thai_Localization_Bible.md) |
+| **DOOM The Dark Ages** | `DOOM_The_Dark_Ages` | [DOOM_The_Dark_Ages_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/id_Tech_7/Games/DOOM_The_Dark_Ages/DOOM_The_Dark_Ages_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ 10tons Engine
+**โฟลเดอร์ในระบบ:** `Engines/10tons_Engine/`  
+**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [10tons Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/10tons_Engine/10tons_Engine.md) (`10tons_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **DYSMANTLE** | `DYSMANTLE` | [DYSMANTLE_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/10tons_Engine/Games/DYSMANTLE/DYSMANTLE_Thai_Localization_Bible.md)<br>[DYSMANTLE_Translation_and_Font_Baking.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/10tons_Engine/Games/DYSMANTLE/DYSMANTLE_Translation_and_Font_Baking.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Aurora Engine
+**โฟลเดอร์ในระบบ:** `Engines/Aurora_Engine/`  
+**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 1 ฉบับ
+
+### 📘 คู่มือประจำเอนจิ้น (Engine Guides)
+- 📖 [Aurora Engine](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Aurora_Engine/Aurora_Engine.md) (`Aurora_Engine.md`)
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **The Witcher Enhanced Edition** | `The_Witcher_Enhanced_Edition` | [WITCHER_EE_THAI_LOCALIZATION_BIBLE.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Aurora_Engine/Games/The_Witcher_Enhanced_Edition/WITCHER_EE_THAI_LOCALIZATION_BIBLE.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -363,19 +506,6 @@
 
 ---
 
-## ⚙️ 10tons Engine
-**โฟลเดอร์ในระบบ:** `Engines/10tons_Engine/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **DYSMANTLE** | `DYSMANTLE` | [DYSMANTLE_Translation_and_Font_Baking.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/10tons_Engine/Games/DYSMANTLE/DYSMANTLE_Translation_and_Font_Baking.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
 ## ⚙️ AnvilNext
 **โฟลเดอร์ในระบบ:** `Engines/AnvilNext/`  
 **จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
@@ -384,6 +514,19 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **Anno 1800** | `Anno 1800` | [Anno 1800_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/AnvilNext/Games/Anno%201800/Anno%201800_Thai_Localization_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
+## ⚙️ Asobo Engine
+**โฟลเดอร์ในระบบ:** `Engines/Asobo_Engine/`  
+**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **A Plague Tale Requiem** | `A_Plague_Tale_Requiem` | [A_Plague_Tale_Requiem_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Asobo_Engine/Games/A_Plague_Tale_Requiem/A_Plague_Tale_Requiem_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -436,32 +579,6 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **Grim Dawn** | `Grim_Dawn` | [Grim_Dawn_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Crate_Engine/Games/Grim_Dawn/Grim_Dawn_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ Crystal Dynamics Foundation Engine
-**โฟลเดอร์ในระบบ:** `Engines/Crystal Dynamics Foundation Engine/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **Marvels Avengers** | `Marvels Avengers` | [Marvels Avengers_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Crystal%20Dynamics%20Foundation%20Engine/Games/Marvels%20Avengers/Marvels%20Avengers_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ Custom Engine
-**โฟลเดอร์ในระบบ:** `Engines/Custom_Engine/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **Soviet Republic** | `Soviet_Republic` | [Soviet_Republic_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Custom_Engine/Games/Soviet_Republic/Soviet_Republic_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -610,6 +727,19 @@
 
 ---
 
+## ⚙️ LEAD Engine
+**โฟลเดอร์ในระบบ:** `Engines/LEAD_Engine/`  
+**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
+
+### 🎮 คัมภีร์รายเกม (Game Bibles)
+| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
+|---|---|---|
+| **Splinter Cell Blacklist** | `Splinter_Cell_Blacklist` | [Splinter_Cell_Blacklist_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/LEAD_Engine/Games/Splinter_Cell_Blacklist/Splinter_Cell_Blacklist_Bible.md) |
+
+[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
+
+---
+
 ## ⚙️ LiquidEngine
 **โฟลเดอร์ในระบบ:** `Engines/LiquidEngine/`  
 **จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
@@ -631,32 +761,6 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **FFXV** | `FFXV` | [FFXV_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Luminous_Engine/Games/FFXV/FFXV_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ Marvelous Engine
-**โฟลเดอร์ในระบบ:** `Engines/Marvelous_Engine/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **SOS Friends of Mineral Town** | `SOS_Friends_of_Mineral_Town` | [SOS_Friends_of_Mineral_Town_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Marvelous_Engine/Games/SOS_Friends_of_Mineral_Town/SOS_Friends_of_Mineral_Town_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ Media Vision
-**โฟลเดอร์ในระบบ:** `Engines/Media_Vision/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **Digimon Story Time Stranger** | `Digimon_Story_Time_Stranger` | [Digimon_Story_Time_Stranger_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/Media_Vision/Games/Digimon_Story_Time_Stranger/Digimon_Story_Time_Stranger_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 
@@ -774,19 +878,6 @@
 | เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
 |---|---|---|
 | **Doom 2016** | `Doom_2016` | [Doom_2016_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/id_Tech_6/Games/Doom_2016/Doom_2016_Thai_Localization_Bible.md) |
-
-[⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
-
----
-
-## ⚙️ id Tech 7
-**โฟลเดอร์ในระบบ:** `Engines/id_Tech_7/`  
-**จำนวนเกมที่บันทึก:** 1 เกม | **คู่มือระดับเอนจิ้น:** 0 ฉบับ
-
-### 🎮 คัมภีร์รายเกม (Game Bibles)
-| เกม | โฟลเดอร์ | เอกสารคัมภีร์ (Bible) |
-|---|---|---|
-| **DOOM Eternal** | `DOOM_Eternal` | [DOOM_Eternal_Thai_Localization_Bible.md](file:///E%3A/Mod_Workspace/Modding-Knowledge/Engines/id_Tech_7/Games/DOOM_Eternal/DOOM_Eternal_Thai_Localization_Bible.md) |
 
 [⬆️ กลับขึ้นด้านบน](#-engine-centric-modding-knowledge-index)
 

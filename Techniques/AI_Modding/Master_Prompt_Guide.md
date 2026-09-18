@@ -56,6 +56,9 @@ Instructions for AI: ตอนนี้ให้คุณตอบรับว�
 > [!NOTE] ทำไมต้องใช้ Prompt นี้?
 > การเขียนเป้าหมาย 7 ข้อล่วงหน้าให้ AI รับรู้ จะทำให้บอทไม่พยายามทำงานข้ามขั้นตอน (เช่น พยายามแปลไฟล์ทั้งเกมในแชทเดียว ซึ่งจะทำให้บอทหลอนหรือ Error อย่างแน่นอน) แต่บอทจะคอยถามความคืบหน้าคุณทีละขั้นตามแผนผังที่วางไว้ครับ
 
+> [!TIP] สำหรับการวิเคราะห์เจาะลึกเพื่อเขียน "คัมภีร์ม็อดแปลไทย" (Thai Localization Modding Bible)
+> ดูแนวทางและมาตรฐาน 10 หมวด 5 ปลายทางแบบเต็มได้ที่: [Thai Localization Bible Standard (Rivet Engineer Edition)](file:///E:/Mod_Workspace/Modding-Knowledge/Techniques/AI_Modding/Thai_Localization_Bible_Prompt_Standard.md)
 
 ---
 **จัดทำโดย:** [หน๊ด หนวด translator](https://www.facebook.com/NodNuatTranslator/)
+

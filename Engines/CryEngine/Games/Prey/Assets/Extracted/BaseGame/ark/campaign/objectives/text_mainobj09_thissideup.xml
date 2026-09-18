@@ -1,0 +1,170 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11205</WindowHeight>
+  <WindowWidth>28245</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="LocStuff">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell><Data ss:Type="String">KEY</Data></Cell>
+    <Cell><Data ss:Type="String">ORIGINAL TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">TRANSLATED TEXT</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String">CHARACTER LIMIT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630425</Data></Cell>
+    <Cell><Data ss:Type="String">This Side Up</Data></Cell>
+    <Cell><Data ss:Type="String">ด้านนี้ขึ้น</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630426</Data></Cell>
+    <Cell><Data ss:Type="String">I was forced to jettison myself into space to escape Deep Storage. Airlocks leading back inside are sealed, but Sarah Elazar - Chief of Security - contacted me. She's holed up in the Cargo Bay where there might be a way for me to re-enter.</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันถูกบังคับให้ดีดตัวสู่อวกาศเพื่อหนีจากคลังข้อมูลชั้นลึก แอร์ล็อกกลับเข้าสถานีถูกปิด แต่ซาราห์ เอลาซาร์ หัวหน้าฝ่ายรักษาความปลอดภัยติดต่อมา เธอหลบอยู่ในห้องเก็บสินค้า ที่นั่นอาจมีทางให้ฉันกลับเข้าไป</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630427</Data></Cell>
+    <Cell><Data ss:Type="String">I was forced to jettison myself into space to escape Deep Storage. Airlocks leading back inside are sealed, but Sarah Elazar - chief of security - contacted me. She's holed up in the Cargo Bay where I might be able to use a cargo container as a makeshift entry. </Data></Cell>
+    <Cell><Data ss:Type="String">ฉันถูกบังคับให้ดีดตัวสู่อวกาศเพื่อหนีจากคลังข้อมูลชั้นลึก แอร์ล็อกกลับเข้าสถานีถูกปิด แต่ซาราห์ เอลาซาร์ หัวหน้าฝ่ายรักษาความปลอดภัยติดต่อมา เธอหลบอยู่ในห้องเก็บสินค้า ซึ่งฉันอาจใช้ตู้สินค้าเป็นทางเข้าชั่วคราวได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630428</Data></Cell>
+    <Cell><Data ss:Type="String">I was forced to jettison myself into space to escape Deep Storage. Airlocks leading back inside are sealed, but Sarah Elazar - chief of security - contacted me. She was holed up in the Cargo Bay where I was able to use a cargo container as a makeshift entry.</Data></Cell>
+    <Cell><Data ss:Type="String">ฉันถูกบังคับให้ดีดตัวสู่อวกาศเพื่อหนีจากคลังข้อมูลชั้นลึก แอร์ล็อกกลับเข้าสถานีถูกปิด แต่ซาราห์ เอลาซาร์ หัวหน้าฝ่ายรักษาความปลอดภัยติดต่อมา เธอหลบอยู่ในห้องเก็บสินค้า ที่นั่นฉันใช้ตู้สินค้าเป็นทางเข้าชั่วคราวได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630429</Data></Cell>
+    <Cell><Data ss:Type="String">Cargo Bay</Data></Cell>
+    <Cell><Data ss:Type="String">ห้องเก็บสินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630430</Data></Cell>
+    <Cell><Data ss:Type="String">Get to the Cargo Bay</Data></Cell>
+    <Cell><Data ss:Type="String">ไปยังห้องเก็บสินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630431</Data></Cell>
+    <Cell><Data ss:Type="String">Container Controls</Data></Cell>
+    <Cell><Data ss:Type="String">ระบบควบคุมตู้สินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630432</Data></Cell>
+    <Cell><Data ss:Type="String">Dock a cargo container</Data></Cell>
+    <Cell><Data ss:Type="String">เทียบท่าตู้สินค้า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630433</Data></Cell>
+    <Cell><Data ss:Type="String">Shipping Container</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่ง</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630434</Data></Cell>
+    <Cell><Data ss:Type="String">Open and enter the docked container</Data></Cell>
+    <Cell><Data ss:Type="String">เปิดและเข้าไปในตู้ที่เทียบท่า</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630435</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container with Dr. Igwe inside is 2312</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งที่มี ดร.อิกเวอยู่คือ 2312</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630436</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container stowed under the container controls is 32_2</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งที่เก็บไว้ใต้แผงควบคุมตู้สินค้าคือ 32_2</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630437</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container clamped to the wall nearest docking port 01 is number 5645</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งที่ยึดกับผนังใกล้จุดเทียบท่า 01 มากที่สุดคือหมายเลข 5645</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630438</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container clamped to the wall opposite the docking controls is number 2525</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งที่ยึดกับผนังฝั่งตรงข้ามแผงควบคุมเทียบท่าคือหมายเลข 2525</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630439</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container near the floor of the cargo bay is number 3553</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งใกล้พื้นห้องเก็บสินค้าคือหมายเลข 3553</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630440</Data></Cell>
+    <Cell><Data ss:Type="String">The shipping container clamped to the ceiling of the cargo bay is number 4564</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งที่ยึดกับเพดานห้องเก็บสินค้าคือหมายเลข 4564</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">loc_15373294129891630441</Data></Cell>
+    <Cell><Data ss:Type="String">Each shipping container has an ID number. Entering that number into the Container Control System will allow me to manipulate it.</Data></Cell>
+    <Cell><Data ss:Type="String">ตู้ขนส่งแต่ละตู้มีหมายเลข ID ป้อนหมายเลขนั้นในระบบควบคุมตู้สินค้าเพื่อสั่งการได้</Data></Cell>
+    <Cell><Data ss:Type="String">LOCKED</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>17</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

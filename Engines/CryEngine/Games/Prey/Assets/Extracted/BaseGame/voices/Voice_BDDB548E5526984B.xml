@@ -1,0 +1,674 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="Sheet1">
+    <Table>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">KEY</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ORIGINAL TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">TRANSLATED TEXT</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">LOCKED</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">CHARACTER LIMIT</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1F58</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Miyu? This is uhm... this is Dr. Calvino. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มิยู? นี่เอ่อ... ดร.คาลวิโน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1FB1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Miyu. This is Dr. Calvino</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มิยู นี่ ดร.คาลวิโน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1FBD</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm feeling ill. Not myself today. I think I won't be in for my shift at all. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันไม่สบาย วันนี้ไม่เป็นตัวเอง ฉันคิดว่าคงไม่เข้ากะเลย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1FBE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Array? I... don't recall-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อาร์เรย์? ฉัน... จำไม่ได้—</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1FBF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You... must have misunderstood. Eh... are you- honestly I'd prefer it if you left my experiments alone in my absence.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณ... คงเข้าใจผิด เอ่อ... ถ้าพูดตรง ๆ ฉันอยากให้คุณอย่ายุ่งกับการทดลองของฉันตอนฉันไม่อยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D1FF7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No, no, of course. I remember now. Let's just... for the time being... it doesn't matter.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ ไม่ แน่นอน ตอนนี้จำได้แล้ว แค่... ตอนนี้... ช่างมันเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E552D2000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Let's talk about it tomorrow.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไว้คุยพรุ่งนี้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553AC7FC</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're leaving?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณจะไปแล้ว?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553AC93A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Just turn it off then.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">งั้นก็ปิดมันเถอะ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553AC98F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No. I suppose it's late after all. Go. Sleep.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ คงดึกแล้วจริง ๆ ไปเถอะ ไปนอน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACA4F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What about me? Don't concern yourself. I'll finish.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วฉันล่ะ? ไม่ต้องห่วง ฉันจะทำให้เสร็จ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACB9C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You guess.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณเดาเอา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACBC1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You're always saying, "I guess.""That worked, I guess. I'll see you later, I guess." You're a scientist. Stop guessing. Know. Or be quiet. That is all.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณชอบพูดว่า &quot;คงงั้น&quot;&quot;ได้ผลมั้ง ไว้เจอกันมั้ง&quot; คุณเป็นนักวิทยาศาสตร์ เลิกเดา รู้ให้ชัด หรือไม่ก็เงียบ แค่นั้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACCF6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Frustrated Grunt)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(ครางอย่างหงุดหงิด)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553ACE26</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Che rompi scatole...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ช่างน่ารำคาญจริง...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553E590E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's running?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มันทำงานอยู่?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553E5C3F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where's the photometer? The handheld. Did you take it?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">โฟโตมิเตอร์อยู่ไหน? แบบถือมือ คุณเอาไปหรือ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553E6DE3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yesterday we had two. Now I can't find one.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เมื่อวานเรามีสองอัน ตอนนี้ฉันหาไม่เจอหนึ่งอัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E553E7072</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nonsense. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไร้สาระ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C0B75D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Eh... Yes. I was just about to call you.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เอ่อ... ใช่ ฉันกำลังจะโทรหาคุณพอดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E55C0B7DF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes. That's right. It's the calibration system for the new touchscreen. You only have to run it one time.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่ ถูกต้อง เป็นระบบปรับเทียบสำหรับหน้าจอสัมผัสใหม่ แค่รันครั้งเดียว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E5627A527</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The dream. Yes.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ความฝัน ใช่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A277E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Miyu? Miyu - I... I can't move!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มิยู? มิยู—ฉัน... ฉันขยับไม่ได้!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2847</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I'm in the microgravity lab. Franklin's gone. I don't know what's happening.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันอยู่แล็บไมโครกราวิตี แฟรงคลินหายไป ฉันไม่รู้ว่าเกิดอะไรขึ้น</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A291E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes! I can't get out. Can you come?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่! ฉันออกไปไม่ได้ คุณมาได้ไหม?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E563A2935</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Miyu?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มิยู?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56B94DE2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(Sigh) Miyu- ah, no. Wait. I see an Operator. I think it's trying to help me. Ng-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">(ถอนหายใจ) มิยู—อ๊ะ ไม่ เดี๋ยว ฉันเห็นโอเปอเรเตอร์ ฉันคิดว่ามันกำลังพยายามช่วยฉัน อึก—</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BA810D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Just follow the dot! When it turns green touch it. It should-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แค่ตามจุด! พอมันเป็นสีเขียวก็แตะ มันควร—</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCEDE5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Ahh - well, I suppose you've turned in. Or you're ignoring me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">อ่า—งั้นคงเข้านอนแล้ว หรือไม่ก็เมินฉันอยู่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCEDF9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I just want to... I'll be a little late for my shift tomorrow. But, uh, first thing in the morning I want you to put together a new micro lens array. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันแค่อยาก... พรุ่งนี้จะเข้ากะสายหน่อย แต่ เอ่อ ตอนเช้าอย่างแรก อยากให้คุณประกอบอาร์เรย์ไมโครเลนส์ใหม่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCEE0C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">You see, the old one is garbage. Get what you need from the machine shop. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ของเก่ามันขยะ ไปเอาของที่ต้องใช้จากโรงเครื่องจักร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCEE11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And if Clive is being an ass just take it from the supply closet when he's not looking. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วถ้าไคลฟ์ทำตัวงี่เง่า ก็หยิบจากตู้เสบียงตอนเขาไม่มอง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56BCEE15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">We're not supposed to know the code, but I'm sending it to you anyway. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตามกฎเราไม่ควรรู้รหัส แต่ฉันจะส่งให้คุณอยู่ดี</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73213</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">It's uh... it's always in my lab. And... I'm standing in front of the glass.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มัน เอ่อ... อยู่ในแล็บฉันเสมอ และ... ฉันยืนอยู่หน้ากระจก</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73235</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ใช่</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7324A</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nothing. At first. I don't want to turn it on. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่มีอะไร ตอนแรก ฉันไม่อยากเปิดมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73255</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But... I can't help it. I have to turn it on. When I do - it's like the heart of a black hole.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่... ฉันห้ามตัวเองไม่ได้ ฉันต้องเปิดมัน พอเปิด—มันเหมือนหัวใจของหลุมดำ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7325E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">An immense... darkness. There's... something... swimming in the black. I catch glimpses. Edges of the shape.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ความมืด... มหึมา มี... อะไรบางอย่าง... ว่ายอยู่ในความดำ ฉันเห็นเป็นแวบ ๆ เห็นขอบรูปร่าง</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C73268</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I feel as though it wants to come through... onto my side. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันรู้สึกเหมือนมันอยากทะลุผ่าน... มาฝั่งฉัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7326C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I have to turn off the glass before it sees me but I always wake before I can.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันต้องปิดกระจกก่อนมันเห็นฉัน แต่ฉันตื่นทุกครั้งก่อนทำได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C7327E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I, uh- nothing.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉัน เอ่อ—ไม่มีอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C732A2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No. No, no. That's... I don't...</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่ ไม่ ไม่ นั่น... ฉันไม่...</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C732B6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Where did you get that drawing? Have you been spying on me?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">คุณไปเอาภาพวาดนั่นมาจากไหน? แอบสอดแนมฉันหรือ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E56C732BF</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I don't want to talk to you anymore.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันไม่อยากคุยกับคุณแล้ว</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E578FC808</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">What about the mirrors?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แล้วกระจกล่ะ?</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB48E9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Never. I have never removed a Neuromod... and yet, today I could not find my way to the Hardware Labs.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ไม่เคย ฉันไม่เคยถอดนิวโรม็อด... แต่วันนี้ฉันกลับหาทางไปห้องแล็บฮาร์ดแวร์ไม่เจอ</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4908</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I wandered the Arboretum for an hour. I made some excuse. But... I know Miyu suspects.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันเดินวนในสวนพฤกษศาสตร์อยู่ชั่วโมงหนึ่ง แล้วหาเรื่องแก้ตัว แต่... ฉันรู้ว่ามิยูสงสัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4BD6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I cannot keep making toys for TranStar when... (deep breath) I told Alex what I want to try.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉันสร้างของเล่นให้ทรานสตาร์ต่อไปไม่ได้เมื่อ... (หายใจลึก) ฉันบอกอเล็กซ์แล้วว่าอยากลองอะไร</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4BDA</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">He gave me a device to help. Parapsychological contraption. </Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เขาให้อุปกรณ์ช่วย เป็นเครื่องมือพาราจิตวิทยา</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4C15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Morgan made it. Some of the components are... beyond me.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">มอร์แกนสร้างมัน ส่วนประกอบบางชิ้น... เกินความเข้าใจฉัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4CA0</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">The same dream again. There is... something wrong with this station. Something here with us... but-</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฝันเดิมอีกแล้ว มี... อะไรผิดปกติกับสถานีนี้ มีบางอย่างอยู่กับเรา... แต่—</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4CB6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I am hallucinating now. There is no question.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ตอนนี้ฉันเห็นภาพหลอนแล้ว ไม่มีข้อสงสัย</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4D13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">I... tried to open the locker, but I could not remember our anniversary.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ฉัน... พยายามเปิดล็อกเกอร์ แต่จำวันครบรอบของเราไม่ได้</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4D20</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">And for a moment, even her name escaped me. Her name!</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">และชั่วครู่หนึ่ง แม้แต่ชื่อเธอก็หลุดจากหัว ชื่อเธอ!</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4D50</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If one day I wake up and cannot even remember the work I am doing - I must give it all to Morgan.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">ถ้าวันหนึ่งฉันตื่นขึ้นมาแล้วจำแม้แต่งานที่กำลังทำไม่ได้ ฉันต้องมอบทุกอย่างให้มอร์แกน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4D5D</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">He will know what to do with it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เขาจะรู้ว่าต้องทำอะไรกับมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4D6E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">She will know what to do with it.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">เธอจะรู้ว่าต้องทำอะไรกับมัน</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4E4E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">First test. Anterior electrodes overheated after six seconds.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">การทดสอบครั้งแรก อิเล็กโทรดด้านหน้าร้อนเกินหลังผ่านไปหกวินาที</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">BDDB548E57AB4E54</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">But... I swear - there was a moment... I saw her again. The day we met on the Costa Amalfi. Her lemon sundress. My Clorinda.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">แต่... ฉันสาบาน มีช่วงหนึ่ง... ฉันเห็นเธออีกครั้ง วันที่เราพบกันที่คอสตาอามาลฟี ชุดเดรสลายเลมอนของเธอ คลอรินดาของฉัน</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
