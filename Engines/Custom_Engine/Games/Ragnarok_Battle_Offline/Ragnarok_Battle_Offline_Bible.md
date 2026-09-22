@@ -188,3 +188,36 @@ In-place ASCII replacement: `Start\0\0\0\0` (9 bytes):
 #### D. Clean Announcement File (`_notice.txt`)
 Placed at `DATA/_notice.txt` (overriding packed `.PAC` version). Formatted with CRLF newlines and clean text, explaining windowed mode settings, Thai mod features, and launch instructions.
 
+---
+
+## 8. Script File & Bytecode Architecture (.FOB)
+
+### 8.1 Overview
+French-Bread Watanabe Seisakujo engine compiles stage logic, NPC chat bubbles, and character skill voice calls into binary `.FOB` files.
+- **Stage Scripts:** `STAGE01.FOB` – `STAGE12.FOB`
+- **Character Scripts:** `NOVICE_M/F.FOB`, `SWORDMAN_M/F.FOB`, `ACOLYTE_M/F.FOB`, `MAGICIAN_M/F.FOB`, `ARCHER_M/F.FOB`, `MERCHANT_M/F.FOB`, `THIEF_M/F.FOB`
+- **Omake & Utility:** `READMAIL.FOB`, `READMAIL2.FOB`, `READMAIL3.FOB`
+
+### 8.2 String Literal Bytecode Structure
+1. **Type A: Opcode `0x00010000` (Compiled String Literal):**
+   - `0x00..0x03`: `uint32 opcode = 0x00010000` (`\x00\x00\x01\x00`)
+   - `0x04..0x07`: `uint32 dword_count = ceil((strlen + 1) / 4)`
+   - `0x08..`: Null-terminated string encoded in Shift-JIS, padded to 4-byte boundary.
+2. **Type B: String Tables (Character Victory Shouts):**
+   - Header with `string_count` followed by total `dword_count`, followed by contiguous null-terminated strings (e.g. `清算\0`, `せいさーん\0`, `おつかれさまでした\0`).
+
+### 8.3 Translation Workspace Categorization (Step 4 Inventory)
+| Category | File | Translatable Strings | Pre-Translated | Status |
+| :--- | :--- | :---: | :---: | :--- |
+| `01_UI_Menu` | `01_title_menu.csv` | 45 | 45 | Verified (Step 3) |
+| `01_UI_Menu` | `02_system_hud.csv` | 20 | 0 | Ready for Step 5 |
+| `01_UI_Menu` | `03_lobby_select.csv` | 12 | 0 | Ready for Step 5 |
+| `02_Stage_Story` | `stage_prologue_and_base.csv` | 1,173 | 0 | Ready for Step 5 |
+| `02_Stage_Story` | `stage_extra_scenarios.csv` | 1,163 | 0 | Ready for Step 5 |
+| `03_Character_Shouts` | `character_skills_and_shouts.csv` | 953 | 0 | Ready for Step 5 |
+| `04_Arena_and_System` | `arena_and_system_messages.csv` | 554 | 0 | Ready for Step 5 |
+| `05_Developer_Letters` | `developer_mail_vol1.csv` | 95 | 0 | Ready for Step 5 |
+| `05_Developer_Letters` | `developer_mail_vol2.csv` | 270 | 0 | Ready for Step 5 |
+| `05_Developer_Letters` | `developer_mail_vol3.csv` | 584 | 0 | Ready for Step 5 |
+| **Total Master** | **`rbo_tstudio_master.csv`** | **4,859** | **45** | **Ready for Batch Translation** |
+
